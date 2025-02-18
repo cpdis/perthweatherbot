@@ -25,7 +25,7 @@ jobs:
         
     - name: Run weather script
       env:
-        OPENAI_API_KEY: ${{ secrets.LLM_API_KEY }}  # For the LLM service
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}  # For OpenAI API
         OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}  # For OpenWeather API
       run: python foggybot.py
       

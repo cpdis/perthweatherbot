@@ -4,14 +4,8 @@ from datetime import datetime
 import llm
 import re
 from pytz import timezone
-from dotenv import load_dotenv
 import os
 from pathlib import Path
-
-# Load environment variables from .env file if it exists
-env_path = Path('.env')
-if env_path.exists():
-    load_dotenv()
 
 class WeatherService:
     def __init__(self):
