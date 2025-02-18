@@ -1,62 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Sausalito",
-            "state": "CA",
-            "latitude": 37.7885,
-            "longitude": -122.4071
+            "name": "Perth",
+            "country": "AU",
+            "latitude": -31.9544,
+            "longitude": 115.8526
         },
         "current_conditions": {
-            "timestamp": "2025-02-18T04:43:00+00:00",
-            "temperature_f": 50.954,
-            "temperature_c": 10.53,
-            "humidity": 74.978727869904,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": ""
+            "timestamp": "2025-02-18T06:23:06",
+            "temperature_c": 25.29,
+            "temperature_f": 77.52199999999999,
+            "humidity": 58,
+            "wind_speed_mph": 18.410510000000002,
+            "wind_direction": 90,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-02-17T22:00:00-08:00",
-                "endTime": "2025-02-18T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "3 to 8 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 46. Northwest wind 3 to 8 mph."
+                "startTime": "2025-02-18T09:00:00",
+                "temperature": 24.98,
+                "windSpeed": 14.965530000000001,
+                "windDirection": 102,
+                "shortForecast": "broken clouds"
             },
             {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-02-18T06:00:00-08:00",
-                "endTime": "2025-02-18T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "2 to 7 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 59, with temperatures falling to around 56 in the afternoon. North wind 2 to 7 mph."
+                "startTime": "2025-02-18T12:00:00",
+                "temperature": 23.01,
+                "windSpeed": 13.981250000000001,
+                "windDirection": 118,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "As night cloaks Downtown San Francisco, the city shimmers under a canopy of disparate lights that reflect a sense of calm and quietude. The forecast reveals a gentle embrace of partly cloudy skies, with the temperature dipping to a cool 46 degrees. A light northwest breeze whispers among the palms, adding a touch of briskness to the evening air. \n\nLooking ahead to Tuesday, a soft dawn approaches with promise, offering a mostly sunny day that warms up to the upper fifties before tempering into the early afternoon. The North wind will keep things refreshingly cool, ensuring the city remains lively yet pleasant\u2014ideal for a stroll through hidden alleys or a leisurely caf\u00e9 visit. Although the fog that often blankets the Bay is yet to make its appearance this evening, the morning may reveal remnants of the marine layer hugging the coast. Best to layer up; a light jacket will accompany you well, serving as a shield against the slight chill that lingers. While the light fades, consider a cozy evening with a cherished book or a piano composition resonating through your spaces, while anticipation for the morrow crystallizes in your mind.",
-    "color_code": "#4A90E2",
-    "timestamp": "2025-02-17 22:01:37"
+    "weather_report": "Perth awakens to a blanket of grey, a soft shroud of broken clouds that drape the city with a subdued charm. The air is cool, infused with a slight chill that hints at the more gloomy overcast approaching during the afternoon. As you look out, the skyline may seem quite the character, drenched in a diffused light struggling to penetrate the thickening gloom. The forecast whispers of a day that won't reveal much sunlight, so keep an eye out for that comforting warmth, now elusive.\n\nOn such a day, the ambience seems to call for cozy layers\u2014think light sweaters or long sleeves as you navigate through your afternoon. Perhaps a stroll along the riverside is in order; the tranquility of the water can be quite an inviting prospect amidst the more subdued atmosphere. Engage with a good book at a nearby caf\u00e9, where the aroma of freshly brewed coffee can simulate the warmth of sunlight, or watch the world go by as the clouds provide a protective embrace. This is a time for reflection rather than robust activity; the city, though lacking radiance, has its own quiet beauty, inviting you to wander slowly, enjoy the nuance, and perhaps find joy in the soft embrace of a wool-knit scarf.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-02-18 14:27:13"
 }
