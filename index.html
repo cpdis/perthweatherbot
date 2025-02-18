@@ -13,7 +13,7 @@
                     document.getElementById('weather-report').innerText = data.weather_report;
                     const options = { year: 'numeric', month: 'long', day: 'numeric', hour: 'numeric', minute: 'numeric'};
                     const formattedTimestamp = new Date(data.timestamp).toLocaleDateString('en-US', options);
-                    document.getElementById('timestamp').innerText = "Generated on " + formattedTimestamp + ", San Francisco time.";
+                    document.getElementById('timestamp').innerText = "Generated on " + formattedTimestamp + ", Perth time.";
                     document.querySelectorAll('.divider').forEach(element => {
                         element.style.backgroundColor = data.color_code;
                     });
@@ -75,9 +75,16 @@ h3 {
 
 /* Container for better readability */
 .container {
-  max-width: 70ch;
+  max-width: 800px;  /* Increased from previous value for better desktop display */
   margin: 0 auto;
   padding: 0 1rem;
+}
+
+@media (min-width: 768px) {
+  .container {
+    padding: 0 2rem;
+    max-width: 1000px;  /* Even wider on larger screens */
+  }
 }
 
 hr {
