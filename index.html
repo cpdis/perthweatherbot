@@ -11,6 +11,7 @@
             --text-color: #222;
             --link-color: #1EAEDB;
             --divider-color: #E1E1E1;
+            --toggle-color: #f0f0f0;
         }
 
         @media (prefers-color-scheme: dark) {
@@ -19,6 +20,7 @@
                 --text-color: #fff;
                 --link-color: #6CE2FF;
                 --divider-color: #444;
+                --toggle-color: #f0f0f0;
             }
         }
 
@@ -27,6 +29,7 @@
             --text-color: #fff;
             --link-color: #6CE2FF;
             --divider-color: #444;
+            --toggle-color: #f0f0f0;
         }
 
         body {
@@ -43,24 +46,6 @@
             border-top: 1px solid var(--divider-color);
         }
 
-        .theme-toggle {
-            position: fixed;
-            top: 1rem;
-            right: 1rem;
-            padding: 8px 16px;
-            border-radius: 20px;
-            background-color: var(--divider-color);
-            border: none;
-            color: var(--text-color);
-            cursor: pointer;
-            transition: background-color 0.3s ease;
-        }
-
-        .theme-toggle:hover {
-            background-color: var(--link-color);
-            color: var(--bg-color);
-        }
-
         .container {
             margin-top: 2rem;
         }
@@ -70,19 +55,155 @@
             height: auto;
             border-radius: 8px;
         }
+
+        /* Theme toggle styles */
+        .theme-toggle {
+            width: 46px;
+            height: 46px;
+            box-sizing: border-box;
+            padding: 12px;
+            background: none;
+            border: none;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: fixed;
+            top: 1rem;
+            right: 1rem;
+            cursor: pointer;
+        }
+
+        .sun {
+            width: 50%;
+            height: 50%;
+            position: absolute;
+            pointer-events: none;
+            opacity: 0;
+            transform: scale(0.6) rotate(0deg);
+            transition: transform 0.3s ease-in, opacity 0.2s ease-in 0.1s;
+            background: radial-gradient(circle, rgba(0, 0, 0, 0) 50%, var(--toggle-color) 50%);
+        }
+
+        .sun:before {
+            content: "";
+            position: absolute;
+            display: block;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(
+                circle,
+                var(--toggle-color) 30%,
+                rgba(0, 0, 0, 0) 31%,
+                rgba(0, 0, 0, 0) 50%,
+                var(--toggle-color) 51%
+            );
+            transform: rotate(45deg);
+        }
+
+        .sun.visible {
+            pointer-events: auto;
+            opacity: 1;
+            transform: scale(1) rotate(180deg);
+            transition: transform 0.3s ease-in, opacity 0.2s ease-in 0.1s;
+        }
+
+        .moon {
+            width: 50%;
+            height: 50%;
+            pointer-events: none;
+            position: absolute;
+            left: 12.5%;
+            top: 18.75%;
+            background-color: rgba(0, 0, 0, 0);
+            border-radius: 50%;
+            box-shadow: 9px 3px 0px 0px var(--toggle-color);
+            opacity: 0;
+            transform: scale(0.3) rotate(65deg);
+            transition: transform 0.3s ease-in, opacity 0.2s ease-in 0.1s;
+        }
+
+        .moon.visible {
+            pointer-events: auto;
+            opacity: 1;
+            transform: scale(1) rotate(0deg);
+            transition: transform 0.3s ease-in, opacity 0.2s ease-in 0.1s;
+        }
+
+        .star {
+            position: absolute;
+            top: 25%;
+            left: 5%;
+            display: block;
+            width: 0px;
+            height: 0px;
+            border-right: 7px solid rgba(0, 0, 0, 0);
+            border-bottom: 5px solid var(--toggle-color);
+            border-left: 7px solid rgba(0, 0, 0, 0);
+            transform: scale(0.55) rotate(35deg);
+            opacity: 0;
+            transition: all 0.2s ease-in 0.4s;
+        }
+
+        .star:before {
+            border-bottom: 5px solid var(--toggle-color);
+            border-left: 3px solid rgba(0, 0, 0, 0);
+            border-right: 3px solid rgba(0, 0, 0, 0);
+            position: absolute;
+            height: 0;
+            width: 0;
+            top: -3px;
+            left: -5px;
+            display: block;
+            content: "";
+            transform: rotate(-35deg);
+        }
+
+        .star:after {
+            position: absolute;
+            display: block;
+            top: 0px;
+            left: -7px;
+            width: 0px;
+            height: 0px;
+            border-right: 7px solid rgba(0, 0, 0, 0);
+            border-bottom: 5px solid var(--toggle-color);
+            border-left: 7px solid rgba(0, 0, 0, 0);
+            transform: rotate(-70deg);
+            content: "";
+        }
+
+        .star.small {
+            transform: scale(0.35) rotate(35deg);
+            opacity: 0;
+            transition: all 0.2s ease-in 0.45s;
+        }
+
+        .moon.visible .star {
+            opacity: 0.8;
+        }
+
+        .moon.visible .star.small {
+            opacity: 0.7;
+            transform: scale(0.45) rotate(35deg);
+        }
     </style>
     <script>
         function setTheme(theme) {
             document.documentElement.setAttribute('data-theme', theme);
             localStorage.setItem('theme', theme);
-            updateThemeButton();
+            updateThemeIcons(theme);
         }
 
-        function updateThemeButton() {
-            const currentTheme = localStorage.getItem('theme') || 'system';
-            const button = document.getElementById('theme-toggle');
-            if (button) {
-                button.textContent = `Theme: ${currentTheme.charAt(0).toUpperCase() + currentTheme.slice(1)}`;
+        function updateThemeIcons(theme) {
+            const sun = document.querySelector(".sun");
+            const moon = document.querySelector(".moon");
+            
+            if (theme === 'dark' || (theme === 'system' && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+                sun.classList.remove('visible');
+                moon.classList.add('visible');
+            } else {
+                sun.classList.add('visible');
+                moon.classList.remove('visible');
             }
         }
 
@@ -97,6 +218,13 @@
             // Set initial theme
             const savedTheme = localStorage.getItem('theme') || 'system';
             setTheme(savedTheme);
+
+            // Listen for system theme changes
+            window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
+                if (document.documentElement.getAttribute('data-theme') === 'system') {
+                    updateThemeIcons('system');
+                }
+            });
 
             // Fetch weather data
             fetch('weather_report.json')
@@ -120,7 +248,13 @@
     <!-- / Fathom -->
 </head>
 <body>
-    <button id="theme-toggle" class="theme-toggle" onclick="cycleTheme()">Theme: System</button>
+    <button class="theme-toggle" aria-label="Toggle color mode" title="Toggle color mode" onclick="cycleTheme()">
+        <div class="sun visible"></div>
+        <div class="moon">
+            <div class="star"></div>
+            <div class="star small"></div>
+        </div>
+    </button>
     <div class="container">
         <h1 id="location-title">Loading Weather Vibes...</h1>
         <hr class="divider">
