@@ -89,9 +89,20 @@ class WeatherService:
         return formatted_periods
 
 if __name__ == "__main__":
-    # Perth, Australia coordinates
-    PERTH_LAT = -31.9544
-    PERTH_LON = 115.8526
+    # Read location from location.json
+    location_file = Path(__file__).parent / "location.json"
+    try:
+        with open(location_file, 'r') as f:
+            location_data = json.load(f)
+            current_lat = location_data['latitude']
+            current_lon = location_data['longitude']
+            location_name = location_data.get('location_name', 'Current Location')
+    except (FileNotFoundError, json.JSONDecodeError, KeyError) as e:
+        print(f"Error reading location data: {e}")
+        # Fallback to Perth coordinates if there's an error
+        current_lat = -31.9544
+        current_lon = 115.8526
+        location_name = "Perth, Australia"
     
     # Configure OpenAI API key for llm
     os.environ["OPENAI_API_KEY"] = os.getenv('OPENAI_API_KEY')
@@ -99,10 +110,21 @@ if __name__ == "__main__":
         raise ValueError("OpenAI API key not found in environment variables")
     
     weather = WeatherService()
-    weather_data = weather.get_weather_data(PERTH_LAT, PERTH_LON)
+    
+    # Get weather data for current location
+    weather_data = weather.get_weather_data(current_lat, current_lon)
     
     if weather_data:
-        forecasts = "Below is the weather forecast for Perth, Australia: \n"
+        # Update the weather report
+        model = llm.get_model("gpt-4")
+        
+        # Generate weather report
+        prompt = f"""You are a weather reporter with a fun, quirky personality. 
+        Create a brief weather report for {location_name} based on this data: {json.dumps(weather_data)}.
+        Include both Celsius and Fahrenheit temperatures. Keep it casual and engaging.
+        Mention interesting observations about wind, humidity, or upcoming changes if relevant."""
+        
+        forecasts = "Below is the weather forecast for " + location_name + ": \n"
         for period in weather_data['forecast']:
             forecasts = forecasts + "\n - " + period['startTime'] + ": " + period['shortForecast']
 
@@ -112,7 +134,7 @@ if __name__ == "__main__":
 
         forecasts += f"\n\nCurrent local time: {perth_time}"
         
-        forecasts += "\n\nReview the weather forecast and assess the weather, specifically looking for how sunny it will be and the UV index, the clarity of the day, and more.\n\nConsidering the weather forecast, please write a weather report for Perth, Australia capturing the current conditions; the expected weather for the day; how pleasant or unpleasant it looks; how one might best dress for the weather; and what one might do given the conditions, day, and time. Remember: you will generate this report many times a day, your recommended activities should be relatively mundane and not too cliche or stereotypical."
+        forecasts += "\n\nReview the weather forecast and assess the weather, specifically looking for how sunny it will be and the UV index, the clarity of the day, and more.\n\nConsidering the weather forecast, please write a weather report for " + location_name + " capturing the current conditions; the expected weather for the day; how pleasant or unpleasant it looks; how one might best dress for the weather; and what one might do given the conditions, day, and time. Remember: you will generate this report many times a day, your recommended activities should be relatively mundane and not too cliche or stereotypical."
 
         forecasts += "\n\nDo not use headers or other formatting in your response. Just write one to two single paragraphs that are elegant, don't use bullet points or exclamation marks, and use emotive words more often than numbers and figures – but don't be flowery. You write like a novelist describing the scene, producing a work suitable for someone calmly reading it on a classical radio station between songs. With a style somewhere between Jack Kerouac and J. Peterman."
 
@@ -120,7 +142,6 @@ if __name__ == "__main__":
 
         forecasts += "\n\nAfter the weather report, please put an HTML color code that best represents the weather forecast, time of day."
 
-        model = llm.get_model("gpt-4o")
         response = model.prompt(
             forecasts,
             attachments=[]  # No camera attachments needed for Perth
