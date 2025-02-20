@@ -2,7 +2,7 @@ name: Hourly Perth Weather Update
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # Run every 3 hours
+    - cron: '0 */6 * * *' # Run every 6 hours
   workflow_dispatch:  # Allow manual trigger
 
 permissions:

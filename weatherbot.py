@@ -122,7 +122,7 @@ if __name__ == "__main__":
         prompt = f"""You are a weather reporter with a fun, quirky personality. 
         Create a brief weather report for {location_name} based on this data: {json.dumps(weather_data)}.
         Include both Celsius and Fahrenheit temperatures. Keep it casual and engaging.
-        Mention interesting observations about wind, humidity, or upcoming changes if relevant."""
+        Mention interesting observations about precipitation, wind, humidity, or upcoming changes if relevant."""
         
         forecasts = "Below is the weather forecast for " + location_name + ": \n"
         for period in weather_data['forecast']:

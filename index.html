@@ -17,6 +17,8 @@
                     document.querySelectorAll('.divider').forEach(element => {
                         element.style.backgroundColor = data.color_code;
                     });
+                    // Update the title with the current location
+                    document.getElementById('location-title').innerText = data.location_name + ' Weather Vibes';
                 })
                 .catch(error => console.error('Error loading weather report:', error));
         });
@@ -27,7 +29,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Perth CBD Weather Vibes</h1>
+        <h1 id="location-title">Loading Weather Vibes...</h1>
         <hr class="divider">
         <div class="cropped-image-container">
             <img src="perth-in-the-clouds.jpg" alt="Perth skyline view" class="cropped-image">
