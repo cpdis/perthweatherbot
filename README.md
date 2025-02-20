@@ -40,7 +40,7 @@ The application is pre-configured with:
 
 2. Run the Python script:
 ```bash
-python foggybot.py
+python weatherbot.py
 ```
 
 3. The script will generate a `weather_report.json` file containing:

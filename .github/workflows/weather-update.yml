@@ -32,7 +32,7 @@ jobs:
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}  # For OpenAI API
         OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}  # For OpenWeather API
-      run: python foggybot.py
+      run: python weatherbot.py
       
     - name: Commit and push if changes
       run: |

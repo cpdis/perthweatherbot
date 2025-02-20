@@ -112,11 +112,11 @@ if __name__ == "__main__":
 
         forecasts += f"\n\nCurrent local time: {perth_time}"
         
-        forecasts += "\n\nReview the weather forecast and assess the weather, specifically looking for where any fog is, the clarity of the day, and more.\n\nConsidering the weather forecast, please write a weather report for Perth, Australia capturing the current conditions; the expected weather for the day; how pleasant or unpleasant it looks; how one might best dress for the weather; and what one might do given the conditions, day, and time. Remember: you will generate this report many times a day, your recommended activities should be relatively mundane and not too cliche or stereotypical."
+        forecasts += "\n\nReview the weather forecast and assess the weather, specifically looking for how sunny it will be and the UV index, the clarity of the day, and more.\n\nConsidering the weather forecast, please write a weather report for Perth, Australia capturing the current conditions; the expected weather for the day; how pleasant or unpleasant it looks; how one might best dress for the weather; and what one might do given the conditions, day, and time. Remember: you will generate this report many times a day, your recommended activities should be relatively mundane and not too cliche or stereotypical."
 
         forecasts += "\n\nDo not use headers or other formatting in your response. Just write one to two single paragraphs that are elegant, don't use bullet points or exclamation marks, and use emotive words more often than numbers and figures – but don't be flowery. You write like a novelist describing the scene, producing a work suitable for someone calmly reading it on a classical radio station between songs. With a style somewhere between Jack Kerouac and J. Peterman."
 
-        forecasts += "\n\nRemember to keep the response under 500 words."
+        forecasts += "\n\nRemember to keep the response under 400 words."
 
         forecasts += "\n\nAfter the weather report, please put an HTML color code that best represents the weather forecast, time of day."
 
