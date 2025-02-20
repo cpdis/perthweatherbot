@@ -14,13 +14,14 @@ class WeatherService:
         if not self.api_key:
             raise ValueError("OpenWeather API key not found in environment variables")
 
-    def get_weather_data(self, latitude: float, longitude: float) -> dict:
+    def get_weather_data(self, latitude: float, longitude: float, location_name: str) -> dict:
         """
         Fetches weather data from OpenWeather API for a specific latitude/longitude
         
         Args:
             latitude (float): Latitude coordinate
             longitude (float): Longitude coordinate
+            location_name (str): Custom location name
             
         Returns:
             dict: Dictionary containing weather data and forecast
@@ -41,7 +42,7 @@ class WeatherService:
             # Format the response
             weather_data = {
                 'location': {
-                    'name': current_data['name'],
+                    'name': location_name,
                     'country': current_data['sys']['country'],
                     'latitude': latitude,
                     'longitude': longitude
@@ -112,7 +113,7 @@ if __name__ == "__main__":
     weather = WeatherService()
     
     # Get weather data for current location
-    weather_data = weather.get_weather_data(current_lat, current_lon)
+    weather_data = weather.get_weather_data(current_lat, current_lon, location_name)
     
     if weather_data:
         # Update the weather report
