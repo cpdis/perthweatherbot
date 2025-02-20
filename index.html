@@ -1,12 +1,104 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css" integrity="sha512-EZLkOqwILORob+p0BXZc+Vm3RgJBOe1Iq/0fiI7r/wJgzOFZMlsqTa29UEl6v6U6gsV4uIpsNZoV32YZqrCRCQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <title>Weather Report</title>
+    <style>
+        :root {
+            --bg-color: #fff;
+            --text-color: #222;
+            --link-color: #1EAEDB;
+            --divider-color: #E1E1E1;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root[data-theme="system"] {
+                --bg-color: #222;
+                --text-color: #fff;
+                --link-color: #6CE2FF;
+                --divider-color: #444;
+            }
+        }
+
+        :root[data-theme="dark"] {
+            --bg-color: #222;
+            --text-color: #fff;
+            --link-color: #6CE2FF;
+            --divider-color: #444;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        a {
+            color: var(--link-color);
+        }
+
+        .divider {
+            border-top: 1px solid var(--divider-color);
+        }
+
+        .theme-toggle {
+            position: fixed;
+            top: 1rem;
+            right: 1rem;
+            padding: 8px 16px;
+            border-radius: 20px;
+            background-color: var(--divider-color);
+            border: none;
+            color: var(--text-color);
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .theme-toggle:hover {
+            background-color: var(--link-color);
+            color: var(--bg-color);
+        }
+
+        .container {
+            margin-top: 2rem;
+        }
+
+        .cropped-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+    </style>
     <script>
+        function setTheme(theme) {
+            document.documentElement.setAttribute('data-theme', theme);
+            localStorage.setItem('theme', theme);
+            updateThemeButton();
+        }
+
+        function updateThemeButton() {
+            const currentTheme = localStorage.getItem('theme') || 'system';
+            const button = document.getElementById('theme-toggle');
+            if (button) {
+                button.textContent = `Theme: ${currentTheme.charAt(0).toUpperCase() + currentTheme.slice(1)}`;
+            }
+        }
+
+        function cycleTheme() {
+            const themes = ['system', 'light', 'dark'];
+            const currentTheme = localStorage.getItem('theme') || 'system';
+            const nextTheme = themes[(themes.indexOf(currentTheme) + 1) % themes.length];
+            setTheme(nextTheme);
+        }
+
         document.addEventListener('DOMContentLoaded', function() {
+            // Set initial theme
+            const savedTheme = localStorage.getItem('theme') || 'system';
+            setTheme(savedTheme);
+
+            // Fetch weather data
             fetch('weather_report.json')
                 .then(response => response.json())
                 .then(data => {
@@ -28,6 +120,7 @@
     <!-- / Fathom -->
 </head>
 <body>
+    <button id="theme-toggle" class="theme-toggle" onclick="cycleTheme()">Theme: System</button>
     <div class="container">
         <h1 id="location-title">Loading Weather Vibes...</h1>
         <hr class="divider">
@@ -49,8 +142,6 @@
 body {
   font-family: monospace;
   line-height: 1.6;
-  color: #2d2d2d;
-  background-color: #ffffff;
   padding: 1rem;
   font-weight: 400;
   
@@ -64,7 +155,6 @@ h1 {
   margin: 2rem 0 1.5rem;
   margin-top: 3em;
   font-weight: 700;
-  color: #1a1a1a;
   letter-spacing: -0.02em;
 }
 
@@ -73,7 +163,6 @@ h3 {
   font-size: clamp(1.2rem, 2vw, 1.5rem);
   line-height: 1.2;
   font-style: italic;
-  color: #666;
   letter-spacing: -0.02em;
 }
 
