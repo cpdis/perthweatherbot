@@ -197,7 +197,7 @@
         /* Heading styles */
         h1 {
             font-family: monospace; /* Ensure monospace font */
-            font-size: clamp(2.4rem, 5vw, 4rem);
+            font-size: clamp(2rem, 5vw, 3rem);
             line-height: 1.2;
             margin: 0;
             font-weight: 700;
@@ -381,12 +381,14 @@
         <div id="weather-report">
             <!-- Weather report content will be inserted here -->
         </div>
+        <hr class="divider">
         <div class="audio-container">
             <button class="play-button" onclick="toggleAudio()">
                 <i class="fas fa-play" id="play-icon"></i>
             </button>
             <audio id="weather-audio" src="forecast.mp3" preload="auto"></audio>
         </div>
+        <hr class="divider">
         <div id="footer">
             <p id="timestamp">Loading...</p>
             <p>By <a href="https://www.colindismuke.com">Colin Dismuke</a>. Powered by the <a href="https://openweathermap.org/">OpenWeather API</a>, <a href="https://llm.datasette.io/en/stable/">llm</a>, and vibes.</p>
