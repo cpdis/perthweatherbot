@@ -1,6 +1,6 @@
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timezone as tz
 import llm
 import re
 from pytz import timezone
@@ -56,7 +56,7 @@ class WeatherService:
                     'longitude': longitude
                 },
                 'current_conditions': {
-                    'timestamp': datetime.utcfromtimestamp(current_data['dt']).isoformat(),
+                    'timestamp': datetime.fromtimestamp(current_data['dt'], tz.utc).isoformat(),
                     'temperature_c': current_data['main']['temp'],
                     'temperature_f': self._celsius_to_fahrenheit(current_data['main']['temp']),
                     'humidity': current_data['main']['humidity'],
@@ -89,7 +89,7 @@ class WeatherService:
         formatted_periods = []
         for period in forecast_periods:
             formatted_periods.append({
-                'startTime': datetime.utcfromtimestamp(period['dt']).isoformat(),
+                'startTime': datetime.fromtimestamp(period['dt'], tz.utc).isoformat(),
                 'temperature': period['main']['temp'],
                 'windSpeed': self._ms_to_mph(period['wind']['speed']),
                 'windDirection': period['wind']['deg'],
