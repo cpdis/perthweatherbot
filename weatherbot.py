@@ -141,7 +141,7 @@ if __name__ == "__main__":
 
         forecasts += "\n\nRemember to keep the response under 300 words."
 
-        forecasts += "\n\nAfter the weather report, please put an HTML color code that best represents the weather forecast, time of day."
+        forecasts += "\n\nAfter the weather report, please put an HTML color code that best represents the weather forecast, time of day. Do not actually put the words HTML color code anywhere in the text."
 
         response = model.prompt(
             forecasts,

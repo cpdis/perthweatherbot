@@ -11,7 +11,7 @@
             --text-color: #222;
             --link-color: #1EAEDB;
             --divider-color: #E1E1E1;
-            --toggle-color: #f0f0f0;
+            --toggle-color: #222;
         }
 
         @media (prefers-color-scheme: dark) {
@@ -20,7 +20,7 @@
                 --text-color: #fff;
                 --link-color: #6CE2FF;
                 --divider-color: #444;
-                --toggle-color: #f0f0f0;
+                --toggle-color: #fff;
             }
         }
 
@@ -29,7 +29,7 @@
             --text-color: #fff;
             --link-color: #6CE2FF;
             --divider-color: #444;
-            --toggle-color: #f0f0f0;
+            --toggle-color: #fff;
         }
 
         body {
@@ -67,10 +67,10 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            position: fixed;
-            top: 1rem;
-            right: 1rem;
+            position: relative;
             cursor: pointer;
+            margin-left: auto;
+            margin-bottom: 1rem;
         }
 
         .sun {
@@ -223,17 +223,17 @@
     <!-- / Fathom -->
 </head>
 <body>
-    <button class="theme-toggle" aria-label="Toggle color mode" title="Toggle color mode" onclick="cycleTheme()">
-        <div class="sun visible"></div>
-        <div class="moon">
-            <div class="star"></div>
-            <div class="star"></div>
-            <div class="star"></div>
-            <div class="star"></div>
-            <div class="star"></div>
-        </div>
-    </button>
     <div class="container">
+        <button class="theme-toggle" aria-label="Toggle color mode" title="Toggle color mode" onclick="cycleTheme()">
+            <div class="sun visible"></div>
+            <div class="moon">
+                <div class="star"></div>
+                <div class="star"></div>
+                <div class="star"></div>
+                <div class="star"></div>
+                <div class="star"></div>
+            </div>
+        </button>
         <h1 id="location-title">Loading Weather Vibes...</h1>
         <hr class="divider">
         <div class="cropped-image-container">
