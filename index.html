@@ -33,6 +33,7 @@
         }
 
         body {
+            font-family: monospace; /* Ensure monospace font */
             background-color: var(--bg-color);
             color: var(--text-color);
             transition: background-color 0.3s ease, color 0.3s ease;
@@ -80,7 +81,12 @@
             opacity: 0;
             transform: scale(0.6) rotate(0deg);
             transition: transform 0.3s ease-in, opacity 0.2s ease-in 0.1s;
-            background: radial-gradient(circle, rgba(0, 0, 0, 0) 50%, var(--toggle-color) 50%);
+            background: radial-gradient(
+                circle,
+                rgba(0, 0, 0, 0),
+                rgba(0, 0, 0, 0) 50%,
+                var(--toggle-color) 50%
+            );
         }
 
         .sun:before {
@@ -94,7 +100,7 @@
                 var(--toggle-color) 30%,
                 rgba(0, 0, 0, 0) 31%,
                 rgba(0, 0, 0, 0) 50%,
-                var(--toggle-color) 51%
+                var(--toggle-color) 50%
             );
             transform: rotate(45deg);
         }
@@ -121,8 +127,18 @@
             transition: transform 0.3s ease-in, opacity 0.2s ease-in 0.1s;
         }
 
+        .moon.visible {
+            pointer-events: auto;
+            opacity: 1;
+            transform: scale(1) rotate(0deg);
+            transition: transform 0.3s ease-in, opacity 0.2s ease-in 0.1s;
+        }
+
         .star {
             position: absolute;
+            top: 25%;
+            left: 5%;
+            display: block;
             width: 0px;
             height: 0px;
             border-right: 7px solid rgba(0, 0, 0, 0);
@@ -133,23 +149,51 @@
             transition: all 0.2s ease-in 0.4s;
         }
 
-        /* Position the stars */
-        .star:nth-child(1) { top: 25%; left: 5%; }
-        .star:nth-child(2) { top: 15%; left: 65%; transform: scale(0.35) rotate(35deg); }
-        .star:nth-child(3) { top: 45%; left: 75%; transform: scale(0.45) rotate(15deg); }
-        .star:nth-child(4) { top: 55%; left: 35%; transform: scale(0.3) rotate(45deg); }
-        .star:nth-child(5) { top: 35%; left: 85%; transform: scale(0.4) rotate(25deg); }
+        .star:before {
+            border-bottom: 5px solid var(--toggle-color);
+            border-left: 3px solid rgba(0, 0, 0, 0);
+            border-right: 3px solid rgba(0, 0, 0, 0);
+            position: absolute;
+            height: 0;
+            width: 0;
+            top: -3px;
+            left: -5px;
+            display: block;
+            content: "";
+            transform: rotate(-35deg);
+        }
+
+        .star:after {
+            position: absolute;
+            display: block;
+            top: 0px;
+            left: -7px;
+            width: 0px;
+            height: 0px;
+            border-right: 7px solid rgba(0, 0, 0, 0);
+            border-bottom: 5px solid var(--toggle-color);
+            border-left: 7px solid rgba(0, 0, 0, 0);
+            transform: rotate(-70deg);
+            content: "";
+        }
 
         .moon.visible .star {
             opacity: 0.8;
-            transition: opacity 0.3s ease-in 0.4s, transform 0.3s ease-in;
         }
 
-        /* Vary star opacities for depth */
-        .moon.visible .star:nth-child(2) { opacity: 0.6; }
-        .moon.visible .star:nth-child(3) { opacity: 0.7; }
-        .moon.visible .star:nth-child(4) { opacity: 0.5; }
-        .moon.visible .star:nth-child(5) { opacity: 0.65; }
+        .star.small {
+            transform: scale(0.35) rotate(35deg);
+            position: relative;
+            top: 50%;
+            left: 37.5%;
+            opacity: 0;
+            transition: all 0.2s ease-in 0.45s;
+        }
+
+        .moon.visible .star.small {
+            opacity: 0.7;
+            transform: scale(0.45) rotate(35deg);
+        }
 
         .header-container {
             display: flex;
@@ -161,7 +205,7 @@
 
         /* Heading styles */
         h1 {
-            font-family: monospace;
+            font-family: monospace; /* Ensure monospace font */
             font-size: clamp(2.4rem, 5vw, 4rem);
             line-height: 1.2;
             margin: 0;
@@ -170,7 +214,7 @@
         }
 
         h3 {
-            font-family: monospace;
+            font-family: monospace; /* Ensure monospace font */
             font-size: clamp(1.2rem, 2vw, 1.5rem);
             line-height: 1.2;
             font-style: italic;
@@ -239,10 +283,10 @@
         }
 
         function updateThemeIcons(theme) {
-            const sun = document.querySelector(".sun");
-            const moon = document.querySelector(".moon");
+            const sun = document.querySelector('.sun');
+            const moon = document.querySelector('.moon');
             
-            if (theme === 'dark' || (theme === 'system' && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            if (theme === 'dark' || (theme === 'system' && systemThemeMedia.matches)) {
                 sun.classList.remove('visible');
                 moon.classList.add('visible');
             } else {
@@ -252,8 +296,8 @@
         }
 
         function cycleTheme() {
-            const themes = ['system', 'light', 'dark'];
             const currentTheme = localStorage.getItem('theme') || 'system';
+            const themes = ['light', 'dark', 'system'];
             const nextTheme = themes[(themes.indexOf(currentTheme) + 1) % themes.length];
             setTheme(nextTheme);
         }
@@ -263,7 +307,7 @@
             const savedTheme = localStorage.getItem('theme') || 'system';
             setTheme(savedTheme);
 
-            // Listen for system theme changes
+            // Handle system theme changes
             const systemThemeMedia = window.matchMedia('(prefers-color-scheme: dark)');
             
             function handleSystemThemeChange(e) {
@@ -306,13 +350,10 @@
         <div class="header-container">
             <h1 id="location-title">Loading Weather Vibes...</h1>
             <button class="theme-toggle" aria-label="Toggle color mode" title="Toggle color mode" onclick="cycleTheme()">
-                <div class="sun visible"></div>
+                <div class="sun"></div>
                 <div class="moon">
                     <div class="star"></div>
-                    <div class="star"></div>
-                    <div class="star"></div>
-                    <div class="star"></div>
-                    <div class="star"></div>
+                    <div class="star small"></div>
                 </div>
             </button>
         </div>
