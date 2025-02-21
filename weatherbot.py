@@ -157,8 +157,8 @@ def generate_audio_forecast(forecast_text: str) -> bool:
             on_open=on_open
         )
 
-        # Run WebSocket connection with a timeout
-        ws.run_forever(timeout=30)
+        # Run WebSocket connection
+        ws.run_forever()  
 
         if not audio_chunks:
             logger.error("No audio data received")
