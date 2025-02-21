@@ -14,16 +14,6 @@
             --toggle-color: #222;
         }
 
-        @media (prefers-color-scheme: dark) {
-            :root[data-theme="system"] {
-                --bg-color: #222;
-                --text-color: #fff;
-                --link-color: #6CE2FF;
-                --divider-color: #444;
-                --toggle-color: #fff;
-            }
-        }
-
         :root[data-theme="dark"] {
             --bg-color: #222;
             --text-color: #fff;
@@ -276,6 +266,8 @@
         }
     </style>
     <script>
+        const systemThemeMedia = window.matchMedia('(prefers-color-scheme: dark)');
+        
         function setTheme(theme) {
             document.documentElement.setAttribute('data-theme', theme);
             localStorage.setItem('theme', theme);
@@ -286,7 +278,7 @@
             const sun = document.querySelector('.sun');
             const moon = document.querySelector('.moon');
             
-            if (theme === 'dark' || (theme === 'system' && systemThemeMedia.matches)) {
+            if (theme === 'dark') {
                 sun.classList.remove('visible');
                 moon.classList.add('visible');
             } else {
@@ -296,33 +288,16 @@
         }
 
         function cycleTheme() {
-            const currentTheme = localStorage.getItem('theme') || 'system';
-            const themes = ['light', 'dark', 'system'];
-            const nextTheme = themes[(themes.indexOf(currentTheme) + 1) % themes.length];
+            const currentTheme = localStorage.getItem('theme') || (systemThemeMedia.matches ? 'dark' : 'light');
+            const nextTheme = currentTheme === 'light' ? 'dark' : 'light';
             setTheme(nextTheme);
         }
 
         document.addEventListener('DOMContentLoaded', function() {
-            // Set initial theme
-            const savedTheme = localStorage.getItem('theme') || 'system';
-            setTheme(savedTheme);
-
-            // Handle system theme changes
-            const systemThemeMedia = window.matchMedia('(prefers-color-scheme: dark)');
-            
-            function handleSystemThemeChange(e) {
-                const currentTheme = localStorage.getItem('theme') || 'system';
-                if (currentTheme === 'system') {
-                    updateThemeIcons('system');
-                    // Also update the CSS theme
-                    document.documentElement.setAttribute('data-theme', 'system');
-                }
-            }
-
-            // Remove old listener if it exists (for hot reloading)
-            systemThemeMedia.removeEventListener('change', handleSystemThemeChange);
-            // Add the listener
-            systemThemeMedia.addEventListener('change', handleSystemThemeChange);
+            // Set initial theme based on system preference if no theme is saved
+            const savedTheme = localStorage.getItem('theme');
+            const initialTheme = savedTheme || (systemThemeMedia.matches ? 'dark' : 'light');
+            setTheme(initialTheme);
 
             // Fetch weather data
             fetch('weather_report.json')
