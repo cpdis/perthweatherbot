@@ -266,6 +266,61 @@
             margin-bottom: 2em;
         }
 
+        /* Audio control styles */
+        .play-button {
+            font-size: 2.5rem; /* Increased size */
+            cursor: pointer;
+            transition: transform 0.3s ease;
+        }
+
+        .play-button:hover {
+            transform: scale(1.1);
+        }
+
+        .waveform-container {
+            width: 50%;
+            height: 60px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            transition: opacity 0.5s ease;
+        }
+
+        .waveform-container.active {
+            opacity: 1;
+        }
+
+        .bar {
+            width: 3px;
+            height: 20px;
+            margin: 0 2px;
+            background-color: var(--text-color);
+            animation: wave 1s ease-in-out infinite;
+        }
+
+        @keyframes wave {
+            0%, 100% {
+                height: 20px;
+            }
+            50% {
+                height: 40px;
+            }
+        }
+
+        /* Different animation delays for each bar */
+        .bar:nth-child(1) { animation-delay: 0.0s; }
+        .bar:nth-child(2) { animation-delay: 0.1s; }
+        .bar:nth-child(3) { animation-delay: 0.2s; }
+        .bar:nth-child(4) { animation-delay: 0.3s; }
+        .bar:nth-child(5) { animation-delay: 0.4s; }
+        .bar:nth-child(6) { animation-delay: 0.5s; }
+        .bar:nth-child(7) { animation-delay: 0.6s; }
+        .bar:nth-child(8) { animation-delay: 0.7s; }
+        .bar:nth-child(9) { animation-delay: 0.8s; }
+        .bar:nth-child(10) { animation-delay: 0.9s; }
+
         /* Audio player styles */
         .audio-container {
             display: flex;
@@ -273,24 +328,6 @@
             align-items: center;
             gap: 1rem;
             margin: 2rem 0;
-        }
-
-        .play-button {
-            background: none;
-            border: none;
-            color: var(--text-color);
-            cursor: pointer;
-            font-size: 1.5rem;
-            padding: 0.5rem;
-            transition: color 0.3s ease;
-        }
-
-        .play-button:hover {
-            color: var(--link-color);
-        }
-
-        .play-button:focus {
-            outline: none;
         }
 
         audio {
@@ -383,9 +420,21 @@
         </div>
         <hr class="divider">
         <div class="audio-container">
-            <button class="play-button" onclick="toggleAudio()">
-                <i class="fas fa-play" id="play-icon"></i>
-            </button>
+            <div class="twelve columns" style="text-align: center;">
+                <i id="playButton" class="fa-solid fa-play play-button" onclick="toggleAudio()"></i>
+                <div class="waveform-container">
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                </div>
+            </div>
             <audio id="weather-audio" src="forecast.mp3" preload="auto"></audio>
         </div>
         <hr class="divider">
@@ -399,24 +448,27 @@
     <script>
         // Audio player functionality
         let audio = document.getElementById('weather-audio');
-        let playButton = document.querySelector('.play-button i');
+        let playButton = document.querySelector('.play-button');
 
         function toggleAudio() {
             if (audio.paused) {
                 audio.play();
                 playButton.classList.remove('fa-play');
                 playButton.classList.add('fa-pause');
+                document.querySelector('.waveform-container').classList.add('active');
             } else {
                 audio.pause();
                 playButton.classList.remove('fa-pause');
                 playButton.classList.add('fa-play');
+                document.querySelector('.waveform-container').classList.remove('active');
             }
         }
 
-        // Reset play button when audio ends
+        // Reset play button and waveform when audio ends
         audio.addEventListener('ended', function() {
             playButton.classList.remove('fa-pause');
             playButton.classList.add('fa-play');
+            document.querySelector('.waveform-container').classList.remove('active');
         });
     </script>
 </body>
