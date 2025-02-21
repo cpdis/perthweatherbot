@@ -6,6 +6,14 @@ import re
 from pytz import timezone
 import os
 from pathlib import Path
+import time
+import logging
+import websocket
+import base64
+
+# Configure logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 class WeatherService:
     def __init__(self):
@@ -89,6 +97,86 @@ class WeatherService:
             })
         return formatted_periods
 
+def generate_audio_forecast(forecast_text: str) -> bool:
+    """
+    Generates audio file from forecast text using Eleven Labs API via websockets
+    
+    Args:
+        forecast_text (str): The weather forecast text
+        
+    Returns:
+        bool: True if audio generation was successful, False otherwise
+    """
+    try:
+        api_key = os.getenv('ELEVENLABS_API_KEY')
+        if not api_key:
+            logger.error("Eleven Labs API key not found in environment variables")
+            return False
+
+        # Prepare the request data
+        request_data = {
+            "text": forecast_text,
+            "model_id": "eleven_multilingual_v2",
+            "voice_id": "NOpBlnGInO9m6vDvFkFC",
+            "optimize_streaming_latency": 0
+        }
+
+        # Initialize audio buffer
+        audio_chunks = []
+
+        def on_message(ws, message):
+            try:
+                # Parse the BinaryMessage
+                data = json.loads(message)
+                if "audio" in data:
+                    # Decode base64 audio data
+                    audio_chunk = base64.b64decode(data["audio"])
+                    audio_chunks.append(audio_chunk)
+            except json.JSONDecodeError:
+                # If message is binary, it's an audio chunk
+                audio_chunks.append(message)
+
+        def on_error(ws, error):
+            logger.error(f"WebSocket error: {error}")
+
+        def on_close(ws, close_status_code, close_msg):
+            logger.info("WebSocket connection closed")
+
+        def on_open(ws):
+            logger.info("WebSocket connection opened")
+            # Send the initial request
+            ws.send(json.dumps(request_data))
+
+        # Create WebSocket connection
+        ws = websocket.WebSocketApp(
+            f"wss://api.elevenlabs.io/v1/text-to-speech/{request_data['voice_id']}/stream-input?model_id={request_data['model_id']}",
+            header={"xi-api-key": api_key},
+            on_message=on_message,
+            on_error=on_error,
+            on_close=on_close,
+            on_open=on_open
+        )
+
+        # Run WebSocket connection with a timeout
+        ws.run_forever(timeout=30)
+
+        if not audio_chunks:
+            logger.error("No audio data received")
+            return False
+
+        # Combine audio chunks and save to file
+        audio_path = Path(__file__).parent / "forecast.mp3"
+        with open(audio_path, "wb") as audio_file:
+            for chunk in audio_chunks:
+                audio_file.write(chunk)
+
+        logger.info("Successfully generated audio forecast")
+        return True
+
+    except Exception as e:
+        logger.error(f"Error generating audio forecast: {str(e)}")
+        return False
+
 if __name__ == "__main__":
     # Read location from location.json
     location_file = Path(__file__).parent / "location.json"
@@ -167,3 +255,5 @@ if __name__ == "__main__":
 
         with open("weather_report.json", "w") as f:
             json.dump(result, f, indent=4)
+        
+        generate_audio_forecast(response)

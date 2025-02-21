@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css" integrity="sha512-EZLkOqwILORob+p0BXZc+Vm3RgJBOe1Iq/0fiI7r/wJgzOFZMlsqTa29UEl6v6U6gsV4uIpsNZoV32YZqrCRCQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <title>Weather Report</title>
     <style>
         :root {
@@ -264,6 +265,50 @@
             line-height: 1.6;
             margin-bottom: 2em;
         }
+
+        /* Audio player styles */
+        .audio-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+
+        .play-button {
+            background: none;
+            border: none;
+            color: var(--text-color);
+            cursor: pointer;
+            font-size: 1.5rem;
+            padding: 0.5rem;
+            transition: color 0.3s ease;
+        }
+
+        .play-button:hover {
+            color: var(--link-color);
+        }
+
+        .play-button:focus {
+            outline: none;
+        }
+
+        audio {
+            height: 30px;
+        }
+
+        /* Hide default audio player controls except for the timeline and volume */
+        audio::-webkit-media-controls-panel {
+            background-color: var(--bg-color);
+        }
+
+        audio::-webkit-media-controls-play-button,
+        audio::-webkit-media-controls-timeline,
+        audio::-webkit-media-controls-current-time-display,
+        audio::-webkit-media-controls-time-remaining-display,
+        audio::-webkit-media-controls-volume-slider {
+            display: none;
+        }
     </style>
     <script>
         const systemThemeMedia = window.matchMedia('(prefers-color-scheme: dark)');
@@ -338,12 +383,48 @@
         </div>
         <p id="weather-report">Loading...</p>
         <hr class="divider">
+        <div class="audio-container">
+            <button class="play-button" onclick="toggleAudio()">
+                <i class="fas fa-play"></i>
+            </button>
+            <audio id="forecast-audio" src="forecast.mp3"></audio>
+        </div>
         <div id="footer">
             <p id="timestamp">Loading...</p>
              By <a href="https://www.colindismuke.com">Colin Dismuke</a>. Powered by the <a href="https://openweathermap.org/">OpenWeather API</a>, <a href="https://llm.datasette.io/en/stable/">llm</a>, and vibes.</p>
             <p>View <a href="https://github.com/cpdis/perthweatherbot">the code</a>.</p>
         </div>
     </div>
+
+    <script>
+        // Audio player functionality
+        let audio = document.getElementById('forecast-audio');
+        let playButton = document.querySelector('.play-button i');
+
+        function toggleAudio() {
+            if (audio.paused) {
+                audio.play();
+                playButton.classList.remove('fa-play');
+                playButton.classList.add('fa-pause');
+            } else {
+                audio.pause();
+                playButton.classList.remove('fa-pause');
+                playButton.classList.add('fa-play');
+            }
+        }
+
+        // Reset play button when audio ends
+        audio.addEventListener('ended', function() {
+            playButton.classList.remove('fa-pause');
+            playButton.classList.add('fa-play');
+        });
+
+        // Handle audio loading errors gracefully
+        audio.addEventListener('error', function() {
+            console.log('Error loading audio file');
+            playButton.style.display = 'none';
+        });
+    </script>
 </body>
 
 </html>
