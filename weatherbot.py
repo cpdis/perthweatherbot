@@ -139,7 +139,7 @@ if __name__ == "__main__":
 
         forecasts += "\n\nDo not use headers or other formatting in your response. Just write one to two single paragraphs that are elegant, don't use bullet points or exclamation marks, and use emotive words more often than numbers and figures – but don't be flowery. You write like a novelist describing the scene, producing a work suitable for someone calmly reading it on a classical radio station between songs. With a style somewhere between Jack Kerouac and J. Peterman."
 
-        forecasts += "\n\nRemember to keep the response under 400 words."
+        forecasts += "\n\nRemember to keep the response under 300 words."
 
         forecasts += "\n\nAfter the weather report, please put an HTML color code that best represents the weather forecast, time of day."
 
