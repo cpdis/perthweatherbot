@@ -117,7 +117,7 @@ def generate_audio_forecast(forecast_text: str) -> bool:
         request_data = {
             "text": forecast_text,
             "model_id": "eleven_multilingual_v2",
-            "voice_id": "NOpBlnGInO9m6vDvFkFC",
+            "voice_id": "qNkzaJoHLLdpvgh5tISm",
             "optimize_streaming_latency": 0
         }
 
