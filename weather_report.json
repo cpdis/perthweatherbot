@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Cottesloe",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.99274485564507,
-            "longitude": 115.7519581670883
+            "latitude": -31.94969919038235,
+            "longitude": 115.8207058909175
         },
         "current_conditions": {
-            "timestamp": "2025-02-23T06:09:52+00:00",
-            "temperature_c": 31.08,
-            "temperature_f": 87.94399999999999,
-            "humidity": 26,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 70,
+            "timestamp": "2025-02-23T12:12:35+00:00",
+            "temperature_c": 25.94,
+            "temperature_f": 78.69200000000001,
+            "humidity": 42,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 180,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-02-23T09:00:00+00:00",
-                "temperature": 29.04,
-                "windSpeed": 19.55138,
-                "windDirection": 188,
+                "startTime": "2025-02-23T15:00:00+00:00",
+                "temperature": 24.84,
+                "windSpeed": 8.65719,
+                "windDirection": 170,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-02-23T12:00:00+00:00",
-                "temperature": 25.92,
-                "windSpeed": 16.7775,
-                "windDirection": 186,
+                "startTime": "2025-02-23T18:00:00+00:00",
+                "temperature": 23.11,
+                "windSpeed": 3.1318,
+                "windDirection": 187,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Cottesloe basks in the unfettered embrace of serene, clear skies. Clear as the light refracting off the surface of glass, the azure above positively radiates in a resplendent light that can't help but soothe. Warming, kindly, it makes the very spirit of the day feel light; the sun is more a gentle whisper than a fiery shout. A UV index that, despite its measurement, is completely unobtrusive, only adds to the charm.\n\nBetween you, me, and the radiant sun overhead, the weather is nothing short of splendid. The calm of a peaceful afternoon filled with the soothing hum of everyday vibrancy. Unhurried, the day seems to luxuriate in its own glorious pace. One could just as easily slip into a light cotton shirt, letting the gentle warmth banter with your skin and opt for a stroll along the endless stretch of glistening sand. A good book, waiting to be perused under the charm of this sunlight, might be the companion you didn't know you needed. Moreover, the languid warmth suggests an unhurried pace - a day to sip on a cool, iced beverage, watching the waves lazily lapping over the beach might just be the antidote to the world's rush.",
-    "color_code": "#F0E68C",
-    "timestamp": "2025-02-23 14:09:52"
+    "weather_report": "Subiaco, with its theatre of clear skies, has once again staged a marvelous day for all. As the clock strikes 20:12, the evening unrolls, draped in a luxurious layer of serenity, finding its rhythm in the comforting embrace of tranquility after a day bathed in serene sunlight. There's a peaceful grace in the air, a harmony that whispers of a calm, cloudless day spent under the warmth of the sun with just the right kiss of light. \n\nThe temperament of the day appears to paint a pleasing canvass\u2014no sudden petulance in the guise of rain or wind. While the UV index has already taken its retire for the night, the day was one that beckoned for lighter clothing, where the air danced around one's skin in the comfort of cotton shirts or flowing sundresses. Truly, an amenable day to indulge in simple pleasures. A leisurely walk through the bustling streets of Subiaco would be the order of the day, or perhaps a delightfully unhurried cup of coffee in the glow of the setting sun. As we venture into the evening, the likeness of a thin cardigan would serve well the evening's prospect, a ceremonial homage to the gentle tug of the cool night air that is just beginning to seep in.",
+    "color_code": "#FFDA6C",
+    "timestamp": "2025-02-23 20:12:35"
 }
