@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Cottesloe",
             "country": "AU",
-            "latitude": -31.94965287996256,
-            "longitude": 115.8208384778551
+            "latitude": -31.99274485564507,
+            "longitude": 115.7519581670883
         },
         "current_conditions": {
-            "timestamp": "2025-02-23T00:40:34+00:00",
-            "temperature_c": 19.8,
-            "temperature_f": 67.64,
-            "humidity": 55,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 90,
+            "timestamp": "2025-02-23T06:09:52+00:00",
+            "temperature_c": 31.08,
+            "temperature_f": 87.94399999999999,
+            "humidity": 26,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 70,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-02-23T03:00:00+00:00",
-                "temperature": 21.77,
-                "windSpeed": 8.23216,
-                "windDirection": 70,
+                "startTime": "2025-02-23T09:00:00+00:00",
+                "temperature": 29.04,
+                "windSpeed": 19.55138,
+                "windDirection": 188,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-02-23T06:00:00+00:00",
-                "temperature": 25.98,
-                "windSpeed": 7.04655,
-                "windDirection": 195,
+                "startTime": "2025-02-23T12:00:00+00:00",
+                "temperature": 25.92,
+                "windSpeed": 16.7775,
+                "windDirection": 186,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "As dawn unfolds over Subiaco, it does so with a certainty of commitment, an expansive clear sky void of the blemish of clouds. It's a morning of absolute sunniness, bringing a sense of pure radiance and the promise of delightful daylight revelations. The visibility is superb, as boundless as the wide blue vault of the heavens, offering artists, photographers, and daydreamers unlimited arena. Beyond the immediate enchantment, however, there's a quiet suggestion of moderation. UV index readings indicate this day is an invitation to soak in the glory of the sun but with due paradoxical reserve.\n\nAs the sun continues her patient climb to the zenith, the sapphire brilliance of the day steadily grows, making it perfect for venturing outdoors. A light garb will suffice as the lack of clouds hints at an atmosphere touched with warmth. Spring in one's step would be privileged, donning perhaps a straw hat to mitigate the sun\u2019s intensity while indulging in provincial pageantry. A day like this beckons for a peaceful saunter through the stunning Kings Park or a lazy alfresco brunch while relishing the magnificent views of the Swan River.",
-    "color_code": "#0070FF",
-    "timestamp": "2025-02-23 08:40:36"
+    "weather_report": "Cottesloe basks in the unfettered embrace of serene, clear skies. Clear as the light refracting off the surface of glass, the azure above positively radiates in a resplendent light that can't help but soothe. Warming, kindly, it makes the very spirit of the day feel light; the sun is more a gentle whisper than a fiery shout. A UV index that, despite its measurement, is completely unobtrusive, only adds to the charm.\n\nBetween you, me, and the radiant sun overhead, the weather is nothing short of splendid. The calm of a peaceful afternoon filled with the soothing hum of everyday vibrancy. Unhurried, the day seems to luxuriate in its own glorious pace. One could just as easily slip into a light cotton shirt, letting the gentle warmth banter with your skin and opt for a stroll along the endless stretch of glistening sand. A good book, waiting to be perused under the charm of this sunlight, might be the companion you didn't know you needed. Moreover, the languid warmth suggests an unhurried pace - a day to sip on a cool, iced beverage, watching the waves lazily lapping over the beach might just be the antidote to the world's rush.",
+    "color_code": "#F0E68C",
+    "timestamp": "2025-02-23 14:09:52"
 }
