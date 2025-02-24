@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.9496989503993,
-            "longitude": 115.820707519254
+            "latitude": -31.95426204180953,
+            "longitude": 115.8527292802216
         },
         "current_conditions": {
-            "timestamp": "2025-02-24T00:38:55+00:00",
-            "temperature_c": 23.64,
-            "temperature_f": 74.55199999999999,
-            "humidity": 69,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 10,
-            "description": "light rain"
+            "timestamp": "2025-02-24T06:10:16+00:00",
+            "temperature_c": 27.02,
+            "temperature_f": 80.636,
+            "humidity": 55,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 250,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-02-24T03:00:00+00:00",
-                "temperature": 23.94,
-                "windSpeed": 11.699510000000002,
-                "windDirection": 277,
-                "shortForecast": "clear sky"
+                "startTime": "2025-02-24T09:00:00+00:00",
+                "temperature": 25.94,
+                "windSpeed": 12.23639,
+                "windDirection": 230,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-02-24T06:00:00+00:00",
-                "temperature": 24.21,
-                "windSpeed": 12.3035,
-                "windDirection": 256,
+                "startTime": "2025-02-24T12:00:00+00:00",
+                "temperature": 23.5,
+                "windSpeed": 11.140260000000001,
+                "windDirection": 210,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "On the cool morning of February 24th, 2025 in Subiaco, the universe has draped a translucent veil of clear skies overhead. A cloak of a gentle chill, a mere murmur of the season, gently brushes against the skin, inviting you to embrace the day in the lightest woolen layers as comfort. The rising sun, slowly ascending from the sheath of horizon, is set to bask the town in a luminous robe of amber light, adorned with the promise of enigmatic shadows. \n\nAs time rolls by, the sun shall mark its zenith one would expect a day rich in clarity, a day as transparent as a freshly polished looking glass, unabridged and untarnished. The dome of the sky will be a picture of serenity, a silent symphony of milky blues interspersed with tender wisps of pristine white. A day so pleasant, that it beckons you to take a stroll in your favorite park or plunge your hands into the soil of your garden, acquainting yourself with the cool dampness beneath. The UV index unknown, let us not forget our sun brimmed hats or our favorite sunglasses to gently dim that kingly glare.",
-    "color_code": "#FDB813",
-    "timestamp": "2025-02-24 08:38:56"
+    "weather_report": "As we settle into the afternoon in Perth, the few clouds that hung around during the morning hours have happily dispersed, leaving behind a sky of such clarity and serenity it is as if a sapphire has been spread across the heavens. The sunlight is bountiful, enriching the landscape with a warm, inviting glow that seems to soften the bite of the winter chill. The UV index may be of little concern under the clear vastness of the sky, as the sun's rays draw an immaculate light show for the inhabitants below. \n\nFor those who plan to venture out, lightly layered clothing would serve both comfort and style - a charming transitional outfit for an afternoon that is a whisper away from being resplendent. A stroll along the serene Swan River or a leisurely read in the verdant beauty of Kings Park might just be what this afternoon's weather suggests. Insights ensue as the seemingly eternal sky transmutes into an endless realm of possibilities, illuminating the wonders of Perth on this elegant day.",
+    "color_code": "#27408B",
+    "timestamp": "2025-02-24 14:12:09"
 }
