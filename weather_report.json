@@ -3,36 +3,36 @@
         "location": {
             "name": "Perth",
             "country": "AU",
-            "latitude": -31.95409678009477,
-            "longitude": 115.8528175172675
+            "latitude": -31.95141018401557,
+            "longitude": 115.8542091605378
         },
         "current_conditions": {
-            "timestamp": "2025-02-25T06:11:14+00:00",
-            "temperature_c": 28.03,
-            "temperature_f": 82.45400000000001,
-            "humidity": 50,
+            "timestamp": "2025-02-25T12:14:28+00:00",
+            "temperature_c": 22.71,
+            "temperature_f": 72.878,
+            "humidity": 72,
             "wind_speed_mph": 16.1064,
-            "wind_direction": 230,
+            "wind_direction": 200,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-02-25T09:00:00+00:00",
-                "temperature": 26.73,
-                "windSpeed": 14.02599,
-                "windDirection": 205,
-                "shortForecast": "clear sky"
+                "startTime": "2025-02-25T15:00:00+00:00",
+                "temperature": 22.37,
+                "windSpeed": 11.00604,
+                "windDirection": 170,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-02-25T12:00:00+00:00",
-                "temperature": 24.26,
-                "windSpeed": 13.287780000000001,
-                "windDirection": 188,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-02-25T18:00:00+00:00",
+                "temperature": 21.72,
+                "windSpeed": 5.1451,
+                "windDirection": 159,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "As the clock ticks past two in the afternoon in beautiful Perth, the heavens are adorned with an exquisite scattering of silver clouds, painting a picture of tranquillity against the clear sapphire sky. The morning began with the sun at her peak, casting a glistening glow over the cityscape and dispelling the remnants of night's chill. Now, as the sun recedes, the weather has cooled somewhat, momentary shadows playing hide-and-seek with the sun's light streaming between the clouds.\n\nIn light of the breezy, sun-filled day we are enjoying, light, airy clothing would be the order of the day. A sunscreen with a healthy SPF rating would be a judicious choice, given the slightly high UV index the day began with. An unhurried, leisurely stroll through any of Perth's idyllic parks or gardens would be most delightful during these temperate hours. Equally, a mild potter about the home or office would be well-complimented by the soothing, harmonious weather outside, making for a most agreeable day under the Western Australian sun.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-02-25 14:11:14"
+    "weather_report": "As twilight descends on Perth this late February evening, the city finds itself beneath a patchwork canopy of scattered and broken clouds, gathering as if to share the night's secrets. Yet, they offer moments of grace, bestowing a soft, diffused light that mutes the harsh edge of the day and turns everything into subtler shades of dusk. With the sun's rays held in check and the UV index thus of little concern, one might perceive a certain clarity on this stately day - a gentle invitation to indulge in the mysteries of the night.\n\nThe weather takes a timid turn towards cool as nocturnal breezes lend a touch of crispness to the air. Layered attire would perhaps be a thoughtful choice, a well-worn cardigan perhaps, or a comfortable windcheater, perfect for an evening stroll in a nearby park. Under the evening's sable robe embellished by the silver mercy of the moon, a peaceful walk unfolds like a tale whispering the muted rhythm of nature's lullabies and fostering a serene atmosphere.",
+    "color_code": "#696969",
+    "timestamp": "2025-02-25 20:14:28"
 }
