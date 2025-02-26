@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Osborne Park",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.90799761548885,
-            "longitude": 115.8019263389188
+            "latitude": -31.94968838526442,
+            "longitude": 115.8209364272854
         },
         "current_conditions": {
-            "timestamp": "2025-02-26T00:37:39+00:00",
-            "temperature_c": 25.07,
-            "temperature_f": 77.126,
-            "humidity": 60,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 110,
-            "description": "clear sky"
+            "timestamp": "2025-02-26T06:11:45+00:00",
+            "temperature_c": 29.63,
+            "temperature_f": 85.334,
+            "humidity": 53,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 250,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2025-02-26T03:00:00+00:00",
-                "temperature": 25.19,
-                "windSpeed": 7.493950000000001,
-                "windDirection": 205,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-02-26T09:00:00+00:00",
+                "temperature": 27.94,
+                "windSpeed": 12.3035,
+                "windDirection": 196,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2025-02-26T06:00:00+00:00",
-                "temperature": 25.3,
-                "windSpeed": 12.750900000000001,
-                "windDirection": 237,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-02-26T12:00:00+00:00",
+                "temperature": 25.35,
+                "windSpeed": 12.3035,
+                "windDirection": 188,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "A gentle morning is unfurling over Osborne Park; a soft cloak of broken clouds chasing the remnants of the night away. The day seems to be reluctant to bare itself entirely\u2014 a painted stage of scattered cloud wisps teasing the first hints of the rising sun. A suave dance of celestial veils, promising an enigmatic blend of clarity and mystery. The elusive glow of the sun, masked by the clouds, bestows upon us the grace of subdued light; the day promises to unfurl itself, not in a blazing riot of brightness, but in a gentle, intimate display of daylight.\n\nThe ambiance of the morning suggests fortitude in its approach; it's neither a day for unnecessary layers nor for unabashed exposure. A light sweater to offer solace from the morning's crisp whispers, perhaps, coupled with a trusty pair of sun glasses to courteously nod at the sun\u2019s subtle game of hide-and-seek. As for the day\u2019s indulgence - consider a stroll through the park\u2019s many cloistered pathways or an unhurried read on a shaded bench, lulled by the ebb and flow of the cloud-veiled sun. Find comfort in the familiar, wrapped in the soft embrace of a day that promises to unfold slowly, subtly, surreptitiously.",
-    "color_code": "#778899",
-    "timestamp": "2025-02-26 08:37:39"
+    "weather_report": "The skies over Subiaco are currently a sleek and smooth expanse of gray, where a thick blanket of overcast clouds has determinedly claimed dominion, leaving a palpable sense of anticipation in the air. The morning wore the same vestments as the overcast paints a somewhat monotonous, though soothing, canvas onto the firmament. The sun, while making her presence felt behind this diaphanous veil, appears to be playing coy today, resulting in a subdued and rather introspective ambiance, quite atypical of our usually sunny Subiaco.\n\nThe day promises no break in the celestial monotony, denying us of the customary ballet of shadows and slow creep of the sun from east to west. The light, however, remains gentle and good-natured, neither overwhelming nor noticeably absent. Hence, a light jacket would be more than ample armor against the unassertive breeze while a hat may be left in the cupboard today. Perhaps a jovial saunter through one of Subiaco's verdant parks or a languorous coffee in a cozy caf\u00e9 would be the most fitting activities to reciprocate the day's unhurried demeanor. As the daylight subtly fades, the evening promises to continue in the same vein, extending an invitation for a quiet twilight stroll, or an opportunity to dive into that book you've been meaning to read.",
+    "color_code": "#808080",
+    "timestamp": "2025-02-26 14:11:45"
 }
