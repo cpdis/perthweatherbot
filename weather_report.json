@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94970190751949,
-            "longitude": 115.820701130152
+            "latitude": -31.95406350775729,
+            "longitude": 115.8526516787925
         },
         "current_conditions": {
-            "timestamp": "2025-02-27T00:37:47+00:00",
-            "temperature_c": 22.35,
-            "temperature_f": 72.23,
-            "humidity": 72,
+            "timestamp": "2025-02-27T06:11:26+00:00",
+            "temperature_c": 25.73,
+            "temperature_f": 78.314,
+            "humidity": 68,
             "wind_speed_mph": 9.21644,
-            "wind_direction": 140,
-            "description": "light rain"
+            "wind_direction": 160,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-02-27T03:00:00+00:00",
-                "temperature": 22.93,
-                "windSpeed": 8.925630000000002,
-                "windDirection": 208,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-02-27T09:00:00+00:00",
+                "temperature": 25.32,
+                "windSpeed": 11.565290000000001,
+                "windDirection": 214,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-02-27T06:00:00+00:00",
-                "temperature": 22.87,
-                "windSpeed": 14.719460000000002,
-                "windDirection": 198,
+                "startTime": "2025-02-27T12:00:00+00:00",
+                "temperature": 23.68,
+                "windSpeed": 12.3035,
+                "windDirection": 184,
                 "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco awakens, cloaked in a protective shield of broken clouds. The sun, denied dominance by the fractious cloud cover, strains to break free, casting an ethereal glow upon the waking city. It's a day of obscured skies and muted sunshine, offering a gentle reprieve from the harsh glare we often associate with summer's entirety. The UV index, blessedly subdued, places no undue burden on the skin, favouring those who shy away from sun cream or brimmed hats.\n\nTurn your face upward, feel the cloud-filtered sunlight kiss your cheeks, and the gentlest of breezes tousle your hair. The day invites a casual wardrobe, light cottons perhaps, or loose linen shirts, paired stylishly with a favoured pair of sunglasses. Savour the excuse to indulge in an al fresco breakfast, the early morning newspaper spread out before you, as the city gradually comes to life. Or perhaps this is the day for a meandering walk through the park, stepping lightly over dew-kissed grass, the hushed whispers of the city carried to you on the breeze.",
-    "color_code": "#778899",
-    "timestamp": "2025-02-27 08:37:48"
+    "weather_report": "The skies over Perth are a brooding cathedral of grayscale today; cumulus clouds feathering and fracturing across the vast expanse like gossamer shreds of whimsy. The earlier prediction of scattered clouds has gracefully morphed into broken husks, granting the city an edgy, stoic air, reminiscent of a charcoal drawing untouched by the warming hues of the sun. The UV index naturally remains low, reinforcing a day that emulates a vintage monochrome photograph, uninterrupted by incandescent flashes of sunlight.\n\nAs the local clock ticks past 14:00, the air retains a soft nippiness, threaded with a wistful longing for the sun. The approachable coolness invites a light cardigan, a whimsical scarf, or an understated sweater to headline your ensemble, perfect for a meditative stroll along the river or a contemplative jaunt through the Art Gallery of Western Australia. A gray day it may be, but it could very well form the perfect backdrop for sparks of localized color and life.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-02-27 14:11:27"
 }
