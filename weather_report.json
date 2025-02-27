@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95406350775729,
-            "longitude": 115.8526516787925
+            "latitude": -31.94968386791854,
+            "longitude": 115.8207452943076
         },
         "current_conditions": {
-            "timestamp": "2025-02-27T06:11:26+00:00",
-            "temperature_c": 25.73,
-            "temperature_f": 78.314,
-            "humidity": 68,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 160,
+            "timestamp": "2025-02-27T12:14:29+00:00",
+            "temperature_c": 22.88,
+            "temperature_f": 73.184,
+            "humidity": 69,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 200,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-02-27T09:00:00+00:00",
-                "temperature": 25.32,
-                "windSpeed": 11.565290000000001,
-                "windDirection": 214,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-02-27T15:00:00+00:00",
+                "temperature": 22.64,
+                "windSpeed": 6.06227,
+                "windDirection": 180,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-02-27T12:00:00+00:00",
-                "temperature": 23.68,
-                "windSpeed": 12.3035,
-                "windDirection": 184,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-02-27T18:00:00+00:00",
+                "temperature": 21.7,
+                "windSpeed": 5.95042,
+                "windDirection": 164,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "The skies over Perth are a brooding cathedral of grayscale today; cumulus clouds feathering and fracturing across the vast expanse like gossamer shreds of whimsy. The earlier prediction of scattered clouds has gracefully morphed into broken husks, granting the city an edgy, stoic air, reminiscent of a charcoal drawing untouched by the warming hues of the sun. The UV index naturally remains low, reinforcing a day that emulates a vintage monochrome photograph, uninterrupted by incandescent flashes of sunlight.\n\nAs the local clock ticks past 14:00, the air retains a soft nippiness, threaded with a wistful longing for the sun. The approachable coolness invites a light cardigan, a whimsical scarf, or an understated sweater to headline your ensemble, perfect for a meditative stroll along the river or a contemplative jaunt through the Art Gallery of Western Australia. A gray day it may be, but it could very well form the perfect backdrop for sparks of localized color and life.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-02-27 14:11:27"
+    "weather_report": "Subiaco currently sits under a modest chessboard of scattered clouds, their textures varying in the late February eve, playing a gentle game of hide and seek with the retiring sun. As the day relinquishes its grip to the twilight, the lack of direct sunlight creates a tableau deceptively cooler than one might anticipate from a day nestled softly in the tail end of summer. Those who dare venture out into this deceptive cool are advised to arm themselves with an appropriately light jacket, nothing more stern than a cardigan, perhaps lined with supple cotton. \n\nAs we cast our gaze into the crystal ball, a forecast of fewer clouds is envisaged, peeking through just enough to lend a tender glow to the romantic ruins of Subiaco Abbey, yet not enough to threaten the tender skin with harsh UV. An evening stroll around the quaint city streets would be an enchantingly mundane activity, the kind of evening where one finds new appreciation for the familiar \u2013 newly discovered floral sprouting between cobblestones, or the curl and sway of windblown leaves chasing each other in the dusky light.",
+    "color_code": "#536878",
+    "timestamp": "2025-02-27 20:14:30"
 }
