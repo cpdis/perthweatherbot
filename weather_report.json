@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Cottesloe",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.99241981666666,
-            "longitude": 115.7524751666667
+            "latitude": -31.94966184403544,
+            "longitude": 115.8207414829793
         },
         "current_conditions": {
-            "timestamp": "2025-03-02T06:10:27+00:00",
-            "temperature_c": 37.19,
-            "temperature_f": 98.942,
-            "humidity": 54,
-            "wind_speed_mph": 14.36154,
-            "wind_direction": 215,
+            "timestamp": "2025-03-02T12:12:35+00:00",
+            "temperature_c": 25.96,
+            "temperature_f": 78.72800000000001,
+            "humidity": 58,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 240,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-03-02T09:00:00+00:00",
-                "temperature": 33.03,
-                "windSpeed": 16.44195,
-                "windDirection": 202,
+                "startTime": "2025-03-02T15:00:00+00:00",
+                "temperature": 24.87,
+                "windSpeed": 8.43349,
+                "windDirection": 193,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-03-02T12:00:00+00:00",
-                "temperature": 27.62,
-                "windSpeed": 13.91414,
-                "windDirection": 195,
+                "startTime": "2025-03-02T18:00:00+00:00",
+                "temperature": 23.41,
+                "windSpeed": 5.92805,
+                "windDirection": 220,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "The celestial ballet has gifted Cottesloe with a brilliant spectacle today, and it seems intent to maintain its performance till the day concludes its bow. As light pours from an unfettered sky, the horizon sparkles with a clarity ordinarily reserved for the most exquisite of diamonds. A gentle sun, ever so considerate, bestows upon us the ideal balance of warmth and brilliance, prudently abstaining from any exhibition of overbearing heat. Not a pesky cloud dares to interrupt this divine stage, with the cosmic play of the sun and the earth holding steadfast the audience's attention.\n\nIn response to this celestial stagecraft, heed our call to dress lightly; the sun's warmth, though ideal, warrants a certain respect. Allow the airy fabrics, perhaps of a subtle hue, to share in this delicate pas de deux with the climate. Leisurely activities call your name today; a languid exploration of the local park, or an unhurried saunter by the beach could just be the nod of appreciation this beautiful day demands. Immerse yourself in an indoor pursuit if unavoidable, but if the chance arises, seize it to bask in this perfect harmony of light and warmth.",
-    "color_code": "#FFD700",
-    "timestamp": "2025-03-02 14:10:28"
+    "weather_report": "In beautiful Subiaco, the setting sun paints the clear sky with a gradient of radiant shades, promising an evening as clear as it was earlier today. With the velvet darkness beginning to stretch its fingers, one can expect the temperatures to cool slightly, rendering the evening quite soothing. A balmy wind bristles lightly against the skin, a sweet reminder of summer's touch on the not so distant horizon. \n\nConsidering the agreeable weather conditions, a light cardigan or a warm shawl would make for a wise companion to guard against the chill of twilight. This evening invites strolls in quiet parks, the sounds of rustling leaves as background music to whispered conversations under the sky. Wrapped in this cocoon of tranquility, Subiaco reveals itself as a gentle lullaby coaxing the day to dream under a veil of stars.",
+    "color_code": "#FDB813",
+    "timestamp": "2025-03-02 20:12:35"
 }
