@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95407949403197,
-            "longitude": 115.8526582225112
+            "latitude": -31.94967446131438,
+            "longitude": 115.8207814696097
         },
         "current_conditions": {
-            "timestamp": "2025-03-04T06:03:06+00:00",
-            "temperature_c": 26.95,
-            "temperature_f": 80.50999999999999,
-            "humidity": 51,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 160,
-            "description": "broken clouds"
+            "timestamp": "2025-03-04T12:14:28+00:00",
+            "temperature_c": 21.93,
+            "temperature_f": 71.474,
+            "humidity": 61,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 210,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-03-04T09:00:00+00:00",
-                "temperature": 25.42,
-                "windSpeed": 19.10398,
-                "windDirection": 204,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-03-04T15:00:00+00:00",
+                "temperature": 22.64,
+                "windSpeed": 15.726110000000002,
+                "windDirection": 118,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-03-04T12:00:00+00:00",
-                "temperature": 24.06,
-                "windSpeed": 10.64812,
-                "windDirection": 177,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-03-04T18:00:00+00:00",
+                "temperature": 20.38,
+                "windSpeed": 19.707970000000003,
+                "windDirection": 96,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "As we journey through the afternoon of this early March day in Perth, clouds spoon in the sky, dappled like puzzle pieces against the vast cerulean canvas. Their sunlit edges defiantly glint; a silver lining that holds the promise of a brighter afternoon despite the earlier fragmented scenery. The forecast suggests the artwork of broken clouds will persist into the afternoon rewarding us with a stage upon which the sun, light yet diffused, will play a beguiling performance of shadow and light. \n\nWitnessing this dance, enveloped in the slightly cool embrace of freshened air suggests a day that lends itself perfectly to lighthearted outdoor endeavours. A stroll around the park or a visit to a local caf\u00e9, perhaps with a light cardigan draped around the shoulders, would be entirely in order. As the daylight wanes, the weather, with its delicate balance of warmth and overcast, makes for an ideal setting of overlooked beauty. You'll want to pop that monocle in, so as not to miss a single brush stroke of this atmospheric ballet. Imbibing in this spectacle of the day, there's a rather quaint solace, a whispered reminder of the grandeur concealed within the seemingly mundane.",
-    "color_code": "#818B87",
-    "timestamp": "2025-03-04 14:11:23"
+    "weather_report": "As the waning sun arcs across the Subiaco sky, its late afternoon light is gently diffused by an elegant ballet of scattered clouds. A few lingering tendrils of cloud from earlier in the day give the heavenly expanse above an almost impressionistic character\u2014a sumptuous panorama where azure and alabaster hues play an enchanting pas de deux. One feels as if Mother Nature herself, armed with the broadest of brushes, has applied the final masterstrokes to her watercolor masterpiece. \n\nShould you step outside to reverence this painterly spectacle, a light jacket or shawl would allay the slight chill that the cooling air carries upon its undulating waves. This is a wonderful time for an unrushed stroll or perhaps a quiet read in the park, where the soft light would generously gloss the pages without straining your eyes. But be sure to cherish it, for soon the sun will make its descent and usher in the peaceful serenity of night. And as the day's spectacle comes to a close, one might say the evening's is simply waiting in the wings, yearning to reveal its own azure canvas of dreams.",
+    "color_code": "#6699CC",
+    "timestamp": "2025-03-04 20:14:28"
 }
