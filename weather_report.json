@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94967408298228,
-            "longitude": 115.8207370266581
+            "latitude": -31.95405553541446,
+            "longitude": 115.8526518703645
         },
         "current_conditions": {
-            "timestamp": "2025-03-06T00:38:22+00:00",
-            "temperature_c": 28.42,
-            "temperature_f": 83.156,
-            "humidity": 38,
-            "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 60,
+            "timestamp": "2025-03-06T06:11:34+00:00",
+            "temperature_c": 39.85,
+            "temperature_f": 103.73,
+            "humidity": 18,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 290,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-03-06T03:00:00+00:00",
-                "temperature": 29.96,
-                "windSpeed": 11.99032,
-                "windDirection": 36,
-                "shortForecast": "few clouds"
+                "startTime": "2025-03-06T09:00:00+00:00",
+                "temperature": 36.67,
+                "windSpeed": 11.565290000000001,
+                "windDirection": 235,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-03-06T06:00:00+00:00",
-                "temperature": 31.95,
-                "windSpeed": 9.104590000000002,
-                "windDirection": 255,
-                "shortForecast": "few clouds"
+                "startTime": "2025-03-06T12:00:00+00:00",
+                "temperature": 31.94,
+                "windSpeed": 7.74002,
+                "windDirection": 185,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "As dawn crests the sky in Subiaco, the day is graced with only a few errant clouds, casting brief shadows on the awakening town below. The veil of the night lifts, revealing a celestial watercolor of soft hues, punctuated by an emerging sun promising yet another beautiful shining day. Such an array, which masks the vast expanse, evokes a feeling of serene tranquility, a day of clarity where every detail shall stand out in its undiluted beauty, the play of light unhindered; the stage is set for the sun to perform its daily sonnet - a gentle recitation of warmth.\n\nThe day portends comfortable warmth, perhaps only a soft cotton sweater for the early morning and late evening chills would suffice, and yet, the lightness of a linen ensemble to relish in the afternoon's temperate atmosphere. Perhaps yield to the day's temperament and partake in morning rituals alfresco, savoring a cup of steaming coffee while basking in the delicate morning sun. As the day progresses, one might seek the solace of a shaded arbour with a good book or simply meander the lanes of Subiaco, reveling in its unaffected charm.",
-    "color_code": "#FDB813",
-    "timestamp": "2025-03-06 08:38:23"
+    "weather_report": "There's a soft luminescence to the cerulean expanse overhead as Perth luxuriates under the tranquil glory of a clear midday sky. An invigorating, yet whisper-soft breeze dances through the city, teasing fabric hems and caressing faces, an ethereal reminder of the ocean's nearby presence. Time unwinds in languid perfection as the sun, unencumbered by unruly clouds, bestows an unceasing, gentle warmth upon the city\u2019s inhabitants. The waves of Ultraviolet grace kiss the exposed skin with a mild intensity, promising nothing more than a gentle blush by the day's end. \n\nToday's attire in Perth would benefit from the elegance of leisure met with the necessity of sun protection. A jaunty sunhat, a cotton shirt that breathes with the day and perhaps, a pair of comfortable sandals to stroll along the Swan River or through Kings Park. As the day continues to unspool under the tutelage of actualized forecasts, perhaps one might find delight in the serenity of a languid picnic or an enchanting walk through one of Perth's architectural marvels, basking in the magnificence of the day while time stands still in sun-dappled awe. One can almost hear the melodies float in the air, a symphony of light and weather, of pleasantness and the simple joys of a clear sky in Perth.",
+    "color_code": "#1E90FF",
+    "timestamp": "2025-03-06 14:11:35"
 }
