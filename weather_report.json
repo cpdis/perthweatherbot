@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Cottesloe",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.99590728451948,
-            "longitude": 115.7522931678969
+            "latitude": -31.94965031506325,
+            "longitude": 115.8207679887636
         },
         "current_conditions": {
-            "timestamp": "2025-03-09T06:08:31+00:00",
-            "temperature_c": 26.16,
-            "temperature_f": 79.088,
-            "humidity": 37,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 70,
+            "timestamp": "2025-03-09T12:10:21+00:00",
+            "temperature_c": 20.84,
+            "temperature_f": 69.512,
+            "humidity": 69,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 200,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-03-09T09:00:00+00:00",
-                "temperature": 24.58,
-                "windSpeed": 19.0145,
-                "windDirection": 205,
-                "shortForecast": "clear sky"
+                "startTime": "2025-03-09T15:00:00+00:00",
+                "temperature": 20.78,
+                "windSpeed": 12.818010000000001,
+                "windDirection": 123,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-03-09T12:00:00+00:00",
-                "temperature": 23.17,
-                "windSpeed": 15.8827,
-                "windDirection": 193,
-                "shortForecast": "few clouds"
+                "startTime": "2025-03-09T18:00:00+00:00",
+                "temperature": 19.61,
+                "windSpeed": 11.4087,
+                "windDirection": 112,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Suspended in the azure palm of the heavens, the sun paints a crystal-clear portrait of Cottesloe. A soft symphony of sunlight dances upon the wide expanse of the earth, as the day commenced in an uninterrupted fashion with a clear sky. However, as time has trodden on, whispers of clouds have begun to stitch their modest tapestry across the skyline, adding to what could be nothing but a pleasant sight, with clear visibility all throughout. There is a silent sizzle to the air which subtly hints at the calm yet strong UV index for the day. Every breath is made into poetry under such a perfect sky, with light wearing the cloak of the sun.\n\nGiven such conditions, donning a brimmed hat, perhaps a pair of sunglasses to shield from the UV rays and a light garment to celebrate the sun's brilliance would be a sensible choice. Today is just the impeccable day to embrace the serenity pulses through every bit of Cottesloe, where a walk through the quiet lanes studded with house gardens or a reading session in a sunlit corner of the town library would be nothing short of a joyous indulgence. As the day progresses, the transition from an absolute clear sky to a few clouds is expected make the evening even more delightful, paving the way to appreciate the sun's elegance in all its glory.",
-    "color_code": "#F0E68C",
-    "timestamp": "2025-03-09 14:08:31"
+    "weather_report": "Subiaco huddles beneath a canvas of scattered clouds. An introspective sky, gray and white dappled, tenderly veils our suburban character in its soft, mild stratus shroud. It's a blend of tranquility and thrill; inviting yet subtly enigmatic. As the day folds into the arms of the evening, the charm of this picturesque suburb is subtly accentuated, creating an ambience for hearty conversations over coffee, introspective walks under the comforting cloud cover, or simply quiet, unhurried contemplation within the cozy confines of home. \n\nAs we stare into the eye of late evening, one does not have to be concerned with the biting harshness of the sun's UV index\u2014merely a whisper of its radiant self, making for a pleasant, easy-on-the-eyes kind of day. A day like this calls for nothing more than the comfort of a light jacket; a nod to the mildness that gently envelops Subiaco. The forecast holds no promise of rain, yet the clouds, like an abstract artist's oeuvre, are scattered in their unique pattern across the sky. One could find a gentle pleasure in their shifting forms, perhaps while partaking of a good book on the porch or a languorous walk around the block; comforting, homely activities that suit the tranquil mood of the day.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-03-09 20:10:21"
 }
