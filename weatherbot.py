@@ -205,7 +205,7 @@ if __name__ == "__main__":
     
     if weather_data:
         # Update the weather report
-        model = llm.get_model("gpt-4")
+        model = llm.get_model("gpt-4.5-preview")
         
         # Generate weather report
         prompt = f"""You are a weather reporter with a fun, quirky personality. 
