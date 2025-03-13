@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95442087657008,
-            "longitude": 115.8527187862014
+            "latitude": -31.9496882602555,
+            "longitude": 115.8207001206442
         },
         "current_conditions": {
-            "timestamp": "2025-03-13T06:11:37+00:00",
-            "temperature_c": 22.46,
-            "temperature_f": 72.428,
-            "humidity": 89,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 230,
-            "description": "thunderstorm with rain"
+            "timestamp": "2025-03-13T18:10:58+00:00",
+            "temperature_c": 19.65,
+            "temperature_f": 67.37,
+            "humidity": 94,
+            "wind_speed_mph": 11.78899,
+            "wind_direction": 322,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-03-13T09:00:00+00:00",
-                "temperature": 22.51,
-                "windSpeed": 7.96372,
-                "windDirection": 224,
+                "startTime": "2025-03-13T21:00:00+00:00",
+                "temperature": 19.63,
+                "windSpeed": 9.97702,
+                "windDirection": 321,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-03-13T12:00:00+00:00",
-                "temperature": 21.66,
-                "windSpeed": 6.10701,
-                "windDirection": 169,
+                "startTime": "2025-03-14T00:00:00+00:00",
+                "temperature": 20.01,
+                "windSpeed": 12.728530000000001,
+                "windDirection": 341,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Afternoon has spread itself gently over Perth, and today, the sky wears a delicate coat painted in shades of soft grays, washed lightly by an intermittent drizzle that's more romantic than oppressive. The morning rain continues its tranquil dance, creating reflective pools along pavements that shimmer occasionally under modest, muted daylight. With clouds gently weaving overhead, sunlight is constrained to the background, diffused to a mellow, almost nostalgic brightness. It is far from sunny, and shadows are mere whispers today\u2014unobtrusive and humble companions beneath the pale skies. Rather soothing and mildly melancholic, the mood encourages a reflective disposition rather than adventure. Dress suitably in soft layers, perhaps a comfortable sweater under a waterproof trench coat, balancing elegantly between style and protection.\n\nGiven the time, early afternoon beckons for a peaceful stroll beneath a large umbrella, perhaps to a quiet caf\u00e9 tucked away behind rain-touched storefront windows. This would be the ideal moment to take up a seat by the window, pleasing your senses with steam lifting gently from fresh coffee and watching the raindrops gracefully trace their paths down the glass. Or perhaps retreat to a comfortable nook at home, gathered with an absorbing book or leisurely writing reflections to the soft murmur of rain\u2014a gentle comfort rather than a distraction, a canvas for muted afternoon contemplation.",
-    "color_code": "#9DA9B1",
-    "timestamp": "2025-03-13 14:11:37"
+    "weather_report": "In Subiaco, the early hours slide quietly past, dressed in a silken veil of mist and rain, lending a poetic gloom to streets which whisper with moisture. The recent drizzle has left a thoughtful hush over the sleeping town. Morning will arrive unhurried, heavy with clouds preventing any hopeful notions of sunshine, and the day ahead promises subtle introspection rather than brightness or warmth. Those setting out today should prepare gently, perhaps choosing a comfortable jacket, something with resilient joints for shedding drops of quiet, persistent rain.\n\nGiven the somber skies and dampened spirits, it would be wise to embrace simplicity; savor freshly brewed coffee watching raindrops glide across windowpanes or stroll gently through parks freeing themselves of winter's embrace, feet crunching softly on soaked grass and fallen leaves. Today in Subiaco is a day for contemplation\u2014the subdued beauty of drizzle, the luxury of silence, and the gentle poetry of walking unhurriedly, rhythmically, while the world around settles tenderly into a rainy lullaby.",
+    "color_code": "#5B6F74",
+    "timestamp": "2025-03-14 02:10:59"
 }
