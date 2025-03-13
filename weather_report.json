@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94967488329881,
-            "longitude": 115.8206982162365
+            "latitude": -31.95442087657008,
+            "longitude": 115.8527187862014
         },
         "current_conditions": {
-            "timestamp": "2025-03-13T00:39:03+00:00",
-            "temperature_c": 23.06,
-            "temperature_f": 73.508,
-            "humidity": 74,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 50,
-            "description": "few clouds"
+            "timestamp": "2025-03-13T06:11:37+00:00",
+            "temperature_c": 22.46,
+            "temperature_f": 72.428,
+            "humidity": 89,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 230,
+            "description": "thunderstorm with rain"
         },
         "forecast": [
             {
-                "startTime": "2025-03-13T03:00:00+00:00",
-                "temperature": 22.95,
-                "windSpeed": 3.46735,
-                "windDirection": 3,
+                "startTime": "2025-03-13T09:00:00+00:00",
+                "temperature": 22.51,
+                "windSpeed": 7.96372,
+                "windDirection": 224,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-03-13T06:00:00+00:00",
-                "temperature": 22.69,
-                "windSpeed": 10.71523,
-                "windDirection": 263,
+                "startTime": "2025-03-13T12:00:00+00:00",
+                "temperature": 21.66,
+                "windSpeed": 6.10701,
+                "windDirection": 169,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "In the gentle embrace of an early Subiaco morning, an intimate softness drapes itself over the city. The day has begun under a chorus of light rain, punctuating the calm with its steady rhythm. The hushed hues of the sky, cloaked in clouds, hold close their promises of rain yet to pour. Underneath this comforting blanket, the world waits, holding its breath in the tender quiet before the day truly begins. There's a certain hush - a sacred silence - that falls just after a rain, as if the world itself is taking a moment to savor the freshness. This kind of morning doesn't call for sunglasses, but rather wellies and a raincoat, a hat if you're fond of keeping your hair dry.\n\nAs daylight continues to animate the world, the gentle patter of rain persists, instilling a quiet tranquility in the heart of Subiaco. The day will not be a spectacle of brilliant rays and blinding clarity, but rather a soothing medley of grays and the comforting smell of wet earth. The soul of the day invites you to curl up with a good book, or perhaps take a leisurely stroll under the sheltering eaves of city buildings, letting the rhythm of raindrops serve as the soundtrack. The weather may not sing the tune of a brilliant, sunny day, but it hums a comforting melody of another beautiful day in Subiaco.",
-    "color_code": "#778899",
-    "timestamp": "2025-03-13 08:39:03"
+    "weather_report": "Afternoon has spread itself gently over Perth, and today, the sky wears a delicate coat painted in shades of soft grays, washed lightly by an intermittent drizzle that's more romantic than oppressive. The morning rain continues its tranquil dance, creating reflective pools along pavements that shimmer occasionally under modest, muted daylight. With clouds gently weaving overhead, sunlight is constrained to the background, diffused to a mellow, almost nostalgic brightness. It is far from sunny, and shadows are mere whispers today\u2014unobtrusive and humble companions beneath the pale skies. Rather soothing and mildly melancholic, the mood encourages a reflective disposition rather than adventure. Dress suitably in soft layers, perhaps a comfortable sweater under a waterproof trench coat, balancing elegantly between style and protection.\n\nGiven the time, early afternoon beckons for a peaceful stroll beneath a large umbrella, perhaps to a quiet caf\u00e9 tucked away behind rain-touched storefront windows. This would be the ideal moment to take up a seat by the window, pleasing your senses with steam lifting gently from fresh coffee and watching the raindrops gracefully trace their paths down the glass. Or perhaps retreat to a comfortable nook at home, gathered with an absorbing book or leisurely writing reflections to the soft murmur of rain\u2014a gentle comfort rather than a distraction, a canvas for muted afternoon contemplation.",
+    "color_code": "#9DA9B1",
+    "timestamp": "2025-03-13 14:11:37"
 }
