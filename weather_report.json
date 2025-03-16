@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Peppermint Grove",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.99578828315861,
-            "longitude": 115.7718388905256
+            "latitude": -31.94967978558349,
+            "longitude": 115.8207863340862
         },
         "current_conditions": {
-            "timestamp": "2025-03-16T00:42:21+00:00",
-            "temperature_c": 21.43,
-            "temperature_f": 70.574,
-            "humidity": 67,
-            "wind_speed_mph": 23.018729999999998,
-            "wind_direction": 110,
-            "description": "broken clouds"
+            "timestamp": "2025-03-16T06:10:01+00:00",
+            "temperature_c": 28.77,
+            "temperature_f": 83.786,
+            "humidity": 42,
+            "wind_speed_mph": 18.410510000000002,
+            "wind_direction": 90,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-03-16T03:00:00+00:00",
-                "temperature": 22.5,
-                "windSpeed": 16.68802,
-                "windDirection": 97,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-03-16T09:00:00+00:00",
+                "temperature": 28.53,
+                "windSpeed": 14.585239999999999,
+                "windDirection": 102,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-03-16T06:00:00+00:00",
-                "temperature": 25.32,
-                "windSpeed": 16.17351,
-                "windDirection": 105,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-03-16T12:00:00+00:00",
+                "temperature": 26.6,
+                "windSpeed": 11.99032,
+                "windDirection": 117,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "In the charming suburb of Peppermint Grove, the morning unfurls softly with scattered clouds whispering across the sky. It's now mid-morning, and the town awakes to a gentle dance of sunshine filtering sporadically through pillowy folds of cloud. Though the sun plays a coy game of hide and seek, delicate beams bathe the landscape with a cool glow, hinting at a pleasant day ahead. With the air infused with a temperate promise, the UV index lingers at a modest level, making it a day where neither sunblock nor shade is overly pressed upon one's conscience.\n\nAs you gaze towards the horizon, clarity rests upon the day like a subtle watermark, neither crisp nor obscured, but rather a tranquil middle ground. The kind of day that invites long, leisurely strolls through verdant parks with a light sweater wrapped just so over your shoulders, or sips of espresso at a caf\u00e9, the perfect weather companion to one's musings. There lies a charming invitation to partake in the quiet, everyday joys\u2014reading a beloved book beneath a shady tree or perusing local shops as the day ambles on. This is a day to embrace simplicity, where clothing is more about comfort\u2014a casual elegance as soft as the clouds above.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-03-16 08:42:22"
+    "weather_report": "Under the expansive sky of Subiaco, the late afternoon basks in a gentle sway between a few dissipating clouds and the purity of a clear blue ether. The morning began with a delicate scatter of clouds, a promise of sun-laced dreams pacified by solace and clarity. Now, as the sun reaches its zenith, the sky unfolds like a painter's canvas, emptied of its last hues to reveal a pristine tableau. The air is serene, a soothing envelope caressing your skin with understated warmth, suggestive of a UV index that strides just enough to kiss you softly rather than intensify. It is an afternoon gifted for the contemplative wanderer or the diligent stroller; there is no need for layered defenses, though a light shawl might affectionately accompany you as the wind gently brushes past.\n\nwhether you find yourself meandering through cobblestone streets or reclined upon a sunlit terrace with a dog-eared novel and a steaming cup of chamomile, the day calls for simplicity and ease, for sunlit reverie and introspective enjoyment. Lightweight attire, longing for the touch of a breeze, feels most apropos. Perhaps, consider venturing into a nearby park where the sun-dappled paths intertwine with whispers of early spring blooms, or wander towards a local caf\u00e9 to enjoy the filtered light through a quaint window as you indulge in a perfectly brewed espresso, a mindful pause shared with the soft murmur of the day's contentment.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-03-16 14:10:02"
 }
