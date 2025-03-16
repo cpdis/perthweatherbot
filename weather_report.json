@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Peppermint Grove",
             "country": "AU",
-            "latitude": -31.94967073480062,
-            "longitude": 115.8207238598343
+            "latitude": -31.99578828315861,
+            "longitude": 115.7718388905256
         },
         "current_conditions": {
-            "timestamp": "2025-03-15T18:09:29+00:00",
-            "temperature_c": 19.2,
-            "temperature_f": 66.56,
-            "humidity": 76,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 120,
-            "description": "clear sky"
+            "timestamp": "2025-03-16T00:42:21+00:00",
+            "temperature_c": 21.43,
+            "temperature_f": 70.574,
+            "humidity": 67,
+            "wind_speed_mph": 23.018729999999998,
+            "wind_direction": 110,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-03-15T21:00:00+00:00",
-                "temperature": 19.01,
-                "windSpeed": 14.11547,
-                "windDirection": 120,
-                "shortForecast": "clear sky"
+                "startTime": "2025-03-16T03:00:00+00:00",
+                "temperature": 22.5,
+                "windSpeed": 16.68802,
+                "windDirection": 97,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-03-16T00:00:00+00:00",
-                "temperature": 19.64,
-                "windSpeed": 17.6723,
-                "windDirection": 106,
-                "shortForecast": "clear sky"
+                "startTime": "2025-03-16T06:00:00+00:00",
+                "temperature": 25.32,
+                "windSpeed": 16.17351,
+                "windDirection": 105,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "The quiet charm of Subiaco under a tapestry of serene midnight stars transitions into a day that will mirror the clarity of an untouched canvas. With the sky blissfully devoid of clouds, the morning sun will rise in an impeccable display of brilliance, bathing the area in a golden embrace. The clarity of the sky offers a day unmarred by haze or shadow, with the promise of bright sunshine throughout. Such weather is a gentle invitation to savor moments in the fresh air. A light shirt should suffice, though you might carry a hat or suitable shades to ward off the sun's persistent gaze. Strolling through the local parks, perhaps with a book in hand, feels like an ideal choice, allowing the tranquil warmth and sparkling air to elevate what might otherwise be a simple outing. The day unfolds like a leisurely narrative, unhurried and with ample time to linger in its calm embrace, a tonic for the soul weary from life's constant demands. Today, bask in the simple pleasures that require little effort yet bloom into small joys against a backdrop of perfect blue.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-03-16 02:09:30"
+    "weather_report": "In the charming suburb of Peppermint Grove, the morning unfurls softly with scattered clouds whispering across the sky. It's now mid-morning, and the town awakes to a gentle dance of sunshine filtering sporadically through pillowy folds of cloud. Though the sun plays a coy game of hide and seek, delicate beams bathe the landscape with a cool glow, hinting at a pleasant day ahead. With the air infused with a temperate promise, the UV index lingers at a modest level, making it a day where neither sunblock nor shade is overly pressed upon one's conscience.\n\nAs you gaze towards the horizon, clarity rests upon the day like a subtle watermark, neither crisp nor obscured, but rather a tranquil middle ground. The kind of day that invites long, leisurely strolls through verdant parks with a light sweater wrapped just so over your shoulders, or sips of espresso at a caf\u00e9, the perfect weather companion to one's musings. There lies a charming invitation to partake in the quiet, everyday joys\u2014reading a beloved book beneath a shady tree or perusing local shops as the day ambles on. This is a day to embrace simplicity, where clothing is more about comfort\u2014a casual elegance as soft as the clouds above.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-03-16 08:42:22"
 }
