@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94966545822077,
-            "longitude": 115.8207287822484
+            "latitude": -31.95567076993022,
+            "longitude": 115.8535269826061
         },
         "current_conditions": {
-            "timestamp": "2025-03-18T00:38:47+00:00",
-            "temperature_c": 23.42,
-            "temperature_f": 74.156,
-            "humidity": 47,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 60,
+            "timestamp": "2025-03-18T06:11:57+00:00",
+            "temperature_c": 32.32,
+            "temperature_f": 90.176,
+            "humidity": 28,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 260,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-03-18T03:00:00+00:00",
-                "temperature": 24.88,
-                "windSpeed": 3.71342,
-                "windDirection": 242,
-                "shortForecast": "clear sky"
+                "startTime": "2025-03-18T09:00:00+00:00",
+                "temperature": 30.11,
+                "windSpeed": 15.39056,
+                "windDirection": 200,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-03-18T06:00:00+00:00",
-                "temperature": 26.36,
-                "windSpeed": 11.610030000000002,
-                "windDirection": 232,
-                "shortForecast": "clear sky"
+                "startTime": "2025-03-18T12:00:00+00:00",
+                "temperature": 26.17,
+                "windSpeed": 12.61668,
+                "windDirection": 182,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "As dawn breaks gently over Subiaco, the promise of a clear sky conveys a serene and optimistic morning. The sun, now well above the horizon, ushers in a day that seems well-suited to leisurely strolls or languid afternoons. The clarity of the atmosphere allows the hues of early spring to rise and shimmer in golden splendor, suggesting that sunglasses might be a worthy companion today. One can almost sense the forgiving warmth embracing the city, coaxing it to wakefulness after the chill of winter retreats.\n\nIn the quietude of these first hours, there's a gentle reminder that such days are gifts to be relished with both delight and caution. The understated brilliance and energy of the sun should certainly be acknowledged, hinting that a dab of sunblock wouldn't be remiss for those eager to venture outside. Today seems perfect for the simple joys of tending a garden, sipping coffee on a sun-dappled terrace, or wandering through a favorite park with an unhurried gait. Dress in light, breathable layers, effortlessly encapsulating ease, yet be mindful of the cool remnants of night that may linger in shadowed alcoves. As the day unfolds, allow oneself to revel in its clarity and brightness, savoring the promise of such an uncomplicated seasonal beauty.",
-    "color_code": "#FDEBB4",
-    "timestamp": "2025-03-18 08:38:48"
+    "weather_report": "As the afternoon settles into its rhythm in Perth, the sky above is a patchwork of scattered and broken clouds, casting fleeting shadows and allowing for moments of gentle sunlight to seep through. It is a day that teases with its duality, not quite sunny yet not wholly overcast\u2014the kind of day where the sun peeks with a reserved shyness from behind its cloudy veil. The air carries a hint of lightness with a brisk touch, enough to remind us that nature has mutual moods, just like us. Given the current conditions, it seems apt to opt for light, breathable fabrics\u2014perhaps a comfortable cotton shirt paired with a cardigan that can be lazily draped over shoulders in case of a chill. The UV index does not threateningly demand heavy protection, yet a light layer of sunscreen might still whisper the message of prudence. Such a day invites strolls along tree-lined avenues or perhaps a serene sit on a park bench with a book that beckons a chapter or three, watching as shadows stretch and dance. As the hours pass, this somewhat pensive weather lends itself well to a quiet coffee on a caf\u00e9 terrace, a setting that allows the world to slow its hurried pace while one contemplates the light interplay of cloud and sunshine above.",
+    "color_code": "#C2B280",
+    "timestamp": "2025-03-18 14:11:58"
 }
