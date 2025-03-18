@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95567076993022,
-            "longitude": 115.8535269826061
+            "latitude": -31.9496836505191,
+            "longitude": 115.8207049692198
         },
         "current_conditions": {
-            "timestamp": "2025-03-18T06:11:57+00:00",
-            "temperature_c": 32.32,
-            "temperature_f": 90.176,
-            "humidity": 28,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 260,
-            "description": "clear sky"
+            "timestamp": "2025-03-18T12:14:49+00:00",
+            "temperature_c": 22.56,
+            "temperature_f": 72.608,
+            "humidity": 76,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 210,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-03-18T09:00:00+00:00",
-                "temperature": 30.11,
-                "windSpeed": 15.39056,
-                "windDirection": 200,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-03-18T15:00:00+00:00",
+                "temperature": 22.32,
+                "windSpeed": 12.43772,
+                "windDirection": 183,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2025-03-18T12:00:00+00:00",
-                "temperature": 26.17,
-                "windSpeed": 12.61668,
-                "windDirection": 182,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-03-18T18:00:00+00:00",
+                "temperature": 21.2,
+                "windSpeed": 13.936510000000002,
+                "windDirection": 186,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "As the afternoon settles into its rhythm in Perth, the sky above is a patchwork of scattered and broken clouds, casting fleeting shadows and allowing for moments of gentle sunlight to seep through. It is a day that teases with its duality, not quite sunny yet not wholly overcast\u2014the kind of day where the sun peeks with a reserved shyness from behind its cloudy veil. The air carries a hint of lightness with a brisk touch, enough to remind us that nature has mutual moods, just like us. Given the current conditions, it seems apt to opt for light, breathable fabrics\u2014perhaps a comfortable cotton shirt paired with a cardigan that can be lazily draped over shoulders in case of a chill. The UV index does not threateningly demand heavy protection, yet a light layer of sunscreen might still whisper the message of prudence. Such a day invites strolls along tree-lined avenues or perhaps a serene sit on a park bench with a book that beckons a chapter or three, watching as shadows stretch and dance. As the hours pass, this somewhat pensive weather lends itself well to a quiet coffee on a caf\u00e9 terrace, a setting that allows the world to slow its hurried pace while one contemplates the light interplay of cloud and sunshine above.",
-    "color_code": "#C2B280",
-    "timestamp": "2025-03-18 14:11:58"
+    "weather_report": "As the evening canopy gently descends over Subiaco, an endless quilt of overcast clouds has woven itself across the sky, wrapping the town in a somber gray hue. The sun's brilliance remains hidden, allowing only the day\u2019s memory of light to linger gently along the horizon. This evening, the air holds a cool, introspective quality, inviting a sense of calm and contemplation. Absent is the sun's biting rays, leaving no trace of UV concern, and demands little more than a cozy sweater to ward off the chill as the night softly creeps in.\n\nThis muted weather whispers simplicity and introspection, making it a perfect evening for a peaceful stroll along leafy streets or through Subiaco's quaint, storied lanes. The tranquility of a warm caf\u00e9, perhaps with a book or quiet conversation over a steaming cup of tea, becomes an inviting retreat. Between breaths, one can almost hear the ghostly percussion of raindrops yet to fall, promising a gentle embrace if daydreams should turn to drizzles. As twilight deepens, consider the unexpected pleasures of solitude; write a letter, play a vinyl record, or venture into the kitchen to create a comforting dish. Subiaco this evening is not a place for grand gestures but for subtle, soulful moments embraced by clouds.",
+    "color_code": "#4C4C4C",
+    "timestamp": "2025-03-18 20:14:49"
 }
