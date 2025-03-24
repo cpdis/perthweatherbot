@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "West Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95386856089226,
-            "longitude": 115.8487735364106
+            "latitude": -31.94968795915001,
+            "longitude": 115.8207097978069
         },
         "current_conditions": {
-            "timestamp": "2025-03-24T06:12:38+00:00",
-            "temperature_c": 38.53,
-            "temperature_f": 101.354,
-            "humidity": 16,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 340,
+            "timestamp": "2025-03-24T12:15:55+00:00",
+            "temperature_c": 26.46,
+            "temperature_f": 79.628,
+            "humidity": 47,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 200,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-03-24T09:00:00+00:00",
-                "temperature": 31.87,
-                "windSpeed": 10.80471,
-                "windDirection": 207,
+                "startTime": "2025-03-24T15:00:00+00:00",
+                "temperature": 24.7,
+                "windSpeed": 4.27267,
+                "windDirection": 131,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-03-24T12:00:00+00:00",
-                "temperature": 26.97,
-                "windSpeed": 7.314990000000001,
-                "windDirection": 178,
+                "startTime": "2025-03-24T18:00:00+00:00",
+                "temperature": 24.23,
+                "windSpeed": 3.60157,
+                "windDirection": 156,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "In West Perth, the current day is bathed in the luminous embrace of a clear sky, casting a soft yet resolute brightness over the city as the afternoon stretches languidly into its late hours. The sun shines with an inviting vigor, though not harshly, creating a comforting warmth that caresses the skin. As the day nears its conclusion, it's a delightful scene that encourages one to linger outdoors\u2014ideal for a contemplative walk through the park or a leisurely coffee at a local caf\u00e9 basking in the open air. With no clouds to obscure its light, the sun\u2019s rays may playfully tease your complexion, so a wide-brimmed hat or pair of sunglasses would not go amiss, particularly if your afternoon holds plans under the sun.\n\nThe atmosphere today is imbued with a sense of clarity, every hue and shape distinctly sharp, heightened by the unfiltered sunlight. It is this pristine quality that lends itself to a mood of optimism and gentle invigoration. While the UV index would suggest a note of caution, necessitating some form of protection for extended exposure, it does little to detract from the serene appeal of the day, which feels less like a rush and more like an invitation to savor momentary escapes amid daily chores. This golden afternoon whispers the promise of an early evening spent unwinding with friends or neighbors\u2014perhaps as shadows lengthen, you might find common conversation under the cooling sky, the day's warmth on your skin a vivid recollection mirrored by that sunlit fellowship.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-03-24 14:12:38"
+    "weather_report": "As the sun dips below the horizon in Subiaco, the essence of an idyllic spring day lingers in the air. The skies, crystal clear with a touch of serenity, paint a vivid picture of what earlier hours promised. The day, devoid of clouds, offered an unfiltered shower of golden sunshine, casting long, languid shadows and bathing the town in warmth. Now, as twilight grips the landscape, the air holds onto the gentle warmth, a reminder of the sun's earlier caress. Dressing light is advisable, a comfortable shirt for the warmth and perhaps a scarf for the cool embrace of evening. With the day behind and the night unfurling its gentle cloak, one might stroll leisurely through quiet streets or find solace on a terrace with a favorite book, savoring the transition from light to dusk. There is an undeniable clarity in the air, yet the absence of explicit forecasts suggesting high UV exposure allows one to move freely and without concern. As daylight wanes, evening\u2019s calm invites reflection, its gentle whisper a perfect counterpoint to the rush of day - a time to enjoy the simple joy of being where you are.",
+    "color_code": "#FDB813",
+    "timestamp": "2025-03-24 20:15:56"
 }
