@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95308297022033,
-            "longitude": 115.8594825658424
+            "latitude": -31.94967224031395,
+            "longitude": 115.8207361522606
         },
         "current_conditions": {
-            "timestamp": "2025-03-31T06:12:51+00:00",
-            "temperature_c": 32.15,
-            "temperature_f": 89.86999999999999,
-            "humidity": 35,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 50,
+            "timestamp": "2025-03-31T12:15:13+00:00",
+            "temperature_c": 26.55,
+            "temperature_f": 79.79,
+            "humidity": 53,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 210,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-03-31T09:00:00+00:00",
-                "temperature": 31.41,
-                "windSpeed": 5.10036,
-                "windDirection": 125,
+                "startTime": "2025-03-31T15:00:00+00:00",
+                "temperature": 25.97,
+                "windSpeed": 5.8162,
+                "windDirection": 129,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-03-31T12:00:00+00:00",
-                "temperature": 26.85,
-                "windSpeed": 7.94135,
-                "windDirection": 147,
+                "startTime": "2025-03-31T18:00:00+00:00",
+                "temperature": 23.87,
+                "windSpeed": 9.79806,
+                "windDirection": 65,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "As the early afternoon sun hangs high over Perth, imagine stepping outside under an expansive dome of clear sky. The morning's promise of simplicity holds true, with the azure heavens untainted by even a whisper of clouds. The air, crisp and invigorating, beckons for idle wandering, as shadows sharpen under the radiant embrace of the sun. This is a day where light itself seems to dance, casting a warm glow on the earth, punctuated by the occasional flutter of a bird tracing invisible currents. The UV index, though not specified, suggests a respectful nod to protective attire\u2014a light hat, loose-fitting clothing, maybe a dab of sunscreen for those with tender skin. \n\nOn such a luminous day, navigating the city streets or retreating to a secluded park feels equally inviting. Perhaps a stroll through Kings Park, shaded beneath the enduring eucalyptus leaves, or a leisurely caf\u00e9 stop to contemplate life's gentler aspects\u2014appreciating the rustling of leaves or the distant hum of diligent bees. It\u2019s a time for quiet joys, gentle smiles, and an appreciation for simplicity. The day unfolds like a well-loved book, predictable yet full of quiet enchantments, urging you to engage with it in relaxed, authentic ways.",
-    "color_code": "#F5F5DC",
-    "timestamp": "2025-03-31 14:12:52"
+    "weather_report": "As the golden sun sets on Subiaco, painting the sky in shades of deepening indigo, the air retains a gentle warmth under the clear sky forecasted for the day. It's an evening that whispers of tranquility, the kind that invites you to saunter slowly, perhaps with a light scarf to catch the occasional cool breeze. The clarity of the day promises an unblemished ceiling of stars as night unfolds. This is a day that speaks of quietude, devoid of the hustle and bustle, coaxing you into reflective walks or serene sit-downs in a favorite nook outdoors. Consider a leisurely stroll through leafy avenues or resting on a bench with a novel that matches the day's tranquility. There is little need for more than a light jacket as you bask in the twilight's gentle embrace, and thoughts can wander freely, unburdened by concerns of harsh weather. The UV risk has waned with the fading sun, allowing you to revel in the closing hours of daylight without worry. All around, there's a serene sense of an ending, not in a hurried way but as an elegant closure to a beautifully mild day.",
+    "color_code": "#004F91",
+    "timestamp": "2025-03-31 20:15:14"
 }
