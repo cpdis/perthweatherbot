@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95379036928668,
-            "longitude": 115.8526576310397
+            "latitude": -31.94967849587924,
+            "longitude": 115.8207813294021
         },
         "current_conditions": {
-            "timestamp": "2025-04-01T06:12:42+00:00",
-            "temperature_c": 32.44,
-            "temperature_f": 90.392,
-            "humidity": 31,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 260,
+            "timestamp": "2025-04-01T12:15:31+00:00",
+            "temperature_c": 25.71,
+            "temperature_f": 78.278,
+            "humidity": 60,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 190,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-04-01T09:00:00+00:00",
-                "temperature": 31.26,
-                "windSpeed": 15.055010000000001,
-                "windDirection": 195,
-                "shortForecast": "clear sky"
+                "startTime": "2025-04-01T15:00:00+00:00",
+                "temperature": 23.94,
+                "windSpeed": 16.24062,
+                "windDirection": 119,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-04-01T12:00:00+00:00",
-                "temperature": 27.39,
-                "windSpeed": 13.08645,
-                "windDirection": 189,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-04-01T18:00:00+00:00",
+                "temperature": 20.47,
+                "windSpeed": 15.70374,
+                "windDirection": 111,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Perth, the echoes of the morning's clarity begin to mix with a gentle spattering of clouds that filter sunlight into a patchwork of shadows. Under a sky that began its day pristine and blue, you've reached the tipping point where cloud patterns add a textured elegance to the horizon. Picture a canvas where the sun's rays play hide and seek, offering moments of bright warmth between intervals of lazy shade. It's a day that feels like a rare balance; not blindingly sunny yet free from the oppressive intensity of heavier cloud cover. The UV index, while present, whispers rather than shouts its presence, suggesting a hint of sunscreen for prudence, but mostly granting the opportunity to bask in the tempered sunshine.\n\nDress with breezy layers that can gently sway with the day's light whims; a cotton shirt or a sundress with an easy cardigan will suit the hesitant sun and sporadic clouds. Freed from extremes, today is your canvas to paint with simplicity. A relaxed stroll, perhaps meandering through Kings Park or along the Swan River, will harmonize with the day's atmosphere. A caf\u00e9 patio invites for a leisurely sip while journals or books accompany, made all the more pleasant by this ambient blend of sun and cloud. With an afternoon poised in equilibrium, there's no rush, merely an invitation to be present in these hours and let the day guide your gentle activities.",
-    "color_code": "#D9E3F0",
-    "timestamp": "2025-04-01 14:12:42"
+    "weather_report": "As the gentle glow of the setting sun dips beneath the horizon, Subiaco finds itself wrapped in a refreshing embrace of broken clouds. The afternoon sun played hide and seek with the sky, displaying a tapestry of scattered clouds that danced lazily across a wide, azure canvas. The evening now, cloaked in a cooler breath of dusk air, feels calming and introspective, inviting you to pause and reflect as the clouds form abstract art overhead. The UV index, a whisper of earlier daylight, has graciously made its exit, allowing the town a reprieve from the sun\u2019s vivid caress. This atmospheric play makes for a day that leans neither into the glaring brightness nor sullen gloom, offering instead a beautifully gauzy veil of light and shadow.\n\nTo attire oneself appropriately in the embrace of such a sky, consider layers that can easily shield against the soft, cool breeze, while still offering freedom to breathe beneath lighter clouds. A light jacket or sweater could mirror the transitional temperament of the atmosphere. Given the time you've been allotted by the day\u2019s events, it calls for a languid stroll through tree-lined avenues or, perhaps, a moment of tranquility on your porch with a cherished book in hand. Ah, Subiaco, twilight now frames you in soft hues, leaving ample space for simple, sincere pleasures.",
+    "color_code": "#9DA3B4",
+    "timestamp": "2025-04-01 20:15:32"
 }
