@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95601025286107,
-            "longitude": 115.8486142617603
+            "latitude": -31.949701816927,
+            "longitude": 115.8207071136991
         },
         "current_conditions": {
-            "timestamp": "2025-04-03T06:12:13+00:00",
-            "temperature_c": 28.46,
-            "temperature_f": 83.228,
-            "humidity": 44,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 80,
+            "timestamp": "2025-04-03T12:15:34+00:00",
+            "temperature_c": 27.09,
+            "temperature_f": 80.762,
+            "humidity": 42,
+            "wind_speed_mph": 19.57375,
+            "wind_direction": 90,
             "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2025-04-03T09:00:00+00:00",
-                "temperature": 27.97,
-                "windSpeed": 12.59431,
-                "windDirection": 115,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-04-03T15:00:00+00:00",
+                "temperature": 26.12,
+                "windSpeed": 18.25392,
+                "windDirection": 98,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-04-03T12:00:00+00:00",
-                "temperature": 26.11,
-                "windSpeed": 12.012690000000001,
-                "windDirection": 113,
+                "startTime": "2025-04-03T18:00:00+00:00",
+                "temperature": 24.68,
+                "windSpeed": 19.57375,
+                "windDirection": 96,
                 "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "As the afternoon unfurls over Perth, a dance of clouds weaves itself across the sky with an indecisive grace\u2014neither clear nor overwhelmingly grey, hovering in a state of scattered, and then broken, clouds. It\u2019s a day that teeters on the edge of sunshine, with occasional flirtations of light filtering through the cloud cover, promising brief moments of warmth that play against the skin like the first few notes of a long-forgotten melody. The UV index, quietly tempered by the cloud\u2019s embrace, invites a languid stroll rather than a hurried retreat into shade. The air is cool and gentle, coaxing you to drape yourself in light layers\u2014perhaps a comfortable pair of slacks and a cozy yet breathable top. \n\nThere\u2019s an unhurried charm to this day, perfect for a leisurely wander through the subtler beauty of a riverside park, maybe with a book tucked under your arm that\u2019s as absorbing as the soft symphony of weather around you. Linger at a caf\u00e9 with outdoor seating, where the clouds perform their skyward ballet and brief sunlit intervals punctuate your reflections with warmth. Catching up on the simple ritual of people-watching or reclaiming the contemplation of time with a blank page and pen might be most fitting. It\u2019s a moment to dwell in the understated, to savor the smaller joys woven into a cloudy afternoon tapestry.",
-    "color_code": "#a9c2d5",
-    "timestamp": "2025-04-03 14:12:14"
+    "weather_report": "As Subiaco settles into the evening hours, the sky, a vast stage of broken clouds, plays its own subtle drama. The day has been a canvas of gentle grays, casting a serene, almost introspective mood. The clouds, neither too dense nor too menacing, suggest a day that has been pleasant, if not spectacularly sunny. The ultraviolet presence is muted, whispering rather than shouting, offering little threat to the skin but asking one to pause and admire the filtered light it casts. \n\nIn these embraced shades, one might find the day uncannily conducive to introspection or a quiet stroll through the neighborhood. A lightweight jacket might provide the perfect companion against the whispers of a chill, inviting comfort rather than protection. There is no pressing need for sunglasses, but an urge to gaze upwards, allowing thoughts to drift with the cloud patterns. A gentle fit of meditation on a park bench or refreshing one's mind with a leisurely book near a window could well occupy the remaining hours. The conditions suggest a time for unwinding\u2014possibly with a mellow tune playing softly in the background and a warm beverage in hand, as the day gracefully retires into night\u2019s subtle arrival.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-04-03 20:15:35"
 }
