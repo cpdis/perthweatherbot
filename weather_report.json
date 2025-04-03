@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94967618408862,
-            "longitude": 115.8207165404847
+            "latitude": -31.95601025286107,
+            "longitude": 115.8486142617603
         },
         "current_conditions": {
-            "timestamp": "2025-04-03T00:39:36+00:00",
-            "temperature_c": 21.11,
-            "temperature_f": 69.998,
-            "humidity": 55,
-            "wind_speed_mph": 15.770850000000001,
-            "wind_direction": 74,
-            "description": "overcast clouds"
+            "timestamp": "2025-04-03T06:12:13+00:00",
+            "temperature_c": 28.46,
+            "temperature_f": 83.228,
+            "humidity": 44,
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 80,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2025-04-03T03:00:00+00:00",
-                "temperature": 21.41,
-                "windSpeed": 9.88754,
-                "windDirection": 53,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-04-03T09:00:00+00:00",
+                "temperature": 27.97,
+                "windSpeed": 12.59431,
+                "windDirection": 115,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-04-03T06:00:00+00:00",
-                "temperature": 24.71,
-                "windSpeed": 15.09975,
-                "windDirection": 85,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-04-03T12:00:00+00:00",
+                "temperature": 26.11,
+                "windSpeed": 12.012690000000001,
+                "windDirection": 113,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "As morning stretches its weary limbs over Subiaco, the skies wear a timeless cloak of overcast tranquility. The sun, concealed behind thick layers of grey, adds a soft, diffused light to the world below, casting everything in gentle shadows. It's a day that whispers rather than shouts, where the warmth of the sun is shunned by the resolute presence of clouds. Yet there's a certain charm to this somber monochrome canvas, a chance to embrace the subdued beauty of an overcast day. With the air carrying cool whispers, it might be wise to envelop oneself in a light sweater or a soft scarf, something to fend off the chill that meanders through the morning air.\n\nAs the clock ambles its way toward late morning, think of quiet activities that marry well with such a softly lit world. Perhaps a serene walk, where the muted colors of the landscape offer a retreat from the urgency of vivid sunlight, or simply curling up with a cherished novel near a window, where you can watch the rhythmic dance of clouds unfurling across the sky. Immersed in this overcast ambiance, there is a sense of introspection, inviting you to explore thoughts as endless as the cloud-filled heavens above. The day may hold its mystery and whispers invite contemplation and quiet introspection, under skies that promise not sunshine, but comfort.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-04-03 08:39:37"
+    "weather_report": "As the afternoon unfurls over Perth, a dance of clouds weaves itself across the sky with an indecisive grace\u2014neither clear nor overwhelmingly grey, hovering in a state of scattered, and then broken, clouds. It\u2019s a day that teeters on the edge of sunshine, with occasional flirtations of light filtering through the cloud cover, promising brief moments of warmth that play against the skin like the first few notes of a long-forgotten melody. The UV index, quietly tempered by the cloud\u2019s embrace, invites a languid stroll rather than a hurried retreat into shade. The air is cool and gentle, coaxing you to drape yourself in light layers\u2014perhaps a comfortable pair of slacks and a cozy yet breathable top. \n\nThere\u2019s an unhurried charm to this day, perfect for a leisurely wander through the subtler beauty of a riverside park, maybe with a book tucked under your arm that\u2019s as absorbing as the soft symphony of weather around you. Linger at a caf\u00e9 with outdoor seating, where the clouds perform their skyward ballet and brief sunlit intervals punctuate your reflections with warmth. Catching up on the simple ritual of people-watching or reclaiming the contemplation of time with a blank page and pen might be most fitting. It\u2019s a moment to dwell in the understated, to savor the smaller joys woven into a cloudy afternoon tapestry.",
+    "color_code": "#a9c2d5",
+    "timestamp": "2025-04-03 14:12:14"
 }
