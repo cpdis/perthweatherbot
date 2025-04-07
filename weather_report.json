@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95415041101938,
-            "longitude": 115.8527914448009
+            "latitude": -31.94970128681253,
+            "longitude": 115.8208590528145
         },
         "current_conditions": {
-            "timestamp": "2025-04-07T06:02:59+00:00",
-            "temperature_c": 28.55,
-            "temperature_f": 83.39,
-            "humidity": 55,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 250,
+            "timestamp": "2025-04-07T12:15:22+00:00",
+            "temperature_c": 21.96,
+            "temperature_f": 71.528,
+            "humidity": 82,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-04-07T09:00:00+00:00",
-                "temperature": 27.81,
-                "windSpeed": 11.02841,
-                "windDirection": 240,
+                "startTime": "2025-04-07T15:00:00+00:00",
+                "temperature": 21.25,
+                "windSpeed": 6.66626,
+                "windDirection": 273,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-04-07T12:00:00+00:00",
-                "temperature": 24.24,
-                "windSpeed": 6.129380000000001,
-                "windDirection": 258,
-                "shortForecast": "clear sky"
+                "startTime": "2025-04-07T18:00:00+00:00",
+                "temperature": 19.01,
+                "windSpeed": 5.68198,
+                "windDirection": 247,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "As afternoon unfolds in Perth, the sky is an expansive canvas of infinite blue, promising unbroken serenity for the remaining daylight hours. The forecast extols a perfect day, with the sun reigning supreme, its rays dancing with unabashed freedom across the landscape. The clarity of the day is pristine, devoid of shadowy cloud or temperamental gust, offering a warm embrace to those who venture out. It's a day crafted for laissez-faire excursions into the world, the kind invited by the gentle warmth that wraps around the city like a favorite sweater. Light, breathable clothing\u2014perhaps a breezy linen top and comfortable sun hat\u2014completes the attire best suited for this sun-filled tableau. \n\nWith the sun's splendor at its zenith, the sensible might seek harmony between sunlight and shade, taking heed of the UV index's unwavering intensity. Mornings might have summoned industrious pursuits, but as afternoon unfurls, a languid stroll along Perth's myriad pathways sounds like just the ticket\u2014a gentle expedition among the familiar charms of King's Park or a quiet jaunt along the banks of the Swan River, each offering their brand of solace and simplicity. Should one find oneself in possession of an idle afternoon, settling on an alfresco terrace, sheltered by the amiable company of friends or pages of a cherished novel, might be the finest indulgence amid Perth's sunlit serenade.",
-    "color_code": "#FFD88D",
-    "timestamp": "2025-04-07 14:12:59"
+    "weather_report": "As the evening unfurls in Subiaco, the earlier whisper of raindrops dances away, leaving the pavement wet and glistening under the sultry embrace of twilight. The afternoon hinted at a delicate romance between sunshine and brief showers, as a bright sky gradually gave way to the curtains of ephemeral raindrops. Now, with clouds receding, the air is clear but carries the weight of humidity from the earlier light rain, an atmosphere both comforting and introspective. The sun has set, yet the aftermath of the day's weather paints a vivid tableau of mild breezes weaving through the streets like fingers through hair.\n\nThis moody evening invites you to stroll along a quiet lane, with footsteps echoing softly, or perhaps to sit on a porch with a gentle book in hand, wrapped lightly in a jacket as the evening cools. Inhale the fresh scent of petrichor lingering softly in the air, the ground still emanating warmth from the day's sunlight, which, even in absence, leaves a lingering glow under the dim dance of streetlights. Forget not a warm cup of tea or coffee in your grasp, for the night will soon drape its cooler shawl. Allow yourself the simple pleasures of reflection or conversation with the warmth of good company as you embrace this tender April evening.",
+    "color_code": "#6C809A",
+    "timestamp": "2025-04-07 20:15:23"
 }
