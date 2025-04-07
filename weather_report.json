@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94967192232237,
-            "longitude": 115.8207570280304
+            "latitude": -31.95415041101938,
+            "longitude": 115.8527914448009
         },
         "current_conditions": {
-            "timestamp": "2025-04-07T00:41:36+00:00",
-            "temperature_c": 22.69,
-            "temperature_f": 72.842,
-            "humidity": 68,
-            "wind_speed_mph": 3.82527,
-            "wind_direction": 338,
-            "description": "scattered clouds"
+            "timestamp": "2025-04-07T06:02:59+00:00",
+            "temperature_c": 28.55,
+            "temperature_f": 83.39,
+            "humidity": 55,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 250,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-04-07T03:00:00+00:00",
-                "temperature": 24,
-                "windSpeed": 7.3821,
-                "windDirection": 281,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-04-07T09:00:00+00:00",
+                "temperature": 27.81,
+                "windSpeed": 11.02841,
+                "windDirection": 240,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-04-07T06:00:00+00:00",
-                "temperature": 27.04,
-                "windSpeed": 10.64812,
-                "windDirection": 259,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-04-07T12:00:00+00:00",
+                "temperature": 24.24,
+                "windSpeed": 6.129380000000001,
+                "windDirection": 258,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "As dawn gently fades into a tender morning over Subiaco, the skies reveal a delicate tapestry of broken and scattered clouds that play hide and seek with the golden sunlight. The air is infused with the freshness of possibility, promising a day that will be neither too harsh nor too gentle. As the sun rises, you'll likely enjoy a moderately sunny day with pockets of sunshine filtering through an intricate quilt of clouds, perfect for a reflective walk or a bicycle ride through the waking streets. With the UV index sitting comfortably in the low to moderate range, it's the type of morning that encourages you to don a light jacket and a pair of sunglasses, allowing you to embrace the early chill and intermittent rays of sunlight alike.\n\nThe weather suggests a canvas vibrant with life and a dash of whimsy, as the delicate cloud patterns render the sky a work of art. It's a day that invites, with open arms, the likes of gardening in the embrace of soft sunlight or sipping a warm cup of coffee at a favorite caf\u00e9\u2019s outdoor table. The inviting gray of the heavens, stirred with hints of blue, is a reminder that beauty often lies in subtlety and mildness, rather than overstated brilliance. It\u2019s a morning to revel in introspective activities, delve into the pages of a novel, or perhaps find solace in a quiet park, where the rhythm of the day can lull you into tranquil contemplation.",
-    "color_code": "#BEC3C9",
-    "timestamp": "2025-04-07 08:41:37"
+    "weather_report": "As afternoon unfolds in Perth, the sky is an expansive canvas of infinite blue, promising unbroken serenity for the remaining daylight hours. The forecast extols a perfect day, with the sun reigning supreme, its rays dancing with unabashed freedom across the landscape. The clarity of the day is pristine, devoid of shadowy cloud or temperamental gust, offering a warm embrace to those who venture out. It's a day crafted for laissez-faire excursions into the world, the kind invited by the gentle warmth that wraps around the city like a favorite sweater. Light, breathable clothing\u2014perhaps a breezy linen top and comfortable sun hat\u2014completes the attire best suited for this sun-filled tableau. \n\nWith the sun's splendor at its zenith, the sensible might seek harmony between sunlight and shade, taking heed of the UV index's unwavering intensity. Mornings might have summoned industrious pursuits, but as afternoon unfurls, a languid stroll along Perth's myriad pathways sounds like just the ticket\u2014a gentle expedition among the familiar charms of King's Park or a quiet jaunt along the banks of the Swan River, each offering their brand of solace and simplicity. Should one find oneself in possession of an idle afternoon, settling on an alfresco terrace, sheltered by the amiable company of friends or pages of a cherished novel, might be the finest indulgence amid Perth's sunlit serenade.",
+    "color_code": "#FFD88D",
+    "timestamp": "2025-04-07 14:12:59"
 }
