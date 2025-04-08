@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95406798763904,
-            "longitude": 115.8528185495703
+            "latitude": -31.94968017743895,
+            "longitude": 115.8206780331989
         },
         "current_conditions": {
-            "timestamp": "2025-04-08T06:12:09+00:00",
-            "temperature_c": 27.63,
-            "temperature_f": 81.734,
-            "humidity": 56,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 260,
-            "description": "few clouds"
+            "timestamp": "2025-04-08T12:15:22+00:00",
+            "temperature_c": 21.94,
+            "temperature_f": 71.492,
+            "humidity": 83,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 210,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-04-08T09:00:00+00:00",
-                "temperature": 26.91,
-                "windSpeed": 10.782340000000001,
-                "windDirection": 226,
-                "shortForecast": "few clouds"
+                "startTime": "2025-04-08T15:00:00+00:00",
+                "temperature": 20.85,
+                "windSpeed": 12.12454,
+                "windDirection": 171,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-04-08T12:00:00+00:00",
-                "temperature": 23.18,
-                "windSpeed": 14.04836,
-                "windDirection": 200,
+                "startTime": "2025-04-08T18:00:00+00:00",
+                "temperature": 18.27,
+                "windSpeed": 8.70193,
+                "windDirection": 161,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "As the afternoon sun reaches its gentle zenith over Perth, the sky above is a vast ocean of blue, kissed by the warmth of a lingering sunbeam. With only a few clouds braving to drift timidly across the serene expanse, the day unfolds under a coronet of skies quintessentially clear. The sun has embarked on its journey westward, painting shadows long and eloquent on the streets and parks below. Amid this sunlit tableau, it is the sort of day that invites leisurely walks or quiet moments on a sun-dappled bench, perhaps shared with an open book and a cup of something cool. Given the clarity of the skies, a brimmed hat or light scarf would serve well\u2014to shade against the brilliance above and bask in the mild caress of the day. Though the UV index serenely hovers at moderate levels, a touch of sunscreen would be wise for those meandering through Perth's sunlit avenues. As the day stretches into an ethereal afternoon, the clarity remains impeccable like a cotton sheet effortlessly spread across the heavens. One might find serenity in a garden tendril or let the afternoon amble seamlessly into intent reflection on a verandah, enveloped in the soft embrace of spring. The tone of the day is as clear as a meditative sigh, welcoming exploration, or simply a pause to marvel at the completeness of skies vacant save for a few whispering clouds.",
-    "color_code": "#7EC8E3",
-    "timestamp": "2025-04-08 14:12:09"
+    "weather_report": "As the evening settles over Subiaco, the sky remains delightfully clear, opening the vast cinematic expanse to a sprinkle of starlight. The air, gentle and serene, carries the comforting whispers of a warm day receding into night. This clarity, unmarred by clouds or haze, invites a lingering gaze at the infinite, promising a calm and quiet night ahead. Though the sun has taken its bow below the horizon, the remnants of warmth still linger in the air, demanding only a light jacket for those who venture out into the cooling embrace of the evening. A serene night like this becomes an invitation to savor simplicity\u2014a gentle stroll through hushed streets or perhaps an hour spent on a porch with a favored book for company. The night\u2019s clarity extends a peaceful tranquility, encouraging a stroll or reflection, wrapped in the knowledge of a well-spent day. Relish in the calm that precedes a new sunlight, promising another luminous dawn. Should you choose to reflect on stars or stay indoors with the rhythms of a favorite tune, the evening's gentle approach holds a peaceful promise.",
+    "color_code": "#2E4053",
+    "timestamp": "2025-04-08 20:15:23"
 }
