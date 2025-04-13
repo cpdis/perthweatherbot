@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Scarborough",
             "country": "AU",
-            "latitude": -31.94968150993089,
-            "longitude": 115.8206642048305
+            "latitude": -31.89392081666667,
+            "longitude": 115.7713062333333
         },
         "current_conditions": {
-            "timestamp": "2025-04-13T02:07:05+00:00",
-            "temperature_c": 25.14,
-            "temperature_f": 77.252,
-            "humidity": 59,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 110,
+            "timestamp": "2025-04-13T06:10:50+00:00",
+            "temperature_c": 27.89,
+            "temperature_f": 82.202,
+            "humidity": 52,
+            "wind_speed_mph": 6.91233,
+            "wind_direction": 150,
             "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-04-13T03:00:00+00:00",
-                "temperature": 25.14,
-                "windSpeed": 3.6463099999999997,
-                "windDirection": 11,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-04-13T09:00:00+00:00",
+                "temperature": 26.83,
+                "windSpeed": 10.89419,
+                "windDirection": 253,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-04-13T06:00:00+00:00",
-                "temperature": 26.03,
-                "windSpeed": 12.32587,
-                "windDirection": 266,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-04-13T12:00:00+00:00",
+                "temperature": 24.04,
+                "windSpeed": 7.20314,
+                "windDirection": 256,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "As the orange-pink hues of dawn give way to morning light over the verdant expanses of Subiaco, the sky will be painted by the gentle brushstrokes of scattered clouds. On this tranquil day, the sun peeks intermittently, casting subtle shadows that dance with the gentle breeze. Pleasant, without scorching intensities, today promises a feather-light embrace of sunlight, unlikely to be harsh enough to demand a commanding sunscreen protectiveness, letting filtered rays offer warmth without burn. Dress light and airy, perhaps in a cream linen shirt or a soft cotton dress, perfectly accompanied by a pair of leisurely sandals that speak the language of comfort. The clarity suggests a day where the soft illumination will somewhat blur the sharpness of the horizon, still allowing the world to reveal itself in hues rather more mellow than vast expanses of blue. Engage in the mundane, yet profound: a leisurely stroll along the quiet streets, allowing thoughts to wander like the soft clouds above. Or perhaps, a moment with a book on the back porch, where the interplay of sun and shade offers a companionable environment. Today, Subiaco bestows a day rich in quiet contentment, a perfect invitation to indulge in the soft tapestry of existence, small pleasures weaving a tranquil narrative.",
-    "color_code": "#8fbcdd",
-    "timestamp": "2025-04-13 10:07:05"
+    "weather_report": "As the afternoon settles in Scarborough, the sky offers a tapestry of broken clouds drifting lazily across a muted blue expanse. The sun occasionally peeks through, casting dappled patterns of light that play across the seaside town like a gentle artist sketching outlines in soft hues. The air carries a gentle touch, neither too warm nor too cool, inviting you to linger, to breathe it all in. Though the clouds obscure the sun at times, creating a patchwork canopy, the day still holds a charm of its own, a medley of grey and glimmers, inviting introspection.\n\nDressing for such a day demands a balance\u2014a light sweater and comfortable shoes to wander the historic streets and perhaps a hat just in case the sun decides to make a more definitive appearance. While today\u2019s UV index isn't aggressively high, some measure of skin protection remains wise. It\u2019s a day that coaxes you outdoors yet asks for no grand adventures, making it ideal for a leisurely stroll by the harbor or a quiet visit to a local caf\u00e9, where a warm drink and a view of the sea can accompany you on this aesthetically pleasing yet subdued afternoon.",
+    "color_code": "#A9BCCB",
+    "timestamp": "2025-04-13 14:10:51"
 }
