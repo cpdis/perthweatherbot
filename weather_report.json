@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94968786124333,
-            "longitude": 115.8207175982432
+            "latitude": -31.95383193300962,
+            "longitude": 115.8526305070342
         },
         "current_conditions": {
-            "timestamp": "2025-04-14T00:43:09+00:00",
-            "temperature_c": 19.2,
-            "temperature_f": 66.56,
-            "humidity": 92,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 150,
+            "timestamp": "2025-04-14T06:13:18+00:00",
+            "temperature_c": 25.36,
+            "temperature_f": 77.648,
+            "humidity": 58,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 240,
             "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-04-14T03:00:00+00:00",
-                "temperature": 20.39,
-                "windSpeed": 9.283550000000002,
-                "windDirection": 218,
+                "startTime": "2025-04-14T09:00:00+00:00",
+                "temperature": 24.95,
+                "windSpeed": 12.191650000000001,
+                "windDirection": 210,
                 "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-04-14T06:00:00+00:00",
-                "temperature": 23.27,
-                "windSpeed": 11.94558,
-                "windDirection": 223,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-04-14T12:00:00+00:00",
+                "temperature": 23.55,
+                "windSpeed": 10.603380000000001,
+                "windDirection": 201,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "As the day unfurls in Subiaco, the sky presents itself with a tapestry of scattered clouds, hinting at the invisible but welcomed presence of the sun. By the time the town stirs alive at 8:43 AM, expect the clouds to dance amid gentle rays, teasing the onset of a bright and serene day. The clarity of the atmosphere invites you to step outside, where the morning's cool caress meets the muted warmth of the early sun. While the forecast doesn't reveal the UV index, the playful clouds suggest a mild sunlit garden with enough shade to delight in without concern. Dressing lightly in layered comfort might be best; think of a soft cotton shirt covered by a light jacket that can be casually shrugged off as the day warms. Consider a stroll through yon suburban lanes, perhaps a gentle perambulation in a nearby park, absorbing the charm of nature\u2019s subtle awakenings, and relishing the delicate auditory landscape composed by rustling leaves and distant songbirds. Such days ask nothing more of you than to pause, to sip your morning coffee a little slower, and to let curiosity guide your steps outside, where mundane tasks seem less ordinary under this mild morning sky.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-04-14 08:43:10"
+    "weather_report": "In Perth, the air bristles with a crisp clarity, accented by the dappling dance of scattered clouds. As the clock spins closer to midday, patches of blue assert themselves amidst the gauzy veil overhead, forecasting an afternoon lightly adorned with only a few clouds. The sun peeps through this cottony ballet, bathing the city in gentle light, neither harsh nor shy, whispering promises of a mild UV index. It's a day crafted for those who revel in mild warmth without the press of scorching heat. The sky remains a tease of sunlight, never committing wholly to a fierce blaze, making it perfect for a casual stroll or a meandering bicycle ride through leafy avenues.\n\nAs the gentle afternoon unfolds, the clarity serves as a perfect canvas for the day\u2019s simple pleasures. Opt for a light outfit; a soft cotton shirt with comfortable trousers will suit the mixed narrative of the sky. Sensible footwear and perhaps a hat to shield from the brief, yet deceptive moments of sun ensure comfort during impromptu outdoor adventures. The ambiance encourages quiet reflection or relaxed gatherings on terraces, with a chilled glass of something refreshing. It is a day that invites intimacy with life\u2019s simple joys, where the weather wraps around you like an old friend\u2019s kindly arm, lightly suggesting you savor each mellow moment as it comes.",
+    "color_code": "#C2C7CF",
+    "timestamp": "2025-04-14 14:13:19"
 }
