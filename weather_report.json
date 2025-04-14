@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95383193300962,
-            "longitude": 115.8526305070342
+            "latitude": -31.94968009382142,
+            "longitude": 115.8206843339854
         },
         "current_conditions": {
-            "timestamp": "2025-04-14T06:13:18+00:00",
-            "temperature_c": 25.36,
-            "temperature_f": 77.648,
-            "humidity": 58,
-            "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 240,
-            "description": "scattered clouds"
+            "timestamp": "2025-04-14T12:15:30+00:00",
+            "temperature_c": 19.81,
+            "temperature_f": 67.658,
+            "humidity": 80,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 200,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-04-14T09:00:00+00:00",
-                "temperature": 24.95,
-                "windSpeed": 12.191650000000001,
-                "windDirection": 210,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-04-14T15:00:00+00:00",
+                "temperature": 19.24,
+                "windSpeed": 7.33736,
+                "windDirection": 183,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-04-14T12:00:00+00:00",
-                "temperature": 23.55,
-                "windSpeed": 10.603380000000001,
-                "windDirection": 201,
-                "shortForecast": "few clouds"
+                "startTime": "2025-04-14T18:00:00+00:00",
+                "temperature": 17.34,
+                "windSpeed": 4.51874,
+                "windDirection": 111,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "In Perth, the air bristles with a crisp clarity, accented by the dappling dance of scattered clouds. As the clock spins closer to midday, patches of blue assert themselves amidst the gauzy veil overhead, forecasting an afternoon lightly adorned with only a few clouds. The sun peeps through this cottony ballet, bathing the city in gentle light, neither harsh nor shy, whispering promises of a mild UV index. It's a day crafted for those who revel in mild warmth without the press of scorching heat. The sky remains a tease of sunlight, never committing wholly to a fierce blaze, making it perfect for a casual stroll or a meandering bicycle ride through leafy avenues.\n\nAs the gentle afternoon unfolds, the clarity serves as a perfect canvas for the day\u2019s simple pleasures. Opt for a light outfit; a soft cotton shirt with comfortable trousers will suit the mixed narrative of the sky. Sensible footwear and perhaps a hat to shield from the brief, yet deceptive moments of sun ensure comfort during impromptu outdoor adventures. The ambiance encourages quiet reflection or relaxed gatherings on terraces, with a chilled glass of something refreshing. It is a day that invites intimacy with life\u2019s simple joys, where the weather wraps around you like an old friend\u2019s kindly arm, lightly suggesting you savor each mellow moment as it comes.",
-    "color_code": "#C2C7CF",
-    "timestamp": "2025-04-14 14:13:19"
+    "weather_report": "As the evening matures in Subiaco, the sky remains an expanse of crystal clearness, with the once glaring sun now dipping gently beyond the horizon. The day has been graced by a canopy that promised uninterrupted clarity, offering a heartening sense of freedom typical to clear skies. Though the detailed UV index went by unread earlier, you need not worry now as the impending darkness provides an unequivocally safe cocoon. The air holds onto the warmth from the day's gentle embrace, crafting a night perfect for leisurely strolls or winding down with a delicious meal alfresco. As you step out, a light jacket would suffice to fend off the evening's mild chill, continuing to capture the essence of spring while inviting you into its comforting hold. For now, let your listless mind drift into the possibilities this tranquil evening offers\u2014perhaps a quiet walk through tree-lined streets as the cool air playfully dances around you, or cherishing an intimate moment under the canopy of stars just beginning their evening parade. The crisp clarity beckons\u2014an invitation wrapped in the promise of solace and serenity.",
+    "color_code": "#BFD0DF",
+    "timestamp": "2025-04-14 20:15:31"
 }
