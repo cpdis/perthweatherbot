@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95411404979716,
-            "longitude": 115.8528050265368
+            "latitude": -31.94968975794495,
+            "longitude": 115.8207268147428
         },
         "current_conditions": {
-            "timestamp": "2025-04-15T06:12:20+00:00",
-            "temperature_c": 25.71,
-            "temperature_f": 78.278,
-            "humidity": 38,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 170,
+            "timestamp": "2025-04-15T12:15:19+00:00",
+            "temperature_c": 19.98,
+            "temperature_f": 67.964,
+            "humidity": 60,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 190,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-04-15T09:00:00+00:00",
-                "temperature": 24.92,
-                "windSpeed": 15.36819,
-                "windDirection": 200,
+                "startTime": "2025-04-15T15:00:00+00:00",
+                "temperature": 18.65,
+                "windSpeed": 12.50483,
+                "windDirection": 164,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-04-15T12:00:00+00:00",
-                "temperature": 21.3,
-                "windSpeed": 13.15356,
-                "windDirection": 174,
-                "shortForecast": "clear sky"
+                "startTime": "2025-04-15T18:00:00+00:00",
+                "temperature": 16.49,
+                "windSpeed": 5.10036,
+                "windDirection": 131,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "As the warm sun drapes Perth in a gentle embrace at mid-afternoon, one feels the unmistakable glow of an autumn day graced by clear skies. The azure heavens stretch far and wide, a testament to the city's own vastness and openness. Even now, as you stand on the cusp of late afternoon, you can feel the lingering touch of the morning's promise, when the sunlight was a soft caress rather than a bold proclamation. The sun, now declining gently westward, leaves nothing but the crisp clarity of an unblemished sky, offering a serene canvas that invites introspection or spirited adventure. It's a day made for strolling along the Swan River, with the dancing ripples mirroring the luminous light above.\n\nEmbrace the warmth by donning light, breathable fabrics that catch the breeze, allowing your skin to luxuriate in the golden rays without risk of discomfort. A hat with a wide brim might serve as both adornment and shield, embracing style and sensibility. The city's parks beckon with the promise of a languid afternoon; perhaps a book in hand or simply your thoughts will suffice as company. As you wander, the day feels languorous yet invigorating, a harmonious blend of tranquility and youthful energy. Consider a leisurely walk through Kings Park, where nature\u2019s lullaby harmonizes with the city's faint murmur\u2014an ideal symphony for a day so exquisitely clear.",
-    "color_code": "#87CEFA",
-    "timestamp": "2025-04-15 14:12:20"
+    "weather_report": "As the afternoon wanes into evening in Subiaco, the day has dallied into a subtly shifting symphony of skyward hues. The earlier expanse of blue skies gave way to cloud whispers, delicate and fleeting, as today's gentle weather slowly transitions into dusk. The sky now holds that contemplative golden light, softening as the sun bows gracefully out of sight. It's been a day of clarity, with only a handful of clouds teasing the horizon, allowing the sun's embrace to filter through unhindered. Such a mild, inviting day, though the UV index would have followed the sunken path of moderation while daylight reigned.\n\nGiven this delightful ambiance, residents and wanderers in Subiaco might feel cocooned in comfort, contemplating light layers that echo the day's temperateness. As daylight dips, a pullover or a casual jacket would guard against any perceptible intrusion by the evening's cooler breaths. It's a serene time to leisurely stroll through tree-lined paths or perhaps to settle on a bench, book in hand, watching day yield to night under the slowly fading azure dome. A determined soul may find tranquility in these hours, a time to indulge in the art of doing very little \u2014 perhaps a quiet reflection or softly spoken conversation, letting the simplicity of dusk guide the way.",
+    "color_code": "#FCE883",
+    "timestamp": "2025-04-15 20:15:19"
 }
