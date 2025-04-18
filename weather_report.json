@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Scarborough",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.89863252488822,
-            "longitude": 115.7567791832918
+            "latitude": -31.94970413731896,
+            "longitude": 115.8207130055009
         },
         "current_conditions": {
-            "timestamp": "2025-04-18T00:40:08+00:00",
-            "temperature_c": 14.31,
-            "temperature_f": 57.757999999999996,
-            "humidity": 80,
-            "wind_speed_mph": 12.750900000000001,
-            "wind_direction": 153,
-            "description": "few clouds"
+            "timestamp": "2025-04-18T06:12:10+00:00",
+            "temperature_c": 22.57,
+            "temperature_f": 72.626,
+            "humidity": 38,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 180,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-04-18T03:00:00+00:00",
-                "temperature": 15.51,
-                "windSpeed": 15.56952,
-                "windDirection": 178,
-                "shortForecast": "few clouds"
+                "startTime": "2025-04-18T09:00:00+00:00",
+                "temperature": 22.06,
+                "windSpeed": 15.79322,
+                "windDirection": 205,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-04-18T06:00:00+00:00",
-                "temperature": 17.94,
-                "windSpeed": 12.79564,
-                "windDirection": 194,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-04-18T12:00:00+00:00",
+                "temperature": 18.36,
+                "windSpeed": 15.09975,
+                "windDirection": 137,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "As the sun stretches over the horizons of Scarborough on this April morning, a gentle veil of clouds dances across the sky, letting sporadic rays of light filter through with an ethereal softness. By 8:40 in the morning, a quiet tranquility still lingers; the scattered clouds promise moments of bright clarity interspersed with the soothing shade of cloud cover. It's a day sculpted for those who relish serenity and mildness, where the sun teases but does not overwhelm, and the UV index remains modest enough to forego the insistent need for sunscreen. This is an inviting backdrop for leisurely pursuits that call for contemplation or gentle mobility. Dress in light layers, ready to shed or add as the sun plays its hide and seek. A stroll along the picturesque seafront could brightens one's spirit, or perhaps, a comfortable nook in a caf\u00e9 with a book for company will lead to hours of tranquil indulgence. The weather whispers of harmony and gentle contentment; it speaks to the soul eager for a day that unfolds at a pace unfettered by haste or clamor.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-04-18 08:40:09"
+    "weather_report": "As the clock gently ticks past two in the afternoon in Subiaco, the sky remains an unbroken canvas of azure, unmarred by the clouds that sparingly paint other days. This clear sky, heralded by the early predictions, allows the sun to cast its warm, golden brushstrokes over the city, invoking a serene transparency that highlights the first few days of autumn. The air whispers promises of a crisp, invigorating brightness, with the UV rays maintaining a considerate intensity that dances between warmth and caution. Donning a light jacket or an airy blouse will suit you well, an embrace of the day\u2019s tender warmth with a nod to the lingering coolness of the fading morning chill. Now is the ideal moment to embrace the outdoors, relishing the texture of a beautifully laid-out garden perhaps, or wandering through narrow, sunlit streets. Consider sauntering to a nearby cafe, where the chairs beckon you from sidewalk corners to sip leisurely on freshly brewed coffee, watching the world steeped in its afternoon glow. Find solace in the quiet hum of nature, allowing the day to unfold with the simplicity that often hides in plain sight, promising tranquility in the midst of routine.",
+    "color_code": "#87CEFA",
+    "timestamp": "2025-04-18 14:12:11"
 }
