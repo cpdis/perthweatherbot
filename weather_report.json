@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth Airport",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.93422867377642,
-            "longitude": 115.9600007343389
+            "latitude": -31.96855334956237,
+            "longitude": 115.839863921591
         },
         "current_conditions": {
-            "timestamp": "2025-04-20T06:10:56+00:00",
-            "temperature_c": 23.99,
-            "temperature_f": 75.182,
-            "humidity": 34,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 60,
+            "timestamp": "2025-04-20T12:13:30+00:00",
+            "temperature_c": 18.63,
+            "temperature_f": 65.53399999999999,
+            "humidity": 49,
+            "wind_speed_mph": 9.55199,
+            "wind_direction": 95,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-04-20T09:00:00+00:00",
-                "temperature": 23.84,
-                "windSpeed": 8.90326,
-                "windDirection": 73,
+                "startTime": "2025-04-20T15:00:00+00:00",
+                "temperature": 18.54,
+                "windSpeed": 11.341590000000002,
+                "windDirection": 89,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-04-20T12:00:00+00:00",
-                "temperature": 20.48,
-                "windSpeed": 7.42684,
-                "windDirection": 94,
+                "startTime": "2025-04-20T18:00:00+00:00",
+                "temperature": 18.42,
+                "windSpeed": 13.06408,
+                "windDirection": 74,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "As the afternoon sun casts its golden hue over Perth Airport, the skies remain clear and inviting. Bathed in the warm, unwavering embrace of sunlight, today is nothing short of magnificent for those reveling in the simple joy of a sunlit day. The perfect azure sky, unblemished by a single cloud, promises a day resplendent with light. This clarity ensures a high UV index, urging one to don a wide-brimmed hat or a pair of sleek sunglasses to guard against the sun's vigorous rays. A layer of sunscreen would also be a wise ally against this radiant splendor. Light, breathable clothing would serve one well, allowing the stillness of the fair weather to be embraced with comfort and ease.\n\nThe day beckons with invitations of relaxed yet purposeful pleasures, ideal for an unhurried stroll down nearby paths or a reflective journey through the airport's quiet corners, with a book or journal in hand. For those wanting a more active pursuit, this weather is perfect for a leisurely bicycle ride or a gentle round of golf, where the consistent sunshine makes time slip away unbeknownst. Whether one seeks solace in solitude or the warm company of friends, the clear day promises to cradle every moment in its sunlit grasp, making every simple pursuit feel momentous and memorable under the vast indigo canopy.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-04-20 14:10:56"
+    "weather_report": "As dusk tucks itself gently over Perth, the serenity of today\u2019s lingering clear skies holds a promise made and kept. It's a subtle reminder of life's uncomplicated joys, where the expanse above remains unsullied by clouds or commotion, whispering secrets intertwined with the hues of the setting sun. As the daylight begins to yield to the embrace of evening, thoughts of how the sky's soft embrace felt while day was still present linger like the warmth of a half-forgotten dream. The clarity bathes the city in mellow tones, hinting at a UV index that was once surely assertive but now fades into the cool surrender of twilight.\n\nThe scene invites a wardrobe of comfort\u2014light layers for the whispered chill that will come later, with room for that one whimsical accessory, just enough to capture the subtle drama of changing light. Perhaps a light jacket, a perfect companion for an evening stroll, or to be slung casually over a shoulder as you pause to capture the day's golden closure with your gaze. With the day winding down, this pure, inviting air suggests a gentle promenade along the Swan River, or a serene moment on a balcony with a novel\u2019s soft pages whispering beneath your touch. Here, the magic is in the simplicity\u2014a city quietly exhaling, inviting you to join in the lull of nature\u2019s rhythm, where even the smallest activities feel profound under a canopy of sky painting itself into tomorrow.",
+    "color_code": "#FFD700",
+    "timestamp": "2025-04-20 20:13:30"
 }
