@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Fremantle",
             "country": "AU",
-            "latitude": -31.95473257766353,
-            "longitude": 115.8526315302897
+            "latitude": -32.05562280763238,
+            "longitude": 115.7428473324374
         },
         "current_conditions": {
-            "timestamp": "2025-04-22T06:12:17+00:00",
-            "temperature_c": 32.11,
-            "temperature_f": 89.798,
-            "humidity": 24,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 340,
-            "description": "clear sky"
+            "timestamp": "2025-04-22T12:15:14+00:00",
+            "temperature_c": 22.92,
+            "temperature_f": 73.256,
+            "humidity": 70,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 250,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-04-22T09:00:00+00:00",
-                "temperature": 29.41,
-                "windSpeed": 7.13603,
-                "windDirection": 255,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-04-22T15:00:00+00:00",
+                "temperature": 22.16,
+                "windSpeed": 0.6711,
+                "windDirection": 99,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-04-22T12:00:00+00:00",
-                "temperature": 25.74,
-                "windSpeed": 5.70435,
-                "windDirection": 197,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-04-22T18:00:00+00:00",
+                "temperature": 21.62,
+                "windSpeed": 5.72672,
+                "windDirection": 11,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "As the afternoon stretches leisurely over Perth, the sky wears a mosaic of scattered and broken clouds, allowing sunbeams to dance sporadically across the city's avenues. It isn't a day famed for blazing sunshine, yet it possesses its own quiet charm, a pleasant ambiguity that lulls one into a sense of gentle ease. The clarity of the day ebbs and flows with the whims of the sky, offering brief windows of brilliance before being modestly concealed by a cloak of clouds. The UV index remains modest, inviting you to enjoy the outdoors without urgent worry, a hat and a hint of sunscreen perhaps wise companions nonetheless. \n\nIn such temperate climes, attire may lean towards the comfortable; a light jacket for the cooler breezes, perhaps, allowing for the luxury of layers. This is a day for the pensive walker, the curious stroller, lost in the rhythm of the afternoon. Casual errands intertwine with simple pleasures; a trip to a local caf\u00e9 becomes an invitation to linger over a cup of fine brew, or an unhurried visit to a bookshop where each page turns as languidly as the hours. The city hums at a leisurely pace, lending itself to gentle adventures and intimate discoveries, under a sky that quietly shifts and changes, echoing the endless possibilities of the hours ahead.",
-    "color_code": "#B3C6E7",
-    "timestamp": "2025-04-22 14:12:17"
+    "weather_report": "As the evening settles gently over Fremantle, there lingers a delicate patter of light rain, composing a rhythm that tempers the day's bustle into a soothing backdrop. The skies, a tapestry of muted greys and whispers of watery blues, stretch in a gentle veil across the town, promising little sunlight yet enveloping the streets in a cozy embrace. The air, cool and damp, carries a freshness that seems to wash away the complexities of the world, inviting one to slide a little deeper into reflection or relaxation. This weather doesn't beg for broad-brimmed hats or sunglasses; instead, perhaps a snug sweater or a beloved raincoat, the kind you reach for on days designed for strolling over cobblestones or ducking into the warmth of a welcoming caf\u00e9.\n\nThe charm of the rain writes its own leisurely itinerary for the evening\u2014a pot of chamomile tea brewing on the stove, the subtle glow of lamp-lit corners perfect for unhurried conversations or a favorite book. Now is just the time to listen to the rain dance a gentle percussion on your window as you turn inward, a mellow background where serenity finds its rhythm. The world beyond might be awash with droplets, but indoors offers a haven of coziness, a chance to dive into the small rituals that infuse such weather with quiet joy.",
+    "color_code": "#7D8084",
+    "timestamp": "2025-04-22 20:15:15"
 }
