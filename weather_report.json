@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Herdsman",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.91864511461685,
-            "longitude": 115.7978937440604
+            "latitude": -31.94966830428992,
+            "longitude": 115.820970536011
         },
         "current_conditions": {
-            "timestamp": "2025-04-23T00:40:54+00:00",
-            "temperature_c": 20.84,
-            "temperature_f": 69.512,
-            "humidity": 90,
-            "wind_speed_mph": 11.699510000000002,
-            "wind_direction": 322,
-            "description": "few clouds"
+            "timestamp": "2025-04-23T06:12:25+00:00",
+            "temperature_c": 24.88,
+            "temperature_f": 76.78399999999999,
+            "humidity": 71,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 270,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2025-04-23T03:00:00+00:00",
-                "temperature": 22.08,
-                "windSpeed": 14.56287,
-                "windDirection": 304,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-04-23T09:00:00+00:00",
+                "temperature": 24.46,
+                "windSpeed": 17.851260000000003,
+                "windDirection": 241,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-04-23T06:00:00+00:00",
-                "temperature": 24.13,
-                "windSpeed": 17.515710000000002,
-                "windDirection": 262,
+                "startTime": "2025-04-23T12:00:00+00:00",
+                "temperature": 21.26,
+                "windSpeed": 18.1197,
+                "windDirection": 223,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "As dawn has yielded to mid-morning in Herdsman, the skies unfurl a tapestry of broken clouds, weaving alongside faint whispers of sunshine. Light rain is predicted, suggesting a gentle choreography of water droplets that might grace the earth in the hours to come. The morning feels like a watercolor painting, with muted tones that blend into one another, devoid of the piercing clarity that accompanies a clear, sunny day. The UV index takes a relaxed posture, making this a day where sun protection feels a mere afterthought.\n\nSuch a day beckons for comforts: perhaps a light jacket to guard against the crispness of the rain and a reliable pair of waterproof shoes to navigate puddles. The air, enriched with the scent of damp earth, makes it perfect for a serene walk through the neighborhood, appreciating the genteel persistence of nature as it drizzles its delicate hint of life upon the surroundings. Inside, it may be the warmth of a brew that calls, paired with a good book, as the outside world taps softly at the windowpanes. Productive solitude can thrive, as can tender moments with family, while the rains perform their quiet symphony outside.",
-    "color_code": "#9FB9CC",
-    "timestamp": "2025-04-23 08:40:55"
+    "weather_report": "As the afternoon unfolds in Subiaco, the fleeting patter of morning rain fades into memory, leaving a cool, lingering scent in the air. The skies, now soft and overcast, remain in a delicate game of peekaboo with the sun, suggesting that, despite the earlier showers, a break in the grey might still be possible. Yet, as it stands, the day wears the gentle somber hues of early spring, where the light seems to filter through, casting the world in a muted, silver glow. The coolness isn't biting, but it persuades you'd reach for a light jacket, something casual that feels like comfort\u2014a meeting of warmth and ease wherever you go.\n\nWith the clock gently nudging past two, settling into a cozy nook seems inviting, perhaps accompanied by a novel or a half-filled journal waiting for musings brought on by the atmospheric day. The UV index, graciously low, lulls the world with a promise of soft rays rather than a harsh glare\u2014the ideal time for a lazy walk under the canopy of budding tree blossoms that grace the pathways of Subiaco. This is a time for thoughtful wandering or gathering understated moments rather than heart-pounding adventures\u2014a day not lost but savored slowly with the tender suggestion of raindrops still echoing in your ear.",
+    "color_code": "#708090",
+    "timestamp": "2025-04-23 14:12:25"
 }
