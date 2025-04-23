@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94966830428992,
-            "longitude": 115.820970536011
+            "latitude": -31.94861743127531,
+            "longitude": 115.8596935359991
         },
         "current_conditions": {
-            "timestamp": "2025-04-23T06:12:25+00:00",
-            "temperature_c": 24.88,
-            "temperature_f": 76.78399999999999,
-            "humidity": 71,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 270,
-            "description": "light rain"
+            "timestamp": "2025-04-23T12:15:31+00:00",
+            "temperature_c": 20.65,
+            "temperature_f": 69.17,
+            "humidity": 68,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 230,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-04-23T09:00:00+00:00",
-                "temperature": 24.46,
-                "windSpeed": 17.851260000000003,
-                "windDirection": 241,
+                "startTime": "2025-04-23T15:00:00+00:00",
+                "temperature": 19.7,
+                "windSpeed": 16.35247,
+                "windDirection": 226,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-04-23T12:00:00+00:00",
-                "temperature": 21.26,
-                "windSpeed": 18.1197,
-                "windDirection": 223,
+                "startTime": "2025-04-23T18:00:00+00:00",
+                "temperature": 18.24,
+                "windSpeed": 14.94316,
+                "windDirection": 212,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Subiaco, the fleeting patter of morning rain fades into memory, leaving a cool, lingering scent in the air. The skies, now soft and overcast, remain in a delicate game of peekaboo with the sun, suggesting that, despite the earlier showers, a break in the grey might still be possible. Yet, as it stands, the day wears the gentle somber hues of early spring, where the light seems to filter through, casting the world in a muted, silver glow. The coolness isn't biting, but it persuades you'd reach for a light jacket, something casual that feels like comfort\u2014a meeting of warmth and ease wherever you go.\n\nWith the clock gently nudging past two, settling into a cozy nook seems inviting, perhaps accompanied by a novel or a half-filled journal waiting for musings brought on by the atmospheric day. The UV index, graciously low, lulls the world with a promise of soft rays rather than a harsh glare\u2014the ideal time for a lazy walk under the canopy of budding tree blossoms that grace the pathways of Subiaco. This is a time for thoughtful wandering or gathering understated moments rather than heart-pounding adventures\u2014a day not lost but savored slowly with the tender suggestion of raindrops still echoing in your ear.",
-    "color_code": "#708090",
-    "timestamp": "2025-04-23 14:12:25"
+    "weather_report": "As the day begins to wind down in Perth, a gentle curtain of light rain draws a soothing veil over the evening. The sky has been draped in overcast whispers, muting the sun's vibrant glow and producing a serene palette of soft grays. The earlier promise of light showers has cascaded into reality, leaving the airey fresh and the earth dampened with a subtle sheen. With the day saturated in soft rain, it's an evening that calls for comfort and reflection. Ideal weather for slipping into a warm sweater, perhaps finding refuge under the gentle percussion of raindrops on the roof, while indulging in a steaming mug of herbal tea. Activities should be pursued with quiet intimacy; dig into the last few chapters of that novel you've been savoring or engage in a heartfelt conversation that stretches like a languid daydream. Even the garden seems to pause, basking in the gentle lullaby of rain, breathing in the gentle caress of nature's renewal. The lack of relentless sunshine today offers a cozy embrace, inviting you to slow down and savor the softness of the moment, where the world tilts a little gentler and every word spoken resonates with warmth.",
+    "color_code": "#A4B8C4",
+    "timestamp": "2025-04-23 20:15:32"
 }
