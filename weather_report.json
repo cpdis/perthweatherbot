@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Rottnest Island",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.98964688980897,
-            "longitude": 115.5353158541571
+            "latitude": -31.95039229380902,
+            "longitude": 115.8162097824227
         },
         "current_conditions": {
-            "timestamp": "2025-04-24T06:12:45+00:00",
-            "temperature_c": 18.54,
-            "temperature_f": 65.372,
-            "humidity": 56,
-            "wind_speed_mph": 20.78173,
-            "wind_direction": 191,
-            "description": "broken clouds"
+            "timestamp": "2025-04-24T12:15:45+00:00",
+            "temperature_c": 16.32,
+            "temperature_f": 61.376,
+            "humidity": 54,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 130,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-04-24T09:00:00+00:00",
-                "temperature": 18.88,
-                "windSpeed": 21.65416,
-                "windDirection": 186,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-04-24T15:00:00+00:00",
+                "temperature": 15.94,
+                "windSpeed": 10.89419,
+                "windDirection": 129,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-04-24T12:00:00+00:00",
-                "temperature": 19.09,
-                "windSpeed": 27.64932,
-                "windDirection": 158,
-                "shortForecast": "few clouds"
+                "startTime": "2025-04-24T18:00:00+00:00",
+                "temperature": 14.66,
+                "windSpeed": 8.14268,
+                "windDirection": 140,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "As you find yourself on the shores of Rottnest Island this afternoon, you'll notice a tapestry of scattered clouds gently coasting across the sky, interspersed with moments when the sun playfully darts in and out between them. Earlier, the few clouds created a nuanced dance of sunshine and shadow that promises an afternoon of pleasant warmth. Your surroundings flicker with sunlight, allowing the island's vibrant colors to breathe with life, though not too intensely; it is an embrace gentle enough for all to savor. The UV index lingers in a moderate range, so while the sun won't be overbearing today, a touch of sunscreen might be a prudent addition to your day.\n\nApril's touch on this coastal haven is light and genial, hinting at the perfect opportunity to relish the day's particulars. A leisurely stroll along the beach, feeling the whisper of the breeze against your skin, or perhaps a gentle bike ride under the dappled shade of sparse clouds, comes to mind as delightful pursuits. Dress comfortably, with layers you can peel away or add as the weather shuffles its pleasing deck. The serenity of Rottnest offers itself to quiet contemplation, and this idyllic day, mild in its charm and evocative in its simplicity, generously allows you the time to pause, to watch as the world unfolds gently, like the sea kissing the shore.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-04-24 14:12:46"
+    "weather_report": "As twilight envelopes the charming town of Subiaco, we find ourselves entrenched in the remnants of a sun-kissed day drenched in delightful clarity. The preceding hours were graced by sheer cerulean skies, suggesting a dance of radiant sunshine that has now given way to an indigo dusk. The air is undoubtedly pristine, brimming with the quietude that follows the fervor of daylight, leaving the world aglow in its own serene majesty. Don your lightweight attire to match the breezy embrace of the evening, as the heat of the day has begun to slip away, leaving an ideal atmosphere for leisurely pursuits. Perhaps a stroll through the neighborhood or a visit to a quaint caf\u00e9 to savor a sip of evening tea would complement this calmness perfectly. As the sky transitions into a canopy of stars, enjoy these quiet moments where the lines between day and night blur into an introspective and indulgent tranquility, offering a canvas painted with nothing but promise.",
+    "color_code": "#1C1F33",
+    "timestamp": "2025-04-24 20:15:45"
 }
