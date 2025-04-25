@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Scarborough",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.90419047829835,
-            "longitude": 115.7679734414642
+            "latitude": -31.94967011037423,
+            "longitude": 115.8207202782218
         },
         "current_conditions": {
-            "timestamp": "2025-04-25T00:41:28+00:00",
-            "temperature_c": 13.84,
-            "temperature_f": 56.912,
-            "humidity": 73,
-            "wind_speed_mph": 1.14087,
-            "wind_direction": 210,
-            "description": "clear sky"
+            "timestamp": "2025-04-25T06:12:39+00:00",
+            "temperature_c": 22.55,
+            "temperature_f": 72.59,
+            "humidity": 39,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 140,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-04-25T03:00:00+00:00",
-                "temperature": 15.64,
-                "windSpeed": 8.25453,
-                "windDirection": 136,
-                "shortForecast": "clear sky"
+                "startTime": "2025-04-25T09:00:00+00:00",
+                "temperature": 21.92,
+                "windSpeed": 12.840380000000001,
+                "windDirection": 206,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-04-25T06:00:00+00:00",
-                "temperature": 18.75,
-                "windSpeed": 12.728530000000001,
-                "windDirection": 216,
-                "shortForecast": "clear sky"
+                "startTime": "2025-04-25T12:00:00+00:00",
+                "temperature": 18.72,
+                "windSpeed": 8.14268,
+                "windDirection": 117,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "In Scarborough this morning, the sun rises to greet a crisp, clear sky, wrapping the town in a golden embrace. The day promises to unfold with uninterrupted blue, held in the gentle clasp of a temperate breeze. No clouds dare to mar the clarity, allowing the sun's full smile to grace each corner of the day. As steps echo along the stretches of sand and cobblestone, the world feels exquisitely bright and alive. The UV index is not overpowering, yet enough to remind you that a hat could be a pleasant companion, along with a light scarf flitting gently about your neck. For those catching the whisper of the sea air, a well-fitted jacket should suffice, leaving your arms free to swing as you wander.\n\nA walk along the coastline could invigorate the senses, passing by the lapping waves that offer a rhythmic comfort. Or perhaps, seated upon a sun-drenched bench, you might take in the soft symphony of morning sounds\u2014seagulls harmonizing with the distant murmur of a waking town. Steeped in such serene grandeur, the simplicity of a good book, paired with a hot cup of coffee, cradles you in this idyllic embrace. Embrace the joy of the ordinary, and let the unfurled day run its silk thread through the fabric of your life.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-04-25 08:41:28"
+    "weather_report": "As the afternoon settles over Subiaco, the sky drapes itself in a subtle tapestry of scattered and few clouds, offering delicate wisps against a backdrop of gentle blues. The sun, though veiled at times, intermittently sends its warm embrace, casting a reassuring glow across the landscape. The UV index should hover at moderate levels, beckoning you to bask in this blend of light and shadow but reminding you to seek shelter under a wide-brimmed hat or to sport a pair of stylish sunglasses. It's a day that inspires quiet reflection outdoors, where each rustle of leaves whispers stories of windswept travels. The air is mild, making a light jacket or a comfortable sweater an ideal companion, ready to keep away any vagrant breeze that might meander through the nooks of this lively afternoon. An amiable aura washes over the day, encouraging a leisurely stroll down tree-lined streets or perhaps a visit to a quaint outdoor cafe, where one might indulge in the simple pleasure of a well-pressed coffee or a fragrant tea. It is an afternoon to languish in the ordinary, allowing the gentle pulse of life to unfold at its own unhurried pace, inviting you to observe the beauty in every fleeting moment.",
+    "color_code": "#AEC6CF",
+    "timestamp": "2025-04-25 14:12:40"
 }
