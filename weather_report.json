@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95421780236653,
-            "longitude": 115.8526077319768
+            "latitude": -31.9496932430105,
+            "longitude": 115.8206882482796
         },
         "current_conditions": {
-            "timestamp": "2025-04-28T06:20:38+00:00",
-            "temperature_c": 24.46,
-            "temperature_f": 76.028,
-            "humidity": 36,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 100,
+            "timestamp": "2025-04-28T12:15:31+00:00",
+            "temperature_c": 16.58,
+            "temperature_f": 61.843999999999994,
+            "humidity": 59,
+            "wind_speed_mph": 6.91233,
+            "wind_direction": 90,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-04-28T09:00:00+00:00",
-                "temperature": 23.72,
-                "windSpeed": 10.581010000000001,
-                "windDirection": 187,
-                "shortForecast": "clear sky"
+                "startTime": "2025-04-28T15:00:00+00:00",
+                "temperature": 16.12,
+                "windSpeed": 6.91233,
+                "windDirection": 86,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-04-28T12:00:00+00:00",
-                "temperature": 19.61,
-                "windSpeed": 8.38875,
-                "windDirection": 154,
-                "shortForecast": "clear sky"
+                "startTime": "2025-04-28T18:00:00+00:00",
+                "temperature": 15.27,
+                "windSpeed": 8.88089,
+                "windDirection": 85,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "The gentle sun hangs approvingly over the city of Perth, casting its golden hues onto the world below. With the current local time at 2:20 in the afternoon, the sky remains clear as a peacefully unrolled page, inviting warmth and light to envelop the earth. The air appears sharp and transparent, as if the very particles are polished, setting the stage for a perfect day in April where nature seems to hum quietly along to its own rhythm. The absence of clouds guarantees a day uncluttered by distraction, allowing the sun's rays to stream unobstructed, with a UV index that nudges you to pack your sunhat and a light layer of sunscreen. But fear not the threat of oppressive heat; the day smiles upon us with the kind of warmth that wraps itself gently around your shoulders.\n\nStep out into this day with a spring in your step, dressed in airy cottons and satisfied pastels, colors that reflect the serenity of the sky. It's neither stifling nor chilling\u2014it's the kind of perfect afternoon that invites leisurely strolls through the verdant botanical gardens, where shadows play with light amidst the lofty tree canopies. A quiet walk along the riverside or an afternoon curled up with a cherished book on a sunlit terrace would both feel sublime. Celebrate the simplicity of this flawless day, where the potential for pleasantness looms as vast as the blue overhead.",
-    "color_code": "#87CEFA",
-    "timestamp": "2025-04-28 14:20:38"
+    "weather_report": "As the day draws to a serene close in Subiaco, the sky tells a gentle tale of its own. Earlier, with a delicate dance of few clouds, the blue above seemed almost dreamy, enhancing the sun's warmth without imposing too much. However, as afternoon tiptoed into evening, the sky adorned itself with scattered clouds, creating a picturesque canvas of soft pastels against the horizon. It's a day neither too hot nor cold, whispering that sweet invitation to enjoy the outdoors, even as the sun makes its journey westward. With a light breeze threading through the cool air, the conditions beckon for a light jacket as the darkness deepens and stars peek through the soft veil of night. This twilight hour suggests a leisurely walk through the neighborhood or perhaps a quiet moment on a favorite patio, savoring the subtle shift in the evening's temperature. The atmosphere exudes calmness, making any mundane evening activity such as reading a book or indulging in a thoughtful conversation feel utterly satisfying. This day, fading with grace, holds within it the gentle promise of peace.",
+    "color_code": "#C3D4E3",
+    "timestamp": "2025-04-28 20:15:31"
 }
