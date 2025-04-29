@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Netley",
+            "name": "Adelaide",
             "country": "AU",
-            "latitude": -34.93620730836849,
-            "longitude": 138.5347660236815
+            "latitude": -34.92342701582002,
+            "longitude": 138.5981455462438
         },
         "current_conditions": {
-            "timestamp": "2025-04-29T06:13:06+00:00",
-            "temperature_c": 19.39,
-            "temperature_f": 66.902,
-            "humidity": 69,
-            "wind_speed_mph": 1.00665,
-            "wind_direction": 263,
-            "description": "light rain"
+            "timestamp": "2025-04-29T12:15:11+00:00",
+            "temperature_c": 15.27,
+            "temperature_f": 59.486000000000004,
+            "humidity": 73,
+            "wind_speed_mph": 6.91233,
+            "wind_direction": 190,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-04-29T09:00:00+00:00",
-                "temperature": 18.46,
-                "windSpeed": 11.699510000000002,
-                "windDirection": 152,
-                "shortForecast": "light rain"
+                "startTime": "2025-04-29T15:00:00+00:00",
+                "temperature": 14.61,
+                "windSpeed": 7.47158,
+                "windDirection": 140,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-04-29T12:00:00+00:00",
-                "temperature": 16.08,
-                "windSpeed": 9.86517,
-                "windDirection": 153,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-04-29T18:00:00+00:00",
+                "temperature": 12.53,
+                "windSpeed": 7.87424,
+                "windDirection": 128,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "In the tranquil village of Netley, the clock has ticked past the afternoon cusp, unveiling a day tempered by fleeting whims of weather. The sun plays peek-a-boo with scattered clouds, a gentle ballet in the sky that leaves much of the day drenched in a soft, filtered light. Earlier, rain had bestowed its delicate touch upon the earth, enough to freshen the air with that familiar, earthy aroma, while not daring to dampen the spirits entirely. As the clouds drift lazily across the heavens, the sun peeks through just enough to offer a mild embrace, without the fierce glare that usually warns of a high UV index. Today, there is no need to fear sunburn; the clouds provide a natural shield while not obscuring the world in gloom.\n\nThis is the sort of afternoon that invites one to meander aimlessly or perhaps lay claim to the last available caf\u00e9 table by the window with a hot brew in hand. The ambiance is perfectly suited for an introspective walk, perhaps choosing an outfit consisting of light layers to guard against the sporadic chill in the air. There is a serene clarity to the afternoon, inviting artists and dreamers alike to soak in the quietude. Perhaps today is tailor-made for perusing bookstores or revisiting the pages of a favorite novel by the sea. The weather holds no grudges today; it merely whispers gentle promises of comfort and reflection to those who listen closely.",
-    "color_code": "#A4C0F4",
-    "timestamp": "2025-04-29 14:13:07"
+    "weather_report": "As twilight drapes over Adelaide, the sky is adorned with only a few delicate clusters of clouds, an artist's subtle brushstroke against the fading canvas of day. The sun, having bid adieu, leaves behind a tranquil and soothing atmosphere, casting a gentle glow upon the city's architecture. With the evening settled in, the air feels mild and inviting, the perfect companion for a leisurely stroll or an intimate gathering beneath the stars. There's no hint of harshness from the UV index to worry your thoughts; tonight is a lullaby of mild weather, harmonious and calming. A light jacket or a favorite sweater slipping over your shoulders seems fitting, offering a cozy embrace against the cool evening air. Tonight invites a contemplative wander through familiar streets or a quiet corner with a book, where the gentle murmur of life continues around you. Perhaps, share a conversation with a loved one over a cup of chamomile, as the night serenades you with its gentle symphony, embracing the simplicity of the moment.",
+    "color_code": "#F2EAD3",
+    "timestamp": "2025-04-29 20:16:20"
 }
