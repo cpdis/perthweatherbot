@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Netley",
+            "name": "West Perth",
             "country": "AU",
-            "latitude": -34.9391645919386,
-            "longitude": 138.5367619140555
+            "latitude": -31.94341063509205,
+            "longitude": 115.8492607721829
         },
         "current_conditions": {
-            "timestamp": "2025-05-01T06:13:06+00:00",
-            "temperature_c": 20.67,
-            "temperature_f": 69.206,
-            "humidity": 40,
-            "wind_speed_mph": 6.91233,
-            "wind_direction": 90,
-            "description": "few clouds"
+            "timestamp": "2025-05-01T12:07:13+00:00",
+            "temperature_c": 20.49,
+            "temperature_f": 68.882,
+            "humidity": 83,
+            "wind_speed_mph": 4.60822,
+            "wind_direction": 30,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-05-01T09:00:00+00:00",
-                "temperature": 19.13,
-                "windSpeed": 8.20979,
-                "windDirection": 91,
-                "shortForecast": "few clouds"
+                "startTime": "2025-05-01T15:00:00+00:00",
+                "temperature": 19.95,
+                "windSpeed": 2.61729,
+                "windDirection": 288,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-05-01T12:00:00+00:00",
-                "temperature": 15.41,
-                "windSpeed": 7.85187,
-                "windDirection": 101,
-                "shortForecast": "clear sky"
+                "startTime": "2025-05-01T18:00:00+00:00",
+                "temperature": 19.08,
+                "windSpeed": 6.509670000000001,
+                "windDirection": 10,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "This afternoon in Netley, the sky stretches out above like a serene canvas, a few delicate clouds having drifted away to reveal the brilliant expanse of blue. The sun asserts itself, bathing the landscape with unwavering, golden warmth, evoking a sense of endless possibility in the dance of light and shadow. It's the kind of day that invites one to pause and appreciate the tranquil clarity of the moment. The air feels light and carries the promise of comfort; ultraviolet rays quietly make their presence felt, so a layer of sun protection would be wise even if the breeze whispers coolness on the skin. As the afternoon ambles on, you'll want to embrace the outdoors; perhaps a leisurely stroll along the shoreline or a gentle cycle through the countryside, where the earth feels reassuring beneath the wheels. Dress in breathable fabrics, with a hat that nods to both style and practicality, allowing you to lean into the sun-dappled afternoon. A pair of sunglasses will be your ally in savoring the brilliance without being overwhelmed by it. As you bask in the fine weather, consider it an invitation to slow down and savor the subtle joys\u2014each pastiche of light and shade a testament to the day's gentle splendor.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-05-01 14:13:06"
+    "weather_report": "As the sun dips below the horizon in West Perth at this evening hour, the sky is a canvas painted with shades of grey \u2013 a gift from the blanket of broken to overcast clouds that have dominated the sky today. This gentle tapestry of weather bestows a calmness, encouraging introspection as clouds roll silently across the vast expanse above. The absence of direct sunlight keeps the UV index low, safeguarding your skin from the sun's more insistent touches. While it might not be the sunniest day in the annals of West Perth, there is a quiet beauty in the enveloping overcast, inviting one to wrap themselves in the comfort of a light sweater or a cosy jacket. The air is devoid of harshness, perfect for a contemplative stroll or a leisurely amble through a local park, breathing in the cool, slightly damp air. Perhaps one might choose to nestle indoors with a warm cup of tea, delving into a novel that speaks to the soul, or engage in a simple, meditative crafting session. The atmosphere embodies a sense of restfulness, so allow yourself to unwind under this opaque dome, savoring the tranquility of an evening that whispers sweet nothings of serenity.",
+    "color_code": "#6D6E71",
+    "timestamp": "2025-05-01 20:14:57"
 }
