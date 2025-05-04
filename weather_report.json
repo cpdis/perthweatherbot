@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Cottesloe",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9854796658834,
-            "longitude": 115.7525489141004
+            "latitude": -31.94968468801468,
+            "longitude": 115.8208491928718
         },
         "current_conditions": {
-            "timestamp": "2025-05-04T06:11:31+00:00",
-            "temperature_c": 21.38,
-            "temperature_f": 70.484,
-            "humidity": 61,
+            "timestamp": "2025-05-04T12:13:57+00:00",
+            "temperature_c": 17.51,
+            "temperature_f": 63.518,
+            "humidity": 88,
             "wind_speed_mph": 9.21644,
-            "wind_direction": 270,
-            "description": "overcast clouds"
+            "wind_direction": 240,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-05-04T09:00:00+00:00",
-                "temperature": 20.85,
-                "windSpeed": 12.012690000000001,
-                "windDirection": 270,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-05-04T15:00:00+00:00",
+                "temperature": 17.51,
+                "windSpeed": 8.925630000000002,
+                "windDirection": 261,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-05-04T12:00:00+00:00",
-                "temperature": 20.45,
-                "windSpeed": 11.58766,
-                "windDirection": 276,
+                "startTime": "2025-05-04T18:00:00+00:00",
+                "temperature": 16.5,
+                "windSpeed": 6.44256,
+                "windDirection": 252,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "As the afternoon sun inches hesitantly over Cottesloe, it peers through a sky clothed in a patchwork of gray clouds, reminiscent of a painter's canvas midway to completion. The earlier whispers of light rain have dampened the earth, leaving streets and foliage with a subtle sheen that catches the errant glimmers of sun breaking through the canopy of clouds. It's a day that exudes a gentle moodiness, where the diffuse sunlight imbues the surroundings with a soft-focus charm. Mindfully layered clothing would be wise today, with a light rain jacket close at hand to shield against sporadic breezes that carry whispers of the sea and scatter raindrops like punctuation marks on pavement.\n\nVenture out for an early afternoon stroll along the beach, where the rhythmic pull of the tide and the gauzy horizon offer a calming embrace. The soft murmurs of the ocean lend themselves to quiet reflection or simple camaraderie in shared silence. If seeking solace indoors, perhaps settle with a cherished book by a window, where the interplay of shadow and light provides a tranquil backdrop to your musings. Whether embracing the elements with a cautious optimism or savoring shelter's coziness, the weather today is a tender reminder of nature's contemplative side, coaxing one towards simple pleasures nestled in the rhythm of a cloudy, rain-kissed day.",
-    "color_code": "#B3C0C8",
-    "timestamp": "2025-05-04 14:11:32"
+    "weather_report": "As the evening settles over Subiaco, the sky wears a subtle veil of cloud, periodically shedding gentle tears of light rain that delicately kiss the streets, not quite enough to drench, but enough to cast an air of introspection. By now, the nourishing glow of sunshine has made its unassuming retreat, leaving behind a muted canvas that invites a quiet sense of reflection. This moment is neither vibrant nor dull; it is a serene pause in the rhythm of nature. The air, with its mild and moist quality, whispers to those who venture out to dress with a sensitivity to comfort\u2014layered perhaps, but not burdened by weight. A lightly woven jacket or a soft sweater will be your ally, perhaps accompanied by an umbrella that serves more as a companion for peace of mind than a necessity.\n\nThis is an hour for gentle pursuits, for those modest activities that feel like home\u2014a book that carries you far while you remain stationary, the soothing charm of a hot beverage clasped securely in your hands, or a quiet evening stroll beneath the whispering leaves, where the rain only amplifies the symphony of nature. Should you choose to stay indoors, allow yourself to slip into the familiar embrace of music that cradles the soul or a film that unspools the stories of distant lands onto the canvas of your imagination. The evening is a fitting playground for the thoughtful, a time when the world seems to tilt ever so slightly towards reflection and gentle exploration.",
+    "color_code": "#657B7D",
+    "timestamp": "2025-05-04 20:13:58"
 }
