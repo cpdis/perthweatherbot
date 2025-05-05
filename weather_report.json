@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9542246963941,
-            "longitude": 115.8527072440434
+            "latitude": -31.94969760830804,
+            "longitude": 115.8207050825489
         },
         "current_conditions": {
-            "timestamp": "2025-05-05T06:13:33+00:00",
-            "temperature_c": 22.31,
-            "temperature_f": 72.158,
-            "humidity": 65,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 210,
-            "description": "broken clouds"
+            "timestamp": "2025-05-05T12:15:38+00:00",
+            "temperature_c": 16.93,
+            "temperature_f": 62.474000000000004,
+            "humidity": 85,
+            "wind_speed_mph": 6.91233,
+            "wind_direction": 190,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-05-05T09:00:00+00:00",
-                "temperature": 21.8,
-                "windSpeed": 10.80471,
-                "windDirection": 204,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-05-05T15:00:00+00:00",
+                "temperature": 16.17,
+                "windSpeed": 8.59008,
+                "windDirection": 157,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-05-05T12:00:00+00:00",
-                "temperature": 19.04,
-                "windSpeed": 9.30592,
-                "windDirection": 182,
+                "startTime": "2025-05-05T18:00:00+00:00",
+                "temperature": 14.19,
+                "windSpeed": 6.62152,
+                "windDirection": 152,
                 "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "As the afternoon settles in over Perth, the sky is adorned with a dappled quilt of broken clouds, allowing shafts of sunlight to pierce through, creating a gentle interplay of light and shade. While the sun peeks from between these clouds, it's a day that teeters on the edge of warmth without fully committing. The UV index hovers at a level that suggests caution; sunscreen and a wide-brimmed hat will serve you well if you're heading outdoors, but it\u2019s not so fierce as to banish you to the shade completely. The air is cool yet comfortable, making it a perfect canvas for a casual stroll or an unattended escape to a garden or park. The broken clouds might dampen the clarity somewhat, but they lend a soft character to the day's visage, a pleasant ambiguity that matches an introspective afternoon. Dress light but carry a sweater for the later hours when the sun dips lower, casting longer shadows and cooling the air. It is a day for robust simplicity: a gentle wander down familiar streets, a coffee at an outdoor cafe, or a moment in a park watching the interplay of clouds and sunlight. Let the subdued hue of the afternoon guide a leisurely pace, tuning your inner rhythm to match the tranquil melody of this May day.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-05-05 14:13:34"
+    "weather_report": "As dusk settles over Subiaco, the day has been mercifully forgiving, with its sky adorned by scattered to broken clouds, each quietly attending the slow descent of the sun. These cloud formations, more artful than ominous, have cast a gentle filter over the day, inviting moments of reflection rather than urgency. While the UV index has languidly retreated with the sun, the atmosphere carries a mild warmth that whispers late spring, neither overwhelming nor chilly. The air, suffused with a sense of clarity, hints at the promise of a cool evening ahead. \n\nNow, with the day gracefully reclining into night, you might consider leisurely pursuits\u2014perhaps a tranquil stroll through your neighborhood park or unwinding on a porch with a cherished book. Attire needs neither to defend against the cold nor relent to overwhelming heat; a light sweater or a cherished scarf is all the evening demands. The setting sun, barely peeking through the fractal dance of clouds, has painted the scene with subtle brushes of orange and pink, creating a moment not just to behold, but to absorb in soft meditation.",
+    "color_code": "#708090",
+    "timestamp": "2025-05-05 20:15:38"
 }
