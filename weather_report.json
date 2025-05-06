@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94967054791838,
-            "longitude": 115.820690328849
+            "latitude": -31.95105556211797,
+            "longitude": 115.8529552827299
         },
         "current_conditions": {
-            "timestamp": "2025-05-06T00:42:08+00:00",
-            "temperature_c": 15.95,
-            "temperature_f": 60.709999999999994,
-            "humidity": 90,
-            "wind_speed_mph": 4.60822,
-            "wind_direction": 50,
-            "description": "clear sky"
+            "timestamp": "2025-05-06T06:12:55+00:00",
+            "temperature_c": 24.05,
+            "temperature_f": 75.29,
+            "humidity": 48,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 180,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-05-06T03:00:00+00:00",
-                "temperature": 17.53,
-                "windSpeed": 7.449210000000001,
-                "windDirection": 161,
+                "startTime": "2025-05-06T09:00:00+00:00",
+                "temperature": 23.05,
+                "windSpeed": 13.15356,
+                "windDirection": 206,
                 "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-05-06T06:00:00+00:00",
-                "temperature": 21.01,
-                "windSpeed": 11.00604,
-                "windDirection": 217,
+                "startTime": "2025-05-06T12:00:00+00:00",
+                "temperature": 18.86,
+                "windSpeed": 10.021760000000002,
+                "windDirection": 161,
                 "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "As the morning unfolds over Subiaco, the day greets us with scattered and broken clouds softly filtering the sunlight. The cool, pale light of dawn has matured into a soft and muted glow, casting gentle shadows across the waking town. As the minutes slip by, the clouds drift lazily, choreographing a sky dance that speaks of calm introspection more than vibrant action. While the precise UV index is shrouded in these clouds' whimsical whims, there's a mildness in the air, hinting that neither hats nor sunscreen will be stern necessities. Yet, a light layer \u2013 a sweater or jacket \u2013 would wrap you in comforting warmth, especially if an afternoon walk tempts you.\n\nToday seems a perfect ally for those who cherish a gentle embrace of peace in their daily rituals. The introspective light calls for mundane activities with a pinch of leisurely pleasure\u2014perhaps visiting a local caf\u00e9 for a late breakfast, or indulging in a quiet read in a favorite nook by the window, where the light will flood in just so. Let the weather be your companion, coaxing you to wander or simply be, as the airy tapestry above whispers its serene secrets. May your errands be punctuated with stolen moments of personal reverie, inspired by the persisting quietude of the sky above, almost as though the world is exhaling slowly, savoring another day.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-05-06 08:42:09"
+    "weather_report": "In Perth this afternoon, as time inches past two, the sky is painted with a dynamic array of clouds, oscillating between scattered and broken formations. This delicate interplay creates a canvas of intermittent sun and shade, offering moments of bright warmth punctuated by softer, muted tones. The sun makes brief, dazzling appearances, glinting through gaps in the clouds, casting a transient glow across the city. Such a day writes a narrative of gentle unpredictability. This dance of clouds suggests a moderate UV index, encouraging outdoor ventures with light layers and perhaps a hat to guard gently against the sun\u2019s brief, yet warming touch. For this temperate afternoon, one might stroll leisurely down to Kings Park, savoring the fragrant air where winter\u2019s breath intertwines with autumn\u2019s lingering warmth. Alternatively, a serene visit to a quaint caf\u00e9 could summon simple pleasure, the aroma of roasted coffee lingering in the cool light. The city whispers an invitation to those who seek balance\u2014a harmonious blend of activity and rest, under a sky that speaks of calm yet anticipates the possibility of change.",
+    "color_code": "#84a9c0",
+    "timestamp": "2025-05-06 14:12:56"
 }
