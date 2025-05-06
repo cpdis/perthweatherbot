@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95105556211797,
-            "longitude": 115.8529552827299
+            "latitude": -31.94966343979474,
+            "longitude": 115.8207030977212
         },
         "current_conditions": {
-            "timestamp": "2025-05-06T06:12:55+00:00",
-            "temperature_c": 24.05,
-            "temperature_f": 75.29,
-            "humidity": 48,
-            "wind_speed_mph": 10.35731,
+            "timestamp": "2025-05-06T12:17:22+00:00",
+            "temperature_c": 17.49,
+            "temperature_f": 63.482,
+            "humidity": 84,
+            "wind_speed_mph": 8.0532,
             "wind_direction": 180,
-            "description": "scattered clouds"
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-05-06T09:00:00+00:00",
-                "temperature": 23.05,
-                "windSpeed": 13.15356,
-                "windDirection": 206,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-05-06T15:00:00+00:00",
+                "temperature": 16.54,
+                "windSpeed": 5.77146,
+                "windDirection": 129,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-05-06T12:00:00+00:00",
-                "temperature": 18.86,
-                "windSpeed": 10.021760000000002,
-                "windDirection": 161,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-05-06T18:00:00+00:00",
+                "temperature": 14.09,
+                "windSpeed": 8.5006,
+                "windDirection": 109,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "In Perth this afternoon, as time inches past two, the sky is painted with a dynamic array of clouds, oscillating between scattered and broken formations. This delicate interplay creates a canvas of intermittent sun and shade, offering moments of bright warmth punctuated by softer, muted tones. The sun makes brief, dazzling appearances, glinting through gaps in the clouds, casting a transient glow across the city. Such a day writes a narrative of gentle unpredictability. This dance of clouds suggests a moderate UV index, encouraging outdoor ventures with light layers and perhaps a hat to guard gently against the sun\u2019s brief, yet warming touch. For this temperate afternoon, one might stroll leisurely down to Kings Park, savoring the fragrant air where winter\u2019s breath intertwines with autumn\u2019s lingering warmth. Alternatively, a serene visit to a quaint caf\u00e9 could summon simple pleasure, the aroma of roasted coffee lingering in the cool light. The city whispers an invitation to those who seek balance\u2014a harmonious blend of activity and rest, under a sky that speaks of calm yet anticipates the possibility of change.",
-    "color_code": "#84a9c0",
-    "timestamp": "2025-05-06 14:12:56"
+    "weather_report": "As Subiaco settles into the tranquil embrace of evening, the skies hold a promise unbroken\u2014clear, expansive, unyielding in their azure clarity, even as darkness creeps closer. Earlier today, the sunlight flowed freely, casting its golden glow over the landscape without interruption. Now, despite the sun's retreat, the memory of its warmth lingers, cradling the town with a gentle reminder of the day's blissful simplicity. The air, having absorbed the heat of the day, remains pleasantly temperate, inviting one to linger outside longer than usual, perhaps taking a leisurely stroll or unwinding on a porch, drink in hand. \n\nThe day's unmarred clarity suggests that the UV index has been mercifully moderate, encouraging outdoor escapades without impunity. Evening wear should be light yet mindful of the cool that nests in shadows once the sun departs; a thin sweater perhaps, or a comfortable jacket to invite the dusk without regret. The absence of clouds plants a vivid stage for a starlit spectacle overhead, urging you to find a quiet spot beneath the sky's vast, twinkling canvas. Dine al fresco, relish in the simple act of watching the stars blink to life, or just sit planless, letting the evening air whisper quiet secrets of a day that was distinctly theirs.",
+    "color_code": "#3C6478",
+    "timestamp": "2025-05-06 20:17:23"
 }
