@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Yallingup",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -33.66505258902824,
-            "longitude": 115.004131137412
+            "latitude": -31.94968059887697,
+            "longitude": 115.820756000575
         },
         "current_conditions": {
-            "timestamp": "2025-05-12T06:13:38+00:00",
-            "temperature_c": 19.2,
-            "temperature_f": 66.56,
-            "humidity": 71,
-            "wind_speed_mph": 19.41716,
-            "wind_direction": 198,
+            "timestamp": "2025-05-12T12:16:15+00:00",
+            "temperature_c": 18.77,
+            "temperature_f": 65.786,
+            "humidity": 82,
+            "wind_speed_mph": 12.929860000000001,
+            "wind_direction": 178,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-05-12T09:00:00+00:00",
-                "temperature": 19.27,
-                "windSpeed": 18.231550000000002,
-                "windDirection": 164,
+                "startTime": "2025-05-12T15:00:00+00:00",
+                "temperature": 17.79,
+                "windSpeed": 12.460090000000001,
+                "windDirection": 169,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-05-12T12:00:00+00:00",
-                "temperature": 18.41,
-                "windSpeed": 19.55138,
-                "windDirection": 167,
+                "startTime": "2025-05-12T18:00:00+00:00",
+                "temperature": 16.4,
+                "windSpeed": 11.49818,
+                "windDirection": 148,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "As the afternoon sun graces the coastal village of Yallingup, the skies remain unwaveringly clear. The azure vastness above is uninterrupted by clouds, casting a serene equilibrium of light and shadow over the landscape. This immaculate clarity speaks to a day so vividly uplifting, one could be tempted to label it a celebration of sunshine itself. The UV index is expected to be moderate, a gentle reminder to savor the sunlight respectfully. It's a perfect afternoon for those who cherish the simple ritual of a leisurely walk along the rugged beauty of the Yallingup coastline. You might don a wide-brimmed hat and a lightweight linen shirt, each layer breathing with each rustle of the subtle, salty breeze. On a day like today, the ocean's whispers invite reflection, while waves unfurl at your feet like a living poem. Alternatively, retreat beneath the shade of an ancient tree, book in hand, letting its pages flutter in tandem with the rhythm of the wind. The tranquility in the air creates an atmosphere where time feels unmeasured, moments drawn out like a slow waltz, urging you to relish in this balm of quietude.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-05-12 14:13:39"
+    "weather_report": "As twilight weaves its gentle cloak over Subiaco, there's a serenity settling in the air\u2014a remnant of the day's pristine clarity. Clear skies stretch endlessly above, untouched by clouds, revealing an infinite azure that cocooned the day in warmth and light. The sun, now a fading memory, left behind traces of its golden touch that warmed the skin and spirit. With the gentle embrace of evening, the air cools slightly, yet retains a delightful crispness, inviting leisurely strolls or quiet contemplation under the emerging stars. As the early evening graces us with cooler breaths, a light jacket would provide comfort against the descending temperature. The day, devoid of harsh UV bites, required neither shade of hats nor barrier of sunscreen, leaving space for relaxed saunters along tree-lined paths and lazy hours with books in sun-dappled parks. Even the busiest seeker of tranquility found themselves pausing, lulled by the vibrant yet calming glow that only a day like today can inspire. Those lucky enough to cherish this marvel of simplicity might find themselves reading by an open window, the gentle rustle of leaves as a companion, or reminiscing with a friend over the tender glow of a quiet dinner alfresco. This is the kind of evening that requests little except to be enjoyed just as it is, simple yet profound.",
+    "color_code": "#FFDDCA",
+    "timestamp": "2025-05-12 20:16:15"
 }
