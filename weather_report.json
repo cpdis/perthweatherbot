@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94967734463883,
-            "longitude": 115.8207669438969
+            "latitude": -31.954135582009,
+            "longitude": 115.8525972954284
         },
         "current_conditions": {
-            "timestamp": "2025-05-19T00:45:16+00:00",
-            "temperature_c": 15.75,
-            "temperature_f": 60.35,
-            "humidity": 51,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 20,
+            "timestamp": "2025-05-19T06:13:45+00:00",
+            "temperature_c": 24.78,
+            "temperature_f": 76.604,
+            "humidity": 44,
+            "wind_speed_mph": 18.410510000000002,
+            "wind_direction": 240,
             "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-05-19T03:00:00+00:00",
-                "temperature": 17.81,
-                "windSpeed": 6.73337,
-                "windDirection": 323,
-                "shortForecast": "few clouds"
+                "startTime": "2025-05-19T09:00:00+00:00",
+                "temperature": 23.21,
+                "windSpeed": 17.35912,
+                "windDirection": 189,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-05-19T06:00:00+00:00",
-                "temperature": 21.85,
-                "windSpeed": 15.68137,
-                "windDirection": 243,
-                "shortForecast": "clear sky"
+                "startTime": "2025-05-19T12:00:00+00:00",
+                "temperature": 18.55,
+                "windSpeed": 13.60096,
+                "windDirection": 169,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "As dawn's golden embrace gives way to morning's clarity in Subiaco, it's a splendid time to be up and about. The sky, having earlier paraded a few whimsical clouds, now reveals itself as a vast, clear canvas, promising an unblemished day. With the sun climbing higher, the air is crisp and invigorating, bathing the town in comforting warmth. The forecast suggests an abundance of sunshine, meaning the UV index will likely tick into moderate territories, hinting that those venturing outdoors might do well to adorn themselves with a sunhat and perhaps a whisper of sunscreen to ward off any overzealous rays. The transparency of today\u2019s skies bodes a remarkable clarity, painting the day as one ripe for serene ambles through the town\u2019s picturesque streets or perhaps an alfresco lunch. A light jacket, easily tossed aside or draped over a chair, will suffice as a nod to the morning's early chill and the evening's gentle caress. It's the kind of morning that invites reflection as well as action, perfect for the mundane pleasure of reading by a sunlit window or the quiet agility of trimming the garden's runaway foliage. As the hours unfold, what may seem ordinary becomes gloriously luminous under the benevolent gaze of a perfect sky.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-05-19 08:45:16"
+    "weather_report": "As the day unfolds in Perth, the remnants of the morning\u2019s gentle showers linger in the air, casting a soft, reflective glow across the city. The sky, now cloaked in a mosaic of soft grays, hinted at brief interludes of light rain earlier in the day, leaving the air fresh with that particular scent of renewed life. The light now, though not overly bright, allows shadows to stretch languidly across the dampened streets. Sunbeams occasionally pierce through the breaks in clouds, teasing the surface with fleeting warmth. While this isn\u2019t a day to bask under a high UV index, there is a calming quality in its subtlety, offering a meditative mood.\n\nDress in layers, something to shield against momentary chills from breezes that weave through the city. A light waterproof jacket with a comfy scarf could be ideal. There's a charm in spending an afternoon tucked away in a cozy caf\u00e9, watching people pass by the window, each busy under their shared sky. Engage with books, or if you're inclined to venture out, a casual stroll through a local park might offer solace as droplets glisten on leaves. Embrace this gentle weather not with grand plans, but by finding serenity in the simple beats of the day.",
+    "color_code": "#A0AEB2",
+    "timestamp": "2025-05-19 14:13:45"
 }
