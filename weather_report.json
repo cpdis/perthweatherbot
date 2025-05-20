@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94967537514245,
-            "longitude": 115.8206880468322
+            "latitude": -31.95413357063991,
+            "longitude": 115.8526011180342
         },
         "current_conditions": {
-            "timestamp": "2025-05-20T00:43:30+00:00",
-            "temperature_c": 12.98,
-            "temperature_f": 55.364000000000004,
-            "humidity": 73,
-            "wind_speed_mph": 8.65719,
-            "wind_direction": 100,
+            "timestamp": "2025-05-20T06:13:17+00:00",
+            "temperature_c": 21.19,
+            "temperature_f": 70.142,
+            "humidity": 40,
+            "wind_speed_mph": 3.6239400000000006,
+            "wind_direction": 118,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-05-20T03:00:00+00:00",
-                "temperature": 15.08,
-                "windSpeed": 7.65054,
-                "windDirection": 94,
+                "startTime": "2025-05-20T09:00:00+00:00",
+                "temperature": 20.75,
+                "windSpeed": 6.0399,
+                "windDirection": 162,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-05-20T06:00:00+00:00",
-                "temperature": 19.73,
-                "windSpeed": 3.46735,
-                "windDirection": 126,
+                "startTime": "2025-05-20T12:00:00+00:00",
+                "temperature": 17.14,
+                "windSpeed": 6.57678,
+                "windDirection": 118,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "As dawn gracefully yields the reins to a new day in Subiaco, the sky stretches out like a vast canvas, free of blemishes, untouched by clouds. It's a morning kissed by clarity, promising a symphony of sunlight throughout the day. The air, tinged with the gentle whispers of a breeze, hints at warmth that will gather strength as the sun climbs higher. The absence of obstacles between the sun's golden rays and the earth means the UV index is likely to swell, urging you to arm yourself with sunscreen and a hat if you fancy wandering outside during the sunlit hours. \n\nThe day invites you to unwind, perhaps with a leisurely stroll under the watchful gaze of the sun or an afternoon spent nestled on a park bench, with a book as company. For attire, think loose and airy; a light shirt paired with comfortable trousers or a flowing dress that dances with every step you take. As the shadows gradually lengthen, consider a moment of stillness to savor the sun's final performance as it dips below the horizon. The peacefulness of the day, with its unbroken blue expanse above, offers a fine backdrop to life's gentle rhythms\u2014uncomplicated yet sublime, leaving you with no expectation except to simply be, in good company, and contemplation.",
+    "weather_report": "As the afternoon settles into Perth, the city basks beneath a sky as clear as a polished gem, with the sun casting its golden fingers across the urban expanse. The relentless clarity of today\u2019s weather paints a picture of an ideal late autumn day. While the sun holds unchallenged dominion over the sky, the UV index, a silent yet constant companion, advises a gentle caution for those who choose to revel under the full glory of the sun\u2019s rays. It\u2019s a day that whispers promises of leisurely pursuits, where the clarity above is mirrored in the sharp outlines it casts on the streets below.\n\nIn terms of attire, think light and breathable, with a nod to the possibility of a gentle breeze that might accompany the late afternoon. Sunglasses are more than just an accessory today; they are a necessary shield against the bold exuberance of the sun. As the sun arcs ever so slowly towards the horizon, allowing its light to mellow, the stage is set for quiet enjoyment. A walk along the riverside, perhaps, where the reflection of a tranquil sky dances upon the water, or lounging in a park, with a book in hand and thoughts set adrift on the warm currents of a sunny day. Understated pleasures await those who step into the embrace of such a perfect day, with gentle reminders to savor the simplicity of the moment.",
     "color_code": "#FFD700",
-    "timestamp": "2025-05-20 08:43:31"
+    "timestamp": "2025-05-20 14:13:17"
 }
