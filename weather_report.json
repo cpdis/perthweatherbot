@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95475287542735,
-            "longitude": 115.8576615233741
+            "latitude": -31.94968247667819,
+            "longitude": 115.8206740026594
         },
         "current_conditions": {
-            "timestamp": "2025-05-22T06:13:25+00:00",
-            "temperature_c": 22.54,
-            "temperature_f": 72.572,
-            "humidity": 62,
-            "wind_speed_mph": 18.410510000000002,
-            "wind_direction": 260,
-            "description": "broken clouds"
+            "timestamp": "2025-05-22T12:16:39+00:00",
+            "temperature_c": 18.31,
+            "temperature_f": 64.958,
+            "humidity": 69,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 310,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-05-22T09:00:00+00:00",
-                "temperature": 21.87,
-                "windSpeed": 14.22732,
-                "windDirection": 271,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-05-22T15:00:00+00:00",
+                "temperature": 16.85,
+                "windSpeed": 17.6723,
+                "windDirection": 179,
+                "shortForecast": "moderate rain"
             },
             {
-                "startTime": "2025-05-22T12:00:00+00:00",
-                "temperature": 18.13,
-                "windSpeed": 12.05743,
-                "windDirection": 270,
-                "shortForecast": "light rain"
+                "startTime": "2025-05-22T18:00:00+00:00",
+                "temperature": 13.36,
+                "windSpeed": 13.8694,
+                "windDirection": 178,
+                "shortForecast": "moderate rain"
             }
         ]
     },
-    "weather_report": "As the day stretches onward, Perth finds itself wrapped in the embrace of mild weather, the skies partially adorned with broken clouds suggesting a jovial game of peek-a-boo with the sun. This transitional sky offers a modest warmth, neither allowing the sun to fully boast its radiance nor giving the clouds dominance to drape the world in melancholy. Come midday, a gentle chorus of raindrops might serenade the city, offering a refreshing pause to the morning's narrative. An omnipresent light drizzle would bring life to the flora and temper any plans of a sun-soaked afternoon. Yet, it promises a mood of calm rather than gloom, a tranquil intermission reminiscent of a painter's thoughtful brush stroke across a spring canvas. As you step out into this space, contemplate the light layers of a soft knit cardigan or an easy-to-carry umbrella, preparation enough for mild precipitation. The air, rich with the fragrance of impending rain, encourages simple pleasures\u2014perhaps a leisurely walk under tree-lined avenues, the rhythmic pitter-patter rewarding introspection. You might find solace in modest indoor pursuits as well, be it with a book that paints refugee tales or a puzzle offering silent satisfaction. The day in Perth does not demand grand escapades, but rather the enjoyment found in the stillness of moments, a day best embraced with gentle acceptance and quiet admiration.",
-    "color_code": "#6A737B",
-    "timestamp": "2025-05-22 14:13:25"
+    "weather_report": "As the evening settles gently over Subiaco, the day has unfolded with the rhythmic patter of moderate rain that began earlier in the afternoon and continued into the early evening. The rain has washed the streets and stirred a cool, fresh scent into the air, leaving a glistening sheen on slick pavements and swaying leaves. With clouds ever-present, the sun has taken refuge behind the dense veil, casting the day in soft, muted tones and leaving little space for brilliance or brightness to poke through. The UV index has remained low, hidden away like a secret, with no burning rays to be wary of today.\n\nThe weather invites one to embrace the comfort of layered clothing, a light raincoat or a sturdy umbrella as your steadfast companion. Tonight, with the air fresh and rain receding, the mood is ripe for a quiet walk, perhaps with thoughts as your only company, enjoying the rare solitude offered by the gentle taps of lingering droplets. For those seeking warmth, the whisper of coffeehouses or your cozy kitchen with a freshly brewed cup calls alluringly. Under these sympathetic skies, creativity could be kindled \u2013 pen a letter to an old friend, or lose yourself in the pages of a book that has patiently awaited your return.",
+    "color_code": "#6B8E23",
+    "timestamp": "2025-05-22 20:16:39"
 }
