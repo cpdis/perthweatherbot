@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95412591753434,
-            "longitude": 115.8525553010852
+            "latitude": -31.94971367923502,
+            "longitude": 115.8206851193373
         },
         "current_conditions": {
-            "timestamp": "2025-05-26T06:13:52+00:00",
-            "temperature_c": 17.81,
-            "temperature_f": 64.05799999999999,
-            "humidity": 50,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 90,
-            "description": "few clouds"
+            "timestamp": "2025-05-26T12:15:31+00:00",
+            "temperature_c": 12.76,
+            "temperature_f": 54.968,
+            "humidity": 69,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 110,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-05-26T09:00:00+00:00",
-                "temperature": 17.9,
-                "windSpeed": 2.72914,
-                "windDirection": 94,
-                "shortForecast": "few clouds"
+                "startTime": "2025-05-26T15:00:00+00:00",
+                "temperature": 13.16,
+                "windSpeed": 8.43349,
+                "windDirection": 89,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-05-26T12:00:00+00:00",
-                "temperature": 15.81,
-                "windSpeed": 8.187420000000001,
-                "windDirection": 85,
+                "startTime": "2025-05-26T18:00:00+00:00",
+                "temperature": 12.96,
+                "windSpeed": 10.84945,
+                "windDirection": 84,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "As the afternoon sun hovers above Perth, offering its golden glow, the city finds itself beneath an azure canopy interspersed with a few gentle clouds that seem to drift like whispers on the breeze. The morning clarity has given way to an almost flawless sky, a celestial promise that invites residents to step outside and bask in its glory. Despite the sun's benevolent shine, it's prudent to pair your breezy attire with a hat and sunscreen, mindful of the UV kisses that come with clear days like these. \n\nThe gentle warmth of the sun, moderated by a courteous breeze, makes this day a perfect companion for a leisurely walk along the Swan River or a languid afternoon in Kings Park, where one can linger beneath the eucalyptus trees, perhaps with a good book or reflective thoughts. This is a day for simple pleasures\u2014imbued with a sense of serene clarity. With the sun kindly watching over Perth, the air feels charged with a vibrant yet mellow energy, ideal for an alfresco lunch or a contemplative stroll through a nearby garden. There's a tranquility in the air as the city moves through its rhythm, an embrace of light and space that is almost meditative in its simplicity.",
+    "weather_report": "As the day in Subiaco gracefully edges into dusk, the clarity of a pristine sky still lingers, though the sun has dipped below the horizon, revealing a capacious dome of fading indigo. Earlier, the day unfolded in a cascade of sunlight, casting a warm, uplifting clarity that now fades to a softer embrace of evening. The azure skies held a serene promise, with no grumbles of clouds to obscure their vast expansiveness. It was a day to revel in simplicity; a day that invited a relaxed stroll or a moment on a sunlit terrace, but now yields to the gentle shadows of twilight. \n\nAs the majesty of a clear sky fades, it gifts a tranquil backdrop for the quiet rituals that close one's day. With temperatures likely to have carried a gentle warmth earlier, a light jacket or comfortable sweater should suit the cooling air perfectly, leaving one free to embrace the evening with a sense of easy sophistication. The lack of a blistering sun means the UV index poses no threats; it is a gentle night to wander along familiar paths or perhaps settle indoors with a book that has patiently awaited your attention. Listen closely, and you might hear the gentle crescendo of evening insects tuning their nocturnal symphony. It's a time for relaxation, for a quiet dinner or perhaps a slow dance with the solitude of one's thoughts, framed by the simple pleasure of a clear, moonlit sky.",
     "color_code": "#87CEEB",
-    "timestamp": "2025-05-26 14:13:53"
+    "timestamp": "2025-05-26 20:15:31"
 }
