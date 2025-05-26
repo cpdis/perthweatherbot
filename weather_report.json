@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94966301863717,
-            "longitude": 115.8206834426057
+            "latitude": -31.95412591753434,
+            "longitude": 115.8525553010852
         },
         "current_conditions": {
-            "timestamp": "2025-05-26T00:44:18+00:00",
-            "temperature_c": 9.79,
-            "temperature_f": 49.622,
-            "humidity": 84,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "clear sky"
+            "timestamp": "2025-05-26T06:13:52+00:00",
+            "temperature_c": 17.81,
+            "temperature_f": 64.05799999999999,
+            "humidity": 50,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 90,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-05-26T03:00:00+00:00",
-                "temperature": 11.74,
-                "windSpeed": 7.538690000000001,
-                "windDirection": 104,
-                "shortForecast": "clear sky"
+                "startTime": "2025-05-26T09:00:00+00:00",
+                "temperature": 17.9,
+                "windSpeed": 2.72914,
+                "windDirection": 94,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-05-26T06:00:00+00:00",
-                "temperature": 17.49,
-                "windSpeed": 4.87666,
-                "windDirection": 113,
+                "startTime": "2025-05-26T12:00:00+00:00",
+                "temperature": 15.81,
+                "windSpeed": 8.187420000000001,
+                "windDirection": 85,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "As the sun ascends over Subiaco, the promise of a clear sky stretches before it, eagerly peeling back the lingering veil of night. The air adopts a crisp clarity, unmarred by clouds, inviting the early risers to breathe in its pure freshness. The morning sunlight is gentle yet firm, casting its golden warmth across the landscape\u2014a prelude to a likely rise in UV index as noon draws near, suggesting a hearty application of sunscreen might serve the prudent soul well. The day itself, unmarred and serene, alludes to a canvas of cerulean painted with precision. The weather whispers to life with a gentle touch today; one can almost hear the soft chatter of leaves as they revel in this untrammeled light.\n\nDressing for such a gorgeous day calls for light, breathable fabrics\u2014linen and cotton that celebrate the skin without weighing on it. With such luminous weather, the city beckons you to step beyond closed doors. A stroll through a verdant park or a gentle bike ride along tree-lined streets could be the perfect outlet for the energies imbued by this sunshine. For those with a penchant for quieter pursuits, perhaps the allure of a patio or garden with a favorite book is hardly ignorable. Today presents a playground in the form of simplicity; an opportunity to embrace the outdoors comfortably and with unhurried grace, much like a letter written by the sun herself to the earth below.",
-    "color_code": "#FFD700",
-    "timestamp": "2025-05-26 08:44:19"
+    "weather_report": "As the afternoon sun hovers above Perth, offering its golden glow, the city finds itself beneath an azure canopy interspersed with a few gentle clouds that seem to drift like whispers on the breeze. The morning clarity has given way to an almost flawless sky, a celestial promise that invites residents to step outside and bask in its glory. Despite the sun's benevolent shine, it's prudent to pair your breezy attire with a hat and sunscreen, mindful of the UV kisses that come with clear days like these. \n\nThe gentle warmth of the sun, moderated by a courteous breeze, makes this day a perfect companion for a leisurely walk along the Swan River or a languid afternoon in Kings Park, where one can linger beneath the eucalyptus trees, perhaps with a good book or reflective thoughts. This is a day for simple pleasures\u2014imbued with a sense of serene clarity. With the sun kindly watching over Perth, the air feels charged with a vibrant yet mellow energy, ideal for an alfresco lunch or a contemplative stroll through a nearby garden. There's a tranquility in the air as the city moves through its rhythm, an embrace of light and space that is almost meditative in its simplicity.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-05-26 14:13:53"
 }
