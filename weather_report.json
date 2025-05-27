@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94968898303137,
-            "longitude": 115.8207855828446
+            "latitude": -31.95432381329102,
+            "longitude": 115.8525736543225
         },
         "current_conditions": {
-            "timestamp": "2025-05-27T00:41:55+00:00",
-            "temperature_c": 11.83,
-            "temperature_f": 53.294,
-            "humidity": 68,
-            "wind_speed_mph": 12.661420000000001,
+            "timestamp": "2025-05-27T06:03:15+00:00",
+            "temperature_c": 20.75,
+            "temperature_f": 69.35,
+            "humidity": 40,
+            "wind_speed_mph": 17.26964,
             "wind_direction": 60,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-05-27T03:00:00+00:00",
-                "temperature": 13.4,
-                "windSpeed": 17.29201,
-                "windDirection": 55,
+                "startTime": "2025-05-27T09:00:00+00:00",
+                "temperature": 20,
+                "windSpeed": 9.03748,
+                "windDirection": 74,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-05-27T06:00:00+00:00",
-                "temperature": 17.73,
-                "windSpeed": 14.27206,
-                "windDirection": 51,
+                "startTime": "2025-05-27T12:00:00+00:00",
+                "temperature": 16.94,
+                "windSpeed": 11.31922,
+                "windDirection": 74,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "As the morning unfurls in Subiaco, the sky, as clear as a freshly polished pane of glass, welcomes the burgeoning sun. Its golden rays gently cascade upon the landscape, promising a day filled with serenity and vibrant clarity. The crispness of the air invigorates the soul, a reminder of the simple joys that a bright day can bring. With the horizon dressed in delicate hues of early dawn, today presents itself as the epitome of tranquility, tempting you to lose yourself in its placid embrace.\n\nOn this sun-drenched day, light and breathable attire will serve you well, evoking comfort while keeping you effortlessly stylish. A pair of sunglasses will be your ally, warding off the sun\u2019s attentive gaze. Take a leisurely stroll through the charming streets or find solace under the shade of a tree with a novel in hand. As the sun continues its steady ascent, the UV index may become a silent yet persistent companion; seek moments of shade and keep your skin protected to enjoy this picturesque day to its fullest. There's no need for haste today; embrace the gentle pace and let the vivid blue above guide your wanderings and musings.",
-    "color_code": "#f7d488",
-    "timestamp": "2025-05-27 08:41:56"
+    "weather_report": "As the clock ticks past two in the afternoon in Perth, the city basks under a dazzling canopy of an endless azure sky, unmarred by even the whisper of a cloud. The sun hangs as a brilliant sentinel, pouring gold upon the city, casting sharp shadows that stretch languidly across pavements, a gentle reminder of nature's artistry. This beautiful clarity promises a sunlit embrace through the day, bringing warmth and vibrancy to every corner. It's a day that rewards those who wander outdoors with shades in tow, hats perched jauntily against the brilliant assault of sunlight, and perhaps a bottle of sunscreen, the invisible shield against the sun's adamant rays known to elevate the UV index to notably lively heights.\n\nIn this weather, simplicity is key; light fabrics, pale colors that dance effortlessly, reflecting the sun's heat rather than absorbing it. One could meander to a local park, a book in hand, perhaps drifting through languid tales as the sunlight dapples pages with its warm caress. Or venture into a nearby caf\u00e9, sip on a refreshing iced coffee, and partake in the simple pleasure of watching the day unravel, a symphony of light and shadow conducted by the endless blue above. A walk along the river's edge, gentle water shimmering under the sun's gaze, offers contemplation and peace, a perfect placid moment that reflects Perth's sunny disposition today, imprinted with clarity as vivid as a painter's brushstroke.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-05-27 14:13:04"
 }
