@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95432381329102,
-            "longitude": 115.8525736543225
+            "latitude": -31.9496886464258,
+            "longitude": 115.8207832567411
         },
         "current_conditions": {
-            "timestamp": "2025-05-27T06:03:15+00:00",
-            "temperature_c": 20.75,
-            "temperature_f": 69.35,
-            "humidity": 40,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 60,
+            "timestamp": "2025-05-27T12:16:26+00:00",
+            "temperature_c": 14.76,
+            "temperature_f": 58.568,
+            "humidity": 57,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 100,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-05-27T09:00:00+00:00",
-                "temperature": 20,
-                "windSpeed": 9.03748,
-                "windDirection": 74,
+                "startTime": "2025-05-27T15:00:00+00:00",
+                "temperature": 14.48,
+                "windSpeed": 14.339170000000001,
+                "windDirection": 64,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-05-27T12:00:00+00:00",
-                "temperature": 16.94,
-                "windSpeed": 11.31922,
-                "windDirection": 74,
+                "startTime": "2025-05-27T18:00:00+00:00",
+                "temperature": 15.49,
+                "windSpeed": 14.92079,
+                "windDirection": 57,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "As the clock ticks past two in the afternoon in Perth, the city basks under a dazzling canopy of an endless azure sky, unmarred by even the whisper of a cloud. The sun hangs as a brilliant sentinel, pouring gold upon the city, casting sharp shadows that stretch languidly across pavements, a gentle reminder of nature's artistry. This beautiful clarity promises a sunlit embrace through the day, bringing warmth and vibrancy to every corner. It's a day that rewards those who wander outdoors with shades in tow, hats perched jauntily against the brilliant assault of sunlight, and perhaps a bottle of sunscreen, the invisible shield against the sun's adamant rays known to elevate the UV index to notably lively heights.\n\nIn this weather, simplicity is key; light fabrics, pale colors that dance effortlessly, reflecting the sun's heat rather than absorbing it. One could meander to a local park, a book in hand, perhaps drifting through languid tales as the sunlight dapples pages with its warm caress. Or venture into a nearby caf\u00e9, sip on a refreshing iced coffee, and partake in the simple pleasure of watching the day unravel, a symphony of light and shadow conducted by the endless blue above. A walk along the river's edge, gentle water shimmering under the sun's gaze, offers contemplation and peace, a perfect placid moment that reflects Perth's sunny disposition today, imprinted with clarity as vivid as a painter's brushstroke.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-05-27 14:13:04"
+    "weather_report": "As the sun dips below the western horizon, leaving the town of Subiaco wrapped in the gentle embrace of twilight, the day has unfurled with serene clarity. Earlier, the skies were an unbroken expanse of azure, whispering of nothing but pure sunshine and a perfect spring day. The air, imbued with a crisp freshness that always follows a crystal-clear afternoon, holds a promise of a pleasantly mild evening ahead. With nary a cloud in sight, today has been ideal for leisurely activities beneath the wide open sky. As for what to wear, think comfort and simplicity; a lightweight jacket or a cozy sweater should suffice for the evening that lingers cool. The glow of the setting sun makes it a splendid time to walk among the rustling leaves in the nearby park or perhaps enjoy a quiet moment on a terrace, sipping on a fragrant cup of tea. Engage in conversations that wind and wander, much like the gentle evening breeze, or simply savor the symphony of silence that accompanies the fading daylight. The day, with its vibrant clarity, beckons to moments of reflection, letting every breath and pause become an event within itself, standing still in serene contemplation of all that has been, in a masterpiece painted by time.",
+    "color_code": "#FFFFCC",
+    "timestamp": "2025-05-27 20:16:26"
 }
