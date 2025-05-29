@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94969723172927,
-            "longitude": 115.8206734460607
+            "latitude": -31.9540310109662,
+            "longitude": 115.8540141920031
         },
         "current_conditions": {
-            "timestamp": "2025-05-29T00:43:04+00:00",
-            "temperature_c": 16.05,
-            "temperature_f": 60.89,
-            "humidity": 55,
-            "wind_speed_mph": 19.57375,
-            "wind_direction": 30,
-            "description": "moderate rain"
+            "timestamp": "2025-05-29T06:13:12+00:00",
+            "temperature_c": 22.83,
+            "temperature_f": 73.094,
+            "humidity": 44,
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 50,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-05-29T03:00:00+00:00",
-                "temperature": 16.77,
-                "windSpeed": 17.40386,
-                "windDirection": 58,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-05-29T09:00:00+00:00",
+                "temperature": 21.77,
+                "windSpeed": 12.549570000000001,
+                "windDirection": 44,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-05-29T06:00:00+00:00",
-                "temperature": 19.27,
-                "windSpeed": 16.30773,
-                "windDirection": 38,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-05-29T12:00:00+00:00",
+                "temperature": 20.06,
+                "windSpeed": 16.62091,
+                "windDirection": 39,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "In Subiaco this morning, the sky dons a thick blanket of overcast clouds, casting a muted light across the waking town. The clarity of the day is subdued, swathed in soft gloom as gentle breezes drift through the quiet streets. As the sun hides behind its veil, the day lacks the brilliance some might crave, yet offers its own serene beauty. Sunbathers and seekers of ultraviolet toastings might find today wanting, for the sun's countenance remains elusive, and the UV index languishes low among the shrouded rays. Yet the day carries a certain peacefulness, a gentle invitation to stroll softly beneath the cloud-chaperoned canopy.\n\nFor attire, comfort should be held in balance with layering against a potentially cool air; a light jacket and perhaps comfortable shoes will provide a sense of coziness and readiness for whatever the day may serve. It is a time for reflective pursuits, for wandering through art galleries or settling down with a beloved novel beside a caf\u00e9 window, where the unfolding drama of the day can be watched with the fragrance of coffee as accompaniment. Round those mundane errands with indulgent detours\u2014a walk through a farmer's market to admire the colors nature has yet to obscure, or a visit to a local bakery for a freshly baked loaf. This overcast ambiance asks you to pause, to step into the gentle embrace of the present, to relish life's quiet whispers as the world slowly moves along its cloudy path.",
-    "color_code": "#778899",
-    "timestamp": "2025-05-29 08:43:04"
+    "weather_report": "As the afternoon unfolds over Perth, the skies bear a gentle veil of gray, having recently shed the weight of light rain. The morning has departed quietly with muted raindrops, leaving behind a world refreshed and imbued with a delicate, lingering scent of earth. The air is still soft, not quite cool, but enveloped in a coolness that whispers of shared secrets between the clouds and the sun, stealing glimpses but refusing to reveal their full brilliance. Now, with the day's tempo slowed to a serene rhythm, the chances of the sun breaking through seem elusive, nestled away like a shy actor behind a drawn curtain. The world takes on a subdued hue, eschewing sharp contrasts for a softer palette that blurs the boundaries between light and shadow.\n\nConsidering this temperament, today is best spent in comfortable attire, perhaps a light jacket or a cozy sweater to ward off the damp's subtle chill. The weather casts an introspective mood\u2014inviting activities that dot the spectrum between gentle exploration and quiet reflection. A walk along Perth's urbane streets, peering into shop windows or treading softly through a museum, beckons with the allure of simplicity. Or perhaps settling into a beloved corner of your favorite caf\u00e9, a warm beverage in hand, to watch the world brush past, wrapped in the silent conversation of rain and sky. At home, pages of an unrushed novel might flutter in time with the day's gentle undulations, turning inside as the city breathes a synchrony with the soothing whisper of unseen sun and graying horizon.",
+    "color_code": "#A3B6C9",
+    "timestamp": "2025-05-29 14:13:13"
 }
