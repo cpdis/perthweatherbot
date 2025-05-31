@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Fremantle",
             "country": "AU",
-            "latitude": -31.94969223880663,
-            "longitude": 115.8208957153792
+            "latitude": -32.05099883618336,
+            "longitude": 115.7494270112986
         },
         "current_conditions": {
-            "timestamp": "2025-05-31T06:11:22+00:00",
-            "temperature_c": 21.17,
-            "temperature_f": 70.10600000000001,
-            "humidity": 73,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 230,
-            "description": "broken clouds"
+            "timestamp": "2025-05-31T12:14:13+00:00",
+            "temperature_c": 16.2,
+            "temperature_f": 61.16,
+            "humidity": 89,
+            "wind_speed_mph": 1.14087,
+            "wind_direction": 150,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-05-31T09:00:00+00:00",
-                "temperature": 20.72,
-                "windSpeed": 8.74667,
-                "windDirection": 210,
-                "shortForecast": "light rain"
+                "startTime": "2025-05-31T15:00:00+00:00",
+                "temperature": 16.56,
+                "windSpeed": 6.129380000000001,
+                "windDirection": 140,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-05-31T12:00:00+00:00",
-                "temperature": 19.3,
-                "windSpeed": 7.717650000000001,
-                "windDirection": 157,
-                "shortForecast": "light rain"
+                "startTime": "2025-05-31T18:00:00+00:00",
+                "temperature": 16.5,
+                "windSpeed": 4.74244,
+                "windDirection": 122,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "In the gentle embrace of the early afternoon in Subiaco, the air carries whispers of rain and the soft embrace of overcast skies. As droplets alight gracefully upon the earth, the day maintains an intimate, almost secretive charm, as though wrapped in a soft gauze of quiet reflection. Though the heavens weep lightly at this moment, the world beneath hums with a steady rhythm, the kind of ambiance that invites introspection and quiet moments of contemplation. This isn't a day for the glaring sun or a brazen display of shadow and light, but rather one that speaks softly in shades of gray, where the clarity of the afternoon leans toward the more subdued palette of the weathered soul.\n\nDress gently against the slight chill that comes with lingering rain \u2013 a light waterproof jacket should suffice, perhaps accompanied by boots that keep the feet dry and grounded as one ambles along the rain-kissed pathways. This is a call to those simple pleasures that thrive under a canopy of cloud: a stroll through the dampened streets or perhaps a moment at a cozy caf\u00e9, savoring the warmth of a rich cup of coffee as the world whispers past outside. Embrace the serenity, let the mind drift with the rhythm of the rain, finding joy in small, unhurried moments. The UV index won't demand vigilance today, allowing you to find solace beneath the day's gentle, muted shades.",
-    "color_code": "#7F8A9C",
-    "timestamp": "2025-05-31 14:11:22"
+    "weather_report": "As evening gently wraps its arms around Fremantle, the sky, sprinkled with scattered clouds, offers a modest display of nature's subtle brushstrokes. The daylight, who so gracefully danced across the city, now quietly retreats, leaving a cloak of mildness in its wake. With the sun setting lower on the horizon, the air carries a whisper of coolness, a reminder of the shifting seasons. While the sun's rays become less assertive, the diminishing UV index provides a safe canopy for skin, if only for a few more moments of twilight. This time calls for a light jacket to ward off the impending night chill, while still allowing you to bask in the remnants of the day's warmth.\n\nAs the sky dims, the atmosphere becomes ideal for simple pleasures\u2014a leisurely walk through the streets lined with cozy lights or perhaps settling on a bench to watch the world whisper its gentle goodnights. This clarity of evening, neither too warm nor uncomfortably brisk, whispers an invitation to savor the pure, uncomplicated joys. The energy of the harbor may slow, but the heart of Fremantle beats with the steady charm of an old friend, urging you to breathe, walk, and dream.",
+    "color_code": "#B8C3CC",
+    "timestamp": "2025-05-31 20:14:13"
 }
