@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Fremantle",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -32.05099883618336,
-            "longitude": 115.7494270112986
+            "latitude": -31.94967168482422,
+            "longitude": 115.820704321658
         },
         "current_conditions": {
-            "timestamp": "2025-05-31T18:10:23+00:00",
-            "temperature_c": 14.24,
-            "temperature_f": 57.632,
-            "humidity": 93,
-            "wind_speed_mph": 4.74244,
-            "wind_direction": 122,
-            "description": "scattered clouds"
+            "timestamp": "2025-06-01T00:54:29+00:00",
+            "temperature_c": 15.42,
+            "temperature_f": 59.756,
+            "humidity": 88,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 60,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-05-31T21:00:00+00:00",
-                "temperature": 15.02,
-                "windSpeed": 7.47158,
-                "windDirection": 112,
+                "startTime": "2025-06-01T03:00:00+00:00",
+                "temperature": 16.7,
+                "windSpeed": 5.50302,
+                "windDirection": 44,
                 "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-06-01T00:00:00+00:00",
-                "temperature": 15.63,
-                "windSpeed": 8.70193,
-                "windDirection": 104,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-06-01T06:00:00+00:00",
+                "temperature": 19.36,
+                "windSpeed": 3.53446,
+                "windDirection": 321,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "As the night gently hues into day in Fremantle, the sky is textured with broken clouds, a celestial tapestry that mutes the sun's direct brilliance. The forecast whispers of a mostly cloudy disposition, suggesting a tempered brightness rather than unfettered sunshine. While the sun plays a coy game of hide and seek behind the shifting clouds, the UV index may sit on the lower side, offering a respite from its harsher summer cousin. This pliable filter of clouds extends an invitation to dress in layers \u2014 a light jacket for the morning's cooler caress, easily shed if sunbeams drape their warmth upon the afternoon. \n\nToday's weather holds a gentle equilibrium, neither overtly sunny nor grim, a canvas poised for quiet reflection and meandering thoughts. Ideal for a leisurely stroll through the historic streets or a lingering coffee on a veranda, where you can listen to the hum of life's rhythm. Let your feet guide you to Fremantle's quieter corners \u2014 a gallery perhaps, where art finds harmony with nature's changing palette, or a hidden garden where sipping tea becomes an exercise in mindfulness. The day asks for unhurried steps and appreciative eyes, as its clouds softly imbue the light with an enigmatic silver-gray sheen \u2014 a whisper of calmness in a bustling world.",
+    "weather_report": "As morning stretches into its late awakening in Subiaco, the sky dons a patchwork of clouds, some scattered like a painter's thoughtful daubs, others broken, allowing sunlight its playful intermissions on the canvas of the earth below. The day beckons with an understated charm, promising moments of warmth that drift lazily like a leaf on a gentle stream, bathing the town in a serene glow. Though the sky remains partly unsettled, its silver-lined inhabitants do little to overshadow the gentle clarity of the day\u2014a day that whispers promises of mild UV exposure, leaving one free to wander, sans the weight of worry.\n\nIn this spectrum of tranquility, today appears comfortably pleasant, neither too cool nor burdened with heat. The sartorial choice should lean towards the light and layered; a soft sweater to buffer the morning's gentle caress while remaining flexible for the sun's warming embrace. With this weather, the day lends itself beautifully to leisurely perambulations down tree-lined avenues or a quiet coffee enjoyed on a shaded veranda. There's no rush, just an invitation to embrace the calm and let the world pass by unhurried as you drift through the morning's golden hour.",
     "color_code": "#B0C4DE",
-    "timestamp": "2025-06-01 02:10:24"
+    "timestamp": "2025-06-01 08:54:29"
 }
