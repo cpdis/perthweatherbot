@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Fremantle",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -32.05311081463587,
-            "longitude": 115.7443765236749
+            "latitude": -31.94968673288736,
+            "longitude": 115.8207581256477
         },
         "current_conditions": {
-            "timestamp": "2025-06-02T06:14:09+00:00",
-            "temperature_c": 20.17,
-            "temperature_f": 68.30600000000001,
-            "humidity": 76,
+            "timestamp": "2025-06-02T12:16:12+00:00",
+            "temperature_c": 17.08,
+            "temperature_f": 62.74399999999999,
+            "humidity": 96,
             "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 350,
-            "description": "light rain"
+            "wind_direction": 20,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-06-02T09:00:00+00:00",
-                "temperature": 20.32,
-                "windSpeed": 22.705550000000002,
-                "windDirection": 330,
+                "startTime": "2025-06-02T15:00:00+00:00",
+                "temperature": 16.57,
+                "windSpeed": 10.67049,
+                "windDirection": 357,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-06-02T12:00:00+00:00",
-                "temperature": 20.4,
-                "windSpeed": 18.231550000000002,
-                "windDirection": 327,
+                "startTime": "2025-06-02T18:00:00+00:00",
+                "temperature": 16.73,
+                "windSpeed": 13.578590000000002,
+                "windDirection": 346,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "As the clock nuzzles past early afternoon in Fremantle, the sky, a watercolor of rain-filled cloud strokes, casts a gentle gray hue over the coastal town. The remnants of morning rainfall have left the streets dappled with puddles, while the air carries a cool whisper, unburdened by the usual bite of midday sun. Even as the rain tapers off, its presence lingers, offering a canvas of tranquility that wraps around the heart like an old friend. There\u2019s a certain clarity to this shy day, not in the brightness of the sun, but in the softness of its absence. It is as if the universe, in its infinite artistry, decided to paint a scene of quiet contemplation rather than dazzling brilliance.\n\nFor those who wander through Fremantle\u2019s cobblestone paths today, the attire of choice is layers \u2014 a cozy jumper paired with a light raincoat, perhaps a woolen scarf loosely draped, inviting warmth with a hint of readiness for the sky\u2019s unpredictable moods. It\u2019s a day for slow, meandering strolls through open-air markets, where the scent of fresh coffee mingles with the dampness of recent rain, or for curling up in a quaint corner of a caf\u00e9 with a book that\u2019s been waiting for the perfect day to be read. The overcast sky, in its gentle insistence, suggests an introspective retreat into simplicity, coaxing a refuge of peace and slow rhythms amid the usual haste of life.",
-    "color_code": "#708090",
-    "timestamp": "2025-06-02 14:14:09"
+    "weather_report": "In the heart of Subiaco, as you find yourself enveloped by the evening\u2019s embrace, the sky wears a silken shroud of clouds, a testament to the light rain that has intermittently drizzled throughout the day. The sun, now a distant memory slipping beneath the horizon, leaves behind a sky scribed with sombre hues, suggesting an introspective end to the day. The air, cooled by the subtle mist, wraps around you with a gentle insistence, an invitation to slow down and savor the tranquility the rain brings. The mood is one of introspection rather than illumination; the wet pavements glisten under the streetlights, casting a quiet glow around your feet, and the fresh, earthy scent that accompanies the rain calls for deep breaths and inward reflections.\n\nAs you venture outdoors, a light waterproof jacket would complement the mild temperature and guard against the persistent droplets. Your steps might naturally wander towards a cozy corner caf\u00e9, one that promises a hot cup of coffee and a book or perhaps the simple joy of watching raindrops race each other down the glass. Now is a time for gentle pursuits\u2014crafting thoughts in the pages of a journal or finding solace in the cadence of familiar music playing softly in the background. As the city hums a quieter tune, lean into this tapestry of gentle rain and evening shadows, and let it be your guide through the poetic end of this rain-kissed day.",
+    "color_code": "#4C4E8F",
+    "timestamp": "2025-06-02 20:16:12"
 }
