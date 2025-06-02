@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "South Fremantle",
             "country": "AU",
-            "latitude": -31.94969226762008,
-            "longitude": 115.8206786156405
+            "latitude": -32.07412985094067,
+            "longitude": 115.7519770819622
         },
         "current_conditions": {
-            "timestamp": "2025-06-01T18:10:48+00:00",
-            "temperature_c": 15.86,
-            "temperature_f": 60.548,
-            "humidity": 81,
+            "timestamp": "2025-06-02T00:45:29+00:00",
+            "temperature_c": 17.76,
+            "temperature_f": 63.968,
+            "humidity": 71,
             "wind_speed_mph": 9.21644,
             "wind_direction": 40,
-            "description": "clear sky"
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-06-01T21:00:00+00:00",
-                "temperature": 15.2,
-                "windSpeed": 10.133610000000001,
-                "windDirection": 36,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-06-02T03:00:00+00:00",
+                "temperature": 18.24,
+                "windSpeed": 14.540500000000002,
+                "windDirection": 18,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2025-06-02T00:00:00+00:00",
-                "temperature": 15.12,
-                "windSpeed": 9.44014,
-                "windDirection": 41,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-06-02T06:00:00+00:00",
+                "temperature": 20.12,
+                "windSpeed": 16.732760000000003,
+                "windDirection": 341,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "As dawn quietly ossifies the remnants of the night in Subiaco, the sky is a mosaic of soft, scattered remnants of cloud cover yielding to broken clouds. The early hours play host to this tug-of-war between the lingering night and an imminent, sun-kissed day. The atmosphere whispers tales of a modestly tenebrous morning, with the elegance of sunlight barely filtered through the fragmented cloudscape. The UV index hasn\u2019t sharpened its claws yet\u2014its muted presence a lull before the daylight crescendo. Today won\u2019t be unlaced with shadows but will offer a gentle, variegated light that skips across the rooftops. Step into this day wearing layers that revel in their adaptability\u2014a light sweater ready to be shed when the sun blazes through with tender authority. Consider this a day made for slowing the pace\u2014perhaps stretching out a morning walk through leafy streets, breathing in the softened glow under a floppy hat. Or sit with your favorite book where sunlight dapples the earth, a symbol of nature\u2019s own half-light blessing. In this stillness, where warmth competes with whispers on the wind, you\u2019ll find that simplicity binds the day together like a quiet sonnet.",
-    "color_code": "#D3D3D3",
-    "timestamp": "2025-06-02 02:10:49"
+    "weather_report": "As dawn gently nudges South Fremantle awake, the day cloaks itself in the soft and somber embrace of overcast skies, promising a morning devoid of glaring sunbursts. With clouds entwined like a gentle gray quilt overhead, the day whispers a mellow tale to the city by the sea. The absence of harsh sunrays provides a gentle reprieve, allowing the mind to wander freely without squinting through sunshine. In this mild ambiguity of weather, the UV index lurks low, offering little resistance between skin and the world's gentle caress. It is a day that suggests subtle simplicity in attire\u2014a cozy jumper to ward off the occasional fleeting chill, paired with comfortable shoes to tread on familiar paths. As the clocks show morning rolling into midday, the mood remains contemplative and introspective. It is a day best spent meandering through a beloved bookshop, where the scent of bound paper mingles with the comforting anonymity of shadowed aisles, or perhaps wandering alongside the whispers of waves at the beachfront, where conversations with oneself find their rhythm in the lapping tide. Let the timbral chords of a day painting its stories without the urgency of bright strokes guide you towards a novel appreciation of tranquil moments.",
+    "color_code": "#778899",
+    "timestamp": "2025-06-02 08:45:29"
 }
