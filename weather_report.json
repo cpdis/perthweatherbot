@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "South Fremantle",
+            "name": "Fremantle",
             "country": "AU",
-            "latitude": -32.07412985094067,
-            "longitude": 115.7519770819622
+            "latitude": -32.05311081463587,
+            "longitude": 115.7443765236749
         },
         "current_conditions": {
-            "timestamp": "2025-06-02T00:45:29+00:00",
-            "temperature_c": 17.76,
-            "temperature_f": 63.968,
-            "humidity": 71,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 40,
-            "description": "overcast clouds"
+            "timestamp": "2025-06-02T06:14:09+00:00",
+            "temperature_c": 20.17,
+            "temperature_f": 68.30600000000001,
+            "humidity": 76,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 350,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2025-06-02T03:00:00+00:00",
-                "temperature": 18.24,
-                "windSpeed": 14.540500000000002,
-                "windDirection": 18,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-06-02T09:00:00+00:00",
+                "temperature": 20.32,
+                "windSpeed": 22.705550000000002,
+                "windDirection": 330,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-06-02T06:00:00+00:00",
-                "temperature": 20.12,
-                "windSpeed": 16.732760000000003,
-                "windDirection": 341,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-06-02T12:00:00+00:00",
+                "temperature": 20.4,
+                "windSpeed": 18.231550000000002,
+                "windDirection": 327,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "As dawn gently nudges South Fremantle awake, the day cloaks itself in the soft and somber embrace of overcast skies, promising a morning devoid of glaring sunbursts. With clouds entwined like a gentle gray quilt overhead, the day whispers a mellow tale to the city by the sea. The absence of harsh sunrays provides a gentle reprieve, allowing the mind to wander freely without squinting through sunshine. In this mild ambiguity of weather, the UV index lurks low, offering little resistance between skin and the world's gentle caress. It is a day that suggests subtle simplicity in attire\u2014a cozy jumper to ward off the occasional fleeting chill, paired with comfortable shoes to tread on familiar paths. As the clocks show morning rolling into midday, the mood remains contemplative and introspective. It is a day best spent meandering through a beloved bookshop, where the scent of bound paper mingles with the comforting anonymity of shadowed aisles, or perhaps wandering alongside the whispers of waves at the beachfront, where conversations with oneself find their rhythm in the lapping tide. Let the timbral chords of a day painting its stories without the urgency of bright strokes guide you towards a novel appreciation of tranquil moments.",
-    "color_code": "#778899",
-    "timestamp": "2025-06-02 08:45:29"
+    "weather_report": "As the clock nuzzles past early afternoon in Fremantle, the sky, a watercolor of rain-filled cloud strokes, casts a gentle gray hue over the coastal town. The remnants of morning rainfall have left the streets dappled with puddles, while the air carries a cool whisper, unburdened by the usual bite of midday sun. Even as the rain tapers off, its presence lingers, offering a canvas of tranquility that wraps around the heart like an old friend. There\u2019s a certain clarity to this shy day, not in the brightness of the sun, but in the softness of its absence. It is as if the universe, in its infinite artistry, decided to paint a scene of quiet contemplation rather than dazzling brilliance.\n\nFor those who wander through Fremantle\u2019s cobblestone paths today, the attire of choice is layers \u2014 a cozy jumper paired with a light raincoat, perhaps a woolen scarf loosely draped, inviting warmth with a hint of readiness for the sky\u2019s unpredictable moods. It\u2019s a day for slow, meandering strolls through open-air markets, where the scent of fresh coffee mingles with the dampness of recent rain, or for curling up in a quaint corner of a caf\u00e9 with a book that\u2019s been waiting for the perfect day to be read. The overcast sky, in its gentle insistence, suggests an introspective retreat into simplicity, coaxing a refuge of peace and slow rhythms amid the usual haste of life.",
+    "color_code": "#708090",
+    "timestamp": "2025-06-02 14:14:09"
 }
