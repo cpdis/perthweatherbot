@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94965645424983,
-            "longitude": 115.8207701073517
+            "latitude": -31.95420251924054,
+            "longitude": 115.8525952226369
         },
         "current_conditions": {
-            "timestamp": "2025-06-09T00:46:38+00:00",
-            "temperature_c": 12.69,
-            "temperature_f": 54.842,
-            "humidity": 74,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 20,
+            "timestamp": "2025-06-09T06:14:16+00:00",
+            "temperature_c": 22.42,
+            "temperature_f": 72.35600000000001,
+            "humidity": 38,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 10,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-06-09T03:00:00+00:00",
-                "temperature": 14.84,
-                "windSpeed": 8.14268,
-                "windDirection": 19,
-                "shortForecast": "clear sky"
+                "startTime": "2025-06-09T09:00:00+00:00",
+                "temperature": 21.34,
+                "windSpeed": 6.01753,
+                "windDirection": 276,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-06-09T06:00:00+00:00",
-                "temperature": 19.26,
-                "windSpeed": 8.20979,
-                "windDirection": 319,
-                "shortForecast": "few clouds"
+                "startTime": "2025-06-09T12:00:00+00:00",
+                "temperature": 17.03,
+                "windSpeed": 3.04232,
+                "windDirection": 352,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "As the first light of morning stretches lazily over Subiaco, you're greeted with the promise of a day that hints at both brilliance and subtlety  in equal measure. The early hours were greeted by a crystal-clear sky, a metaphor for unblemished optimism, as soft whispers of clouds have begun to dance at a distance. The world is at ease, wrapped cozily in this gentle dawning. With the sun taking its gentle journey overhead, the UV index will likely rise, still tempered by those few clouds passing by with nonchalance. \n\nToday will favor the art of balance: just light enough to wear your favorite summer attire, yet thoughtful to keep a hat or light scarf on standby, a nod to that sun above. This is a day where subtler joys surface, much like these quiet clouds\u2014the right time for a stroll through the neighborhood gardens, letting the scent of fresh blooms guide your way. Perhaps you'll find yourself enjoying a book on a sun-soaked terrace, or letting the breeze carry a melody while you sip a calming tea. This day, gentle and unhurried, invites you to explore its quieter wonders, encouraging contemplation and discovery amidst life's gentle hum.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-06-09 08:46:39"
+    "weather_report": "As the day unfolds in Perth, a gentle symphony of skies unravels, offering a variation between few and scattered clouds. The morning has passed in a serene dance of wispy white against a broad canvas of blue, promising an aura of comfort and tranquility. Those momentarily gathered clouds hint at a capricious playfulness, suggesting a day neither too blazing nor harshly bright, but delightfully soft and inviting. Despite the absence of a fiercely radiant sun, the light remains cheerful enough to bathe the scenery in a northernly glare, with only mild interruptions by floating cotton confidantes.\n\nDressing for such a day may well lead one to choose layers\u2014perhaps a light sweater over a casual shirt\u2014to embrace the slight breeze and ever-changing temperature. A hat could be a welcome guardian for any momentary bursts of sunshine grandeur, though sunscreen might be left uncalled for, given nature's muted brushstrokes. As the afternoon graciously stretches its limbs, it gives permission for a leisurely stroll in a park or a reflective moment at a local caf\u00e9's outdoor seating, soaking in the gentle warmth and breathable air. Here, contemplation pairs naturally with a shared conversation, or perhaps with the pages of a beloved book. Whether basking in restful solitude or engaging in quiet activities with company, it is a day best appreciated for its serene simplicity and gentle allure.",
+    "color_code": "#87AFC7",
+    "timestamp": "2025-06-09 14:14:16"
 }
