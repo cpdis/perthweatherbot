@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95420251924054,
-            "longitude": 115.8525952226369
+            "latitude": -31.94968076587659,
+            "longitude": 115.8208394802709
         },
         "current_conditions": {
-            "timestamp": "2025-06-09T06:14:16+00:00",
-            "temperature_c": 22.42,
-            "temperature_f": 72.35600000000001,
-            "humidity": 38,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 10,
+            "timestamp": "2025-06-09T12:16:19+00:00",
+            "temperature_c": 13.48,
+            "temperature_f": 56.264,
+            "humidity": 67,
+            "wind_speed_mph": 4.60822,
+            "wind_direction": 60,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-06-09T09:00:00+00:00",
-                "temperature": 21.34,
-                "windSpeed": 6.01753,
-                "windDirection": 276,
-                "shortForecast": "few clouds"
+                "startTime": "2025-06-09T15:00:00+00:00",
+                "temperature": 13,
+                "windSpeed": 8.276900000000001,
+                "windDirection": 22,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-06-09T12:00:00+00:00",
-                "temperature": 17.03,
-                "windSpeed": 3.04232,
-                "windDirection": 352,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-06-09T18:00:00+00:00",
+                "temperature": 11.49,
+                "windSpeed": 9.48488,
+                "windDirection": 15,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "As the day unfolds in Perth, a gentle symphony of skies unravels, offering a variation between few and scattered clouds. The morning has passed in a serene dance of wispy white against a broad canvas of blue, promising an aura of comfort and tranquility. Those momentarily gathered clouds hint at a capricious playfulness, suggesting a day neither too blazing nor harshly bright, but delightfully soft and inviting. Despite the absence of a fiercely radiant sun, the light remains cheerful enough to bathe the scenery in a northernly glare, with only mild interruptions by floating cotton confidantes.\n\nDressing for such a day may well lead one to choose layers\u2014perhaps a light sweater over a casual shirt\u2014to embrace the slight breeze and ever-changing temperature. A hat could be a welcome guardian for any momentary bursts of sunshine grandeur, though sunscreen might be left uncalled for, given nature's muted brushstrokes. As the afternoon graciously stretches its limbs, it gives permission for a leisurely stroll in a park or a reflective moment at a local caf\u00e9's outdoor seating, soaking in the gentle warmth and breathable air. Here, contemplation pairs naturally with a shared conversation, or perhaps with the pages of a beloved book. Whether basking in restful solitude or engaging in quiet activities with company, it is a day best appreciated for its serene simplicity and gentle allure.",
-    "color_code": "#87AFC7",
-    "timestamp": "2025-06-09 14:14:16"
+    "weather_report": "As the sun dips lower on the horizon in Subiaco, a gentle breeze whispers through the air, weaving through the scattered clouds from earlier and now brushing against the broken ones that have gathered. The sky, painted with soft hues as daylight fades, casts a dreamy pallor over the town, not too bright nor piercing, making for an evening that feels closer to a comforting embrace than anything else. With the waning sunlight, the UV index naturally retreats, removing any harshness and leaving behind an ambiance both gentle and forgiving. The day, though once lively and slightly unpredictable, is now settling into a rhythm that gently cocoons the world around it.\n\nDressing for this serene evening invites light layers; perhaps a comfortable sweater or a beloved jacket to guard against the cool that will inevitably deepen as the night unfolds. This is an evening for leisurely strolls through the streets as the city quiets, where one might lose themselves under the ever-changing sky. Or perhaps, it's best enjoyed from a patio or a cozy nook, with a warm cup in hand, basking in the tranquility as the remaining light slowly gives way to twilight. This isn't a moment designed for grandeur or spectacle, but rather for finding joy in the subtleties\u2014the rustle of leaves, the distant laughter echoing down the lanes, and the quiet promise of a new day lying just beyond the dusk.",
+    "color_code": "#A19584",
+    "timestamp": "2025-06-09 20:16:19"
 }
