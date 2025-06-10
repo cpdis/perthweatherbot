@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94967649304204,
-            "longitude": 115.8207957113065
+            "latitude": -31.95416198300633,
+            "longitude": 115.8525515710339
         },
         "current_conditions": {
-            "timestamp": "2025-06-10T00:43:26+00:00",
-            "temperature_c": 14.11,
-            "temperature_f": 57.397999999999996,
-            "humidity": 77,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 30,
-            "description": "scattered clouds"
+            "timestamp": "2025-06-10T06:13:10+00:00",
+            "temperature_c": 16.5,
+            "temperature_f": 61.7,
+            "humidity": 89,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 220,
+            "description": "shower rain"
         },
         "forecast": [
             {
-                "startTime": "2025-06-10T03:00:00+00:00",
-                "temperature": 15.48,
-                "windSpeed": 20.02115,
-                "windDirection": 248,
-                "shortForecast": "moderate rain"
+                "startTime": "2025-06-10T09:00:00+00:00",
+                "temperature": 16.43,
+                "windSpeed": 20.69225,
+                "windDirection": 212,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-06-10T06:00:00+00:00",
-                "temperature": 17.88,
-                "windSpeed": 21.40809,
-                "windDirection": 231,
-                "shortForecast": "light rain"
+                "startTime": "2025-06-10T12:00:00+00:00",
+                "temperature": 13.59,
+                "windSpeed": 15.70374,
+                "windDirection": 209,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "As the clock gently treads past the early hours in Subiaco, the skies remain a canvas brushed with lingering hues of gray, a watercolor of the leftover night. The rhythm of rainfall has dwindled from a moderate symphony to a tender, light drumming, just a whisper of the heavens above. Though the morning light is filtered through a quilt of cloud cover, occasionally permitting a diffused glow to touch upon the landscape, the day promises a cool and refreshing guise. There is a certain clarity in the softened light, an invitation to explore the gentleness in the air rather than the harsh brilliance of a clear, cloudless sky. The usual vibrant UV assault is subdued, offering instead an extended embrace to those who choose to wander beneath.\n\nEmbrace this gentle embrace with a layered attire; a waterproof jacket will not only fend off any surprise showers but also provide a comforting shield against the sporadic breezes. Strolling through the lush foliage of nearby parks becomes a serene choice, where the freshened earth sends a petrichor perfume upward. Perhaps a solitary visit to a local caf\u00e9, with a book in hand, or a quiet sit on a bench sipping a warm drink while the rain lightly kisses the ground may bring a simplicity to the dawning hours. Even as the rain lightly taps on windows and sidewalks, there\u2019s a certain delight found in the softness, in the way the world slows, just enough to let you breathe deeper, look longer, and savor more.",
-    "color_code": "#708098",
-    "timestamp": "2025-06-10 08:43:26"
+    "weather_report": "In Perth, the sky wears a muted gray cloak today, as the dainty patter of morning rain has given way to a canopy of dense, overcast clouds. The sun, shyly hiding behind thick layers, brings about a day that lacks its usual sparkle. As the clock ticks past midday, the once vibrant city feels subdued, enveloped in a soft veil of clouds that keeps the harshness of UV rays at bay, promising a gentle caress rather than a brazen sunburn. It is a world softened and mellowed, where contemplations run deep and activities slow down. Under such skies, the day entices you to embrace its melancholic beauty, to revel in the comfort of a warm sweater or a light raincoat, to tread gently through streets that shimmer subtly from earlier showers. This weather, though not boisterously cheerful, holds its own charm\u2014perfect for enjoying the tranquil rhythm of life, for a leisurely walk beneath leafy avenues or a cozy retreat into a coffee shop corner, savoring a hot drink while the world outside streams softly by. One might find joy in quiet moments, in the simple act of thinking or reading in the stillness that only overcast skies permit, or perhaps a spontaneous adventure to a local gallery, where art casts its light on a gray day, lifting spirits gently.",
+    "color_code": "#7B8788",
+    "timestamp": "2025-06-10 14:13:11"
 }
