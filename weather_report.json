@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95416198300633,
-            "longitude": 115.8525515710339
+            "latitude": -31.94969583154379,
+            "longitude": 115.8208550783105
         },
         "current_conditions": {
-            "timestamp": "2025-06-10T06:13:10+00:00",
-            "temperature_c": 16.5,
-            "temperature_f": 61.7,
-            "humidity": 89,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 220,
-            "description": "shower rain"
+            "timestamp": "2025-06-10T18:12:21+00:00",
+            "temperature_c": 11.3,
+            "temperature_f": 52.34,
+            "humidity": 83,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 70,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-06-10T09:00:00+00:00",
-                "temperature": 16.43,
-                "windSpeed": 20.69225,
-                "windDirection": 212,
-                "shortForecast": "light rain"
+                "startTime": "2025-06-10T21:00:00+00:00",
+                "temperature": 11.08,
+                "windSpeed": 5.70435,
+                "windDirection": 150,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-06-10T12:00:00+00:00",
-                "temperature": 13.59,
-                "windSpeed": 15.70374,
-                "windDirection": 209,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-06-11T00:00:00+00:00",
+                "temperature": 12.05,
+                "windSpeed": 4.11608,
+                "windDirection": 101,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "In Perth, the sky wears a muted gray cloak today, as the dainty patter of morning rain has given way to a canopy of dense, overcast clouds. The sun, shyly hiding behind thick layers, brings about a day that lacks its usual sparkle. As the clock ticks past midday, the once vibrant city feels subdued, enveloped in a soft veil of clouds that keeps the harshness of UV rays at bay, promising a gentle caress rather than a brazen sunburn. It is a world softened and mellowed, where contemplations run deep and activities slow down. Under such skies, the day entices you to embrace its melancholic beauty, to revel in the comfort of a warm sweater or a light raincoat, to tread gently through streets that shimmer subtly from earlier showers. This weather, though not boisterously cheerful, holds its own charm\u2014perfect for enjoying the tranquil rhythm of life, for a leisurely walk beneath leafy avenues or a cozy retreat into a coffee shop corner, savoring a hot drink while the world outside streams softly by. One might find joy in quiet moments, in the simple act of thinking or reading in the stillness that only overcast skies permit, or perhaps a spontaneous adventure to a local gallery, where art casts its light on a gray day, lifting spirits gently.",
-    "color_code": "#7B8788",
-    "timestamp": "2025-06-10 14:13:11"
+    "weather_report": "As dawn gently graces Subiaco, the sky is a canvas of scattered clouds, remnants of a night that whispered promises of a new day. The forecast hints at a modest transition to broken clouds, a gentle evolution suggesting a day not quite shrouded in gloom, nor brazenly sunlit. The clarity of the day seems somewhat moderated, a soft haze of mystery clinging to the air, weaving a tapestry of subdued light and shadow. The sun, though not in full command, arches steadfastly towards its morning zenith, offering a tender embrace to those who seek it out. The UV index, a silent architect of the atmosphere, suggests moderation; a touch of sun protection would be wise for those who travel under this canopy.\n\nIn this dreamy crown of morning, spontaneity finds its charm in the gentle clime, inviting one to adorn soft layers\u2014perhaps a lightweight sweater to make peace with the ambiguous temperament of the weather. As the world stirs, activities align with tranquility: a contemplative ambulation through the neighborhood park, a turn through pages of a beloved novel while nestled in a patio nook, sipping something warm and soothing. With the complexity of natural moods around, it's a perfect day to feel the quiet thrumming of existence, wrapped in its soft gray tones, guiding us tenderly through the fabric of today into whatever tomorrow's light might bring.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-06-11 02:12:22"
 }
