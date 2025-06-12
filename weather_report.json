@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94968125638381,
-            "longitude": 115.8206974051738
+            "latitude": -31.95413553456029,
+            "longitude": 115.8527963945651
         },
         "current_conditions": {
-            "timestamp": "2025-06-12T00:43:32+00:00",
-            "temperature_c": 13.09,
-            "temperature_f": 55.562,
-            "humidity": 72,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 50,
+            "timestamp": "2025-06-12T06:13:44+00:00",
+            "temperature_c": 18.94,
+            "temperature_f": 66.092,
+            "humidity": 52,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 20,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-06-12T03:00:00+00:00",
-                "temperature": 14.19,
-                "windSpeed": 10.111239999999999,
-                "windDirection": 16,
+                "startTime": "2025-06-12T09:00:00+00:00",
+                "temperature": 18.58,
+                "windSpeed": 5.32406,
+                "windDirection": 334,
                 "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-06-12T06:00:00+00:00",
-                "temperature": 17.08,
-                "windSpeed": 7.583430000000001,
-                "windDirection": 339,
+                "startTime": "2025-06-12T12:00:00+00:00",
+                "temperature": 16.25,
+                "windSpeed": 6.509670000000001,
+                "windDirection": 348,
                 "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "As the sun inches past the horizon, Subiaco awakes under a woolen blanket of broken clouds, gradually shifting to an overcast sky by mid-morning. The air carries a gentle coolness that lingers in the early hours, tempering with the promise of a day that will see the light yet be spared the harshness. The sun's rays, outmaneuvered by the thick cloud cover, filter through in scattered strands, offering a soft, diffused glow more than a direct, overpowering warmth\u2014a sky fit for quiet contemplation rather than bustling activity. This setting, one of gentle contrast rather than vibrant color, invites Subiaco into a day that feels as if it's encased in a serene gray cocoon, soundless yet pregnant with understated beauty.\n\nDress in layers, for the day holds uncertain hues\u2014perhaps too cool for a T-shirt alone, maybe too warm for a heavy coat. A lightweight sweater or a jacket should lend the perfect balance between comfort and practicality as you move through the soft layers of the day. There is no urgency, no rush; it's an invitation to slow down. Consider a leisurely walk, perhaps winding through a park or along a quiet street, the absence of direct sunlight casting everything in a richer, moodier tone, begging reflection. Or venture indoors to a cozy caf\u00e9, your gaze lingering out the window, lost somewhere between the present and whatever musings this subdued palette provokes within you.",
-    "color_code": "#70757D",
-    "timestamp": "2025-06-12 08:43:33"
+    "weather_report": "In the charming city of Perth, the afternoon stretches languidly, framed by a sky adorned with a tapestry of clouds that weave an ever-shifting pattern. As of now, the heavens bear a muted overcast hue, promising shelter from the impertinent sun and lending the day a soothing coolness. Such conditions, devoid of oppressive heat or glaring sunlight, create an ambiance where the day feels like a gentle embrace, perfect for those seeking tranquility in muted light. The UV index, whispered by the absence of harsh sunlight, suggests a day where concerns of sunburn can be set aside, and one can stroll leisurely without the burden of excessive protection.\n\nDressing for such a day warrants a nod to comfort and ease \u2013 think layers to temper the soft breezes that may wander through the afternoon. A cozy sweater or a light jacket would suffice, accompanying you like a trusted friend as you meander outdoors. As for where your feet might lead, why not consider a leisurely walk along the Swan River, where the subdued light adds a touch of mystique to the rippling waters? Or perhaps find solace within a nearby cafe, savoring the warmth of an espresso while the world ambles quietly outside the window. As the overcast sky casts its gentle spell, the day unfolds with the promise of understated charm, inviting you to embrace its gentle cadence.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-06-12 14:13:44"
 }
