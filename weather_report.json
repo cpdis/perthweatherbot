@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth Airport",
+            "name": "Melbourne",
             "country": "AU",
-            "latitude": -31.93328619605158,
-            "longitude": 115.9613211839451
+            "latitude": -37.81601518561096,
+            "longitude": 144.9683551870397
         },
         "current_conditions": {
-            "timestamp": "2025-06-16T00:45:52+00:00",
-            "temperature_c": 12.8,
-            "temperature_f": 55.04,
-            "humidity": 88,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 20,
-            "description": "clear sky"
+            "timestamp": "2025-06-16T06:06:53+00:00",
+            "temperature_c": 13.07,
+            "temperature_f": 55.525999999999996,
+            "humidity": 67,
+            "wind_speed_mph": 19.57375,
+            "wind_direction": 10,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-06-16T03:00:00+00:00",
-                "temperature": 14.22,
-                "windSpeed": 2.21463,
-                "windDirection": 324,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-06-16T09:00:00+00:00",
+                "temperature": 12.75,
+                "windSpeed": 17.336750000000002,
+                "windDirection": 359,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-06-16T06:00:00+00:00",
-                "temperature": 17.57,
-                "windSpeed": 3.44498,
-                "windDirection": 260,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-06-16T12:00:00+00:00",
+                "temperature": 10.95,
+                "windSpeed": 13.08645,
+                "windDirection": 347,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "As the morning unfolds at Perth Airport, the sky wears a tapestry of clouds that move in gentle camaraderie. It\u2019s a day that exudes a moody charm, promising moments of dappled sunlight in between gauzy veils that dance across the horizon. Scattered clouds from the early dawn mature into a mosaic of brokenness as the sun climbs over the day, lending a quiet beauty to your ambling afternoon. There's a freshness in the air, a mildness that asks for layers\u2014a comfortable outer shell, perhaps an earthy pullover or a scarf to embrace the cool whispers, yet surrender to patches of warmth.\n\nExpect a day with subtle brightness rather than harsh glare, where the sun plays peek-a-boo, hinting shadows under the myriad of floating clouds. The sky\u2019s complexion suggests that today aligns perfectly for leisurely pursuits\u2014perhaps a stroll through nearby parklands or an unhurried exploration of aromatic coffee nooks that promise solace. Such a day, emphasized by the unfolding cloud dance, is an invitation to tread the day's hours with gentle strides and a contemplative heart, absorbing the allure of nature's tranquil theatrics without haste.",
-    "color_code": "#708090",
-    "timestamp": "2025-06-16 08:45:53"
+    "weather_report": "As the afternoon settles over Melbourne, the skies, once layered like a moody masterpiece with broken clouds, now drizzle softly in a symphony of light rain. The radiant sun hides behind the veiled curtain of gray, casting the city in a muted glow where shadows blend seamlessly with the textures of the world. With the cool, damp air filtering through the streets, it's a day that's dressed in subtle contrasts. Wearing layers is a wise choice, perhaps a comfortable sweater under a waterproof jacket, with boots that whisper compliments to the cobbled paths and puddled sidewalks. The UV index whispers insignificance under these watercolor skies, granting you carefree ambles without the sharp stare of the sun. For those venturing out, today's weather beckons introspection, perfect for a cozy corner in a familiar cafe \u2013 perhaps a book in hand, accompanied by the gentle melody of rainfall against windowpanes. Embrace the richness of the overcast sky, the aura of nostalgia it births, and relish in the small rituals of warmth and leisure it invites. Nature's gentle drizzle dances with time, urging us to pause and savor the rhythmic secrets of the passing afternoon.",
+    "color_code": "#6D8FA8",
+    "timestamp": "2025-06-16 14:14:37"
 }
