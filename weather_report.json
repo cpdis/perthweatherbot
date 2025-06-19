@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Melbourne",
+            "name": "Melbourne Airport",
             "country": "AU",
-            "latitude": -37.81408833855591,
-            "longitude": 144.9603967089847
+            "latitude": -37.66855716565413,
+            "longitude": 144.8508129211635
         },
         "current_conditions": {
-            "timestamp": "2025-06-19T00:40:41+00:00",
-            "temperature_c": 9.8,
-            "temperature_f": 49.64,
-            "humidity": 73,
+            "timestamp": "2025-06-19T06:13:42+00:00",
+            "temperature_c": 10.72,
+            "temperature_f": 51.296,
+            "humidity": 70,
             "wind_speed_mph": 18.410510000000002,
             "wind_direction": 10,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-06-19T03:00:00+00:00",
-                "temperature": 10.41,
-                "windSpeed": 10.7376,
-                "windDirection": 356,
+                "startTime": "2025-06-19T09:00:00+00:00",
+                "temperature": 10.09,
+                "windSpeed": 6.86759,
+                "windDirection": 8,
                 "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-06-19T06:00:00+00:00",
-                "temperature": 11.17,
-                "windSpeed": 10.08887,
-                "windDirection": 7,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-06-19T12:00:00+00:00",
+                "temperature": 6.99,
+                "windSpeed": 6.39782,
+                "windDirection": 9,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "As the morning unfurls across Melbourne, a serene tranquility settles on the city, shrouded under a gentle canopy of broken clouds. These dispersed clouds allow intermittent glimpses of sunlight, casting an ever-changing pattern of warm, golden light across the landscape. While not a day basking in unbroken sunshine, it is a canvas painted in subtle, delicate hues. The UV index, moderately vigilant, whispers reminders to wear layers that lightly cocoon against the cool with an outer garment that breathes \u2013 a soft cardigan or a light trench coat should engage just fine. The day envisages itself as one of hushed activity, the broken skies encouraging thoughtful contemplation rather than energetic pursuits. Perhaps today is a day best spent taking a leisurely walk, feeling each corner of the day unravel as you meander through local parks where the symphony of filtered light and nature offer solace. You might prefer to sit by a street-side caf\u00e9, sipping on a warm cup of coffee, observing the tapestry of city life woven with fragments of stories passing by. This atmosphere suggests engagement with leisurely pursuits, where the rhythm of life is in sync with the overcast yet harmonious setting.",
-    "color_code": "#BCC6CC",
-    "timestamp": "2025-06-19 08:43:55"
+    "weather_report": "As the afternoon settles over Melbourne Airport, the sky presents a patchwork quilt of broken clouds, allowing occasional sunbeams to break through and paint fleeting patches of warmth upon the tarmac. By midday, these clouds have given way to a scattered formation, revealing more of the pale blue sky, hinting at the sun's reluctant dance behind the cotton-like structures. It's a day of soft contrasts, where light and shadow take turns in a slow waltz. The UV index lingers at a modest level, making it a gentle day for the skin, inviting without demanding. \n\nThe air carries a mild crispness that suggests a light jacket or a comfortable sweater, something that can be easily shrugged off when the sun decides to grace the earth with its gentle warmth. Embark on simple pleasures: perhaps a walk with a travel mug of tea in hand, browsing through a book at the terminal shop, or simply watching planes take off into the dreamy expanse. The ambiance of the day is calm yet animated, with the sporadic sun offering bursts of clarity amidst clusters of clouds. It\u2019s not a day for grand escapades but rather for appreciating the rhythm of comings and goings, finding charm in the medley of clouds, and savoring the soft glow of the afternoon.",
+    "color_code": "#DCCCCC",
+    "timestamp": "2025-06-19 14:13:43"
 }
