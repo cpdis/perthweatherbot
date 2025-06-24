@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94966932768334,
-            "longitude": 115.8207854654159
+            "latitude": -31.95447276782103,
+            "longitude": 115.8525760403277
         },
         "current_conditions": {
-            "timestamp": "2025-06-24T00:44:16+00:00",
-            "temperature_c": 9.68,
-            "temperature_f": 49.424,
-            "humidity": 95,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 20,
-            "description": "few clouds"
+            "timestamp": "2025-06-24T06:14:14+00:00",
+            "temperature_c": 18.2,
+            "temperature_f": 64.75999999999999,
+            "humidity": 56,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 180,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-06-24T03:00:00+00:00",
-                "temperature": 12.18,
-                "windSpeed": 4.6977,
-                "windDirection": 121,
-                "shortForecast": "few clouds"
+                "startTime": "2025-06-24T09:00:00+00:00",
+                "temperature": 17.15,
+                "windSpeed": 9.35066,
+                "windDirection": 178,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-06-24T06:00:00+00:00",
-                "temperature": 15.21,
-                "windSpeed": 9.64147,
-                "windDirection": 184,
-                "shortForecast": "clear sky"
+                "startTime": "2025-06-24T12:00:00+00:00",
+                "temperature": 13.43,
+                "windSpeed": 8.12031,
+                "windDirection": 138,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "As morning gently unfolds over Subiaco, the few clouds of dawn have danced away, leaving nothing but pure, azure skies in their wake. Standing under this expansive canopy, it feels as though the world has dressed for clarity. The sunlight scatters brilliantly across the landscape, hinting at a day that is more vibrant than subdued. Prepare for a pleasantly warm day that whispers tales of summer reveries. The UV index suggests that the sun will pour down in abundance, making sun protection a wise choice for those wandering outside. Dressing in light, breathable fabrics would mirror the relaxed atmosphere of the day and shield you gracefully from the sun's enthusiastic embrace. Perhaps, there's no better way to seize the day than by indulging in the simpler pleasures\u2014a leisurely walk beneath the trees, where light filters through in whimsical patterns, or perhaps a quiet pause in your garden with a cherished book. As the shadows play silently with the sunlight, the day promises tranquility over frantic pursuits, urging you to dwell in its natural harmony.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-06-24 08:44:17"
+    "weather_report": "In the heart of the afternoon, as the clock gently ticks past two, the skies above Perth offer a mosaic of cloud formations, hinting at nature's unpredictability. The morning's assortment of broken clouds has given way to scattered armor in the sky\u2014pockets of blue teasing through white quilted veils. This dance of clouds creates a soft, filtered sunlight that commits to neither the bright vivacity of a summer's day nor the dense hues of an overcast dusk. It's a tranquil kind of day, inviting a touch of introspection. While the UV index rests comfortably within safe limits, the sun whispers through breaks, requiring neither shade nor heavy protection.\n\nAs this pleasing prelude to evening unfolds, attire should echo nature's subtlety\u2014perhaps the light layers of a breathable fabric. A brisk walk along the Swan River would invigorate the senses as the gentle wind plays its part, making shadows flick across the footpath like skipped stones. The day, neither demanding nor intrusive, emerges as well-suited for the simple pleasures: lingering over a finely brewed coffee at an alfresco caf\u00e9, or paging through a new novel in a sun-dappled nook. Greeting this kind of weather, the predictable becomes fresh, and under the nuanced sky, the mundane sows seeds of quiet joy.",
+    "color_code": "#b3c7e6",
+    "timestamp": "2025-06-24 14:14:15"
 }
