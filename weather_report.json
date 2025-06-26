@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95447281833235,
-            "longitude": 115.8525736876779
+            "latitude": -31.94965511870438,
+            "longitude": 115.8209395163503
         },
         "current_conditions": {
-            "timestamp": "2025-06-26T06:13:45+00:00",
-            "temperature_c": 20.14,
-            "temperature_f": 68.252,
-            "humidity": 42,
-            "wind_speed_mph": 6.91233,
-            "wind_direction": 360,
+            "timestamp": "2025-06-26T12:16:48+00:00",
+            "temperature_c": 12.77,
+            "temperature_f": 54.986,
+            "humidity": 74,
+            "wind_speed_mph": 5.63724,
+            "wind_direction": 126,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-06-26T09:00:00+00:00",
-                "temperature": 19.14,
-                "windSpeed": 3.48972,
-                "windDirection": 209,
+                "startTime": "2025-06-26T15:00:00+00:00",
+                "temperature": 11.74,
+                "windSpeed": 6.375450000000001,
+                "windDirection": 82,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-06-26T12:00:00+00:00",
-                "temperature": 14.09,
-                "windSpeed": 5.10036,
-                "windDirection": 117,
+                "startTime": "2025-06-26T18:00:00+00:00",
+                "temperature": 9.3,
+                "windSpeed": 6.4873,
+                "windDirection": 75,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "As the sun traces its golden arc over Perth this inviting afternoon, the skies remain beautifully clear, promising a day filled with warmth and light. The clarity of the azure ceiling above is intoxicating, making it an ideal day to embrace the outdoors with open arms. With no clouds to obscure its presence, the sun bathes the city with its radiant glow, casting long, comforting shadows as it begins its descent toward the horizon. Such weather demands attire befitting both comfort and style; think airy linens or a light cotton blouse paired with your favorite shades to shield your eyes from the sun's unrelenting gaze. While walking through the tranquil parks or along the bustling streets, the vibrant energy of the city begs to be savored. This is a day to relish an unhurried stroll by the Swan River or perhaps a leisurely coffee at a sidewalk caf\u00e9. As you linger in the warm embrace of the afternoon, let the gentle caress of the breeze relax you, its whispers a reminder of the sublime beauty embedded in life's simple moments.",
-    "color_code": "#FFD700",
-    "timestamp": "2025-06-26 14:13:45"
+    "weather_report": "As the golden dusk envelops Subiaco, the sky remains steadfast in its clarity, a vast and quiet expanse free of the tumult typically ushered in by hastening clouds. The day draws to a close with serene simplicity, basking in the afterglow of endless blue. This evening promises a gentle continuity to the cloudless day that has unfolded, now a fitting backdrop for twilight introspection. The air carries a calm, almost soft texture, suggestive of muted whispers rather than brash declarations. With the sun having retreated beyond the horizon, the intensity of the afternoon's UV has ebbed, leaving behind a silkened ambiance that beckons a stroll, a short ride on a bicycle, or perhaps a quiet moment on a porch.\n\nDressing for such an evening involves the lightest of layers\u2014only sufficient to counteract the subtle evening coolness without obscuring the tactile language of the breeze. The gentleness of this clear-skied promise nudges one toward pursuits of gentle joy\u2014a walk in the luminous tranquility, a leisurely dinner outdoors, or even a thoughtful conversation in the fading light. The pleasant weather is an ode to simpler pleasures and sweet detachments, a reminder in our hurried world to pause and inhale deeply these quiet, blissful moments while the sky still holds its steadfast promise of fair weather.",
+    "color_code": "#F7C777",
+    "timestamp": "2025-06-26 20:16:48"
 }
