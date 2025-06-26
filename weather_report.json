@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94968660552091,
-            "longitude": 115.8208867594971
+            "latitude": -31.95447281833235,
+            "longitude": 115.8525736876779
         },
         "current_conditions": {
-            "timestamp": "2025-06-26T00:44:22+00:00",
-            "temperature_c": 10.54,
-            "temperature_f": 50.971999999999994,
-            "humidity": 60,
+            "timestamp": "2025-06-26T06:13:45+00:00",
+            "temperature_c": 20.14,
+            "temperature_f": 68.252,
+            "humidity": 42,
             "wind_speed_mph": 6.91233,
-            "wind_direction": 40,
+            "wind_direction": 360,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-06-26T03:00:00+00:00",
-                "temperature": 12.72,
-                "windSpeed": 5.70435,
-                "windDirection": 35,
+                "startTime": "2025-06-26T09:00:00+00:00",
+                "temperature": 19.14,
+                "windSpeed": 3.48972,
+                "windDirection": 209,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-06-26T06:00:00+00:00",
-                "temperature": 17.36,
-                "windSpeed": 2.79625,
-                "windDirection": 332,
+                "startTime": "2025-06-26T12:00:00+00:00",
+                "temperature": 14.09,
+                "windSpeed": 5.10036,
+                "windDirection": 117,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "As dawn stretches a pink and golden brush across the horizon, the quiet suburb of Subiaco stirs beneath a canopy of azure. The sun wastes no time in painting the morning sky with bold strokes of clarity, promising a day dyed in endless blue. The absence of clouds invites rays to dance uninhibited over the town, their warmth a palpable whisper that draws shadows short and crisp on the cool stone pavements. The air, already tinged with the languid anticipation of warmth, hints at an uncomplicated, breezy mood, one where skies themselves seem to smile down upon their earthbound kin. Subdued zephyrs \u2014 those soft, invisible custodians of nature\u2019s respirations \u2014 float lazily between trees, infusing the day with a sense of leisure.\n\nOn such a sun-drenched stage, it is best to embrace lightness in attire, leaning toward linen shirts or breezy sundresses, accompanied by wide-brimmed hats against the affectionately glaring orb above. Today, with the clarity of the sky suggesting an elevated UV index, a slather of sunblock becomes the ardent companion of any who wander outside. The unmistakable charm of summer's advance inspires routines seeped in tranquility \u2014 an unhurried stroll through local parks, perhaps, savoring the gentle rustle of leaves overhead, or a languid moment with a shaded book on a veranda. Ideal for picnickers and fl\u00e2neurs alike, such a day in Subiaco beckons for the simple pleasure of being, in the soothing embrace of a sun that overlooks all with benign clarity.",
+    "weather_report": "As the sun traces its golden arc over Perth this inviting afternoon, the skies remain beautifully clear, promising a day filled with warmth and light. The clarity of the azure ceiling above is intoxicating, making it an ideal day to embrace the outdoors with open arms. With no clouds to obscure its presence, the sun bathes the city with its radiant glow, casting long, comforting shadows as it begins its descent toward the horizon. Such weather demands attire befitting both comfort and style; think airy linens or a light cotton blouse paired with your favorite shades to shield your eyes from the sun's unrelenting gaze. While walking through the tranquil parks or along the bustling streets, the vibrant energy of the city begs to be savored. This is a day to relish an unhurried stroll by the Swan River or perhaps a leisurely coffee at a sidewalk caf\u00e9. As you linger in the warm embrace of the afternoon, let the gentle caress of the breeze relax you, its whispers a reminder of the sublime beauty embedded in life's simple moments.",
     "color_code": "#FFD700",
-    "timestamp": "2025-06-26 08:44:22"
+    "timestamp": "2025-06-26 14:13:45"
 }
