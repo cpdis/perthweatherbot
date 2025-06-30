@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95434128295287,
-            "longitude": 115.8525675987844
+            "latitude": -31.94967738568202,
+            "longitude": 115.8207875580927
         },
         "current_conditions": {
-            "timestamp": "2025-06-30T06:14:27+00:00",
-            "temperature_c": 16.78,
-            "temperature_f": 62.204,
-            "humidity": 73,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 350,
-            "description": "light intensity shower rain"
+            "timestamp": "2025-06-30T12:16:36+00:00",
+            "temperature_c": 15.19,
+            "temperature_f": 59.342,
+            "humidity": 87,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 20,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-06-30T09:00:00+00:00",
-                "temperature": 16.89,
-                "windSpeed": 11.22974,
-                "windDirection": 330,
-                "shortForecast": "light rain"
+                "startTime": "2025-06-30T15:00:00+00:00",
+                "temperature": 15.38,
+                "windSpeed": 9.08222,
+                "windDirection": 307,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-06-30T12:00:00+00:00",
-                "temperature": 16.3,
-                "windSpeed": 6.95707,
-                "windDirection": 323,
-                "shortForecast": "light rain"
+                "startTime": "2025-06-30T18:00:00+00:00",
+                "temperature": 14.98,
+                "windSpeed": 9.26118,
+                "windDirection": 302,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "The city of Perth finds itself under a soft veil of light rain as the afternoon settles in, with the morning's gentle shower lingering into the day. Clouds gather above, grey and resolute, successfully muting the sun's ardor and presenting a murky tableau that renders reflective pools upon the pavement. As this wistful weather cloaks the city, the air carries a cool edge that lacks the bite of winter's chill yet whispers quietly of its presence. There will be little opportunity to bask today, as the UV index remains low beneath this cottony ceiling. \n\nSuch a day invites relaxed pursuits and comfortable attires: snug layers to ward off dampness and practical shoes to navigate the puddle-marked streets. Perhaps today is less for the outdoor exploits and more suited to the cocoon of indoor indulgences, where one can savor a warm brew, languidly paging through a cherished book or engrossing oneself in a slow, comforting task. Evening will descend with a gentle sigh, and it becomes an opportunity to gather with loved ones, crafting warmth with laughter and stories as rain gently taps at the window, an ambient reminder of the marathon stillness of a rainy day.",
-    "color_code": "#7F8C8D",
-    "timestamp": "2025-06-30 14:14:27"
+    "weather_report": "Evening descends upon Subiaco, draping the town in a serene mix of scattered and broken clouds. The sun has undoubtedly softened its grasp, retreating behind the veils of cloud with just a sliver of its daytime brilliance filtering through. The ambiance teeters between pleasantly mild and simply perfect, evoking a sense of tranquility as the daylight diminishes. There's an essence of summer's warmth lingering in the gentle breeze, encouraging you to lose yourself in the ephemeral weave of light and shadow that dapple the roads and paths.\n\nAs night draws near, the atmosphere invites a leisurely saunter through the neighborhood, maybe with a light jacket slung over your arm \u2013 just in case the cool touches of night air send a gentle shiver through your spine. The waning light and beauty of the dusk stage the perfect backdrop for unraveling thoughts and inspirations across a quiet walk or while sipping something soothing on your porch. This evening, let the restful embrace of the weather and the slow, rhythmic dance of the clouds over Subiaco remind you of the simple elegance that defines the beauty of gentle transitions.",
+    "color_code": "#5D737E",
+    "timestamp": "2025-06-30 20:16:37"
 }
