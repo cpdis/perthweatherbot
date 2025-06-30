@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94968563162476,
-            "longitude": 115.8207840410003
+            "latitude": -31.95434128295287,
+            "longitude": 115.8525675987844
         },
         "current_conditions": {
-            "timestamp": "2025-06-30T00:48:12+00:00",
-            "temperature_c": 16.04,
-            "temperature_f": 60.872,
-            "humidity": 50,
-            "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 20,
-            "description": "clear sky"
+            "timestamp": "2025-06-30T06:14:27+00:00",
+            "temperature_c": 16.78,
+            "temperature_f": 62.204,
+            "humidity": 73,
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 350,
+            "description": "light intensity shower rain"
         },
         "forecast": [
             {
-                "startTime": "2025-06-30T03:00:00+00:00",
-                "temperature": 16.63,
-                "windSpeed": 15.077380000000002,
-                "windDirection": 3,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-06-30T09:00:00+00:00",
+                "temperature": 16.89,
+                "windSpeed": 11.22974,
+                "windDirection": 330,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-06-30T06:00:00+00:00",
-                "temperature": 17.93,
-                "windSpeed": 13.198300000000001,
-                "windDirection": 347,
+                "startTime": "2025-06-30T12:00:00+00:00",
+                "temperature": 16.3,
+                "windSpeed": 6.95707,
+                "windDirection": 323,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "The morning in Subiaco greets you with the gentle caress of scattered clouds that seem to lazily drift across the early sky, allowing occasional shafts of sunlight to punctuate the atmosphere in a warm embrace. As the hours trickle by, whispers of light rain dance on the horizon, teasing the senses with the fragrant promise of earth and sky intertwined. It's a day of muted sunlight and the kind of unpredictable weather that suggests layering your wardrobe \u2013 perhaps a trusty raincoat paired with something light enough to breathe through the morning's intermittent warmth.\n\nThe world feels vibrant yet softened under this capricious ceiling, offering a rare charm for those who relish the poetry of subtle weather patterns. As the day unfolds, you might find joy in allowing the gentle rain to frame an excursion to a local caf\u00e9, where the patter overhead creates a symphony for solitary reflection or lively conversation. Alternatively, the quiet allure of a nearby bookstore or art gallery could provide solace and inspiration under this canopy. Subiaco's atmosphere today encourages a leisurely pace, beckoning you to savor life's simple delights as pale sunlight and gentle raindrops weave a tapestry of tranquility.",
-    "color_code": "#87A2C0",
-    "timestamp": "2025-06-30 08:48:13"
+    "weather_report": "The city of Perth finds itself under a soft veil of light rain as the afternoon settles in, with the morning's gentle shower lingering into the day. Clouds gather above, grey and resolute, successfully muting the sun's ardor and presenting a murky tableau that renders reflective pools upon the pavement. As this wistful weather cloaks the city, the air carries a cool edge that lacks the bite of winter's chill yet whispers quietly of its presence. There will be little opportunity to bask today, as the UV index remains low beneath this cottony ceiling. \n\nSuch a day invites relaxed pursuits and comfortable attires: snug layers to ward off dampness and practical shoes to navigate the puddle-marked streets. Perhaps today is less for the outdoor exploits and more suited to the cocoon of indoor indulgences, where one can savor a warm brew, languidly paging through a cherished book or engrossing oneself in a slow, comforting task. Evening will descend with a gentle sigh, and it becomes an opportunity to gather with loved ones, crafting warmth with laughter and stories as rain gently taps at the window, an ambient reminder of the marathon stillness of a rainy day.",
+    "color_code": "#7F8C8D",
+    "timestamp": "2025-06-30 14:14:27"
 }
