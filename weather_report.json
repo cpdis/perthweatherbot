@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95429541308601,
-            "longitude": 115.8525743959341
+            "latitude": -31.94972285526604,
+            "longitude": 115.8206951650595
         },
         "current_conditions": {
-            "timestamp": "2025-07-01T06:13:59+00:00",
-            "temperature_c": 20,
-            "temperature_f": 68.0,
-            "humidity": 73,
+            "timestamp": "2025-07-01T12:17:08+00:00",
+            "temperature_c": 15.69,
+            "temperature_f": 60.242000000000004,
+            "humidity": 85,
             "wind_speed_mph": 4.60822,
-            "wind_direction": 260,
-            "description": "broken clouds"
+            "wind_direction": 50,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-07-01T09:00:00+00:00",
-                "temperature": 19.1,
-                "windSpeed": 2.86336,
-                "windDirection": 256,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-07-01T15:00:00+00:00",
+                "temperature": 15.16,
+                "windSpeed": 2.6844,
+                "windDirection": 339,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-07-01T12:00:00+00:00",
-                "temperature": 16.56,
-                "windSpeed": 1.72249,
-                "windDirection": 264,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-07-01T18:00:00+00:00",
+                "temperature": 13.82,
+                "windSpeed": 5.391170000000001,
+                "windDirection": 42,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Perth, the skies remain steadily cloaked in a dense tapestry of overcast clouds. Gone are the flirtations of sunlight that often dance upon the city, replaced instead by an unwavering embrace of gray. The lack of direct sunshine means the UV index relaxes, allowing for a comfortably subdued glow that whispers rather than shouts. The air, however, is thick with the languid promise of calm, a gentle embrace rather than a vigorous handshake. Such weather calls for layers that buffer the cool\u2014a light sweater or a trusty jacket that sits like an old friend on your shoulders. Today's muted palette suggests activities that mirror its serenity: a leisurely stroll through the park, perhaps, where the trees stand as steadfast companions under the overcast canopy, or maybe an afternoon spent in your favorite local caf\u00e9, the gentle hum of conversation and frothy coffee your soundtrack. The day, though cast in shadow, bears a quiet invitation to pause and enjoy the simple pleasures that such reflective weather brings, a welcome pause that wraps around you with the same intimacy as a well-loved novel. It is not a canvas for grandeur but a moment carved out of time, asking you to savor the art of just being.",
-    "color_code": "#B0BEC5",
-    "timestamp": "2025-07-01 14:14:00"
+    "weather_report": "Even as the sun begins to dip below the horizon, the evening in Subiaco unfurls with a tapestry of scattered clouds, gradually thickening into a quilt of broken clouds. The day, which started with brighter aspirations, now hints at introspection under a more muted sky. As you stand amidst the dwindling light, there\u2019s an air of tranquility that asks for softer hues in attire \u2013 think pastel linens and a light shawl to accompany the evening\u2019s gentle breeze. The distinct lack of harsh sun rays translates to an unthreatening UV index, ensuring your sit under the open sky need not be hurried or press on your skin with insistence. It\u2019s a setting crafted for quiet reflection, perhaps with a book in hand on a verandah, or a leisurely stroll through winding lanes, allowing the city's whispers to accompany your thoughts. Let the evening embrace you in its calm, as the world transitions from the day's clamor to the night's whispered promises.",
+    "color_code": "#AAB9CC",
+    "timestamp": "2025-07-01 20:17:08"
 }
