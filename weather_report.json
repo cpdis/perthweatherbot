@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Osborne Park",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.90810737398746,
-            "longitude": 115.8018080901718
+            "latitude": -31.9496881443,
+            "longitude": 115.8206883984958
         },
         "current_conditions": {
-            "timestamp": "2025-07-02T00:44:03+00:00",
-            "temperature_c": 13.92,
-            "temperature_f": 57.056,
-            "humidity": 79,
-            "wind_speed_mph": 6.91233,
-            "wind_direction": 20,
-            "description": "clear sky"
+            "timestamp": "2025-07-02T06:14:12+00:00",
+            "temperature_c": 19.79,
+            "temperature_f": 67.622,
+            "humidity": 75,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 290,
+            "description": "moderate rain"
         },
         "forecast": [
             {
-                "startTime": "2025-07-02T03:00:00+00:00",
-                "temperature": 14.74,
-                "windSpeed": 9.99939,
-                "windDirection": 21,
+                "startTime": "2025-07-02T09:00:00+00:00",
+                "temperature": 18.69,
+                "windSpeed": 11.162630000000002,
+                "windDirection": 51,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-07-02T06:00:00+00:00",
-                "temperature": 16.72,
-                "windSpeed": 12.86275,
-                "windDirection": 357,
-                "shortForecast": "light rain"
+                "startTime": "2025-07-02T12:00:00+00:00",
+                "temperature": 14.6,
+                "windSpeed": 21.743640000000003,
+                "windDirection": 2,
+                "shortForecast": "moderate rain"
             }
         ]
     },
-    "weather_report": "As dawn ushers in the day at Osborne Park, the clouds hang above like a protective canopy, sporadically shedding light rain that serenades the early morning with a melodic patter. The sun, for now, is coy, preferring to hide behind its veil, casting a gentle, muted light across the landscape. With the rain's whisper still in the air, the morning spirals into a languid orchestra of grays, perfect for introspective moments or working quietly from a window perch, hot drink in hand. It's a day for embracing layers\u2014a light, waterproof jacket to dance through rain-kissed streets or perhaps to curl up in a soft sweater, reflecting the cozy embrace of the weather's embrace.\n\nThe air is serene, inviting one to savor a leisurely breakfast, perhaps on a sheltered porch, allowing the cool whispers of the morning breeze to accompany your thoughts. Amidst the morning's calm, the hours beckon you to partake in the tranquility, be it in the comfort of an indoor sanctuary or during a contemplative stroll beneath the gentle drizzle. Whether indulging in the rustling pages of a novel or tending to a softly simmering pot on the stove, the day invites a sense of calm deliberation. As the hours meander into afternoon, the cloud cover may gradually yield, perhaps offering glimpses of a muted sun, heightening the simple pleasures of a warm drink and cherished solitude.",
-    "color_code": "#738290",
-    "timestamp": "2025-07-02 08:44:03"
+    "weather_report": "As the afternoon unfolds in Subiaco, nature offers a tranquil tapestry of persistent gray, dotted with the soft whispers of light rain now giving way to stillness. At this hour, the air is filled with the earthy scent of damp earth, a gentle reminder of the morning's embrace of precipitation. Clouds hang languid in the sky, occasionally deepening into darker hues, casting the streets in muted tones\u2014a canvas devoid of sunlit vibrancy. The prospect of moderate rain earlier has already vindicated the wisdom of carrying an umbrella, and now the world rests under a serene cloud cover, eschewing both the glare of sunshine and its accompanying UV perils. Though the sky withholds its blue, the day is far from forbidding. It's an invitation to slow down, seek solace in the simplicity of warmth: a light sweater to ward off the chill, well-tread shoes to navigate the slick pathways.\n\nIn this shimmering monochrome, plans can lean towards the introspective and relaxed. Wandering through the local library or nestled in a cozy caf\u00e9 corner with a book offers a harmonious counterpoint to the gentle patter from above. Inside, the warmth of human company or the solitary reflection over a steaming cup offers a haven from the dim hues of the sky. As the afternoon progresses, these quiet pursuits may also find themselves synchronized with the soft rhythm of raindrops\u2014a dialogue between the mind's wanderings and the world outside, unhurried, intimate, wholly content in its calm.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-07-02 14:14:12"
 }
