@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Claremont",
             "country": "AU",
-            "latitude": -31.94965736650611,
-            "longitude": 115.8206538706913
+            "latitude": -31.98637553138248,
+            "longitude": 115.7837560435902
         },
         "current_conditions": {
-            "timestamp": "2025-07-05T18:10:35+00:00",
-            "temperature_c": 12.39,
-            "temperature_f": 54.302,
-            "humidity": 72,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 360,
-            "description": "broken clouds"
+            "timestamp": "2025-07-06T00:50:13+00:00",
+            "temperature_c": 14.06,
+            "temperature_f": 57.308,
+            "humidity": 75,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 10,
+            "description": "light intensity shower rain"
         },
         "forecast": [
             {
-                "startTime": "2025-07-05T21:00:00+00:00",
-                "temperature": 13.04,
-                "windSpeed": 19.77508,
-                "windDirection": 11,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-07-06T03:00:00+00:00",
+                "temperature": 15.48,
+                "windSpeed": 24.45041,
+                "windDirection": 347,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-07-06T00:00:00+00:00",
-                "temperature": 14.21,
-                "windSpeed": 18.67895,
-                "windDirection": 354,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-07-06T06:00:00+00:00",
+                "temperature": 19.49,
+                "windSpeed": 29.95343,
+                "windDirection": 323,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "As dawn unfolds over Subiaco, the day greets you with a gentle drapery of heavy clouds blanketing the early July sky. The air, not laden with the weight of rain but filtered through the soft brume of overcast, offers a calm yet muted beginning. It's not a day for sunbathing or donning your sunhat, but the clouds create an artist\u2019s palette of diffused gray that speaks of a tranquil, moderate day. As the warmth slowly seeps into the earth, it seems like a gentle reminder to gear up for a day that promises neither the brilliance of sunlight nor the gloom of rain.\n\nWith the gentle blanket of clouds above, it might seem as if the heavens are whispering for you to take things a notch quieter, finding solace in reflective pursuits. Palette blues and ash greys call for muted tones in your attire\u2014perhaps a cozy jumper, just to embrace the casual chill. Although missing the luminous spark of sunshine, optimism seeps through this gentle cloud cover. Embrace this serene morning perhaps with a stroll to a nearby caf\u00e9, where the warmth of a freshly brewed cup aligns perfectly with the enveloping sky, or find peace in leisurely reading by a window, where the soft light falls perfectly into place. It's a day of quiet beauty, made for subtle adventures and introspection.",
-    "color_code": "#83838C",
-    "timestamp": "2025-07-06 02:10:36"
+    "weather_report": "As morning settles over Claremont, a gentle rain taps rhythmically on rooftops and dances down sidewalks. The air is cool and fragrant, a mix of earth and muted petrichor, washing away the dust of the past days. The forecast promises light showers continuing gently through the early hours, leaving behind a landscape brushed with hues of green and grey. By now, the rain has largely retreated, leaving the skies a soft, silvery canvas, promising no radiant sun but rather a pleasantly subdued day. It's a canvas inviting quiet contemplation, filtered light casting a gentle glow, a comfort rather than confrontation with brightness.\n\nThis seems a day for leisurely pursuits, for seeking shelter under broad-brimmed hats or within the quiet confines of familiar museums and libraries. Dress with soft layers - a lightweight raincoat or shawl will suffice for any remaining drizzle, and for leisurely walks beneath the canopy of trees still shedding their drops in a whispering symphony. The UV index is blessedly low, sparing the skin from yesterday's ultraviolet memory, allowing minds to wander and reflect rather than retreat.\n\nActivities lean towards the unstated joy of an afternoon caf\u00e9, a book in hand, or a quiet conversation with a cherished friend, the soundtrack of the ebbing rain playing softly in the background. Embrace this day not for energetic pursuit but for the serenity of moments unhurried, where the city's usual buzz gives way to a quieter rhythm, and the whole shimmering, damp world seems to ask for nothing more than to let things be.",
+    "color_code": "#6B6F75",
+    "timestamp": "2025-07-06 08:50:13"
 }
