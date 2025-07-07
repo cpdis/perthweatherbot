@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95518169408102,
-            "longitude": 115.8553569170925
+            "latitude": -31.94968390470336,
+            "longitude": 115.8207888001955
         },
         "current_conditions": {
-            "timestamp": "2025-07-07T06:10:11+00:00",
-            "temperature_c": 14.63,
-            "temperature_f": 58.334,
+            "timestamp": "2025-07-07T12:16:46+00:00",
+            "temperature_c": 11.37,
+            "temperature_f": 52.466,
             "humidity": 71,
-            "wind_speed_mph": 21.85549,
-            "wind_direction": 230,
-            "description": "light rain"
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 180,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-07-07T09:00:00+00:00",
-                "temperature": 14.21,
-                "windSpeed": 22.79503,
-                "windDirection": 213,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-07-07T15:00:00+00:00",
+                "temperature": 11.52,
+                "windSpeed": 14.20495,
+                "windDirection": 200,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-07-07T12:00:00+00:00",
-                "temperature": 13.82,
-                "windSpeed": 15.345820000000002,
-                "windDirection": 207,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-07-07T18:00:00+00:00",
+                "temperature": 12.2,
+                "windSpeed": 10.67049,
+                "windDirection": 181,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Perth, the sky is a canvas of broken clouds, offering a sporadic dance of sunbeams sneaking through the gray tapestry. The day, while not the embodiment of brilliance, holds a certain serene charm in its muted light. The absence of the full sun tempers the intensity of the UV rays, making it a gentle guardian against sunburn yet still inviting enough to enjoy the solace of a warm, outdoor afternoon. The air is vibrant with the summer's soft warmth but lacks the searing bite one might dread. It is a day best enjoyed in light, breathable fabrics that wrap you in casual comfort, letting gentle breezes weave their way through. Dress in layers to accommodate the flirtation of sun and shade courting each other across the blue. It is an auspicious time for a late lunch on a terrace, sipping iced tea under the dappled light, or perhaps indulging in a leisurely walk through lush gardens, where the interplay of shadow and sunlight creates an ever-changing mosaic. As you stroll, absorb the drama played out above and let the soft murmurs of nature's unpredictability be your companion.",
-    "color_code": "#adbfd6",
-    "timestamp": "2025-07-07 14:14:28"
+    "weather_report": "As the evening settles over Subiaco, an understated elegance fills the air, softened by the gentle patter of lingering rain against the windowpanes. An intimate embrace of coolness follows the day\u2019s earlier drizzle, where the lack of shadows reveals a day washed of harsh angles and sharp light, now slipping quietly into twilight's embrace. The sky, painted with muted grays and the softened glow of dimming light, offers little promise of the sun's warm presence. Despite the lack of sun, the air whispers of freshness, renewing the spirit as one steps into the evening. With the rain having been but a delicate, almost apologetic touch upon the earth, the elements invite contemplation rather than caution.\n\nSuch a scene calls not for the grand gestures of sun-kissed adventure but the simple, thoughtful indulgence of life's quieter moments. A soft sweater shrugging against the cooler breeze, a pair of sturdy shoes to embrace the damp, and perhaps a wide-brimmed hat for style more than function. It is an invitation to wander the quiet streets, to delve into the pages of a favorite book in a cozy nook, or to sip a warm drink as night encroaches, disarming in its serenity. This is a time for reflection, for savoring the understated beauty of a day that might have been ignored\u2014a subtle, yet poignant reminder of life's quieter joys. The world outside has slowed, patient in its progression, offering the perfect backdrop for those who seek solace and peace of mind in these resplendent, subdued hours.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-07-07 20:16:46"
 }
