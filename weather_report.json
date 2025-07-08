@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94968376042969,
-            "longitude": 115.8207882573666
+            "latitude": -31.95430559670986,
+            "longitude": 115.8526291969324
         },
         "current_conditions": {
-            "timestamp": "2025-07-08T00:44:17+00:00",
-            "temperature_c": 9.02,
-            "temperature_f": 48.236,
+            "timestamp": "2025-07-08T06:13:51+00:00",
+            "temperature_c": 14.33,
+            "temperature_f": 57.794,
             "humidity": 92,
-            "wind_speed_mph": 8.0532,
+            "wind_speed_mph": 6.91233,
             "wind_direction": 10,
-            "description": "light rain"
+            "description": "light intensity drizzle"
         },
         "forecast": [
             {
-                "startTime": "2025-07-08T03:00:00+00:00",
-                "temperature": 11.45,
-                "windSpeed": 8.74667,
-                "windDirection": 218,
+                "startTime": "2025-07-08T09:00:00+00:00",
+                "temperature": 14.26,
+                "windSpeed": 15.815590000000002,
+                "windDirection": 197,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-07-08T06:00:00+00:00",
-                "temperature": 14.55,
-                "windSpeed": 17.47097,
-                "windDirection": 222,
+                "startTime": "2025-07-08T12:00:00+00:00",
+                "temperature": 11.78,
+                "windSpeed": 10.334940000000001,
+                "windDirection": 161,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "In the quiet heart of Subiaco, the day gently unfolds under a fresh canopy of washed skies from an earlier whisper of rain. As the clock nudges closer to nine in the morning, the clouds begin their slow retreat, promising intermittent sunbeams piercing through shifting curtains overhead. The air carries a cool, rejuvenating embrace leftover from the dawn showers, suggesting a day that balances delicately between the waning memory of night and the anticipation of a brighter afternoon. Though the sky remains a touch murky, hinting at the promise of more sporadic showers, the sun intermittently breaks through, offering subtle warmth, though the UV index meanders in the lower spectrums, leaving the skin unscathed. \n\nToday feels like the perfect day for subtlety in attire\u2014a lightweight rain jacket might be your steadfast companion, effortlessly repelling any stray droplets. If you find delight in wandering, consider a leisurely stroll through the verdant pathways of a local park, where the earth is tender and the air feels remarkably pure; perhaps bring a well-worn book to a cozy cafe corner, sipping something warming while the world outside moves in its gentle dance of sun and shadow. Despite the occasional raindrop, today holds an understated charm\u2014simple and serene, alive with the rhythm of nature's quiet attempts to meet the sun in the sky.",
-    "color_code": "#8DA399",
-    "timestamp": "2025-07-08 08:44:17"
+    "weather_report": "As the afternoon sun hides behind a cloak of clouds, Perth finds itself caressed by a gentle drizzle, echoes of the morning's soft rain still hanging in the air. The skies remain a pale tapestry, hinting at further showers but whispering promises of quiet. Though the sun's radiant warmth is concealed, there's a beauty in the muted tones\u2014a day not to dazzle with brightness but to charm in its own gentle way. The UV index suggests no immediate burn but rather an invitation to embrace the subdued sky without concern for harsh rays.\n\nIt\u2019s a day for pastel-coloured umbrellas and light jackets, the sort that lets you smell the rain without getting wet. The breeze, lazy and damp, wraps itself around you like a cozy scarf, encouraging thoughtful strolls through glistening streets or moments spent by a window with a steaming mug in hand. It's a perfect day to visit a local gallery, letting art replace the absent sunshine, or to escape into the pages of a novel, finding warmth in stories when the sky is content with its quietude. As the clock ticks towards late afternoon, the promise of soon-to-descend silence offers a tranquil backdrop to whatever simple pleasures the day may hold.",
+    "color_code": "#A3A1A8",
+    "timestamp": "2025-07-08 14:13:51"
 }
