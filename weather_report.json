@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95430559670986,
-            "longitude": 115.8526291969324
+            "latitude": -31.94966667028093,
+            "longitude": 115.8206827416455
         },
         "current_conditions": {
-            "timestamp": "2025-07-08T06:13:51+00:00",
-            "temperature_c": 14.33,
-            "temperature_f": 57.794,
+            "timestamp": "2025-07-08T12:17:06+00:00",
+            "temperature_c": 11.28,
+            "temperature_f": 52.304,
             "humidity": 92,
-            "wind_speed_mph": 6.91233,
-            "wind_direction": 10,
-            "description": "light intensity drizzle"
+            "wind_speed_mph": 2.30411,
+            "wind_direction": 340,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-07-08T09:00:00+00:00",
-                "temperature": 14.26,
-                "windSpeed": 15.815590000000002,
-                "windDirection": 197,
-                "shortForecast": "light rain"
+                "startTime": "2025-07-08T15:00:00+00:00",
+                "temperature": 10.12,
+                "windSpeed": 10.111239999999999,
+                "windDirection": 155,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-07-08T12:00:00+00:00",
-                "temperature": 11.78,
-                "windSpeed": 10.334940000000001,
-                "windDirection": 161,
-                "shortForecast": "light rain"
+                "startTime": "2025-07-08T18:00:00+00:00",
+                "temperature": 8.22,
+                "windSpeed": 8.12031,
+                "windDirection": 151,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "As the afternoon sun hides behind a cloak of clouds, Perth finds itself caressed by a gentle drizzle, echoes of the morning's soft rain still hanging in the air. The skies remain a pale tapestry, hinting at further showers but whispering promises of quiet. Though the sun's radiant warmth is concealed, there's a beauty in the muted tones\u2014a day not to dazzle with brightness but to charm in its own gentle way. The UV index suggests no immediate burn but rather an invitation to embrace the subdued sky without concern for harsh rays.\n\nIt\u2019s a day for pastel-coloured umbrellas and light jackets, the sort that lets you smell the rain without getting wet. The breeze, lazy and damp, wraps itself around you like a cozy scarf, encouraging thoughtful strolls through glistening streets or moments spent by a window with a steaming mug in hand. It's a perfect day to visit a local gallery, letting art replace the absent sunshine, or to escape into the pages of a novel, finding warmth in stories when the sky is content with its quietude. As the clock ticks towards late afternoon, the promise of soon-to-descend silence offers a tranquil backdrop to whatever simple pleasures the day may hold.",
-    "color_code": "#A3A1A8",
-    "timestamp": "2025-07-08 14:13:51"
+    "weather_report": "As the sun wrapped up its grand descent over Subiaco, the sky performed a seamless transition from soft, sweeping brushstrokes of cumulus to a deep velvet canvas, perfectly clear and inviting. It's now a peaceful evening, where the promise of a tranquil night lingers in the air. This afternoon, the few innocent clouds that decorated the heavens have tiptoed away, making way for a star-studded firmament. The air is cool and clear, and the residual warmth of the day whispers against the skin, assuring comfort without overbearing heat. There's a delightful crispness settled in now, perfect for a gentle stroll or a reflective pause beneath the emerging constellations.\n\nFor those wishing to dance with the evening in Subiaco, casual attire is the song of choice \u2013 perhaps a light sweater or jacket to fend off the delicate night chill. The softly fading warmth makes it a fine time for understated pursuits: reading a soulful novel on a quiet bench, strolling the neighborhood with your thoughts as companions, or simply sipping a cup of herbal tea on a porch. The clarity of the evening, unmarred by the direct rays of the sun, speaks less of sun cream and more of serenity, offering a moment to breathe in the entirety of the day's essence, wrapped up in the blanket of night.",
+    "color_code": "#2E4E61",
+    "timestamp": "2025-07-08 20:17:06"
 }
