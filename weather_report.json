@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Herdsman",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.91913329430026,
-            "longitude": 115.7994606896558
+            "latitude": -31.94967531705822,
+            "longitude": 115.8207953600663
         },
         "current_conditions": {
-            "timestamp": "2025-07-09T00:45:22+00:00",
-            "temperature_c": 9.09,
-            "temperature_f": 48.362,
-            "humidity": 93,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "clear sky"
+            "timestamp": "2025-07-09T06:14:04+00:00",
+            "temperature_c": 16.79,
+            "temperature_f": 62.221999999999994,
+            "humidity": 58,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 170,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-07-09T03:00:00+00:00",
-                "temperature": 10.75,
-                "windSpeed": 6.08464,
-                "windDirection": 160,
-                "shortForecast": "clear sky"
+                "startTime": "2025-07-09T09:00:00+00:00",
+                "temperature": 15.6,
+                "windSpeed": 9.015110000000002,
+                "windDirection": 192,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-07-09T06:00:00+00:00",
-                "temperature": 13.62,
-                "windSpeed": 6.97944,
-                "windDirection": 212,
+                "startTime": "2025-07-09T12:00:00+00:00",
+                "temperature": 12.18,
+                "windSpeed": 6.9347,
+                "windDirection": 169,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "In the quiet awakening of this July morning in Herdsman, the sky is already pristine, painted in the hues of a new day untouched by the blemishes of clouds. The sun has cast its warm embrace, with a promise of luminous clarity, as if beckoning forth a symphony of birdsong and the gentle rustling of leaves swayed by a soft breeze. This golden light spills effortlessly across the landscape, and with clear skies predicted, it prolongs the unbroken azure for hours ahead. The absence of shadows suggests a modest UV index, yet the burgeoning summer calls for a pair of sunglasses perched on the bridge of your nose, and perhaps a light, airy fabric that dances freely with your movements.\n\nToday is crafted for the unhurried and the observant, a day where one might walk along tree-lined paths or sit by a window, letting the natural glow soak into every pore. Below the vast canvas of sky, the environment feels almost meditative, conducive to reading a cherished book or sketching in the company of nature\u2019s silence. Whether you choose to venture out or remain within cozy confines, the day offers a gentle caress rather than a vibrant push; a stage set for the tranquility of ordinary moments made extraordinary by nature\u2019s exquisite backdrop.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-07-09 08:45:23"
+    "weather_report": "As the afternoon settles over Subiaco, the sky stretches out like a perfect canvas. The earlier few clouds have dispersed, leaving behind a clear sky that promises to bathe the landscape in gentle sunshine for the rest of the day. With the temperature likely to be pleasantly warm, it\u2019s an ideal setting for a leisurely stroll through the town's historic streets or a relaxed afternoon in one of the area's charming parks. The sunlight is abundant enough that one might want to consider a hat and sunglasses to shield against the afternoon glow, yet mild enough to feel warm and welcoming against the skin. Though the UV index might be lingering at moderate levels, it's wise to carry some sunscreen for prolonged outdoor jaunts. Today whispers of unhurried adventures and simple pleasures, inviting moments of quiet enjoyment with a good book on a sunlit bench or a serene siesta in the garden, perhaps accompanied by the soft rustle of leaves in the summer breeze. The day invites you to embrace its clarity and warmth, allowing both body and spirit to unwind gracefully in its gentle embrace as the afternoon unfolds.",
+    "color_code": "#FFD700",
+    "timestamp": "2025-07-09 14:14:05"
 }
