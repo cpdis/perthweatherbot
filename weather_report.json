@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94968314882294,
-            "longitude": 115.8207916890645
+            "latitude": -31.95411971901663,
+            "longitude": 115.8527058700997
         },
         "current_conditions": {
-            "timestamp": "2025-07-10T00:44:37+00:00",
-            "temperature_c": 8.49,
-            "temperature_f": 47.282,
-            "humidity": 43,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 10,
-            "description": "clear sky"
+            "timestamp": "2025-07-10T06:14:10+00:00",
+            "temperature_c": 18.24,
+            "temperature_f": 64.832,
+            "humidity": 59,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 330,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-07-10T03:00:00+00:00",
-                "temperature": 10.45,
-                "windSpeed": 9.23881,
-                "windDirection": 342,
-                "shortForecast": "clear sky"
+                "startTime": "2025-07-10T09:00:00+00:00",
+                "temperature": 17.24,
+                "windSpeed": 7.314990000000001,
+                "windDirection": 312,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-07-10T06:00:00+00:00",
-                "temperature": 13.62,
-                "windSpeed": 10.021760000000002,
-                "windDirection": 312,
-                "shortForecast": "clear sky"
+                "startTime": "2025-07-10T12:00:00+00:00",
+                "temperature": 12.68,
+                "windSpeed": 5.1451,
+                "windDirection": 2,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "As the morning sun unfurls over Subiaco, the clear sky welcomes a bright, invigorating day. The night has retreated, leaving behind a promisingly radiant canvas, unmarred by any cloud. At this hour, there is a gentle coolness lingering from the dawn, soon to be replaced by a resplendent sun. Without a hint of a cloud, the UV index is likely to climb as the day matures, demanding a respectful nod to both sunscreen and a protective hat if one ventures outdoors. It's a day crafted for those who find joy in brisk morning strolls, invigorated by the luminescence of a cloudless sky and the anticipation of a nourishing day. As the sun moves higher, the heat may coax you towards lighter clothing, airy fabrics that breathe as you go about your day. Whether you're meandering through a market or perched with a book in a sun-dappled garden, the brilliance of the day offers a vibrant backdrop to simple pleasures. As the warmth envelops the morning, take a pause to savor the clear sky's clarity, inviting reflection or perhaps an idle moment. Today carries the promise of uncomplicated joy\u2014a cheerfully mundane kind of perfection.",
+    "weather_report": "As the sun journeys slowly across the sky in Perth, a generous scattering of clouds plays hide and seek, casting gentle shadows on the bustling streets and sprawling parklands below. By the afternoon hour, these clouds have become fewer, allowing patches of deeper blue heavens to emerge, hinting at a serene clarity that is sure to brighten the day\u2019s mood. With such an inviting dome above, the sun\u2019s golden rays filter through, suggesting a UV index that nudges one to consider a broad-brimmed hat or a dab of sunscreen for those braving the outdoors. The air hangs with a promise of pleasantness, neither too warm nor oppressively cool \u2014 the kind of day that invites a stroll through the neighborhood or a lazy afternoon lounging with a cherished book.\n\nThe gentle yet unpredictable dance of the clouds suggests attire that is versatile: a light jacket for comfort that can be easily shed if warmth prevails, paired perhaps with sunglasses to temper the sunlight\u2019s fickle moods. It\u2019s a day that whispers of quiet adventures and simple pleasures \u2014 an invitation to engage with the mundane and find joy in its simplicity. Whether one chooses to sip coffee at a local caf\u00e9, watch children play in the park, or walk along a riverside path, the weather today accentuates life\u2019s subtleties rather than its extremes, cradling Perth in its subdued grace.",
     "color_code": "#87CEEB",
-    "timestamp": "2025-07-10 08:44:38"
+    "timestamp": "2025-07-10 14:14:11"
 }
