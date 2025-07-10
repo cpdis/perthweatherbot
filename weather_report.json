@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95411971901663,
-            "longitude": 115.8527058700997
+            "latitude": -31.9497108089069,
+            "longitude": 115.8207621968107
         },
         "current_conditions": {
-            "timestamp": "2025-07-10T06:14:10+00:00",
-            "temperature_c": 18.24,
-            "temperature_f": 64.832,
-            "humidity": 59,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 330,
-            "description": "scattered clouds"
+            "timestamp": "2025-07-10T12:16:57+00:00",
+            "temperature_c": 10.41,
+            "temperature_f": 50.738,
+            "humidity": 74,
+            "wind_speed_mph": 1.14087,
+            "wind_direction": 30,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-07-10T09:00:00+00:00",
-                "temperature": 17.24,
-                "windSpeed": 7.314990000000001,
-                "windDirection": 312,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-07-10T15:00:00+00:00",
+                "temperature": 9.7,
+                "windSpeed": 6.84522,
+                "windDirection": 43,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-07-10T12:00:00+00:00",
-                "temperature": 12.68,
-                "windSpeed": 5.1451,
-                "windDirection": 2,
-                "shortForecast": "few clouds"
+                "startTime": "2025-07-10T18:00:00+00:00",
+                "temperature": 7.44,
+                "windSpeed": 7.404470000000001,
+                "windDirection": 42,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "As the sun journeys slowly across the sky in Perth, a generous scattering of clouds plays hide and seek, casting gentle shadows on the bustling streets and sprawling parklands below. By the afternoon hour, these clouds have become fewer, allowing patches of deeper blue heavens to emerge, hinting at a serene clarity that is sure to brighten the day\u2019s mood. With such an inviting dome above, the sun\u2019s golden rays filter through, suggesting a UV index that nudges one to consider a broad-brimmed hat or a dab of sunscreen for those braving the outdoors. The air hangs with a promise of pleasantness, neither too warm nor oppressively cool \u2014 the kind of day that invites a stroll through the neighborhood or a lazy afternoon lounging with a cherished book.\n\nThe gentle yet unpredictable dance of the clouds suggests attire that is versatile: a light jacket for comfort that can be easily shed if warmth prevails, paired perhaps with sunglasses to temper the sunlight\u2019s fickle moods. It\u2019s a day that whispers of quiet adventures and simple pleasures \u2014 an invitation to engage with the mundane and find joy in its simplicity. Whether one chooses to sip coffee at a local caf\u00e9, watch children play in the park, or walk along a riverside path, the weather today accentuates life\u2019s subtleties rather than its extremes, cradling Perth in its subdued grace.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-07-10 14:14:11"
+    "weather_report": "As the sun dips toward the horizon in Subiaco, the day transitions from a canvas painted with few clouds to a spectrum of clear skies, radiating a serene tranquility across the evening landscape. The air, recently softened by the warmth of the afternoon, carries the fading traces of summer, promising a night tender with comfort. The clarity of the day before offered ample sunlight, suggesting a moderate UV index earlier, gentle enough to be kind on the skin if only touched by late afternoon weariness. The present calm invites a comfortable light breeze, perfect for meandering walks through leafy promenades or sipping a chilled drink on a veranda, listening to the whispering wind and the laughter of distant children rediscovering the art of play. Dressing for tonight requires a balance \u2013 a light jacket draped over casual attire keeps the chill at bay once the sun relinquishes its daily reign. This serene transition into evening constitutes an ideal opportunity for reflective outdoor pursuits \u2013 a leisurely stroll with a cherished novel from a local independent bookstore in hand, or perhaps indulging in a shared moment beneath the stars which appear as gently as the day's ephemeral clouds, leaving us with a sense of space and infinite possibility.",
+    "color_code": "#F0E68C",
+    "timestamp": "2025-07-10 20:16:57"
 }
