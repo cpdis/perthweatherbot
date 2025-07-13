@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Cottesloe",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.98846081666667,
-            "longitude": 115.7529161666667
+            "latitude": -31.94967728337697,
+            "longitude": 115.8206642623805
         },
         "current_conditions": {
-            "timestamp": "2025-07-13T06:12:53+00:00",
-            "temperature_c": 16.67,
-            "temperature_f": 62.00600000000001,
-            "humidity": 66,
+            "timestamp": "2025-07-13T12:15:31+00:00",
+            "temperature_c": 11.35,
+            "temperature_f": 52.43,
+            "humidity": 85,
             "wind_speed_mph": 5.74909,
-            "wind_direction": 50,
-            "description": "overcast clouds"
+            "wind_direction": 60,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-07-13T09:00:00+00:00",
-                "temperature": 15.89,
-                "windSpeed": 3.37787,
-                "windDirection": 289,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-07-13T15:00:00+00:00",
+                "temperature": 11.15,
+                "windSpeed": 18.96976,
+                "windDirection": 278,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-07-13T12:00:00+00:00",
-                "temperature": 15.56,
-                "windSpeed": 10.581010000000001,
+                "startTime": "2025-07-13T18:00:00+00:00",
+                "temperature": 11.1,
+                "windSpeed": 18.25392,
                 "windDirection": 267,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "In Cottesloe, the afternoon sky wears a somber veil as overcast clouds linger like the muted tones of an unfinished painting. Emotions of tranquility mix with a gentle hint of melancholia as light rain graces the earth, imbuing the air with a sense of freshness and renewal. The morning began with a gray embrace, giving way to a light drizzle that, if anything, enhances the rhythm of life here rather than disrupts it. Though the sun may hide shyly behind thick layers of clouds, its absence seems to sharpen the clarity of other sensations\u2014the cool patter of raindrops, the hushed whispers of winds carrying tales from distant lands. \n\nFor those venturing out, a lightweight raincoat or an umbrella becomes a trusty companion for any errand or leisurely wander along rain-slicked paths. The weather's quiet insistence encourages a day spent balancing the indoors with short jaunts outside to revel briefly in the gentle deluge. An afternoon spent curled up with a cherished book or perhaps mingling in the cozy corners of a local caf\u00e9, hot beverages offering warmth against the cool damp, mirrors the mood perfectly. Enjoying this moody embrace of nature invites introspection and quiet joys. As the day unfolds, embrace both tranquility and possibility wrapped in a backdrop of soothing, gentle rain that turns ordinary moments into treasures.",
-    "color_code": "#71858D",
-    "timestamp": "2025-07-13 14:12:53"
+    "weather_report": "As evening settles over Subiaco, there's a gentle orchestration of light rain that taps leisurely on rooftops and pavements, echoing a soothing lullaby to the slowly dimming daylight. The rain has been a consistent visitor today, softly making its presence known since mid-afternoon, draping the town in a fine mist that dulls the sharpness of shadows and mellows the landscape. With the sun bidding a hasty farewell, its feeble light suffused by the overcast heavens, today lacks the exuberant brightness often craved by sun-seekers. The UV index, nestled comfortably on the lower end of the spectrum, alleviates any urgency for protection against the sun\u2019s fervor, albeit leaving the atmosphere a touch more humid and embracing than usual.\n\nThe day is far from uninviting; rather, it sketches an intimate canvas redolent of introspection and quiet pursuits. The attire of choice for this softly melancholic eve would be layers; the kind that whisper comfort and warmth, perhaps with a raincoat at the ready, should the heavens decide to intensify their gentle weeping. In such a setting, one finds unassuming joy in simple endeavors: a serene walk through a beloved park, the sound of rain mingling with nature\u2019s chorus, or perhaps a cozy sojourn near a window, book in hand and a hot beverage cradled between slightly chilled fingertips. The rain, it seems, is not an intruder but a gentle companion, inviting reflection and a slower pace as the night approaches, wrapping its humid embrace around the town like a comfortable old cardigan.",
+    "color_code": "#5E7BAA",
+    "timestamp": "2025-07-13 20:15:31"
 }
