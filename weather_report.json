@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94968699230694,
-            "longitude": 115.8207797848583
+            "latitude": -31.95412401548664,
+            "longitude": 115.8527003511566
         },
         "current_conditions": {
-            "timestamp": "2025-07-14T00:49:43+00:00",
-            "temperature_c": 10.61,
-            "temperature_f": 51.098,
-            "humidity": 79,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 150,
-            "description": "broken clouds"
+            "timestamp": "2025-07-14T06:15:17+00:00",
+            "temperature_c": 16.72,
+            "temperature_f": 62.096,
+            "humidity": 57,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 190,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-07-14T03:00:00+00:00",
-                "temperature": 11.56,
-                "windSpeed": 12.90749,
-                "windDirection": 171,
-                "shortForecast": "light rain"
+                "startTime": "2025-07-14T09:00:00+00:00",
+                "temperature": 16.27,
+                "windSpeed": 11.00604,
+                "windDirection": 173,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-07-14T06:00:00+00:00",
-                "temperature": 15.88,
-                "windSpeed": 15.256340000000002,
-                "windDirection": 180,
+                "startTime": "2025-07-14T12:00:00+00:00",
+                "temperature": 12.78,
+                "windSpeed": 5.8162,
+                "windDirection": 154,
                 "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "In the tranquil town of Subiaco, the morning has gently ushered in with a chorus of scattered clouds overhead, a mosaic of gray and softness across an otherwise sleepy sky. The early morning mist has already given way to a hopeful light, hinting at a day that has shaken off its dreariness sooner than one might expect. The rain that whispered across the rooftops in the early hours has since subsided, leaving behind a fresh, cool air that still carries the earthy scent of wet soil. As you step outside, a light jacket and comfortable shoes would be the garb of choice, serving as your armor against the lingering, gentle chill. \n\nThe day promises a serene clarity, with clouds breaking apart like a theater curtain drawn back slowly, revealing patches of blue capable of captivating even the most hurried soul. Though the sun may play a shy part in today's performance, its presence will be enough to lend a hint of brightness \u2014 a reminder of warmer days that hang on the horizon. It is a day primed for strolling through tree-lined streets or taking a moment on a caf\u00e9 terrace, sipping something warm, absorbing the quiet beauty of an overcast but mild summer's day. There is charm in this cloud-filtered light, an invitation to search for reflections in puddles or to simply listen to the soft thrumming of the world waking up around you.",
-    "color_code": "#708090",
-    "timestamp": "2025-07-14 08:49:43"
+    "weather_report": "As Perth reaches mid-afternoon, the skies are a canvas of scattered clouds, casting gentle shadows upon the city. The sun plays a teasing game of hide-and-seek, its shimmering rays intermittently breaking through, bathing the surroundings in a warm, fleeting embrace. The UV index remains moderate, a quiet reminder to those venturing out without sunscreen. Beneath the canopy of clouds, the day unfolds with pleasant mildness, offering a tranquil backdrop that neither demands heavy layers nor scant coverings. The wisdom of light, breathable attire seems apt\u2014a short-sleeve shirt paired with relaxed trousers or a breezy summer dress would seamlessly blend comfort with the subtly shifting tones of the day.\n\nGiven the congenial nature of this afternoon, the mundane can become sublime; a leisurely walk through one of Perth's beautiful parks, perhaps stopping by a shaded bench with a good book in hand, can turn into a delightful escape. Or maybe indulge in a coffee at a nearby caf\u00e9 terrace, watching as the world moves around you, everyone touched by the gentle artistry of the overcast sky. The day whispers softly, inviting quiet contemplation and unhurried simplicity\u2014no grand gestures are needed, just an appreciation of the moment as it unfolds under the partially obscured dome of the sky.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-07-14 14:15:18"
 }
