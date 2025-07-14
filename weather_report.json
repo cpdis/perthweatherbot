@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95412401548664,
-            "longitude": 115.8527003511566
+            "latitude": -31.94969455763835,
+            "longitude": 115.8207735754403
         },
         "current_conditions": {
-            "timestamp": "2025-07-14T06:15:17+00:00",
-            "temperature_c": 16.72,
-            "temperature_f": 62.096,
-            "humidity": 57,
-            "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 190,
-            "description": "scattered clouds"
+            "timestamp": "2025-07-14T12:17:27+00:00",
+            "temperature_c": 11.86,
+            "temperature_f": 53.348,
+            "humidity": 76,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 150,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-07-14T09:00:00+00:00",
-                "temperature": 16.27,
-                "windSpeed": 11.00604,
-                "windDirection": 173,
+                "startTime": "2025-07-14T15:00:00+00:00",
+                "temperature": 11.77,
+                "windSpeed": 4.60822,
+                "windDirection": 124,
                 "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-07-14T12:00:00+00:00",
-                "temperature": 12.78,
-                "windSpeed": 5.8162,
-                "windDirection": 154,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-07-14T18:00:00+00:00",
+                "temperature": 11.47,
+                "windSpeed": 3.15417,
+                "windDirection": 100,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "As Perth reaches mid-afternoon, the skies are a canvas of scattered clouds, casting gentle shadows upon the city. The sun plays a teasing game of hide-and-seek, its shimmering rays intermittently breaking through, bathing the surroundings in a warm, fleeting embrace. The UV index remains moderate, a quiet reminder to those venturing out without sunscreen. Beneath the canopy of clouds, the day unfolds with pleasant mildness, offering a tranquil backdrop that neither demands heavy layers nor scant coverings. The wisdom of light, breathable attire seems apt\u2014a short-sleeve shirt paired with relaxed trousers or a breezy summer dress would seamlessly blend comfort with the subtly shifting tones of the day.\n\nGiven the congenial nature of this afternoon, the mundane can become sublime; a leisurely walk through one of Perth's beautiful parks, perhaps stopping by a shaded bench with a good book in hand, can turn into a delightful escape. Or maybe indulge in a coffee at a nearby caf\u00e9 terrace, watching as the world moves around you, everyone touched by the gentle artistry of the overcast sky. The day whispers softly, inviting quiet contemplation and unhurried simplicity\u2014no grand gestures are needed, just an appreciation of the moment as it unfolds under the partially obscured dome of the sky.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-07-14 14:15:18"
+    "weather_report": "As the evening settles in Subiaco, the sky evolves from its earlier scattered formations of clouds into a more textured canopy of broken clouds, casting gentle patterns of shadow and light across the sleepy streets. The sun, now dipping below the horizon, offers a softened glow, suggesting that today's UV exposure concerns have waned with the diminishing daylight. It's a pleasant evening, where the air feels just cool enough to encourage a comfortable stroll. One might find it delightful to wrap up in a light sweater, embracing the slight nip in the air as darkness unfurls. For those inclined towards the outdoors, a relaxed walk through the neighborhood or a quiet moment on the veranda would suit well, perhaps paired with a well-loved book or the comfort of conversation.\n\nThe atmosphere, though partly shrouded in clouds, seems indicative of a calm and introspective night, lending itself to activities that soothe rather than excite. The day whispers a gentle farewell, promising tranquility as the stars begin their nightly vigil. It\u2019s a good time for reflection, for the simple yet profound pleasures of life, unhurried and unforced, as the world prepares for its nocturnal respite. The evening draws a reminder that beauty exists even in stillness, that joy can be found in the soft glow of twilight silently transforming into night.",
+    "color_code": "#8B8C8E",
+    "timestamp": "2025-07-14 20:17:27"
 }
