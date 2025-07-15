@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95618507941581,
-            "longitude": 115.8561666986185
+            "latitude": -31.94966610613778,
+            "longitude": 115.8207289783694
         },
         "current_conditions": {
-            "timestamp": "2025-07-15T06:14:24+00:00",
-            "temperature_c": 17.38,
-            "temperature_f": 63.284,
-            "humidity": 67,
-            "wind_speed_mph": 11.140260000000001,
-            "wind_direction": 331,
-            "description": "overcast clouds"
+            "timestamp": "2025-07-15T12:17:52+00:00",
+            "temperature_c": 14.71,
+            "temperature_f": 58.478,
+            "humidity": 88,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 330,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2025-07-15T09:00:00+00:00",
-                "temperature": 16.59,
-                "windSpeed": 8.61245,
-                "windDirection": 316,
+                "startTime": "2025-07-15T15:00:00+00:00",
+                "temperature": 13.82,
+                "windSpeed": 17.06831,
+                "windDirection": 268,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-07-15T12:00:00+00:00",
-                "temperature": 14.73,
-                "windSpeed": 12.281130000000001,
-                "windDirection": 301,
+                "startTime": "2025-07-15T18:00:00+00:00",
+                "temperature": 13.32,
+                "windSpeed": 16.1064,
+                "windDirection": 275,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "As the mid-afternoon sun softens into a whispering glow, the sky above Perth carries the gentle echo of the morning's light rain. Clouds drift leisurely, veiling the city in a cool embrace, creating an impression of a watercolor canvas where the artist has gently dabbed strokes of grey upon an otherwise azure expanse. The intensity of light dips just as the UV index finds itself comfortably low. This day, with its climatic lullaby, calls for layers that ward off the chill left by the earlier raindrops, perhaps a trusty waterproof jacket paired with sturdy boots that confidently splash through puddles without hesitation. The air, fresh with petrichor and promise, delights those who wander its streets, lending itself well to leisurely strolls or introspective seated moments in cozy cafes, where the ambience is tinged with the sound of gentle drizzles tapping rhythmically against the windows. As the day unfolds, Perth offers a perfect setting for simple pleasures: reading a cherished book, sketching the softened skyline, or simply sipping on a warm cup of tea, watching as the world slows its bustling pace to match the gentle rhythm of the heavens.",
-    "color_code": "#778899",
-    "timestamp": "2025-07-15 14:14:24"
+    "weather_report": "As the sun dips ever so slowly, painting the sky in muted colors of evening, Subiaco surrenders to a gentle melancholy of light rain. The day has been a tapestry of soft drizzles, leaving a coolness in the air that's both refreshing and soothing, like a distant memory of spring. The afternoon rain, while unremarkable in its persistence, has lent a poetic gloss to the streets, glistening under the descending dusk light, making the world shimmer with tales untold. It may not have been a day for sunbathing, but it was one full of its own quiet charm.\n\nThese soft showers contribute a welcomed break from the relentless summer sun, a time to reflect indoors or explore the rain-dappled streets under the shelter of an umbrella, charmingly setting the stage for intimate conversations and warm cups of tea. Wearing light layers and a trusty raincoat ensures one remains comfortably dry, while sturdy shoes navigate the slick city pavements with ease. There is beauty in the calm rhythm of raindrops, a gentle lulling, coaxing you to embrace a cozy corner with a book or perhaps venture out for an atmospheric stroll. So in this tender meeting of day and rain, life in Subiaco beckons softly, whispering stories of serenity and calm.",
+    "color_code": "#877EA2",
+    "timestamp": "2025-07-15 20:17:53"
 }
