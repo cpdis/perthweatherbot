@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94969455763835,
-            "longitude": 115.8207735754403
+            "latitude": -31.95618507941581,
+            "longitude": 115.8561666986185
         },
         "current_conditions": {
-            "timestamp": "2025-07-15T00:47:32+00:00",
-            "temperature_c": 10.76,
-            "temperature_f": 51.368,
-            "humidity": 78,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 10,
+            "timestamp": "2025-07-15T06:14:24+00:00",
+            "temperature_c": 17.38,
+            "temperature_f": 63.284,
+            "humidity": 67,
+            "wind_speed_mph": 11.140260000000001,
+            "wind_direction": 331,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-07-15T03:00:00+00:00",
-                "temperature": 11.39,
-                "windSpeed": 9.104590000000002,
-                "windDirection": 352,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-07-15T09:00:00+00:00",
+                "temperature": 16.59,
+                "windSpeed": 8.61245,
+                "windDirection": 316,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-07-15T06:00:00+00:00",
-                "temperature": 14.32,
-                "windSpeed": 11.96795,
-                "windDirection": 330,
+                "startTime": "2025-07-15T12:00:00+00:00",
+                "temperature": 14.73,
+                "windSpeed": 12.281130000000001,
+                "windDirection": 301,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "As the morning in Subiaco unfolds, the skies remain softly draped in the ubiquitous grey of overcast clouds, a gentle prelude to the light rain that kissed the early dawn. The air carries a moist embrace, hinting at serenity rather than a storm, and the sun struggles to pierce the plush blanket of clouds from its celestial perch. The clarity of the day is muted, with the world appearing through a soft focus lens. It's a day that calls for a light raincoat to ward off the mild dampness, and comfortable attire that allows the spirit to meander unhurriedly. As we drift through time, the heavens promise no fervent sunshine or scorching heat to test our resilience, but rather a mellow dance of light and mist. It's a day for gentle pursuits: a contemplative walk through raindrop-laden streets under an umbrella, or perhaps, the simple pleasure of indulging in a book in a caf\u00e9, where the aroma of brewing coffee provides a comforting counterpoint to the drizzle outside. The world feels introspective, inviting one to appreciate the quieter notes that life offers in this tranquil corner of the summer landscape.",
-    "color_code": "#9CA3B4",
-    "timestamp": "2025-07-15 08:47:32"
+    "weather_report": "As the mid-afternoon sun softens into a whispering glow, the sky above Perth carries the gentle echo of the morning's light rain. Clouds drift leisurely, veiling the city in a cool embrace, creating an impression of a watercolor canvas where the artist has gently dabbed strokes of grey upon an otherwise azure expanse. The intensity of light dips just as the UV index finds itself comfortably low. This day, with its climatic lullaby, calls for layers that ward off the chill left by the earlier raindrops, perhaps a trusty waterproof jacket paired with sturdy boots that confidently splash through puddles without hesitation. The air, fresh with petrichor and promise, delights those who wander its streets, lending itself well to leisurely strolls or introspective seated moments in cozy cafes, where the ambience is tinged with the sound of gentle drizzles tapping rhythmically against the windows. As the day unfolds, Perth offers a perfect setting for simple pleasures: reading a cherished book, sketching the softened skyline, or simply sipping on a warm cup of tea, watching as the world slows its bustling pace to match the gentle rhythm of the heavens.",
+    "color_code": "#778899",
+    "timestamp": "2025-07-15 14:14:24"
 }
