@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94968951097618,
-            "longitude": 115.8207827768111
+            "latitude": -31.95426583771695,
+            "longitude": 115.8527396281805
         },
         "current_conditions": {
-            "timestamp": "2025-07-17T00:46:51+00:00",
-            "temperature_c": 9.94,
-            "temperature_f": 49.891999999999996,
-            "humidity": 54,
-            "wind_speed_mph": 8.0532,
+            "timestamp": "2025-07-17T06:14:33+00:00",
+            "temperature_c": 18.53,
+            "temperature_f": 65.354,
+            "humidity": 51,
+            "wind_speed_mph": 9.21644,
             "wind_direction": 10,
-            "description": "clear sky"
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-07-17T03:00:00+00:00",
-                "temperature": 12.28,
-                "windSpeed": 8.76904,
-                "windDirection": 31,
-                "shortForecast": "few clouds"
+                "startTime": "2025-07-17T09:00:00+00:00",
+                "temperature": 17.83,
+                "windSpeed": 6.9347,
+                "windDirection": 285,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-07-17T06:00:00+00:00",
-                "temperature": 15.15,
-                "windSpeed": 6.509670000000001,
-                "windDirection": 296,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-07-17T12:00:00+00:00",
+                "temperature": 14.13,
+                "windSpeed": 5.77146,
+                "windDirection": 257,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "As the clock ticks towards the late morning in Subiaco, the sun shyly peeks through a scattered tapestry of clouds. The day reveals a subtle promise of warmth, the gentle caress of breezy airs playing hide and seek with patches of sunshine. With few clouds adorning the early hour and a shift to broken clusters as time strolls on, the sun enjoys its own game of conceal and reveal, bestowing moments of shimmering light dancing on surfaces. The atmosphere, though not searing, carries the light tang of summer and if the skies part graciously, might flirt with a bolder UV flirtation by noon. A light sweater would complement the morning's mystery, shedding its weight as sunlight timidly gains strength. The fabric of the day feels relaxed, storytelling skies offering chapters of delicate shade and dappled brilliance. It is a morning best spent in languid pursuit, a gentle promenade beneath touch-and-go shadows or perhaps a coffee cradled on an outdoor terrace, soaking in the ambience of intermittent sun. This is a day for gentle exploration, for appreciating complexity in simplicity, and for allowing the drama of the sky to dictate the pace of your step.",
-    "color_code": "#6082B6",
-    "timestamp": "2025-07-17 08:46:51"
+    "weather_report": "As the afternoon unfurls in Perth, a tapestry of broken clouds drapes across the sky, whispering secrets of both light and shadow. These ethereal guardians lend a muted quality to the sunlight, softening the day\u2019s essence with their gentle embrace. Earlier, the skies have hinted at nature\u2019s serene symphony; light rain danced momentarily, casting the air with an invigorating coolness that lingers now as the sun makes timid attempts to break free. It's a day not sharply defined by blazing heat or torrential rains but rather delicately balanced in the realm of the quietly pleasant. The UV index remains kind, allowing wanderers to revel in the great outdoors without harsh reminders of summer's other face. Today invites leisurely strolls through the fragrant pathways of a nearby park, where one can savor the meld of moist earth and the dampened fragrance of the bush after rain. Adorning oneself in layers seems prudent, easily adaptable to the whims of the weather gods, and an umbrella tucked within easy reach could serve as a thoughtful companion, though likely unnecessary now. One can delight in the harmonious blend of cool breeze tempered by patches of mild warmth: the sort of day built for gentle pursuits. Perhaps a visit to the local caf\u00e9 for a warm drink will echo the comfort of this shifting canvas as Perth saunters toward the evening.",
+    "color_code": "#A2B2C2",
+    "timestamp": "2025-07-17 14:14:34"
 }
