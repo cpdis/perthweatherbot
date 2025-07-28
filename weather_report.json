@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Princetown",
+            "name": "Melbourne Airport",
             "country": "AU",
-            "latitude": -38.66871237284007,
-            "longitude": 143.0817376654367
+            "latitude": -37.66869562260063,
+            "longitude": 144.8508441809781
         },
         "current_conditions": {
-            "timestamp": "2025-07-28T00:52:03+00:00",
-            "temperature_c": 12.17,
-            "temperature_f": 53.906,
-            "humidity": 77,
-            "wind_speed_mph": 17.62756,
-            "wind_direction": 236,
-            "description": "overcast clouds"
+            "timestamp": "2025-07-28T06:16:48+00:00",
+            "temperature_c": 12.18,
+            "temperature_f": 53.924,
+            "humidity": 73,
+            "wind_speed_mph": 19.57375,
+            "wind_direction": 270,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-07-28T03:00:00+00:00",
-                "temperature": 12.11,
-                "windSpeed": 17.58282,
-                "windDirection": 234,
-                "shortForecast": "light rain"
+                "startTime": "2025-07-28T09:00:00+00:00",
+                "temperature": 11.47,
+                "windSpeed": 7.314990000000001,
+                "windDirection": 266,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-07-28T06:00:00+00:00",
-                "temperature": 11.87,
-                "windSpeed": 16.91172,
-                "windDirection": 235,
-                "shortForecast": "light rain"
+                "startTime": "2025-07-28T12:00:00+00:00",
+                "temperature": 9.61,
+                "windSpeed": 6.241230000000001,
+                "windDirection": 283,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "As morning light paints Princetown in gentle hues, the rain has taken a temporary pause, leaving the air damp and cool. The streets glisten from a recent shower, whispers of the early dawn rain lingering like thin lace curtains stirred by a gentle breeze. By now, the sky is a canvas stretched by soft, gray clouds that allow only fleeting glimpses of sunlight. The sun has taken a shy role today, casting a muted light upon the town. A promise of occasional showers lingers in the air, and the day unfolds with the sporadic rhythm of drizzle against windows. UV concerns remain low as the sunlight struggles to break through the overcast curtain.\n\nIt is a day that suggests unhurried reflection and simple pleasures. Thoughts of exploring outdoors should accommodate brief encounters with the rain, and practical yet stylish waterproof wear feels just right\u2014think lightly waxed jackets and sturdy boots perfect for hugging the earth beneath. The day beckons less for sunbathing and more for introspective adventures; the muted chorus of rain against leaves provides a serene backdrop for sipping a warm cup of tea while tucked away in a cozy caf\u00e9 or perhaps leafing through a book by a window. Whatever you choose, take solace in the simple elegance of a world unhastened by radiant sun.",
-    "color_code": "#A0A7A7",
-    "timestamp": "2025-07-28 08:52:03"
+    "weather_report": "As the afternoon finds its stride at Melbourne Airport, the sky presents a tapestry of scattered and wispy clouds, made so much more brilliant by the sun's playful absence behind their soft allure. A gentle clarity infuses the air, promising a tranquil setting to the unfolding day\u2014a canvas brushed lightly with the sun\u2019s touch. The UV index remains mercifully mild, though the sun does gently nuzzle the landscape beneath its broad embrace between clouds, leaving one feeling lightly kissed by its warmth. It is a day to indulge in moderation, where a light jacket or sweater would harmonize with the mild temperatures and the occasional breeze playing its secret symphony.\n\nWith the day progressing towards its settled state, this tranquil setting calls for a contemplative walk along pathways of leisure, perhaps in a nearby park where greenery dances with the light of late afternoon. Or find refuge with a book in hand, nestled near a window where the subdued sunlight inspires thoughts of distant adventures. The air invites ponderings - introspective moments where each breath carries the whisper of wind and the promise of serenity. And as the city pulses softly around you, embrace the understated elegance of the day and let time pass like a gentle river, meandering and unhurried.",
+    "color_code": "#F0E68C",
+    "timestamp": "2025-07-28 14:16:48"
 }
