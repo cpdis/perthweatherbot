@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9543108412762,
-            "longitude": 115.8525392117154
+            "latitude": -31.94966059083888,
+            "longitude": 115.820755280985
         },
         "current_conditions": {
-            "timestamp": "2025-07-29T06:15:29+00:00",
-            "temperature_c": 16.05,
-            "temperature_f": 60.89,
-            "humidity": 57,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 170,
+            "timestamp": "2025-07-29T12:18:28+00:00",
+            "temperature_c": 11.62,
+            "temperature_f": 52.916,
+            "humidity": 78,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 200,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-07-29T09:00:00+00:00",
-                "temperature": 15.34,
-                "windSpeed": 12.258760000000002,
-                "windDirection": 190,
+                "startTime": "2025-07-29T15:00:00+00:00",
+                "temperature": 11.87,
+                "windSpeed": 9.05985,
+                "windDirection": 145,
                 "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-07-29T12:00:00+00:00",
-                "temperature": 14.22,
-                "windSpeed": 9.32829,
-                "windDirection": 152,
+                "startTime": "2025-07-29T18:00:00+00:00",
+                "temperature": 10.84,
+                "windSpeed": 6.86759,
+                "windDirection": 141,
                 "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "As the afternoon unfurls in Perth, the skies are decorated with broken clouds, casting a delicate, ever-shifting pattern of light and shade. The sun peeks through with a teasing playfulness, neither glaring nor hidden, providing a soothing illumination to the land without the harshness of its full might. The UV index, witness to the filtered light, remains moderate, ensuring a day that bathes you in warmth rather than overwhelming heat. It\u2019s a scene of gentle contrast, perfect for open-air revelries without concern for the merciless scorch of high noon.\n\nToday is wrapped in a mild, almost introspective clarity, gently nudging one into contemplation rather than action. The air is free from extremes, a polite guest in the ambiance of everyday life. Consider donning attire of light layers to adapt nimbly to the occasional whispers of breezes that accompany the cloud shadows, playing over the skin. This is a day that invites you to stroll through the suburbs or perhaps find a quiet bench along the Swan River, savoring the leisurely rhythms of an unhurried afternoon. Engage in the simple pleasure of reading a well-thumbed novel beneath the patchwork sky or sketching the watercolor dance of clouds in their ephemeral beauty, and let the day's tranquil balance be your companion.",
-    "color_code": "#7A9EA8",
-    "timestamp": "2025-07-29 14:15:30"
+    "weather_report": "As the day winds toward dusk in Subiaco, the sky wears a shroud of broken clouds, creating a tapestry of gray and hints of burnt sienna as the sun dips beyond the horizon. The broken clouds are distributing sunlight in patches, leaving pockets of warmth amidst the cooler shade. Although the day hasn't offered abundant sunshine, the mood is softened rather than dimmed. The air, gently embracing, suggests an easygoing warmth, neither sultry nor chilled. The UV index fades with the daylight, allowing for a barefoot stroll across the lawn or a last cup of tea on the veranda before the evening cements its presence.\n\nThis serene setting invites an evening of leisure. Lightweight clothing, perhaps a cozy cardigan draped over your shoulders, will ensure comfort. The uncluttered clouds whisper of a night perfectly suited for a leisurely dinner on a terrace, or perhaps losing yourself in a novel under the porch light\u2019s glow. This is a time for relaxation, where the ordinary becomes the cherished, and simple endeavors\u2014the slow savoring of a meal, the lyrical caprice of a meandering walk\u2014are heightened by the gentle embrace of evening's onset.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-07-29 20:18:29"
 }
