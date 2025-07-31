@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94966567268135,
-            "longitude": 115.820709901995
+            "latitude": -31.95437422273932,
+            "longitude": 115.8525427483235
         },
         "current_conditions": {
-            "timestamp": "2025-07-31T00:47:46+00:00",
-            "temperature_c": 9.75,
-            "temperature_f": 49.55,
-            "humidity": 89,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 50,
-            "description": "clear sky"
+            "timestamp": "2025-07-31T06:15:09+00:00",
+            "temperature_c": 19.47,
+            "temperature_f": 67.04599999999999,
+            "humidity": 47,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 10,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-07-31T03:00:00+00:00",
-                "temperature": 11.67,
-                "windSpeed": 9.08222,
-                "windDirection": 27,
-                "shortForecast": "clear sky"
+                "startTime": "2025-07-31T09:00:00+00:00",
+                "temperature": 18.79,
+                "windSpeed": 7.493950000000001,
+                "windDirection": 24,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-07-31T06:00:00+00:00",
-                "temperature": 15.36,
-                "windSpeed": 7.91898,
-                "windDirection": 4,
+                "startTime": "2025-07-31T12:00:00+00:00",
+                "temperature": 14.46,
+                "windSpeed": 7.1584,
+                "windDirection": 70,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "As the sun bathes Subiaco in a relentless pool of golden light, the clarity of the day is as pristine as a perfectly cut diamond. The azure canvas stretches endlessly above, blemished only by imagination. Yet, with this purity comes the palpable warmth that beckons for loose linens and wide-brimmed hats. The early hours hinted at the serene promise carried by a clear sky, with the dance of morning light casting soft luminescence across the landscape. Despite the absence of clouds, it's sensible to shield oneself with woven fabrics and perhaps the obligatory application of sunscreen. Today is a time for unhurried meandering through parks or sitting beneath the welcoming shade of ancient trees, a book or an iced beverage in hand. The streets await the gentle hum of strolling souls, seeking both solace and communion with the community's pace. A day not marked by wild adventures but by the quiet satisfaction found in small pleasures\u2014a walk, a conversation, a moment of reflection in the sun's glow. While the day will crescendo into the afternoon with its more pronounced heat, the current gentle morning warmth invites you to savor its embrace, encouraging a leisurely start that will only enrich as time unfurls.",
-    "color_code": "#FFCC66",
-    "timestamp": "2025-07-31 08:47:46"
+    "weather_report": "Amidst the embrace of a tranquil afternoon, Perth finds itself basking under the canopy of a clear sky, as morning's few clouds have gracefully departed to unveil a brilliant palette of blue. The sun bestows its warm affections, setting the stage for a luminous day, with the kind of brightness that lifts the spirits and beckons one outdoors. As the day matures, the clarity in the air seems to whisper of opportunities for leisurely strolls along the Swan River or perhaps an afternoon basking in the parks' gentle embrace, where shadows play and dance on the grass. This is a day where sunglasses are a wise companion, warding off the sun's playful intensity, while a light, airy outfit complements the pleasant temperature, encouraging freedom and ease in movement.\n\nAs the clocks tick past two and the sun begins its slow descent towards the horizon, the UV index remains respectfully moderated, allowing for an indulgent spell in the sun without much concern. Such blissful conditions invite mundane pleasures, like relishing a book on a sun-dappled terrace or sharing a coffee with a companion in an alfresco cafe setting. It's an afternoon that invites you to savor life's simplest dimensions, filled with that unique, albeit fleeting, alchemy of light and leisure that turns ordinary moments into something a touch more magical.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-07-31 14:15:09"
 }
