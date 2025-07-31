@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95437422273932,
-            "longitude": 115.8525427483235
+            "latitude": -31.94966197694274,
+            "longitude": 115.8209767589778
         },
         "current_conditions": {
-            "timestamp": "2025-07-31T06:15:09+00:00",
-            "temperature_c": 19.47,
-            "temperature_f": 67.04599999999999,
-            "humidity": 47,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 10,
-            "description": "few clouds"
+            "timestamp": "2025-07-31T12:16:13+00:00",
+            "temperature_c": 13.16,
+            "temperature_f": 55.688,
+            "humidity": 71,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 70,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-07-31T09:00:00+00:00",
-                "temperature": 18.79,
-                "windSpeed": 7.493950000000001,
-                "windDirection": 24,
-                "shortForecast": "few clouds"
+                "startTime": "2025-07-31T15:00:00+00:00",
+                "temperature": 12.42,
+                "windSpeed": 8.187420000000001,
+                "windDirection": 60,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-07-31T12:00:00+00:00",
-                "temperature": 14.46,
-                "windSpeed": 7.1584,
-                "windDirection": 70,
+                "startTime": "2025-07-31T18:00:00+00:00",
+                "temperature": 10.95,
+                "windSpeed": 11.09552,
+                "windDirection": 38,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Amidst the embrace of a tranquil afternoon, Perth finds itself basking under the canopy of a clear sky, as morning's few clouds have gracefully departed to unveil a brilliant palette of blue. The sun bestows its warm affections, setting the stage for a luminous day, with the kind of brightness that lifts the spirits and beckons one outdoors. As the day matures, the clarity in the air seems to whisper of opportunities for leisurely strolls along the Swan River or perhaps an afternoon basking in the parks' gentle embrace, where shadows play and dance on the grass. This is a day where sunglasses are a wise companion, warding off the sun's playful intensity, while a light, airy outfit complements the pleasant temperature, encouraging freedom and ease in movement.\n\nAs the clocks tick past two and the sun begins its slow descent towards the horizon, the UV index remains respectfully moderated, allowing for an indulgent spell in the sun without much concern. Such blissful conditions invite mundane pleasures, like relishing a book on a sun-dappled terrace or sharing a coffee with a companion in an alfresco cafe setting. It's an afternoon that invites you to savor life's simplest dimensions, filled with that unique, albeit fleeting, alchemy of light and leisure that turns ordinary moments into something a touch more magical.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-07-31 14:15:09"
+    "weather_report": "As the sun dips below the horizon in Subiaco, the air takes on a serene clarity, with the sky transitioning from the deep blue of day to the softer tones of evening. Earlier, the skies were pristine, an undisturbed canvas welcoming the sun\u2019s bright embrace. Now, as twilight unfurls, the day remains pleasantly warm, still holding the memory of afternoon sunshine without its harsh edges. The UV index has waned, making it safe to enjoy the open air without concern for the sun's intensity. It's a day that drinks deeply of summer\u2019s gentle grace, inviting you to step out for an evening stroll or a quiet patio dinner where the conversation can float freely in such a welcoming atmosphere.\n\nWith this clear sky bathing the city in gentle light, dressing for comfort would be most fitting; consider a light jacket to ward off the cooler evening breeze. The ambiguity of this time\u2014when the day gives way to night\u2014holds a certain charm, encouraging simple pleasures. Perhaps the well-worn path of a neighborhood park beckons for contemplation, or maybe a visit to a favorite caf\u00e9 for a warm drink feels just right. It\u2019s an ideal time for reflection or casual conviviality, guided by the steady hand of nature\u2019s reliable rhythm. There\u2019s a calmness in the air that mirrors the soul\u2019s desire for simplicity and closes the day on a note of contentment and calm.",
+    "color_code": "#FFD700",
+    "timestamp": "2025-07-31 20:16:13"
 }
