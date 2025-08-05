@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95419316926573,
-            "longitude": 115.852762755476
+            "latitude": -31.94968136515298,
+            "longitude": 115.8207494642074
         },
         "current_conditions": {
-            "timestamp": "2025-08-05T06:16:52+00:00",
-            "temperature_c": 18.13,
-            "temperature_f": 64.634,
-            "humidity": 55,
+            "timestamp": "2025-08-05T12:19:03+00:00",
+            "temperature_c": 13.38,
+            "temperature_f": 56.084,
+            "humidity": 82,
             "wind_speed_mph": 5.74909,
-            "wind_direction": 250,
-            "description": "broken clouds"
+            "wind_direction": 200,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-08-05T09:00:00+00:00",
-                "temperature": 17.22,
-                "windSpeed": 5.435910000000001,
-                "windDirection": 180,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-08-05T15:00:00+00:00",
+                "temperature": 12.42,
+                "windSpeed": 5.97279,
+                "windDirection": 118,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-08-05T12:00:00+00:00",
-                "temperature": 13.47,
-                "windSpeed": 4.76481,
-                "windDirection": 152,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-08-05T18:00:00+00:00",
+                "temperature": 10.07,
+                "windSpeed": 4.9214,
+                "windDirection": 83,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "As the clock ticks past 2 PM in the heart of Perth, the sky is a canvas of grey with a mosaic of broken clouds earlier in the day now seamlessly blending into a sombre overcast backdrop. Sunbeams remain elusive, casting a gentle, monochromatic filter across the landscape, leaving the air crisp but comforting. The absence of bright light may mean a reprieve from the harsh UV index typically associated with the Australian sun, hinting at a day that whispers, rather than shouts, its presence. It\u2019s a day for those who delight in the tranquil mood of cooler, muted afternoons.\n\nWith the diminished sunlight, one may find solace in a soft, woollen jumper paired with sturdy shoes, a wise choice for leisurely wanderings through the bustling markets or the quiet charm of a neighbourhood park. This is a day that beckons the gentle clink of coffee cups amidst quiet chatter in your favourite caf\u00e9, or perhaps a pensive stroll beneath the sheltering arms of verdant trees, their leaves dancing lazily in the light breeze. Indoor pursuits also call, with a good book or a slow meal with close company perfectly complementing the mellow hushed tones of the world. Welcome this grizzled sky as an invitation to retreat into a warm cocoon of reflection and small, grounding pleasures, the kind that so often escape our notice on brighter days.",
-    "color_code": "#838D8F",
-    "timestamp": "2025-08-05 14:16:53"
+    "weather_report": "As the gentle strokes of twilight begin to paint the sky over Subiaco, the fading sunlight clings softly to the few clouds meandering across an early August evening. The atmosphere is imbued with a warm, languid glow, as if the day itself is stretching out its arms for a lingering embrace before slipping under the horizon. With the sun having recently dipped low, the once brooding UV index has mellowed, allowing for a comfortable stroll without a care for sunburn. Light attire embraces the balance between form and function; consider a flowy sundress or a pair of crisp, linen trousers that flutter with the whimsies of the evening breeze.\n\nThe air is breathable and tinged with whispers of adventure, yet the ambiance seems to suggest relaxation. Perfect conditions for an evening promenade through leafy streets or perhaps a quiet dinner al fresco at a nearby caf\u00e9. It's a night for gentle conversations ensconced in the embrace of subtle ambient warmth. Or one might find simple delight reclining in the backyard, pondering constellations as they peek out one by one through the azure veil of dusk. Embrace the tranquility, and let the serenity of this cloud-kissed evening weave its way through the fibers of your being, inviting a well-earned sense of peace as the night unfolds.",
+    "color_code": "#F4D1AE",
+    "timestamp": "2025-08-05 20:19:03"
 }
