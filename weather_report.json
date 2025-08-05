@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94968852839667,
-            "longitude": 115.8207798277542
+            "latitude": -31.95419316926573,
+            "longitude": 115.852762755476
         },
         "current_conditions": {
-            "timestamp": "2025-08-05T00:49:49+00:00",
-            "temperature_c": 12.12,
-            "temperature_f": 53.816,
-            "humidity": 95,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 20,
-            "description": "light rain"
+            "timestamp": "2025-08-05T06:16:52+00:00",
+            "temperature_c": 18.13,
+            "temperature_f": 64.634,
+            "humidity": 55,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 250,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-08-05T03:00:00+00:00",
-                "temperature": 13.16,
-                "windSpeed": 9.08222,
-                "windDirection": 246,
-                "shortForecast": "light rain"
+                "startTime": "2025-08-05T09:00:00+00:00",
+                "temperature": 17.22,
+                "windSpeed": 5.435910000000001,
+                "windDirection": 180,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-08-05T06:00:00+00:00",
-                "temperature": 14.85,
-                "windSpeed": 5.50302,
-                "windDirection": 165,
-                "shortForecast": "light rain"
+                "startTime": "2025-08-05T12:00:00+00:00",
+                "temperature": 13.47,
+                "windSpeed": 4.76481,
+                "windDirection": 152,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "In Subiaco, morning breaks with a gentle whisper of light rain, lingering remnants of an overnight drizzle that pattered softly against the earth, cleansing it. As the clock ticks towards the comforting heart of the day, a soft cover of clouds gently caresses the sky. The persisting dampness carries a certain quietude\u2014a backdrop to a day less defined by the brilliance of sunbeams and more by the muted elegance of a sky wrapped in gray silk. Although the rain has momentarily stepped back, its freshness lingers in the air, leaving gardens with a saturated glow and the pavements with scattered glistening jewels.\n\nAs you step outside, a light jacket or a cozy sweater becomes an embrace against the slightly cooler air, keeping comfort close against the morning\u2019s embrace. With umbrellas no longer necessary, a spontaneous walk could be an invigorating venture; the streets whisper their secrets when the world is wrapped in such tender weather. Consider stopping by a corner caf\u00e9, where you can indulge in a steaming cup of coffee, watching the day unfold from a window seat perspective. For those with quieter ambitions, perhaps settle into the rhythm of a book at home, as the patter of rain outside orchestrates a serene symphony of tranquility. Just as the sky promises its steady comfort, the day ahead in Subiaco offers its own serenity, urging gentle pauses, mindful of rain\u2019s earlier inheritance.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-08-05 08:49:49"
+    "weather_report": "As the clock ticks past 2 PM in the heart of Perth, the sky is a canvas of grey with a mosaic of broken clouds earlier in the day now seamlessly blending into a sombre overcast backdrop. Sunbeams remain elusive, casting a gentle, monochromatic filter across the landscape, leaving the air crisp but comforting. The absence of bright light may mean a reprieve from the harsh UV index typically associated with the Australian sun, hinting at a day that whispers, rather than shouts, its presence. It\u2019s a day for those who delight in the tranquil mood of cooler, muted afternoons.\n\nWith the diminished sunlight, one may find solace in a soft, woollen jumper paired with sturdy shoes, a wise choice for leisurely wanderings through the bustling markets or the quiet charm of a neighbourhood park. This is a day that beckons the gentle clink of coffee cups amidst quiet chatter in your favourite caf\u00e9, or perhaps a pensive stroll beneath the sheltering arms of verdant trees, their leaves dancing lazily in the light breeze. Indoor pursuits also call, with a good book or a slow meal with close company perfectly complementing the mellow hushed tones of the world. Welcome this grizzled sky as an invitation to retreat into a warm cocoon of reflection and small, grounding pleasures, the kind that so often escape our notice on brighter days.",
+    "color_code": "#838D8F",
+    "timestamp": "2025-08-05 14:16:53"
 }
