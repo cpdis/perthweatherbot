@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94968662345002,
-            "longitude": 115.82079970709
+            "latitude": -31.95416440403068,
+            "longitude": 115.8527819534906
         },
         "current_conditions": {
-            "timestamp": "2025-08-12T00:43:57+00:00",
-            "temperature_c": 11.43,
-            "temperature_f": 52.574,
-            "humidity": 85,
+            "timestamp": "2025-08-12T06:06:45+00:00",
+            "temperature_c": 22.58,
+            "temperature_f": 72.64399999999999,
+            "humidity": 42,
             "wind_speed_mph": 10.35731,
-            "wind_direction": 60,
-            "description": "few clouds"
+            "wind_direction": 10,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-08-12T03:00:00+00:00",
-                "temperature": 14.19,
-                "windSpeed": 9.30592,
-                "windDirection": 41,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-08-12T09:00:00+00:00",
+                "temperature": 21.99,
+                "windSpeed": 8.07557,
+                "windDirection": 35,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-08-12T06:00:00+00:00",
-                "temperature": 19.16,
-                "windSpeed": 9.35066,
-                "windDirection": 19,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-08-12T12:00:00+00:00",
+                "temperature": 17.01,
+                "windSpeed": 7.85187,
+                "windDirection": 66,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "As dawn greets the sleepy town of Subiaco, the day is cradled under a gentle canopy of scattered clouds, a prelude to what promises to be a day of soft, diaphanous light. As the clock glides past eight in the morning, the sun, while partially veiled, will find its way through the fickle clouds, casting a mild glow upon the earth. The delicate dance between sun and shadow offers a perfect stage for those who cherish the soft embrace of early mornings without the harsh glare, the UV index whispering rather than shouting. \n\nFor the inhabitants of Subiaco, the day invites a leisurely stroll along the gently winding paths of a local park, perhaps with a temporary ally\u2014a light sweater in the morning hours that can soon be persuaded off as midday warmth filters in. The air, though not crystal, provides just enough clarity to reflect upon the tender hues of a late-summer palette. This is a day for reflective ambles, for leafing through a book on a park bench, or for the mundane joy of visiting a favorite corner caf\u00e9 where time seems to pause. Those glancing upwards will find the day to be an elaborate play of nature\u2019s simplicity, inviting a comfortable day of subtle pleasures rather than intense adventures.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-08-12 08:43:58"
+    "weather_report": "As the afternoon sun graces Perth, painting the city with its golden hues, there's a sense of tranquility in the air. The sky, a vast cerulean canvas unblemished by clouds, promises a spotless day ahead, inviting sun worshipers to soak up its warmth. Even the time, 2:14 PM, seems to linger languidly, caught in the pleasant zenith of a perfect day. This clear sky suggests a high UV index, urging you to apply sunscreen generously and don your sun hat. But fear not, for this is a day to revel in the great outdoors, be it through a leisurely stroll along the Swan River or a tranquil afternoon in Kings Park, drinking in nature's charm.\n\nDress with the casual flair of someone who is both comforted by and at ease with the sun \u2013 think light cotton shirts and flowing sundresses, fabrics that breathe in harmony with the gentle breeze. With such radiant clarity above, there's little doubt this day ranks as one of the more delightful of winter's offering, coaxing even the most reticent homebody to step outside. And as you amble out, sipping a cool drink or lost in a riveting book beneath a tree, remember to savor the sun-dappled world around you. On days like this, with the city basking under the sun's soft embrace, a sense of contentment seems to permeate the very air itself, gentle yet effervescent, lulling you into peaceful reverie.",
+    "color_code": "#FFD700",
+    "timestamp": "2025-08-12 14:14:33"
 }
