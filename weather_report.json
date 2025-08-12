@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95416440403068,
-            "longitude": 115.8527819534906
+            "latitude": -31.9496979443857,
+            "longitude": 115.8207085979721
         },
         "current_conditions": {
-            "timestamp": "2025-08-12T06:06:45+00:00",
-            "temperature_c": 22.58,
-            "temperature_f": 72.64399999999999,
-            "humidity": 42,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 10,
+            "timestamp": "2025-08-12T12:16:58+00:00",
+            "temperature_c": 16.27,
+            "temperature_f": 61.286,
+            "humidity": 67,
+            "wind_speed_mph": 6.91233,
+            "wind_direction": 70,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-08-12T09:00:00+00:00",
-                "temperature": 21.99,
-                "windSpeed": 8.07557,
-                "windDirection": 35,
+                "startTime": "2025-08-12T15:00:00+00:00",
+                "temperature": 15.02,
+                "windSpeed": 10.021760000000002,
+                "windDirection": 47,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-08-12T12:00:00+00:00",
-                "temperature": 17.01,
-                "windSpeed": 7.85187,
-                "windDirection": 66,
+                "startTime": "2025-08-12T18:00:00+00:00",
+                "temperature": 13.17,
+                "windSpeed": 14.40628,
+                "windDirection": 43,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "As the afternoon sun graces Perth, painting the city with its golden hues, there's a sense of tranquility in the air. The sky, a vast cerulean canvas unblemished by clouds, promises a spotless day ahead, inviting sun worshipers to soak up its warmth. Even the time, 2:14 PM, seems to linger languidly, caught in the pleasant zenith of a perfect day. This clear sky suggests a high UV index, urging you to apply sunscreen generously and don your sun hat. But fear not, for this is a day to revel in the great outdoors, be it through a leisurely stroll along the Swan River or a tranquil afternoon in Kings Park, drinking in nature's charm.\n\nDress with the casual flair of someone who is both comforted by and at ease with the sun \u2013 think light cotton shirts and flowing sundresses, fabrics that breathe in harmony with the gentle breeze. With such radiant clarity above, there's little doubt this day ranks as one of the more delightful of winter's offering, coaxing even the most reticent homebody to step outside. And as you amble out, sipping a cool drink or lost in a riveting book beneath a tree, remember to savor the sun-dappled world around you. On days like this, with the city basking under the sun's soft embrace, a sense of contentment seems to permeate the very air itself, gentle yet effervescent, lulling you into peaceful reverie.",
-    "color_code": "#FFD700",
-    "timestamp": "2025-08-12 14:14:33"
+    "weather_report": "As the sun quietly descends below the horizon, the warmth it bequeathed to Subiaco lingers in the air. Just over an hour past twilight, the town is bathed in soft, gentle hues as the sky transitions from the brilliant hues of sunset to serene starlit darkness. Earlier today, the sky was a perfect canvas of clear blue, promising a day devoid of clouds, dominated instead by the sun's golden reign. The UV index likely soared at midday, urging those out and about to seek shade or bear the protection of hats and sunscreen. It's an evening that lends itself to bare arms and airy fabrics as the cooling temperatures nudge summer heat towards a comfortable balmy balance. With night firmly settling in, thoughts of activity gently pivot from the outdoor hustle to the indoor hum of sociable gatherings or the allure of a cozy read by a softly glowing lamp. Tonight offers an invitation to stroll in the inky night, perhaps indulging in a languorous walk as crickets serenade the silence. There's a charming stillness that envelops the town, inviting one to savor both the lingering warmth of the day and the embracing coolness of the approaching night.",
+    "color_code": "#273f70",
+    "timestamp": "2025-08-12 20:16:58"
 }
