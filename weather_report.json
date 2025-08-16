@@ -1,38 +1,38 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Avon Valley National Park",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.60888343263607,
-            "longitude": 116.2053242267881
+            "latitude": -31.94969967892948,
+            "longitude": 115.8207871535646
         },
         "current_conditions": {
-            "timestamp": "2025-08-16T06:12:11+00:00",
-            "temperature_c": 17.55,
-            "temperature_f": 63.59,
-            "humidity": 34,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 60,
+            "timestamp": "2025-08-16T12:14:47+00:00",
+            "temperature_c": 12.7,
+            "temperature_f": 54.86,
+            "humidity": 64,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 110,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-08-16T09:00:00+00:00",
-                "temperature": 17.09,
-                "windSpeed": 6.285970000000001,
-                "windDirection": 104,
-                "shortForecast": "clear sky"
+                "startTime": "2025-08-16T15:00:00+00:00",
+                "temperature": 11.93,
+                "windSpeed": 9.104590000000002,
+                "windDirection": 107,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-08-16T12:00:00+00:00",
-                "temperature": 12.91,
-                "windSpeed": 6.196490000000001,
-                "windDirection": 112,
-                "shortForecast": "clear sky"
+                "startTime": "2025-08-16T18:00:00+00:00",
+                "temperature": 10.23,
+                "windSpeed": 10.245460000000001,
+                "windDirection": 92,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "In the radiant heart of Avon Valley National Park, the sun embraces the horizon, bathing everything in its warm, golden light. It's a day of ethereal clarity, the kind where you feel the urge to stretch beneath the open sky and simply savor the crisp clearness the morning promised. The air is still, with not a hint of cloud to interrupt the dome of brilliant blue overhead. As the afternoon lingers, there's not much more one can desire from such perfect purity. It suggests an elegantly simple day\u2014wear your lightest clothes, perhaps ample cotton or linen to feel each delicate breeze passing by. Wander the park's pathways, take deliberate steps on its lush trails, and let the songs of distant birds be your guide. Such a prime slice of summer begs to be enjoyed quietly, with unhurried grace. Perhaps, you find yourself enticed by a book, sprawling under a grand old tree, or enjoying a picnic with earthy delicacies that echo the vibrant essence of the day. As the shadows lengthen, you might pause on a hillside, pondering the waves of sunlight and wondering how nature can craft a day both so powerful yet gently unfolding.",
-    "color_code": "#FFDB58",
-    "timestamp": "2025-08-16 14:12:12"
+    "weather_report": "As the dusk calmly settles over Subiaco, gentle breezes carry whispers of the waning day, with few clouds charting a serene course across the sky. These remnants of the sun-drenched afternoon, gradually replaced by patchwork veils of broken clouds, suggest a satisfying clarity tempered by softness. Although the warmth of the day still lingers in the air, the absence of harsh, unyielding sunlight invites a mellow glow rather than a blaze. While the UV index has tucked away for the night, departing with the day's golden light, shadows advance and coolness begins to entwine with the evening.\n\nThere's a charming playfulness to the weather, making this a splendid opportunity for a leisurely evening stroll or perhaps a quiet moment by an open window with a book cradled in your lap. Donning a light jacket might offer just enough comfort to embrace the emerging chill, as nature\u2019s evening scent mingles with the air. The rhythm of the night softly calls for reflection, contemplation, or a gentle unwinding with loved ones. Under the canopy slowly casting its gentle shadows, the evening presents itself not as a finale but as the gentle overture to a peaceful night, seasoned with tranquil possibilities.",
+    "color_code": "#6E7F87",
+    "timestamp": "2025-08-16 20:14:47"
 }
