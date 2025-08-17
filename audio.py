@@ -4,7 +4,7 @@ import logging
 import websocket
 import base64
 from pathlib import Path
-from typing import Dict, List, Union, Optional
+from typing import Dict, List, Union, Optional, Any
 from config import WeatherBotError, WeatherBotConfig
 from utils import retry_with_backoff, log_performance
 
@@ -51,7 +51,7 @@ def generate_audio_forecast(forecast_text: str, config: Optional[WeatherBotConfi
         # Initialize audio buffer
         audio_chunks: List[bytes] = []
 
-        def on_message(ws: websocket.WebSocketApp, message: Union[str, bytes]) -> None:
+        def on_message(ws: Any, message: Union[str, bytes]) -> None:
             try:
                 # Parse the BinaryMessage
                 data = json.loads(message)
@@ -66,16 +66,16 @@ def generate_audio_forecast(forecast_text: str, config: Optional[WeatherBotConfi
                 else:
                     logger.warning(f"Received non-JSON string message: {message}")
 
-        def on_error(ws: websocket.WebSocketApp, error: Exception) -> None:
+        def on_error(ws: Any, error: Any) -> None:
             logger.error(f"WebSocket error: {error}")
 
-        def on_close(ws: websocket.WebSocketApp, close_status_code: Optional[int], close_msg: Optional[str]) -> None:
+        def on_close(ws: Any, close_status_code: Any, close_msg: Any) -> None:
             logger.info(f"WebSocket connection closed: {close_status_code} - {close_msg}")
             # Signal that we're done receiving data
             if not audio_chunks:
                 logger.warning("WebSocket closed before receiving any audio data")
 
-        def on_open(ws: websocket.WebSocketApp) -> None:
+        def on_open(ws: Any) -> None:
             logger.info("WebSocket connection opened")
             try:
                 # Send the initial request

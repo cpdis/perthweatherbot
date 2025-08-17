@@ -49,7 +49,7 @@ def main() -> None:
             forecasts += f"\n - {period['startTime']}: {period['shortForecast']}"
 
         # Convert the current time to location's timezone
-        local_tz: timezone = timezone(location.timezone)
+        local_tz = timezone(location.timezone)
         local_time: str = datetime.now(local_tz).strftime("%Y-%m-%d %H:%M:%S")
 
         forecasts += f"\n\nCurrent local time: {local_time}"
