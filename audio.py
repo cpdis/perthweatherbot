@@ -5,7 +5,7 @@ import websocket
 import base64
 from pathlib import Path
 from typing import Dict, List, Union, Optional
-from config import WeatherBotError
+from config import WeatherBotError, WeatherBotConfig
 
 logger = logging.getLogger(__name__)
 
@@ -15,7 +15,7 @@ class AudioGenerationError(WeatherBotError):
     pass
 
 
-def generate_audio_forecast(forecast_text: str) -> bool:
+def generate_audio_forecast(forecast_text: str, config: Optional[WeatherBotConfig] = None) -> bool:
     """
     Generates audio file from forecast text using Eleven Labs API via websockets
     
@@ -29,16 +29,20 @@ def generate_audio_forecast(forecast_text: str) -> bool:
         AudioGenerationError: If audio generation fails
     """
     try:
-        api_key: Optional[str] = os.getenv('ELEVENLABS_API_KEY')
-        if not api_key:
-            logger.error("Eleven Labs API key not found in environment variables")
-            raise AudioGenerationError("Eleven Labs API key not found in environment variables")
+        # Use provided config or load from environment
+        if config is None:
+            from config import load_config
+            config = load_config()
+            
+        if not config.elevenlabs_api_key:
+            logger.error("Eleven Labs API key not found")
+            raise AudioGenerationError("Eleven Labs API key not found")
 
         # Prepare the request data
         request_data: Dict[str, Union[str, int]] = {
             "text": forecast_text,
-            "model_id": "eleven_multilingual_v2",
-            "voice_id": "qNkzaJoHLLdpvgh5tISm",
+            "model_id": config.model_id,
+            "voice_id": config.voice_id,
             "optimize_streaming_latency": 0
         }
 
@@ -74,7 +78,7 @@ def generate_audio_forecast(forecast_text: str) -> bool:
         # Create WebSocket connection
         ws = websocket.WebSocketApp(
             f"wss://api.elevenlabs.io/v1/text-to-speech/{request_data['voice_id']}/stream-input?model_id={request_data['model_id']}",
-            header={"xi-api-key": api_key},
+            header={"xi-api-key": config.elevenlabs_api_key},
             on_message=on_message,
             on_error=on_error,
             on_close=on_close,

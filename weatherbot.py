@@ -8,7 +8,7 @@ from pathlib import Path
 import logging
 from typing import Dict, Union, Optional, Any
 
-from config import load_location_config, validate_api_keys, ConfigurationError
+from config import load_config, WeatherBotConfig, LocationConfig, ConfigurationError
 from weather import WeatherService, APIError
 from audio import generate_audio_forecast, AudioGenerationError
 
@@ -23,37 +23,38 @@ logger = logging.getLogger(__name__)
 def main() -> None:
     """Main function to generate weather report and audio"""
     try:
-        # Validate API keys
-        validate_api_keys()
+        # Load configuration
+        config: WeatherBotConfig = load_config()
         
-        # Load location configuration
-        location_config: Dict[str, Union[float, str]] = load_location_config()
-        current_lat: float = float(location_config['latitude'])
-        current_lon: float = float(location_config['longitude'])
-        location_name: str = str(location_config['location_name'])
+        # Set logging level from config
+        logging.getLogger().setLevel(getattr(logging, config.log_level))
+        
+        # Extract location details
+        location: LocationConfig = config.current_location
+        logger.info(f"Using location: {location.name} ({location.latitude}, {location.longitude})")
     
         # Initialize weather service and get data
-        weather: WeatherService = WeatherService(os.getenv('OPENWEATHER_API_KEY'))
-        logger.info(f"Fetching weather data for {location_name} ({current_lat}, {current_lon})")
-        weather_data: Dict[str, Any] = weather.get_weather_data(current_lat, current_lon, location_name)
+        weather: WeatherService = WeatherService(config.openweather_api_key)
+        logger.info(f"Fetching weather data for {location.name}")
+        weather_data: Dict[str, Any] = weather.get_weather_data(location.latitude, location.longitude, location.name)
         
         # Generate weather report using AI
         logger.info("Generating AI weather report")
         model = llm.get_model("gpt-4o")
         
         # Build comprehensive forecast prompt
-        forecasts: str = f"Below is the weather forecast for {location_name}: \n"
+        forecasts: str = f"Below is the weather forecast for {location.name}: \n"
         for period in weather_data['forecast']:
             forecasts += f"\n - {period['startTime']}: {period['shortForecast']}"
 
-        # Convert the current time to Perth time
-        perth_tz: timezone = timezone('Australia/Perth')
-        perth_time: str = datetime.now(perth_tz).strftime("%Y-%m-%d %H:%M:%S")
+        # Convert the current time to location's timezone
+        local_tz: timezone = timezone(location.timezone)
+        local_time: str = datetime.now(local_tz).strftime("%Y-%m-%d %H:%M:%S")
 
-        forecasts += f"\n\nCurrent local time: {perth_time}"
-        forecasts += f"\n\nReview the weather forecast and assess the weather, specifically looking for how sunny it will be and the UV index, the clarity of the day, and more.\n\nConsidering the weather forecast, please write a weather report for {location_name} capturing the current conditions; the expected weather for the day; how pleasant or unpleasant it looks; how one might best dress for the weather; and what one might do given the conditions, day, and time. Remember: you will generate this report many times a day, your recommended activities should be relatively mundane and not too cliche or stereotypical."
+        forecasts += f"\n\nCurrent local time: {local_time}"
+        forecasts += f"\n\nReview the weather forecast and assess the weather, specifically looking for how sunny it will be and the UV index, the clarity of the day, and more.\n\nConsidering the weather forecast, please write a weather report for {location.name} capturing the current conditions; the expected weather for the day; how pleasant or unpleasant it looks; how one might best dress for the weather; and what one might do given the conditions, day, and time. Remember: you will generate this report many times a day, your recommended activities should be relatively mundane and not too cliche or stereotypical."
         forecasts += "\n\nDo not use headers or other formatting in your response. Just write one to two single paragraphs that are elegant, don't use bullet points or exclamation marks, and use emotive words more often than numbers and figures – but don't be flowery. You write like a novelist describing the scene, producing a work suitable for someone calmly reading it on a classical radio station between songs. With a style somewhere between Jack Kerouac and J. Peterman."
-        forecasts += "\n\nRemember to keep the response under 300 words."
+        forecasts += f"\n\nRemember to keep the response under {config.max_report_words} words."
         forecasts += "\n\nAfter the weather report, please put an HTML color code that best represents the weather forecast, time of day. Do not actually put the words HTML color code anywhere in the text."
 
         try:
@@ -78,7 +79,13 @@ def main() -> None:
                 "forecast_data": weather_data,
                 "weather_report": response_text,
                 "color_code": color_code,
-                "timestamp": perth_time
+                "timestamp": local_time,
+                "location": {
+                    "name": location.name,
+                    "latitude": location.latitude,
+                    "longitude": location.longitude,
+                    "timezone": location.timezone
+                }
             }
             
             # Save weather report
@@ -88,11 +95,14 @@ def main() -> None:
             logger.info(f"Weather report saved to {output_file}")
             
             # Generate audio forecast
-            try:
-                generate_audio_forecast(response_text)
-                logger.info("Audio forecast generation completed successfully")
-            except (ConfigurationError, AudioGenerationError) as e:
-                logger.warning(f"Audio generation skipped: {e}")
+            if config.elevenlabs_api_key:
+                try:
+                    generate_audio_forecast(response_text, config)
+                    logger.info("Audio forecast generation completed successfully")
+                except AudioGenerationError as e:
+                    logger.warning(f"Audio generation failed: {e}")
+            else:
+                logger.info("Skipping audio generation - no ElevenLabs API key configured")
                 
         except Exception as e:
             logger.error(f"Failed to generate weather report: {e}")
