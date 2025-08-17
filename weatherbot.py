@@ -11,6 +11,7 @@ from typing import Dict, Union, Optional, Any
 from config import load_config, WeatherBotConfig, LocationConfig, ConfigurationError
 from weather import WeatherService, APIError
 from audio import generate_audio_forecast, AudioGenerationError
+from history import WeatherHistory
 
 # Configure logging
 logging.basicConfig(
@@ -94,6 +95,14 @@ def main() -> None:
                 json.dump(result, f, indent=4)
             logger.info(f"Weather report saved to {output_file}")
             
+            # Add to history
+            try:
+                history = WeatherHistory()
+                history.add_entry(result)
+                history.cleanup_old_entries(7)  # Keep 1 week of data
+            except Exception as e:
+                logger.warning(f"Failed to save to history: {e}")
+            
             # Generate audio forecast
             if config.elevenlabs_api_key:
                 try:
@@ -104,8 +113,18 @@ def main() -> None:
             else:
                 logger.info("Skipping audio generation - no ElevenLabs API key configured")
                 
+            # Log completion
+            logger.info(f"Weather report generation completed for {location.name}")
+                
         except Exception as e:
             logger.error(f"Failed to generate weather report: {e}")
+            # Try to show trend analysis for debugging
+            try:
+                history = WeatherHistory()
+                trend = history.get_temperature_trend(6)
+                logger.info(f"Recent temperature trend: {trend.get('message', 'No trend data')}")
+            except:
+                pass
             raise
             
     except (ConfigurationError, APIError) as e:

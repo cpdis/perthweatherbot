@@ -214,7 +214,7 @@
 
         /* Container for better readability */
         .container {
-            max-width: 800px;  /* Increased from previous value for better desktop display */
+            max-width: 800px;
             margin: 0 auto;
             padding: 0 1rem;
         }
@@ -222,7 +222,35 @@
         @media (min-width: 768px) {
             .container {
                 padding: 0 2rem;
-                max-width: 1000px;  /* Even wider on larger screens */
+                max-width: 1000px;
+            }
+        }
+
+        /* Mobile improvements */
+        @media (max-width: 767px) {
+            .container {
+                padding: 0 0.75rem;
+            }
+            
+            .header-container {
+                flex-direction: column;
+                align-items: center;
+                gap: 1rem;
+                text-align: center;
+            }
+            
+            h1 {
+                font-size: clamp(1.5rem, 8vw, 2.5rem);
+            }
+            
+            #weather-report {
+                font-size: 1.4rem;
+                line-height: 1.5;
+            }
+            
+            .audio-container {
+                flex-direction: column;
+                gap: 0.5rem;
             }
         }
 
@@ -264,17 +292,111 @@
             font-size: 1.75rem;
             line-height: 1.6;
             margin-bottom: 2em;
+            min-height: 200px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        /* Loading and error states */
+        .loading {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 1rem;
+            color: #666;
+            font-style: italic;
+        }
+        
+        .error {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 1rem;
+            color: #e74c3c;
+            text-align: center;
+        }
+        
+        .spinner {
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid var(--text-color);
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .retry-button {
+            background-color: var(--link-color);
+            color: white;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1rem;
+        }
+        
+        .retry-button:hover {
+            opacity: 0.8;
         }
 
         /* Audio control styles */
         .play-button {
-            font-size: 2.5rem; /* Increased size */
+            font-size: 2.5rem;
             cursor: pointer;
             transition: transform 0.3s ease;
+            color: var(--text-color);
         }
 
         .play-button:hover {
             transform: scale(1.1);
+        }
+        
+        .play-button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        
+        .audio-status {
+            font-size: 0.9rem;
+            color: #666;
+            text-align: center;
+            margin-top: 0.5rem;
+        }
+        
+        /* Location selector styles */
+        .location-selector {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+        }
+        
+        .location-selector select {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            border: 1px solid var(--divider-color);
+            border-radius: 4px;
+            padding: 0.25rem 0.5rem;
+            font-size: 0.9rem;
+        }
+        
+        .location-selector label {
+            font-size: 0.9rem;
+            color: var(--text-color);
+        }
+        
+        @media (max-width: 767px) {
+            .location-selector {
+                flex-direction: column;
+                align-items: stretch;
+                text-align: center;
+            }
         }
 
         .waveform-container {
@@ -375,27 +497,143 @@
             setTheme(nextTheme);
         }
 
+        function showLoading() {
+            const weatherReport = document.getElementById('weather-report');
+            weatherReport.innerHTML = `
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <div>Loading weather forecast...</div>
+                </div>
+            `;
+        }
+        
+        function showError(message) {
+            const weatherReport = document.getElementById('weather-report');
+            weatherReport.innerHTML = `
+                <div class="error">
+                    <div>⚠️ ${message}</div>
+                    <button class="retry-button" onclick="loadWeatherData()">Retry</button>
+                </div>
+            `;
+        }
+        
+        function loadWeatherData() {
+            showLoading();
+            
+            fetch('weather_report.json?t=' + Date.now()) // Add timestamp to prevent caching
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    // Update weather report content
+                    document.getElementById('weather-report').innerHTML = data.weather_report;
+                    
+                    // Update timestamp
+                    const options = { year: 'numeric', month: 'long', day: 'numeric', hour: 'numeric', minute: 'numeric'};
+                    let timestampText;
+                    
+                    if (data.location && data.location.timezone) {
+                        timestampText = `Generated on ${new Date(data.timestamp).toLocaleDateString('en-US', options)}, ${data.location.timezone.split('/').pop()} time.`;
+                    } else {
+                        timestampText = `Generated on ${new Date(data.timestamp).toLocaleDateString('en-US', options)}.`;
+                    }
+                    
+                    document.getElementById('timestamp').innerText = timestampText;
+                    
+                    // Update color theme
+                    if (data.color_code) {
+                        document.querySelectorAll('.divider').forEach(element => {
+                            element.style.backgroundColor = data.color_code;
+                        });
+                    }
+                    
+                    // Update the title with the current location
+                    const locationName = data.forecast_data?.location?.name || data.location?.name || 'Weather';
+                    document.getElementById('location-title').innerText = locationName + ' Weather Vibes';
+                    
+                    // Enable audio controls if audio is available
+                    const audioElement = document.getElementById('weather-audio');
+                    const playButton = document.getElementById('playButton');
+                    
+                    // Check if audio file exists by trying to load it
+                    audioElement.addEventListener('canplaythrough', function() {
+                        playButton.disabled = false;
+                        document.querySelector('.audio-status').textContent = 'Audio forecast available';
+                    }, { once: true });
+                    
+                    audioElement.addEventListener('error', function() {
+                        playButton.disabled = true;
+                        document.querySelector('.audio-status').textContent = 'Audio forecast unavailable';
+                    }, { once: true });
+                    
+                    // Trigger audio load with cache-busting
+                    audioElement.src = `forecast.mp3?t=${Date.now()}`;
+                    audioElement.load();
+                    
+                    // Load and populate location selector if multiple locations available
+                    loadLocationSelector(data);
+                })
+                .catch(error => {
+                    console.error('Error loading weather report:', error);
+                    showError('Failed to load weather forecast. Please try again.');
+                });
+        }
+        
+        function loadLocationSelector(weatherData) {
+            // Check if multiple locations are configured
+            if (weatherData.location && weatherData.location.name) {
+                const selector = document.getElementById('location-selector');
+                const select = document.getElementById('location-select');
+                
+                // For now, just show current location
+                // In the future, this could be expanded to load from a locations API endpoint
+                select.innerHTML = `<option value="current">${weatherData.location.name}</option>`;
+                
+                // Show selector if we have options (future enhancement)
+                // selector.style.display = 'flex';
+            }
+        }
+        
+        function changeLocation() {
+            // Future enhancement: reload weather data for selected location
+            const selectedLocation = document.getElementById('location-select').value;
+            console.log('Location changed to:', selectedLocation);
+            // loadWeatherData(); // Uncomment when backend supports location switching
+        }
+        
+        // Add keyboard shortcuts
+        document.addEventListener('keydown', function(e) {
+            // Space bar to toggle audio
+            if (e.code === 'Space' && e.target === document.body) {
+                e.preventDefault();
+                toggleAudio();
+            }
+            // R key to refresh
+            if (e.code === 'KeyR' && !e.ctrlKey && !e.metaKey) {
+                e.preventDefault();
+                loadWeatherData();
+            }
+            // T key to toggle theme
+            if (e.code === 'KeyT' && !e.ctrlKey && !e.metaKey) {
+                e.preventDefault();
+                cycleTheme();
+            }
+        });
+
         document.addEventListener('DOMContentLoaded', function() {
             // Set initial theme based on system preference if no theme is saved
             const savedTheme = localStorage.getItem('theme');
             const initialTheme = savedTheme || (systemThemeMedia.matches ? 'dark' : 'light');
             setTheme(initialTheme);
 
-            // Fetch weather data
-            fetch('weather_report.json')
-                .then(response => response.json())
-                .then(data => {
-                    document.getElementById('weather-report').innerText = data.weather_report;
-                    const options = { year: 'numeric', month: 'long', day: 'numeric', hour: 'numeric', minute: 'numeric'};
-                    const formattedTimestamp = new Date(data.timestamp).toLocaleDateString('en-US', options);
-                    document.getElementById('timestamp').innerText = "Generated on " + formattedTimestamp + ", Perth time.";
-                    document.querySelectorAll('.divider').forEach(element => {
-                        element.style.backgroundColor = data.color_code;
-                    });
-                    // Update the title with the current location
-                    document.getElementById('location-title').innerText = data.forecast_data.location.name + ' Weather Vibes';
-                })
-                .catch(error => console.error('Error loading weather report:', error));
+            // Load weather data
+            loadWeatherData();
+            
+            // Auto-refresh every 10 minutes
+            setInterval(loadWeatherData, 10 * 60 * 1000);
         });
     </script>
     <!-- Fathom - beautiful, simple website analytics -->
@@ -414,17 +652,26 @@
                 </div>
             </button>
         </div>
+        <div class="location-selector" id="location-selector" style="display: none;">
+            <label for="location-select">Location:</label>
+            <select id="location-select" onchange="changeLocation()">
+                <!-- Options will be populated by JavaScript -->
+            </select>
+        </div>
         <hr class="divider">
         <div class="cropped-image-container">
             <img src="perth-in-the-clouds.jpg" alt="Perth skyline view" class="cropped-image">
         </div>
         <div id="weather-report">
-            <!-- Weather report content will be inserted here -->
+            <div class="loading">
+                <div class="spinner"></div>
+                <div>Loading weather forecast...</div>
+            </div>
         </div>
         <hr class="divider">
         <div class="audio-container">
             <div class="twelve columns" style="text-align: center;">
-                <i id="playButton" class="fa-solid fa-play play-button" onclick="toggleAudio()"></i>
+                <i id="playButton" class="fa-solid fa-play play-button" onclick="toggleAudio()" disabled></i>
                 <div class="waveform-container">
                     <div class="bar"></div>
                     <div class="bar"></div>
@@ -437,14 +684,16 @@
                     <div class="bar"></div>
                     <div class="bar"></div>
                 </div>
+                <div class="audio-status">Checking audio availability...</div>
             </div>
-            <audio id="weather-audio" src="forecast.mp3" preload="auto"></audio>
+            <audio id="weather-audio" src="forecast.mp3?t=" preload="none"></audio>
         </div>
         <hr class="divider">
         <div id="footer">
-            <p id="timestamp">Loading...</p>
+            <p id="timestamp">Loading timestamp...</p>
+            <p id="health-status" style="font-size: 0.9rem; color: #666;"></p>
             <p>By <a href="https://www.colindismuke.com">Colin Dismuke</a>. Powered by the <a href="https://openweathermap.org/">OpenWeather API</a>, <a href="https://llm.datasette.io/en/stable/">llm</a>, and vibes.</p>
-            <p>View <a href="https://github.com/cpdis/perthweatherbot">the code</a>.</p>
+            <p>View <a href="https://github.com/cpdis/perthweatherbot">the code</a>. <span style="color: #666; font-size: 0.8rem;">Keyboard shortcuts: Space (play/pause), R (refresh), T (theme)</span></p>
         </div>
     </div>
 
@@ -454,8 +703,13 @@
         let playButton = document.querySelector('.play-button');
 
         function toggleAudio() {
+            if (playButton.disabled) return;
+            
             if (audio.paused) {
-                audio.play();
+                audio.play().catch(error => {
+                    console.error('Audio play failed:', error);
+                    document.querySelector('.audio-status').textContent = 'Audio playback failed';
+                });
                 playButton.classList.remove('fa-play');
                 playButton.classList.add('fa-pause');
                 document.querySelector('.waveform-container').classList.add('active');
@@ -472,6 +726,15 @@
             playButton.classList.remove('fa-pause');
             playButton.classList.add('fa-play');
             document.querySelector('.waveform-container').classList.remove('active');
+        });
+        
+        // Handle audio loading states
+        audio.addEventListener('loadstart', function() {
+            document.querySelector('.audio-status').textContent = 'Loading audio...';
+        });
+        
+        audio.addEventListener('loadeddata', function() {
+            document.querySelector('.audio-status').textContent = 'Audio forecast ready';
         });
     </script>
 </body>
