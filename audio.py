@@ -6,6 +6,7 @@ import base64
 from pathlib import Path
 from typing import Dict, List, Union, Optional
 from config import WeatherBotError, WeatherBotConfig
+from utils import retry_with_backoff, log_performance
 
 logger = logging.getLogger(__name__)
 
@@ -15,6 +16,7 @@ class AudioGenerationError(WeatherBotError):
     pass
 
 
+@log_performance
 def generate_audio_forecast(forecast_text: str, config: Optional[WeatherBotConfig] = None) -> bool:
     """
     Generates audio file from forecast text using Eleven Labs API via websockets
@@ -69,11 +71,19 @@ def generate_audio_forecast(forecast_text: str, config: Optional[WeatherBotConfi
 
         def on_close(ws: websocket.WebSocketApp, close_status_code: Optional[int], close_msg: Optional[str]) -> None:
             logger.info(f"WebSocket connection closed: {close_status_code} - {close_msg}")
+            # Signal that we're done receiving data
+            if not audio_chunks:
+                logger.warning("WebSocket closed before receiving any audio data")
 
         def on_open(ws: websocket.WebSocketApp) -> None:
             logger.info("WebSocket connection opened")
-            # Send the initial request
-            ws.send(json.dumps(request_data))
+            try:
+                # Send the initial request
+                ws.send(json.dumps(request_data))
+                logger.debug("Sent audio generation request")
+            except Exception as e:
+                logger.error(f"Failed to send WebSocket message: {e}")
+                ws.close()
 
         # Create WebSocket connection
         ws = websocket.WebSocketApp(
@@ -85,8 +95,12 @@ def generate_audio_forecast(forecast_text: str, config: Optional[WeatherBotConfi
             on_open=on_open
         )
 
-        # Run WebSocket connection
-        ws.run_forever()  
+        # Run WebSocket connection with timeout
+        try:
+            ws.run_forever(ping_interval=30, ping_timeout=10)  
+        except Exception as e:
+            logger.error(f"WebSocket connection failed: {e}")
+            raise AudioGenerationError(f"WebSocket connection failed: {e}") from e
 
         if not audio_chunks:
             logger.error("No audio data received")
