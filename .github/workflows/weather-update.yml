@@ -1,8 +1,8 @@
-name: Hourly Perth Weather Update
+name: Automated Weather Update
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Run every 6 hours
+    - cron: '0 */4 * * *' # Run every 4 hours for more frequent updates
   workflow_dispatch:  # Allow manual trigger
 
 permissions:
@@ -23,21 +23,69 @@ jobs:
       with:
         python-version: '3.12'
         
+    - name: Cache dependencies
+      uses: actions/cache@v4
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+          
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         
+    - name: Run health checks
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
+        ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+      run: |
+        python health.py
+        echo "Health check completed"
+        
     - name: Run weather script
       env:
-        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}  # For OpenAI API
-        OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}  # For OpenWeather API
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
         ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        LOG_LEVEL: INFO
       run: python weatherbot.py
+      
+    - name: Validate output files
+      run: |
+        # Check that required files were generated
+        if [ ! -f weather_report.json ]; then
+          echo "Error: weather_report.json was not generated"
+          exit 1
+        fi
+        
+        # Validate JSON format
+        python -c "import json; json.load(open('weather_report.json'))"
+        echo "Output validation completed"
       
     - name: Commit and push if changes
       run: |
         git config --global user.name 'GitHub Action'
         git config --global user.email 'action@github.com'
+        
+        # Add generated files (including history if it exists)
         git add forecast.mp3 weather_report.json
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update weather report [skip ci]" && git push)
+        if [ -f weather_history.json ]; then
+          git add weather_history.json
+        fi
+        if [ -f health_check.json ]; then
+          git add health_check.json
+        fi
+        
+        # Check if there are changes to commit
+        if ! git diff --quiet && ! git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          # Create commit with timestamp
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+          git commit -m "Update weather report - $TIMESTAMP [skip ci]"
+          git push
+          echo "Weather report updated and pushed"
+        fi

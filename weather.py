@@ -4,6 +4,8 @@ import logging
 from datetime import datetime, timezone as tz
 from typing import Dict, List, Optional, Any
 from config import WeatherBotError
+from cache import WeatherCache
+from utils import retry_with_backoff, RateLimiter, create_cache_key, log_performance
 
 logger = logging.getLogger(__name__)
 
@@ -14,10 +16,13 @@ class APIError(WeatherBotError):
 
 
 class WeatherService:
-    def __init__(self, api_key: str) -> None:
+    def __init__(self, api_key: str, enable_cache: bool = True, cache_ttl: int = 300) -> None:
         self.base_url: str = "https://api.openweathermap.org/data/2.5"
         self.api_key: str = api_key
+        self.cache: Optional[WeatherCache] = WeatherCache(default_ttl=cache_ttl) if enable_cache else None
+        self.rate_limiter: RateLimiter = RateLimiter(calls_per_minute=60)  # OpenWeather free tier limit
 
+    @log_performance
     def get_weather_data(self, latitude: float, longitude: float, location_name: str) -> Dict[str, Any]:
         """
         Fetches weather data from OpenWeather API for a specific latitude/longitude
@@ -30,18 +35,23 @@ class WeatherService:
         Returns:
             dict: Dictionary containing weather data and forecast
         """
+        # Check cache first
+        cache_key = create_cache_key(latitude, longitude)
+        if self.cache:
+            cached_data = self.cache.get(cache_key)
+            if cached_data:
+                logger.info(f"Using cached weather data for {location_name}")
+                return cached_data
+        
         try:
-            # Get current weather
-            current_weather_url = f"{self.base_url}/weather?lat={latitude}&lon={longitude}&appid={self.api_key}&units=metric"
-            current_response = requests.get(current_weather_url)
-            current_response.raise_for_status()
-            current_data = current_response.json()
+            # Rate limit API calls
+            self.rate_limiter.wait_if_needed()
             
-            # Get forecast
-            forecast_url = f"{self.base_url}/forecast?lat={latitude}&lon={longitude}&appid={self.api_key}&units=metric"
-            forecast_response = requests.get(forecast_url)
-            forecast_response.raise_for_status()
-            forecast_data = forecast_response.json()
+            # Get current weather with retry
+            current_data = self._fetch_current_weather(latitude, longitude)
+            
+            # Get forecast with retry
+            forecast_data = self._fetch_forecast(latitude, longitude)
             
             # Format the response
             weather_data = {
@@ -63,6 +73,11 @@ class WeatherService:
                 'forecast': self._format_forecast(forecast_data['list'][:2])  # Next 6 hours of forecast
             }
             
+            # Cache the successful response
+            if self.cache:
+                self.cache.set(cache_key, weather_data)
+                logger.debug(f"Cached weather data for {location_name}")
+            
             return weather_data
             
         except requests.exceptions.RequestException as e:
@@ -71,6 +86,22 @@ class WeatherService:
         except (KeyError, IndexError, json.JSONDecodeError) as e:
             logger.error(f"Error parsing weather data: {e}")
             raise APIError(f"Failed to parse weather data: {e}") from e
+    
+    @retry_with_backoff(max_retries=3, base_delay=1.0)
+    def _fetch_current_weather(self, latitude: float, longitude: float) -> Dict[str, Any]:
+        """Fetch current weather data with retry logic"""
+        url = f"{self.base_url}/weather?lat={latitude}&lon={longitude}&appid={self.api_key}&units=metric"
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
+        return response.json()
+    
+    @retry_with_backoff(max_retries=3, base_delay=1.0)
+    def _fetch_forecast(self, latitude: float, longitude: float) -> Dict[str, Any]:
+        """Fetch forecast data with retry logic"""
+        url = f"{self.base_url}/forecast?lat={latitude}&lon={longitude}&appid={self.api_key}&units=metric"
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
+        return response.json()
     
     def _celsius_to_fahrenheit(self, celsius: Optional[float]) -> Optional[float]:
         """Convert Celsius to Fahrenheit"""
@@ -96,3 +127,8 @@ class WeatherService:
                 logger.warning(f"Skipping malformed forecast period: {e}")
                 continue
         return formatted_periods
+    
+    def cleanup_cache(self) -> None:
+        """Clean up expired cache entries"""
+        if self.cache:
+            self.cache.cleanup_expired()

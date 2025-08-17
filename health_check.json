@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-08-17T15:50:07.087414",
+  "overall_status": "unhealthy",
+  "summary": {
+    "total_checks": 5,
+    "healthy": 3,
+    "unhealthy": 1,
+    "errors": 1
+  },
+  "checks": [
+    {
+      "name": "Configuration",
+      "status": "unhealthy",
+      "error": "OpenAI API key not found in environment variables",
+      "details": "Configuration validation failed"
+    },
+    {
+      "name": "File Permissions",
+      "status": "healthy",
+      "details": [
+        "All required files accessible"
+      ]
+    },
+    {
+      "name": "Dependencies",
+      "status": "healthy",
+      "details": [
+        "All required modules available"
+      ]
+    },
+    {
+      "name": "Cache System",
+      "status": "healthy",
+      "details": [
+        "Cache read/write operations successful"
+      ]
+    },
+    {
+      "name": "OpenWeather API",
+      "status": "error",
+      "error": "OpenAI API key not found in environment variables",
+      "details": "Configuration or other error"
+    }
+  ]
+}
