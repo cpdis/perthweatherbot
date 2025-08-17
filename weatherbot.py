@@ -41,7 +41,7 @@ def main() -> None:
         
         # Generate weather report using AI
         logger.info("Generating AI weather report")
-        model = llm.get_model("gpt-4o")
+        model = llm.get_model("gpt-5")
         
         # Build comprehensive forecast prompt
         forecasts: str = f"Below is the weather forecast for {location.name}: \n"
