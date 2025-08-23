@@ -1,18 +1,22 @@
 {
-  "timestamp": "2025-08-17T15:50:07.087414",
-  "overall_status": "unhealthy",
+  "timestamp": "2025-08-23T05:54:47.145868",
+  "overall_status": "healthy",
   "summary": {
     "total_checks": 5,
-    "healthy": 3,
-    "unhealthy": 1,
-    "errors": 1
+    "healthy": 5,
+    "unhealthy": 0,
+    "errors": 0
   },
   "checks": [
     {
       "name": "Configuration",
-      "status": "unhealthy",
-      "error": "OpenAI API key not found in environment variables",
-      "details": "Configuration validation failed"
+      "status": "healthy",
+      "details": [
+        "OpenWeather API key configured",
+        "OpenAI API key configured",
+        "ElevenLabs API key configured",
+        "Location: Subiaco"
+      ]
     },
     {
       "name": "File Permissions",
@@ -37,9 +41,9 @@
     },
     {
       "name": "OpenWeather API",
-      "status": "error",
-      "error": "OpenAI API key not found in environment variables",
-      "details": "Configuration or other error"
+      "status": "healthy",
+      "response_time_ms": 93.627,
+      "details": "HTTP 200"
     }
   ]
 }

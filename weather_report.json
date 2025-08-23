@@ -3,36 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94967913107263,
-            "longitude": 115.8206753846594
+            "latitude": -31.94968857029824,
+            "longitude": 115.8207752241304
         },
         "current_conditions": {
-            "timestamp": "2025-08-17T06:12:26+00:00",
-            "temperature_c": 20.46,
-            "temperature_f": 68.828,
-            "humidity": 35,
+            "timestamp": "2025-08-23T05:54:47+00:00",
+            "temperature_c": 20.85,
+            "temperature_f": 69.53,
+            "humidity": 48,
             "wind_speed_mph": 11.49818,
-            "wind_direction": 50,
-            "description": "clear sky"
+            "wind_direction": 20,
+            "description": "light intensity shower rain"
         },
         "forecast": [
             {
-                "startTime": "2025-08-17T09:00:00+00:00",
-                "temperature": 19.43,
-                "windSpeed": 12.59431,
-                "windDirection": 66,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-08-23T06:00:00+00:00",
+                "temperature": 20.85,
+                "windSpeed": 6.86759,
+                "windDirection": 256,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-08-17T12:00:00+00:00",
-                "temperature": 16.71,
-                "windSpeed": 13.35489,
-                "windDirection": 75,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-08-23T09:00:00+00:00",
+                "temperature": 19.98,
+                "windSpeed": 7.717650000000001,
+                "windDirection": 220,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "As the afternoon unfurls in Subiaco, the clouds seem to harmonize in a delicate dance, giving way to the gentle but determined fingers of sunlight to break through here and there. The sky, a canvas of broken clouds, reshapes itself endlessly, teasing the promise of a sun unseen but felt warmly. With the clock suggesting early afternoon, the day rests in a state of subdued vibrance, the kind where the world seems to momentarily pause, and everything feels kind and soft. The temperature is pleasantly mild, without the oppressive heat that one might dread in the height of summer. \n\nFor attire, consider a light shirt with a hint of color to complement the sky's gentle hues, paired with comfortable jeans or a casual dress that flutters with the breeze. The UV index, nestled within moderate bounds, whispers to carry sunglasses and perhaps lightly dab a hint of sunscreen for those intent on basking in sporadic patches of sunlight. Given the tranquility of the day and the delightful unpredictability of the sky, an afternoon could best be spent meandering through the leafy lanes of a nearby park, a book in hand or a thoughtful companion by your side. Pause to appreciate the ephemeral artistry above, while allowing the cool caress of a cloud-shaded moment to accompany your stroll. Treasured moments await in the ordinary today, asking only to be noticed on this serendipitously pleasant afternoon.",
-    "color_code": "#B8C9D1",
-    "timestamp": "2025-08-17 14:12:26"
+    "weather_report": "Early afternoon in Subiaco looks kindly: a mostly blue sky with a few idle clouds, sunlight bright but not brash, the air clear enough to see edges sharpen. Expect the sun to keep slipping between patches of cloud through the rest of the day, drifting from mostly sunny to gently filtered by late afternoon. UV sits in the moderate range around now, easing as the light lengthens, so a hat, sunglasses, and a touch of sunscreen are still prudent if you linger outdoors. The overall feel is mild and easeful, the kind of day that invites unhurried movement and small errands done on foot.\n\nDress in light layers\u2014a long-sleeve or a soft tee with a light jacket you can shrug off\u2014comfortable shoes, and perhaps a scarf for the breeze. The weather suits ordinary pleasures: a lazy amble to a corner caf\u00e9, a loop through the neighborhood with a takeaway cup, tending balcony plants or hanging a fresh wash to dry, a short ride on quiet streets before the shadows grow. If you\u2019ve a book waiting, find a bench in a patch of sun and let the clouds choreograph your intermissions.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-08-23 13:54:47",
+    "location": {
+        "name": "Subiaco",
+        "latitude": -31.94968857029824,
+        "longitude": 115.8207752241304,
+        "timezone": "Australia/Perth"
+    }
 }
