@@ -7,34 +7,34 @@
             "longitude": 115.8207752241304
         },
         "current_conditions": {
-            "timestamp": "2025-08-23T12:41:19+00:00",
-            "temperature_c": 14.58,
-            "temperature_f": 58.244,
-            "humidity": 82,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "broken clouds"
+            "timestamp": "2025-08-23T16:24:08+00:00",
+            "temperature_c": 12.66,
+            "temperature_f": 54.788,
+            "humidity": 85,
+            "wind_speed_mph": 4.60822,
+            "wind_direction": 10,
+            "description": "light intensity drizzle"
         },
         "forecast": [
             {
-                "startTime": "2025-08-23T15:00:00+00:00",
-                "temperature": 14.03,
-                "windSpeed": 1.70012,
-                "windDirection": 249,
-                "shortForecast": "light rain"
-            },
-            {
                 "startTime": "2025-08-23T18:00:00+00:00",
-                "temperature": 12.35,
+                "temperature": 12.29,
                 "windSpeed": 9.462510000000002,
                 "windDirection": 305,
                 "shortForecast": "light rain"
+            },
+            {
+                "startTime": "2025-08-23T21:00:00+00:00",
+                "temperature": 12.55,
+                "windSpeed": 18.16444,
+                "windDirection": 304,
+                "shortForecast": "moderate rain"
             }
         ]
     },
-    "weather_report": "Night has folded over Subiaco and the sky has the soft, pewter look that swallows stars; the air carries that quiet promise of rain. It won\u2019t be sunny now, of course, and the UV is essentially absent. Streetlights bloom in small halos, and the evening feels gentle and a bit introspective, the sort of calm that makes conversations softer and footsteps slower.\n\nLight rain is expected to wander in later tonight and linger into the small hours, more a courteous tap on windows than a downpour. Clarity will be muted, edges smudged by damp air. Dress for a cool, drizzly night: a light rain jacket or compact umbrella, shoes with some grip, maybe a thin layer to ward off the chill. It\u2019s a good evening for modest plans\u2014an unhurried walk under shopfront awnings, a simple dinner nearby, a book opened on the couch while the kettle murmurs. Cyclists might slow their corners; drivers, keep the wipers honest. The sun and its bite can wait until morning.",
-    "color_code": "#2C3E50",
-    "timestamp": "2025-08-23 20:41:19",
+    "weather_report": "Subiaco settles under a damp midnight sky, the air cool and smelling faintly of wet pavement. Light showers flirt with the small hours and are expected to lean into steadier rain toward dawn, softening the edges of the streets and keeping the night dim and quiet. Expect a muted sunrise behind a low, quilted ceiling; clarity will be poor at first with slick roads and beaded windshields. Sunshine will be scarce early and the UV negligible, perhaps nudging to modest only if the cloudwork loosens later. It\u2019s not an unpleasant night so much as a hushed one.\n\nDress for drizzle and puddles: a light waterproof layer, closed shoes, and an umbrella you won\u2019t mind carrying. For now, the wise move is indoors\u2014finish the chapter you\u2019ve been putting off, set the kettle, cue a low-volume record. Early risers might time errands between showers or take a slow tram ride and watch the rain paint the windows, saving outdoor plans for when the sky decides to forgive.",
+    "color_code": "#2F3E4E",
+    "timestamp": "2025-08-24 00:24:09",
     "location": {
         "name": "Subiaco",
         "latitude": -31.94968857029824,
