@@ -7,34 +7,34 @@
             "longitude": 115.9613863591781
         },
         "current_conditions": {
-            "timestamp": "2025-08-24T12:41:34+00:00",
-            "temperature_c": 10.66,
-            "temperature_f": 51.188,
-            "humidity": 82,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 220,
+            "timestamp": "2025-08-24T16:25:39+00:00",
+            "temperature_c": 9.09,
+            "temperature_f": 48.362,
+            "humidity": 80,
+            "wind_speed_mph": 18.410510000000002,
+            "wind_direction": 290,
             "description": "light intensity shower rain"
         },
         "forecast": [
             {
-                "startTime": "2025-08-24T15:00:00+00:00",
-                "temperature": 10.36,
-                "windSpeed": 16.44195,
-                "windDirection": 262,
-                "shortForecast": "moderate rain"
-            },
-            {
                 "startTime": "2025-08-24T18:00:00+00:00",
-                "temperature": 9.83,
+                "temperature": 9.22,
                 "windSpeed": 14.495760000000002,
                 "windDirection": 256,
                 "shortForecast": "light rain"
+            },
+            {
+                "startTime": "2025-08-24T21:00:00+00:00",
+                "temperature": 9.96,
+                "windSpeed": 16.75513,
+                "windDirection": 271,
+                "shortForecast": "moderate rain"
             }
         ]
     },
-    "weather_report": "Perth Airport slips into a cool, damp evening, the last light long gone and the runway lamps wearing soft halos. Clouds are thickening, the sky a slate lid with barely a seam, and the day\u2019s sunniness is over; UV is essentially nil now. The air feels heavy and a touch metallic, the sort of night where sound travels and edges blur, giving everything a muted, cinematic clarity.\n\nShowers look set to arrive properly by late evening, pulsing to a steadier, moderate spell before easing to lighter rain after midnight. Expect a grey, wet night rather than anything dramatic. Dress for damp: a light waterproof, closed shoes you don\u2019t mind getting speckled, and a layer to fend off the chill. It\u2019s a good time for modest errands under shop awnings, a quiet airport pickup with the wipers keeping time, or staying in to sort tomorrow\u2019s bag, iron a shirt, or write out the week\u2019s list while the rain puts a soft patter to the windows. If you need air, a brief walk under cover will do; otherwise let the night do its work and keep things simple.",
-    "color_code": "#2A3B4D",
-    "timestamp": "2025-08-24 20:41:35",
+    "weather_report": "Perth Airport sits under a low, unbroken ceiling just past midnight, runway lights haloed and the air damp with promise. Drizzle is due to wander in toward the small hours, gathering into steadier rain by dawn, so expect a muted, silver morning with softened edges and quiet roads. Sunshine will be scarce; if the lid on the sky cracks at all later, it will be brief, and the UV stays low, lifting only a touch if a shy patch of blue appears. The day reads as grey and serviceable rather than wild, more a steady metronome of showers than any theatrics.\n\nDress for a lingering wetness: a light waterproof with a hood, shoes that don\u2019t mind puddles, and a comfortable layer beneath. If you\u2019re up now, it\u2019s a night for unhurried tasks and an easy cup before bed; later, plan indoor errands, a quiet browse in a bookshop, or a slow coffee while the tarmac glistens. If traveling, allow a bit of time for slick roads and carry something to keep the seat dry; if staying put, let the rain set the tempo and work through the small, practical things.",
+    "color_code": "#3E4C5A",
+    "timestamp": "2025-08-25 00:25:40",
     "location": {
         "name": "Perth Airport",
         "latitude": -31.93320316948709,
