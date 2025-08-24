@@ -198,5 +198,25 @@
     },
     "report_summary": "Perth Airport sits under a low, unbroken ceiling just past midnight, runway lights haloed and the ai...",
     "color_code": "#3E4C5A"
+  },
+  {
+    "timestamp": "2025-08-25 04:23:02",
+    "location": {
+      "name": "Perth Airport",
+      "latitude": -31.93320316948709,
+      "longitude": 115.9613863591781,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-08-24T20:23:02+00:00",
+      "temperature_c": 10.06,
+      "temperature_f": 50.108000000000004,
+      "humidity": 76,
+      "wind_speed_mph": 20.71462,
+      "wind_direction": 240,
+      "description": "light rain"
+    },
+    "report_summary": "Before dawn at Perth Airport the rain has set a quiet rhythm, beading on windows and turning the tar...",
+    "color_code": "#6C7A89"
   }
 ]
