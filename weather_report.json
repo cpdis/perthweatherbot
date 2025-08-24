@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth Airport",
             "country": "AU",
-            "latitude": -31.94968186060618,
-            "longitude": 115.8209369851676
+            "latitude": -31.93320316948709,
+            "longitude": 115.9613863591781
         },
         "current_conditions": {
-            "timestamp": "2025-08-24T08:26:23+00:00",
-            "temperature_c": 14.08,
-            "temperature_f": 57.344,
-            "humidity": 73,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 270,
-            "description": "light rain"
+            "timestamp": "2025-08-24T12:41:34+00:00",
+            "temperature_c": 10.66,
+            "temperature_f": 51.188,
+            "humidity": 82,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 220,
+            "description": "light intensity shower rain"
         },
         "forecast": [
             {
-                "startTime": "2025-08-24T09:00:00+00:00",
-                "temperature": 14.08,
-                "windSpeed": 22.168670000000002,
-                "windDirection": 268,
-                "shortForecast": "light rain"
+                "startTime": "2025-08-24T15:00:00+00:00",
+                "temperature": 10.36,
+                "windSpeed": 16.44195,
+                "windDirection": 262,
+                "shortForecast": "moderate rain"
             },
             {
-                "startTime": "2025-08-24T12:00:00+00:00",
-                "temperature": 13.07,
-                "windSpeed": 21.721270000000004,
-                "windDirection": 261,
+                "startTime": "2025-08-24T18:00:00+00:00",
+                "temperature": 9.83,
+                "windSpeed": 14.495760000000002,
+                "windDirection": 256,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late afternoon in Subiaco arrives under a pewter lid; the light is soft and a little sullen, with the sun mostly kept at bay and the UV gentle to negligible. Clouds are thickening and a light rain is due around dusk, continuing into the evening\u2014the kind that dapples pavements and hushes the traffic rather than truly soaks it. The view stays clear enough but muted at the edges, colors slipping toward charcoal and eucalyptus as day folds into night. Dress for damp comfort: a light rain jacket or hooded layer, closed shoes, and something warm enough to keep the chill from settling in. Good hours for errands that live near awnings and doorways\u2014a quick grocery run, a slow browse in a bookshop, an early bite at a neighborhood cafe, or the train home with windows fogging slightly. If you\u2019re staying put, let the room glow and let the rain keep time.",
-    "color_code": "#6b7785",
-    "timestamp": "2025-08-24 16:26:23",
+    "weather_report": "Perth Airport slips into a cool, damp evening, the last light long gone and the runway lamps wearing soft halos. Clouds are thickening, the sky a slate lid with barely a seam, and the day\u2019s sunniness is over; UV is essentially nil now. The air feels heavy and a touch metallic, the sort of night where sound travels and edges blur, giving everything a muted, cinematic clarity.\n\nShowers look set to arrive properly by late evening, pulsing to a steadier, moderate spell before easing to lighter rain after midnight. Expect a grey, wet night rather than anything dramatic. Dress for damp: a light waterproof, closed shoes you don\u2019t mind getting speckled, and a layer to fend off the chill. It\u2019s a good time for modest errands under shop awnings, a quiet airport pickup with the wipers keeping time, or staying in to sort tomorrow\u2019s bag, iron a shirt, or write out the week\u2019s list while the rain puts a soft patter to the windows. If you need air, a brief walk under cover will do; otherwise let the night do its work and keep things simple.",
+    "color_code": "#2A3B4D",
+    "timestamp": "2025-08-24 20:41:35",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968186060618,
-        "longitude": 115.8209369851676,
+        "name": "Perth Airport",
+        "latitude": -31.93320316948709,
+        "longitude": 115.9613863591781,
         "timezone": "Australia/Perth"
     }
 }
