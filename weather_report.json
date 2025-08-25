@@ -3,42 +3,42 @@
         "location": {
             "name": "Adelaide",
             "country": "AU",
-            "latitude": -34.925991938089,
-            "longitude": 138.6033655962233
+            "latitude": -34.92365998499542,
+            "longitude": 138.5975467981007
         },
         "current_conditions": {
-            "timestamp": "2025-08-25T04:29:56+00:00",
-            "temperature_c": 19.15,
-            "temperature_f": 66.47,
-            "humidity": 39,
-            "wind_speed_mph": 18.410510000000002,
-            "wind_direction": 40,
-            "description": "light rain"
+            "timestamp": "2025-08-25T08:32:16+00:00",
+            "temperature_c": 15.79,
+            "temperature_f": 60.422,
+            "humidity": 61,
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 50,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-08-25T06:00:00+00:00",
-                "temperature": 19.27,
-                "windSpeed": 10.64812,
-                "windDirection": 4,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-08-25T09:00:00+00:00",
+                "temperature": 15.79,
+                "windSpeed": 1.63301,
+                "windDirection": 280,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-08-25T09:00:00+00:00",
-                "temperature": 18.88,
-                "windSpeed": 3.78053,
-                "windDirection": 342,
+                "startTime": "2025-08-25T12:00:00+00:00",
+                "temperature": 15.71,
+                "windSpeed": 4.27267,
+                "windDirection": 320,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Adelaide moves through a silvery midday, the sun slipping in and out of scattered cloud so the streets brighten, dim, then brighten again. It\u2019s not a sharp, blue day, more a softly lit one with decent clarity and a low, winter-mild UV bite; sunglasses won\u2019t be wasted, but the sun won\u2019t scold. The air feels agreeable rather than bracing, the kind that makes a walk to lunch feel unhurried and kind.\n\nAs the afternoon wears on, the ceiling lowers and the mood turns damp, with light rain likely toward evening. Dress in easy layers and keep a light rain shell or compact umbrella within reach; closed shoes will make puddles an afterthought. Best to run errands or take a short park loop early, then reward yourself with a quiet caf\u00e9 stool, a gallery browse, or a tidy-up of the desk by a window while the showers patter in. If you stay out, a hat and a dab of sunscreen won\u2019t hurt while the sun peeks through, then trade them for a hood as the day softens to drizzle.",
-    "color_code": "#7A8896",
-    "timestamp": "2025-08-25 12:29:56",
+    "weather_report": "Adelaide eases into late afternoon under a soft, pewter sky, the light already thinning and the air smelling faintly of wet stone. Sunshine will be scarce, filtered and brief if it peeks through at all, with the UV sitting low now and staying modest overall. Clouds will thicken toward evening, and light rain is set to arrive around dusk and linger into the night, the kind that beads on sleeves and makes the streets shine. The day feels gentle rather than harsh, a little dull at the edges, with visibility fine but the horizon smudged by grey.\n\nDress for a patient drizzle: a light waterproof layer, long sleeves, and shoes that won\u2019t mind puddles; carry a small umbrella for the unhurried showers. With daylight ebbing, it\u2019s a good time for small, ordinary comforts: a short walk before the rain settles in, then a pause at a quiet cafe, or a tidy-up at home while something simple simmers on the stove. If you\u2019re commuting, leave a few extra minutes for damp footpaths and low contrast. Tonight looks like the kind of rain that encourages conversation to soften and plans to slow, without demanding anything dramatic in return.",
+    "color_code": "#6B7C8B",
+    "timestamp": "2025-08-25 16:32:17",
     "location": {
         "name": "Adelaide",
-        "latitude": -34.925991938089,
-        "longitude": 138.6033655962233,
+        "latitude": -34.92365998499542,
+        "longitude": 138.5975467981007,
         "timezone": "Australia/Perth"
     }
 }
