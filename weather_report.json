@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth Airport",
+            "name": "Adelaide",
             "country": "AU",
-            "latitude": -31.93320316948709,
-            "longitude": 115.9613863591781
+            "latitude": -34.92600044127433,
+            "longitude": 138.6033417561314
         },
         "current_conditions": {
-            "timestamp": "2025-08-24T20:23:02+00:00",
-            "temperature_c": 10.06,
-            "temperature_f": 50.108000000000004,
-            "humidity": 76,
-            "wind_speed_mph": 20.71462,
-            "wind_direction": 240,
+            "timestamp": "2025-08-25T01:51:06+00:00",
+            "temperature_c": 18.39,
+            "temperature_f": 65.102,
+            "humidity": 46,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 40,
             "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2025-08-24T21:00:00+00:00",
-                "temperature": 10.06,
-                "windSpeed": 15.726110000000002,
-                "windDirection": 262,
-                "shortForecast": "light rain"
+                "startTime": "2025-08-25T03:00:00+00:00",
+                "temperature": 18.39,
+                "windSpeed": 12.750900000000001,
+                "windDirection": 9,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-08-25T00:00:00+00:00",
-                "temperature": 9.96,
-                "windSpeed": 15.30108,
-                "windDirection": 252,
-                "shortForecast": "moderate rain"
+                "startTime": "2025-08-25T06:00:00+00:00",
+                "temperature": 18.88,
+                "windSpeed": 11.54292,
+                "windDirection": 6,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Before dawn at Perth Airport the rain has set a quiet rhythm, beading on windows and turning the tarmac into a dark mirror. Light showers give way to steadier rain toward breakfast, and the sun will be more rumor than presence this morning, with a low, pewter sky and softened horizons. UV stays low at this hour and, with winter\u2019s grip and thick cloud, is unlikely to bite much even if the ceiling lifts for a brief pale patch later. Expect a muted, grey clarity rather than crisp detail, the kind of morning that keeps colors close to the ground.\n\nDress in easy layers with a waterproof shell and shoes that don\u2019t mind puddles; a hood is better than juggling an umbrella in passing showers. This is weather for unhurried errands and small rituals: a longer coffee at the terminal cafe, a quiet chapter while you wait, tidying up your travel list, or a short, brisk walk under awnings between breaks in the rain. Keep plans flexible and your expectations of sunshine modest.",
-    "color_code": "#6C7A89",
-    "timestamp": "2025-08-25 04:23:02",
+    "weather_report": "Adelaide wakes to a crisp, lucid morning, the kind that makes edges look sharper and colors a shade truer. Skies lean mostly clear now and are expected to stay bright through midday before a brush of scattered cloud wanders in during mid-afternoon. Sunshine will feel honest rather than fierce; the UV should rise to a moderate bite around lunch under the clear spell, then ease as the light softens later. Air clarity looks excellent, the sort of day where distant hills stand up straight and shadows have clean outlines, with no hint of rain.\n\nDress in easy layers\u2014a light jacket or knit over a tee\u2014add sunglasses, and keep a dab of sunscreen for the midday stroll. It\u2019s a pleasant day for unhurried errands on foot, a coffee outside in a patch of sun, or a quiet hour with a book on a park bench before the clouds drift in. If you\u2019re feeling domestic, wash on the line should dry steadily; if you\u2019re out, a gentle spin along the river paths or a meander through the Botanic Garden suits the mood of the sky.",
+    "color_code": "#9BC7ED",
+    "timestamp": "2025-08-25 09:52:13",
     "location": {
-        "name": "Perth Airport",
-        "latitude": -31.93320316948709,
-        "longitude": 115.9613863591781,
+        "name": "Adelaide",
+        "latitude": -34.92600044127433,
+        "longitude": 138.6033417561314,
         "timezone": "Australia/Perth"
     }
 }
