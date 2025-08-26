@@ -3,42 +3,42 @@
         "location": {
             "name": "Adelaide",
             "country": "AU",
-            "latitude": -34.92365998499542,
-            "longitude": 138.5975467981007
+            "latitude": -34.92695394778785,
+            "longitude": 138.6033045893855
         },
         "current_conditions": {
-            "timestamp": "2025-08-25T20:24:23+00:00",
-            "temperature_c": 14.93,
-            "temperature_f": 58.874,
-            "humidity": 84,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 310,
-            "description": "light rain"
+            "timestamp": "2025-08-26T01:40:00+00:00",
+            "temperature_c": 17.6,
+            "temperature_f": 63.68,
+            "humidity": 67,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 340,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-08-25T21:00:00+00:00",
-                "temperature": 14.93,
-                "windSpeed": 4.67533,
-                "windDirection": 60,
+                "startTime": "2025-08-26T03:00:00+00:00",
+                "temperature": 17.6,
+                "windSpeed": 11.744250000000001,
+                "windDirection": 305,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-08-26T00:00:00+00:00",
-                "temperature": 15.16,
-                "windSpeed": 9.44014,
-                "windDirection": 338,
+                "startTime": "2025-08-26T06:00:00+00:00",
+                "temperature": 15.86,
+                "windSpeed": 10.312570000000001,
+                "windDirection": 301,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Before dawn, Adelaide sits quiet under a low, pewter ceiling; the air smells faintly of rain and cold stone. Light showers are due to slide in around and after sunrise, softening the morning and muting the edges of the city; expect a hazy, matte clarity with the horizon a little smudged. Sunshine will be a reluctant guest today\u2014brief, pale breaks at best\u2014and with the cloud cover the UV should stay low, nudging toward moderate only if the midday brightens.\n\nIt\u2019s a day for a light waterproof and easy layers, closed shoes, and a small umbrella or hood stashed in a bag. The mood is gentle rather than grim: errands on the tram between passing showers, a quiet hour at the library, or a late-morning coffee while the streets glisten. If the rain eases later, take a brisk loop through the parklands and enjoy the eucalyptus waking in the damp. Drivers can unhurry their commute; cyclists might thank themselves for mudguards. Sunscreen is a modest idea if you\u2019ll be out through lunch, otherwise let the grey do the filtering.",
-    "color_code": "#546A7B",
-    "timestamp": "2025-08-26 04:24:24",
+    "weather_report": "Adelaide wakes under a quilt of cloud, the light already softened and a hush in the air that hints at showers drifting in around lunchtime and lingering through the afternoon. The sun will be a shy companion today, peeking out only in thin, silvery moments; UV should stay on the gentle side for winter, though a dab of sunscreen at midday never goes astray. Expect a muted, slightly damp day with visibility clean but edges blurred by drizzle, the kind that dapples pavements and lifts the scent of wet gum leaves.\n\nDress for cool, fickle skies: a light waterproof, layers you can peel, shoes that don\u2019t mind puddles, and an umbrella small enough to forget you\u2019re carrying it. It\u2019s a good day for unhurried errands, a quiet loop through a gallery or the market, a tram ride and a long coffee while the showers pass, or a short window-walk between clouds if you crave fresh air. Let the afternoon be practical and kind to yourself; save the sun-chasing for another day.",
+    "color_code": "#7F8C99",
+    "timestamp": "2025-08-26 09:48:26",
     "location": {
         "name": "Adelaide",
-        "latitude": -34.92365998499542,
-        "longitude": 138.5975467981007,
+        "latitude": -34.92695394778785,
+        "longitude": 138.6033045893855,
         "timezone": "Australia/Perth"
     }
 }
