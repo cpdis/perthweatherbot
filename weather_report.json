@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Adelaide",
+            "name": "Flinders Park",
             "country": "AU",
-            "latitude": -34.92598445183306,
-            "longitude": 138.6033913773227
+            "latitude": -34.91592802291058,
+            "longitude": 138.5371180728594
         },
         "current_conditions": {
-            "timestamp": "2025-08-26T04:26:58+00:00",
-            "temperature_c": 18.46,
-            "temperature_f": 65.22800000000001,
-            "humidity": 57,
-            "wind_speed_mph": 18.410510000000002,
-            "wind_direction": 340,
-            "description": "few clouds"
+            "timestamp": "2025-08-26T08:31:23+00:00",
+            "temperature_c": 14.23,
+            "temperature_f": 57.614,
+            "humidity": 74,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 250,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-08-26T06:00:00+00:00",
-                "temperature": 16.39,
-                "windSpeed": 10.133610000000001,
-                "windDirection": 301,
+                "startTime": "2025-08-26T09:00:00+00:00",
+                "temperature": 14.23,
+                "windSpeed": 14.83131,
+                "windDirection": 283,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-08-26T09:00:00+00:00",
-                "temperature": 13.97,
-                "windSpeed": 11.6324,
-                "windDirection": 284,
+                "startTime": "2025-08-26T12:00:00+00:00",
+                "temperature": 14.46,
+                "windSpeed": 19.77508,
+                "windDirection": 294,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Adelaide sits under a brushed-steel sky at midday, the light muted and gentle, as if the sun had pulled a sheer curtain across its face. Expect the afternoon to lean into light rain, first a polite sprinkle and then a steady hush toward evening; sunshine will be scarce, and the UV will stay low, more a whisper than a worry. The day has that softened clarity where edges blur a little and the hills look smudged in graphite, the kind of weather that quiets the streets and slows the heart-rate of the city. It feels cool rather than cold, damp rather than dour; a day made for unhurried errands and small comforts. Dress in layers with a light waterproof on top, comfortable shoes, and a compact umbrella tucked in your bag. If you\u2019re out, time a grocery run or library visit before the showers settle in; if you\u2019re staying put, make a pot of tea, clear a corner of the desk, and let the rain do the talking.",
-    "color_code": "#7a8793",
-    "timestamp": "2025-08-26 12:26:58",
+    "weather_report": "Late winter settles softly over Flinders Park this late afternoon, the sky a gentle sheet of pewter with only thin, pale light making it through. Sunshine is sparse and subdued; the UV is low now and falling toward negligible as day slips into evening. The air feels cool and a touch damp, the kind of gray that quiets edges and blurs the distance, leaving streets and gardens in a calm, reflective hush.\n\nLight rain is expected to drift in around dusk and linger into the night, more of a steady whisper than a downpour. Expect a mostly overcast, muted evening with poor clarity and only fleeting breaks in the clouds. A light waterproof over comfortable layers will suit the mood, with closed shoes and an umbrella for the wander home. This is weather for small, useful errands before the first spits arrive, a simple grocery run, a tram ride with fogged windows, or an unhurried loop through the neighborhood under a slow, silvery drizzle. Indoors, it\u2019s a good time for a simmering pot, a tidy of the week\u2019s paper pile, or a quiet chapter by the window while the rain writes its patient code on the glass.",
+    "color_code": "#708090",
+    "timestamp": "2025-08-26 16:31:24",
     "location": {
-        "name": "Adelaide",
-        "latitude": -34.92598445183306,
-        "longitude": 138.6033913773227,
+        "name": "Flinders Park",
+        "latitude": -34.91592802291058,
+        "longitude": 138.5371180728594,
         "timezone": "Australia/Perth"
     }
 }
