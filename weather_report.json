@@ -7,34 +7,34 @@
             "longitude": 138.5371180728594
         },
         "current_conditions": {
-            "timestamp": "2025-08-26T12:49:29+00:00",
-            "temperature_c": 13.19,
-            "temperature_f": 55.742,
+            "timestamp": "2025-08-26T16:27:26+00:00",
+            "temperature_c": 12.8,
+            "temperature_f": 55.04,
             "humidity": 71,
-            "wind_speed_mph": 23.018729999999998,
-            "wind_direction": 310,
-            "description": "few clouds"
+            "wind_speed_mph": 21.85549,
+            "wind_direction": 330,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-08-26T15:00:00+00:00",
-                "temperature": 13.05,
-                "windSpeed": 19.97641,
-                "windDirection": 300,
-                "shortForecast": "light rain"
-            },
-            {
                 "startTime": "2025-08-26T18:00:00+00:00",
-                "temperature": 11.98,
+                "temperature": 12.39,
                 "windSpeed": 21.67653,
                 "windDirection": 301,
                 "shortForecast": "light rain"
+            },
+            {
+                "startTime": "2025-08-26T21:00:00+00:00",
+                "temperature": 12.27,
+                "windSpeed": 16.978830000000002,
+                "windDirection": 257,
+                "shortForecast": "moderate rain"
             }
         ]
     },
-    "weather_report": "Night has settled over Flinders Park with a soft, pewter sky and the hush that comes before rain. The sun is long gone and with it any bite of UV; the index is effectively nil now. Clouds hold their ground, smudging the edges of the evening and lending the streets a dim, reflective sheen under the lamps. It\u2019s not a clear night, but it is a gentle one.\n\nLight rain is due to drift in after midnight and linger toward the small hours, more a persistent patter than a downpour. Expect a cool, slightly damp feel rather than anything fierce. Dress in easy layers with a light waterproof on top, closed shoes that won\u2019t mind a sprinkle, and keep an umbrella propped by the door. It\u2019s a night for unhurried errands and modest comforts: a short stroll between showers, picking up a few groceries you forgot, setting a simple supper to simmer, or tending to a small household task while the rain works its quiet rhythm outside.",
-    "color_code": "#3A4958",
-    "timestamp": "2025-08-26 20:49:30",
+    "weather_report": "Just after midnight in Flinders Park, the sky feels heavy and close, the sort of night when the air already tastes of wet pavement. Showers are expected to slip in toward the small hours and gather into a steadier rain near dawn, ushering in a pewter morning with little in the way of sunshine. UV exposure will be low early and only modest later if the cloud deck thins. Expect a soft-edged day rather than a crystalline one, with distances slightly smudged by passing rain and a lingering, reflective dampness.\n\nDress for patience: a waterproof outer layer, a hood or compact umbrella, shoes that don\u2019t mind puddles, and a warm middle layer for the winter chill. It\u2019s a good morning for quiet, ordinary rituals\u2014clearing a few emails before breakfast, giving the plants a careful drink indoors, or walking to the corner cafe between showers\u2014saving anything that needs bright light or dry ground for later if the sky relents.",
+    "color_code": "#2E4057",
+    "timestamp": "2025-08-27 00:27:27",
     "location": {
         "name": "Flinders Park",
         "latitude": -34.91592802291058,
