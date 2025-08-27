@@ -3,42 +3,42 @@
         "location": {
             "name": "Adelaide",
             "country": "AU",
-            "latitude": -34.92709451788848,
-            "longitude": 138.598707875614
+            "latitude": -34.92618803073193,
+            "longitude": 138.6033051276418
         },
         "current_conditions": {
-            "timestamp": "2025-08-27T01:40:00+00:00",
-            "temperature_c": 12.57,
-            "temperature_f": 54.626,
-            "humidity": 82,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 270,
-            "description": "broken clouds"
+            "timestamp": "2025-08-27T04:24:33+00:00",
+            "temperature_c": 14.07,
+            "temperature_f": 57.326,
+            "humidity": 57,
+            "wind_speed_mph": 24.1596,
+            "wind_direction": 260,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-08-27T03:00:00+00:00",
-                "temperature": 12.59,
-                "windSpeed": 16.12877,
-                "windDirection": 261,
+                "startTime": "2025-08-27T06:00:00+00:00",
+                "temperature": 14.54,
+                "windSpeed": 14.697090000000001,
+                "windDirection": 253,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-08-27T06:00:00+00:00",
-                "temperature": 13.74,
-                "windSpeed": 14.697090000000001,
-                "windDirection": 253,
+                "startTime": "2025-08-27T09:00:00+00:00",
+                "temperature": 12.78,
+                "windSpeed": 14.898420000000002,
+                "windDirection": 268,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Adelaide eases into the morning under a soft pewter sky, the light a little washed and the air on the cool side. The sun feels shy and stays mostly backstage, with only brief, pale glimmers likely before midday. For now it\u2019s dry and calm enough for a gentle start.\n\nBy early afternoon, light rain is expected to wander through and linger into mid-afternoon, keeping the day muted rather than bright. UV looks modest for late winter, tempered further by cloud, though a brief midday break could still warrant sunglasses for the glare. Think layered comfort: a long-sleeve under a light waterproof, closed shoes, and a small umbrella for the pockets. It\u2019s a day for simple, easy errands this morning, then a slow coffee by a window, a gallery visit, or a tidy of the desk while rain beads the glass. If you fancy a walk, take it before lunch, and enjoy the hush before the showers arrive.",
+    "weather_report": "Adelaide sits under a soft, pewter sky at midday, the sun reduced to a pale coin that peeks and retreats behind thickening cloud. The day feels hushed and cool, with clarity turned down a notch; edges blur, colors lean toward slate and eucalyptus. Light rain is expected to drift in through the afternoon and linger toward evening, so any brightness will be fleeting. UV will be on the low side for this time of year, kept in check by the cloud, making the light gentle rather than sharp.\n\nIt\u2019s a quietly pleasant day to begin with, sliding toward damp. Dress in layers with a light waterproof on top and shoes that don\u2019t mind wet pavements; tuck a small umbrella into your bag for later. If you\u2019ve errands or a short walk in the parklands or along the river, steal that time now, then let the rain nudge you indoors\u2014perhaps a slow browse at the market, a calm hour at a gallery, or the kind of desk task that pairs well with the sound of drops stippling the window.",
     "color_code": "#708090",
-    "timestamp": "2025-08-27 09:45:11",
+    "timestamp": "2025-08-27 12:26:51",
     "location": {
         "name": "Adelaide",
-        "latitude": -34.92709451788848,
-        "longitude": 138.598707875614,
+        "latitude": -34.92618803073193,
+        "longitude": 138.6033051276418,
         "timezone": "Australia/Perth"
     }
 }
