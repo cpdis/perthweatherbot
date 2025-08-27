@@ -3,42 +3,42 @@
         "location": {
             "name": "Adelaide",
             "country": "AU",
-            "latitude": -34.92618803073193,
-            "longitude": 138.6033051276418
+            "latitude": -34.92598425250441,
+            "longitude": 138.6033912303282
         },
         "current_conditions": {
-            "timestamp": "2025-08-27T04:24:33+00:00",
-            "temperature_c": 14.07,
-            "temperature_f": 57.326,
-            "humidity": 57,
-            "wind_speed_mph": 24.1596,
-            "wind_direction": 260,
-            "description": "few clouds"
+            "timestamp": "2025-08-27T08:29:26+00:00",
+            "temperature_c": 11.77,
+            "temperature_f": 53.186,
+            "humidity": 79,
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 290,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-08-27T06:00:00+00:00",
-                "temperature": 14.54,
-                "windSpeed": 14.697090000000001,
-                "windDirection": 253,
+                "startTime": "2025-08-27T09:00:00+00:00",
+                "temperature": 11.77,
+                "windSpeed": 14.00362,
+                "windDirection": 268,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-08-27T09:00:00+00:00",
-                "temperature": 12.78,
-                "windSpeed": 14.898420000000002,
-                "windDirection": 268,
+                "startTime": "2025-08-27T12:00:00+00:00",
+                "temperature": 11.9,
+                "windSpeed": 13.77992,
+                "windDirection": 270,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Adelaide sits under a soft, pewter sky at midday, the sun reduced to a pale coin that peeks and retreats behind thickening cloud. The day feels hushed and cool, with clarity turned down a notch; edges blur, colors lean toward slate and eucalyptus. Light rain is expected to drift in through the afternoon and linger toward evening, so any brightness will be fleeting. UV will be on the low side for this time of year, kept in check by the cloud, making the light gentle rather than sharp.\n\nIt\u2019s a quietly pleasant day to begin with, sliding toward damp. Dress in layers with a light waterproof on top and shoes that don\u2019t mind wet pavements; tuck a small umbrella into your bag for later. If you\u2019ve errands or a short walk in the parklands or along the river, steal that time now, then let the rain nudge you indoors\u2014perhaps a slow browse at the market, a calm hour at a gallery, or the kind of desk task that pairs well with the sound of drops stippling the window.",
-    "color_code": "#708090",
-    "timestamp": "2025-08-27 12:26:51",
+    "weather_report": "Adelaide eases into late afternoon under a softened, pewter sky. The light feels thinned, the air carrying the first suggestion of rain; forecasts call for light showers to drift in around dusk and wander through the evening. Sunshine will be scarce, more a pale rumor than a presence, and the UV sits low and sinking with the hour. The day looks muted and a little smudged at the edges, clear enough to see your way, not bright enough to squint.\n\nThis is a jacket day: a light waterproof over a warm layer, trousers, closed shoes that don\u2019t mind wet pavement, and a small umbrella tucked away. If you\u2019ve errands, take them now and let the tram do the work. A short stroll beneath verandas, a quiet ten minutes at the library before it shuts, then home to put a pot on the stove, sort the week\u2019s odds and ends, or line up tomorrow\u2019s lunch. Evening plans still work, but a hood and an unhurried pace will feel kind.",
+    "color_code": "#6E7F8D",
+    "timestamp": "2025-08-27 16:29:27",
     "location": {
         "name": "Adelaide",
-        "latitude": -34.92618803073193,
-        "longitude": 138.6033051276418,
+        "latitude": -34.92598425250441,
+        "longitude": 138.6033912303282,
         "timezone": "Australia/Perth"
     }
 }
