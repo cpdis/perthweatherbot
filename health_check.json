@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-26T20:24:22.924903",
+  "timestamp": "2025-08-27T01:45:10.624794",
   "overall_status": "healthy",
   "summary": {
     "total_checks": 5,
@@ -15,7 +15,7 @@
         "OpenWeather API key configured",
         "OpenAI API key configured",
         "ElevenLabs API key configured",
-        "Location: Flinders Park"
+        "Location: Adelaide"
       ]
     },
     {
@@ -42,7 +42,7 @@
     {
       "name": "OpenWeather API",
       "status": "healthy",
-      "response_time_ms": 299.469,
+      "response_time_ms": 257.786,
       "details": "HTTP 200"
     }
   ]
