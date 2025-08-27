@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Adelaide",
+            "name": "Netley",
             "country": "AU",
-            "latitude": -34.92598425250441,
-            "longitude": 138.6033912303282
+            "latitude": -34.93677604107963,
+            "longitude": 138.5381145267511
         },
         "current_conditions": {
-            "timestamp": "2025-08-27T08:29:26+00:00",
-            "temperature_c": 11.77,
-            "temperature_f": 53.186,
-            "humidity": 79,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 290,
-            "description": "broken clouds"
+            "timestamp": "2025-08-27T12:45:15+00:00",
+            "temperature_c": 11.79,
+            "temperature_f": 53.221999999999994,
+            "humidity": 82,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 300,
+            "description": "shower rain"
         },
         "forecast": [
             {
-                "startTime": "2025-08-27T09:00:00+00:00",
-                "temperature": 11.77,
-                "windSpeed": 14.00362,
-                "windDirection": 268,
+                "startTime": "2025-08-27T15:00:00+00:00",
+                "temperature": 12.07,
+                "windSpeed": 17.2249,
+                "windDirection": 278,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-08-27T12:00:00+00:00",
-                "temperature": 11.9,
-                "windSpeed": 13.77992,
-                "windDirection": 270,
+                "startTime": "2025-08-27T18:00:00+00:00",
+                "temperature": 11.85,
+                "windSpeed": 18.88028,
+                "windDirection": 287,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Adelaide eases into late afternoon under a softened, pewter sky. The light feels thinned, the air carrying the first suggestion of rain; forecasts call for light showers to drift in around dusk and wander through the evening. Sunshine will be scarce, more a pale rumor than a presence, and the UV sits low and sinking with the hour. The day looks muted and a little smudged at the edges, clear enough to see your way, not bright enough to squint.\n\nThis is a jacket day: a light waterproof over a warm layer, trousers, closed shoes that don\u2019t mind wet pavement, and a small umbrella tucked away. If you\u2019ve errands, take them now and let the tram do the work. A short stroll beneath verandas, a quiet ten minutes at the library before it shuts, then home to put a pot on the stove, sort the week\u2019s odds and ends, or line up tomorrow\u2019s lunch. Evening plans still work, but a hood and an unhurried pace will feel kind.",
-    "color_code": "#6E7F8D",
-    "timestamp": "2025-08-27 16:29:27",
+    "weather_report": "Evening has settled over Netley with the streets lacquered by earlier showers and the sky pressed down in a soft, pewter lid. The sun is long gone and with it any hint of UV bite; what remains is a calm, damp air that smells faintly of salt and leaf. Light rain has come in fits, giving the lamps a halo and blurring the edges of things. It\u2019s not a clear night so much as a muted one, the horizon rubbed with charcoal, the Solent murmuring somewhere beyond the veil.\n\nExpect the rest of the night to stay mostly cloudy with the chance of another light patter or two, more nuisance than drama. It\u2019s a pleasant sort of gloom if you\u2019re dressed for it: a light waterproof with a hood, easy layers, shoes that don\u2019t mind wet pavements. This is weather for unhurried errands and small satisfactions\u2014wipe down the bike, sort tomorrow\u2019s bag, take a short stroll between showers to hear the rain ticking on hedges, then drift home to finish that half-read article. The day wasn\u2019t built for sun or spectacle, but it carries its own quiet charm if you move with it rather than against it.",
+    "color_code": "#5C6D7A",
+    "timestamp": "2025-08-27 20:45:16",
     "location": {
-        "name": "Adelaide",
-        "latitude": -34.92598425250441,
-        "longitude": 138.6033912303282,
+        "name": "Netley",
+        "latitude": -34.93677604107963,
+        "longitude": 138.5381145267511,
         "timezone": "Australia/Perth"
     }
 }
