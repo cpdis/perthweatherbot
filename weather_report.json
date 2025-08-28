@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Belmont",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95130796364552,
-            "longitude": 115.9177479069979
+            "latitude": -31.9496788334883,
+            "longitude": 115.8206990348296
         },
         "current_conditions": {
-            "timestamp": "2025-08-28T08:29:13+00:00",
-            "temperature_c": 17.03,
-            "temperature_f": 62.654,
-            "humidity": 55,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 230,
-            "description": "few clouds"
+            "timestamp": "2025-08-28T12:44:56+00:00",
+            "temperature_c": 12.36,
+            "temperature_f": 54.248,
+            "humidity": 77,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 190,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-08-28T09:00:00+00:00",
-                "temperature": 17.03,
-                "windSpeed": 11.87847,
-                "windDirection": 194,
-                "shortForecast": "few clouds"
+                "startTime": "2025-08-28T15:00:00+00:00",
+                "temperature": 12.04,
+                "windSpeed": 6.88996,
+                "windDirection": 123,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-08-28T12:00:00+00:00",
-                "temperature": 15.81,
-                "windSpeed": 5.74909,
-                "windDirection": 148,
-                "shortForecast": "few clouds"
+                "startTime": "2025-08-28T18:00:00+00:00",
+                "temperature": 9.76,
+                "windSpeed": 7.98609,
+                "windDirection": 136,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Belmont eases into late afternoon under a mostly open sky, just a few clouds drifting like friendly afterthoughts. The light is generous but softening now, the sting of midday UV already ebbing; earlier would have been bright and rather strong, but at this hour the sun is mellow and the air looks clear and clean\u2014good sightlines, crisp edges, little haze. Expect the rest of the day to stay settled and fair, with gentle color deepening toward evening.\n\nDress for easy comfort: breathable layers, sunglasses still worth keeping on hand, and a hat or a dab of sunscreen if you\u2019ll linger outdoors before sunset. It\u2019s the kind of weather that flatters unhurried errands\u2014walk to pick up a loaf of bread, water the garden, or take a quiet loop around the block to stretch the workday out of your shoulders. If you\u2019ve a park bench within reach, bring a slim paperback and let the long shadows do their work.",
-    "color_code": "#F2C97D",
-    "timestamp": "2025-08-28 16:29:13",
+    "weather_report": "Subiaco settles under a clean, open sky tonight, the kind that makes streetlights look shy and the constellations well-spoken. Forecasts keep it cloudless through late evening and after midnight, so expect a crisp, high-clarity night with no haze to soften the edges. Sunshine is offstage for now and the UV index has fallen to nothing; if these clear conditions carry through, morning should arrive bright and unfiltered. It feels like the sort of late\u2011winter evening that asks for a light jacket or a soft jumper, perhaps a scarf if you plan to linger outdoors.\n\nWith the pavements dry and the air steady, it\u2019s a fine time for a quiet loop around the block, a quick walk to fetch milk, or a few minutes on the balcony letting the cool settle while you plan tomorrow. You might water the herbs, lay out your bag for the morning, or simply look up and count how many stars the night is willing to lend you.",
+    "color_code": "#0b2239",
+    "timestamp": "2025-08-28 20:44:56",
     "location": {
-        "name": "Belmont",
-        "latitude": -31.95130796364552,
-        "longitude": 115.9177479069979,
+        "name": "Subiaco",
+        "latitude": -31.9496788334883,
+        "longitude": 115.8206990348296,
         "timezone": "Australia/Perth"
     }
 }
