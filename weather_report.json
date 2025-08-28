@@ -7,34 +7,34 @@
             "longitude": 115.8207752241304
         },
         "current_conditions": {
-            "timestamp": "2025-08-28T01:44:34+00:00",
-            "temperature_c": 13.04,
-            "temperature_f": 55.471999999999994,
-            "humidity": 80,
-            "wind_speed_mph": 6.91233,
-            "wind_direction": 160,
-            "description": "clear sky"
+            "timestamp": "2025-08-28T04:26:20+00:00",
+            "temperature_c": 17.29,
+            "temperature_f": 63.122,
+            "humidity": 57,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 190,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-08-28T03:00:00+00:00",
-                "temperature": 13.04,
-                "windSpeed": 7.22551,
-                "windDirection": 175,
-                "shortForecast": "clear sky"
-            },
-            {
                 "startTime": "2025-08-28T06:00:00+00:00",
-                "temperature": 14.12,
+                "temperature": 16.95,
                 "windSpeed": 13.422,
                 "windDirection": 205,
-                "shortForecast": "clear sky"
+                "shortForecast": "scattered clouds"
+            },
+            {
+                "startTime": "2025-08-28T09:00:00+00:00",
+                "temperature": 15,
+                "windSpeed": 14.629980000000002,
+                "windDirection": 193,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Subiaco wakes to a clean, unblemished sky; the light has that gentle snap of clarity that makes colors honest and edges sharp. The sun is already confident and will stay that way, with the day brightening steadily and the air feeling open and uncomplicated. With so little cloud to soften it, expect the UV to build as the morning stretches on; even without heat, the rays will be punchy around the middle of the day, so a touch of sunscreen and a brimmed hat are wise companions.\n\nIt looks like a pleasantly straightforward day: sunny, dry, and good for moving at an easy pace. Dress in light layers you can peel back, breathable fabrics, sunglasses tucked in your pocket, and comfortable shoes for wandering. Take your coffee at a sidewalk table, then meander through the local shops or slip by the library to return a book. A late-morning stroll through a leafy street will be lovely; by early afternoon, find a patch of shade, tend a few errands, or water the balcony herbs and let the quiet brightness do its work.",
-    "color_code": "#87CEFA",
-    "timestamp": "2025-08-28 09:44:34",
+    "weather_report": "Midday drifts in under a dappled sky, the sun shouldering through scattered clouds with a soft, silvery light. The day looks clear enough for shadows to come and go, bright rather than blazing, with no strong hint of rain. Expect a mostly sunny feel tempered by those passing veils, the UV still meaningful when the sun breaks free, the horizon clean and untroubled.\n\nComfort calls for light layers: a breathable shirt, something to toss over your shoulders if a breeze sneaks in, sunglasses and a touch of sunscreen for the brighter spells. It\u2019s a day for ordinary pleasures\u2014walking to the shops, lingering over a coffee by a window, tending a small task in the garden, or reading a few chapters on a park bench while the light sifts in and out. If you\u2019ve errands to run, do them now while the afternoon keeps its gentle clarity.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-08-28 12:26:20",
     "location": {
         "name": "Subiaco",
         "latitude": -31.94968857029824,
