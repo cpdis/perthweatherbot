@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Belmont",
             "country": "AU",
-            "latitude": -31.94968857029824,
-            "longitude": 115.8207752241304
+            "latitude": -31.95130796364552,
+            "longitude": 115.9177479069979
         },
         "current_conditions": {
-            "timestamp": "2025-08-28T04:26:20+00:00",
-            "temperature_c": 17.29,
-            "temperature_f": 63.122,
-            "humidity": 57,
+            "timestamp": "2025-08-28T08:29:13+00:00",
+            "temperature_c": 17.03,
+            "temperature_f": 62.654,
+            "humidity": 55,
             "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 190,
-            "description": "scattered clouds"
+            "wind_direction": 230,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-08-28T06:00:00+00:00",
-                "temperature": 16.95,
-                "windSpeed": 13.422,
-                "windDirection": 205,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-08-28T09:00:00+00:00",
+                "temperature": 17.03,
+                "windSpeed": 11.87847,
+                "windDirection": 194,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-08-28T09:00:00+00:00",
-                "temperature": 15,
-                "windSpeed": 14.629980000000002,
-                "windDirection": 193,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-08-28T12:00:00+00:00",
+                "temperature": 15.81,
+                "windSpeed": 5.74909,
+                "windDirection": 148,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Midday drifts in under a dappled sky, the sun shouldering through scattered clouds with a soft, silvery light. The day looks clear enough for shadows to come and go, bright rather than blazing, with no strong hint of rain. Expect a mostly sunny feel tempered by those passing veils, the UV still meaningful when the sun breaks free, the horizon clean and untroubled.\n\nComfort calls for light layers: a breathable shirt, something to toss over your shoulders if a breeze sneaks in, sunglasses and a touch of sunscreen for the brighter spells. It\u2019s a day for ordinary pleasures\u2014walking to the shops, lingering over a coffee by a window, tending a small task in the garden, or reading a few chapters on a park bench while the light sifts in and out. If you\u2019ve errands to run, do them now while the afternoon keeps its gentle clarity.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-08-28 12:26:20",
+    "weather_report": "Belmont eases into late afternoon under a mostly open sky, just a few clouds drifting like friendly afterthoughts. The light is generous but softening now, the sting of midday UV already ebbing; earlier would have been bright and rather strong, but at this hour the sun is mellow and the air looks clear and clean\u2014good sightlines, crisp edges, little haze. Expect the rest of the day to stay settled and fair, with gentle color deepening toward evening.\n\nDress for easy comfort: breathable layers, sunglasses still worth keeping on hand, and a hat or a dab of sunscreen if you\u2019ll linger outdoors before sunset. It\u2019s the kind of weather that flatters unhurried errands\u2014walk to pick up a loaf of bread, water the garden, or take a quiet loop around the block to stretch the workday out of your shoulders. If you\u2019ve a park bench within reach, bring a slim paperback and let the long shadows do their work.",
+    "color_code": "#F2C97D",
+    "timestamp": "2025-08-28 16:29:13",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968857029824,
-        "longitude": 115.8207752241304,
+        "name": "Belmont",
+        "latitude": -31.95130796364552,
+        "longitude": 115.9177479069979,
         "timezone": "Australia/Perth"
     }
 }
