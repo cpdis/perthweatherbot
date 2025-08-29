@@ -7,34 +7,34 @@
             "longitude": 115.820775775922
         },
         "current_conditions": {
-            "timestamp": "2025-08-29T12:44:02+00:00",
-            "temperature_c": 11.98,
-            "temperature_f": 53.564,
-            "humidity": 81,
-            "wind_speed_mph": 4.60822,
-            "wind_direction": 80,
-            "description": "clear sky"
+            "timestamp": "2025-08-29T16:27:01+00:00",
+            "temperature_c": 10.23,
+            "temperature_f": 50.414,
+            "humidity": 79,
+            "wind_speed_mph": 6.15175,
+            "wind_direction": 109,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-08-29T15:00:00+00:00",
-                "temperature": 11.84,
-                "windSpeed": 5.570130000000001,
-                "windDirection": 107,
-                "shortForecast": "scattered clouds"
-            },
-            {
                 "startTime": "2025-08-29T18:00:00+00:00",
-                "temperature": 10.11,
+                "temperature": 9.92,
                 "windSpeed": 7.13603,
                 "windDirection": 93,
+                "shortForecast": "broken clouds"
+            },
+            {
+                "startTime": "2025-08-29T21:00:00+00:00",
+                "temperature": 7.4,
+                "windSpeed": 9.41777,
+                "windDirection": 75,
                 "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Evening settles over Subiaco with a broken quilt of cloud, the kind that lets a few brave stars cut through. The forecast keeps it simple: scattered clouds through late evening into the small hours, no blazing sun to speak of now and a UV index essentially asleep. The air should feel clear enough between the drifting patches, with a gentle, muted glow where the moon finds its windows. It\u2019s a quiet, uncomplicated night, not threatening, not showy, just calm.\n\nDress for an easy after-dinner wander: a light jacket or soft knit over comfortable layers, something you can push up at the sleeves when the breeze stills. This is a good hour to walk the block, unhurried, or to sit on the veranda with a cup of tea and a book you don\u2019t mind drifting in and out of. Windows can be cracked for fresh air while you tidy the kitchen, water the herbs, or finally write that short note you\u2019ve been meaning to send. Let the night breathe, and keep plans simple; the sky, with its scattered veils, is doing the same.",
-    "color_code": "#2C3E50",
-    "timestamp": "2025-08-29 20:44:03",
+    "weather_report": "Just past midnight in Subiaco, the sky is a patchwork\u2014broken cloud drifting like torn linen, then parting now and then to let a cool moonlight breathe across the quiet streets. It feels calm and a touch brisk, the kind of night that asks for a light layer and unhurried steps. Through the small hours the cover should thin toward scattered cloud, leaving the early morning softer and a little clearer.\n\nBy daylight, expect a gentle, filtered brightness rather than a full-bore blue\u2014sun pressing through veils of cloud with modest warmth. The UV is negligible overnight, then low in the morning, likely edging to a mild midday sting typical of late winter; not fierce, but worth a hat and a faint brush of sunscreen if you linger outside. Dress in layers: a soft jumper or light jacket for dawn, something you can peel back if the sun gains confidence. It looks like a pleasant, low-drama day\u2014good for a quiet walk to the park when the birds get chatty, watering the balcony plants, or a lingering coffee by a window while the light improves. If you\u2019re up late, make tea and let the night taper; if you\u2019re up early, a short errand loop or a gentle ride will feel clean and easy under a sky that\u2019s finding its clarity.",
+    "color_code": "#132235",
+    "timestamp": "2025-08-30 00:27:01",
     "location": {
         "name": "Subiaco",
         "latitude": -31.94968800462573,
