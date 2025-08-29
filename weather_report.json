@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94968800462573,
-            "longitude": 115.820775775922
+            "latitude": -31.94971196715307,
+            "longitude": 115.8207995202641
         },
         "current_conditions": {
-            "timestamp": "2025-08-29T04:26:40+00:00",
-            "temperature_c": 17.86,
-            "temperature_f": 64.148,
-            "humidity": 50,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 100,
+            "timestamp": "2025-08-29T08:28:57+00:00",
+            "temperature_c": 18.83,
+            "temperature_f": 65.89399999999999,
+            "humidity": 53,
+            "wind_speed_mph": 6.91233,
+            "wind_direction": 130,
             "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-08-29T06:00:00+00:00",
-                "temperature": 17.95,
-                "windSpeed": 3.89238,
-                "windDirection": 118,
+                "startTime": "2025-08-29T09:00:00+00:00",
+                "temperature": 18.83,
+                "windSpeed": 4.65296,
+                "windDirection": 132,
                 "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-08-29T09:00:00+00:00",
-                "temperature": 17.73,
-                "windSpeed": 4.138450000000001,
-                "windDirection": 124,
-                "shortForecast": "clear sky"
+                "startTime": "2025-08-29T12:00:00+00:00",
+                "temperature": 17.27,
+                "windSpeed": 7.717650000000001,
+                "windDirection": 151,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Subiaco slides into the early afternoon under a gentle, late\u2011winter sun. The sky is mostly open now with only a few stray clouds on the horizon, brightening further toward late day and promising a clean, high-contrast light that makes colors pop and shadows sharpen. It will feel pleasantly mild in the sun and cooler in the shade. UV is seasonally moderate around midday \u2014 enough to warrant sunglasses, a hat, and a dab of sunscreen \u2014 then eases as the afternoon stretches on. The day reads as clear and settled rather than blustery or brooding, the kind of blue that invites unhurried errands and unshowy plans.\n\nLean toward light layers: a soft shirt with a cardigan or light jacket you can shrug off, comfortable shoes, and sunnies in your pocket. Consider small, satisfying tasks: hang a wash to drink in the sun, walk to a quiet caf\u00e9 for a late bite, browse a bookshop, or give the garden a quick tidy before the light mellows. If you have a commute or school run, it should be a bright one; by late afternoon the sky looks set to turn glass-clear and golden at the edges, a good time for a short loop around the block to reset the mind.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-08-29 12:26:40",
+    "weather_report": "Subiaco drifts into late afternoon under a mostly open sky, a few polite clouds sailing by as the light turns honeyed and forgiving. The sun still has a little brightness to it, but the edge has gone; UV is gentle now and sliding toward negligible as evening approaches. The air feels clean and settled, giving the streets a clear, well-defined look, the kind that makes brick and eucalyptus read a shade truer. Expect the rest of the day to stay fair and calm, clouds scattered like punctuation rather than plot.\n\nIt\u2019s pleasant in that unhurried, end-of-day way: warm enough for a stroll in shirtsleeves if you\u2019re moving, better with a light layer once you slow down. Sunglasses for the last glare, a cardigan for the first hint of cool. This is a good time to walk to the shops, water the pots, or sit in a courtyard and finish the thing you started earlier\u2014a chapter, a list, a letter\u2014while the light thins and the neighborhood settles.",
+    "color_code": "#F3C97A",
+    "timestamp": "2025-08-29 16:28:57",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94968800462573,
-        "longitude": 115.820775775922,
+        "latitude": -31.94971196715307,
+        "longitude": 115.8207995202641,
         "timezone": "Australia/Perth"
     }
 }
