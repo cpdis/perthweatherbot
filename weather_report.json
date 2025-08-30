@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Bentley",
             "country": "AU",
-            "latitude": -31.94968800462573,
-            "longitude": 115.820775775922
+            "latitude": -32.01325109548556,
+            "longitude": 115.9026371128864
         },
         "current_conditions": {
-            "timestamp": "2025-08-30T04:24:43+00:00",
-            "temperature_c": 18.65,
-            "temperature_f": 65.57,
-            "humidity": 45,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 40,
+            "timestamp": "2025-08-30T08:25:35+00:00",
+            "temperature_c": 19.03,
+            "temperature_f": 66.254,
+            "humidity": 50,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 240,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-08-30T06:00:00+00:00",
-                "temperature": 18.79,
-                "windSpeed": 2.97521,
-                "windDirection": 35,
+                "startTime": "2025-08-30T09:00:00+00:00",
+                "temperature": 19.03,
+                "windSpeed": 3.37787,
+                "windDirection": 209,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-08-30T09:00:00+00:00",
-                "temperature": 18.1,
-                "windSpeed": 6.0399,
-                "windDirection": 199,
+                "startTime": "2025-08-30T12:00:00+00:00",
+                "temperature": 16.96,
+                "windSpeed": 5.86094,
+                "windDirection": 141,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco eases into early afternoon under an open, polished sky, the kind that makes edges sharper and colors a shade braver. Forecasts keep the canvas clear through the afternoon and toward evening, so expect plenty of bright sun, crisp visibility, and a gentle cool lingering in the shade. UV sits in the moderate band for the next hour or two before softening, so sunglasses and a dab of sunscreen pair well with light layers\u2014a breathable shirt, a cardigan you can shrug off, perhaps a hat if you\u2019ll linger. It\u2019s a pleasant day for unhurried errands on foot, for airing the linen on the line, for a quiet lap through Kings Park or a coffee taken outdoors while the light stays honest and untroubled. As the sun drifts west, the heat won\u2019t press; the air will stay polite. Windows open, kettle on, maybe a small project at the table as the afternoon unspools.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-08-30 12:24:44",
+    "weather_report": "Bentley has spent the day under a clean, untroubled sky, and by late afternoon the light has softened from bright white to warm honey. It has been decidedly sunny, the sort of day where the UV would have bitten at midday, and while the edge has eased now, sunglasses and a touch of shade still feel sensible. The air reads as uncomplicated and clear, with distant details standing up crisply on the horizon. Expect the evening to stay fair and unclouded, the kind of simple weather that makes everything feel freshly washed. Dress in light layers; if you\u2019ll linger outdoors toward dusk, a thin long sleeve keeps the last rays polite. This is good weather for mundane pleasures: a slow walk to post a letter, watering the garden, hanging laundry, opening the windows to let the house breathe, or a small errand done on foot.",
+    "color_code": "#F4C86A",
+    "timestamp": "2025-08-30 16:25:36",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968800462573,
-        "longitude": 115.820775775922,
+        "name": "Bentley",
+        "latitude": -32.01325109548556,
+        "longitude": 115.9026371128864,
         "timezone": "Australia/Perth"
     }
 }
