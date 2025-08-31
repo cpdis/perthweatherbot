@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Floreat",
             "country": "AU",
-            "latitude": -31.94968800462573,
-            "longitude": 115.820775775922
+            "latitude": -31.94813702250054,
+            "longitude": 115.7829330207881
         },
         "current_conditions": {
-            "timestamp": "2025-08-30T20:21:29+00:00",
-            "temperature_c": 7.96,
-            "temperature_f": 46.328,
-            "humidity": 81,
+            "timestamp": "2025-08-31T01:49:25+00:00",
+            "temperature_c": 15.93,
+            "temperature_f": 60.674,
+            "humidity": 57,
             "wind_speed_mph": 6.91233,
-            "wind_direction": 70,
+            "wind_direction": 20,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-08-30T21:00:00+00:00",
-                "temperature": 7.96,
-                "windSpeed": 6.174119999999999,
-                "windDirection": 74,
+                "startTime": "2025-08-31T03:00:00+00:00",
+                "temperature": 15.93,
+                "windSpeed": 5.61487,
+                "windDirection": 10,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-08-31T00:00:00+00:00",
-                "temperature": 8.88,
-                "windSpeed": 6.08464,
-                "windDirection": 63,
+                "startTime": "2025-08-31T06:00:00+00:00",
+                "temperature": 17.23,
+                "windSpeed": 7.13603,
+                "windDirection": 269,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a clear, predawn sky, the streets hushed and clean as if freshly ironed. The air feels crisp on the skin, and the horizon is beginning to pale; a promise that the day will open bright. With no clouds in the way, the sun should take quick command once it rises, lending a hard, silvery clarity to everything. UV will start low at first light and build steadily under full sunshine, likely reaching at least moderate by late morning, so plan for shade and sunscreen as the day matures.\n\nIt looks like a pleasant day in the making: cool enough early for a light jumper, easy to shed to a shirt once the sun gets to work. A short, quiet walk to greet the first birds, then a coffee by a window suits the hour; later, simple errands by bike, a tidy-up in the garden, or reading on a balcony where the light is kind but not direct. Sunglasses in the bag, a hat after breakfast, and you\u2019ll be set to enjoy the clean, unbothered blue overhead.",
-    "color_code": "#0b1e3b",
-    "timestamp": "2025-08-31 04:21:30",
+    "weather_report": "Floreat wakes under a rinsed-blue sky, the morning sun already smoothing the cool edge from the air. Light is clean and honest, the kind that sharpens greens and throws crisp shadows across verandas; visibility feels almost crystalline, no haze to speak of.\n\nThe day holds steady and simple: clear skies through late morning and into the afternoon, plenty of sunshine. UV is mild now but will rise to a moderate bite around midday, so carry a hat and sunglasses, and give your skin a little armor. Dress in light layers you can peel back as the warmth gathers. It\u2019s the sort of pleasant, uncomplicated day made for ordinary pleasures\u2014an amble through Bold Park, a slow coffee by a window, pegging out laundry, a quick ride to the shops, or a tidy in the garden while the light does its gentle work. Open the house to the breeze, keep some water at hand, and let the afternoon unfold without hurry.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-08-31 09:49:25",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968800462573,
-        "longitude": 115.820775775922,
+        "name": "Floreat",
+        "latitude": -31.94813702250054,
+        "longitude": 115.7829330207881,
         "timezone": "Australia/Perth"
     }
 }

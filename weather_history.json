@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-08-23 20:41:19",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968857029824,
-      "longitude": 115.8207752241304,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-23T12:41:19+00:00",
-      "temperature_c": 14.58,
-      "temperature_f": 58.244,
-      "humidity": 82,
-      "wind_speed_mph": 0.0,
-      "wind_direction": 0,
-      "description": "broken clouds"
-    },
-    "report_summary": "Night has folded over Subiaco and the sky has the soft, pewter look that swallows stars; the air car...",
-    "color_code": "#2C3E50"
-  },
-  {
-    "timestamp": "2025-08-24 00:24:09",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968857029824,
-      "longitude": 115.8207752241304,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-23T16:24:08+00:00",
-      "temperature_c": 12.66,
-      "temperature_f": 54.788,
-      "humidity": 85,
-      "wind_speed_mph": 4.60822,
-      "wind_direction": 10,
-      "description": "light intensity drizzle"
-    },
-    "report_summary": "Subiaco settles under a damp midnight sky, the air cool and smelling faintly of wet pavement. Light ...",
-    "color_code": "#2F3E4E"
-  },
-  {
     "timestamp": "2025-08-24 04:22:08",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Subiaco wakes under a clear, predawn sky, the streets hushed and clean as if freshly ironed. The air...",
     "color_code": "#0b1e3b"
+  },
+  {
+    "timestamp": "2025-08-31 09:49:25",
+    "location": {
+      "name": "Floreat",
+      "latitude": -31.94813702250054,
+      "longitude": 115.7829330207881,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-08-31T01:49:25+00:00",
+      "temperature_c": 15.93,
+      "temperature_f": 60.674,
+      "humidity": 57,
+      "wind_speed_mph": 6.91233,
+      "wind_direction": 20,
+      "description": "clear sky"
+    },
+    "report_summary": "Floreat wakes under a rinsed-blue sky, the morning sun already smoothing the cool edge from the air....",
+    "color_code": "#87CEEB"
   }
 ]
