@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Floreat",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94813702250054,
-            "longitude": 115.7829330207881
+            "latitude": -31.9496824872095,
+            "longitude": 115.8206569346043
         },
         "current_conditions": {
-            "timestamp": "2025-08-31T01:49:25+00:00",
-            "temperature_c": 15.93,
-            "temperature_f": 60.674,
-            "humidity": 57,
-            "wind_speed_mph": 6.91233,
-            "wind_direction": 20,
+            "timestamp": "2025-08-31T04:25:04+00:00",
+            "temperature_c": 19.12,
+            "temperature_f": 66.416,
+            "humidity": 42,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 10,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-08-31T03:00:00+00:00",
-                "temperature": 15.93,
-                "windSpeed": 5.61487,
-                "windDirection": 10,
+                "startTime": "2025-08-31T06:00:00+00:00",
+                "temperature": 19.6,
+                "windSpeed": 6.509670000000001,
+                "windDirection": 274,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-08-31T06:00:00+00:00",
-                "temperature": 17.23,
-                "windSpeed": 7.13603,
-                "windDirection": 269,
+                "startTime": "2025-08-31T09:00:00+00:00",
+                "temperature": 18.46,
+                "windSpeed": 7.628170000000001,
+                "windDirection": 220,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Floreat wakes under a rinsed-blue sky, the morning sun already smoothing the cool edge from the air. Light is clean and honest, the kind that sharpens greens and throws crisp shadows across verandas; visibility feels almost crystalline, no haze to speak of.\n\nThe day holds steady and simple: clear skies through late morning and into the afternoon, plenty of sunshine. UV is mild now but will rise to a moderate bite around midday, so carry a hat and sunglasses, and give your skin a little armor. Dress in light layers you can peel back as the warmth gathers. It\u2019s the sort of pleasant, uncomplicated day made for ordinary pleasures\u2014an amble through Bold Park, a slow coffee by a window, pegging out laundry, a quick ride to the shops, or a tidy in the garden while the light does its gentle work. Open the house to the breeze, keep some water at hand, and let the afternoon unfold without hurry.",
+    "weather_report": "Subiaco steps into the early afternoon under an unblemished blue, the sort of clean, hard light that sharpens edges and makes colors ring true. The forecast holds that clarity through the rest of the day, with the sun staying assertive and the sky largely free of interruption. Expect a bright, very sunny stretch; the UV index will be on the high side through midafternoon before easing as the day tilts toward evening. It should feel warm in the sun and gentler wherever there\u2019s a patch of shade, a day that flatters simple plans.\n\nLean into light, breathable layers, a brimmed hat, sunglasses, and a confident sweep of sunscreen; bring water and take the shady side of the street. A quiet lunch on a verandah suits the moment, or a meander to the shops and back while the sky is still wide open. Save an unhurried loop through a nearby park or a small errand on the bike for late afternoon when the light softens and the heat loosens its grip; if you\u2019d rather linger indoors, a gallery or library visit makes easy company for such a crystalline day.",
     "color_code": "#87CEEB",
-    "timestamp": "2025-08-31 09:49:25",
+    "timestamp": "2025-08-31 12:25:05",
     "location": {
-        "name": "Floreat",
-        "latitude": -31.94813702250054,
-        "longitude": 115.7829330207881,
+        "name": "Subiaco",
+        "latitude": -31.9496824872095,
+        "longitude": 115.8206569346043,
         "timezone": "Australia/Perth"
     }
 }
