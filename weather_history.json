@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-08-25 09:52:13",
-    "location": {
-      "name": "Adelaide",
-      "latitude": -34.92600044127433,
-      "longitude": 138.6033417561314,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-25T01:51:06+00:00",
-      "temperature_c": 18.39,
-      "temperature_f": 65.102,
-      "humidity": 46,
-      "wind_speed_mph": 13.802290000000001,
-      "wind_direction": 40,
-      "description": "light rain"
-    },
-    "report_summary": "Adelaide wakes to a crisp, lucid morning, the kind that makes edges look sharper and colors a shade ...",
-    "color_code": "#9BC7ED"
-  },
-  {
-    "timestamp": "2025-08-25 12:29:56",
-    "location": {
-      "name": "Adelaide",
-      "latitude": -34.925991938089,
-      "longitude": 138.6033655962233,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-25T04:29:56+00:00",
-      "temperature_c": 19.15,
-      "temperature_f": 66.47,
-      "humidity": 39,
-      "wind_speed_mph": 18.410510000000002,
-      "wind_direction": 40,
-      "description": "light rain"
-    },
-    "report_summary": "Adelaide moves through a silvery midday, the sun slipping in and out of scattered cloud so the stree...",
-    "color_code": "#7A8896"
-  },
-  {
     "timestamp": "2025-08-25 16:32:17",
     "location": {
       "name": "Adelaide",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Perth leans into late afternoon under a spotless sky, the light turning honeyed and long. The day ha...",
     "color_code": "#F2C879"
+  },
+  {
+    "timestamp": "2025-09-01 20:47:40",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969409194596,
+      "longitude": 115.8206776231053,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-01T12:47:39+00:00",
+      "temperature_c": 14.08,
+      "temperature_f": 57.344,
+      "humidity": 78,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 200,
+      "description": "few clouds"
+    },
+    "report_summary": "Subiaco settles into a serene night: the last smudges of afternoon cloud gave way to a clean, transp...",
+    "color_code": "#0b1d3a"
   }
 ]
