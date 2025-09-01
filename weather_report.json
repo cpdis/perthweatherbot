@@ -3,42 +3,42 @@
         "location": {
             "name": "Perth",
             "country": "AU",
-            "latitude": -31.95348873432991,
-            "longitude": 115.8502917081907
+            "latitude": -31.95444930410785,
+            "longitude": 115.8525713586301
         },
         "current_conditions": {
-            "timestamp": "2025-09-01T04:30:56+00:00",
-            "temperature_c": 19.56,
-            "temperature_f": 67.208,
+            "timestamp": "2025-09-01T08:31:27+00:00",
+            "temperature_c": 19.35,
+            "temperature_f": 66.83,
             "humidity": 50,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 250,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 260,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-01T06:00:00+00:00",
-                "temperature": 19.58,
-                "windSpeed": 8.366380000000001,
-                "windDirection": 242,
+                "startTime": "2025-09-01T09:00:00+00:00",
+                "temperature": 19.35,
+                "windSpeed": 8.187420000000001,
+                "windDirection": 238,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-09-01T09:00:00+00:00",
-                "temperature": 19.25,
-                "windSpeed": 7.6058,
-                "windDirection": 235,
+                "startTime": "2025-09-01T12:00:00+00:00",
+                "temperature": 17.85,
+                "windSpeed": 5.480650000000001,
+                "windDirection": 194,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Perth leans into the first day of spring under a polished, cloudless sky. By early afternoon the sun is frank and unwavering, shadows crisp, the air clear enough to see the day\u2019s edges; UV will be punchy for a few hours yet before easing toward late afternoon as the light turns honeyed. The forecast stays resolutely clear through the rest of the day, promising brightness without the bother of cloud or haze, the kind of weather that makes small tasks feel easy and time feel unhurried.\n\nDress for light: breathable layers, sunglasses, a hat, sunscreen, and a bottle of water for good measure. A shaded lunch outside, a quiet lap along the river path, hanging the washing to drink in the dry air, or a brief museum stop while the sun is at its fiercest, then a gentle errand or stroll as the heat slips from the pavement would suit the mood beautifully.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-09-01 12:30:57",
+    "weather_report": "Perth leans into late afternoon under a spotless sky, the light turning honeyed and long. The day has been unblemished and bright, the kind that sharpens every edge and throws crisp shadows; UV would have bitten earlier, as spring begins to flex, but now it softens by the minute and settles toward gentle. Expect the evening to stay clear and serene, a clean blue sliding quietly to indigo after sunset, with visibility so true you can read the horizon.\n\nDress for ease: airy layers for the last warmth, sunglasses for the low glare, and a light jumper slipped over your shoulders once the sun drops. It\u2019s pleasant rather than fierce now, good for small errands on foot, airing the house, giving the balcony plants a drink, or finding a bench to sit with a paperback while the city exhales. As darkness gathers, an outdoor table suits an unhurried meal, and later the stars should arrive like precise pinpricks over a calm night.",
+    "color_code": "#F2C879",
+    "timestamp": "2025-09-01 16:31:28",
     "location": {
         "name": "Perth",
-        "latitude": -31.95348873432991,
-        "longitude": 115.8502917081907,
+        "latitude": -31.95444930410785,
+        "longitude": 115.8525713586301,
         "timezone": "Australia/Perth"
     }
 }
