@@ -7,34 +7,34 @@
             "longitude": 115.8206776231053
         },
         "current_conditions": {
-            "timestamp": "2025-09-01T12:47:39+00:00",
-            "temperature_c": 14.08,
-            "temperature_f": 57.344,
-            "humidity": 78,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 200,
-            "description": "few clouds"
+            "timestamp": "2025-09-01T16:26:14+00:00",
+            "temperature_c": 11.72,
+            "temperature_f": 53.096000000000004,
+            "humidity": 83,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-01T15:00:00+00:00",
-                "temperature": 13.32,
-                "windSpeed": 4.16082,
-                "windDirection": 160,
-                "shortForecast": "few clouds"
-            },
-            {
                 "startTime": "2025-09-01T18:00:00+00:00",
-                "temperature": 10.33,
+                "temperature": 10.88,
                 "windSpeed": 4.093710000000001,
                 "windDirection": 71,
+                "shortForecast": "clear sky"
+            },
+            {
+                "startTime": "2025-09-01T21:00:00+00:00",
+                "temperature": 9.43,
+                "windSpeed": 5.122730000000001,
+                "windDirection": 57,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a serene night: the last smudges of afternoon cloud gave way to a clean, transparent sky, and the air now feels calm and gently cooling. Sunshine was generous earlier, with a lively UV bite through midafternoon, but the UV is negligible now; the clarity tonight is striking, the kind that makes distant lights look a touch nearer. It\u2019s the sort of evening that asks for unhurried breaths and unforced plans.\n\nExpect the night to remain clear and quiet, pleasant rather than chilly, with a slow drift toward cooler hours. Light layers are sensible\u2014something you can shrug on and off without thinking: a soft shirt, a cardigan in your bag. This is good weather for a small errand after dinner, a short amble around the block, watering the plants on the balcony, or folding the day\u2019s laundry by an open window while the crickets keep time. If you\u2019re staying in, crack a window, make a cup of tea, and read a few pages before the week resumes its steady rhythm.",
-    "color_code": "#0b1d3a",
-    "timestamp": "2025-09-01 20:47:40",
+    "weather_report": "Subiaco settles into the small hours under a clean, quiet sky, the kind of clear darkness that sharpens the silhouettes of rooftops and trees. The forecast keeps faith with this clarity through dawn, and the day ahead looks bright and well-defined, a sky polished to a shine. Expect a generous, unfiltered sun once it rises; the UV will ramp up quickly by late morning, so the light will feel strong and honest rather than harsh, lending everything a crisp edge.\n\nDress for the cool start and the warming glide into daytime: light layers you can shed, breathable fabrics, and a hat or sunglasses tucked in your bag, with sunscreen as your quiet companion. It\u2019s a good morning for a short walk to the bakery or a lazy coffee on the verandah, windows open to let the air move through. As the sun gathers, run a few errands on foot, water the garden, hang a wash that will dry without fuss, or steal an hour with a book in a patch of shade. Evening should return to calm and glassy, perfect for a gentle stroll after dinner if you\u2019re inclined.",
+    "color_code": "#0a1e3f",
+    "timestamp": "2025-09-02 00:26:15",
     "location": {
         "name": "Subiaco",
         "latitude": -31.94969409194596,
