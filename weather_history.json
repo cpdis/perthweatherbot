@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-08-25 04:23:02",
-    "location": {
-      "name": "Perth Airport",
-      "latitude": -31.93320316948709,
-      "longitude": 115.9613863591781,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-24T20:23:02+00:00",
-      "temperature_c": 10.06,
-      "temperature_f": 50.108000000000004,
-      "humidity": 76,
-      "wind_speed_mph": 20.71462,
-      "wind_direction": 240,
-      "description": "light rain"
-    },
-    "report_summary": "Before dawn at Perth Airport the rain has set a quiet rhythm, beading on windows and turning the tar...",
-    "color_code": "#6C7A89"
-  },
-  {
     "timestamp": "2025-08-25 09:52:13",
     "location": {
       "name": "Adelaide",
@@ -878,5 +858,25 @@
     },
     "report_summary": "West Perth steps into the late morning under a clean, enamel-blue sky, the sun already sure of itsel...",
     "color_code": "#87CEFA"
+  },
+  {
+    "timestamp": "2025-09-01 12:30:57",
+    "location": {
+      "name": "Perth",
+      "latitude": -31.95348873432991,
+      "longitude": 115.8502917081907,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-01T04:30:56+00:00",
+      "temperature_c": 19.56,
+      "temperature_f": 67.208,
+      "humidity": 50,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 250,
+      "description": "clear sky"
+    },
+    "report_summary": "Perth leans into the first day of spring under a polished, cloudless sky. By early afternoon the sun...",
+    "color_code": "#87CEEB"
   }
 ]
