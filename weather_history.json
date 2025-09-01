@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-08-24 20:41:35",
-    "location": {
-      "name": "Perth Airport",
-      "latitude": -31.93320316948709,
-      "longitude": 115.9613863591781,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-24T12:41:34+00:00",
-      "temperature_c": 10.66,
-      "temperature_f": 51.188,
-      "humidity": 82,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 220,
-      "description": "light intensity shower rain"
-    },
-    "report_summary": "Perth Airport slips into a cool, damp evening, the last light long gone and the runway lamps wearing...",
-    "color_code": "#2A3B4D"
-  },
-  {
-    "timestamp": "2025-08-25 00:25:40",
-    "location": {
-      "name": "Perth Airport",
-      "latitude": -31.93320316948709,
-      "longitude": 115.9613863591781,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-24T16:25:39+00:00",
-      "temperature_c": 9.09,
-      "temperature_f": 48.362,
-      "humidity": 80,
-      "wind_speed_mph": 18.410510000000002,
-      "wind_direction": 290,
-      "description": "light intensity shower rain"
-    },
-    "report_summary": "Perth Airport sits under a low, unbroken ceiling just past midnight, runway lights haloed and the ai...",
-    "color_code": "#3E4C5A"
-  },
-  {
     "timestamp": "2025-08-25 04:23:02",
     "location": {
       "name": "Perth Airport",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Subiaco wakes under a quiet, cloudless pre-dawn, the air a touch crisp and clean enough to hear your...",
     "color_code": "#1C3D83"
+  },
+  {
+    "timestamp": "2025-09-01 09:59:17",
+    "location": {
+      "name": "West Perth",
+      "latitude": -31.95160864865027,
+      "longitude": 115.8434583345707,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-01T01:59:17+00:00",
+      "temperature_c": 16.65,
+      "temperature_f": 61.97,
+      "humidity": 54,
+      "wind_speed_mph": 4.60822,
+      "wind_direction": 10,
+      "description": "clear sky"
+    },
+    "report_summary": "West Perth steps into the late morning under a clean, enamel-blue sky, the sun already sure of itsel...",
+    "color_code": "#87CEFA"
   }
 ]
