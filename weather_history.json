@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-08-26 16:31:24",
-    "location": {
-      "name": "Flinders Park",
-      "latitude": -34.91592802291058,
-      "longitude": 138.5371180728594,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-26T08:31:23+00:00",
-      "temperature_c": 14.23,
-      "temperature_f": 57.614,
-      "humidity": 74,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 250,
-      "description": "broken clouds"
-    },
-    "report_summary": "Late winter settles softly over Flinders Park this late afternoon, the sky a gentle sheet of pewter ...",
-    "color_code": "#708090"
-  },
-  {
     "timestamp": "2025-08-26 20:49:30",
     "location": {
       "name": "Flinders Park",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Just after midnight in Subiaco, the sky feels rinsed and quiet, the kind of clear that makes the few...",
     "color_code": "#0b1a3a"
+  },
+  {
+    "timestamp": "2025-09-03 04:21:38",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968800462573,
+      "longitude": 115.820775775922,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-02T20:21:37+00:00",
+      "temperature_c": 9.66,
+      "temperature_f": 49.388,
+      "humidity": 82,
+      "wind_speed_mph": 5.18984,
+      "wind_direction": 110,
+      "description": "few clouds"
+    },
+    "report_summary": "Subiaco wakes in a hush, the sky a deepening blue with just a few thin clouds drifting like thoughts...",
+    "color_code": "#3B587A"
   }
 ]
