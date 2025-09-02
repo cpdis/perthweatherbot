@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94969409194596,
-            "longitude": 115.8206776231053
+            "latitude": -31.95075914030032,
+            "longitude": 115.8236991270837
         },
         "current_conditions": {
-            "timestamp": "2025-09-01T20:22:20+00:00",
-            "temperature_c": 10.55,
-            "temperature_f": 50.99,
-            "humidity": 83,
-            "wind_speed_mph": 4.60822,
-            "wind_direction": 360,
-            "description": "scattered clouds"
+            "timestamp": "2025-09-02T01:46:11+00:00",
+            "temperature_c": 16.93,
+            "temperature_f": 62.474000000000004,
+            "humidity": 73,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 50,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-09-01T21:00:00+00:00",
-                "temperature": 10.55,
-                "windSpeed": 4.27267,
-                "windDirection": 66,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-09-02T03:00:00+00:00",
+                "temperature": 16.93,
+                "windSpeed": 1.47642,
+                "windDirection": 314,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-09-02T00:00:00+00:00",
-                "temperature": 11.42,
-                "windSpeed": 3.26602,
-                "windDirection": 61,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-09-02T06:00:00+00:00",
+                "temperature": 18.39,
+                "windSpeed": 9.77569,
+                "windDirection": 227,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Pre-dawn in Subiaco feels calm and cool, with scattered clouds drifting like loose pages across the sky. The morning ahead looks part-sunny, part-shaded\u2014bright spells slipping between those clouds around and after sunrise, the light soft rather than glaring. UV is low now, but it will wake quickly with the sun and trend to the sharp side by late morning whenever the cloud thins. Air clarity should be good, with a gentle brightness rather than a hard, blue blaze.\n\nIt\u2019s a pleasant start for light layers: a tee and a cardigan or a thin jacket now, sunglasses and a touch of sunscreen tucked in your bag for later. This is weather for an unhurried walk to the corner cafe, a quiet cycle on back streets, or watering the garden before the day warms. If you\u2019re staying in, open a window, let the early light find the room, and read a few pages while the neighborhood stirs.",
-    "color_code": "#2C3E50",
-    "timestamp": "2025-09-02 04:22:21",
+    "weather_report": "Subiaco wakes to a gentle, generous light: a blue sky washed with a few feathery clouds and good, honest clarity. Through late morning and into the early afternoon those fair-weather puffs should linger but keep mostly out of the way, leaving a day that feels open and dry, more sun than shade. UV will climb quickly by late morning as spring flexes, so a hat, sunglasses, and a touch of sunscreen are wise; dress in light layers you can peel back as the day warms, with breathable fabrics for an easy stride. It\u2019s a pleasant day to walk to your errands, linger over a coffee outside, or take a quiet lap through the park paths and sit a spell in dappled shade. Windows can be opened, laundry will dry without fuss, and a midday pause under an awning will make the afternoon feel just right.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-09-02 09:46:12",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94969409194596,
-        "longitude": 115.8206776231053,
+        "latitude": -31.95075914030032,
+        "longitude": 115.8236991270837,
         "timezone": "Australia/Perth"
     }
 }
