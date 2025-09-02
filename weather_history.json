@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-08-26 09:48:26",
-    "location": {
-      "name": "Adelaide",
-      "latitude": -34.92695394778785,
-      "longitude": 138.6033045893855,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-26T01:40:00+00:00",
-      "temperature_c": 17.6,
-      "temperature_f": 63.68,
-      "humidity": 67,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 340,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Adelaide wakes under a quilt of cloud, the light already softened and a hush in the air that hints a...",
-    "color_code": "#7F8C99"
-  },
-  {
-    "timestamp": "2025-08-26 12:26:58",
-    "location": {
-      "name": "Adelaide",
-      "latitude": -34.92598445183306,
-      "longitude": 138.6033913773227,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-26T04:26:58+00:00",
-      "temperature_c": 18.46,
-      "temperature_f": 65.22800000000001,
-      "humidity": 57,
-      "wind_speed_mph": 18.410510000000002,
-      "wind_direction": 340,
-      "description": "few clouds"
-    },
-    "report_summary": "Adelaide sits under a brushed-steel sky at midday, the light muted and gentle, as if the sun had pul...",
-    "color_code": "#7a8793"
-  },
-  {
     "timestamp": "2025-08-26 16:31:24",
     "location": {
       "name": "Flinders Park",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Perth leans into late afternoon with a sky mostly open and only a few stray clouds, the sun softenin...",
     "color_code": "#F4C27A"
+  },
+  {
+    "timestamp": "2025-09-02 20:46:21",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968800462573,
+      "longitude": 115.820775775922,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-02T12:46:20+00:00",
+      "temperature_c": 13.75,
+      "temperature_f": 56.75,
+      "humidity": 78,
+      "wind_speed_mph": 9.21644,
+      "wind_direction": 170,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco settles into evening under a polished, cloudless vault. The late-day sun was bright but gent...",
+    "color_code": "#0b1f4d"
   }
 ]
