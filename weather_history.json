@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-08-26 04:24:24",
-    "location": {
-      "name": "Adelaide",
-      "latitude": -34.92365998499542,
-      "longitude": 138.5975467981007,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-25T20:24:23+00:00",
-      "temperature_c": 14.93,
-      "temperature_f": 58.874,
-      "humidity": 84,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 310,
-      "description": "light rain"
-    },
-    "report_summary": "Before dawn, Adelaide sits quiet under a low, pewter ceiling; the air smells faintly of rain and col...",
-    "color_code": "#546A7B"
-  },
-  {
     "timestamp": "2025-08-26 09:48:26",
     "location": {
       "name": "Adelaide",
@@ -877,6 +857,26 @@
       "description": "few clouds"
     },
     "report_summary": "Subiaco wakes to a gentle, generous light: a blue sky washed with a few feathery clouds and good, ho...",
+    "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2025-09-02 12:27:09",
+    "location": {
+      "name": "East Perth",
+      "latitude": -31.96315173905306,
+      "longitude": 115.8768031565921,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-02T04:27:09+00:00",
+      "temperature_c": 19.86,
+      "temperature_f": 67.748,
+      "humidity": 52,
+      "wind_speed_mph": 6.91233,
+      "wind_direction": 260,
+      "description": "broken clouds"
+    },
+    "report_summary": "Midday in East Perth settles under a quilt of cloud that frays and opens to let the sun wink through...",
     "color_code": "#87CEEB"
   }
 ]
