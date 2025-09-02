@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "East Perth",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.96315173905306,
-            "longitude": 115.8768031565921
+            "latitude": -31.9544592946136,
+            "longitude": 115.8525673552334
         },
         "current_conditions": {
-            "timestamp": "2025-09-02T04:27:09+00:00",
-            "temperature_c": 19.86,
-            "temperature_f": 67.748,
-            "humidity": 52,
-            "wind_speed_mph": 6.91233,
-            "wind_direction": 260,
-            "description": "broken clouds"
+            "timestamp": "2025-09-02T08:29:58+00:00",
+            "temperature_c": 20.19,
+            "temperature_f": 68.342,
+            "humidity": 51,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 250,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-09-02T06:00:00+00:00",
-                "temperature": 20.43,
-                "windSpeed": 8.38875,
-                "windDirection": 231,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-09-02T09:00:00+00:00",
+                "temperature": 20.19,
+                "windSpeed": 10.46916,
+                "windDirection": 196,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-09-02T09:00:00+00:00",
-                "temperature": 19.4,
-                "windSpeed": 9.88754,
-                "windDirection": 199,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-09-02T12:00:00+00:00",
+                "temperature": 18.53,
+                "windSpeed": 7.98609,
+                "windDirection": 161,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Midday in East Perth settles under a quilt of cloud that frays and opens to let the sun wink through. Expect a brighter afternoon as broken cloud gives way to more scattered patches toward late day, lending the river and rooftops a gentle, silvery light rather than a hard glare. The air feels clear enough for long views, though the sky won\u2019t turn postcard-blue; sunlight arrives in intervals, warm on the shoulders when it finds you. Around early afternoon the UV will likely run moderate to high despite the cloud, so a dab of sunscreen, sunglasses, and a brimmed hat are wise, with light layers that can be shrugged on when shade cools the edge.\n\nIt\u2019s a day for simple pleasures: a walk to pick up a few groceries, a slow lap along the foreshore, or an unhurried coffee taken outdoors while the sun plays hide-and-seek. If you\u2019re staying in, crack a window, let the brightening light spill across the room, and tend to those small tasks that like company. Toward late afternoon, as the sky loosens, it should feel more inviting still\u2014good timing for an easy errand run or a brief sit on a bench to watch the city amble past.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-09-02 12:27:09",
+    "weather_report": "Perth leans into late afternoon with a sky mostly open and only a few stray clouds, the sun softening into a warm, honeyed glow. The day feels clear-eyed and calm, the breeze untying the heat and leaving the air easy to breathe. The sting of UV has eased to gentle levels now, though sunglasses still earn their keep as the light skims along roofs and trees.\n\nInto the evening, expect the same clean horizons and scattered cloud, slipping toward a cooler, settled night. A light layer will be enough now, with a cardigan or thin jacket ready once the sun drops. It\u2019s a good hour for ordinary pleasures: a short walk to shake out the day, a quick run to the shop, watering the pots on the verandah, or a quiet pedal before dusk. Windows open, dinner on the stove, and a moment by the window to watch the sky trade gold for blue.",
+    "color_code": "#F4C27A",
+    "timestamp": "2025-09-02 16:29:59",
     "location": {
-        "name": "East Perth",
-        "latitude": -31.96315173905306,
-        "longitude": 115.8768031565921,
+        "name": "Perth",
+        "latitude": -31.9544592946136,
+        "longitude": 115.8525673552334,
         "timezone": "Australia/Perth"
     }
 }
