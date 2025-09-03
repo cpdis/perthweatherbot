@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-08-27 09:45:11",
-    "location": {
-      "name": "Adelaide",
-      "latitude": -34.92709451788848,
-      "longitude": 138.598707875614,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-27T01:40:00+00:00",
-      "temperature_c": 12.57,
-      "temperature_f": 54.626,
-      "humidity": 82,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 270,
-      "description": "broken clouds"
-    },
-    "report_summary": "Adelaide eases into the morning under a soft pewter sky, the light a little washed and the air on th...",
-    "color_code": "#708090"
-  },
-  {
-    "timestamp": "2025-08-27 12:26:51",
-    "location": {
-      "name": "Adelaide",
-      "latitude": -34.92618803073193,
-      "longitude": 138.6033051276418,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-27T04:24:33+00:00",
-      "temperature_c": 14.07,
-      "temperature_f": 57.326,
-      "humidity": 57,
-      "wind_speed_mph": 24.1596,
-      "wind_direction": 260,
-      "description": "few clouds"
-    },
-    "report_summary": "Adelaide sits under a soft, pewter sky at midday, the sun reduced to a pale coin that peeks and retr...",
-    "color_code": "#708090"
-  },
-  {
     "timestamp": "2025-08-27 16:29:27",
     "location": {
       "name": "Adelaide",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon in Subiaco sits under a polished blue, the day steady and cloudless; the sun still li...",
     "color_code": "#F2B174"
+  },
+  {
+    "timestamp": "2025-09-03 20:43:27",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968800462573,
+      "longitude": 115.820775775922,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-03T12:43:27+00:00",
+      "temperature_c": 15.21,
+      "temperature_f": 59.378,
+      "humidity": 71,
+      "wind_speed_mph": 10.35731,
+      "wind_direction": 210,
+      "description": "clear sky"
+    },
+    "report_summary": "Evening in Subiaco arrives under a quilt of broken cloud, the last hues slipping off the rooftops. E...",
+    "color_code": "#3A4F6B"
   }
 ]
