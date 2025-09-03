@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-08-26 20:49:30",
-    "location": {
-      "name": "Flinders Park",
-      "latitude": -34.91592802291058,
-      "longitude": 138.5371180728594,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-26T12:49:29+00:00",
-      "temperature_c": 13.19,
-      "temperature_f": 55.742,
-      "humidity": 71,
-      "wind_speed_mph": 23.018729999999998,
-      "wind_direction": 310,
-      "description": "few clouds"
-    },
-    "report_summary": "Night has settled over Flinders Park with a soft, pewter sky and the hush that comes before rain. Th...",
-    "color_code": "#3A4958"
-  },
-  {
-    "timestamp": "2025-08-27 00:27:27",
-    "location": {
-      "name": "Flinders Park",
-      "latitude": -34.91592802291058,
-      "longitude": 138.5371180728594,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-26T16:27:26+00:00",
-      "temperature_c": 12.8,
-      "temperature_f": 55.04,
-      "humidity": 71,
-      "wind_speed_mph": 21.85549,
-      "wind_direction": 330,
-      "description": "broken clouds"
-    },
-    "report_summary": "Just after midnight in Flinders Park, the sky feels heavy and close, the sort of night when the air ...",
-    "color_code": "#2E4057"
-  },
-  {
     "timestamp": "2025-08-27 04:24:23",
     "location": {
       "name": "Flinders Park",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Subiaco wakes in a hush, the sky a deepening blue with just a few thin clouds drifting like thoughts...",
     "color_code": "#3B587A"
+  },
+  {
+    "timestamp": "2025-09-03 09:39:02",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94970850409394,
+      "longitude": 115.820799698916,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-03T01:39:01+00:00",
+      "temperature_c": 15.79,
+      "temperature_f": 60.422,
+      "humidity": 58,
+      "wind_speed_mph": 10.35731,
+      "wind_direction": 80,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco wakes to a bright, uncomplicated morning, the sky rinsed clean and blue, the light sharpenin...",
+    "color_code": "#87CEEB"
   }
 ]

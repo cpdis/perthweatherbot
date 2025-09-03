@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94968800462573,
-            "longitude": 115.820775775922
+            "latitude": -31.94970850409394,
+            "longitude": 115.820799698916
         },
         "current_conditions": {
-            "timestamp": "2025-09-02T20:21:37+00:00",
-            "temperature_c": 9.66,
-            "temperature_f": 49.388,
-            "humidity": 82,
-            "wind_speed_mph": 5.18984,
-            "wind_direction": 110,
-            "description": "few clouds"
+            "timestamp": "2025-09-03T01:39:01+00:00",
+            "temperature_c": 15.79,
+            "temperature_f": 60.422,
+            "humidity": 58,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 80,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-02T21:00:00+00:00",
-                "temperature": 9.66,
-                "windSpeed": 5.077990000000001,
-                "windDirection": 111,
-                "shortForecast": "few clouds"
+                "startTime": "2025-09-03T03:00:00+00:00",
+                "temperature": 15.79,
+                "windSpeed": 8.0532,
+                "windDirection": 180,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-09-03T00:00:00+00:00",
-                "temperature": 9.92,
-                "windSpeed": 5.63724,
-                "windDirection": 129,
-                "shortForecast": "few clouds"
+                "startTime": "2025-09-03T06:00:00+00:00",
+                "temperature": 17.17,
+                "windSpeed": 14.965530000000001,
+                "windDirection": 205,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco wakes in a hush, the sky a deepening blue with just a few thin clouds drifting like thoughts you mean to remember. It feels cool and clean before sunrise, the kind of air that clears the head and sharpens the view down quiet streets. UV is negligible at this early hour, and the day looks set to be clear and bright once the sun is up, with only light, decorative cloud to soften the glare.\n\nExpect a mainly sunny day with good clarity and a friendly mood to the light; it should feel pleasantly crisp at first, warming steadily. Dress in easy layers: a light sweater or jacket now, then short sleeves, sunglasses and a hat by mid-morning as the UV climbs from low to decidedly lively. A dab of sunscreen will earn its keep. It\u2019s a good morning for unhurried errands on foot, watering the garden before the heat finds it, or a gentle ride to pick up bread and fruit. Later, open the windows for a slow draft of fresh air, take your coffee outside, and let the sun do the drying on a line\u2014simple tasks that suit a clear, well-behaved day.",
-    "color_code": "#3B587A",
-    "timestamp": "2025-09-03 04:21:38",
+    "weather_report": "Subiaco wakes to a bright, uncomplicated morning, the sky rinsed clean and blue, the light sharpening edges on verandahs and jacaranda limbs. It feels crisp now but already warming, the sort of clarity that makes colors ring true and shadows honest. Expect sunshine to hold steady through late morning into the afternoon, with the UV climbing quickly toward the high range by lunchtime; it\u2019s a day for sunglasses, a brimmed hat, and a swipe of sunscreen even if the air remains politely mild.\n\nDress in easy layers: a light shirt or tee with a cardigan you can shrug off, breathable trousers, comfortable shoes. The weather invites small pleasures\u2014carry your coffee to a sunny table, wander for bread and flowers, hang a fresh wash to dry, or take a mid-morning stroll through Kings Park to admire the spring stirrings before the light grows strong. By early afternoon the breeze may stir, but the mood stays clear and inviting, a simple, spirited day to be out and about.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-09-03 09:39:02",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94968800462573,
-        "longitude": 115.820775775922,
+        "latitude": -31.94970850409394,
+        "longitude": 115.820799698916,
         "timezone": "Australia/Perth"
     }
 }
