@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-08-27 16:29:27",
-    "location": {
-      "name": "Adelaide",
-      "latitude": -34.92598425250441,
-      "longitude": 138.6033912303282,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-27T08:29:26+00:00",
-      "temperature_c": 11.77,
-      "temperature_f": 53.186,
-      "humidity": 79,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 290,
-      "description": "broken clouds"
-    },
-    "report_summary": "Adelaide eases into late afternoon under a softened, pewter sky. The light feels thinned, the air ca...",
-    "color_code": "#6E7F8D"
-  },
-  {
     "timestamp": "2025-08-27 20:45:16",
     "location": {
       "name": "Netley",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Just past midnight in Subiaco, the sky is a gentle patchwork, scattered clouds idling over quiet str...",
     "color_code": "#2E3A4B"
+  },
+  {
+    "timestamp": "2025-09-04 04:23:24",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968800462573,
+      "longitude": 115.820775775922,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-03T20:23:23+00:00",
+      "temperature_c": 12.2,
+      "temperature_f": 53.96,
+      "humidity": 80,
+      "wind_speed_mph": 9.21644,
+      "wind_direction": 140,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco wakes in the hush before dawn, the air cool and clean, the sky mostly clear with the first i...",
+    "color_code": "#0D3B66"
   }
 ]
