@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-08-28 04:24:12",
-    "location": {
-      "name": "Netley",
-      "latitude": -34.93677604107963,
-      "longitude": 138.5381145267511,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-27T20:24:11+00:00",
-      "temperature_c": 11.41,
-      "temperature_f": 52.538,
-      "humidity": 83,
-      "wind_speed_mph": 18.410510000000002,
-      "wind_direction": 310,
-      "description": "broken clouds"
-    },
-    "report_summary": "Before dawn in Netley, the last of the night\u2019s light rain has tapered to a hush, leaving pavements d...",
-    "color_code": "#708090"
-  },
-  {
     "timestamp": "2025-08-28 09:44:34",
     "location": {
       "name": "Subiaco",
@@ -877,6 +857,26 @@
       "description": "clear sky"
     },
     "report_summary": "Morning in Subiaco opens under a clean blue dome, the light already sharpening edges and lending the...",
+    "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2025-09-04 12:25:02",
+    "location": {
+      "name": "Perth",
+      "latitude": -31.95378240506156,
+      "longitude": 115.8526501959482,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-04T04:25:01+00:00",
+      "temperature_c": 18.67,
+      "temperature_f": 65.60600000000001,
+      "humidity": 54,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 270,
+      "description": "few clouds"
+    },
+    "report_summary": "Perth sits under a clean, generous blue this early afternoon, the few morning clouds long since melt...",
     "color_code": "#87CEEB"
   }
 ]

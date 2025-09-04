@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.9497137311808,
-            "longitude": 115.8206970717018
+            "latitude": -31.95378240506156,
+            "longitude": 115.8526501959482
         },
         "current_conditions": {
-            "timestamp": "2025-09-04T01:39:39+00:00",
-            "temperature_c": 15.69,
-            "temperature_f": 60.242000000000004,
-            "humidity": 62,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 120,
-            "description": "clear sky"
+            "timestamp": "2025-09-04T04:25:01+00:00",
+            "temperature_c": 18.67,
+            "temperature_f": 65.60600000000001,
+            "humidity": 54,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 270,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-09-04T03:00:00+00:00",
-                "temperature": 15.69,
-                "windSpeed": 8.07557,
-                "windDirection": 220,
-                "shortForecast": "clear sky"
+                "startTime": "2025-09-04T06:00:00+00:00",
+                "temperature": 19.02,
+                "windSpeed": 10.2902,
+                "windDirection": 247,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-09-04T06:00:00+00:00",
-                "temperature": 16.94,
-                "windSpeed": 9.99939,
-                "windDirection": 245,
+                "startTime": "2025-09-04T09:00:00+00:00",
+                "temperature": 18.44,
+                "windSpeed": 6.97944,
+                "windDirection": 260,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Morning in Subiaco opens under a clean blue dome, the light already sharpening edges and lending the streets a quiet sparkle. The forecast keeps faith with what you can see: clear sky through late morning and into the afternoon, a day built for shadows and brightness. Expect a very sunny stretch as the sun climbs; the UV will rise briskly toward midday, so it\u2019s a day for respect as well as enjoyment. The air feels clear and honest, the sort of visibility that makes distant gum leaves seem close enough to touch.\n\nDress in light layers you can pare back as the warmth builds, with a brimmed hat, sunglasses, and a swipe of sunscreen for good measure. It looks pleasantly uncomplicated: ideal for a midmorning wander to a local caf\u00e9, hanging washing that will dry without fuss, or an unhurried loop through Kings Park to watch the first hints of spring settle in. Run errands on foot before the sun is at its most insistent, then retreat to a verandah or a quiet corner by a window for the early afternoon, letting the bright day do its work outside while you read, sort a drawer, or plan the weekend.",
+    "weather_report": "Perth sits under a clean, generous blue this early afternoon, the few morning clouds long since melted to the horizon. The sun feels candid and unwavering, casting sharp-edged shadows and making colors pop; the air reads as clear and untroubled, with little haze to soften the view.\n\nExpect the bright spell to hold through the afternoon with barely a whisper of cloud. UV is already assertive for early spring, running moderate to high through the peak hours, so treat the light with respect: sunscreen, sunglasses, and a brimmed hat are wise companions. It\u2019s a day for light layers\u2014cool in the shade, comfortably warm where the sun finds you. Ordinary pleasures suit it best: take lunch outdoors, let laundry dry on the line, wander a quiet block to run an errand, tend a few plants, or read in a courtyard while the light is kind. As evening approaches, keep a light sweater handy for the first hint of cool.",
     "color_code": "#87CEEB",
-    "timestamp": "2025-09-04 09:39:40",
+    "timestamp": "2025-09-04 12:25:02",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.9497137311808,
-        "longitude": 115.8206970717018,
+        "name": "Perth",
+        "latitude": -31.95378240506156,
+        "longitude": 115.8526501959482,
         "timezone": "Australia/Perth"
     }
 }
