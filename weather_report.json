@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94968800462573,
-            "longitude": 115.820775775922
+            "latitude": -31.9497137311808,
+            "longitude": 115.8206970717018
         },
         "current_conditions": {
-            "timestamp": "2025-09-03T20:23:23+00:00",
-            "temperature_c": 12.2,
-            "temperature_f": 53.96,
-            "humidity": 80,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 140,
+            "timestamp": "2025-09-04T01:39:39+00:00",
+            "temperature_c": 15.69,
+            "temperature_f": 60.242000000000004,
+            "humidity": 62,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 120,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-03T21:00:00+00:00",
-                "temperature": 12.2,
-                "windSpeed": 8.85852,
-                "windDirection": 191,
+                "startTime": "2025-09-04T03:00:00+00:00",
+                "temperature": 15.69,
+                "windSpeed": 8.07557,
+                "windDirection": 220,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-09-04T00:00:00+00:00",
-                "temperature": 12.73,
-                "windSpeed": 8.83615,
-                "windDirection": 185,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-09-04T06:00:00+00:00",
+                "temperature": 16.94,
+                "windSpeed": 9.99939,
+                "windDirection": 245,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco wakes in the hush before dawn, the air cool and clean, the sky mostly clear with the first inkling of light gathering in the east. Expect a bright start once the sun lifts, with a few scattered clouds wandering in by mid-morning to soften the glare without stealing the day. Sunshine will be the main character, and while the UV is negligible now, it will rise quickly after breakfast and become frankly assertive by late morning; hats, sunglasses, and a dab of sunscreen will serve you well. Clarity looks good overall, the kind of morning where rooftops and gum leaves etch sharply against a rinsed-blue sky.\n\nIt should feel like a pleasant day in the making: cool at first, calling for a light layer or a soft jumper you can shrug off as the warmth arrives. Consider an early walk to the corner caf\u00e9, a quiet stretch in the park, or a short bike ride before the UV sharpens; save pottering with indoor tasks or a shaded bit of garden work for later. Windows open, a gentle airing of the house, and the day may carry you along without fuss.",
-    "color_code": "#0D3B66",
-    "timestamp": "2025-09-04 04:23:24",
+    "weather_report": "Morning in Subiaco opens under a clean blue dome, the light already sharpening edges and lending the streets a quiet sparkle. The forecast keeps faith with what you can see: clear sky through late morning and into the afternoon, a day built for shadows and brightness. Expect a very sunny stretch as the sun climbs; the UV will rise briskly toward midday, so it\u2019s a day for respect as well as enjoyment. The air feels clear and honest, the sort of visibility that makes distant gum leaves seem close enough to touch.\n\nDress in light layers you can pare back as the warmth builds, with a brimmed hat, sunglasses, and a swipe of sunscreen for good measure. It looks pleasantly uncomplicated: ideal for a midmorning wander to a local caf\u00e9, hanging washing that will dry without fuss, or an unhurried loop through Kings Park to watch the first hints of spring settle in. Run errands on foot before the sun is at its most insistent, then retreat to a verandah or a quiet corner by a window for the early afternoon, letting the bright day do its work outside while you read, sort a drawer, or plan the weekend.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-09-04 09:39:40",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94968800462573,
-        "longitude": 115.820775775922,
+        "latitude": -31.9497137311808,
+        "longitude": 115.8206970717018,
         "timezone": "Australia/Perth"
     }
 }

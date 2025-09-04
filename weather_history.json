@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-08-27 20:45:16",
-    "location": {
-      "name": "Netley",
-      "latitude": -34.93677604107963,
-      "longitude": 138.5381145267511,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-27T12:45:15+00:00",
-      "temperature_c": 11.79,
-      "temperature_f": 53.221999999999994,
-      "humidity": 82,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 300,
-      "description": "shower rain"
-    },
-    "report_summary": "Evening has settled over Netley with the streets lacquered by earlier showers and the sky pressed do...",
-    "color_code": "#5C6D7A"
-  },
-  {
-    "timestamp": "2025-08-28 00:27:55",
-    "location": {
-      "name": "Netley",
-      "latitude": -34.93677604107963,
-      "longitude": 138.5381145267511,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-27T16:27:55+00:00",
-      "temperature_c": 11.55,
-      "temperature_f": 52.79,
-      "humidity": 86,
-      "wind_speed_mph": 18.410510000000002,
-      "wind_direction": 320,
-      "description": "scattered clouds"
-    },
-    "report_summary": "After a pair of light showers earlier in the evening, Netley settles into the small hours with stree...",
-    "color_code": "#2c3e50"
-  },
-  {
     "timestamp": "2025-08-28 04:24:12",
     "location": {
       "name": "Netley",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Subiaco wakes in the hush before dawn, the air cool and clean, the sky mostly clear with the first i...",
     "color_code": "#0D3B66"
+  },
+  {
+    "timestamp": "2025-09-04 09:39:40",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.9497137311808,
+      "longitude": 115.8206970717018,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-04T01:39:39+00:00",
+      "temperature_c": 15.69,
+      "temperature_f": 60.242000000000004,
+      "humidity": 62,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 120,
+      "description": "clear sky"
+    },
+    "report_summary": "Morning in Subiaco opens under a clean blue dome, the light already sharpening edges and lending the...",
+    "color_code": "#87CEEB"
   }
 ]
