@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-08-28 09:44:34",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968857029824,
-      "longitude": 115.8207752241304,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-28T01:44:34+00:00",
-      "temperature_c": 13.04,
-      "temperature_f": 55.471999999999994,
-      "humidity": 80,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 160,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes to a clean, unblemished sky; the light has that gentle snap of clarity that makes colo...",
-    "color_code": "#87CEFA"
-  },
-  {
-    "timestamp": "2025-08-28 12:26:20",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968857029824,
-      "longitude": 115.8207752241304,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-28T04:26:20+00:00",
-      "temperature_c": 17.29,
-      "temperature_f": 63.122,
-      "humidity": 57,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 190,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Midday drifts in under a dappled sky, the sun shouldering through scattered clouds with a soft, silv...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-08-28 16:29:13",
     "location": {
       "name": "Belmont",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon in Perth arrives with an unblemished sky and warm, honeyed light sliding across veran...",
     "color_code": "#F6C78F"
+  },
+  {
+    "timestamp": "2025-09-04 20:41:41",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969143131333,
+      "longitude": 115.8206659743676,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-04T12:41:41+00:00",
+      "temperature_c": 13.38,
+      "temperature_f": 56.084,
+      "humidity": 78,
+      "wind_speed_mph": 6.91233,
+      "wind_direction": 360,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco slips into a silvery evening, the sky already knitted with cloud and the air carrying that h...",
+    "color_code": "#2C3E50"
   }
 ]
