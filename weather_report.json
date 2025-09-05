@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "North Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.93573906494321,
-            "longitude": 115.8490140336687
+            "latitude": -31.94967647410824,
+            "longitude": 115.8208896450709
         },
         "current_conditions": {
-            "timestamp": "2025-09-05T01:42:04+00:00",
-            "temperature_c": 15.91,
-            "temperature_f": 60.638,
-            "humidity": 81,
+            "timestamp": "2025-09-05T04:26:14+00:00",
+            "temperature_c": 15.01,
+            "temperature_f": 59.018,
+            "humidity": 91,
             "wind_speed_mph": 17.26964,
-            "wind_direction": 360,
-            "description": "heavy intensity rain"
+            "wind_direction": 330,
+            "description": "light intensity shower rain"
         },
         "forecast": [
             {
-                "startTime": "2025-09-05T03:00:00+00:00",
-                "temperature": 15.91,
-                "windSpeed": 21.90023,
-                "windDirection": 338,
-                "shortForecast": "light rain"
+                "startTime": "2025-09-05T06:00:00+00:00",
+                "temperature": 15.48,
+                "windSpeed": 26.396600000000003,
+                "windDirection": 272,
+                "shortForecast": "moderate rain"
             },
             {
-                "startTime": "2025-09-05T06:00:00+00:00",
-                "temperature": 16.12,
-                "windSpeed": 24.607,
-                "windDirection": 270,
-                "shortForecast": "moderate rain"
+                "startTime": "2025-09-05T09:00:00+00:00",
+                "temperature": 14.66,
+                "windSpeed": 16.084030000000002,
+                "windDirection": 295,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "North Perth wakes under a low pewter lid, the light soft and a little blue around the edges. Showers gather through the late morning and settle into a steadier rain by midafternoon, the sort that polishes leaves and blurs the far end of the street. Sunshine will be rare today, more a fleeting glimmer than a companion, and while the UV is muted by cloud, midday in spring can still nip at exposed skin if a gap opens. Expect a day of glistening pavements, softened horizons, and the hush that comes when rain finds its rhythm.\n\nIt\u2019s a day for easy layers and a light waterproof, shoes that don\u2019t mind puddles, and a pocket umbrella if you like to keep your hands free. If you need to run errands, the sooner the better before the rain gets confident; otherwise, claim a warm seat by a caf\u00e9 window, browse a bookshop, or tend to small domestic rituals\u2014the sort that feel right with the percussion of rain on the roof. If you do step out around lunchtime, a dab of sunscreen won\u2019t be wasted.",
-    "color_code": "#6B7A8F",
-    "timestamp": "2025-09-05 09:42:04",
+    "weather_report": "Subiaco sits under a soft, pewter sky at midday, the light already dimmed as if someone drew a sheer curtain across the sun. The afternoon looks set to gather itself into steady rain, picking up around midafternoon before slackening to a gentler patter toward early evening. Sunshine will be scarce and pale; with the cloud deck thickening, the UV will be kept in check, though the odd brighter break could still nip at exposed skin. The air feels clean but subdued, edges of buildings softened, the day more about quiet errands than spectacle.\n\nDress for a cool, damp turn: a light waterproof, shoes that don\u2019t flinch at puddles, and a small umbrella for the walks between places. If you have outdoor tasks, take them on now before the rain steadies; otherwise let the weather choose for you\u2014duck into a gallery for an hour, nurse a coffee by the window, sort a bookshelf, or take a short amble under awnings and eaves. Commuting is fine, just leave time for slick pavements. If the clouds briefly lift, step out for a quick breath of brightness, but expect the afternoon to settle back into its gentle, rain-brushed hush.",
+    "color_code": "#708090",
+    "timestamp": "2025-09-05 12:26:14",
     "location": {
-        "name": "North Perth",
-        "latitude": -31.93573906494321,
-        "longitude": 115.8490140336687,
+        "name": "Subiaco",
+        "latitude": -31.94967647410824,
+        "longitude": 115.8208896450709,
         "timezone": "Australia/Perth"
     }
 }
