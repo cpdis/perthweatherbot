@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-08-28 20:44:56",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9496788334883,
-      "longitude": 115.8206990348296,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-28T12:44:56+00:00",
-      "temperature_c": 12.36,
-      "temperature_f": 54.248,
-      "humidity": 77,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 190,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco settles under a clean, open sky tonight, the kind that makes streetlights look shy and the c...",
-    "color_code": "#0b2239"
-  },
-  {
-    "timestamp": "2025-08-29 00:27:45",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9496788334883,
-      "longitude": 115.8206990348296,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-28T16:27:45+00:00",
-      "temperature_c": 10,
-      "temperature_f": 50.0,
-      "humidity": 83,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 170,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco sits under a clean midnight sky, the kind that pares the world back to quiet silhouettes and...",
-    "color_code": "#0A1F44"
-  },
-  {
     "timestamp": "2025-08-29 04:23:54",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Before dawn in Subiaco, the streets glisten and the eaves whisper; a light rain is on, with low clou...",
     "color_code": "#5E6E79"
+  },
+  {
+    "timestamp": "2025-09-05 09:42:04",
+    "location": {
+      "name": "North Perth",
+      "latitude": -31.93573906494321,
+      "longitude": 115.8490140336687,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-05T01:42:04+00:00",
+      "temperature_c": 15.91,
+      "temperature_f": 60.638,
+      "humidity": 81,
+      "wind_speed_mph": 17.26964,
+      "wind_direction": 360,
+      "description": "heavy intensity rain"
+    },
+    "report_summary": "North Perth wakes under a low pewter lid, the light soft and a little blue around the edges. Showers...",
+    "color_code": "#6B7A8F"
   }
 ]

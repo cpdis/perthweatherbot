@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "North Perth",
             "country": "AU",
-            "latitude": -31.94969143131333,
-            "longitude": 115.8206659743676
+            "latitude": -31.93573906494321,
+            "longitude": 115.8490140336687
         },
         "current_conditions": {
-            "timestamp": "2025-09-04T20:22:44+00:00",
-            "temperature_c": 12.45,
-            "temperature_f": 54.41,
-            "humidity": 88,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 10,
-            "description": "few clouds"
+            "timestamp": "2025-09-05T01:42:04+00:00",
+            "temperature_c": 15.91,
+            "temperature_f": 60.638,
+            "humidity": 81,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 360,
+            "description": "heavy intensity rain"
         },
         "forecast": [
             {
-                "startTime": "2025-09-04T21:00:00+00:00",
-                "temperature": 12.45,
-                "windSpeed": 13.73518,
-                "windDirection": 4,
+                "startTime": "2025-09-05T03:00:00+00:00",
+                "temperature": 15.91,
+                "windSpeed": 21.90023,
+                "windDirection": 338,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-09-05T00:00:00+00:00",
-                "temperature": 12.64,
-                "windSpeed": 15.70374,
-                "windDirection": 11,
-                "shortForecast": "light rain"
+                "startTime": "2025-09-05T06:00:00+00:00",
+                "temperature": 16.12,
+                "windSpeed": 24.607,
+                "windDirection": 270,
+                "shortForecast": "moderate rain"
             }
         ]
     },
-    "weather_report": "Before dawn in Subiaco, the streets glisten and the eaves whisper; a light rain is on, with low cloud muting the edges of everything. The sun will be slow to show, if at all this morning, and the UV is low for now. Expect showers around daybreak and into the early hours, with a soft, pewter light and hazy clarity that smooths out the skyline; if the cloud thins later, there may be brief, pale breaks and a modest bump in UV around midday, but the day favors grey over glare.\n\nDress for damp comfort: a light waterproof layer, closed shoes, and something you won\u2019t mind brushing against wet leaves. Carry a compact umbrella, more talisman than shield. It\u2019s a good morning to take the train instead of the bike, to slip under shopfront awnings for a loaf and a coffee, to handle small errands and let the rain pace your steps. If the ceiling lifts later, a short walk between showers will feel earned; otherwise, keep to indoor plans that don\u2019t mind a steady patter at the window.",
-    "color_code": "#5E6E79",
-    "timestamp": "2025-09-05 04:22:44",
+    "weather_report": "North Perth wakes under a low pewter lid, the light soft and a little blue around the edges. Showers gather through the late morning and settle into a steadier rain by midafternoon, the sort that polishes leaves and blurs the far end of the street. Sunshine will be rare today, more a fleeting glimmer than a companion, and while the UV is muted by cloud, midday in spring can still nip at exposed skin if a gap opens. Expect a day of glistening pavements, softened horizons, and the hush that comes when rain finds its rhythm.\n\nIt\u2019s a day for easy layers and a light waterproof, shoes that don\u2019t mind puddles, and a pocket umbrella if you like to keep your hands free. If you need to run errands, the sooner the better before the rain gets confident; otherwise, claim a warm seat by a caf\u00e9 window, browse a bookshop, or tend to small domestic rituals\u2014the sort that feel right with the percussion of rain on the roof. If you do step out around lunchtime, a dab of sunscreen won\u2019t be wasted.",
+    "color_code": "#6B7A8F",
+    "timestamp": "2025-09-05 09:42:04",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94969143131333,
-        "longitude": 115.8206659743676,
+        "name": "North Perth",
+        "latitude": -31.93573906494321,
+        "longitude": 115.8490140336687,
         "timezone": "Australia/Perth"
     }
 }
