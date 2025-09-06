@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-08-30 16:25:36",
-    "location": {
-      "name": "Bentley",
-      "latitude": -32.01325109548556,
-      "longitude": 115.9026371128864,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-30T08:25:35+00:00",
-      "temperature_c": 19.03,
-      "temperature_f": 66.254,
-      "humidity": 50,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 240,
-      "description": "clear sky"
-    },
-    "report_summary": "Bentley has spent the day under a clean, untroubled sky, and by late afternoon the light has softene...",
-    "color_code": "#F4C86A"
-  },
-  {
     "timestamp": "2025-08-30 20:39:44",
     "location": {
       "name": "Subiaco",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Midnight settles over Burswood with a damp hush; cloud hangs low and the air smells faintly of wet p...",
     "color_code": "#2B3A4A"
+  },
+  {
+    "timestamp": "2025-09-07 04:20:29",
+    "location": {
+      "name": "Burswood",
+      "latitude": -31.95100924301158,
+      "longitude": 115.8885355456909,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-06T20:20:29+00:00",
+      "temperature_c": 10.7,
+      "temperature_f": 51.26,
+      "humidity": 84,
+      "wind_speed_mph": 2.30411,
+      "wind_direction": 150,
+      "description": "light rain"
+    },
+    "report_summary": "A damp, early hush lies over Burswood; light rain is slipping through the last of the night and expe...",
+    "color_code": "#6B7A8F"
   }
 ]
