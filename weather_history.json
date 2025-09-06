@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-08-29 20:44:03",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968800462573,
-      "longitude": 115.820775775922,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-29T12:44:02+00:00",
-      "temperature_c": 11.98,
-      "temperature_f": 53.564,
-      "humidity": 81,
-      "wind_speed_mph": 4.60822,
-      "wind_direction": 80,
-      "description": "clear sky"
-    },
-    "report_summary": "Evening settles over Subiaco with a broken quilt of cloud, the kind that lets a few brave stars cut ...",
-    "color_code": "#2C3E50"
-  },
-  {
-    "timestamp": "2025-08-30 00:27:01",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968800462573,
-      "longitude": 115.820775775922,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-29T16:27:01+00:00",
-      "temperature_c": 10.23,
-      "temperature_f": 50.414,
-      "humidity": 79,
-      "wind_speed_mph": 6.15175,
-      "wind_direction": 109,
-      "description": "broken clouds"
-    },
-    "report_summary": "Just past midnight in Subiaco, the sky is a patchwork\u2014broken cloud drifting like torn linen, then pa...",
-    "color_code": "#132235"
-  },
-  {
     "timestamp": "2025-08-30 04:22:55",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Before dawn in Subiaco, the sky feels close and heavy, the air laced with that metallic scent of fir...",
     "color_code": "#4A5A6A"
+  },
+  {
+    "timestamp": "2025-09-06 09:38:45",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.95088593501324,
+      "longitude": 115.8222613202735,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-06T01:38:44+00:00",
+      "temperature_c": 12.84,
+      "temperature_f": 55.112,
+      "humidity": 73,
+      "wind_speed_mph": 17.26964,
+      "wind_direction": 220,
+      "description": "light intensity shower rain"
+    },
+    "report_summary": "Subiaco wakes under a quilt of cloud, the light thin and pewter-toned, with the scent of damp paveme...",
+    "color_code": "#778899"
   }
 ]
