@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Burswood",
             "country": "AU",
-            "latitude": -31.94967652502745,
-            "longitude": 115.8208819315112
+            "latitude": -31.95100924301158,
+            "longitude": 115.8885355456909
         },
         "current_conditions": {
-            "timestamp": "2025-09-06T08:23:48+00:00",
-            "temperature_c": 14.15,
-            "temperature_f": 57.47,
-            "humidity": 66,
-            "wind_speed_mph": 12.661420000000001,
+            "timestamp": "2025-09-06T12:38:18+00:00",
+            "temperature_c": 12.64,
+            "temperature_f": 54.752,
+            "humidity": 70,
+            "wind_speed_mph": 8.0532,
             "wind_direction": 220,
-            "description": "light rain"
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-06T09:00:00+00:00",
-                "temperature": 14.15,
-                "windSpeed": 21.40809,
-                "windDirection": 226,
+                "startTime": "2025-09-06T15:00:00+00:00",
+                "temperature": 12.14,
+                "windSpeed": 13.04171,
+                "windDirection": 225,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-09-06T12:00:00+00:00",
-                "temperature": 13.05,
-                "windSpeed": 19.350050000000003,
-                "windDirection": 228,
+                "startTime": "2025-09-06T18:00:00+00:00",
+                "temperature": 12.35,
+                "windSpeed": 13.377260000000001,
+                "windDirection": 248,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Subiaco eases into late afternoon under a shawl of grey, the light turned soft and pewter as showers gather on the horizon. The day has lost its sharp edges; visibility is gentle rather than crystal, with the kind of sky that mutes color and quiets the streets. Sunshine will be scarce from here on, and the UV sits low and sinking with the approach of evening. Expect light rain to drift through around dusk and return again later, more a persistent whisper than a downpour, the sort that dapples pavements and perfumes the air.\n\nIt\u2019s a day for small comforts and sensible layers: a light waterproof jacket, closed shoes, and a pocket umbrella will keep the mood intact. Consider an unhurried errand run before the steadier showers, then a detour to a bookshop or a corner caf\u00e9 window where you can watch the rain stitch silvery threads across the street. Supper at home suits the weather\u2014something warm on the stove while you sort tomorrow\u2019s to-do list and let the evening pass with the soft patter outside.",
-    "color_code": "#6E7F8D",
-    "timestamp": "2025-09-06 16:23:48",
+    "weather_report": "Burswood has slipped into a damp, reflective evening. Light rain through the afternoon and toward dusk has left pavements gleaming and the river dark and glassy, with clouds sealing off any late blush of sun. UV is essentially nil now, and even earlier it would have been modest at best under the blanket of cloud. The air feels gently cool and a touch humid; visibility is serviceable but softened by misty droplets and the watercolor halo of streetlights.\n\nDress for nuisance rather than hardship: a light waterproof layer, closed shoes, and an umbrella if you dislike fine spray. It\u2019s a night that invites small, companionable errands, a quiet meal in a nearby nook, or a slow walk under awnings while the showers patter on. Pleasant in its calm way, if not bright\u2014more of a hushed epilogue to the day than a finale.",
+    "color_code": "#2F3E4F",
+    "timestamp": "2025-09-06 20:38:19",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94967652502745,
-        "longitude": 115.8208819315112,
+        "name": "Burswood",
+        "latitude": -31.95100924301158,
+        "longitude": 115.8885355456909,
         "timezone": "Australia/Perth"
     }
 }

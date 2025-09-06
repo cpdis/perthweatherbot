@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-08-30 09:39:09",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968800462573,
-      "longitude": 115.820775775922,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-30T01:34:37+00:00",
-      "temperature_c": 13.32,
-      "temperature_f": 55.976,
-      "humidity": 67,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 90,
-      "description": "clear sky"
-    },
-    "report_summary": "Morning in Subiaco arrives clean and uncomplicated: a bright, polished sky with that cool, early edg...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-08-30 12:24:44",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968800462573,
-      "longitude": 115.820775775922,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-30T04:24:43+00:00",
-      "temperature_c": 18.65,
-      "temperature_f": 65.57,
-      "humidity": 45,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 40,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco eases into early afternoon under an open, polished sky, the kind that makes edges sharper an...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-08-30 16:25:36",
     "location": {
       "name": "Bentley",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Subiaco eases into late afternoon under a shawl of grey, the light turned soft and pewter as showers...",
     "color_code": "#6E7F8D"
+  },
+  {
+    "timestamp": "2025-09-06 20:38:19",
+    "location": {
+      "name": "Burswood",
+      "latitude": -31.95100924301158,
+      "longitude": 115.8885355456909,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-06T12:38:18+00:00",
+      "temperature_c": 12.64,
+      "temperature_f": 54.752,
+      "humidity": 70,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 220,
+      "description": "clear sky"
+    },
+    "report_summary": "Burswood has slipped into a damp, reflective evening. Light rain through the afternoon and toward du...",
+    "color_code": "#2F3E4F"
   }
 ]
