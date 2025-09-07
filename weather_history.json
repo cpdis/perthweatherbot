@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-08-31 09:49:25",
-    "location": {
-      "name": "Floreat",
-      "latitude": -31.94813702250054,
-      "longitude": 115.7829330207881,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-31T01:49:25+00:00",
-      "temperature_c": 15.93,
-      "temperature_f": 60.674,
-      "humidity": 57,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 20,
-      "description": "clear sky"
-    },
-    "report_summary": "Floreat wakes under a rinsed-blue sky, the morning sun already smoothing the cool edge from the air....",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-08-31 12:25:05",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9496824872095,
-      "longitude": 115.8206569346043,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-31T04:25:04+00:00",
-      "temperature_c": 19.12,
-      "temperature_f": 66.416,
-      "humidity": 42,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 10,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco steps into the early afternoon under an unblemished blue, the sort of clean, hard light that...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-08-31 16:25:33",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Rottnest Island eases into late afternoon under a pewter sky, the sun mostly hidden and the UV merci...",
     "color_code": "#6A7C8E"
+  },
+  {
+    "timestamp": "2025-09-07 20:39:05",
+    "location": {
+      "name": "Rottnest Island",
+      "latitude": -31.9981405242891,
+      "longitude": 115.5420373444772,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-07T12:39:04+00:00",
+      "temperature_c": 11.79,
+      "temperature_f": 53.221999999999994,
+      "humidity": 69,
+      "wind_speed_mph": 24.11486,
+      "wind_direction": 223,
+      "description": "light rain"
+    },
+    "report_summary": "Night has settled over Rottnest with a low lid of cloud and a cool, salty breath off the water. Ligh...",
+    "color_code": "#2C3E50"
   }
 ]
