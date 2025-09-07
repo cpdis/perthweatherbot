@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Burswood",
+            "name": "Fremantle",
             "country": "AU",
-            "latitude": -31.95100924301158,
-            "longitude": 115.8885355456909
+            "latitude": -32.05272680910707,
+            "longitude": 115.7432599028813
         },
         "current_conditions": {
-            "timestamp": "2025-09-06T20:20:29+00:00",
-            "temperature_c": 10.7,
-            "temperature_f": 51.26,
-            "humidity": 84,
-            "wind_speed_mph": 2.30411,
-            "wind_direction": 150,
-            "description": "light rain"
+            "timestamp": "2025-09-07T01:47:07+00:00",
+            "temperature_c": 15.8,
+            "temperature_f": 60.440000000000005,
+            "humidity": 73,
+            "wind_speed_mph": 15.01027,
+            "wind_direction": 299,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-09-06T21:00:00+00:00",
-                "temperature": 10.7,
-                "windSpeed": 11.22974,
-                "windDirection": 255,
+                "startTime": "2025-09-07T03:00:00+00:00",
+                "temperature": 15.8,
+                "windSpeed": 21.05017,
+                "windDirection": 253,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-09-07T00:00:00+00:00",
-                "temperature": 11.53,
-                "windSpeed": 13.17593,
-                "windDirection": 269,
-                "shortForecast": "light rain"
+                "startTime": "2025-09-07T06:00:00+00:00",
+                "temperature": 15,
+                "windSpeed": 16.30773,
+                "windDirection": 234,
+                "shortForecast": "moderate rain"
             }
         ]
     },
-    "weather_report": "A damp, early hush lies over Burswood; light rain is slipping through the last of the night and expected to linger into the morning, keeping the river pewter and the streets satin-dark. Sunshine will be scarce at first, with the sky holding to a soft, woolen grey; UV stays low this morning and only edges toward moderate if the cloud thins later. The air feels freshly washed but not quite clear\u2014horizons blurred, sound slightly muffled\u2014an amiable gloom that asks for unhurried steps.\n\nDress for a cool, showery start: a light waterproof, comfortable shoes, and a small umbrella you won\u2019t mind carrying. If you\u2019re out early, a quick tram of errands or a meander beneath trees during a lull can be quietly satisfying; otherwise, let the day begin indoors with coffee, a tidy of the week\u2019s papers, or a bit of slow cooking while the windows bead with rain. Should the ceiling lift toward midday, take a short stroll along the river paths and watch the light try its luck between showers.",
-    "color_code": "#6B7A8F",
-    "timestamp": "2025-09-07 04:20:29",
+    "weather_report": "Morning in Fremantle arrives under a pewter sky, the sea breeze carrying the smell of wet salt and eucalyptus as light rain noses in before lunch and thickens through the afternoon. Sunshine will be scarce, a muted glow at best, with the UV kept modest by the cloud deck, though a brief thinning around midday could still nip the unwary. The air feels clean but hazy at the edges; showers will soften the horizon and leave the streets shining like fish scales. It\u2019s a gentle, grey day rather than a harsh one, and the world seems to speak in lowered voices.\n\nDress in light layers with a waterproof shell and shoes you don\u2019t mind getting damp; pack a small umbrella for the busier bursts. If you\u2019re headed out now, enjoy a slow lap of the foreshore between showers, then duck into a bookshop or the markets and let the rain drum on the roof while you browse. Later, errands close to home, a late morning coffee with a window seat, or a tidy-up of neglected drawers will fit the mood. If the clouds briefly lift, take five minutes on the verandah, face to the pale sun, then let the curtain of rain close again.",
+    "color_code": "#6E7F8D",
+    "timestamp": "2025-09-07 09:47:07",
     "location": {
-        "name": "Burswood",
-        "latitude": -31.95100924301158,
-        "longitude": 115.8885355456909,
+        "name": "Fremantle",
+        "latitude": -32.05272680910707,
+        "longitude": 115.7432599028813,
         "timezone": "Australia/Perth"
     }
 }
