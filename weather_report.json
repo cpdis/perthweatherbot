@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Fremantle",
+            "name": "Rottnest Island",
             "country": "AU",
-            "latitude": -32.05272680910707,
-            "longitude": 115.7432599028813
+            "latitude": -31.99066244470752,
+            "longitude": 115.5386061216711
         },
         "current_conditions": {
-            "timestamp": "2025-09-07T01:47:07+00:00",
-            "temperature_c": 15.8,
-            "temperature_f": 60.440000000000005,
-            "humidity": 73,
-            "wind_speed_mph": 15.01027,
-            "wind_direction": 299,
-            "description": "overcast clouds"
+            "timestamp": "2025-09-07T04:24:33+00:00",
+            "temperature_c": 15.64,
+            "temperature_f": 60.152,
+            "humidity": 70,
+            "wind_speed_mph": 24.40567,
+            "wind_direction": 250,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2025-09-07T03:00:00+00:00",
-                "temperature": 15.8,
-                "windSpeed": 21.05017,
-                "windDirection": 253,
-                "shortForecast": "light rain"
+                "startTime": "2025-09-07T06:00:00+00:00",
+                "temperature": 15.26,
+                "windSpeed": 20.983060000000002,
+                "windDirection": 238,
+                "shortForecast": "moderate rain"
             },
             {
-                "startTime": "2025-09-07T06:00:00+00:00",
-                "temperature": 15,
-                "windSpeed": 16.30773,
-                "windDirection": 234,
-                "shortForecast": "moderate rain"
+                "startTime": "2025-09-07T09:00:00+00:00",
+                "temperature": 14.67,
+                "windSpeed": 27.55984,
+                "windDirection": 222,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Morning in Fremantle arrives under a pewter sky, the sea breeze carrying the smell of wet salt and eucalyptus as light rain noses in before lunch and thickens through the afternoon. Sunshine will be scarce, a muted glow at best, with the UV kept modest by the cloud deck, though a brief thinning around midday could still nip the unwary. The air feels clean but hazy at the edges; showers will soften the horizon and leave the streets shining like fish scales. It\u2019s a gentle, grey day rather than a harsh one, and the world seems to speak in lowered voices.\n\nDress in light layers with a waterproof shell and shoes you don\u2019t mind getting damp; pack a small umbrella for the busier bursts. If you\u2019re headed out now, enjoy a slow lap of the foreshore between showers, then duck into a bookshop or the markets and let the rain drum on the roof while you browse. Later, errands close to home, a late morning coffee with a window seat, or a tidy-up of neglected drawers will fit the mood. If the clouds briefly lift, take five minutes on the verandah, face to the pale sun, then let the curtain of rain close again.",
-    "color_code": "#6E7F8D",
-    "timestamp": "2025-09-07 09:47:07",
+    "weather_report": "Midday settles in with a pewter light over Rottnest, the sun pressed thin behind a quilt of cloud. Any sunshine will be brief and soft, with UV likely subdued under the overcast, edging toward moderate only if the cloud thins. The air feels cool and salt-bright; horizons are smudged and the water carries that bruised, blue-grey sheen that comes before weather. Expect showers to build into moderate rain through mid-afternoon, easing to lighter, lingering bursts toward evening, with a restless onshore breeze tugging at sleeves.\n\nIt\u2019s a day for comfort over bravado: a light waterproof shell over breathable layers, long pants, and shoes with grip; a hood will serve you better than an umbrella near the coast. If you\u2019re out, keep to the leeward paths for a short wander before the heavier showers arrive, then retreat to somewhere warm for a quiet hour with a book, a sketchpad, or the simple sport of people-watching. When the rain slackens later, step back out to admire the polished rocks and the softened palette of sea and sky, or take a few gentle photographs of the island in its moody afternoon suit.",
+    "color_code": "#6E7F91",
+    "timestamp": "2025-09-07 12:24:34",
     "location": {
-        "name": "Fremantle",
-        "latitude": -32.05272680910707,
-        "longitude": 115.7432599028813,
+        "name": "Rottnest Island",
+        "latitude": -31.99066244470752,
+        "longitude": 115.5386061216711,
         "timezone": "Australia/Perth"
     }
 }
