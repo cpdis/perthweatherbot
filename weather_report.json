@@ -3,42 +3,42 @@
         "location": {
             "name": "Rottnest Island",
             "country": "AU",
-            "latitude": -31.99066244470752,
-            "longitude": 115.5386061216711
+            "latitude": -31.99114096189183,
+            "longitude": 115.5387174925483
         },
         "current_conditions": {
-            "timestamp": "2025-09-07T04:24:33+00:00",
-            "temperature_c": 15.64,
-            "temperature_f": 60.152,
-            "humidity": 70,
-            "wind_speed_mph": 24.40567,
-            "wind_direction": 250,
-            "description": "light rain"
+            "timestamp": "2025-09-07T08:24:28+00:00",
+            "temperature_c": 14.52,
+            "temperature_f": 58.136,
+            "humidity": 64,
+            "wind_speed_mph": 27.067700000000002,
+            "wind_direction": 226,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-09-07T06:00:00+00:00",
-                "temperature": 15.26,
-                "windSpeed": 20.983060000000002,
-                "windDirection": 238,
-                "shortForecast": "moderate rain"
+                "startTime": "2025-09-07T09:00:00+00:00",
+                "temperature": 14.52,
+                "windSpeed": 26.73215,
+                "windDirection": 221,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-09-07T09:00:00+00:00",
-                "temperature": 14.67,
-                "windSpeed": 27.55984,
-                "windDirection": 222,
+                "startTime": "2025-09-07T12:00:00+00:00",
+                "temperature": 14.1,
+                "windSpeed": 25.636020000000002,
+                "windDirection": 219,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Midday settles in with a pewter light over Rottnest, the sun pressed thin behind a quilt of cloud. Any sunshine will be brief and soft, with UV likely subdued under the overcast, edging toward moderate only if the cloud thins. The air feels cool and salt-bright; horizons are smudged and the water carries that bruised, blue-grey sheen that comes before weather. Expect showers to build into moderate rain through mid-afternoon, easing to lighter, lingering bursts toward evening, with a restless onshore breeze tugging at sleeves.\n\nIt\u2019s a day for comfort over bravado: a light waterproof shell over breathable layers, long pants, and shoes with grip; a hood will serve you better than an umbrella near the coast. If you\u2019re out, keep to the leeward paths for a short wander before the heavier showers arrive, then retreat to somewhere warm for a quiet hour with a book, a sketchpad, or the simple sport of people-watching. When the rain slackens later, step back out to admire the polished rocks and the softened palette of sea and sky, or take a few gentle photographs of the island in its moody afternoon suit.",
-    "color_code": "#6E7F91",
-    "timestamp": "2025-09-07 12:24:34",
+    "weather_report": "Rottnest Island eases into late afternoon under a pewter sky, the sun mostly hidden and the UV mercifully low. Showers are gathering offshore and should slip across the island around sundown, softening the edges of the horizon and laying a salt-bright sheen on the paths. It feels gentle rather than grim: muted light, a bit of breeze, air that smells of seaweed and wet limestone. Expect a mostly grey, lightly rainy evening with only brief, pale glimmers of sun between clouds.\n\nDress for calm damp: a light rain shell over easy layers, comfortable shoes that won\u2019t mind puddles, and perhaps a cap to keep drizzle off your glasses. It\u2019s a good time for unhurried errands by bike before the rain sets in, a sheltered wander past the quokkas and tea-trees, or a quiet hour with a coffee near the jetty while the showers patter through. After dusk, lean into the coziness: a simple supper, a book, the soft thrum of rain on the roof.",
+    "color_code": "#6A7C8E",
+    "timestamp": "2025-09-07 16:24:28",
     "location": {
         "name": "Rottnest Island",
-        "latitude": -31.99066244470752,
-        "longitude": 115.5386061216711,
+        "latitude": -31.99114096189183,
+        "longitude": 115.5387174925483,
         "timezone": "Australia/Perth"
     }
 }
