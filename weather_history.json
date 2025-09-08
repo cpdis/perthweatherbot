@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-09-01 16:31:28",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95444930410785,
-      "longitude": 115.8525713586301,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-01T08:31:27+00:00",
-      "temperature_c": 19.35,
-      "temperature_f": 66.83,
-      "humidity": 50,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 260,
-      "description": "clear sky"
-    },
-    "report_summary": "Perth leans into late afternoon under a spotless sky, the light turning honeyed and long. The day ha...",
-    "color_code": "#F2C879"
-  },
-  {
     "timestamp": "2025-09-01 20:47:40",
     "location": {
       "name": "Subiaco",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Rottnest settles under a quiet, ink-blue sky, the night soft with scattered cloud and the hush that ...",
     "color_code": "#0D1B2A"
+  },
+  {
+    "timestamp": "2025-09-09 04:23:48",
+    "location": {
+      "name": "Rottnest Island",
+      "latitude": -31.99091870134762,
+      "longitude": 115.5379122266158,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-08T20:23:47+00:00",
+      "temperature_c": 7.3,
+      "temperature_f": 45.14,
+      "humidity": 78,
+      "wind_speed_mph": 12.23639,
+      "wind_direction": 135,
+      "description": "clear sky"
+    },
+    "report_summary": "Before sunrise the island sits in a blue hush, with scattered cloud drifting like torn pages, promis...",
+    "color_code": "#2E4057"
   }
 ]
