@@ -3,42 +3,42 @@
         "location": {
             "name": "Rottnest Island",
             "country": "AU",
-            "latitude": -31.9981405242891,
-            "longitude": 115.5420373444772
+            "latitude": -31.99092905629671,
+            "longitude": 115.5379533214965
         },
         "current_conditions": {
-            "timestamp": "2025-09-07T20:20:46+00:00",
-            "temperature_c": 7.9,
-            "temperature_f": 46.22,
-            "humidity": 81,
-            "wind_speed_mph": 24.09249,
-            "wind_direction": 204,
-            "description": "overcast clouds"
+            "timestamp": "2025-09-08T01:47:16+00:00",
+            "temperature_c": 11.75,
+            "temperature_f": 53.15,
+            "humidity": 58,
+            "wind_speed_mph": 15.770850000000001,
+            "wind_direction": 160,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-09-07T21:00:00+00:00",
-                "temperature": 7.9,
-                "windSpeed": 24.40567,
-                "windDirection": 198,
+                "startTime": "2025-09-08T03:00:00+00:00",
+                "temperature": 11.75,
+                "windSpeed": 15.18923,
+                "windDirection": 154,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-09-08T00:00:00+00:00",
-                "temperature": 9,
-                "windSpeed": 18.52236,
-                "windDirection": 176,
-                "shortForecast": "light rain"
+                "startTime": "2025-09-08T06:00:00+00:00",
+                "temperature": 12.17,
+                "windSpeed": 16.03929,
+                "windDirection": 178,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Before dawn the island sits under a soft drum of light rain, the kind that slicks the jetty timbers and hushes the gulls. Low cloud presses in and the horizon looks smudged, so expect a grey start with showers around dawn and into the morning. Sunshine will be scarce at first; any breaks will be brief and diluted, giving a pearly glow more than a blaze. UV is low in these early hours, but if the cloud thins later it can ramp up quickly in spring, so carry sunscreen even if the sky feels reluctant.\n\nIt\u2019s a day for practicality over bravado: a light waterproof over a breathable layer, shorts or quick-dry trousers, and shoes that don\u2019t mind puddles. It won\u2019t be harsh, just damp and a touch chilly in the breeze, quietly pleasant if you like the island in a reflective mood. Start with a slow coffee near the settlement while the showers loiter, then wander the sheltered paths or the museum when the rain thickens. If the drizzle slackens, an unhurried cycle to a windward cove can be lovely, the sea pewter and calm, though rocks will be slick. Keep plans flexible, pockets zipped, and eyes open for that fleeting pane of light when the clouds briefly remember how to part.",
-    "color_code": "#4F5E6C",
-    "timestamp": "2025-09-08 04:20:46",
+    "weather_report": "A muted morning settles over Rottnest, the sky a soft pewter and the sea brushed with a gentle sheen. Light showers look likely to drift in by late morning, then ease toward a patchwork of cloud through the afternoon, when the sun may slip through in shy, silvered bursts. Visibility stays decent, the air washed and clean after the passing spits of rain. Even with the cloud, the spring sun still has a bit of bite when it shows, so expect a moderate UV pulse during brighter spells.\n\nDress for a changeable day: a light layer with a thin rain shell, comfortable shoes that don\u2019t mind damp paths, a cap and a touch of sunscreen for the clearer patches. It\u2019s a good morning for an unhurried coffee near Thomson Bay, then a leisurely cycle between salt lakes while the showers taper off, pausing to watch the water turn from slate to turquoise as the light improves. Later, explore the museum or find a sheltered nook by a limestone wall with a book; if the sun peeks out, a short wander along the shoreline will feel unexpectedly kind.",
+    "color_code": "#7A8D9C",
+    "timestamp": "2025-09-08 09:47:17",
     "location": {
         "name": "Rottnest Island",
-        "latitude": -31.9981405242891,
-        "longitude": 115.5420373444772,
+        "latitude": -31.99092905629671,
+        "longitude": 115.5379533214965,
         "timezone": "Australia/Perth"
     }
 }

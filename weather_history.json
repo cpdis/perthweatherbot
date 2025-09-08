@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-08-31 20:40:26",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968800462573,
-      "longitude": 115.820775775922,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-31T12:40:25+00:00",
-      "temperature_c": 12.63,
-      "temperature_f": 54.734,
-      "humidity": 74,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 160,
-      "description": "clear sky"
-    },
-    "report_summary": "Night has settled over Subiaco with a glassy, uncomplicated sky; stars look newly minted and the air...",
-    "color_code": "#0B1D3A"
-  },
-  {
-    "timestamp": "2025-09-01 00:24:41",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968800462573,
-      "longitude": 115.820775775922,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-08-31T16:24:41+00:00",
-      "temperature_c": 10.64,
-      "temperature_f": 51.152,
-      "humidity": 76,
-      "wind_speed_mph": 0.0,
-      "wind_direction": 0,
-      "description": "clear sky"
-    },
-    "report_summary": "Just past midnight in Subiaco, the sky is polished and quiet, the kind of clear that makes stars loo...",
-    "color_code": "#0D1B2A"
-  },
-  {
     "timestamp": "2025-09-01 04:22:20",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Before dawn the island sits under a soft drum of light rain, the kind that slicks the jetty timbers ...",
     "color_code": "#4F5E6C"
+  },
+  {
+    "timestamp": "2025-09-08 09:47:17",
+    "location": {
+      "name": "Rottnest Island",
+      "latitude": -31.99092905629671,
+      "longitude": 115.5379533214965,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-08T01:47:16+00:00",
+      "temperature_c": 11.75,
+      "temperature_f": 53.15,
+      "humidity": 58,
+      "wind_speed_mph": 15.770850000000001,
+      "wind_direction": 160,
+      "description": "broken clouds"
+    },
+    "report_summary": "A muted morning settles over Rottnest, the sky a soft pewter and the sea brushed with a gentle sheen...",
+    "color_code": "#7A8D9C"
   }
 ]
