@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-01 09:59:17",
-    "location": {
-      "name": "West Perth",
-      "latitude": -31.95160864865027,
-      "longitude": 115.8434583345707,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-01T01:59:17+00:00",
-      "temperature_c": 16.65,
-      "temperature_f": 61.97,
-      "humidity": 54,
-      "wind_speed_mph": 4.60822,
-      "wind_direction": 10,
-      "description": "clear sky"
-    },
-    "report_summary": "West Perth steps into the late morning under a clean, enamel-blue sky, the sun already sure of itsel...",
-    "color_code": "#87CEFA"
-  },
-  {
-    "timestamp": "2025-09-01 12:30:57",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95348873432991,
-      "longitude": 115.8502917081907,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-01T04:30:56+00:00",
-      "temperature_c": 19.56,
-      "temperature_f": 67.208,
-      "humidity": 50,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 250,
-      "description": "clear sky"
-    },
-    "report_summary": "Perth leans into the first day of spring under a polished, cloudless sky. By early afternoon the sun...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-09-01 16:31:28",
     "location": {
       "name": "Perth",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon on Rottnest feels rinsed clean: a clear sky, sun laying a mellow sheen over sea and s...",
     "color_code": "#F2C47A"
+  },
+  {
+    "timestamp": "2025-09-08 20:47:21",
+    "location": {
+      "name": "Rottnest Island",
+      "latitude": -31.99091870134762,
+      "longitude": 115.5379122266158,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-08T12:47:20+00:00",
+      "temperature_c": 11.19,
+      "temperature_f": 52.141999999999996,
+      "humidity": 62,
+      "wind_speed_mph": 14.495760000000002,
+      "wind_direction": 174,
+      "description": "clear sky"
+    },
+    "report_summary": "Evening has settled softly over Rottnest Island, the sky mostly clear with only a few stray shreds o...",
+    "color_code": "#0b1e3b"
   }
 ]

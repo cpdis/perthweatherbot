@@ -3,42 +3,42 @@
         "location": {
             "name": "Rottnest Island",
             "country": "AU",
-            "latitude": -31.99218668393641,
-            "longitude": 115.5396786701249
+            "latitude": -31.99091870134762,
+            "longitude": 115.5379122266158
         },
         "current_conditions": {
-            "timestamp": "2025-09-08T08:31:13+00:00",
-            "temperature_c": 14,
-            "temperature_f": 57.2,
-            "humidity": 53,
-            "wind_speed_mph": 14.40628,
-            "wind_direction": 185,
+            "timestamp": "2025-09-08T12:47:20+00:00",
+            "temperature_c": 11.19,
+            "temperature_f": 52.141999999999996,
+            "humidity": 62,
+            "wind_speed_mph": 14.495760000000002,
+            "wind_direction": 174,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-08T09:00:00+00:00",
-                "temperature": 14,
-                "windSpeed": 14.40628,
-                "windDirection": 185,
-                "shortForecast": "clear sky"
+                "startTime": "2025-09-08T15:00:00+00:00",
+                "temperature": 10.74,
+                "windSpeed": 17.96311,
+                "windDirection": 148,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-09-08T12:00:00+00:00",
-                "temperature": 13.63,
-                "windSpeed": 14.965530000000001,
-                "windDirection": 177,
-                "shortForecast": "clear sky"
+                "startTime": "2025-09-08T18:00:00+00:00",
+                "temperature": 9.22,
+                "windSpeed": 13.712810000000001,
+                "windDirection": 136,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Late afternoon on Rottnest feels rinsed clean: a clear sky, sun laying a mellow sheen over sea and sand, air steady and uncomplicated. It has been a bright, sun-forward day and remains so into early evening, though the light is softening and the UV is ebbing from earlier, likely moderate levels to something gentler; the glare off the water still asks for sunglasses now, but sunscreen can soon retreat to the bag. Visibility is crisp, colors are honest, and the breeze, if it stirs, simply tidies the edges.\n\nExpect the evening to stay cloudless and serene, with a comfortable coolness settling after sunset. Dress in easy layers\u2014a light shirt for the last golden hour and a cardigan or windbreaker for when the warmth slips away. Good hours for unhurried things: a shoreline wander with long shadows, a quiet perch on a bench to watch the ferry wakes unspool, a leisurely spin to a sheltered cove, or an early dinner outdoors, letting the sky do its slow, amber work.",
-    "color_code": "#F2C47A",
-    "timestamp": "2025-09-08 16:31:14",
+    "weather_report": "Evening has settled softly over Rottnest Island, the sky mostly clear with only a few stray shreds of cloud sliding past and plenty of stars showing through. The air feels clean and a touch cool, the horizon sharp, the water dark and steady. UV is essentially nil now, and the night promises to stay tranquil and mostly clear, with only occasional cloudlets.\n\nBy morning, this pattern leans toward a bright start and a generous share of sunshine, so expect a clear, crisp look to the day and UV that rises quickly through late morning. Dress in easy layers tonight\u2014a light jumper or windbreaker if you linger by the shore\u2014and plan on sunscreen, sunglasses, and a brimmed hat once the sun is up. For now, it\u2019s a good night for an unhurried stroll to hear the swash of the bay, or to sit outside after dinner and watch the constellations gather; come early light, a quiet coffee on the veranda or a gentle spin to a nearby lookout will suit the calm mood.",
+    "color_code": "#0b1e3b",
+    "timestamp": "2025-09-08 20:47:21",
     "location": {
         "name": "Rottnest Island",
-        "latitude": -31.99218668393641,
-        "longitude": 115.5396786701249,
+        "latitude": -31.99091870134762,
+        "longitude": 115.5379122266158,
         "timezone": "Australia/Perth"
     }
 }
