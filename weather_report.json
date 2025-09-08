@@ -3,42 +3,42 @@
         "location": {
             "name": "Rottnest Island",
             "country": "AU",
-            "latitude": -31.99092905629671,
-            "longitude": 115.5379533214965
+            "latitude": -31.99722523112903,
+            "longitude": 115.5419591524096
         },
         "current_conditions": {
-            "timestamp": "2025-09-08T01:47:16+00:00",
-            "temperature_c": 11.75,
-            "temperature_f": 53.15,
-            "humidity": 58,
-            "wind_speed_mph": 15.770850000000001,
-            "wind_direction": 160,
-            "description": "broken clouds"
+            "timestamp": "2025-09-08T04:27:15+00:00",
+            "temperature_c": 12.9,
+            "temperature_f": 55.22,
+            "humidity": 56,
+            "wind_speed_mph": 14.876050000000001,
+            "wind_direction": 164,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-09-08T03:00:00+00:00",
-                "temperature": 11.75,
-                "windSpeed": 15.18923,
-                "windDirection": 154,
-                "shortForecast": "light rain"
-            },
-            {
                 "startTime": "2025-09-08T06:00:00+00:00",
-                "temperature": 12.17,
+                "temperature": 12.94,
                 "windSpeed": 16.03929,
                 "windDirection": 178,
                 "shortForecast": "broken clouds"
+            },
+            {
+                "startTime": "2025-09-08T09:00:00+00:00",
+                "temperature": 13.24,
+                "windSpeed": 13.668070000000002,
+                "windDirection": 184,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "A muted morning settles over Rottnest, the sky a soft pewter and the sea brushed with a gentle sheen. Light showers look likely to drift in by late morning, then ease toward a patchwork of cloud through the afternoon, when the sun may slip through in shy, silvered bursts. Visibility stays decent, the air washed and clean after the passing spits of rain. Even with the cloud, the spring sun still has a bit of bite when it shows, so expect a moderate UV pulse during brighter spells.\n\nDress for a changeable day: a light layer with a thin rain shell, comfortable shoes that don\u2019t mind damp paths, a cap and a touch of sunscreen for the clearer patches. It\u2019s a good morning for an unhurried coffee near Thomson Bay, then a leisurely cycle between salt lakes while the showers taper off, pausing to watch the water turn from slate to turquoise as the light improves. Later, explore the museum or find a sheltered nook by a limestone wall with a book; if the sun peeks out, a short wander along the shoreline will feel unexpectedly kind.",
-    "color_code": "#7A8D9C",
-    "timestamp": "2025-09-08 09:47:17",
+    "weather_report": "Midday on Rottnest arrives with a gentle shimmer: sun working through patchy cloud, the air bright but softened, the horizon a salt-washed line. Expect a little more cloud building into the early afternoon, then easing to a cleaner, scattered sky toward late day, so the light should turn clearer and more golden as the shadows lengthen. UV is high now despite the veils of cloud, moderating later; it\u2019s the sort of day that looks pleasant and stays that way if you respect the sun.\n\nDress in light, breathable layers, a brimmed hat and sunglasses, and carry sunscreen; a light jumper won\u2019t go astray when the sea breeze freshens. It\u2019s a good afternoon for an unhurried spin on a hire bike, a wander along Thomson Bay with a coffee in hand, or a short swim where the water looks settled, followed by a quiet read on a bench with your back to the wind. As the sky clears toward evening, a stroll up to a lookout will reward you with a clearer view and calmer light, the island\u2019s colors tidier and true.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-09-08 12:27:15",
     "location": {
         "name": "Rottnest Island",
-        "latitude": -31.99092905629671,
-        "longitude": 115.5379533214965,
+        "latitude": -31.99722523112903,
+        "longitude": 115.5419591524096,
         "timezone": "Australia/Perth"
     }
 }
