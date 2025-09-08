@@ -7,34 +7,34 @@
             "longitude": 115.5379122266158
         },
         "current_conditions": {
-            "timestamp": "2025-09-08T12:47:20+00:00",
-            "temperature_c": 11.19,
-            "temperature_f": 52.141999999999996,
-            "humidity": 62,
-            "wind_speed_mph": 14.495760000000002,
-            "wind_direction": 174,
-            "description": "clear sky"
+            "timestamp": "2025-09-08T16:26:52+00:00",
+            "temperature_c": 8.97,
+            "temperature_f": 48.146,
+            "humidity": 75,
+            "wind_speed_mph": 17.38149,
+            "wind_direction": 136,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-09-08T15:00:00+00:00",
-                "temperature": 10.74,
-                "windSpeed": 17.96311,
-                "windDirection": 148,
-                "shortForecast": "few clouds"
-            },
-            {
                 "startTime": "2025-09-08T18:00:00+00:00",
-                "temperature": 9.22,
+                "temperature": 8.76,
                 "windSpeed": 13.712810000000001,
                 "windDirection": 136,
-                "shortForecast": "few clouds"
+                "shortForecast": "scattered clouds"
+            },
+            {
+                "startTime": "2025-09-08T21:00:00+00:00",
+                "temperature": 7.78,
+                "windSpeed": 12.16928,
+                "windDirection": 139,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Evening has settled softly over Rottnest Island, the sky mostly clear with only a few stray shreds of cloud sliding past and plenty of stars showing through. The air feels clean and a touch cool, the horizon sharp, the water dark and steady. UV is essentially nil now, and the night promises to stay tranquil and mostly clear, with only occasional cloudlets.\n\nBy morning, this pattern leans toward a bright start and a generous share of sunshine, so expect a clear, crisp look to the day and UV that rises quickly through late morning. Dress in easy layers tonight\u2014a light jumper or windbreaker if you linger by the shore\u2014and plan on sunscreen, sunglasses, and a brimmed hat once the sun is up. For now, it\u2019s a good night for an unhurried stroll to hear the swash of the bay, or to sit outside after dinner and watch the constellations gather; come early light, a quiet coffee on the veranda or a gentle spin to a nearby lookout will suit the calm mood.",
-    "color_code": "#0b1e3b",
-    "timestamp": "2025-09-08 20:47:21",
+    "weather_report": "Rottnest settles under a quiet, ink-blue sky, the night soft with scattered cloud and the hush that follows the last ferry. Stars wink through the gaps, and the air carries that cool, salty nip that makes you tuck your hands into your sleeves. UV is essentially absent now, and the island feels unhurried, a good hour for listening to the water lap at the jetty and the breeze tease the casuarinas.\n\nToward dawn those patchy clouds should linger as decoration rather than threat, letting ribbons of sunshine through; the day looks clear-leaning and bright, with visibility crisp and colors clean. Expect a cool start that edges toward comfortably mild; light layers will serve you best, a windproof shell for early rides, and by late morning, hat and sunscreen as the spring sun wakes fast and UV climbs to moderate, possibly strong. This is a day for unhurried circuits by bike, pausing at a quiet cove to watch the light change; for a coffee on the veranda while the island yawns awake; for a lighthouse amble or a notebook and a shaded bench, letting the hours do the talking.",
+    "color_code": "#0D1B2A",
+    "timestamp": "2025-09-09 00:26:52",
     "location": {
         "name": "Rottnest Island",
         "latitude": -31.99091870134762,
