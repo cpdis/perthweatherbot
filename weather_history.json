@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-01 20:47:40",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969409194596,
-      "longitude": 115.8206776231053,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-01T12:47:39+00:00",
-      "temperature_c": 14.08,
-      "temperature_f": 57.344,
-      "humidity": 78,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 200,
-      "description": "few clouds"
-    },
-    "report_summary": "Subiaco settles into a serene night: the last smudges of afternoon cloud gave way to a clean, transp...",
-    "color_code": "#0b1d3a"
-  },
-  {
-    "timestamp": "2025-09-02 00:26:15",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969409194596,
-      "longitude": 115.8206776231053,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-01T16:26:14+00:00",
-      "temperature_c": 11.72,
-      "temperature_f": 53.096000000000004,
-      "humidity": 83,
-      "wind_speed_mph": 0.0,
-      "wind_direction": 0,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco settles into the small hours under a clean, quiet sky, the kind of clear darkness that sharp...",
-    "color_code": "#0a1e3f"
-  },
-  {
     "timestamp": "2025-09-02 04:22:21",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Before sunrise the island sits in a blue hush, with scattered cloud drifting like torn pages, promis...",
     "color_code": "#2E4057"
+  },
+  {
+    "timestamp": "2025-09-09 09:43:46",
+    "location": {
+      "name": "Rottnest Island",
+      "latitude": -31.99093337398816,
+      "longitude": 115.5380008910035,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-09T01:43:46+00:00",
+      "temperature_c": 13.41,
+      "temperature_f": 56.138,
+      "humidity": 64,
+      "wind_speed_mph": 9.66384,
+      "wind_direction": 131,
+      "description": "clear sky"
+    },
+    "report_summary": "Rottnest wakes under a polished, salt-bright sky; the light is already crisp enough to throw hard ed...",
+    "color_code": "#00BFFF"
   }
 ]

@@ -3,42 +3,42 @@
         "location": {
             "name": "Rottnest Island",
             "country": "AU",
-            "latitude": -31.99091870134762,
-            "longitude": 115.5379122266158
+            "latitude": -31.99093337398816,
+            "longitude": 115.5380008910035
         },
         "current_conditions": {
-            "timestamp": "2025-09-08T20:23:47+00:00",
-            "temperature_c": 7.3,
-            "temperature_f": 45.14,
-            "humidity": 78,
-            "wind_speed_mph": 12.23639,
-            "wind_direction": 135,
+            "timestamp": "2025-09-09T01:43:46+00:00",
+            "temperature_c": 13.41,
+            "temperature_f": 56.138,
+            "humidity": 64,
+            "wind_speed_mph": 9.66384,
+            "wind_direction": 131,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-08T21:00:00+00:00",
-                "temperature": 7.3,
-                "windSpeed": 12.16928,
-                "windDirection": 138,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-09-09T03:00:00+00:00",
+                "temperature": 13.41,
+                "windSpeed": 7.74002,
+                "windDirection": 147,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-09-09T00:00:00+00:00",
-                "temperature": 8.65,
-                "windSpeed": 11.4087,
-                "windDirection": 126,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-09-09T06:00:00+00:00",
+                "temperature": 13.33,
+                "windSpeed": 12.21402,
+                "windDirection": 203,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Before sunrise the island sits in a blue hush, with scattered cloud drifting like torn pages, promising a soft, streaked dawn rather than a hard, cloudless glare. Expect a mostly bright day with patches of shade slipping through; the sun should assert itself after breakfast, and while the UV is low now, it will rise to moderate or even high by late morning, so plan on sunscreen and sunglasses once the light sharpens. The air will feel cool at first, then pleasantly mild, the kind of clarity that makes distances seem closer and colors a little truer. Dress in easy layers with a light windbreaker, and pocket a hat for later. It\u2019s a good morning for ordinary, satisfying errands of leisure: a quiet ride along the salt lakes before the day gathers pace, coffee by the water while the light ripples into silver, a slow beachcombing circuit where the tide has written its overnight ledger, or a sketchbook moment on a bench while ferries stitch their lines across the bay.",
-    "color_code": "#2E4057",
-    "timestamp": "2025-09-09 04:23:48",
+    "weather_report": "Rottnest wakes under a polished, salt-bright sky; the light is already crisp enough to throw hard edges on the dunes and turn the sea into hammered glass. With the forecast holding clear through midday and early afternoon, expect generous sunshine and excellent visibility. The UV index climbs quickly here even in spring, likely high around the middle of the day, so the sun will feel honest and insistent on bare skin.\n\nIt looks like a pleasant day made for unhurried errands of the spirit: an easy bike roll along the coast while the breeze is still a murmur, a short snorkel in a sheltered cove before the wind ruffles the surface, or simply lingering at a bench with coffee, watching ferries stitch the horizon. Dress light and breathable; add a brimmed hat, sunglasses, and broad-spectrum sunscreen, and consider a long-sleeve layer for the midday hours. By early afternoon, retreat to patches of shade, read a few pages, or wander tide pools without hurry\u2014the kind of day that rewards being outside but measured, letting the bright blue do most of the talking.",
+    "color_code": "#00BFFF",
+    "timestamp": "2025-09-09 09:43:46",
     "location": {
         "name": "Rottnest Island",
-        "latitude": -31.99091870134762,
-        "longitude": 115.5379122266158,
+        "latitude": -31.99093337398816,
+        "longitude": 115.5380008910035,
         "timezone": "Australia/Perth"
     }
 }
