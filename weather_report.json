@@ -3,42 +3,42 @@
         "location": {
             "name": "Rottnest Island",
             "country": "AU",
-            "latitude": -31.99093337398816,
-            "longitude": 115.5380008910035
+            "latitude": -31.99809764806198,
+            "longitude": 115.542177969908
         },
         "current_conditions": {
-            "timestamp": "2025-09-09T01:43:46+00:00",
-            "temperature_c": 13.41,
-            "temperature_f": 56.138,
-            "humidity": 64,
-            "wind_speed_mph": 9.66384,
-            "wind_direction": 131,
-            "description": "clear sky"
+            "timestamp": "2025-09-09T04:26:41+00:00",
+            "temperature_c": 15.12,
+            "temperature_f": 59.215999999999994,
+            "humidity": 57,
+            "wind_speed_mph": 7.717650000000001,
+            "wind_direction": 175,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-09-09T03:00:00+00:00",
-                "temperature": 13.41,
-                "windSpeed": 7.74002,
-                "windDirection": 147,
-                "shortForecast": "clear sky"
-            },
-            {
                 "startTime": "2025-09-09T06:00:00+00:00",
-                "temperature": 13.33,
+                "temperature": 14.47,
                 "windSpeed": 12.21402,
                 "windDirection": 203,
                 "shortForecast": "clear sky"
+            },
+            {
+                "startTime": "2025-09-09T09:00:00+00:00",
+                "temperature": 14.5,
+                "windSpeed": 12.750900000000001,
+                "windDirection": 199,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Rottnest wakes under a polished, salt-bright sky; the light is already crisp enough to throw hard edges on the dunes and turn the sea into hammered glass. With the forecast holding clear through midday and early afternoon, expect generous sunshine and excellent visibility. The UV index climbs quickly here even in spring, likely high around the middle of the day, so the sun will feel honest and insistent on bare skin.\n\nIt looks like a pleasant day made for unhurried errands of the spirit: an easy bike roll along the coast while the breeze is still a murmur, a short snorkel in a sheltered cove before the wind ruffles the surface, or simply lingering at a bench with coffee, watching ferries stitch the horizon. Dress light and breathable; add a brimmed hat, sunglasses, and broad-spectrum sunscreen, and consider a long-sleeve layer for the midday hours. By early afternoon, retreat to patches of shade, read a few pages, or wander tide pools without hurry\u2014the kind of day that rewards being outside but measured, letting the bright blue do most of the talking.",
-    "color_code": "#00BFFF",
-    "timestamp": "2025-09-09 09:43:46",
+    "weather_report": "Midday on Rottnest feels washed in clean, salt-bright light, the sort that sharpens edges and makes the ocean hum with color. The forecast leans toward a clear early afternoon, then softening into scattered cloud toward late day, so expect a sun-forward few hours followed by gentler, painterly skies. UV will be punchy through the early afternoon despite the spring-fresh air; it\u2019s the kind of day where shade is your friend, and the horizon looks wonderfully crisp.\n\nDress for an easy amble: light layers, a brimmed hat, sunglasses that don\u2019t squint at the world, and sunscreen you\u2019ll actually reapply. Tuck a light jumper in your bag for the cooler turn near sunset. It\u2019s a pleasant day to do ordinary things well\u2014nurse a coffee on the jetty and watch the ferries trade lines on the water, wander the path by the salt lakes and count the shifts of color, leaf through a paperback on a bench with your back to the wind, or browse the little museum before a lazy circuit to a quiet cove. Let the scattered clouds, when they arrive, take the glare off the afternoon and make a slow walk feel like the right kind of plan.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-09-09 12:26:41",
     "location": {
         "name": "Rottnest Island",
-        "latitude": -31.99093337398816,
-        "longitude": 115.5380008910035,
+        "latitude": -31.99809764806198,
+        "longitude": 115.542177969908,
         "timezone": "Australia/Perth"
     }
 }
