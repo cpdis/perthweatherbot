@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Fremantle",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -32.05267588786901,
-            "longitude": 115.742999924781
+            "latitude": -31.94970678224841,
+            "longitude": 115.820787786265
         },
         "current_conditions": {
-            "timestamp": "2025-09-09T08:29:35+00:00",
-            "temperature_c": 15.69,
-            "temperature_f": 60.242000000000004,
-            "humidity": 54,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 240,
-            "description": "scattered clouds"
+            "timestamp": "2025-09-09T12:47:53+00:00",
+            "temperature_c": 12.21,
+            "temperature_f": 53.978,
+            "humidity": 71,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 170,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-09T09:00:00+00:00",
-                "temperature": 15.69,
-                "windSpeed": 12.818010000000001,
-                "windDirection": 200,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-09-09T15:00:00+00:00",
+                "temperature": 11.64,
+                "windSpeed": 6.39782,
+                "windDirection": 130,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-09-09T12:00:00+00:00",
-                "temperature": 14.7,
-                "windSpeed": 12.59431,
-                "windDirection": 152,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-09-09T18:00:00+00:00",
+                "temperature": 9.54,
+                "windSpeed": 5.41354,
+                "windDirection": 86,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Late afternoon settles over Fremantle with a mellow, salt-laced light slipping between scattered clouds. The day feels open and clear, the horizon crisp, sun softened rather than fierce. UV has eased toward the low end now, though it likely had a sharper bite earlier; sunglasses still earn their keep for the next hour, but the urgency fades as the sun slides down. The sky carries that gentle sheen that makes everything look a touch more forgiving.\n\nInto the early evening, the patchwork cloud remains, broken enough to promise a few warm glints and a clean dusk. It looks like a pleasant, unhurried few hours ahead, inviting light layers: a tee or linen shirt now, a thin jumper in your bag for later when the air thins out after sunset. Good time for small, ordinary things done slowly\u2014an amble to pick up bread, a quiet spin on the bike along side streets, watering the herbs, or taking your book to the porch to read the day out.",
-    "color_code": "#F4C27A",
-    "timestamp": "2025-09-09 16:29:36",
+    "weather_report": "Evening has settled over Subiaco with a quiet, open sky and just a few clouds unhurriedly passing through. The air feels clean and steady, good for breathing deeply; visibility is crisp, and the last warmth of the day has slipped away. Sunshine is done for now, of course, and the UV index has fallen to near nothing, leaving the night gentle and low-key.\n\nFor the rest of the evening and into the small hours, expect that same mostly clear canvas with a light, occasional veil of cloud. It looks pleasant rather than bracing: a night for a light sweater or an easy jacket if you wander out. Take a slow walk after dinner, give the dog a longer loop, or linger on the porch with a book while the neighborhood softens around you. If you\u2019re preparing for tomorrow, set out your bag by the door and enjoy the calm; after sunrise, the light will return, but for now it\u2019s a clear, unhurried night.",
+    "color_code": "#0D1B2A",
+    "timestamp": "2025-09-09 20:47:54",
     "location": {
-        "name": "Fremantle",
-        "latitude": -32.05267588786901,
-        "longitude": 115.742999924781,
+        "name": "Subiaco",
+        "latitude": -31.94970678224841,
+        "longitude": 115.820787786265,
         "timezone": "Australia/Perth"
     }
 }
