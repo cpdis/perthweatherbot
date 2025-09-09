@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Rottnest Island",
+            "name": "Fremantle",
             "country": "AU",
-            "latitude": -31.99809764806198,
-            "longitude": 115.542177969908
+            "latitude": -32.05267588786901,
+            "longitude": 115.742999924781
         },
         "current_conditions": {
-            "timestamp": "2025-09-09T04:26:41+00:00",
-            "temperature_c": 15.12,
-            "temperature_f": 59.215999999999994,
-            "humidity": 57,
-            "wind_speed_mph": 7.717650000000001,
-            "wind_direction": 175,
-            "description": "few clouds"
+            "timestamp": "2025-09-09T08:29:35+00:00",
+            "temperature_c": 15.69,
+            "temperature_f": 60.242000000000004,
+            "humidity": 54,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 240,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-09-09T06:00:00+00:00",
-                "temperature": 14.47,
-                "windSpeed": 12.21402,
-                "windDirection": 203,
-                "shortForecast": "clear sky"
+                "startTime": "2025-09-09T09:00:00+00:00",
+                "temperature": 15.69,
+                "windSpeed": 12.818010000000001,
+                "windDirection": 200,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-09-09T09:00:00+00:00",
-                "temperature": 14.5,
-                "windSpeed": 12.750900000000001,
-                "windDirection": 199,
+                "startTime": "2025-09-09T12:00:00+00:00",
+                "temperature": 14.7,
+                "windSpeed": 12.59431,
+                "windDirection": 152,
                 "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Midday on Rottnest feels washed in clean, salt-bright light, the sort that sharpens edges and makes the ocean hum with color. The forecast leans toward a clear early afternoon, then softening into scattered cloud toward late day, so expect a sun-forward few hours followed by gentler, painterly skies. UV will be punchy through the early afternoon despite the spring-fresh air; it\u2019s the kind of day where shade is your friend, and the horizon looks wonderfully crisp.\n\nDress for an easy amble: light layers, a brimmed hat, sunglasses that don\u2019t squint at the world, and sunscreen you\u2019ll actually reapply. Tuck a light jumper in your bag for the cooler turn near sunset. It\u2019s a pleasant day to do ordinary things well\u2014nurse a coffee on the jetty and watch the ferries trade lines on the water, wander the path by the salt lakes and count the shifts of color, leaf through a paperback on a bench with your back to the wind, or browse the little museum before a lazy circuit to a quiet cove. Let the scattered clouds, when they arrive, take the glare off the afternoon and make a slow walk feel like the right kind of plan.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-09-09 12:26:41",
+    "weather_report": "Late afternoon settles over Fremantle with a mellow, salt-laced light slipping between scattered clouds. The day feels open and clear, the horizon crisp, sun softened rather than fierce. UV has eased toward the low end now, though it likely had a sharper bite earlier; sunglasses still earn their keep for the next hour, but the urgency fades as the sun slides down. The sky carries that gentle sheen that makes everything look a touch more forgiving.\n\nInto the early evening, the patchwork cloud remains, broken enough to promise a few warm glints and a clean dusk. It looks like a pleasant, unhurried few hours ahead, inviting light layers: a tee or linen shirt now, a thin jumper in your bag for later when the air thins out after sunset. Good time for small, ordinary things done slowly\u2014an amble to pick up bread, a quiet spin on the bike along side streets, watering the herbs, or taking your book to the porch to read the day out.",
+    "color_code": "#F4C27A",
+    "timestamp": "2025-09-09 16:29:36",
     "location": {
-        "name": "Rottnest Island",
-        "latitude": -31.99809764806198,
-        "longitude": 115.542177969908,
+        "name": "Fremantle",
+        "latitude": -32.05267588786901,
+        "longitude": 115.742999924781,
         "timezone": "Australia/Perth"
     }
 }
