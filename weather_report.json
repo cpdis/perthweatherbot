@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94967566455843,
-            "longitude": 115.820870868597
+            "latitude": -31.94970711744894,
+            "longitude": 115.8208069155905
         },
         "current_conditions": {
-            "timestamp": "2025-09-10T08:29:39+00:00",
-            "temperature_c": 18.89,
-            "temperature_f": 66.002,
-            "humidity": 51,
-            "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 220,
+            "timestamp": "2025-09-10T12:43:31+00:00",
+            "temperature_c": 12.86,
+            "temperature_f": 55.147999999999996,
+            "humidity": 71,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 190,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-10T09:00:00+00:00",
-                "temperature": 18.89,
-                "windSpeed": 6.2636,
-                "windDirection": 194,
+                "startTime": "2025-09-10T15:00:00+00:00",
+                "temperature": 12.44,
+                "windSpeed": 5.27932,
+                "windDirection": 98,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-09-10T12:00:00+00:00",
-                "temperature": 17.23,
-                "windSpeed": 9.104590000000002,
-                "windDirection": 157,
+                "startTime": "2025-09-10T18:00:00+00:00",
+                "temperature": 10.43,
+                "windSpeed": 7.628170000000001,
+                "windDirection": 79,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco sits under an immaculate sky this late afternoon, the light turning honeyed at the edges while the air stays dry and crystal clear. The day has been unblemished since morning, a hard blue dome and full sun; UV would have run moderate to high around midday, but it\u2019s easing quickly now as the sun begins its slide and the sting softens into warmth. Expect the clarity to hold through the rest of the day with a gentle cool-down toward evening.\n\nDress in light layers: a breathable shirt for the lingering warmth, sunglasses for the bright glare, and if you head out again before the sun sinks much lower, a hat and a touch of sunscreen won\u2019t be wasted; by dusk, a light jacket will feel right. It\u2019s pleasant weather for small errands done on foot, a quiet spin to the library, hanging the last load of washing, or a slow circuit around the neighborhood to clear the day\u2019s chatter before dinner. If you have a balcony or stoop, take ten minutes there and let the sky do its unbusy work.",
-    "color_code": "#F2C16D",
-    "timestamp": "2025-09-10 16:29:39",
+    "weather_report": "Subiaco slips into a polished, transparent night, the kind where the day\u2019s glare has retired and the sky looks newly washed. The forecast keeps it simple: clear this evening and clear after midnight, which means no sun now and a UV index that has curled up and gone to sleep. The day likely wore a bright, uncomplicated face, and the clarity lingers after dark; visibility is crisp, stars feel close, and the air carries that faint, cooling hush that invites unhurried breaths.\n\nIt\u2019s a pleasant night if you dress with a little foresight: a light jacket or soft sweater over whatever you wore to work, maybe a scarf if you plan to linger. This is good weather for small, ordinary pleasures\u2014an easy loop around the block beneath the jacarandas, a quiet sit on the veranda with a book, a tidy of the kitchen, watering the pots, or a call you\u2019ve been meaning to make. If you\u2019re stepping out early tomorrow, plan for a sunny start and take sunglasses and a dab of sunscreen; clear nights often hand the morning a bright, quickening light.",
+    "color_code": "#0D1B2A",
+    "timestamp": "2025-09-10 20:43:31",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94967566455843,
-        "longitude": 115.820870868597,
+        "latitude": -31.94970711744894,
+        "longitude": 115.8208069155905,
         "timezone": "Australia/Perth"
     }
 }
