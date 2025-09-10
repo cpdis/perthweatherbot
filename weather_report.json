@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94970678224841,
-            "longitude": 115.820787786265
+            "latitude": -31.94970268061069,
+            "longitude": 115.8207478223678
         },
         "current_conditions": {
-            "timestamp": "2025-09-09T20:23:20+00:00",
-            "temperature_c": 7.5,
-            "temperature_f": 45.5,
-            "humidity": 82,
-            "wind_speed_mph": 2.30411,
-            "wind_direction": 20,
+            "timestamp": "2025-09-10T01:40:31+00:00",
+            "temperature_c": 15.09,
+            "temperature_f": 59.162,
+            "humidity": 64,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 80,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-09T21:00:00+00:00",
-                "temperature": 7.5,
-                "windSpeed": 7.51632,
-                "windDirection": 89,
+                "startTime": "2025-09-10T03:00:00+00:00",
+                "temperature": 15.09,
+                "windSpeed": 8.276900000000001,
+                "windDirection": 59,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-09-10T00:00:00+00:00",
-                "temperature": 8.48,
-                "windSpeed": 9.3954,
-                "windDirection": 79,
+                "startTime": "2025-09-10T06:00:00+00:00",
+                "temperature": 16.16,
+                "windSpeed": 0.78295,
+                "windDirection": 112,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "A quiet, predawn cool hangs over Subiaco, the sky swept clean and crystalline, promising a sunrise without fuss. The air feels crisp on the skin, the kind that sharpens edges and makes rooftops and treetops look newly drawn. With clear skies lining up for the morning, the day looks bright and uncomplicated, the sort of clarity that turns shadows inky and colors honest.\n\nExpect abundant sunshine once the light arrives; in early spring the UV climbs quickly, so sunglasses, a hat, and a touch of sunscreen are wise even if the air starts off gentle. Dress in light layers for the chill at first light, shedding to short sleeves by midmorning. It\u2019s a pleasantly straightforward day to walk to the bakery, hang a fresh wash to dry, or give the garden a tidy before the sun grows assertive. Open a window, let the house breathe, and take your coffee outdoors while the light is still soft.",
-    "color_code": "#1E3A8A",
-    "timestamp": "2025-09-10 04:23:21",
+    "weather_report": "Subiaco wakes under a clear, rinsed-blue sky, the sun already drawing sharp edges on verandas and gum leaves. The air feels clean and dry, visibility long and generous, and the light has that honest spring brightness that makes colors ring. UV will climb steadily through the late morning, so while the warmth is civil, the sun itself will be assertive by midday.\n\nThrough the afternoon the forecast stays simple: cloudless, bright, and good for getting small things done. Think light layers with breathable sleeves, sunglasses, a brimmed hat, and a lick of sunscreen; carry water if you\u2019re out a while. It\u2019s a pleasant day for a slow walk to the shops, a coffee on a shaded terrace, or hanging the washing where it can dry in a cheerful breeze. If you\u2019re keen on fresh air, aim for mid-morning or later afternoon when the sun\u2019s angle softens; tuck into a book on a park bench under a tree when the light gets fierce.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-09-10 09:40:31",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94970678224841,
-        "longitude": 115.820787786265,
+        "latitude": -31.94970268061069,
+        "longitude": 115.8207478223678,
         "timezone": "Australia/Perth"
     }
 }
