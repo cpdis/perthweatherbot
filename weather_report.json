@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94967614781039,
-            "longitude": 115.8208683868057
+            "latitude": -31.94967613970203,
+            "longitude": 115.8208683654159
         },
         "current_conditions": {
-            "timestamp": "2025-09-11T01:43:06+00:00",
-            "temperature_c": 17.48,
-            "temperature_f": 63.464,
-            "humidity": 51,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 60,
+            "timestamp": "2025-09-11T04:25:55+00:00",
+            "temperature_c": 21.67,
+            "temperature_f": 71.006,
+            "humidity": 37,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 30,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-11T03:00:00+00:00",
-                "temperature": 17.48,
-                "windSpeed": 11.07315,
-                "windDirection": 29,
+                "startTime": "2025-09-11T06:00:00+00:00",
+                "temperature": 21.34,
+                "windSpeed": 6.375450000000001,
+                "windDirection": 8,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-09-11T06:00:00+00:00",
-                "temperature": 18.37,
-                "windSpeed": 6.375450000000001,
-                "windDirection": 8,
+                "startTime": "2025-09-11T09:00:00+00:00",
+                "temperature": 20.56,
+                "windSpeed": 5.90568,
+                "windDirection": 44,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Morning in Subiaco arrives uncomplicated and bright, the sky already rinsed clean and set to stay that way into the afternoon. Expect a generous pour of sunshine with crisp visibility and that sharpening spring light; UV will climb quickly around midday, so favor sunscreen, sunglasses, and a brim. The day looks kind and steady rather than dramatic, a clear blue arc inviting unhurried plans.\n\nDress in light layers you can shed as the warmth gathers, breathable fabrics and comfortable shoes for a gentle wander. It\u2019s a good morning to take your coffee outdoors, run a few errands on foot, air the sheets on the line, or thumb through a book on a shaded bench. By early afternoon the brightness will still be unwavering, suited to a quiet loop through the neighborhood or a quick stop at the grocer, finishing with a late lunch in the soft spill of light before it eases toward evening.",
+    "weather_report": "Midday in Subiaco arrives bright and uncomplicated, the sky a clean sheet with not a cloud to smudge it. Sunlight has a confident bite now and will sharpen through the early afternoon; the UV will run strong, so think brimmed hat, sunglasses, and sunscreen if you\u2019re stepping out. The air feels honest and dry, visibility crisp enough to read distant details on rooftops, and this clarity should hold through late afternoon into a gentle, golden evening. It looks like one of those mild-to-warm spring days that coaxes you outdoors without fuss.\n\nDress in light layers you can peel back, comfortable shoes, and carry water. This is prime time for ordinary pleasures: a slow amble down Rokeby Road between errands, a lunch on a shaded terrace, or a meandering walk toward Kings Park to sit and watch the light shift. Windows open at home will do good work, letting the afternoon breeze move through rooms and brighten them like fresh paint.",
     "color_code": "#87CEEB",
-    "timestamp": "2025-09-11 09:43:06",
+    "timestamp": "2025-09-11 12:25:55",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94967614781039,
-        "longitude": 115.8208683868057,
+        "latitude": -31.94967613970203,
+        "longitude": 115.8208683654159,
         "timezone": "Australia/Perth"
     }
 }
