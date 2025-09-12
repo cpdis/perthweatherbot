@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "North Perth",
             "country": "AU",
-            "latitude": -31.94970082694425,
-            "longitude": 115.8206995473561
+            "latitude": -31.93570716864682,
+            "longitude": 115.8490357327025
         },
         "current_conditions": {
-            "timestamp": "2025-09-11T20:19:37+00:00",
-            "temperature_c": 12.34,
-            "temperature_f": 54.212,
-            "humidity": 60,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 50,
-            "description": "clear sky"
+            "timestamp": "2025-09-12T01:38:50+00:00",
+            "temperature_c": 20.64,
+            "temperature_f": 69.152,
+            "humidity": 37,
+            "wind_speed_mph": 17.851260000000003,
+            "wind_direction": 22,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-09-11T21:00:00+00:00",
-                "temperature": 12.34,
-                "windSpeed": 13.82466,
-                "windDirection": 41,
-                "shortForecast": "clear sky"
+                "startTime": "2025-09-12T03:00:00+00:00",
+                "temperature": 20.64,
+                "windSpeed": 18.70132,
+                "windDirection": 12,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2025-09-12T00:00:00+00:00",
-                "temperature": 13.62,
-                "windSpeed": 16.195880000000002,
-                "windDirection": 34,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-09-12T06:00:00+00:00",
+                "temperature": 21.81,
+                "windSpeed": 15.59189,
+                "windDirection": 354,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Subiaco is quiet at this hour, the streets washed in a deep pre-dawn blue and the air pleasantly cool. The sky is mostly clear, lending the morning a crisp, orderly feel; visibility is clean and the first hints of light are waiting just offstage.\n\nAfter sunrise, expect a bright, largely sunny day with only a stray drift of cloud by midmorning, more a veil than a lid. The UV will climb quickly once the sun is up, likely moderate to high by late morning, so plan on sunglasses, a hat, and sunscreen if you\u2019ll be out for long. A light layer now will feel right, easy to shed to short sleeves later. It looks like a comfortable, good-mood day: hang the washing early, stroll for a coffee as the light sharpens, water the balcony herbs, then run errands on foot or bicycle before the sun grows insistent. By late morning, find shade and let the brightness do its work while you browse the library or take a quiet lap through the grocer, returning home with the day still gleaming at the edges.",
-    "color_code": "#1E3D59",
-    "timestamp": "2025-09-12 04:19:38",
+    "weather_report": "North Perth wakes under a quilt of overcast, the light gentle and evenly spread, shadows erased into a soft matte. Sunshine will be scarce, with the sun a shy rumor behind the ceiling of cloud; the UV looks muted under this blanket, though spring has a way of slipping through, so sensitive skin may want a light touch of protection. The air feels quietly pleasant and the view clear enough, but with that painter\u2019s gray that makes edges look a little softened.\n\nFrom late morning into the afternoon the overcast is set to linger, a calm, dry, unhurried day rather than a sparkling one. Dress in light layers\u2014a comfortable tee with a thin jacket or long sleeve\u2014and leave the heavy shades at home. It\u2019s a fine morning for ordinary rituals: a stroll to the bakery, a loop around Hyde Park, browsing a bookshop, or tending a simple task in the shed. The kind of day where you ride the bike to a nearby errand and let the muted light do the thinking for you.",
+    "color_code": "#9FA6AD",
+    "timestamp": "2025-09-12 09:38:50",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94970082694425,
-        "longitude": 115.8206995473561,
+        "name": "North Perth",
+        "latitude": -31.93570716864682,
+        "longitude": 115.8490357327025,
         "timezone": "Australia/Perth"
     }
 }

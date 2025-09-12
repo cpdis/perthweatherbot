@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-04 20:41:41",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969143131333,
-      "longitude": 115.8206659743676,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-04T12:41:41+00:00",
-      "temperature_c": 13.38,
-      "temperature_f": 56.084,
-      "humidity": 78,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 360,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco slips into a silvery evening, the sky already knitted with cloud and the air carrying that h...",
-    "color_code": "#2C3E50"
-  },
-  {
-    "timestamp": "2025-09-05 00:27:28",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969143131333,
-      "longitude": 115.8206659743676,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-04T16:27:28+00:00",
-      "temperature_c": 12.89,
-      "temperature_f": 55.202,
-      "humidity": 81,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 20,
-      "description": "clear sky"
-    },
-    "report_summary": "Just past midnight in Subiaco, the night is quiet and a little heavy, the air gathering that faint m...",
-    "color_code": "#2C3E50"
-  },
-  {
     "timestamp": "2025-09-05 04:22:44",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Subiaco is quiet at this hour, the streets washed in a deep pre-dawn blue and the air pleasantly coo...",
     "color_code": "#1E3D59"
+  },
+  {
+    "timestamp": "2025-09-12 09:38:50",
+    "location": {
+      "name": "North Perth",
+      "latitude": -31.93570716864682,
+      "longitude": 115.8490357327025,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-12T01:38:50+00:00",
+      "temperature_c": 20.64,
+      "temperature_f": 69.152,
+      "humidity": 37,
+      "wind_speed_mph": 17.851260000000003,
+      "wind_direction": 22,
+      "description": "overcast clouds"
+    },
+    "report_summary": "North Perth wakes under a quilt of overcast, the light gentle and evenly spread, shadows erased into...",
+    "color_code": "#9FA6AD"
   }
 ]
