@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "North Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.93570716864682,
-            "longitude": 115.8490357327025
+            "latitude": -31.94823609795422,
+            "longitude": 115.8240821018864
         },
         "current_conditions": {
-            "timestamp": "2025-09-12T01:38:50+00:00",
-            "temperature_c": 20.64,
-            "temperature_f": 69.152,
-            "humidity": 37,
-            "wind_speed_mph": 17.851260000000003,
-            "wind_direction": 22,
-            "description": "overcast clouds"
+            "timestamp": "2025-09-12T04:25:05+00:00",
+            "temperature_c": 24,
+            "temperature_f": 75.2,
+            "humidity": 26,
+            "wind_speed_mph": 20.71462,
+            "wind_direction": 10,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-12T03:00:00+00:00",
-                "temperature": 20.64,
-                "windSpeed": 18.70132,
-                "windDirection": 12,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-09-12T06:00:00+00:00",
+                "temperature": 24.25,
+                "windSpeed": 15.815590000000002,
+                "windDirection": 352,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-09-12T06:00:00+00:00",
-                "temperature": 21.81,
-                "windSpeed": 15.59189,
-                "windDirection": 354,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-09-12T09:00:00+00:00",
+                "temperature": 23.16,
+                "windSpeed": 14.36154,
+                "windDirection": 330,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "North Perth wakes under a quilt of overcast, the light gentle and evenly spread, shadows erased into a soft matte. Sunshine will be scarce, with the sun a shy rumor behind the ceiling of cloud; the UV looks muted under this blanket, though spring has a way of slipping through, so sensitive skin may want a light touch of protection. The air feels quietly pleasant and the view clear enough, but with that painter\u2019s gray that makes edges look a little softened.\n\nFrom late morning into the afternoon the overcast is set to linger, a calm, dry, unhurried day rather than a sparkling one. Dress in light layers\u2014a comfortable tee with a thin jacket or long sleeve\u2014and leave the heavy shades at home. It\u2019s a fine morning for ordinary rituals: a stroll to the bakery, a loop around Hyde Park, browsing a bookshop, or tending a simple task in the shed. The kind of day where you ride the bike to a nearby errand and let the muted light do the thinking for you.",
-    "color_code": "#9FA6AD",
-    "timestamp": "2025-09-12 09:38:50",
+    "weather_report": "Midday in Subiaco wears a gentle sheen: patches of blue sifted by scattered cloud, the light lively but softening at the edges. Through early afternoon the sun will come and go, bright intervals giving way to thicker, broken cloud toward late day, trading sparkle for a calmer, pewter tint. UV will still bite a little around the early afternoon peak despite the cloud breaks, then ease as the sun lowers and the cover gathers. The air feels clean and readable for now, with outlines crisp; by evening the growing cloud will soften the view and quiet the colors.\n\nDress in easy layers\u2014a light shirt with something you can shrug on if a breeze stirs\u2014and keep sunglasses and a touch of sunscreen handy. It\u2019s a day for small pleasures: a meander to the greengrocer, a coffee taken outdoors when the sun finds you, a browse through the bookshop, or a short detour through a leafy street before the sky turns grayer. At home, crack a window for a soft draft, water the basil, and let the afternoon amble along without hurry.",
+    "color_code": "#9BB7D4",
+    "timestamp": "2025-09-12 12:25:05",
     "location": {
-        "name": "North Perth",
-        "latitude": -31.93570716864682,
-        "longitude": 115.8490357327025,
+        "name": "Subiaco",
+        "latitude": -31.94823609795422,
+        "longitude": 115.8240821018864,
         "timezone": "Australia/Perth"
     }
 }
