@@ -7,34 +7,34 @@
             "longitude": 115.8207498174156
         },
         "current_conditions": {
-            "timestamp": "2025-09-12T12:41:45+00:00",
-            "temperature_c": 17.77,
-            "temperature_f": 63.986000000000004,
-            "humidity": 46,
-            "wind_speed_mph": 9.90991,
-            "wind_direction": 13,
+            "timestamp": "2025-09-12T16:22:52+00:00",
+            "temperature_c": 17.71,
+            "temperature_f": 63.878,
+            "humidity": 53,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 20,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-12T15:00:00+00:00",
-                "temperature": 16.87,
-                "windSpeed": 11.341590000000002,
-                "windDirection": 10,
-                "shortForecast": "scattered clouds"
-            },
-            {
                 "startTime": "2025-09-12T18:00:00+00:00",
-                "temperature": 16.14,
+                "temperature": 17.11,
                 "windSpeed": 10.84945,
                 "windDirection": 359,
-                "shortForecast": "broken clouds"
+                "shortForecast": "few clouds"
+            },
+            {
+                "startTime": "2025-09-12T21:00:00+00:00",
+                "temperature": 16.4,
+                "windSpeed": 12.79564,
+                "windDirection": 348,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Evening settles over Subiaco with a ceiling of scattered cloud, softening the streetlights and dulling the last afterglow. The sun is gone and with it any bite of UV; readings now are negligible, and the night feels gentle rather than harsh. The sky will mottledly thicken toward broken cloud later, leaving only occasional gaps for a stray star to wink through. It\u2019s a calm, clear-enough night for unhurried thoughts.\n\nExpect more of this tempered mood through late evening into the small hours: no sunshine left to speak of, no glare, just a quiet, cloud-draped night. It looks pleasant in a modest way; take a light layer or cardigan if you linger outdoors, as clouds can make the air feel a touch cooler without the day\u2019s warmth. Good hours for a slow walk past the shopfronts, a late supper on the balcony, or trimming the loose threads of the week\u2014answer a letter, sort tomorrow\u2019s list, rinse the day from your shoulders and let the night do its steady work.",
-    "color_code": "#1E2B3C",
-    "timestamp": "2025-09-12 20:41:46",
+    "weather_report": "Subiaco settles into a cool, quiet spring midnight with a few clouds adrift and the faint scent of damp on the air. Skies are mostly clear for now, though a light, passing shower is likely to brush through before dawn, softening the edges of the night. Clarity is decent beneath the streetlamps, with stars fading as cloud thickens toward morning. The UV index is negligible at this hour and will stay tame until the sun lifts.\n\nThrough the day, expect a gentle, changeable rhythm: a brief, early rinse, then brighter breaks as cloud thins and the light grows more confident. Sunshine should feel filtered rather than fierce, with the UV index low at first and edging into moderate territory by late morning if the sun wins out. Dress in easy layers you can shrug on and off, add a light rain shell or small umbrella, and choose comfortable shoes that won\u2019t mind a damp pavement. Just now is a fine time to brew tea, read a few pages, or take a short, unhurried stroll between drops; later, run a couple of errands, linger over coffee in a sheltered courtyard, or tend to small tasks by a window as the day clears.",
+    "color_code": "#2b3e55",
+    "timestamp": "2025-09-13 00:22:52",
     "location": {
         "name": "Subiaco",
         "latitude": -31.9497006713998,
