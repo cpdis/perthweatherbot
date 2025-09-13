@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Bayswater",
             "country": "AU",
-            "latitude": -31.94967656286347,
-            "longitude": 115.8208212302448
+            "latitude": -31.91916472633072,
+            "longitude": 115.9207820163485
         },
         "current_conditions": {
-            "timestamp": "2025-09-13T01:27:33+00:00",
-            "temperature_c": 19.45,
-            "temperature_f": 67.00999999999999,
-            "humidity": 78,
-            "wind_speed_mph": 16.1064,
+            "timestamp": "2025-09-13T04:23:44+00:00",
+            "temperature_c": 22.46,
+            "temperature_f": 72.428,
+            "humidity": 54,
+            "wind_speed_mph": 19.57375,
             "wind_direction": 320,
-            "description": "scattered clouds"
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-09-13T03:00:00+00:00",
-                "temperature": 20.56,
-                "windSpeed": 16.26299,
+                "startTime": "2025-09-13T06:00:00+00:00",
+                "temperature": 22.93,
+                "windSpeed": 18.14207,
                 "windDirection": 307,
-                "shortForecast": "light rain"
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-09-13T06:00:00+00:00",
-                "temperature": 22.22,
-                "windSpeed": 20.73699,
-                "windDirection": 312,
+                "startTime": "2025-09-13T09:00:00+00:00",
+                "temperature": 21.37,
+                "windSpeed": 15.50241,
+                "windDirection": 292,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a soft, pewter sky, the light already diluted and the air carrying that quiet promise of rain. Clouds are gathering their thoughts for late morning and early afternoon, when light showers should wander through and dapple the day in a gentle, intermittent way. Sunshine will be bashful at best, with a muted glow rather than sparkle; the UV will be tempered by the cloud, though around midday it can still nibble at exposed skin. The day looks calm, grey, and contemplative\u2014good visibility, softened edges, colors turned to watercolors.\n\nDress for changeable moods: a light layer with a compact rain shell, comfortable shoes that won\u2019t mind wet pavements, and a small umbrella for the passing bursts. With the morning still ahead, it\u2019s a fine time to linger over coffee, sort a few errands close to home, or drift through a bookstore or gallery between showers. When the weather eases, take a short stroll under the trees and let the freshened air clear your head; when the next sprinkle arrives, slip back under an awning and enjoy the lull.",
-    "color_code": "#8DA3B2",
-    "timestamp": "2025-09-13 09:27:34",
+    "weather_report": "Bayswater woke to high, thinned cloud and then a light rinse of rain mid-morning; now, at midday, the air feels freshly washed and a little cool around the edges. Expect a changeable afternoon with passing showers and brief, silvery breaks of sun. When the sun does appear it will have a gentle bite to it for a short while, so the UV sits low to moderate at most; otherwise it\u2019s a softly lit day, clarity muted by veils of cloud and damp streets that give everything a quiet sheen.\n\nDress for variety: light layers, something with a hood or a compact umbrella, and shoes that don\u2019t mind a puddle. It\u2019s a day for nearby comforts\u2014an unhurried coffee by a window, a meander to the greengrocer between showers, or a short loop through the nearest park when the sky brightens for a spell. If you\u2019re staying in, crack a window and let the cool, clean smell of rain drift through while you tend to small tasks.",
+    "color_code": "#9FB3C8",
+    "timestamp": "2025-09-13 12:23:44",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94967656286347,
-        "longitude": 115.8208212302448,
+        "name": "Bayswater",
+        "latitude": -31.91916472633072,
+        "longitude": 115.9207820163485,
         "timezone": "Australia/Perth"
     }
 }

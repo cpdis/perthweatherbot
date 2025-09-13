@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-09-06 04:23:11",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969579980665,
-      "longitude": 115.8207650604648,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-05T20:23:10+00:00",
-      "temperature_c": 11.53,
-      "temperature_f": 52.754,
-      "humidity": 81,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 210,
-      "description": "light intensity shower rain"
-    },
-    "report_summary": "Before dawn in Subiaco, the sky feels close and heavy, the air laced with that metallic scent of fir...",
-    "color_code": "#4A5A6A"
-  },
-  {
     "timestamp": "2025-09-06 09:38:45",
     "location": {
       "name": "Subiaco",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Subiaco wakes under a soft, pewter sky, the light already diluted and the air carrying that quiet pr...",
     "color_code": "#8DA3B2"
+  },
+  {
+    "timestamp": "2025-09-13 12:23:44",
+    "location": {
+      "name": "Bayswater",
+      "latitude": -31.91916472633072,
+      "longitude": 115.9207820163485,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-13T04:23:44+00:00",
+      "temperature_c": 22.46,
+      "temperature_f": 72.428,
+      "humidity": 54,
+      "wind_speed_mph": 19.57375,
+      "wind_direction": 320,
+      "description": "few clouds"
+    },
+    "report_summary": "Bayswater woke to high, thinned cloud and then a light rinse of rain mid-morning; now, at midday, th...",
+    "color_code": "#9FB3C8"
   }
 ]
