@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Bayswater",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.91916472633072,
-            "longitude": 115.9207820163485
+            "latitude": -31.94967185408753,
+            "longitude": 115.8208471754017
         },
         "current_conditions": {
-            "timestamp": "2025-09-13T04:23:44+00:00",
-            "temperature_c": 22.46,
-            "temperature_f": 72.428,
-            "humidity": 54,
-            "wind_speed_mph": 19.57375,
-            "wind_direction": 320,
-            "description": "few clouds"
+            "timestamp": "2025-09-13T08:24:25+00:00",
+            "temperature_c": 17.06,
+            "temperature_f": 62.708,
+            "humidity": 86,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 260,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2025-09-13T06:00:00+00:00",
-                "temperature": 22.93,
-                "windSpeed": 18.14207,
-                "windDirection": 307,
-                "shortForecast": "few clouds"
+                "startTime": "2025-09-13T09:00:00+00:00",
+                "temperature": 17.06,
+                "windSpeed": 17.62756,
+                "windDirection": 279,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-09-13T09:00:00+00:00",
-                "temperature": 21.37,
-                "windSpeed": 15.50241,
-                "windDirection": 292,
+                "startTime": "2025-09-13T12:00:00+00:00",
+                "temperature": 17.05,
+                "windSpeed": 12.392980000000001,
+                "windDirection": 284,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Bayswater woke to high, thinned cloud and then a light rinse of rain mid-morning; now, at midday, the air feels freshly washed and a little cool around the edges. Expect a changeable afternoon with passing showers and brief, silvery breaks of sun. When the sun does appear it will have a gentle bite to it for a short while, so the UV sits low to moderate at most; otherwise it\u2019s a softly lit day, clarity muted by veils of cloud and damp streets that give everything a quiet sheen.\n\nDress for variety: light layers, something with a hood or a compact umbrella, and shoes that don\u2019t mind a puddle. It\u2019s a day for nearby comforts\u2014an unhurried coffee by a window, a meander to the greengrocer between showers, or a short loop through the nearest park when the sky brightens for a spell. If you\u2019re staying in, crack a window and let the cool, clean smell of rain drift through while you tend to small tasks.",
-    "color_code": "#9FB3C8",
-    "timestamp": "2025-09-13 12:23:44",
+    "weather_report": "Late afternoon drifts in under a soft grey lid, the sun mostly veiled and the light turned to pewter. Showers are sliding through as light, passing rain, leaving the streets a shade darker and the air a touch sweeter. Expect more of these modest interruptions toward evening rather than a deluge; the day stays muted, with visibility softened at the edges and the UV now subdued. It\u2019s a gentle, slightly damp sort of weather\u2014pleasant if you lean into it.\n\nA light rain jacket and comfortable, closed shoes will serve you well; a small umbrella earns its keep. This is a good hour for unhurried errands beneath awnings, a browse through a bookshop, or a quiet caf\u00e9 corner where coat sleeves steam as you settle in. If you\u2019d rather move, a calm gym session or a short tram ride and a walk between showers suits the mood. Let the day taper with something simple on the stove and the window cracked to hear the rain\u2019s small percussion.",
+    "color_code": "#6D7B8D",
+    "timestamp": "2025-09-13 16:24:25",
     "location": {
-        "name": "Bayswater",
-        "latitude": -31.91916472633072,
-        "longitude": 115.9207820163485,
+        "name": "Subiaco",
+        "latitude": -31.94967185408753,
+        "longitude": 115.8208471754017,
         "timezone": "Australia/Perth"
     }
 }
