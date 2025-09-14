@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-07 09:47:07",
-    "location": {
-      "name": "Fremantle",
-      "latitude": -32.05272680910707,
-      "longitude": 115.7432599028813,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-07T01:47:07+00:00",
-      "temperature_c": 15.8,
-      "temperature_f": 60.440000000000005,
-      "humidity": 73,
-      "wind_speed_mph": 15.01027,
-      "wind_direction": 299,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Morning in Fremantle arrives under a pewter sky, the sea breeze carrying the smell of wet salt and e...",
-    "color_code": "#6E7F8D"
-  },
-  {
-    "timestamp": "2025-09-07 12:24:34",
-    "location": {
-      "name": "Rottnest Island",
-      "latitude": -31.99066244470752,
-      "longitude": 115.5386061216711,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-07T04:24:33+00:00",
-      "temperature_c": 15.64,
-      "temperature_f": 60.152,
-      "humidity": 70,
-      "wind_speed_mph": 24.40567,
-      "wind_direction": 250,
-      "description": "light rain"
-    },
-    "report_summary": "Midday settles in with a pewter light over Rottnest, the sun pressed thin behind a quilt of cloud. A...",
-    "color_code": "#6E7F91"
-  },
-  {
     "timestamp": "2025-09-07 16:24:28",
     "location": {
       "name": "Rottnest Island",
@@ -898,5 +858,25 @@
     },
     "report_summary": "A grey afternoon has settled over Subiaco, the light turned silvery and soft, with showers beginning...",
     "color_code": "#6b7c89"
+  },
+  {
+    "timestamp": "2025-09-14 20:38:17",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969160214961,
+      "longitude": 115.8207089154118,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-14T12:38:17+00:00",
+      "temperature_c": 13.52,
+      "temperature_f": 56.336,
+      "humidity": 61,
+      "wind_speed_mph": 19.57375,
+      "wind_direction": 250,
+      "description": "light rain"
+    },
+    "report_summary": "Evening in Subiaco arrives damp and reflective, with light rain brushing the streets and the sky sea...",
+    "color_code": "#2C3E50"
   }
 ]
