@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-09-08 16:31:14",
-    "location": {
-      "name": "Rottnest Island",
-      "latitude": -31.99218668393641,
-      "longitude": 115.5396786701249,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-08T08:31:13+00:00",
-      "temperature_c": 14,
-      "temperature_f": 57.2,
-      "humidity": 53,
-      "wind_speed_mph": 14.40628,
-      "wind_direction": 185,
-      "description": "clear sky"
-    },
-    "report_summary": "Late afternoon on Rottnest feels rinsed clean: a clear sky, sun laying a mellow sheen over sea and s...",
-    "color_code": "#F2C47A"
-  },
-  {
     "timestamp": "2025-09-08 20:47:21",
     "location": {
       "name": "Rottnest Island",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Past midnight in Subiaco, the air feels hushed and heavy with cloud, the kind of sky that mutes the ...",
     "color_code": "#2F3B4A"
+  },
+  {
+    "timestamp": "2025-09-16 04:23:07",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94967583600623,
+      "longitude": 115.8208953704585,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-15T20:23:06+00:00",
+      "temperature_c": 7.07,
+      "temperature_f": 44.726,
+      "humidity": 86,
+      "wind_speed_mph": 6.91233,
+      "wind_direction": 20,
+      "description": "clear sky"
+    },
+    "report_summary": "Before sunrise in Subiaco, the streets glimmer under a fine, obliging rain, the sky pressed low and ...",
+    "color_code": "#708090"
   }
 ]
