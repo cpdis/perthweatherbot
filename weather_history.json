@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-08 09:47:17",
-    "location": {
-      "name": "Rottnest Island",
-      "latitude": -31.99092905629671,
-      "longitude": 115.5379533214965,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-08T01:47:16+00:00",
-      "temperature_c": 11.75,
-      "temperature_f": 53.15,
-      "humidity": 58,
-      "wind_speed_mph": 15.770850000000001,
-      "wind_direction": 160,
-      "description": "broken clouds"
-    },
-    "report_summary": "A muted morning settles over Rottnest, the sky a soft pewter and the sea brushed with a gentle sheen...",
-    "color_code": "#7A8D9C"
-  },
-  {
-    "timestamp": "2025-09-08 12:27:15",
-    "location": {
-      "name": "Rottnest Island",
-      "latitude": -31.99722523112903,
-      "longitude": 115.5419591524096,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-08T04:27:15+00:00",
-      "temperature_c": 12.9,
-      "temperature_f": 55.22,
-      "humidity": 56,
-      "wind_speed_mph": 14.876050000000001,
-      "wind_direction": 164,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Midday on Rottnest arrives with a gentle shimmer: sun working through patchy cloud, the air bright b...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-09-08 16:31:14",
     "location": {
       "name": "Rottnest Island",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon settles over Perth with the sky turned to brushed pewter and the air carrying that fi...",
     "color_code": "#6E7A87"
+  },
+  {
+    "timestamp": "2025-09-15 20:45:51",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94967583600623,
+      "longitude": 115.8208953704585,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-15T12:45:51+00:00",
+      "temperature_c": 12.13,
+      "temperature_f": 53.834,
+      "humidity": 71,
+      "wind_speed_mph": 0.0,
+      "wind_direction": 0,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Evening has settled over Subiaco with a damp hush; the sky is quilted in cloud and the first light s...",
+    "color_code": "#2A3440"
   }
 ]
