@@ -3,42 +3,42 @@
         "location": {
             "name": "Perth",
             "country": "AU",
-            "latitude": -31.95355311707031,
-            "longitude": 115.8528602682164
+            "latitude": -31.95455959744059,
+            "longitude": 115.8526208549751
         },
         "current_conditions": {
-            "timestamp": "2025-09-15T01:43:59+00:00",
-            "temperature_c": 14.37,
-            "temperature_f": 57.866,
-            "humidity": 67,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 210,
-            "description": "few clouds"
+            "timestamp": "2025-09-15T04:26:40+00:00",
+            "temperature_c": 14.8,
+            "temperature_f": 58.64,
+            "humidity": 69,
+            "wind_speed_mph": 18.410510000000002,
+            "wind_direction": 220,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2025-09-15T03:00:00+00:00",
-                "temperature": 14.37,
-                "windSpeed": 20.40144,
-                "windDirection": 228,
+                "startTime": "2025-09-15T06:00:00+00:00",
+                "temperature": 15.55,
+                "windSpeed": 16.978830000000002,
+                "windDirection": 220,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-09-15T06:00:00+00:00",
-                "temperature": 15.27,
-                "windSpeed": 16.978830000000002,
-                "windDirection": 220,
+                "startTime": "2025-09-15T09:00:00+00:00",
+                "temperature": 14.52,
+                "windSpeed": 15.79322,
+                "windDirection": 214,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Perth wakes under a quilt of cloud, the light already softened as the morning leans toward lunch. Showers look set to drift through late morning and again in the early afternoon, the sun mostly a pale coin behind gauze. Expect only brief, filtered brightness; UV will be muted under the thicker cover but can nip when the cloud thins, so a touch of sunscreen won\u2019t go astray. The rain should rinse the air clean, leaving edges of the city softened and the day quiet, the kind that hushes traffic and sharpens the scent of the earth.\n\nDress for changeability: a light waterproof over easy layers, shoes that don\u2019t mind puddles, and a small umbrella for company. It\u2019s a good day for a tidy loop to the caf\u00e9 between showers, a slow browse at the library, or knocking off a few domestic errands with a pocket of music in your ears. If the sky opens briefly, take a short walk and let the cool, rinsed air do its steadying work.",
-    "color_code": "#708090",
-    "timestamp": "2025-09-15 09:48:20",
+    "weather_report": "Perth drifts into early afternoon under a quilt of soft grey, the light turned silvery and forgiving. The air feels freshly washed, with showers nudging in from mid-afternoon and lingering toward evening; sun, when it shows, will be brief and filtered. Clarity is gentle rather than sharp, horizons a touch smudged in the damp. UV will lift around midday despite the cloud, then ease as the rain thickens, so it\u2019s a day for a little caution if you catch a bright spell.\n\nDress in light layers and a waterproof shell, comfortable shoes that don\u2019t mind wet pavements, and tuck a compact umbrella in your bag. A late lunch under an awning suits the mood, or a quiet hour at the library, a gallery, or the hardware aisle to gather bits for a small project at home. If you crave air, take a short riverside walk between passing showers, enjoying that cool, pewter light before the next band of rain pads softly across the city.",
+    "color_code": "#6E7F91",
+    "timestamp": "2025-09-15 12:26:41",
     "location": {
         "name": "Perth",
-        "latitude": -31.95355311707031,
-        "longitude": 115.8528602682164,
+        "latitude": -31.95455959744059,
+        "longitude": 115.8526208549751,
         "timezone": "Australia/Perth"
     }
 }

@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-09-08 04:20:46",
-    "location": {
-      "name": "Rottnest Island",
-      "latitude": -31.9981405242891,
-      "longitude": 115.5420373444772,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-07T20:20:46+00:00",
-      "temperature_c": 7.9,
-      "temperature_f": 46.22,
-      "humidity": 81,
-      "wind_speed_mph": 24.09249,
-      "wind_direction": 204,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Before dawn the island sits under a soft drum of light rain, the kind that slicks the jetty timbers ...",
-    "color_code": "#4F5E6C"
-  },
-  {
     "timestamp": "2025-09-08 09:47:17",
     "location": {
       "name": "Rottnest Island",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Perth wakes under a quilt of cloud, the light already softened as the morning leans toward lunch. Sh...",
     "color_code": "#708090"
+  },
+  {
+    "timestamp": "2025-09-15 12:26:41",
+    "location": {
+      "name": "Perth",
+      "latitude": -31.95455959744059,
+      "longitude": 115.8526208549751,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-15T04:26:40+00:00",
+      "temperature_c": 14.8,
+      "temperature_f": 58.64,
+      "humidity": 69,
+      "wind_speed_mph": 18.410510000000002,
+      "wind_direction": 220,
+      "description": "light rain"
+    },
+    "report_summary": "Perth drifts into early afternoon under a quilt of soft grey, the light turned silvery and forgiving...",
+    "color_code": "#6E7F91"
   }
 ]
