@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-09-09 16:29:36",
-    "location": {
-      "name": "Fremantle",
-      "latitude": -32.05267588786901,
-      "longitude": 115.742999924781,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-09T08:29:35+00:00",
-      "temperature_c": 15.69,
-      "temperature_f": 60.242000000000004,
-      "humidity": 54,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 240,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Late afternoon settles over Fremantle with a mellow, salt-laced light slipping between scattered clo...",
-    "color_code": "#F4C27A"
-  },
-  {
     "timestamp": "2025-09-09 20:47:54",
     "location": {
       "name": "Subiaco",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Subiaco sits in a hush after midnight, the sky thinly veiled and the air cool and a little damp. A f...",
     "color_code": "#2F3A4A"
+  },
+  {
+    "timestamp": "2025-09-17 04:23:28",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94970203576719,
+      "longitude": 115.8206792838945,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-16T20:23:28+00:00",
+      "temperature_c": 11.93,
+      "temperature_f": 53.474000000000004,
+      "humidity": 76,
+      "wind_speed_mph": 6.91233,
+      "wind_direction": 20,
+      "description": "broken clouds"
+    },
+    "report_summary": "Subiaco wakes in a hush before dawn, the air already smelling of rain. Light showers gather at the e...",
+    "color_code": "#5B6A72"
   }
 ]
