@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-09 09:43:46",
-    "location": {
-      "name": "Rottnest Island",
-      "latitude": -31.99093337398816,
-      "longitude": 115.5380008910035,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-09T01:43:46+00:00",
-      "temperature_c": 13.41,
-      "temperature_f": 56.138,
-      "humidity": 64,
-      "wind_speed_mph": 9.66384,
-      "wind_direction": 131,
-      "description": "clear sky"
-    },
-    "report_summary": "Rottnest wakes under a polished, salt-bright sky; the light is already crisp enough to throw hard ed...",
-    "color_code": "#00BFFF"
-  },
-  {
-    "timestamp": "2025-09-09 12:26:41",
-    "location": {
-      "name": "Rottnest Island",
-      "latitude": -31.99809764806198,
-      "longitude": 115.542177969908,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-09T04:26:41+00:00",
-      "temperature_c": 15.12,
-      "temperature_f": 59.215999999999994,
-      "humidity": 57,
-      "wind_speed_mph": 7.717650000000001,
-      "wind_direction": 175,
-      "description": "few clouds"
-    },
-    "report_summary": "Midday on Rottnest feels washed in clean, salt-bright light, the sort that sharpens edges and makes ...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-09-09 16:29:36",
     "location": {
       "name": "Fremantle",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon in Subiaco arrives with a soft, honeyed light and a sky brushed with just a few harml...",
     "color_code": "#F2C17D"
+  },
+  {
+    "timestamp": "2025-09-16 20:44:59",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94970203576719,
+      "longitude": 115.8206792838945,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-16T12:44:59+00:00",
+      "temperature_c": 13.38,
+      "temperature_f": 56.084,
+      "humidity": 72,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 360,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Evening in Subiaco settles in with a cool hush; clouds are gathering and the air feels a touch heavi...",
+    "color_code": "#2E3B4E"
   }
 ]

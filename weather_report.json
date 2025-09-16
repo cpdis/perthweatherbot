@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95045869330898,
-            "longitude": 115.8231179280617
+            "latitude": -31.94970203576719,
+            "longitude": 115.8206792838945
         },
         "current_conditions": {
-            "timestamp": "2025-09-16T08:29:45+00:00",
-            "temperature_c": 18.02,
-            "temperature_f": 64.436,
-            "humidity": 49,
-            "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 270,
-            "description": "few clouds"
+            "timestamp": "2025-09-16T12:44:59+00:00",
+            "temperature_c": 13.38,
+            "temperature_f": 56.084,
+            "humidity": 72,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 360,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-09-16T09:00:00+00:00",
-                "temperature": 18.02,
-                "windSpeed": 11.09552,
-                "windDirection": 293,
-                "shortForecast": "few clouds"
+                "startTime": "2025-09-16T15:00:00+00:00",
+                "temperature": 12.93,
+                "windSpeed": 14.74183,
+                "windDirection": 306,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-09-16T12:00:00+00:00",
-                "temperature": 16.85,
-                "windSpeed": 11.07315,
-                "windDirection": 308,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-09-16T18:00:00+00:00",
+                "temperature": 11.31,
+                "windSpeed": 16.553800000000003,
+                "windDirection": 310,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Late afternoon in Subiaco arrives with a soft, honeyed light and a sky brushed with just a few harmless clouds. The sun is still present but no longer sharp; UV has eased into the gentle range and will keep falling toward dusk. The air looks clean and untroubled, the sort of clarity that makes edges seem a touch more defined and colors a little deeper, with no hint of rain in the mood of the day.\n\nInto early evening the clouds will scatter a little more, but the weather stays steady and agreeable. It\u2019s a pleasant close to the day: bright enough for a last errand or two, calm enough for a quiet sit on the veranda. Dress for ease\u2014light layers now, a soft shirt and perhaps a thin cardigan for later; sunglasses useful for the next hour, a hat optional. This is a good window to water the plants, wander to the shop for something simple for dinner, or take an unhurried lap of the neighborhood before the streetlights wink on. If you\u2019ve a book half-finished, the fading light by a window will suit it well.",
-    "color_code": "#F2C17D",
-    "timestamp": "2025-09-16 16:29:46",
+    "weather_report": "Evening in Subiaco settles in with a cool hush; clouds are gathering and the air feels a touch heavier, the kind that carries the scent of wet asphalt before the first drop. Sunshine is done for the day and the UV is essentially asleep; later tonight a light rain is likely to brush through before easing toward broken cloud in the small hours. The sky will be muted rather than clear, streetlights wearing soft halos and edges blurring at the margins.\n\nIt\u2019s a night made for comfort: a light jacket with a hood or a compact umbrella if you\u2019re stepping out, shoes that won\u2019t mind a damp footpath, and an easy layer beneath. Pleasant in a quiet, inward way\u2014less for lingering outdoors, more for small rituals. Bring in any washing before the spritz arrives, tidy the bag you\u2019ll carry tomorrow, queue a gentle record, or simmer something simple on the stove. If you need a breath of air, a short loop round the block under the awnings will do, letting the town exhale around you while you think about nothing in particular.",
+    "color_code": "#2E3B4E",
+    "timestamp": "2025-09-16 20:44:59",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.95045869330898,
-        "longitude": 115.8231179280617,
+        "latitude": -31.94970203576719,
+        "longitude": 115.8206792838945,
         "timezone": "Australia/Perth"
     }
 }
