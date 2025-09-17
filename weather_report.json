@@ -3,42 +3,42 @@
         "location": {
             "name": "Perth",
             "country": "AU",
-            "latitude": -31.95405932413732,
-            "longitude": 115.8525086469201
+            "latitude": -31.9541560905389,
+            "longitude": 115.8526671291805
         },
         "current_conditions": {
-            "timestamp": "2025-09-17T04:19:07+00:00",
-            "temperature_c": 16.78,
-            "temperature_f": 62.204,
-            "humidity": 79,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 270,
-            "description": "broken clouds"
+            "timestamp": "2025-09-17T08:28:56+00:00",
+            "temperature_c": 18.94,
+            "temperature_f": 66.092,
+            "humidity": 60,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 250,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-09-17T06:00:00+00:00",
-                "temperature": 17.62,
-                "windSpeed": 14.808940000000002,
-                "windDirection": 252,
+                "startTime": "2025-09-17T09:00:00+00:00",
+                "temperature": 18.94,
+                "windSpeed": 15.077380000000002,
+                "windDirection": 244,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-09-17T09:00:00+00:00",
-                "temperature": 17.8,
-                "windSpeed": 15.01027,
-                "windDirection": 249,
+                "startTime": "2025-09-17T12:00:00+00:00",
+                "temperature": 17.55,
+                "windSpeed": 13.31015,
+                "windDirection": 230,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Perth sits under a milky noon, the sun softened behind a thickening veil of cloud. It feels mostly dry for now, but light rain is likely to drift in from early afternoon and linger toward the commute, turning the light pewter and the air a touch cool and damp. Sunshine will be limited to brief, silvery breaks; UV is moderate around lunchtime when the sun slips through, then easing to low as the showers take hold. The day will look soft rather than crisp, edges blurred by cloud, with good visibility but little sparkle.\n\nDress for changeability: light layers with a waterproof you won\u2019t mind carrying, comfortable shoes that can take a splash, and sunglasses only if you\u2019re chasing those fleeting bright spells. If you\u2019ve errands or a stroll in mind, now is the moment before the sky closes in; later, think a quiet caf\u00e9 table, a library run, or tackling the sort of home task that pairs well with the patter of rain and a steady playlist. It\u2019s a gentle, get-things-done kind of day.",
-    "color_code": "#6E7F91",
-    "timestamp": "2025-09-17 12:25:44",
+    "weather_report": "Perth eases into late afternoon with the light turning pewter and the breeze smelling faintly of wet pavement to come. The sun is muted and shy behind thickening cloud, its bite already spent; UV is low now, and the day\u2019s edges look softened as showers gather toward evening. Expect a gentle, on\u2011again off\u2011again rain to arrive around the commute and linger into night, more a hush than a squall, the kind that darkens the roads and sets the birds to early roosting. It feels mild but cooling, a quietly damp kind of pleasant.\n\nA light waterproof and easy layers will suit you, with shoes you don\u2019t mind meeting puddles and perhaps a small umbrella for company. If you\u2019ve a quick errand, take it now before the first drops; otherwise slip home unhurried, put a pot on, and let the windows tick with drizzle while you sort tomorrow\u2019s bag or finish a chapter you\u2019ve been neglecting. If you need a stretch, steal a short loop close to home between showers, then reward yourself with something warm and simple.",
+    "color_code": "#6B7A8F",
+    "timestamp": "2025-09-17 16:28:57",
     "location": {
         "name": "Perth",
-        "latitude": -31.95405932413732,
-        "longitude": 115.8525086469201,
+        "latitude": -31.9541560905389,
+        "longitude": 115.8526671291805,
         "timezone": "Australia/Perth"
     }
 }
