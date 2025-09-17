@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-09 20:47:54",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970678224841,
-      "longitude": 115.820787786265,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-09T12:47:53+00:00",
-      "temperature_c": 12.21,
-      "temperature_f": 53.978,
-      "humidity": 71,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 170,
-      "description": "clear sky"
-    },
-    "report_summary": "Evening has settled over Subiaco with a quiet, open sky and just a few clouds unhurriedly passing th...",
-    "color_code": "#0D1B2A"
-  },
-  {
-    "timestamp": "2025-09-10 00:27:44",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970678224841,
-      "longitude": 115.820787786265,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-09T16:27:43+00:00",
-      "temperature_c": 8.93,
-      "temperature_f": 48.074,
-      "humidity": 83,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 80,
-      "description": "clear sky"
-    },
-    "report_summary": "Just after midnight in Subiaco, the sky is polished and untroubled, stars pricking through a deep, v...",
-    "color_code": "#0A1E3D"
-  },
-  {
     "timestamp": "2025-09-10 04:23:21",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Subiaco wakes in a hush before dawn, the air already smelling of rain. Light showers gather at the e...",
     "color_code": "#5B6A72"
+  },
+  {
+    "timestamp": "2025-09-17 09:39:53",
+    "location": {
+      "name": "Perth",
+      "latitude": -31.95447781763699,
+      "longitude": 115.8526303631398,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-17T01:39:52+00:00",
+      "temperature_c": 16.73,
+      "temperature_f": 62.114,
+      "humidity": 77,
+      "wind_speed_mph": 18.410510000000002,
+      "wind_direction": 330,
+      "description": "light intensity shower rain"
+    },
+    "report_summary": "Perth wakes under a pewter sky, the air smelling faintly of wet pavement before the rain even arrive...",
+    "color_code": "#6E7F8D"
   }
 ]
