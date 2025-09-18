@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-10 20:43:31",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970711744894,
-      "longitude": 115.8208069155905,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-10T12:43:31+00:00",
-      "temperature_c": 12.86,
-      "temperature_f": 55.147999999999996,
-      "humidity": 71,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 190,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco slips into a polished, transparent night, the kind where the day\u2019s glare has retired and the...",
-    "color_code": "#0D1B2A"
-  },
-  {
-    "timestamp": "2025-09-11 00:27:29",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970711744894,
-      "longitude": 115.8208069155905,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-10T16:27:29+00:00",
-      "temperature_c": 10.38,
-      "temperature_f": 50.684,
-      "humidity": 81,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 170,
-      "description": "clear sky"
-    },
-    "report_summary": "Just after midnight in Subiaco, the sky is scrubbed clear, the kind of lucid night where stars feel ...",
-    "color_code": "#0B2447"
-  },
-  {
     "timestamp": "2025-09-11 04:23:40",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Before dawn in Subiaco the streets feel rinsed and reflective, the air carrying the soft percussion ...",
     "color_code": "#3B4A5A"
+  },
+  {
+    "timestamp": "2025-09-18 09:40:04",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969616393742,
+      "longitude": 115.8207978950293,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-18T01:40:03+00:00",
+      "temperature_c": 16.97,
+      "temperature_f": 62.546,
+      "humidity": 59,
+      "wind_speed_mph": 11.72188,
+      "wind_direction": 231,
+      "description": "broken clouds"
+    },
+    "report_summary": "Subiaco wakes under a pale lid of cloud, the morning light softened and a hint of rain working its w...",
+    "color_code": "#A2B5C4"
   }
 ]
