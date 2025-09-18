@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-11 09:43:06",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967614781039,
-      "longitude": 115.8208683868057,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-11T01:43:06+00:00",
-      "temperature_c": 17.48,
-      "temperature_f": 63.464,
-      "humidity": 51,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 60,
-      "description": "clear sky"
-    },
-    "report_summary": "Morning in Subiaco arrives uncomplicated and bright, the sky already rinsed clean and set to stay th...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-09-11 12:25:55",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967613970203,
-      "longitude": 115.8208683654159,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-11T04:25:55+00:00",
-      "temperature_c": 21.67,
-      "temperature_f": 71.006,
-      "humidity": 37,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 30,
-      "description": "clear sky"
-    },
-    "report_summary": "Midday in Subiaco arrives bright and uncomplicated, the sky a clean sheet with not a cloud to smudge...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-09-11 16:28:20",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon drifts in under a quilt of broken cloud, the sun thinning to a pale coin and the ligh...",
     "color_code": "#6E7C89"
+  },
+  {
+    "timestamp": "2025-09-18 20:43:45",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94486909753282,
+      "longitude": 115.8241117955646,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-18T12:43:45+00:00",
+      "temperature_c": 14.78,
+      "temperature_f": 58.604,
+      "humidity": 71,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 210,
+      "description": "clear sky"
+    },
+    "report_summary": "Evening comes to Subiaco glazed and quiet, a soft rain freckling pavements and dimming the edges of ...",
+    "color_code": "#2F3B52"
   }
 ]
