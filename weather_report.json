@@ -3,42 +3,42 @@
         "location": {
             "name": "Perth",
             "country": "AU",
-            "latitude": -31.95410056043627,
-            "longitude": 115.8524924387597
+            "latitude": -31.95404769767737,
+            "longitude": 115.8526743827881
         },
         "current_conditions": {
-            "timestamp": "2025-09-18T04:26:03+00:00",
-            "temperature_c": 18.01,
-            "temperature_f": 64.418,
-            "humidity": 57,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 230,
+            "timestamp": "2025-09-18T08:28:29+00:00",
+            "temperature_c": 17.48,
+            "temperature_f": 63.464,
+            "humidity": 60,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 260,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-09-18T06:00:00+00:00",
-                "temperature": 17.37,
-                "windSpeed": 13.08645,
-                "windDirection": 228,
+                "startTime": "2025-09-18T09:00:00+00:00",
+                "temperature": 17.48,
+                "windSpeed": 14.11547,
+                "windDirection": 225,
                 "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-09-18T09:00:00+00:00",
-                "temperature": 16.47,
-                "windSpeed": 14.339170000000001,
-                "windDirection": 226,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-09-18T12:00:00+00:00",
+                "temperature": 16.41,
+                "windSpeed": 11.67714,
+                "windDirection": 224,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Perth sits under a quilt of broken cloud at midday, the sun slipping in and out like a drowsy lighthouse, lending the streets a soft, pewter sheen. Expect this patchwork light to carry through the afternoon and into early evening, with bright intervals and gentle shade rather than full, blazing sun. UV around the middle of the day is still likely moderate to high despite the gaps in cloud, then easing later, so a hat, sunglasses, and a touch of sunscreen are wise. It feels like an easy day: clear enough for good views, softened by passing veils, pleasant rather than punishing. Dress in light layers and breathable fabrics; if you\u2019ll be out toward dusk, tuck a light sweater in your bag. Good hours for a meandering errand on foot, a late lunch at a caf\u00e9 window, or a quiet wander by the river where the light keeps changing and the afternoon never quite settles into glare.",
-    "color_code": "#8AA7C4",
-    "timestamp": "2025-09-18 12:26:04",
+    "weather_report": "Late afternoon drifts in under a quilt of broken cloud, the sun thinning to a pale coin and the light turning gentle and cool. Expect only fleeting brightness from here; UV is low now and sliding toward negligible by dusk. The air is clear enough for long views, though the horizon wears a soft blur, and a mild onshore breeze keeps things comfortable without the sting of glare.\n\nInto the evening, the ceiling lowers and a light, courteous rain is likely to brush the city. It looks quietly pleasant, if a touch damp. Dress in light layers with a compact rain shell or umbrella, and shoes that don\u2019t mind wet pavement. Good time to finish a short walk or a last errand before the sprinkles arrive, or let the weather nudge you indoors to simmer something simple on the stove, tidy a corner of the house, or read by the window as the first drops find the glass. If you\u2019re commuting, an unhurried pace will suit the slick roads.",
+    "color_code": "#6E7C89",
+    "timestamp": "2025-09-18 16:28:30",
     "location": {
         "name": "Perth",
-        "latitude": -31.95410056043627,
-        "longitude": 115.8524924387597,
+        "latitude": -31.95404769767737,
+        "longitude": 115.8526743827881,
         "timezone": "Australia/Perth"
     }
 }
