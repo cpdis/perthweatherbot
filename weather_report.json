@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "North Perth",
             "country": "AU",
-            "latitude": -31.94486909753282,
-            "longitude": 115.8241117955646
+            "latitude": -31.93604599125592,
+            "longitude": 115.8493736561337
         },
         "current_conditions": {
-            "timestamp": "2025-09-18T20:23:51+00:00",
-            "temperature_c": 13.04,
-            "temperature_f": 55.471999999999994,
-            "humidity": 84,
-            "wind_speed_mph": 4.60822,
-            "wind_direction": 30,
-            "description": "light intensity drizzle"
+            "timestamp": "2025-09-19T01:42:59+00:00",
+            "temperature_c": 16.66,
+            "temperature_f": 61.988,
+            "humidity": 71,
+            "wind_speed_mph": 2.30411,
+            "wind_direction": 150,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-09-18T21:00:00+00:00",
-                "temperature": 13.04,
-                "windSpeed": 8.25453,
-                "windDirection": 178,
+                "startTime": "2025-09-19T03:00:00+00:00",
+                "temperature": 16.66,
+                "windSpeed": 2.66203,
+                "windDirection": 197,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-09-19T00:00:00+00:00",
-                "temperature": 13.68,
-                "windSpeed": 3.44498,
-                "windDirection": 151,
-                "shortForecast": "light rain"
+                "startTime": "2025-09-19T06:00:00+00:00",
+                "temperature": 17.38,
+                "windSpeed": 11.02841,
+                "windDirection": 223,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Before dawn in Subiaco the air feels soft and damp, the world reduced to streetlamp halos and the hush of a slow shower moving through. Light rain is likely to drift across the morning, shading the sunrise and keeping the sky a muted pewter. Any sunshine will be stingy early, with only brief, pale openings between clouds; if those breaks widen toward late morning, the spring UV can turn surprisingly assertive, so a dab of sunscreen is wise even on a grey day. The day reads as gentle rather than sparkling, edges blurred, colours subdued, reflections pooling on footpaths.\n\nDress in light layers and a rain shell, with shoes that don\u2019t mind puddles and a small umbrella for the unhurried intervals between drops. It\u2019s a good morning for a quiet coffee by a window, a tidy-up of the week\u2019s loose ends, or a short, rain-dappled walk to reset the senses; later, if the ceiling lifts, a quick errand run or a browse through the shops will suit the soft light. The air will feel pleasant rather than bracing, the kind of weather that invites you to keep the pace measured and your plans flexible.",
-    "color_code": "#3A4F63",
-    "timestamp": "2025-09-19 04:23:52",
+    "weather_report": "North Perth wakes under a soft, unsettled sky, the kind that hints at a brief, courteous shower late in the morning and then thinks better of it by early afternoon. Expect a light rinse followed by breaks of sun as the clouds separate into scattered islands. When the light returns it will be bright rather than fierce, but spring is sharpening; the UV will nudge into the moderate-to-high range when the sun slips between clouds. After the rain, the air should feel newly washed and the view a touch clearer down the street.\n\nDress in easy layers with a compact rain shell, and keep sunglasses handy for those shining intervals. Shoes that forgive puddles will make a short walk to a cafe, a spin through the grocer, or a library drop-off pleasantly simple, and the brightening midafternoon is kind to small chores on the balcony or a quiet loop through the local park. A dab of sunscreen or a brim won\u2019t go astray if you linger, as the sun has a habit of arriving right when you\u2019ve stopped paying attention.",
+    "color_code": "#8FAEC4",
+    "timestamp": "2025-09-19 09:42:59",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94486909753282,
-        "longitude": 115.8241117955646,
+        "name": "North Perth",
+        "latitude": -31.93604599125592,
+        "longitude": 115.8493736561337,
         "timezone": "Australia/Perth"
     }
 }

@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-11 20:42:30",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970082694425,
-      "longitude": 115.8206995473561,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-11T12:42:30+00:00",
-      "temperature_c": 15.45,
-      "temperature_f": 59.809999999999995,
-      "humidity": 59,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 90,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco slid from a clean, sunlit afternoon into a gently cloud-dappled evening, the sky still mostl...",
-    "color_code": "#1C2E4A"
-  },
-  {
-    "timestamp": "2025-09-12 00:26:47",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970082694425,
-      "longitude": 115.8206995473561,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-11T16:26:47+00:00",
-      "temperature_c": 12.86,
-      "temperature_f": 55.147999999999996,
-      "humidity": 65,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 60,
-      "description": "clear sky"
-    },
-    "report_summary": "Just past midnight in Subiaco, the sky is clean and starlit, the kind of stillness that makes small ...",
-    "color_code": "#0b1e3d"
-  },
-  {
     "timestamp": "2025-09-12 04:19:38",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Before dawn in Subiaco the air feels soft and damp, the world reduced to streetlamp halos and the hu...",
     "color_code": "#3A4F63"
+  },
+  {
+    "timestamp": "2025-09-19 09:42:59",
+    "location": {
+      "name": "North Perth",
+      "latitude": -31.93604599125592,
+      "longitude": 115.8493736561337,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-19T01:42:59+00:00",
+      "temperature_c": 16.66,
+      "temperature_f": 61.988,
+      "humidity": 71,
+      "wind_speed_mph": 2.30411,
+      "wind_direction": 150,
+      "description": "scattered clouds"
+    },
+    "report_summary": "North Perth wakes under a soft, unsettled sky, the kind that hints at a brief, courteous shower late...",
+    "color_code": "#8FAEC4"
   }
 ]
