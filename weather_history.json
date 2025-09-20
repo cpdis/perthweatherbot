@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-09-13 04:22:44",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9497006713998,
-      "longitude": 115.8207498174156,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-12T20:22:43+00:00",
-      "temperature_c": 16.47,
-      "temperature_f": 61.646,
-      "humidity": 62,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 20,
-      "description": "clear sky"
-    },
-    "report_summary": "Dawn in Subiaco arrives muted and soft, the streets slicked with a light, persistent rain that tamps...",
-    "color_code": "#4F5E66"
-  },
-  {
     "timestamp": "2025-09-13 09:27:34",
     "location": {
       "name": "Subiaco",
@@ -877,6 +857,26 @@
       "description": "clear sky"
     },
     "report_summary": "Subiaco wakes under a rinsed-blue morning, the light already clean and decisive. The forecast holds ...",
+    "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2025-09-20 12:24:37",
+    "location": {
+      "name": "Leederville",
+      "latitude": -31.93558920119746,
+      "longitude": 115.8385135259532,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-20T04:24:37+00:00",
+      "temperature_c": 22.48,
+      "temperature_f": 72.464,
+      "humidity": 58,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 200,
+      "description": "few clouds"
+    },
+    "report_summary": "Midday in Leederville arrives bright and uncomplicated, the sun steady above and only a scattering o...",
     "color_code": "#87CEEB"
   }
 ]
