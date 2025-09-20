@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "City Beach",
+            "name": "Osborne Park",
             "country": "AU",
-            "latitude": -31.93765292206635,
-            "longitude": 115.7783012227089
+            "latitude": -31.90816325243133,
+            "longitude": 115.8019147875006
         },
         "current_conditions": {
-            "timestamp": "2025-09-20T08:26:16+00:00",
-            "temperature_c": 20.83,
-            "temperature_f": 69.494,
-            "humidity": 61,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 220,
+            "timestamp": "2025-09-20T12:40:28+00:00",
+            "temperature_c": 15.69,
+            "temperature_f": 60.242000000000004,
+            "humidity": 81,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 210,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-20T09:00:00+00:00",
-                "temperature": 20.83,
-                "windSpeed": 14.160210000000001,
-                "windDirection": 193,
+                "startTime": "2025-09-20T15:00:00+00:00",
+                "temperature": 15.3,
+                "windSpeed": 6.80048,
+                "windDirection": 154,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-09-20T12:00:00+00:00",
-                "temperature": 19.26,
-                "windSpeed": 12.77327,
-                "windDirection": 169,
+                "startTime": "2025-09-20T18:00:00+00:00",
+                "temperature": 13.5,
+                "windSpeed": 5.3688,
+                "windDirection": 115,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "City Beach slides into late afternoon beneath a rinsed-blue sky, the sun tilting low and mellowing from its midday glare. Earlier it was unfiltered and insistent, the sort of light that pushes the UV to lively heights; now the sting is softening, but a hat and a whisper of sunscreen still make sense if you linger. The day feels transparent and clean, edges sharp, sea and sand drawn in simple, faithful colors.\n\nExpect the rest of the day to stay clear and dry, an easy runway to sunset and a mild, star-pricked evening. It\u2019s a pleasant, companionable kind of weather. Dress light, keep sunglasses handy, and carry a thin layer for when the warmth ebbs after dusk. Good hours for ordinary comforts: a slow walk along the path, a quiet coffee at an outdoor table, tidying the balcony plants, or a gentle ride to run that small errand before the light slips away.",
-    "color_code": "#F6C36B",
-    "timestamp": "2025-09-20 16:26:17",
+    "weather_report": "Evening settles softly over Osborne Park with a clear, uncomplicated sky and a clean edge to the air. Stars step forward one by one, hinting at a night that stays cloudless and calm. There\u2019s no bite from the sun now; UV is effectively asleep, leaving the streets with a gentle, unhurried glow. Expect the clarity to hold through the small hours, which usually makes for a bright, decisive sunrise and a quick climb in UV once morning gets going.\n\nIt\u2019s the kind of night for light layers\u2014long sleeves or a easy jacket will feel just right if you wander out. A quiet walk to clear the day from your head, a cup of tea on the porch, windows cracked to let in the cool, or a tidy of tomorrow\u2019s bag all fit the mood. If you\u2019ll be outdoors after breakfast, plan on sunglasses and sunscreen; under skies this clean, the sun tends to mean business.",
+    "color_code": "#0b1d3a",
+    "timestamp": "2025-09-20 20:40:29",
     "location": {
-        "name": "City Beach",
-        "latitude": -31.93765292206635,
-        "longitude": 115.7783012227089,
+        "name": "Osborne Park",
+        "latitude": -31.90816325243133,
+        "longitude": 115.8019147875006,
         "timezone": "Australia/Perth"
     }
 }

@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-13 09:27:34",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967656286347,
-      "longitude": 115.8208212302448,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-13T01:27:33+00:00",
-      "temperature_c": 19.45,
-      "temperature_f": 67.00999999999999,
-      "humidity": 78,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 320,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Subiaco wakes under a soft, pewter sky, the light already diluted and the air carrying that quiet pr...",
-    "color_code": "#8DA3B2"
-  },
-  {
-    "timestamp": "2025-09-13 12:23:44",
-    "location": {
-      "name": "Bayswater",
-      "latitude": -31.91916472633072,
-      "longitude": 115.9207820163485,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-13T04:23:44+00:00",
-      "temperature_c": 22.46,
-      "temperature_f": 72.428,
-      "humidity": 54,
-      "wind_speed_mph": 19.57375,
-      "wind_direction": 320,
-      "description": "few clouds"
-    },
-    "report_summary": "Bayswater woke to high, thinned cloud and then a light rinse of rain mid-morning; now, at midday, th...",
-    "color_code": "#9FB3C8"
-  },
-  {
     "timestamp": "2025-09-13 16:24:25",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "City Beach slides into late afternoon beneath a rinsed-blue sky, the sun tilting low and mellowing f...",
     "color_code": "#F6C36B"
+  },
+  {
+    "timestamp": "2025-09-20 20:40:29",
+    "location": {
+      "name": "Osborne Park",
+      "latitude": -31.90816325243133,
+      "longitude": 115.8019147875006,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-20T12:40:28+00:00",
+      "temperature_c": 15.69,
+      "temperature_f": 60.242000000000004,
+      "humidity": 81,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 210,
+      "description": "clear sky"
+    },
+    "report_summary": "Evening settles softly over Osborne Park with a clear, uncomplicated sky and a clean edge to the air...",
+    "color_code": "#0b1d3a"
   }
 ]

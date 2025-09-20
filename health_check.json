@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-20T08:26:16.249732",
+  "timestamp": "2025-09-20T12:40:28.450549",
   "overall_status": "healthy",
   "summary": {
     "total_checks": 5,
@@ -15,7 +15,7 @@
         "OpenWeather API key configured",
         "OpenAI API key configured",
         "ElevenLabs API key configured",
-        "Location: City Beach"
+        "Location: Osborne Park"
       ]
     },
     {
@@ -42,7 +42,7 @@
     {
       "name": "OpenWeather API",
       "status": "healthy",
-      "response_time_ms": 126.57099999999998,
+      "response_time_ms": 293.537,
       "details": "HTTP 200"
     }
   ]
