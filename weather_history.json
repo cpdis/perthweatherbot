@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-09-13 16:24:25",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967185408753,
-      "longitude": 115.8208471754017,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-13T08:24:25+00:00",
-      "temperature_c": 17.06,
-      "temperature_f": 62.708,
-      "humidity": 86,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 260,
-      "description": "light rain"
-    },
-    "report_summary": "Late afternoon drifts in under a soft grey lid, the sun mostly veiled and the light turned to pewter...",
-    "color_code": "#6D7B8D"
-  },
-  {
     "timestamp": "2025-09-13 20:38:41",
     "location": {
       "name": "Subiaco",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Just after midnight in Osborne Park, the sky is clean and uncomplicated, the kind of clear that make...",
     "color_code": "#0A2342"
+  },
+  {
+    "timestamp": "2025-09-21 04:20:08",
+    "location": {
+      "name": "Osborne Park",
+      "latitude": -31.90816325243133,
+      "longitude": 115.8019147875006,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-20T20:20:08+00:00",
+      "temperature_c": 13.14,
+      "temperature_f": 55.652,
+      "humidity": 78,
+      "wind_speed_mph": 2.30411,
+      "wind_direction": 330,
+      "description": "clear sky"
+    },
+    "report_summary": "Before sunrise, Osborne Park sits under a clean, inky sky, the air calm and a little crisp, with sta...",
+    "color_code": "#1E3A8A"
   }
 ]
