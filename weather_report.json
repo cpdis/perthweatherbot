@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Leederville",
+            "name": "City Beach",
             "country": "AU",
-            "latitude": -31.93558920119746,
-            "longitude": 115.8385135259532
+            "latitude": -31.93765292206635,
+            "longitude": 115.7783012227089
         },
         "current_conditions": {
-            "timestamp": "2025-09-20T04:24:37+00:00",
-            "temperature_c": 22.48,
-            "temperature_f": 72.464,
-            "humidity": 58,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 200,
-            "description": "few clouds"
+            "timestamp": "2025-09-20T08:26:16+00:00",
+            "temperature_c": 20.83,
+            "temperature_f": 69.494,
+            "humidity": 61,
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 220,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-20T06:00:00+00:00",
-                "temperature": 21.81,
-                "windSpeed": 9.104590000000002,
-                "windDirection": 226,
-                "shortForecast": "few clouds"
+                "startTime": "2025-09-20T09:00:00+00:00",
+                "temperature": 20.83,
+                "windSpeed": 14.160210000000001,
+                "windDirection": 193,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-09-20T09:00:00+00:00",
-                "temperature": 20.29,
-                "windSpeed": 13.108820000000001,
-                "windDirection": 195,
+                "startTime": "2025-09-20T12:00:00+00:00",
+                "temperature": 19.26,
+                "windSpeed": 12.77327,
+                "windDirection": 169,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Midday in Leederville arrives bright and uncomplicated, the sun steady above and only a scattering of high, decorative cloud expected through the early afternoon before the sky rinses to a clean blue toward evening. Light feels crisp and generous, the kind that bounces off verandas and shopfront glass; the UV is punchy now, gentler later as shadows lengthen. Air and visibility look clear, a day built for simple errands and unhurried steps.\n\nIt reads as a pleasant day if you dress for the glare: light layers, breathable fabrics, a brimmed hat and sunglasses, with sunscreen as your quiet companion. Consider a late lunch in a shaded courtyard, a slow loop on foot around Lake Monger, or a quick browse through local grocers and bookshops before the afternoon burns off the last wisps of cloud. If home calls, throw open a window, let the sun dry a fresh load of washing, and set a plant by the sill to drink in the calm.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-09-20 12:24:37",
+    "weather_report": "City Beach slides into late afternoon beneath a rinsed-blue sky, the sun tilting low and mellowing from its midday glare. Earlier it was unfiltered and insistent, the sort of light that pushes the UV to lively heights; now the sting is softening, but a hat and a whisper of sunscreen still make sense if you linger. The day feels transparent and clean, edges sharp, sea and sand drawn in simple, faithful colors.\n\nExpect the rest of the day to stay clear and dry, an easy runway to sunset and a mild, star-pricked evening. It\u2019s a pleasant, companionable kind of weather. Dress light, keep sunglasses handy, and carry a thin layer for when the warmth ebbs after dusk. Good hours for ordinary comforts: a slow walk along the path, a quiet coffee at an outdoor table, tidying the balcony plants, or a gentle ride to run that small errand before the light slips away.",
+    "color_code": "#F6C36B",
+    "timestamp": "2025-09-20 16:26:17",
     "location": {
-        "name": "Leederville",
-        "latitude": -31.93558920119746,
-        "longitude": 115.8385135259532,
+        "name": "City Beach",
+        "latitude": -31.93765292206635,
+        "longitude": 115.7783012227089,
         "timezone": "Australia/Perth"
     }
 }
