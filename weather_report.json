@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94969562898727,
-            "longitude": 115.8206807714878
+            "latitude": -31.94970055916659,
+            "longitude": 115.8206711889087
         },
         "current_conditions": {
-            "timestamp": "2025-09-19T20:22:52+00:00",
-            "temperature_c": 11.09,
-            "temperature_f": 51.962,
-            "humidity": 81,
-            "wind_speed_mph": 5.41354,
-            "wind_direction": 123,
+            "timestamp": "2025-09-20T01:38:01+00:00",
+            "temperature_c": 18.3,
+            "temperature_f": 64.94,
+            "humidity": 71,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 130,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-19T21:00:00+00:00",
-                "temperature": 11.09,
-                "windSpeed": 5.122730000000001,
-                "windDirection": 113,
+                "startTime": "2025-09-20T03:00:00+00:00",
+                "temperature": 18.3,
+                "windSpeed": 0.26844,
+                "windDirection": 114,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-09-20T00:00:00+00:00",
-                "temperature": 11.99,
-                "windSpeed": 5.033250000000001,
-                "windDirection": 97,
+                "startTime": "2025-09-20T06:00:00+00:00",
+                "temperature": 18.73,
+                "windSpeed": 10.603380000000001,
+                "windDirection": 224,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a clear, predawn canopy, the quiet kind of blue that makes roofs and gum leaves look freshly etched. The forecast holds to that clarity from sunrise through the morning, so expect an unfiltered sun and a sky that turns bright and glassy as the day opens. It will feel cool at first and then warm quickly; the light will be sharp, the air clean, and by late morning the UV will be brisk and insistent. In short, a lucid, sun-forward day that flatters everything it touches, while asking for respect at midday.\n\nDress in light layers you can shrug off by mid-morning, with a hat, sunglasses, and sunscreen if you\u2019re outdoors for more than a few minutes. This is a good morning for small, unrushed errands on foot, watering the garden before the sun bites, or taking a calm ride to the shops. As the glare builds, let indoor plans take the stage\u2014tidying a shelf, a slow lunch by a window\u2014then step back out when the light softens toward evening for a gentle stroll through the neighborhood.",
-    "color_code": "#0C2340",
-    "timestamp": "2025-09-20 04:22:53",
+    "weather_report": "Subiaco wakes under a rinsed-blue morning, the light already clean and decisive. The forecast holds steady with clear skies through late morning and into the afternoon, so expect a bright, unbroken sun and a day that sharpens colors and edges. Clarity will be excellent; haze kept at bay. By midday the sun will bite a little, with the UV likely rising from gentle to fairly insistent, the kind that asks you to mind the clock if you linger outdoors.\n\nDress in light layers you can peel back, with sunglasses, a brimmed hat, and a sweep of sunscreen if you\u2019ll be out around lunch. It\u2019s a fine day for ordinary pleasures: airing the house, walking to the shops, sitting at a caf\u00e9 table that catches the light, or rolling a short errand by bicycle. If you have a quiet hour, a loop through a nearby park or a bit of time in the garden will feel just right before the afternoon grows bright and intent.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-09-20 09:38:02",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94969562898727,
-        "longitude": 115.8206807714878,
+        "latitude": -31.94970055916659,
+        "longitude": 115.8206711889087,
         "timezone": "Australia/Perth"
     }
 }
