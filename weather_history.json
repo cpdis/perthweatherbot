@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-14 09:46:59",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969699836931,
-      "longitude": 115.8206816162027,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-14T01:46:59+00:00",
-      "temperature_c": 15.32,
-      "temperature_f": 59.576,
-      "humidity": 79,
-      "wind_speed_mph": 24.1596,
-      "wind_direction": 300,
-      "description": "shower rain"
-    },
-    "report_summary": "Subiaco wakes under a soft, pewter sky, the morning light turned gentle by thickened cloud. The air ...",
-    "color_code": "#6C7A89"
-  },
-  {
-    "timestamp": "2025-09-14 12:24:34",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969766393081,
-      "longitude": 115.8207132333241,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-14T04:24:34+00:00",
-      "temperature_c": 16.23,
-      "temperature_f": 61.214,
-      "humidity": 67,
-      "wind_speed_mph": 24.1596,
-      "wind_direction": 280,
-      "description": "broken clouds"
-    },
-    "report_summary": "Midday in Subiaco feels subdued and a touch expectant: mostly cloudy, dry for now, the light softeni...",
-    "color_code": "#778899"
-  },
-  {
     "timestamp": "2025-09-14 16:24:48",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon in Subiaco wears a clean, enamel-blue sky. The sun is tilting toward the rooftops and...",
     "color_code": "#F2C46D"
+  },
+  {
+    "timestamp": "2025-09-21 20:39:52",
+    "location": {
+      "name": "Cottesloe",
+      "latitude": -31.99793974917101,
+      "longitude": 115.7611900441302,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-21T12:39:52+00:00",
+      "temperature_c": 18.69,
+      "temperature_f": 65.642,
+      "humidity": 77,
+      "wind_speed_mph": 4.004230000000001,
+      "wind_direction": 126,
+      "description": "clear sky"
+    },
+    "report_summary": "Cottesloe slips into night under a sky wiped clean, the air cool and salt-tinted, the horizon pared ...",
+    "color_code": "#0A1F44"
   }
 ]
