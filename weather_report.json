@@ -3,42 +3,42 @@
         "location": {
             "name": "Perth",
             "country": "AU",
-            "latitude": -31.9538647811594,
-            "longitude": 115.8527059292125
+            "latitude": -31.95419187553802,
+            "longitude": 115.8527155157675
         },
         "current_conditions": {
-            "timestamp": "2025-09-22T01:49:35+00:00",
-            "temperature_c": 20.94,
-            "temperature_f": 69.69200000000001,
-            "humidity": 46,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 90,
+            "timestamp": "2025-09-22T04:26:15+00:00",
+            "temperature_c": 25.58,
+            "temperature_f": 78.044,
+            "humidity": 28,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 60,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-22T03:00:00+00:00",
-                "temperature": 20.94,
-                "windSpeed": 11.050780000000001,
-                "windDirection": 63,
+                "startTime": "2025-09-22T06:00:00+00:00",
+                "temperature": 26.06,
+                "windSpeed": 9.194070000000002,
+                "windDirection": 66,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-09-22T06:00:00+00:00",
-                "temperature": 22.89,
-                "windSpeed": 9.194070000000002,
-                "windDirection": 66,
+                "startTime": "2025-09-22T09:00:00+00:00",
+                "temperature": 25.14,
+                "windSpeed": 7.74002,
+                "windDirection": 82,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Perth wakes to a sky rinsed clean, the light already sharpening the edges of rooftops and gum leaves. Forecasts keep the slate simple: clear through late morning and into the afternoon, the sort of unbroken blue that invites confidence. Expect generous sunshine with UV climbing quickly and likely running high by midday, the air feeling clearer by the minute, shadows crisp and honest.\n\nIt looks like a pleasant day that warms with the hours. Dress in light, breathable layers, sunglasses on, a brimmed hat and sunscreen within reach. Good weather for ordinary pleasures: a walk to the shops, a quiet coffee outdoors, hanging a wash that will dry in no time, tending the balcony herbs, or a short ride on shaded streets. If you\u2019re out around lunch, seek patches of shade and keep a water bottle close; if you\u2019re at home, open a window and let the blue day do its steady work.",
-    "color_code": "#87CEFA",
-    "timestamp": "2025-09-22 09:49:36",
+    "weather_report": "Perth sits under a polished, unbroken blue this early afternoon; the sun has a decisive bite to it and the UV is running high for now, likely relaxing as the afternoon stretches toward evening. The light is crisp and honest, edges well-defined, the kind of clarity that makes colors pop and time feel a little slower.\n\nThe rest of the day looks simple and generous: clear skies through the afternoon, then a gentler glow toward sunset. Dress light, keep a hat and sunglasses close, and give your skin some sunscreen. Carry a bottle of water if you\u2019re lingering outdoors. It\u2019s good weather for quiet errands on foot, a short walk to the caf\u00e9, hanging a line of washing, or tending the herb pots and letting the warmth soak in. If you prefer to stay out of the glare, open a window and read where the light pools softly; later, when the sun eases, take an unhurried lap around the block and let the evening settle in.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-09-22 12:26:16",
     "location": {
         "name": "Perth",
-        "latitude": -31.9538647811594,
-        "longitude": 115.8527059292125,
+        "latitude": -31.95419187553802,
+        "longitude": 115.8527155157675,
         "timezone": "Australia/Perth"
     }
 }
