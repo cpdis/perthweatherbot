@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Cottesloe",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.99793974917101,
-            "longitude": 115.7611900441302
+            "latitude": -31.9538647811594,
+            "longitude": 115.8527059292125
         },
         "current_conditions": {
-            "timestamp": "2025-09-21T20:21:51+00:00",
-            "temperature_c": 15,
-            "temperature_f": 59.0,
-            "humidity": 68,
-            "wind_speed_mph": 5.99516,
-            "wind_direction": 94,
+            "timestamp": "2025-09-22T01:49:35+00:00",
+            "temperature_c": 20.94,
+            "temperature_f": 69.69200000000001,
+            "humidity": 46,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 90,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-21T21:00:00+00:00",
-                "temperature": 15,
-                "windSpeed": 10.62575,
-                "windDirection": 88,
+                "startTime": "2025-09-22T03:00:00+00:00",
+                "temperature": 20.94,
+                "windSpeed": 11.050780000000001,
+                "windDirection": 63,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-09-22T00:00:00+00:00",
-                "temperature": 15.55,
-                "windSpeed": 12.929860000000001,
-                "windDirection": 78,
+                "startTime": "2025-09-22T06:00:00+00:00",
+                "temperature": 22.89,
+                "windSpeed": 9.194070000000002,
+                "windDirection": 66,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Cottesloe is waking beneath a perfectly clear sky, the last stars thinning to a pale wash before sunrise. The morning will open bright and untroubled, with that crisp, salt-clean clarity that makes colors pop and edges look freshly drawn. Expect a gentle coolness at first, softening as the sun lifts; by late morning the light will turn assertive and the UV will climb quickly, typical of early spring here, so the day promises both beauty and bite. Visibility should be excellent, the horizon sharp and unblurred.\n\nDress in easy layers: a light top or long sleeves for the first hour, then short sleeves, sunglasses, and a hat once the sun takes command; sunscreen after breakfast is wise. This is a day for ordinary pleasures\u2014an unhurried walk to fetch coffee while the shadows are long, a quick cycle for errands before the glare, hanging the washing to take advantage of the dry air, or reading on a veranda where you can move your chair with the sun. As the light hardens toward midday, slip into shade or an indoor task with the windows open, and save the meander home for the softened glow of late afternoon.",
-    "color_code": "#6DAEDB",
-    "timestamp": "2025-09-22 04:21:51",
+    "weather_report": "Perth wakes to a sky rinsed clean, the light already sharpening the edges of rooftops and gum leaves. Forecasts keep the slate simple: clear through late morning and into the afternoon, the sort of unbroken blue that invites confidence. Expect generous sunshine with UV climbing quickly and likely running high by midday, the air feeling clearer by the minute, shadows crisp and honest.\n\nIt looks like a pleasant day that warms with the hours. Dress in light, breathable layers, sunglasses on, a brimmed hat and sunscreen within reach. Good weather for ordinary pleasures: a walk to the shops, a quiet coffee outdoors, hanging a wash that will dry in no time, tending the balcony herbs, or a short ride on shaded streets. If you\u2019re out around lunch, seek patches of shade and keep a water bottle close; if you\u2019re at home, open a window and let the blue day do its steady work.",
+    "color_code": "#87CEFA",
+    "timestamp": "2025-09-22 09:49:36",
     "location": {
-        "name": "Cottesloe",
-        "latitude": -31.99793974917101,
-        "longitude": 115.7611900441302,
+        "name": "Perth",
+        "latitude": -31.9538647811594,
+        "longitude": 115.8527059292125,
         "timezone": "Australia/Perth"
     }
 }
