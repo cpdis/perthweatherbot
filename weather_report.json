@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95419159444485,
-            "longitude": 115.8527082352023
+            "latitude": -31.94970034422337,
+            "longitude": 115.8206762097596
         },
         "current_conditions": {
-            "timestamp": "2025-09-22T08:30:26+00:00",
-            "temperature_c": 26.68,
-            "temperature_f": 80.024,
-            "humidity": 27,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 100,
+            "timestamp": "2025-09-22T12:46:25+00:00",
+            "temperature_c": 20.22,
+            "temperature_f": 68.396,
+            "humidity": 43,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 110,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-22T09:00:00+00:00",
-                "temperature": 26.68,
-                "windSpeed": 6.330710000000001,
-                "windDirection": 88,
+                "startTime": "2025-09-22T15:00:00+00:00",
+                "temperature": 19.17,
+                "windSpeed": 8.54534,
+                "windDirection": 102,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-09-22T12:00:00+00:00",
-                "temperature": 24.09,
-                "windSpeed": 8.54534,
-                "windDirection": 111,
+                "startTime": "2025-09-22T18:00:00+00:00",
+                "temperature": 16.99,
+                "windSpeed": 9.66384,
+                "windDirection": 82,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Perth slides into late afternoon under a clear, polished sky. The light is honeyed and decisive, shadows lean long across verandahs, and the air feels clean. The sun still has some bite for a little while; the UV that pressed hard at midday is easing now, settling toward low as dusk gathers, but a hat and a little sunscreen are still sensible if you plan to linger outdoors.\n\nThe evening should stay cloudless and uncomplicated, a gentle fade to night with good visibility and calm moods. Dress light for now\u2014breathable fabrics\u2014and keep a soft layer handy for after sunset when the warmth ebbs. It\u2019s a day made for modest rituals: hang the last load of washing, walk to pick up a loaf and some milk, water the herbs, or take an unhurried loop around the block and let the sky darken as you go.",
-    "color_code": "#F6C46B",
-    "timestamp": "2025-09-22 16:30:27",
+    "weather_report": "Evening has settled over Subiaco with a clean, moonwashed sky and the kind of quiet that sharpens edges; the air feels mild drifting toward cool, and the stars look newly minted. The forecast holds clear through late night into the small hours, so expect a dry, steady calm with excellent visibility. Sun is off the stage now, so UV has slipped to negligible; if this glassy pattern survives into morning, it will turn bright in a hurry after sunrise.\n\nIt\u2019s the sort of night for an unhurried lap around the block, picking up a forgotten loaf, or finishing a chapter on the balcony while the breeze threads the leaves. Dress for a gentle cool-down: a light jumper or soft jacket, comfortable shoes, maybe a scarf if you plan to linger. Water the garden, walk the dog a little farther than usual, or simply stand still and let the sky do its quiet work; then, set out sunscreen by the door as a nod to what a clear dawn usually brings.",
+    "color_code": "#0a1a3a",
+    "timestamp": "2025-09-22 20:46:25",
     "location": {
-        "name": "Perth",
-        "latitude": -31.95419159444485,
-        "longitude": 115.8527082352023,
+        "name": "Subiaco",
+        "latitude": -31.94970034422337,
+        "longitude": 115.8206762097596,
         "timezone": "Australia/Perth"
     }
 }
