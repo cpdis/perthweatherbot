@@ -7,34 +7,34 @@
             "longitude": 115.820789264798
         },
         "current_conditions": {
-            "timestamp": "2025-09-23T12:44:03+00:00",
-            "temperature_c": 19.5,
-            "temperature_f": 67.1,
+            "timestamp": "2025-09-23T16:27:48+00:00",
+            "temperature_c": 16.54,
+            "temperature_f": 61.772,
             "humidity": 67,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 190,
+            "wind_speed_mph": 3.44498,
+            "wind_direction": 290,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-23T15:00:00+00:00",
-                "temperature": 19.13,
-                "windSpeed": 5.18984,
-                "windDirection": 102,
-                "shortForecast": "clear sky"
-            },
-            {
                 "startTime": "2025-09-23T18:00:00+00:00",
-                "temperature": 17.51,
+                "temperature": 16.53,
                 "windSpeed": 6.174119999999999,
                 "windDirection": 70,
                 "shortForecast": "clear sky"
+            },
+            {
+                "startTime": "2025-09-23T21:00:00+00:00",
+                "temperature": 16.03,
+                "windSpeed": 5.68198,
+                "windDirection": 68,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Subiaco eases into night under a varnished, cloudless sky; the late afternoon was bright and clean, with a gentle, unblinking sun that never felt harsh for long, and now the UV has fallen away to almost nothing. Visibility is crisp, colors are truer in the slanting light that just left, and the evening arrives with a quiet, steady clarity that makes the streets feel tidier than they were at noon.\n\nExpect the rest of tonight to stay serene and clear. It\u2019s pleasant in that unassuming way that asks only for a light layer\u2014an easy jacket or soft sweater if you linger outdoors. A small errand becomes a pleasure: a stroll to pick up bread, a slow loop past familiar windows, or a few minutes on the balcony letting the day\u2019s heat escape the stones. If you\u2019ve a mind for it, water the plants or write a quick note by the open window while the first stars come on; the air will do the rest.",
-    "color_code": "#1B263B",
-    "timestamp": "2025-09-23 20:44:04",
+    "weather_report": "Subiaco is tucked under a quiet, lucid sky tonight, the air cool and dry, with starlight pooling on rooftops and footpaths. It feels calm and unhurried, the sort of night that invites a deep breath at the back door. UV is essentially absent now, and the clarity is notable; sounds carry, edges are crisp, and the darkness is gentle rather than bleak.\n\nToward dawn a few light clouds may wander in, but first light should arrive clean and bright, promising a sunny start. UV will stay low at sunrise and then climb quickly as the morning matures, so plan shade, sunscreen, and a hat if you\u2019ll be out later. For now, a light jumper or jacket suits the hour; set out easy layers you can peel away once the sun takes charge. This late, make a pot of tea, jot tomorrow\u2019s errands, or step out for a brief, unhurried stroll. At first light, a short walk to greet the morning, a simple spin on the bike, or a quick visit to the bakery would fit the mood of a clear, uncomplicated day.",
+    "color_code": "#0B1E3B",
+    "timestamp": "2025-09-24 00:27:48",
     "location": {
         "name": "Subiaco",
         "latitude": -31.94968468871179,
