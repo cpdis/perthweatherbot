@@ -878,5 +878,25 @@
     },
     "report_summary": "Perth at midday is bathed in clean, uncomplicated light. Clear skies settle in from early afternoon ...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2025-09-23 16:28:41",
+    "location": {
+      "name": "Perth",
+      "latitude": -31.95405977038509,
+      "longitude": 115.8526729920117,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-23T08:28:40+00:00",
+      "temperature_c": 26.46,
+      "temperature_f": 79.628,
+      "humidity": 38,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 250,
+      "description": "clear sky"
+    },
+    "report_summary": "Perth eases into late afternoon under a cloudless dome, the sun slanting warmly and sharpening every...",
+    "color_code": "#F2B36D"
   }
 ]
