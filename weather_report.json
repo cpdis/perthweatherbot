@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94875679456347,
-            "longitude": 115.8300918989485
+            "latitude": -31.95426665818597,
+            "longitude": 115.8527299056423
         },
         "current_conditions": {
-            "timestamp": "2025-09-23T01:40:48+00:00",
-            "temperature_c": 22.78,
-            "temperature_f": 73.004,
-            "humidity": 39,
+            "timestamp": "2025-09-23T04:25:42+00:00",
+            "temperature_c": 26.57,
+            "temperature_f": 79.826,
+            "humidity": 29,
             "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 50,
+            "wind_direction": 80,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-23T03:00:00+00:00",
-                "temperature": 22.78,
-                "windSpeed": 11.02841,
-                "windDirection": 42,
+                "startTime": "2025-09-23T06:00:00+00:00",
+                "temperature": 26.89,
+                "windSpeed": 6.82285,
+                "windDirection": 50,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-09-23T06:00:00+00:00",
-                "temperature": 24.21,
-                "windSpeed": 6.82285,
-                "windDirection": 50,
+                "startTime": "2025-09-23T09:00:00+00:00",
+                "temperature": 26.2,
+                "windSpeed": 5.68198,
+                "windDirection": 81,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco wakes to a clean, glassy blue, the sun already brightening verandahs and pushing crisp shadows across the pavement. By mid-morning the air feels light and uncomplicated, the sort of clarity that makes edges look newly drawn. With the sky staying cloudless through late morning and into early afternoon, expect a steadily sharper glare and a UV bite that arrives faster than you think.\n\nIt looks like a pleasantly warm, sun-forward day: simple, dry, and good-tempered, though you\u2019ll want a hat, sunglasses, breathable layers, and sunscreen if you linger outside. Open the windows, let the house air itself, and hang a wash that will dry in no time. A gentle stroll to run errands before lunch suits the hour; a shaded caf\u00e9 table for reading or a quiet corner in the garden for small pruning or potting will suit the brighter stretch. Save anything strenuous for earlier or later, and give yourself a cool-water pause when the sun crests.",
-    "color_code": "#87CEFA",
-    "timestamp": "2025-09-23 09:40:48",
+    "weather_report": "Perth at midday is bathed in clean, uncomplicated light. Clear skies settle in from early afternoon and hold through late day, the horizon sharp and the blue polished to a quiet gleam. The sun feels assertive now; even if the air reads pleasant, the UV will be high, and shade offers an easy reprieve when you want it.\n\nExpect a bright, dry afternoon running into a clear early evening. Dress light and breathable, add a brimmed hat and sunglasses, and give your skin a thoughtful sweep of sunscreen. It\u2019s a day for modest pleasures: a few errands on foot, a gentle loop along the river path, or tending to a couple of plants on the balcony between sips of water. As the light softens toward late afternoon, a slow coffee outdoors or a short, unhurried cycle suits the mood of the sky that keeps its promise of blue.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-09-23 12:25:43",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94875679456347,
-        "longitude": 115.8300918989485,
+        "name": "Perth",
+        "latitude": -31.95426665818597,
+        "longitude": 115.8527299056423,
         "timezone": "Australia/Perth"
     }
 }
