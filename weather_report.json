@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95405977038509,
-            "longitude": 115.8526729920117
+            "latitude": -31.94968468871179,
+            "longitude": 115.820789264798
         },
         "current_conditions": {
-            "timestamp": "2025-09-23T08:28:40+00:00",
-            "temperature_c": 26.46,
-            "temperature_f": 79.628,
-            "humidity": 38,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 250,
+            "timestamp": "2025-09-23T12:44:03+00:00",
+            "temperature_c": 19.5,
+            "temperature_f": 67.1,
+            "humidity": 67,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 190,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-23T09:00:00+00:00",
-                "temperature": 26.46,
-                "windSpeed": 5.83857,
-                "windDirection": 81,
+                "startTime": "2025-09-23T15:00:00+00:00",
+                "temperature": 19.13,
+                "windSpeed": 5.18984,
+                "windDirection": 102,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-09-23T12:00:00+00:00",
-                "temperature": 24.64,
-                "windSpeed": 5.570130000000001,
-                "windDirection": 123,
+                "startTime": "2025-09-23T18:00:00+00:00",
+                "temperature": 17.51,
+                "windSpeed": 6.174119999999999,
+                "windDirection": 70,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Perth eases into late afternoon under a cloudless dome, the sun slanting warmly and sharpening every edge. It looks like a clean, high-clarity kind of day, the sort that shows off distant rooftops and the faint blue of the Darling Scarp. UV was fierce earlier, but is fading quickly now; if you\u2019re out before sunset, a hat and sunglasses still make sense, and after dusk the risk drops to almost nothing. Expect a gentle slide from bright and dry to comfortably cool as evening gathers, with a likely starry night. Light layers suit the mood: breathable shirt now, a soft extra layer ready for when the light drains away. It\u2019s pleasant, unhurried weather made for small errands on foot, a quiet loop around the block, or taking your cup of tea to the back step and letting the day settle. Supper outdoors will feel easy; later, a light jacket and an unhurried walk would be just right.",
-    "color_code": "#F2B36D",
-    "timestamp": "2025-09-23 16:28:41",
+    "weather_report": "Subiaco eases into night under a varnished, cloudless sky; the late afternoon was bright and clean, with a gentle, unblinking sun that never felt harsh for long, and now the UV has fallen away to almost nothing. Visibility is crisp, colors are truer in the slanting light that just left, and the evening arrives with a quiet, steady clarity that makes the streets feel tidier than they were at noon.\n\nExpect the rest of tonight to stay serene and clear. It\u2019s pleasant in that unassuming way that asks only for a light layer\u2014an easy jacket or soft sweater if you linger outdoors. A small errand becomes a pleasure: a stroll to pick up bread, a slow loop past familiar windows, or a few minutes on the balcony letting the day\u2019s heat escape the stones. If you\u2019ve a mind for it, water the plants or write a quick note by the open window while the first stars come on; the air will do the rest.",
+    "color_code": "#1B263B",
+    "timestamp": "2025-09-23 20:44:04",
     "location": {
-        "name": "Perth",
-        "latitude": -31.95405977038509,
-        "longitude": 115.8526729920117,
+        "name": "Subiaco",
+        "latitude": -31.94968468871179,
+        "longitude": 115.820789264798,
         "timezone": "Australia/Perth"
     }
 }
