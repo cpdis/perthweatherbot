@@ -3,42 +3,42 @@
         "location": {
             "name": "Perth",
             "country": "AU",
-            "latitude": -31.95411766789286,
-            "longitude": 115.8526827358136
+            "latitude": -31.95592614404768,
+            "longitude": 115.8602319948538
         },
         "current_conditions": {
-            "timestamp": "2025-09-24T08:29:48+00:00",
-            "temperature_c": 28.57,
-            "temperature_f": 83.426,
-            "humidity": 16,
-            "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 280,
-            "description": "few clouds"
+            "timestamp": "2025-09-24T12:44:59+00:00",
+            "temperature_c": 18.19,
+            "temperature_f": 64.742,
+            "humidity": 45,
+            "wind_speed_mph": 3.42261,
+            "wind_direction": 96,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-24T09:00:00+00:00",
-                "temperature": 28.58,
-                "windSpeed": 6.57678,
-                "windDirection": 271,
-                "shortForecast": "few clouds"
+                "startTime": "2025-09-24T15:00:00+00:00",
+                "temperature": 18,
+                "windSpeed": 3.26602,
+                "windDirection": 42,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-09-24T12:00:00+00:00",
-                "temperature": 25.99,
-                "windSpeed": 0.98428,
-                "windDirection": 150,
-                "shortForecast": "few clouds"
+                "startTime": "2025-09-24T18:00:00+00:00",
+                "temperature": 16.22,
+                "windSpeed": 4.96614,
+                "windDirection": 34,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Perth eases into late afternoon under a mostly clear sky, a few high scraps of cloud softening the sun without dimming it. The air feels clean and bright, visibility crisp, with the day still sunny but mellowing; the UV bite is slipping from moderate toward low as the light turns honeyed and shadows grow long. Expect a gentle, dry evening with the same scattered cloud and a calm, settled feel. It\u2019s pleasant weather to be out without fuss: light layers and sunglasses are enough now, with a cardigan ready for the cooler edge after dusk; a hat is optional, sunscreen only necessary if you\u2019re lingering in the sun before dinner. It\u2019s a good time for unhurried errands, a riverbank amble, watering the garden, or a quiet loop around the neighborhood on foot or bike, then a window cracked open at home to let in the soft air and the last of the day\u2019s warmth.",
-    "color_code": "#F6C37A",
-    "timestamp": "2025-09-24 16:29:48",
+    "weather_report": "Perth eases into night under a clear sky, the air clean and untroubled, streetlights with a crisp halo and distant sounds carrying a little farther than usual. The forecast keeps it cloudless through late evening and after midnight, so there\u2019s no sun to contend with and the UV is essentially asleep; visibility is excellent and the mood is quietly cheerful rather than cold. A light layer does the trick\u2014a soft jumper or thin jacket if you\u2019re lingering\u2014and shoes you don\u2019t mind ambling in. It\u2019s a good hour to air the house for a few minutes, water the balcony pots, take a slow walk to the corner shop, or sit outside and let the day empty itself out. If these clear skies hold toward dawn, expect a bright start and a quick return of UV once the sun is up, so set out sunglasses and sunscreen with tomorrow\u2019s bag and enjoy the gentleness while it lasts.",
+    "color_code": "#0D1B2A",
+    "timestamp": "2025-09-24 20:44:59",
     "location": {
         "name": "Perth",
-        "latitude": -31.95411766789286,
-        "longitude": 115.8526827358136,
+        "latitude": -31.95592614404768,
+        "longitude": 115.8602319948538,
         "timezone": "Australia/Perth"
     }
 }

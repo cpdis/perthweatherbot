@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-17 09:39:53",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95447781763699,
-      "longitude": 115.8526303631398,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-17T01:39:52+00:00",
-      "temperature_c": 16.73,
-      "temperature_f": 62.114,
-      "humidity": 77,
-      "wind_speed_mph": 18.410510000000002,
-      "wind_direction": 330,
-      "description": "light intensity shower rain"
-    },
-    "report_summary": "Perth wakes under a pewter sky, the air smelling faintly of wet pavement before the rain even arrive...",
-    "color_code": "#6E7F8D"
-  },
-  {
-    "timestamp": "2025-09-17 12:25:44",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95405932413732,
-      "longitude": 115.8525086469201,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-17T04:19:07+00:00",
-      "temperature_c": 16.78,
-      "temperature_f": 62.204,
-      "humidity": 79,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 270,
-      "description": "broken clouds"
-    },
-    "report_summary": "Perth sits under a milky noon, the sun softened behind a thickening veil of cloud. It feels mostly d...",
-    "color_code": "#6E7F91"
-  },
-  {
     "timestamp": "2025-09-17 16:28:57",
     "location": {
       "name": "Perth",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Perth eases into late afternoon under a mostly clear sky, a few high scraps of cloud softening the s...",
     "color_code": "#F6C37A"
+  },
+  {
+    "timestamp": "2025-09-24 20:44:59",
+    "location": {
+      "name": "Perth",
+      "latitude": -31.95592614404768,
+      "longitude": 115.8602319948538,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-24T12:44:59+00:00",
+      "temperature_c": 18.19,
+      "temperature_f": 64.742,
+      "humidity": 45,
+      "wind_speed_mph": 3.42261,
+      "wind_direction": 96,
+      "description": "clear sky"
+    },
+    "report_summary": "Perth eases into night under a clear sky, the air clean and untroubled, streetlights with a crisp ha...",
+    "color_code": "#0D1B2A"
   }
 ]
