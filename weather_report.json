@@ -7,34 +7,34 @@
             "longitude": 115.8208965991169
         },
         "current_conditions": {
-            "timestamp": "2025-09-25T12:46:51+00:00",
-            "temperature_c": 16.17,
-            "temperature_f": 61.10600000000001,
-            "humidity": 77,
-            "wind_speed_mph": 6.84522,
-            "wind_direction": 191,
+            "timestamp": "2025-09-25T16:20:02+00:00",
+            "temperature_c": 13.87,
+            "temperature_f": 56.966,
+            "humidity": 87,
+            "wind_speed_mph": 10.64812,
+            "wind_direction": 171,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-25T15:00:00+00:00",
-                "temperature": 16.08,
-                "windSpeed": 10.67049,
-                "windDirection": 172,
-                "shortForecast": "few clouds"
-            },
-            {
                 "startTime": "2025-09-25T18:00:00+00:00",
-                "temperature": 13.73,
+                "temperature": 14.02,
                 "windSpeed": 9.194070000000002,
                 "windDirection": 172,
-                "shortForecast": "few clouds"
+                "shortForecast": "clear sky"
+            },
+            {
+                "startTime": "2025-09-25T21:00:00+00:00",
+                "temperature": 12.57,
+                "windSpeed": 9.88754,
+                "windDirection": 169,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Evening has settled over Subiaco with a clean sky broken only by a few idle clouds, the last glow softening the rooftops and pushing the UV to near nothing. The day ran clear and bright, the sun generous but not harsh; visibility stayed crisp, colors true, and the air felt tidy rather than heavy. Now it\u2019s a gentle, breathable night, the kind that invites unhurried steps and easy conversation.\n\nDress with a light layer\u2014something you can shrug on and off without thinking\u2014and comfortable shoes for a brief stroll. With the weather steady and cooperative, consider a small errand on foot, a loop around the block with the dog, or a quiet sit on the balcony while the sky deepens. Windows can stay cracked for fresh air, and if you\u2019ve a book to finish or a call to make, this is the hour: clear, calm, and pleasantly uneventful.",
-    "color_code": "#2C3E63",
-    "timestamp": "2025-09-25 20:46:52",
+    "weather_report": "Just past midnight in Subiaco, the streets feel hushed and companionable, the sky mostly clear and star-pricked. The air has that clean, uncomplicated quality that makes everything sound closer. UV is negligible at this hour, and the night\u2019s clarity lends an easy, unhurried mood.\n\nToward dawn, some broken cloud is expected to drift in, likely softening the sunrise with a gauzy lid rather than snuffing it out. Once the sun lifts, brightness should build and the UV will climb quickly after breakfast, as it so often does here in spring, even with patches of cloud. It looks like a pleasant start overall. Light layers will serve you well: a tee under a long-sleeve or a cardigan now, and later, a hat and a touch of sunscreen if you\u2019re out through the morning. It\u2019s a good time for a quiet pre-dawn wander to fetch bread, a slow coffee by the window while the light gathers, or a bit of backyard puttering before the day decides what it wants to be.",
+    "color_code": "#0A1F44",
+    "timestamp": "2025-09-26 00:27:34",
     "location": {
         "name": "Subiaco",
         "latitude": -31.94968662860943,
