@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Floreat",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9496514360895,
-            "longitude": 115.7824832166984
+            "latitude": -31.95218051666667,
+            "longitude": 115.8133638333333
         },
         "current_conditions": {
-            "timestamp": "2025-09-25T04:26:16+00:00",
-            "temperature_c": 26.76,
-            "temperature_f": 80.168,
-            "humidity": 23,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 290,
+            "timestamp": "2025-09-25T08:29:08+00:00",
+            "temperature_c": 23.67,
+            "temperature_f": 74.60600000000001,
+            "humidity": 45,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 260,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-25T06:00:00+00:00",
-                "temperature": 26.9,
-                "windSpeed": 9.48488,
-                "windDirection": 234,
+                "startTime": "2025-09-25T09:00:00+00:00",
+                "temperature": 23.67,
+                "windSpeed": 11.02841,
+                "windDirection": 205,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-09-25T09:00:00+00:00",
-                "temperature": 24.83,
-                "windSpeed": 10.84945,
-                "windDirection": 206,
+                "startTime": "2025-09-25T12:00:00+00:00",
+                "temperature": 21.3,
+                "windSpeed": 3.6239400000000006,
+                "windDirection": 164,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Midday in Floreat is bright and uncomplicated: a clean blue vault overhead, sunlight laid across verandas and footpaths, shadows drawn with a ruler. The forecast holds to clear skies through the afternoon into early evening, so it will stay cheerfully sunny and glare-prone, the kind of spring light that sharpens edges. Expect the UV to be high through the early afternoon before easing later, so the day is beautiful but not entirely gentle.\n\nDress light and breathable, with a hat, sunglasses, and a good sweep of sunscreen; keep water nearby. It\u2019s a pleasant day to air the house and let a load of washing dry, to run a small errand on foot, or to sit with a paperback in the shade and let the hours drift. Save a longer walk or an easy spin around the neighborhood for late afternoon when the sun tilts and the light mellows, and the day loosens its grip.",
-    "color_code": "#87CEFA",
-    "timestamp": "2025-09-25 12:26:16",
+    "weather_report": "Subiaco leans into late afternoon under a clean, generous sky. The day has been glass-clear and sunny; the sun still carries a little bite, though the UV is easing now from insistent to mild as shadows lengthen. Expect a dry, tranquil evening with sharp visibility and, later, a neat spill of stars. It\u2019s the sort of weather that asks little of you: sunglasses for the last light, light layers for now, a soft jacket once the warmth slips from the pavement. A short wander to the shops, a lazy spin on the bike, or a quiet sit outside with a book would suit the hour. As dusk settles, the air turns pleasantly cool and steady, the kind of clarity that makes small conversations and small errands feel just right.",
+    "color_code": "#FDB813",
+    "timestamp": "2025-09-25 16:29:09",
     "location": {
-        "name": "Floreat",
-        "latitude": -31.9496514360895,
-        "longitude": 115.7824832166984,
+        "name": "Subiaco",
+        "latitude": -31.95218051666667,
+        "longitude": 115.8133638333333,
         "timezone": "Australia/Perth"
     }
 }
