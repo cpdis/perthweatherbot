@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-09-18 04:23:04",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967955532061,
-      "longitude": 115.8209051798256,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-17T20:23:03+00:00",
-      "temperature_c": 12.07,
-      "temperature_f": 53.726,
-      "humidity": 85,
-      "wind_speed_mph": 4.60822,
-      "wind_direction": 20,
-      "description": "broken clouds"
-    },
-    "report_summary": "Before dawn in Subiaco the streets feel rinsed and reflective, the air carrying the soft percussion ...",
-    "color_code": "#3B4A5A"
-  },
-  {
     "timestamp": "2025-09-18 09:40:04",
     "location": {
       "name": "Subiaco",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Subiaco wakes under a clear, generous sky, the morning already bright enough to sharpen colors and c...",
     "color_code": "#A4D4F2"
+  },
+  {
+    "timestamp": "2025-09-25 12:26:16",
+    "location": {
+      "name": "Floreat",
+      "latitude": -31.9496514360895,
+      "longitude": 115.7824832166984,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-25T04:26:16+00:00",
+      "temperature_c": 26.76,
+      "temperature_f": 80.168,
+      "humidity": 23,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 290,
+      "description": "clear sky"
+    },
+    "report_summary": "Midday in Floreat is bright and uncomplicated: a clean blue vault overhead, sunlight laid across ver...",
+    "color_code": "#87CEFA"
   }
 ]
