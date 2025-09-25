@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95218051666667,
-            "longitude": 115.8133638333333
+            "latitude": -31.94968662860943,
+            "longitude": 115.8208965991169
         },
         "current_conditions": {
-            "timestamp": "2025-09-25T08:29:08+00:00",
-            "temperature_c": 23.67,
-            "temperature_f": 74.60600000000001,
-            "humidity": 45,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 260,
+            "timestamp": "2025-09-25T12:46:51+00:00",
+            "temperature_c": 16.17,
+            "temperature_f": 61.10600000000001,
+            "humidity": 77,
+            "wind_speed_mph": 6.84522,
+            "wind_direction": 191,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-25T09:00:00+00:00",
-                "temperature": 23.67,
-                "windSpeed": 11.02841,
-                "windDirection": 205,
-                "shortForecast": "clear sky"
+                "startTime": "2025-09-25T15:00:00+00:00",
+                "temperature": 16.08,
+                "windSpeed": 10.67049,
+                "windDirection": 172,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-09-25T12:00:00+00:00",
-                "temperature": 21.3,
-                "windSpeed": 3.6239400000000006,
-                "windDirection": 164,
-                "shortForecast": "clear sky"
+                "startTime": "2025-09-25T18:00:00+00:00",
+                "temperature": 13.73,
+                "windSpeed": 9.194070000000002,
+                "windDirection": 172,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Subiaco leans into late afternoon under a clean, generous sky. The day has been glass-clear and sunny; the sun still carries a little bite, though the UV is easing now from insistent to mild as shadows lengthen. Expect a dry, tranquil evening with sharp visibility and, later, a neat spill of stars. It\u2019s the sort of weather that asks little of you: sunglasses for the last light, light layers for now, a soft jacket once the warmth slips from the pavement. A short wander to the shops, a lazy spin on the bike, or a quiet sit outside with a book would suit the hour. As dusk settles, the air turns pleasantly cool and steady, the kind of clarity that makes small conversations and small errands feel just right.",
-    "color_code": "#FDB813",
-    "timestamp": "2025-09-25 16:29:09",
+    "weather_report": "Evening has settled over Subiaco with a clean sky broken only by a few idle clouds, the last glow softening the rooftops and pushing the UV to near nothing. The day ran clear and bright, the sun generous but not harsh; visibility stayed crisp, colors true, and the air felt tidy rather than heavy. Now it\u2019s a gentle, breathable night, the kind that invites unhurried steps and easy conversation.\n\nDress with a light layer\u2014something you can shrug on and off without thinking\u2014and comfortable shoes for a brief stroll. With the weather steady and cooperative, consider a small errand on foot, a loop around the block with the dog, or a quiet sit on the balcony while the sky deepens. Windows can stay cracked for fresh air, and if you\u2019ve a book to finish or a call to make, this is the hour: clear, calm, and pleasantly uneventful.",
+    "color_code": "#2C3E63",
+    "timestamp": "2025-09-25 20:46:52",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.95218051666667,
-        "longitude": 115.8133638333333,
+        "latitude": -31.94968662860943,
+        "longitude": 115.8208965991169,
         "timezone": "Australia/Perth"
     }
 }
