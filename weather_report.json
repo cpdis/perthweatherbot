@@ -3,42 +3,42 @@
         "location": {
             "name": "Perth",
             "country": "AU",
-            "latitude": -31.95412138068489,
-            "longitude": 115.8526666701868
+            "latitude": -31.95407164746134,
+            "longitude": 115.8526842934561
         },
         "current_conditions": {
-            "timestamp": "2025-09-26T04:25:59+00:00",
-            "temperature_c": 21.81,
-            "temperature_f": 71.258,
-            "humidity": 55,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 260,
-            "description": "broken clouds"
+            "timestamp": "2025-09-26T08:29:39+00:00",
+            "temperature_c": 20.71,
+            "temperature_f": 69.278,
+            "humidity": 52,
+            "wind_speed_mph": 15.614260000000002,
+            "wind_direction": 203,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-26T06:00:00+00:00",
-                "temperature": 22.14,
-                "windSpeed": 15.56952,
-                "windDirection": 214,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-09-26T09:00:00+00:00",
+                "temperature": 20.32,
+                "windSpeed": 13.802290000000001,
+                "windDirection": 199,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-09-26T09:00:00+00:00",
-                "temperature": 21.26,
-                "windSpeed": 13.377260000000001,
-                "windDirection": 199,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-09-26T12:00:00+00:00",
+                "temperature": 18.71,
+                "windSpeed": 13.08645,
+                "windDirection": 188,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Perth slides into early afternoon under a friendly quilt of scattered clouds, the sun slipping between them to throw bright, clean light across the streets. Expect this patchwork sky to hold through the later hours, keeping the day largely sunny with moments of soft shade; visibility should stay crisp and colors true. UV will still bite through the early afternoon, then ease toward late day, so a brimmed hat, sunglasses, and a touch of sunscreen remain wise. The air feels clear rather than heavy, the sort of day where shadows are sharp and the mood is unhurried.\n\nDress in light, breathable layers and comfortable shoes for wandering. This is good weather for a quiet lap along the river path, a coffee taken outside beneath an awning, or a small round of errands on foot while the sun is generous but not punishing. If you\u2019ve got plants, give them a check and a drink before the afternoon deepens; as the light mellows, sit on a balcony or back step with a book and let the sky do its gradual work.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-09-26 12:26:00",
+    "weather_report": "Perth is sliding into late afternoon under a spotless sky, the sun still bright but softening at the edges, shadows lengthening across verandas and pavements. The forecast holds clear through the evening, with clean, dry air and excellent visibility; it feels reassuringly settled. The day has been very sunny and the UV sting earlier was no doubt assertive, but it\u2019s easing now and will drop quickly toward dusk. Expect a crisp, quiet night to follow, stars showing early with nothing to hide them.\n\nLight layers are the right idea: a breathable shirt for now, sunglasses and a hat if you\u2019ll linger before sunset, and a light sweater ready for when the warmth slips away. It\u2019s pleasant weather for modest tasks done unhurriedly\u2014finish an errand on foot, hang the last load of laundry to drink in the dry air, rinse the bike, or read a few pages on a bench while the light turns golden. Later, a short stroll after dinner should feel calm and clear rather than cold.",
+    "color_code": "#FDB813",
+    "timestamp": "2025-09-26 16:29:40",
     "location": {
         "name": "Perth",
-        "latitude": -31.95412138068489,
-        "longitude": 115.8526666701868,
+        "latitude": -31.95407164746134,
+        "longitude": 115.8526842934561,
         "timezone": "Australia/Perth"
     }
 }
