@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "North Perth",
             "country": "AU",
-            "latitude": -31.94968662860943,
-            "longitude": 115.8208965991169
+            "latitude": -31.93564206212079,
+            "longitude": 115.8491572732923
         },
         "current_conditions": {
-            "timestamp": "2025-09-25T20:24:24+00:00",
-            "temperature_c": 13.45,
-            "temperature_f": 56.21,
-            "humidity": 90,
-            "wind_speed_mph": 10.111239999999999,
-            "wind_direction": 173,
-            "description": "broken clouds"
+            "timestamp": "2025-09-26T01:42:08+00:00",
+            "temperature_c": 21.56,
+            "temperature_f": 70.80799999999999,
+            "humidity": 60,
+            "wind_speed_mph": 6.711,
+            "wind_direction": 200,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-25T21:00:00+00:00",
-                "temperature": 12.83,
-                "windSpeed": 10.021760000000002,
-                "windDirection": 169,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-09-26T03:00:00+00:00",
+                "temperature": 23.36,
+                "windSpeed": 8.948,
+                "windDirection": 215,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-09-26T00:00:00+00:00",
-                "temperature": 13.67,
-                "windSpeed": 8.79141,
-                "windDirection": 170,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-09-26T06:00:00+00:00",
+                "temperature": 23.15,
+                "windSpeed": 15.56952,
+                "windDirection": 214,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Pre-dawn in Subiaco feels hushed under a broken quilt of cloud, the sky a soft blue-grey with the light just beginning to gather. Clarity is gentle rather than razor-sharp; edges blur a little, the way they do when the day hasn\u2019t quite decided on itself. As morning unfolds, the cloud looks set to linger, drifting in bands that let the sun through in warm intervals. Early UV will be mild, then it will build quickly once the sun lifts, so sunglasses and a touch of sunscreen make sense if you\u2019re out after breakfast.\n\nIt looks like a comfortable morning for small, ordinary pleasures: a slow walk to the bakery, a bike roll to the shops before traffic wakes, opening the windows and letting in that softened light while you water the pots or sort a stubborn drawer. Dress in easy layers\u2014a light shirt with a cardigan or thin jacket\u2014and you\u2019ll be ready if a breeze slides through. Expect a day of intermittent brightness rather than blazing sun, pleasant for getting things done without the world shouting about it.",
-    "color_code": "#708090",
-    "timestamp": "2025-09-26 04:24:24",
+    "weather_report": "Morning in North Perth opens clean and bright, the sky rinsed to a gentle blue that promises to sharpen as the sun climbs. The air feels mild now, but the light already has a confident edge; by late morning into early afternoon expect unbroken sunshine, crisp visibility, and a UV bite that arrives faster than you think. It looks like one of those simple, lucid days where the horizon is honest and the shadows are neat.\n\nDress for ease and sun: light layers, breathable fabrics, a brimmed hat, sunglasses, and sunscreen you actually reapply. Plan errands and a walk before the day peaks, then drift toward shade or a cool room for the midday hours. It\u2019s a good time to hang fresh laundry, wander to a corner caf\u00e9 with a book, or take a gentle lap around Hyde Park and sit under a generous tree. Garden jobs are best early, windows open to let the house breathe, and a quiet hour of sorting the week\u2019s odds and ends will feel oddly satisfying. All told, a pleasant, sapphire-clear spring day\u2014bright enough to lift the mood, bright enough to warrant respect.",
+    "color_code": "#ADD8E6",
+    "timestamp": "2025-09-26 09:42:08",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968662860943,
-        "longitude": 115.8208965991169,
+        "name": "North Perth",
+        "latitude": -31.93564206212079,
+        "longitude": 115.8491572732923,
         "timezone": "Australia/Perth"
     }
 }
