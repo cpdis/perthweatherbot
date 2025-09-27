@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.949663466548,
-            "longitude": 115.8207230636287
+            "latitude": -31.94970026301535,
+            "longitude": 115.8207266490144
         },
         "current_conditions": {
-            "timestamp": "2025-09-27T01:37:47+00:00",
-            "temperature_c": 17.62,
-            "temperature_f": 63.716,
-            "humidity": 63,
-            "wind_speed_mph": 4.60822,
-            "wind_direction": 150,
-            "description": "overcast clouds"
+            "timestamp": "2025-09-27T04:25:13+00:00",
+            "temperature_c": 20.75,
+            "temperature_f": 69.35,
+            "humidity": 50,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 240,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-09-27T03:00:00+00:00",
-                "temperature": 17.62,
-                "windSpeed": 6.08464,
-                "windDirection": 247,
-                "shortForecast": "overcast clouds"
-            },
-            {
                 "startTime": "2025-09-27T06:00:00+00:00",
-                "temperature": 18.59,
+                "temperature": 20.68,
                 "windSpeed": 11.07315,
                 "windDirection": 241,
-                "shortForecast": "overcast clouds"
+                "shortForecast": "scattered clouds"
+            },
+            {
+                "startTime": "2025-09-27T09:00:00+00:00",
+                "temperature": 19.1,
+                "windSpeed": 11.140260000000001,
+                "windDirection": 234,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a calm, pewter sky, the sun more rumor than presence, its light sifted and soft. The day looks set to stay this way\u2014overcast through late morning into the afternoon\u2014keeping shadows short and colors muted, the world rendered in quiet tones. It won\u2019t feel particularly bright, but it will be gentle, with a mild, even coolness to the air. Despite the cloud, the spring UV will still creep up toward midday; not fierce, but persuasive enough to warrant a dab of sunscreen if you linger outdoors.\n\nDress in light layers: a breathable long-sleeve, a soft jacket, shoes made for unhurried wandering. Sunglasses can stay in the pocket unless the ceiling thins. This is a day for simple errands and unhurried pleasures: a coffee on Rokeby Road where the steam curls like a small ceremony; a slow lap through Kings Park\u2019s paths while the city hums in the distance; a browse in a quiet bookshop or the satisfying business of finally mending that loose button. If you\u2019re at home, open a window, put on a record, and let the afternoon drift by in the agreeable hush that only a grey day can provide.",
-    "color_code": "#a5adb8",
-    "timestamp": "2025-09-27 09:37:47",
+    "weather_report": "Midday in Subiaco arrives with a soft, silvered light; the sun is warm but already slipping behind a gentle veil, scattered clouds gathering into a looser patchwork by mid to late afternoon. Expect a bright day rather than a blazing one, the horizon reasonably crisp and the air easy to breathe. UV will still bite through the early afternoon even with the drifting cloud, then mellow as the light softens toward evening.\n\nIt looks like a day made for unhurried errands and small pleasures. Light layers will do\u2014breathable shirt, sunglasses, a hat and a sweep of sunscreen\u2014so you can wander in comfort without feeling bundled or bare. Consider a lazy walk for a coffee and something simple to eat, a browse through a bookshop, or a quiet ride along side streets while the sun is still companionable. When the clouds thicken later, a gallery visit, a tidy-up of the balcony plants, or a slow read by an open window suits the mood. All told, pleasant and temperate, with a lingering glow that doesn\u2019t insist, it merely invites.",
+    "color_code": "#9FC4E1",
+    "timestamp": "2025-09-27 12:25:13",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.949663466548,
-        "longitude": 115.8207230636287,
+        "latitude": -31.94970026301535,
+        "longitude": 115.8207266490144,
         "timezone": "Australia/Perth"
     }
 }
