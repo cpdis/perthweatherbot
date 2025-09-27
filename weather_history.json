@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-09-20 16:26:17",
-    "location": {
-      "name": "City Beach",
-      "latitude": -31.93765292206635,
-      "longitude": 115.7783012227089,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-20T08:26:16+00:00",
-      "temperature_c": 20.83,
-      "temperature_f": 69.494,
-      "humidity": 61,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 220,
-      "description": "clear sky"
-    },
-    "report_summary": "City Beach slides into late afternoon beneath a rinsed-blue sky, the sun tilting low and mellowing f...",
-    "color_code": "#F6C36B"
-  },
-  {
     "timestamp": "2025-09-20 20:40:29",
     "location": {
       "name": "Osborne Park",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Just past midnight in Subiaco, the sky is quilted with cloud that smothers the stars and hushes the ...",
     "color_code": "#2F3B4C"
+  },
+  {
+    "timestamp": "2025-09-28 04:21:22",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.9496963869959,
+      "longitude": 115.820695156729,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-27T20:21:21+00:00",
+      "temperature_c": 14.34,
+      "temperature_f": 57.812,
+      "humidity": 78,
+      "wind_speed_mph": 12.70616,
+      "wind_direction": 249,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Before sunrise in Subiaco, the sky wears scattered cloud like a loose shawl, the streets still and s...",
+    "color_code": "#6E7F91"
   }
 ]
