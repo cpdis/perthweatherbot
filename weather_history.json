@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-20 09:38:02",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970055916659,
-      "longitude": 115.8206711889087,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-20T01:38:01+00:00",
-      "temperature_c": 18.3,
-      "temperature_f": 64.94,
-      "humidity": 71,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 130,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes under a rinsed-blue morning, the light already clean and decisive. The forecast holds ...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-09-20 12:24:37",
-    "location": {
-      "name": "Leederville",
-      "latitude": -31.93558920119746,
-      "longitude": 115.8385135259532,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-20T04:24:37+00:00",
-      "temperature_c": 22.48,
-      "temperature_f": 72.464,
-      "humidity": 58,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 200,
-      "description": "few clouds"
-    },
-    "report_summary": "Midday in Leederville arrives bright and uncomplicated, the sun steady above and only a scattering o...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-09-20 16:26:17",
     "location": {
       "name": "City Beach",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Bellevue drifts through late afternoon under an unbroken lid of cloud, the light soft and even, colo...",
     "color_code": "#7A828C"
+  },
+  {
+    "timestamp": "2025-09-27 20:39:21",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.9496963869959,
+      "longitude": 115.820695156729,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-27T12:39:20+00:00",
+      "temperature_c": 16.1,
+      "temperature_f": 60.980000000000004,
+      "humidity": 73,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 250,
+      "description": "broken clouds"
+    },
+    "report_summary": "Evening has settled over Subiaco under a soft lid of cloud, the last of the day\u2019s broken patches kni...",
+    "color_code": "#4A5968"
   }
 ]

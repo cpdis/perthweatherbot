@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Bellevue",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.90647234001698,
-            "longitude": 116.0324462282783
+            "latitude": -31.9496963869959,
+            "longitude": 115.820695156729
         },
         "current_conditions": {
-            "timestamp": "2025-09-27T08:25:06+00:00",
-            "temperature_c": 19.97,
-            "temperature_f": 67.946,
-            "humidity": 61,
-            "wind_speed_mph": 10.82708,
-            "wind_direction": 233,
+            "timestamp": "2025-09-27T12:39:20+00:00",
+            "temperature_c": 16.1,
+            "temperature_f": 60.980000000000004,
+            "humidity": 73,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 250,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-09-27T09:00:00+00:00",
-                "temperature": 19.01,
-                "windSpeed": 9.35066,
-                "windDirection": 235,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-09-27T15:00:00+00:00",
+                "temperature": 15.88,
+                "windSpeed": 10.334940000000001,
+                "windDirection": 248,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-09-27T12:00:00+00:00",
-                "temperature": 18.36,
-                "windSpeed": 4.6977,
-                "windDirection": 241,
+                "startTime": "2025-09-27T18:00:00+00:00",
+                "temperature": 15.31,
+                "windSpeed": 12.0798,
+                "windDirection": 250,
                 "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Bellevue drifts through late afternoon under an unbroken lid of cloud, the light soft and even, colors slightly hushed. The morning began overcast and the mood has carried on, with little, if any, sun breaking through. UV remains low; it\u2019s a day without glare, the kind that makes edges gentler and thoughts a touch slower. Visibility is steady, but the world appears matte rather than glossy.\n\nDress in quiet layers: a light sweater or soft-shell jacket, comfortable shoes, maybe a scarf if you run cool. Sunglasses can rest today. It\u2019s a good afternoon for modest errands, a lingering cup at a neighborhood caf\u00e9, or a calm circuit around the block to let the mind unwind. If you\u2019re staying in, put on a record, chop vegetables for a simple supper, straighten a shelf, or finally sort the week\u2019s photos. The weather invites unhurried moves and small satisfactions.",
-    "color_code": "#7A828C",
-    "timestamp": "2025-09-27 16:25:06",
+    "weather_report": "Evening has settled over Subiaco under a soft lid of cloud, the last of the day\u2019s broken patches knitting into an overcast quilt. Whatever sun slipped through earlier was fleeting, and now the light is muted and pewter, with UV all but gone. The air feels calm and a little solemn; edges blur, shadows lose their bite, and the night arrives without any ceremony. Expect the sky to stay mostly closed, a steady gray companion rather than a threat, with no great drama in the offing.\n\nIt\u2019s the sort of night for light layers\u2014a cardigan or a thin jacket\u2014and comfortable shoes if you\u2019re stepping out. A short, unrushed errand fits the mood: a walk to pick up something simple for breakfast, returning the library book that\u2019s been quietly patient, or a slow loop around the block to clear the mind. Indoors, a tidy-up, a pot of tea, and a small plan for tomorrow feel just right. The weather won\u2019t dazzle, but it invites you to move gently, speak softly, and keep your ambitions close to home.",
+    "color_code": "#4A5968",
+    "timestamp": "2025-09-27 20:39:21",
     "location": {
-        "name": "Bellevue",
-        "latitude": -31.90647234001698,
-        "longitude": 116.0324462282783,
+        "name": "Subiaco",
+        "latitude": -31.9496963869959,
+        "longitude": 115.820695156729,
         "timezone": "Australia/Perth"
     }
 }
