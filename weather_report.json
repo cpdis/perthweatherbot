@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "North Perth",
             "country": "AU",
-            "latitude": -31.9496755550004,
-            "longitude": 115.8209050838612
+            "latitude": -31.93062730112577,
+            "longitude": 115.859264281766
         },
         "current_conditions": {
-            "timestamp": "2025-09-28T04:25:21+00:00",
-            "temperature_c": 18.71,
-            "temperature_f": 65.678,
-            "humidity": 63,
-            "wind_speed_mph": 17.0012,
-            "wind_direction": 246,
+            "timestamp": "2025-09-28T08:25:02+00:00",
+            "temperature_c": 17.78,
+            "temperature_f": 64.004,
+            "humidity": 61,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 240,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-09-28T06:00:00+00:00",
-                "temperature": 17.96,
-                "windSpeed": 18.45525,
-                "windDirection": 234,
+                "startTime": "2025-09-28T09:00:00+00:00",
+                "temperature": 17.78,
+                "windSpeed": 14.629980000000002,
+                "windDirection": 232,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-09-28T09:00:00+00:00",
-                "temperature": 17.76,
-                "windSpeed": 16.66565,
-                "windDirection": 232,
-                "shortForecast": "light rain"
+                "startTime": "2025-09-28T12:00:00+00:00",
+                "temperature": 17.18,
+                "windSpeed": 13.15356,
+                "windDirection": 222,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Subiaco slides into early afternoon under a softening sky, the morning\u2019s brightness dimming as a grey veil gathers. Air feels mild and a touch humid, with a salt-and-eucalyptus tang on the breeze. Sunlight is filtered, more pearly than brilliant; the UV will sit in the moderate range around lunchtime, still enough to warrant a dab of sunscreen if you\u2019re out, then easing as clouds thicken. Expect light rain to wander in through the afternoon and linger toward evening, the kind that dapples pavements and hushes the day. Visibility will be decent but muted, edges smudged, colours cooled.\n\nDress in light layers with a compact rain jacket or umbrella at hand, comfortable closed shoes, and a cap if you\u2019re strolling now before the showers settle. It\u2019s a good window for a coffee run, a quiet browse at the library, or a gentle loop around the neighborhood between sprinkles; later, errands close to home, a tidy of the balcony, or some unhurried kitchen prep fit the mood. The day isn\u2019t harsh or hostile\u2014just contemplative, inviting you to move a little slower and listen to the rain find its rhythm.",
-    "color_code": "#8FA3B0",
-    "timestamp": "2025-09-28 12:25:21",
+    "weather_report": "North Perth settles into late afternoon under a dimming, lid-like sky. The air feels a touch heavy, the light already thinning; any sunshine that slips through will be fleeting before a spell of light rain moves in around the evening commute, then eases to a solid blanket of overcast into night. UV is low from here on, and the day has that soft, muffled clarity where edges are crisp but colors are subdued.\n\nIt\u2019s a day for comfort: a light waterproof jacket, closed shoes you don\u2019t mind meeting damp footpaths, and an umbrella more for company than a downpour. Sunglasses can stay home. This weather leans toward the quietly pleasant if you let it\u2014wrap up an errand, browse a bookshop until the rain patters, or head home to put a simple sauce on the stove and tidy the week\u2019s papers. If you\u2019re out, a warm drink at a corner caf\u00e9 while the first drops stipple the pavement will suit the mood; if you\u2019re in, open a window to the cool and let the evening collect itself.",
+    "color_code": "#6E7884",
+    "timestamp": "2025-09-28 16:25:03",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.9496755550004,
-        "longitude": 115.8209050838612,
+        "name": "North Perth",
+        "latitude": -31.93062730112577,
+        "longitude": 115.859264281766,
         "timezone": "Australia/Perth"
     }
 }
