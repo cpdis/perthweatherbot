@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-09-21 16:24:02",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970437498739,
-      "longitude": 115.8209275486833,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-21T08:24:02+00:00",
-      "temperature_c": 25.86,
-      "temperature_f": 78.548,
-      "humidity": 54,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 250,
-      "description": "clear sky"
-    },
-    "report_summary": "Late afternoon in Subiaco wears a clean, enamel-blue sky. The sun is tilting toward the rooftops and...",
-    "color_code": "#F2C46D"
-  },
-  {
     "timestamp": "2025-09-21 20:39:52",
     "location": {
       "name": "Cottesloe",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Subiaco slides past midnight under a quilt of scattered cloud, the streets hushed, the sky carrying ...",
     "color_code": "#1F2E3A"
+  },
+  {
+    "timestamp": "2025-09-29 04:21:52",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968915339081,
+      "longitude": 115.8206919771684,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-09-28T20:21:52+00:00",
+      "temperature_c": 14.06,
+      "temperature_f": 57.308,
+      "humidity": 69,
+      "wind_speed_mph": 12.90749,
+      "wind_direction": 206,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Before sunrise, Subiaco sits under a single sheet of cloud, the air damp and expectant. Overcast ski...",
+    "color_code": "#4A5963"
   }
 ]
