@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94875391777432,
-            "longitude": 115.8252853268669
+            "latitude": -31.95412015461349,
+            "longitude": 115.8526845186705
         },
         "current_conditions": {
-            "timestamp": "2025-10-02T01:40:21+00:00",
-            "temperature_c": 21.83,
-            "temperature_f": 71.294,
-            "humidity": 43,
-            "wind_speed_mph": 6.91233,
-            "wind_direction": 50,
+            "timestamp": "2025-10-02T04:25:01+00:00",
+            "temperature_c": 25.49,
+            "temperature_f": 77.882,
+            "humidity": 31,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 20,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-10-02T03:00:00+00:00",
-                "temperature": 21.83,
-                "windSpeed": 4.67533,
-                "windDirection": 331,
+                "startTime": "2025-10-02T06:00:00+00:00",
+                "temperature": 24.94,
+                "windSpeed": 7.04655,
+                "windDirection": 292,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-10-02T06:00:00+00:00",
-                "temperature": 21.89,
-                "windSpeed": 7.762390000000001,
-                "windDirection": 280,
+                "startTime": "2025-10-02T09:00:00+00:00",
+                "temperature": 24.26,
+                "windSpeed": 10.066500000000001,
+                "windDirection": 207,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco wakes to a hard, polished blue, the kind of cloudless morning that sharpens edges and lifts the mood. The sun is already assertive and will only grow bolder; expect the sky to stay clean and bright through the afternoon, with the UV index ramping quickly to strong, even very high levels by late morning. It\u2019s a lovely, uncomplicated day if you make peace with the glare.\n\nDress for light and shade in equal measure: airy layers, a brimmed hat, sunglasses, and unhurried sunscreen. With the day still young, it\u2019s a fine time to walk for a coffee, linger at a quiet shopfront, hang a load on the line, or take a gentle loop through the park before the noon sting arrives. Save the sun-baked tasks for now and the languid ones for a cool corner later; let the bright hours do their work while you keep to pockets of shade.",
+    "weather_report": "Midday in Perth feels clean and unhurried, the sky stretched taut and blue with hard-edged shadows underfoot. The sun has a confident shine to it now; UV is strong at this hour and will stay assertive into early afternoon before softening later. Forecasts show the afternoon holding clear and vivid, the kind of day where the horizon looks freshly sketched and distant buildings appear cut from paper.\n\nExpect a bright, dry feel through late afternoon with little to trouble the view, and a gentler warmth toward the drive home. Dress light and breathable, add sunglasses and a brimmed hat, and give your skin a shield of sunscreen. It\u2019s a good day for mundane pleasures done unrushed: a shaded caf\u00e9 lunch, a quick trundle through errands while the shops are quiet, hanging the washing where it will crisp nicely, or a slow lap along the river paths once the edge comes off the sun. Garden tasks and dog walks will feel kinder later; until then, keep water close and take the long way in the shade.",
     "color_code": "#87CEEB",
-    "timestamp": "2025-10-02 09:40:22",
+    "timestamp": "2025-10-02 12:25:02",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94875391777432,
-        "longitude": 115.8252853268669,
+        "name": "Perth",
+        "latitude": -31.95412015461349,
+        "longitude": 115.8526845186705,
         "timezone": "Australia/Perth"
     }
 }

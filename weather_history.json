@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-09-25 04:24:44",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95592614404768,
-      "longitude": 115.8602319948538,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-24T20:24:44+00:00",
-      "temperature_c": 8.22,
-      "temperature_f": 46.796,
-      "humidity": 71,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 360,
-      "description": "clear sky"
-    },
-    "report_summary": "Perth wakes under a quiet, inky-blue sky, the air cool and clean, stars thinning toward a pale seam ...",
-    "color_code": "#1E3A8A"
-  },
-  {
     "timestamp": "2025-09-25 09:42:44",
     "location": {
       "name": "Subiaco",
@@ -877,6 +857,26 @@
       "description": "clear sky"
     },
     "report_summary": "Subiaco wakes to a hard, polished blue, the kind of cloudless morning that sharpens edges and lifts ...",
+    "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2025-10-02 12:25:02",
+    "location": {
+      "name": "Perth",
+      "latitude": -31.95412015461349,
+      "longitude": 115.8526845186705,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-02T04:25:01+00:00",
+      "temperature_c": 25.49,
+      "temperature_f": 77.882,
+      "humidity": 31,
+      "wind_speed_mph": 9.21644,
+      "wind_direction": 20,
+      "description": "clear sky"
+    },
+    "report_summary": "Midday in Perth feels clean and unhurried, the sky stretched taut and blue with hard-edged shadows u...",
     "color_code": "#87CEEB"
   }
 ]
