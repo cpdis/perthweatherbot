@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-25 20:46:52",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968662860943,
-      "longitude": 115.8208965991169,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-25T12:46:51+00:00",
-      "temperature_c": 16.17,
-      "temperature_f": 61.10600000000001,
-      "humidity": 77,
-      "wind_speed_mph": 6.84522,
-      "wind_direction": 191,
-      "description": "clear sky"
-    },
-    "report_summary": "Evening has settled over Subiaco with a clean sky broken only by a few idle clouds, the last glow so...",
-    "color_code": "#2C3E63"
-  },
-  {
-    "timestamp": "2025-09-26 00:27:34",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968662860943,
-      "longitude": 115.8208965991169,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-25T16:20:02+00:00",
-      "temperature_c": 13.87,
-      "temperature_f": 56.966,
-      "humidity": 87,
-      "wind_speed_mph": 10.64812,
-      "wind_direction": 171,
-      "description": "clear sky"
-    },
-    "report_summary": "Just past midnight in Subiaco, the streets feel hushed and companionable, the sky mostly clear and s...",
-    "color_code": "#0A1F44"
-  },
-  {
     "timestamp": "2025-09-26 04:24:24",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Subiaco wakes under a soft grey lid, the light flattened and pewter at this early hour. Overcast ski...",
     "color_code": "#6E7782"
+  },
+  {
+    "timestamp": "2025-10-03 09:39:48",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94965150166027,
+      "longitude": 115.8209663997945,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-03T01:39:48+00:00",
+      "temperature_c": 20.69,
+      "temperature_f": 69.242,
+      "humidity": 64,
+      "wind_speed_mph": 4.60822,
+      "wind_direction": 20,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Morning in Subiaco arrives under a soft lid of cloud, the sun a shy rumor behind a seamless grey. Th...",
+    "color_code": "#B3BDC6"
   }
 ]
