@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-26 09:42:08",
-    "location": {
-      "name": "North Perth",
-      "latitude": -31.93564206212079,
-      "longitude": 115.8491572732923,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-26T01:42:08+00:00",
-      "temperature_c": 21.56,
-      "temperature_f": 70.80799999999999,
-      "humidity": 60,
-      "wind_speed_mph": 6.711,
-      "wind_direction": 200,
-      "description": "clear sky"
-    },
-    "report_summary": "Morning in North Perth opens clean and bright, the sky rinsed to a gentle blue that promises to shar...",
-    "color_code": "#ADD8E6"
-  },
-  {
-    "timestamp": "2025-09-26 12:26:00",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95412138068489,
-      "longitude": 115.8526666701868,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-26T04:25:59+00:00",
-      "temperature_c": 21.81,
-      "temperature_f": 71.258,
-      "humidity": 55,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 260,
-      "description": "broken clouds"
-    },
-    "report_summary": "Perth slides into early afternoon under a friendly quilt of scattered clouds, the sun slipping betwe...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-09-26 16:29:40",
     "location": {
       "name": "Perth",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon in Subiaco wears a single sheet of pewter. The sun is more rumor than presence, its s...",
     "color_code": "#708090"
+  },
+  {
+    "timestamp": "2025-10-03 20:42:49",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968350650634,
+      "longitude": 115.820836564195,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-03T12:42:49+00:00",
+      "temperature_c": 17.52,
+      "temperature_f": 63.536,
+      "humidity": 76,
+      "wind_speed_mph": 13.13119,
+      "wind_direction": 318,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Subiaco settles under a low, unbroken ceiling tonight; the stars are smudged out and the streets glo...",
+    "color_code": "#2F3A4A"
   }
 ]
