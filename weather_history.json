@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-27 09:37:47",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.949663466548,
-      "longitude": 115.8207230636287,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-27T01:37:47+00:00",
-      "temperature_c": 17.62,
-      "temperature_f": 63.716,
-      "humidity": 63,
-      "wind_speed_mph": 4.60822,
-      "wind_direction": 150,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Subiaco wakes under a calm, pewter sky, the sun more rumor than presence, its light sifted and soft....",
-    "color_code": "#a5adb8"
-  },
-  {
-    "timestamp": "2025-09-27 12:25:13",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970026301535,
-      "longitude": 115.8207266490144,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-27T04:25:13+00:00",
-      "temperature_c": 20.75,
-      "temperature_f": 69.35,
-      "humidity": 50,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 240,
-      "description": "clear sky"
-    },
-    "report_summary": "Midday in Subiaco arrives with a soft, silvered light; the sun is warm but already slipping behind a...",
-    "color_code": "#9FC4E1"
-  },
-  {
     "timestamp": "2025-09-27 16:25:06",
     "location": {
       "name": "Bellevue",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon settles over Centennial Park with a pewter tint; paths are darkened by earlier shower...",
     "color_code": "#778899"
+  },
+  {
+    "timestamp": "2025-10-04 20:39:17",
+    "location": {
+      "name": "Albany",
+      "latitude": -35.0260344840731,
+      "longitude": 117.8853068844982,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-04T12:39:16+00:00",
+      "temperature_c": 14.41,
+      "temperature_f": 57.938,
+      "humidity": 80,
+      "wind_speed_mph": 2.99758,
+      "wind_direction": 248,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Evening settles over Albany with a damp, metallic hush. Light rain earlier washed the edges of the d...",
+    "color_code": "#4A5568"
   }
 ]

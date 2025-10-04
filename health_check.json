@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-04T08:25:20.645902",
+  "timestamp": "2025-10-04T12:39:16.477731",
   "overall_status": "healthy",
   "summary": {
     "total_checks": 5,
@@ -15,7 +15,7 @@
         "OpenWeather API key configured",
         "OpenAI API key configured",
         "ElevenLabs API key configured",
-        "Location: Centennial Park"
+        "Location: Albany"
       ]
     },
     {
@@ -42,7 +42,7 @@
     {
       "name": "OpenWeather API",
       "status": "healthy",
-      "response_time_ms": 81.521,
+      "response_time_ms": 220.73499999999999,
       "details": "HTTP 200"
     }
   ]

@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Centennial Park",
+            "name": "Albany",
             "country": "AU",
-            "latitude": -35.00470592262745,
-            "longitude": 117.8679665250988
+            "latitude": -35.0260344840731,
+            "longitude": 117.8853068844982
         },
         "current_conditions": {
-            "timestamp": "2025-10-04T08:25:21+00:00",
-            "temperature_c": 15.35,
-            "temperature_f": 59.63,
-            "humidity": 91,
-            "wind_speed_mph": 4.004230000000001,
+            "timestamp": "2025-10-04T12:39:16+00:00",
+            "temperature_c": 14.41,
+            "temperature_f": 57.938,
+            "humidity": 80,
+            "wind_speed_mph": 2.99758,
             "wind_direction": 248,
-            "description": "light rain"
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-04T09:00:00+00:00",
-                "temperature": 15.35,
-                "windSpeed": 13.04171,
-                "windDirection": 257,
+                "startTime": "2025-10-04T15:00:00+00:00",
+                "temperature": 14.08,
+                "windSpeed": 11.09552,
+                "windDirection": 246,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-10-04T12:00:00+00:00",
-                "temperature": 14.44,
-                "windSpeed": 11.386330000000001,
-                "windDirection": 230,
-                "shortForecast": "light rain"
+                "startTime": "2025-10-04T18:00:00+00:00",
+                "temperature": 13.18,
+                "windSpeed": 13.26541,
+                "windDirection": 236,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Late afternoon settles over Centennial Park with a pewter tint; paths are darkened by earlier showers and the air smells of wet grass. Forecasts showed light rain in the morning and midday, and a few more passing sprinkles may drift through before evening. The sun is shy behind a gauze of cloud, so brightness stays muted and the UV remains low, perhaps nudging up only briefly if the ceiling thins. Visibility is softly filtered rather than foggy, giving the lake and lawns a calm, contemplative clarity.\n\nIt\u2019s a day for a light waterproof jacket and shoes that don\u2019t mind puddles, with a thin layer underneath to guard against the damp. An umbrella helps if you plan to linger. Consider a slow loop by the water to watch ripples stitch the surface, a gentle jog between showers, or a quiet pause under a shelter to listen to the rain tick on the leaves. If you crave sun, today asks patience; if you welcome a quieter mood, the park is yours.",
-    "color_code": "#778899",
-    "timestamp": "2025-10-04 16:25:21",
+    "weather_report": "Evening settles over Albany with a damp, metallic hush. Light rain earlier washed the edges of the day and left a lid of cloud that never quite lifted; the sun stayed veiled, the UV all but absent, and even now the sky holds to its gray oath. Clarity is soft rather than sharp, streetlights reflecting in thin films on the pavement, the air cool and a touch mineral.\n\nIt\u2019s the kind of weather that is more gentle than merry. Dress for calm drizzle and lingering chill: a light waterproof over a sweater, shoes that don\u2019t mind puddles, maybe a cap for the mist. If you\u2019re heading out, keep it local\u2014a brief loop around the block to breathe the quiet, or a quick stop for provisions. Indoors, it\u2019s a good night for small, companionable tasks: put a pot on low heat, sort the week\u2019s scattered papers, tend to a project that rewards patience. Tomorrow begins to whisper from the other room; tonight asks only that you move slowly and let the gray do its steady work.",
+    "color_code": "#4A5568",
+    "timestamp": "2025-10-04 20:39:17",
     "location": {
-        "name": "Centennial Park",
-        "latitude": -35.00470592262745,
-        "longitude": 117.8679665250988,
+        "name": "Albany",
+        "latitude": -35.0260344840731,
+        "longitude": 117.8853068844982,
         "timezone": "Australia/Perth"
     }
 }
