@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Williams",
             "country": "AU",
-            "latitude": -31.94968350650634,
-            "longitude": 115.820836564195
+            "latitude": -33.03034393072785,
+            "longitude": 116.8786367054359
         },
         "current_conditions": {
-            "timestamp": "2025-10-03T20:22:49+00:00",
-            "temperature_c": 15.67,
-            "temperature_f": 60.206,
-            "humidity": 82,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 360,
-            "description": "broken clouds"
+            "timestamp": "2025-10-04T01:36:45+00:00",
+            "temperature_c": 15.97,
+            "temperature_f": 60.746,
+            "humidity": 90,
+            "wind_speed_mph": 16.62091,
+            "wind_direction": 313,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-03T21:00:00+00:00",
-                "temperature": 15.67,
-                "windSpeed": 14.45102,
-                "windDirection": 348,
+                "startTime": "2025-10-04T03:00:00+00:00",
+                "temperature": 17.82,
+                "windSpeed": 19.529010000000003,
+                "windDirection": 309,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-10-04T00:00:00+00:00",
-                "temperature": 16.39,
-                "windSpeed": 17.26964,
-                "windDirection": 337,
+                "startTime": "2025-10-04T06:00:00+00:00",
+                "temperature": 17.3,
+                "windSpeed": 13.936510000000002,
+                "windDirection": 274,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Before dawn in Subiaco, a soft, showery veil hushes the streets and lays a gentle sheen on the footpaths. The forecast keeps light rain in the picture through the early morning, with low cloud muting any hint of sunrise and keeping the UV modest to minimal at first. As the day lifts, expect a mostly grey canvas with occasional lighter patches; if a few shy breaks appear later, the sun will feel brighter than it looks, but for now the light stays silvery and subdued and visibility a touch softened by drizzle.\n\nIt\u2019s a day for comfort and patience: a light layer under a rain shell, shoes that won\u2019t flinch at puddles, and perhaps a small umbrella for the uneven showers. If you\u2019re up at this hour, let the morning amble along\u2014brew something warm, read a chapter, stretch by a window, then wander to a bakery once the rain slackens. Later, errands and a quick train into town will be fine between spits; a museum, a quiet caf\u00e9, or a lazy circuit through the market aisles suits the mood. Keep sunscreen in your bag just in case the sky relents after midday, but expect a calm, grey-tinged day that asks you to move a little slower.",
+    "weather_report": "Williams wakes to a soft, rain-polished morning. Light showers in the early hours have left the streets darkened and reflective, the air cool and a little fragrant, horizons smudged by a low, even ceiling of cloud. Sunlight will be scarce, arriving, if at all, in brief, shy openings; the UV index stays low while the overcast holds, perhaps nudging to modest if the deck thins for a spell midday. Expect the day to drift between misting sprinkles and long, gray pauses, more quiet than fierce, with no great theatrics beyond the hush of water on leaves.\n\nIt looks more contemplative than unpleasant. Dress in easy layers with a light waterproof shell and shoes that don\u2019t mind puddles; tuck a compact umbrella in a bag and sunglasses only if you\u2019re an optimist. This is a good morning for errands unrushed, a slow walk when the rain eases, a library stop, or a window seat at a caf\u00e9 where the world outside blurs into silver. If you\u2019re staying home, put on some music and sort a drawer, simmer something simple, or give the car\u2019s wipers a once-over before the next shower.",
     "color_code": "#708090",
-    "timestamp": "2025-10-04 04:22:49",
+    "timestamp": "2025-10-04 09:36:45",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968350650634,
-        "longitude": 115.820836564195,
+        "name": "Williams",
+        "latitude": -33.03034393072785,
+        "longitude": 116.8786367054359,
         "timezone": "Australia/Perth"
     }
 }
