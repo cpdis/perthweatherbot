@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-09-27 16:25:06",
-    "location": {
-      "name": "Bellevue",
-      "latitude": -31.90647234001698,
-      "longitude": 116.0324462282783,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-27T08:25:06+00:00",
-      "temperature_c": 19.97,
-      "temperature_f": 67.946,
-      "humidity": 61,
-      "wind_speed_mph": 10.82708,
-      "wind_direction": 233,
-      "description": "broken clouds"
-    },
-    "report_summary": "Bellevue drifts through late afternoon under an unbroken lid of cloud, the light soft and even, colo...",
-    "color_code": "#7A828C"
-  },
-  {
     "timestamp": "2025-09-27 20:39:21",
     "location": {
       "name": "Subiaco",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Midnight settles over Albany with a quiet lid of cloud, the thick sheet from late afternoon now torn...",
     "color_code": "#2C3E50"
+  },
+  {
+    "timestamp": "2025-10-05 04:20:49",
+    "location": {
+      "name": "Albany",
+      "latitude": -35.0260344840731,
+      "longitude": 117.8853068844982,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-04T20:20:49+00:00",
+      "temperature_c": 12.03,
+      "temperature_f": 53.653999999999996,
+      "humidity": 61,
+      "wind_speed_mph": 11.923210000000001,
+      "wind_direction": 233,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Albany wakes before dawn under a quilt of scattered clouds, the sky mottled and dimly luminous as th...",
+    "color_code": "#2E3A59"
   }
 ]
