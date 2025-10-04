@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Williams",
+            "name": "Centennial Park",
             "country": "AU",
-            "latitude": -33.03034393072785,
-            "longitude": 116.8786367054359
+            "latitude": -35.01959329774049,
+            "longitude": 117.8817569570458
         },
         "current_conditions": {
-            "timestamp": "2025-10-04T01:36:45+00:00",
-            "temperature_c": 15.97,
-            "temperature_f": 60.746,
-            "humidity": 90,
-            "wind_speed_mph": 16.62091,
-            "wind_direction": 313,
-            "description": "overcast clouds"
+            "timestamp": "2025-10-04T04:24:49+00:00",
+            "temperature_c": 14.9,
+            "temperature_f": 58.82,
+            "humidity": 92,
+            "wind_speed_mph": 11.050780000000001,
+            "wind_direction": 284,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2025-10-04T03:00:00+00:00",
-                "temperature": 17.82,
-                "windSpeed": 19.529010000000003,
-                "windDirection": 309,
+                "startTime": "2025-10-04T06:00:00+00:00",
+                "temperature": 15.06,
+                "windSpeed": 9.462510000000002,
+                "windDirection": 300,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-10-04T06:00:00+00:00",
-                "temperature": 17.3,
-                "windSpeed": 13.936510000000002,
-                "windDirection": 274,
+                "startTime": "2025-10-04T09:00:00+00:00",
+                "temperature": 14.57,
+                "windSpeed": 10.17835,
+                "windDirection": 265,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Williams wakes to a soft, rain-polished morning. Light showers in the early hours have left the streets darkened and reflective, the air cool and a little fragrant, horizons smudged by a low, even ceiling of cloud. Sunlight will be scarce, arriving, if at all, in brief, shy openings; the UV index stays low while the overcast holds, perhaps nudging to modest if the deck thins for a spell midday. Expect the day to drift between misting sprinkles and long, gray pauses, more quiet than fierce, with no great theatrics beyond the hush of water on leaves.\n\nIt looks more contemplative than unpleasant. Dress in easy layers with a light waterproof shell and shoes that don\u2019t mind puddles; tuck a compact umbrella in a bag and sunglasses only if you\u2019re an optimist. This is a good morning for errands unrushed, a slow walk when the rain eases, a library stop, or a window seat at a caf\u00e9 where the world outside blurs into silver. If you\u2019re staying home, put on some music and sort a drawer, simmer something simple, or give the car\u2019s wipers a once-over before the next shower.",
-    "color_code": "#708090",
-    "timestamp": "2025-10-04 09:36:45",
+    "weather_report": "Midday at Centennial Park arrives with the hush that follows a light morning rain. Paths are damp, leaves lacquered, and the sky keeps to a uniform pewter sheet that turns the sun into a pale suggestion. Any brightness today will be brief and filtered; the UV sits subdued beneath the overcast, more a gentle nudge than a sting. The air is clean and a touch humid, visibility good though distance looks softly smudged, like a view through linen.\n\nThrough the afternoon, expect a mostly gray, calm day with the possibility of another passing sprinkle and, if fortune tilts your way, a shy break in the clouds. A light waterproof shell and shoes that don\u2019t mind wet grass are wiser than heavy layers; tuck a compact umbrella in a pocket. It\u2019s a day for an unhurried loop along the paths, a stretch under a pavilion, or a quietly triumphant chapter on a sheltered bench; if the ceiling thins, a brief photo walk to catch reflections in puddles will reward you. A dab of sunscreen won\u2019t hurt, but you can leave the big sunhat at home.",
+    "color_code": "#8FA3B6",
+    "timestamp": "2025-10-04 12:24:50",
     "location": {
-        "name": "Williams",
-        "latitude": -33.03034393072785,
-        "longitude": 116.8786367054359,
+        "name": "Centennial Park",
+        "latitude": -35.01959329774049,
+        "longitude": 117.8817569570458,
         "timezone": "Australia/Perth"
     }
 }

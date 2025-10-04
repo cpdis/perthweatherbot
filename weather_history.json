@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-09-27 04:23:01",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967871000199,
-      "longitude": 115.8208189912277,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-26T20:23:01+00:00",
-      "temperature_c": 11.08,
-      "temperature_f": 51.944,
-      "humidity": 79,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 210,
-      "description": "clear sky"
-    },
-    "report_summary": "Before dawn in Subiaco the sky is clean and quiet, a deep, steady blue with the first hint of pale l...",
-    "color_code": "#0D3B66"
-  },
-  {
     "timestamp": "2025-09-27 09:37:47",
     "location": {
       "name": "Subiaco",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Williams wakes to a soft, rain-polished morning. Light showers in the early hours have left the stre...",
     "color_code": "#708090"
+  },
+  {
+    "timestamp": "2025-10-04 12:24:50",
+    "location": {
+      "name": "Centennial Park",
+      "latitude": -35.01959329774049,
+      "longitude": 117.8817569570458,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-04T04:24:49+00:00",
+      "temperature_c": 14.9,
+      "temperature_f": 58.82,
+      "humidity": 92,
+      "wind_speed_mph": 11.050780000000001,
+      "wind_direction": 284,
+      "description": "light rain"
+    },
+    "report_summary": "Midday at Centennial Park arrives with the hush that follows a light morning rain. Paths are damp, l...",
+    "color_code": "#8FA3B6"
   }
 ]
