@@ -7,34 +7,34 @@
             "longitude": 117.8862484463212
         },
         "current_conditions": {
-            "timestamp": "2025-10-05T12:39:38+00:00",
-            "temperature_c": 11.17,
-            "temperature_f": 52.106,
-            "humidity": 81,
-            "wind_speed_mph": 3.6463099999999997,
-            "wind_direction": 266,
-            "description": "clear sky"
+            "timestamp": "2025-10-05T16:23:40+00:00",
+            "temperature_c": 9.5,
+            "temperature_f": 49.1,
+            "humidity": 91,
+            "wind_speed_mph": 5.5925,
+            "wind_direction": 293,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-05T15:00:00+00:00",
-                "temperature": 10.2,
-                "windSpeed": 5.167470000000001,
-                "windDirection": 297,
-                "shortForecast": "broken clouds"
-            },
-            {
                 "startTime": "2025-10-05T18:00:00+00:00",
-                "temperature": 9.22,
+                "temperature": 9.08,
                 "windSpeed": 5.74909,
                 "windDirection": 286,
-                "shortForecast": "scattered clouds"
+                "shortForecast": "few clouds"
+            },
+            {
+                "startTime": "2025-10-05T21:00:00+00:00",
+                "temperature": 10.17,
+                "windSpeed": 4.74244,
+                "windDirection": 268,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Evening settles over Albany with a quilt of scattered clouds drifting across a fading sky. Earlier, the day moved from broken to more open patches, sun slipping in and out as if testing the room, offering light without glare. That meant some brightness but no harshness; the UV would have peaked modestly around midafternoon and now has fallen to a gentle zero, the kind of light that flatters brick and leaf and makes the river look thoughtful. The air reads as seasonably comfortable, tilting cool as night gathers, and the view feels mostly clear between the cloud breaks.\n\nIt looks like a pleasant, low-drama night to be out briefly and unhurried. A light jacket or sweater will serve, sleeves down if you plan to linger. A short stroll to the corner for tea or a forgotten ingredient, a quiet loop with the dog, or a few minutes on the stoop listening to the neighborhood hum would fit. The forecast looks dry, the mood unruffled, the sky offering just enough texture to keep you looking up.",
-    "color_code": "#2C3E50",
-    "timestamp": "2025-10-05 20:39:38",
+    "weather_report": "Just past midnight in Albany, the air feels rinsed and quiet, the pavement still glistening from the evening\u2019s light rain. Clouds linger like a soft curtain; stars are mostly out of sight, and the world looks a little blurred at the edges under the streetlights. UV is essentially nil at this hour, and any breeze feels more like a whisper than a shove.\n\nAs the day stirs, expect a muted sky\u2014more clouds than sun, with brightness arriving in short, gentle intervals. The sun, when it peeks through, should be mild, keeping the UV on the low side and the day\u2019s clarity soft rather than crisp. It\u2019s a light-layer morning: a thin sweater or jacket and, if you\u2019re stepping out early, a small umbrella or hooded coat for any stray sprinkle. This is good weather for simple errands, a quiet coffee by a window, or a short walk between breaks in the clouds\u2014ordinary comforts that make steady, unremarkable days feel quietly worthwhile.",
+    "color_code": "#2F3A4A",
+    "timestamp": "2025-10-06 00:23:40",
     "location": {
         "name": "Albany",
         "latitude": -35.03000932132569,
