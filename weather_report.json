@@ -3,42 +3,42 @@
         "location": {
             "name": "Albany",
             "country": "AU",
-            "latitude": -35.0260344840731,
-            "longitude": 117.8853068844982
+            "latitude": -35.02650776666667,
+            "longitude": 117.8838153833333
         },
         "current_conditions": {
-            "timestamp": "2025-10-04T20:20:49+00:00",
-            "temperature_c": 12.03,
-            "temperature_f": 53.653999999999996,
-            "humidity": 61,
-            "wind_speed_mph": 11.923210000000001,
-            "wind_direction": 233,
-            "description": "scattered clouds"
+            "timestamp": "2025-10-05T01:49:55+00:00",
+            "temperature_c": 14.48,
+            "temperature_f": 58.064,
+            "humidity": 50,
+            "wind_speed_mph": 13.15356,
+            "wind_direction": 228,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-04T21:00:00+00:00",
-                "temperature": 11.35,
-                "windSpeed": 11.341590000000002,
-                "windDirection": 237,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-10-05T03:00:00+00:00",
+                "temperature": 13.95,
+                "windSpeed": 12.03506,
+                "windDirection": 228,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2025-10-05T00:00:00+00:00",
-                "temperature": 12.18,
-                "windSpeed": 12.68379,
-                "windDirection": 228,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-10-05T06:00:00+00:00",
+                "temperature": 13.99,
+                "windSpeed": 10.245460000000001,
+                "windDirection": 214,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Albany wakes before dawn under a quilt of scattered clouds, the sky mottled and dimly luminous as the city yawns itself into Sunday. The air feels calm and open, the kind that carries sound a little farther down quiet streets. With breaks in the cloud deck, the morning looks clear enough, a soft, blue-gray light promising a gentle start rather than a dramatic one.\n\nThrough the day, expect intervals of sunshine filtering between passing clouds. Bright moments should arrive in comfortable bursts rather than a fierce blaze, with the UV index near nil now and likely modest around midday if the gaps widen. Visibility looks good and the day\u2019s character leans agreeable, not dazzling. Dress in light layers: a sweater or light jacket at first light, easily shed to a shirt by late morning, and sunglasses for those brighter windows. It\u2019s a day for unhurried errands, a quiet walk to the bakery, tidying a corner of the house with the window cracked open, or a leisurely ride to the library. If you step out early, let the hush work on you; later, take the patchwork sun as permission to keep the pace humane.",
-    "color_code": "#2E3A59",
-    "timestamp": "2025-10-05 04:20:49",
+    "weather_report": "Albany wakes under a quilt of unbroken cloud, the morning light sifted to a calm, silvery wash that softens edges and keeps shadows at bay. Sunshine will be scarce; the UV stays muted, more a gentle glow than a glare, and the day looks quiet and matte rather than crystalline. It\u2019s a pleasant sort of gray, steady and unhurried, with clear air but little sparkle, the kind of sky that makes colors on old brick and wet leaves feel deeper.\n\nDress in comfortable layers and a light jacket, something you can keep on indoors without fuss; sunglasses can rest today, but a small tote or foldable umbrella wouldn\u2019t be out of place if the sky toys with a mist. This is good weather for unglamorous errands done at an easy pace, a warm drink by a caf\u00e9 window with a book you\u2019ve been meaning to finish, or a slow neighborhood loop to clear the head. If there\u2019s work to be done, a tidy desk and a faithful lamp will suit the mood, and if not, a grocery run and a pot simmering on the stove may be just the rhythm this gray morning asks for.",
+    "color_code": "#A3A9B1",
+    "timestamp": "2025-10-05 09:49:55",
     "location": {
         "name": "Albany",
-        "latitude": -35.0260344840731,
-        "longitude": 117.8853068844982,
+        "latitude": -35.02650776666667,
+        "longitude": 117.8838153833333,
         "timezone": "Australia/Perth"
     }
 }

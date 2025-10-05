@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-27 20:39:21",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9496963869959,
-      "longitude": 115.820695156729,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-27T12:39:20+00:00",
-      "temperature_c": 16.1,
-      "temperature_f": 60.980000000000004,
-      "humidity": 73,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 250,
-      "description": "broken clouds"
-    },
-    "report_summary": "Evening has settled over Subiaco under a soft lid of cloud, the last of the day\u2019s broken patches kni...",
-    "color_code": "#4A5968"
-  },
-  {
-    "timestamp": "2025-09-28 00:24:18",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9496963869959,
-      "longitude": 115.820695156729,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-27T16:24:18+00:00",
-      "temperature_c": 15.79,
-      "temperature_f": 60.422,
-      "humidity": 72,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 260,
-      "description": "broken clouds"
-    },
-    "report_summary": "Just past midnight in Subiaco, the sky is quilted with cloud that smothers the stars and hushes the ...",
-    "color_code": "#2F3B4C"
-  },
-  {
     "timestamp": "2025-09-28 04:21:22",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Albany wakes before dawn under a quilt of scattered clouds, the sky mottled and dimly luminous as th...",
     "color_code": "#2E3A59"
+  },
+  {
+    "timestamp": "2025-10-05 09:49:55",
+    "location": {
+      "name": "Albany",
+      "latitude": -35.02650776666667,
+      "longitude": 117.8838153833333,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-05T01:49:55+00:00",
+      "temperature_c": 14.48,
+      "temperature_f": 58.064,
+      "humidity": 50,
+      "wind_speed_mph": 13.15356,
+      "wind_direction": 228,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Albany wakes under a quilt of unbroken cloud, the morning light sifted to a calm, silvery wash that ...",
+    "color_code": "#A3A9B1"
   }
 ]
