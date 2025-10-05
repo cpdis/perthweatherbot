@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-09-28 04:21:22",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9496963869959,
-      "longitude": 115.820695156729,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-27T20:21:21+00:00",
-      "temperature_c": 14.34,
-      "temperature_f": 57.812,
-      "humidity": 78,
-      "wind_speed_mph": 12.70616,
-      "wind_direction": 249,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Before sunrise in Subiaco, the sky wears scattered cloud like a loose shawl, the streets still and s...",
-    "color_code": "#6E7F91"
-  },
-  {
     "timestamp": "2025-09-28 09:50:34",
     "location": {
       "name": "Subiaco",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Albany wakes under a quilt of unbroken cloud, the morning light sifted to a calm, silvery wash that ...",
     "color_code": "#A3A9B1"
+  },
+  {
+    "timestamp": "2025-10-05 12:23:53",
+    "location": {
+      "name": "Frenchman Bay",
+      "latitude": -35.09281433551622,
+      "longitude": 117.9484661446207,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-05T04:23:52+00:00",
+      "temperature_c": 15.61,
+      "temperature_f": 60.098,
+      "humidity": 60,
+      "wind_speed_mph": 13.287780000000001,
+      "wind_direction": 229,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Frenchman Bay sits under a softened, pewter sky that began the day sealed in cloud and has since tor...",
+    "color_code": "#9AA7B6"
   }
 ]

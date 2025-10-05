@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Albany",
+            "name": "Frenchman Bay",
             "country": "AU",
-            "latitude": -35.02650776666667,
-            "longitude": 117.8838153833333
+            "latitude": -35.09281433551622,
+            "longitude": 117.9484661446207
         },
         "current_conditions": {
-            "timestamp": "2025-10-05T01:49:55+00:00",
-            "temperature_c": 14.48,
-            "temperature_f": 58.064,
-            "humidity": 50,
-            "wind_speed_mph": 13.15356,
-            "wind_direction": 228,
+            "timestamp": "2025-10-05T04:23:52+00:00",
+            "temperature_c": 15.61,
+            "temperature_f": 60.098,
+            "humidity": 60,
+            "wind_speed_mph": 13.287780000000001,
+            "wind_direction": 229,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-05T03:00:00+00:00",
-                "temperature": 13.95,
-                "windSpeed": 12.03506,
-                "windDirection": 228,
+                "startTime": "2025-10-05T06:00:00+00:00",
+                "temperature": 15.05,
+                "windSpeed": 11.45344,
+                "windDirection": 216,
                 "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2025-10-05T06:00:00+00:00",
-                "temperature": 13.99,
-                "windSpeed": 10.245460000000001,
-                "windDirection": 214,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-10-05T09:00:00+00:00",
+                "temperature": 14.27,
+                "windSpeed": 11.02841,
+                "windDirection": 213,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Albany wakes under a quilt of unbroken cloud, the morning light sifted to a calm, silvery wash that softens edges and keeps shadows at bay. Sunshine will be scarce; the UV stays muted, more a gentle glow than a glare, and the day looks quiet and matte rather than crystalline. It\u2019s a pleasant sort of gray, steady and unhurried, with clear air but little sparkle, the kind of sky that makes colors on old brick and wet leaves feel deeper.\n\nDress in comfortable layers and a light jacket, something you can keep on indoors without fuss; sunglasses can rest today, but a small tote or foldable umbrella wouldn\u2019t be out of place if the sky toys with a mist. This is good weather for unglamorous errands done at an easy pace, a warm drink by a caf\u00e9 window with a book you\u2019ve been meaning to finish, or a slow neighborhood loop to clear the head. If there\u2019s work to be done, a tidy desk and a faithful lamp will suit the mood, and if not, a grocery run and a pot simmering on the stove may be just the rhythm this gray morning asks for.",
-    "color_code": "#A3A9B1",
-    "timestamp": "2025-10-05 09:49:55",
+    "weather_report": "Frenchman Bay sits under a softened, pewter sky that began the day sealed in cloud and has since torn into ragged patches, letting shy light wander across the water. The sun is present but diffused, a gauze over the eyes rather than a glare; expect occasional bright spells but no hard, crystalline blue. UV exposure should be on the gentle side of moderate, the kind that warms the face without biting, and the day\u2019s clarity feels honest but subdued, distant headlands a touch faded at the edges.\n\nDress in light layers with a wind-stopping shell, something you can shrug off if a brighter interval finds you. Sunglasses won\u2019t be wasted when the clouds thin, but a hat is optional unless the breeze starts to fuss. It\u2019s a good afternoon for a slow shoreline amble, a visit to the small museum you keep meaning to see, mending a loose button by a window with a view of the tide, or leafing through a book on a bench while gulls stitch their own unruly patterns overhead. Keep plans unhurried and let the mottled sky set the tempo.",
+    "color_code": "#9AA7B6",
+    "timestamp": "2025-10-05 12:23:53",
     "location": {
-        "name": "Albany",
-        "latitude": -35.02650776666667,
-        "longitude": 117.8838153833333,
+        "name": "Frenchman Bay",
+        "latitude": -35.09281433551622,
+        "longitude": 117.9484661446207,
         "timezone": "Australia/Perth"
     }
 }
