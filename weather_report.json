@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Frenchman Bay",
+            "name": "Goode Beach",
             "country": "AU",
-            "latitude": -35.09281433551622,
-            "longitude": 117.9484661446207
+            "latitude": -35.08745524729306,
+            "longitude": 117.9384054234386
         },
         "current_conditions": {
-            "timestamp": "2025-10-05T04:23:52+00:00",
-            "temperature_c": 15.61,
-            "temperature_f": 60.098,
-            "humidity": 60,
-            "wind_speed_mph": 13.287780000000001,
-            "wind_direction": 229,
+            "timestamp": "2025-10-05T08:24:53+00:00",
+            "temperature_c": 15.58,
+            "temperature_f": 60.044,
+            "humidity": 58,
+            "wind_speed_mph": 11.07315,
+            "wind_direction": 210,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-05T06:00:00+00:00",
-                "temperature": 15.05,
-                "windSpeed": 11.45344,
-                "windDirection": 216,
+                "startTime": "2025-10-05T09:00:00+00:00",
+                "temperature": 15.58,
+                "windSpeed": 9.97702,
+                "windDirection": 207,
                 "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2025-10-05T09:00:00+00:00",
-                "temperature": 14.27,
-                "windSpeed": 11.02841,
-                "windDirection": 213,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-10-05T12:00:00+00:00",
+                "temperature": 14.12,
+                "windSpeed": 5.45828,
+                "windDirection": 217,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Frenchman Bay sits under a softened, pewter sky that began the day sealed in cloud and has since torn into ragged patches, letting shy light wander across the water. The sun is present but diffused, a gauze over the eyes rather than a glare; expect occasional bright spells but no hard, crystalline blue. UV exposure should be on the gentle side of moderate, the kind that warms the face without biting, and the day\u2019s clarity feels honest but subdued, distant headlands a touch faded at the edges.\n\nDress in light layers with a wind-stopping shell, something you can shrug off if a brighter interval finds you. Sunglasses won\u2019t be wasted when the clouds thin, but a hat is optional unless the breeze starts to fuss. It\u2019s a good afternoon for a slow shoreline amble, a visit to the small museum you keep meaning to see, mending a loose button by a window with a view of the tide, or leafing through a book on a bench while gulls stitch their own unruly patterns overhead. Keep plans unhurried and let the mottled sky set the tempo.",
-    "color_code": "#9AA7B6",
-    "timestamp": "2025-10-05 12:23:53",
+    "weather_report": "Goode Beach drifts into late afternoon under a seamless lid of cloud, the light softened to pewter and the horizon a gentle blur. Sunshine looks unlikely to stage an appearance; the UV is low now and will stay that way as evening folds in, with the sky remaining overcast into nightfall. It\u2019s a quiet, muted sort of clarity\u2014the kind that makes colors hushed and the water look like brushed steel\u2014pleasant in a contemplative way rather than a dazzling one.\n\nDress in light layers with a windproof outer, something you can zip up for the chill that comes as the day exhales. Think unhurried plans: a shoreline amble to listen to the tide\u2019s low conversation, a thermos and a book on a sheltered bench, a few photographs of moody skies, or a gentle jog before the early dusk. If you\u2019ve chores to run in town, this is the weather that gets them done without hurry or glare, then rewards you with a quiet cup and the sound of the sea.",
+    "color_code": "#7F8A96",
+    "timestamp": "2025-10-05 16:24:53",
     "location": {
-        "name": "Frenchman Bay",
-        "latitude": -35.09281433551622,
-        "longitude": 117.9484661446207,
+        "name": "Goode Beach",
+        "latitude": -35.08745524729306,
+        "longitude": 117.9384054234386,
         "timezone": "Australia/Perth"
     }
 }
