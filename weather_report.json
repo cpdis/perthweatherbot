@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Goode Beach",
+            "name": "Albany",
             "country": "AU",
-            "latitude": -35.08745524729306,
-            "longitude": 117.9384054234386
+            "latitude": -35.03000932132569,
+            "longitude": 117.8862484463212
         },
         "current_conditions": {
-            "timestamp": "2025-10-05T08:24:53+00:00",
-            "temperature_c": 15.58,
-            "temperature_f": 60.044,
-            "humidity": 58,
-            "wind_speed_mph": 11.07315,
-            "wind_direction": 210,
-            "description": "overcast clouds"
+            "timestamp": "2025-10-05T12:39:38+00:00",
+            "temperature_c": 11.17,
+            "temperature_f": 52.106,
+            "humidity": 81,
+            "wind_speed_mph": 3.6463099999999997,
+            "wind_direction": 266,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-10-05T09:00:00+00:00",
-                "temperature": 15.58,
-                "windSpeed": 9.97702,
-                "windDirection": 207,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-10-05T15:00:00+00:00",
+                "temperature": 10.2,
+                "windSpeed": 5.167470000000001,
+                "windDirection": 297,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-10-05T12:00:00+00:00",
-                "temperature": 14.12,
-                "windSpeed": 5.45828,
-                "windDirection": 217,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-10-05T18:00:00+00:00",
+                "temperature": 9.22,
+                "windSpeed": 5.74909,
+                "windDirection": 286,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Goode Beach drifts into late afternoon under a seamless lid of cloud, the light softened to pewter and the horizon a gentle blur. Sunshine looks unlikely to stage an appearance; the UV is low now and will stay that way as evening folds in, with the sky remaining overcast into nightfall. It\u2019s a quiet, muted sort of clarity\u2014the kind that makes colors hushed and the water look like brushed steel\u2014pleasant in a contemplative way rather than a dazzling one.\n\nDress in light layers with a windproof outer, something you can zip up for the chill that comes as the day exhales. Think unhurried plans: a shoreline amble to listen to the tide\u2019s low conversation, a thermos and a book on a sheltered bench, a few photographs of moody skies, or a gentle jog before the early dusk. If you\u2019ve chores to run in town, this is the weather that gets them done without hurry or glare, then rewards you with a quiet cup and the sound of the sea.",
-    "color_code": "#7F8A96",
-    "timestamp": "2025-10-05 16:24:53",
+    "weather_report": "Evening settles over Albany with a quilt of scattered clouds drifting across a fading sky. Earlier, the day moved from broken to more open patches, sun slipping in and out as if testing the room, offering light without glare. That meant some brightness but no harshness; the UV would have peaked modestly around midafternoon and now has fallen to a gentle zero, the kind of light that flatters brick and leaf and makes the river look thoughtful. The air reads as seasonably comfortable, tilting cool as night gathers, and the view feels mostly clear between the cloud breaks.\n\nIt looks like a pleasant, low-drama night to be out briefly and unhurried. A light jacket or sweater will serve, sleeves down if you plan to linger. A short stroll to the corner for tea or a forgotten ingredient, a quiet loop with the dog, or a few minutes on the stoop listening to the neighborhood hum would fit. The forecast looks dry, the mood unruffled, the sky offering just enough texture to keep you looking up.",
+    "color_code": "#2C3E50",
+    "timestamp": "2025-10-05 20:39:38",
     "location": {
-        "name": "Goode Beach",
-        "latitude": -35.08745524729306,
-        "longitude": 117.9384054234386,
+        "name": "Albany",
+        "latitude": -35.03000932132569,
+        "longitude": 117.8862484463212,
         "timezone": "Australia/Perth"
     }
 }
