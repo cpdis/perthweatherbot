@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Albany",
+            "name": "Nanarup",
             "country": "AU",
-            "latitude": -35.02709918061803,
-            "longitude": 117.8832148482131
+            "latitude": -34.97297099293959,
+            "longitude": 118.1947744895941
         },
         "current_conditions": {
-            "timestamp": "2025-10-06T01:43:11+00:00",
-            "temperature_c": 14.54,
-            "temperature_f": 58.172,
-            "humidity": 80,
-            "wind_speed_mph": 2.99758,
-            "wind_direction": 225,
-            "description": "broken clouds"
+            "timestamp": "2025-10-06T04:25:34+00:00",
+            "temperature_c": 14.69,
+            "temperature_f": 58.442,
+            "humidity": 67,
+            "wind_speed_mph": 9.08222,
+            "wind_direction": 237,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-06T03:00:00+00:00",
-                "temperature": 14.54,
-                "windSpeed": 6.2636,
-                "windDirection": 247,
-                "shortForecast": "light rain"
+                "startTime": "2025-10-06T06:00:00+00:00",
+                "temperature": 14.64,
+                "windSpeed": 12.70616,
+                "windDirection": 232,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-10-06T06:00:00+00:00",
-                "temperature": 15.24,
-                "windSpeed": 10.424420000000001,
-                "windDirection": 238,
-                "shortForecast": "light rain"
+                "startTime": "2025-10-06T09:00:00+00:00",
+                "temperature": 14.92,
+                "windSpeed": 16.016920000000002,
+                "windDirection": 235,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Morning settles over Albany with streets still beaded from the night\u2019s light rain. A low quilt of cloud softens the light and hushes the colors; the sun is more rumor than presence, leaving the UV gentle. The air smells of wet leaves and clean pavement, visibility slightly muted at the margins but clear enough for unhurried errands.\n\nThrough the day, expect a mostly gray tableau with occasional light showers or drizzle and only brief, pale hints of sun if the overcast thins. Dress in simple layers with a light waterproof jacket and shoes that don\u2019t mind puddles; keep a small umbrella handy. It\u2019s weather suited to small satisfactions\u2014dropping a letter at the post office, a quiet browse at the library, stocking the pantry, or a short, reflective walk between showers. Save the sun hat; sunglasses can rest today.",
-    "color_code": "#7F8C99",
-    "timestamp": "2025-10-06 09:43:11",
+    "weather_report": "Midday in Nanarup feels bright but tempered, the sun softened by a quilt of broken cloud sliding in through early afternoon. Light pools and retreats across the dunes and scrub, more dappled than dazzling. As the day leans toward evening, the cloud thins to scattered patches and the view sharpens, the horizon gaining definition and the sea turning a cleaner blue. UV under a spring sun is still punchy at this hour; it slackens later, but not enough to skip a hat and sunscreen.\n\nIt\u2019s a quietly pleasant day\u2014made for unhurried errands and small rituals. Dress in light layers with sunglasses and a brimmed hat; a thin long-sleeve will feel right when the air cools toward late afternoon. A slow walk along the shore or through a nearby reserve will suit the improving light, or potter in the garden between sun breaks. If you stay home, crack the windows and let the softened breeze wander through the rooms.",
+    "color_code": "#9DB0C6",
+    "timestamp": "2025-10-06 12:25:34",
     "location": {
-        "name": "Albany",
-        "latitude": -35.02709918061803,
-        "longitude": 117.8832148482131,
+        "name": "Nanarup",
+        "latitude": -34.97297099293959,
+        "longitude": 118.1947744895941,
         "timezone": "Australia/Perth"
     }
 }
