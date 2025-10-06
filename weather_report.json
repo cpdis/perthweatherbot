@@ -7,34 +7,34 @@
             "longitude": 117.8679874978614
         },
         "current_conditions": {
-            "timestamp": "2025-10-06T12:47:00+00:00",
-            "temperature_c": 9.95,
-            "temperature_f": 49.91,
-            "humidity": 85,
-            "wind_speed_mph": 6.66626,
-            "wind_direction": 286,
+            "timestamp": "2025-10-06T16:27:55+00:00",
+            "temperature_c": 8.49,
+            "temperature_f": 47.282,
+            "humidity": 91,
+            "wind_speed_mph": 7.98609,
+            "wind_direction": 309,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-10-06T15:00:00+00:00",
-                "temperature": 10.04,
-                "windSpeed": 7.02418,
-                "windDirection": 305,
-                "shortForecast": "clear sky"
-            },
-            {
                 "startTime": "2025-10-06T18:00:00+00:00",
-                "temperature": 9.41,
+                "temperature": 8.9,
                 "windSpeed": 8.14268,
                 "windDirection": 303,
                 "shortForecast": "few clouds"
+            },
+            {
+                "startTime": "2025-10-06T21:00:00+00:00",
+                "temperature": 10.07,
+                "windSpeed": 9.104590000000002,
+                "windDirection": 296,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Evening has settled over Centennial Park with a calm, mostly clear sky and only a few timid clouds lingering from the afternoon. The day ran bright and uncomplicated\u2014sunny at midday with a lively, high UV bite\u2014before easing into a gentler light, and now the UV is negligible and the air feels open and clean. Visibility is crisp, the kind that makes silhouettes of trees feel deliberate against the deepening blue, and the overall mood is quietly pleasant.\n\nIf you\u2019re heading out, think light layers: a soft sweater or light jacket over something breathable, comfortable shoes, and no real need for sun gear at this hour. It\u2019s a good night for a slow circuit around the paths, a short dog walk that lasts longer than planned, or a few minutes on a bench to let the day drain away. If you brought a notebook, jot a page; if you brought nothing, just listen to the park\u2019s low murmur and the city beyond it.",
-    "color_code": "#1e2a44",
-    "timestamp": "2025-10-06 20:47:01",
+    "weather_report": "Night has settled over Centennial Park with a calm, inky sky that earlier wore only a few clouds before thickening into a broken quilt. At this hour the UV is essentially asleep, and the moon, where it finds a gap, lends a cool wash to the paths. The air feels steady rather than sharp, and visibility is serviceable under the softened glow. Toward morning, expect a mix of lingering cloud and occasional thin breaks; any sunshine should arrive filtered, gentle rather than glaring, with UV low early and only modest if the gaps widen later.\n\nIt\u2019s a night for simple comforts: a light jacket or soft sweater, sleeves you can push up if you get moving, and comfortable shoes for an unhurried lap. If you plan to be out past first light, consider sunglasses and a hat in case the sun slips through. The mood favors small, ordinary rituals\u2014walking the dog along the quieter loops, stretching by the water, or carrying a warm cup and a few pages to read while the day figures itself out.",
+    "color_code": "#1B263B",
+    "timestamp": "2025-10-07 00:27:55",
     "location": {
         "name": "Centennial Park",
         "latitude": -35.00471168172884,
