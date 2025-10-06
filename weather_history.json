@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-29 09:44:55",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9496792538638,
-      "longitude": 115.820734949489,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-29T01:44:54+00:00",
-      "temperature_c": 17.59,
-      "temperature_f": 63.662,
-      "humidity": 54,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 190,
-      "description": "broken clouds"
-    },
-    "report_summary": "Morning in Subiaco opens with a sky of broken clouds, the sun slipping in and out like a shy perform...",
-    "color_code": "#9BBAD0"
-  },
-  {
-    "timestamp": "2025-09-29 12:26:58",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967691724508,
-      "longitude": 115.820904413776,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-29T04:26:57+00:00",
-      "temperature_c": 19.13,
-      "temperature_f": 66.434,
-      "humidity": 47,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 210,
-      "description": "clear sky"
-    },
-    "report_summary": "Midday in Subiaco arrives under a clean, insistent light, the sky an uncomplicated blue and the air ...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-09-29 16:32:13",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Nanarup eases into late afternoon under a sky of scattered cloud, sunlight slipping through in gentl...",
     "color_code": "#B0C4DE"
+  },
+  {
+    "timestamp": "2025-10-06 20:47:01",
+    "location": {
+      "name": "Centennial Park",
+      "latitude": -35.00471168172884,
+      "longitude": 117.8679874978614,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-06T12:47:00+00:00",
+      "temperature_c": 9.95,
+      "temperature_f": 49.91,
+      "humidity": 85,
+      "wind_speed_mph": 6.66626,
+      "wind_direction": 286,
+      "description": "clear sky"
+    },
+    "report_summary": "Evening has settled over Centennial Park with a calm, mostly clear sky and only a few timid clouds l...",
+    "color_code": "#1e2a44"
   }
 ]

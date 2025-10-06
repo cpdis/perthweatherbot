@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Nanarup",
+            "name": "Centennial Park",
             "country": "AU",
-            "latitude": -34.97520449404291,
-            "longitude": 118.1984961668144
+            "latitude": -35.00471168172884,
+            "longitude": 117.8679874978614
         },
         "current_conditions": {
-            "timestamp": "2025-10-06T08:29:46+00:00",
-            "temperature_c": 15.16,
-            "temperature_f": 59.288,
-            "humidity": 64,
-            "wind_speed_mph": 15.50241,
-            "wind_direction": 228,
-            "description": "scattered clouds"
+            "timestamp": "2025-10-06T12:47:00+00:00",
+            "temperature_c": 9.95,
+            "temperature_f": 49.91,
+            "humidity": 85,
+            "wind_speed_mph": 6.66626,
+            "wind_direction": 286,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-10-06T09:00:00+00:00",
-                "temperature": 15.15,
-                "windSpeed": 15.524780000000002,
-                "windDirection": 234,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-10-06T15:00:00+00:00",
+                "temperature": 10.04,
+                "windSpeed": 7.02418,
+                "windDirection": 305,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-10-06T12:00:00+00:00",
-                "temperature": 14.89,
-                "windSpeed": 14.629980000000002,
-                "windDirection": 249,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-10-06T18:00:00+00:00",
+                "temperature": 9.41,
+                "windSpeed": 8.14268,
+                "windDirection": 303,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Nanarup eases into late afternoon under a sky of scattered cloud, sunlight slipping through in gentle sheets. The glare is softened now and the UV is easing toward low, though it likely ran stronger earlier; the day feels clean and open, with good clarity and no hint of anything severe, just a calm, salt-tinged brightness that comes and goes as the clouds drift.\n\nInto early evening the pattern holds: broken sunshine tapering to a pastel dusk and a quiet, partly cloudy night. Dress in light layers with something to pull on as the warmth fades; sunglasses for the next hour, a little sunscreen if you\u2019re sensitive, then a comfortable jumper will do. Good hours for modest plans\u2014an unhurried walk along the dunes, a small errand before the shops shut, tidying a corner of the garden, or a cup of tea on the porch while the light thins and the day closes its ledger.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-10-06 16:29:46",
+    "weather_report": "Evening has settled over Centennial Park with a calm, mostly clear sky and only a few timid clouds lingering from the afternoon. The day ran bright and uncomplicated\u2014sunny at midday with a lively, high UV bite\u2014before easing into a gentler light, and now the UV is negligible and the air feels open and clean. Visibility is crisp, the kind that makes silhouettes of trees feel deliberate against the deepening blue, and the overall mood is quietly pleasant.\n\nIf you\u2019re heading out, think light layers: a soft sweater or light jacket over something breathable, comfortable shoes, and no real need for sun gear at this hour. It\u2019s a good night for a slow circuit around the paths, a short dog walk that lasts longer than planned, or a few minutes on a bench to let the day drain away. If you brought a notebook, jot a page; if you brought nothing, just listen to the park\u2019s low murmur and the city beyond it.",
+    "color_code": "#1e2a44",
+    "timestamp": "2025-10-06 20:47:01",
     "location": {
-        "name": "Nanarup",
-        "latitude": -34.97520449404291,
-        "longitude": 118.1984961668144,
+        "name": "Centennial Park",
+        "latitude": -35.00471168172884,
+        "longitude": 117.8679874978614,
         "timezone": "Australia/Perth"
     }
 }
