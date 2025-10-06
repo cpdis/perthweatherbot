@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-09-29 16:32:13",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967793876306,
-      "longitude": 115.8209038108375,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-29T08:32:13+00:00",
-      "temperature_c": 19.31,
-      "temperature_f": 66.758,
-      "humidity": 53,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 250,
-      "description": "clear sky"
-    },
-    "report_summary": "Late afternoon in Subiaco arrives under a polished, open sky, the sun tilting west with a clean, hon...",
-    "color_code": "#F2C66D"
-  },
-  {
     "timestamp": "2025-09-29 20:47:57",
     "location": {
       "name": "Subiaco",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Night has settled over Centennial Park with a calm, inky sky that earlier wore only a few clouds bef...",
     "color_code": "#1B263B"
+  },
+  {
+    "timestamp": "2025-10-07 04:23:48",
+    "location": {
+      "name": "Centennial Park",
+      "latitude": -35.00471168172884,
+      "longitude": 117.8679874978614,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-06T20:23:48+00:00",
+      "temperature_c": 12.01,
+      "temperature_f": 53.618,
+      "humidity": 82,
+      "wind_speed_mph": 1.00665,
+      "wind_direction": 248,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Before dawn settles into day, Centennial Park wears a damp hush. Overnight overcast and a brush of l...",
+    "color_code": "#2E3440"
   }
 ]
