@@ -3,42 +3,42 @@
         "location": {
             "name": "Albany",
             "country": "AU",
-            "latitude": -35.03000932132569,
-            "longitude": 117.8862484463212
+            "latitude": -35.02709918061803,
+            "longitude": 117.8832148482131
         },
         "current_conditions": {
-            "timestamp": "2025-10-05T20:21:07+00:00",
-            "temperature_c": 7.28,
-            "temperature_f": 45.104,
-            "humidity": 92,
-            "wind_speed_mph": 4.98851,
-            "wind_direction": 287,
+            "timestamp": "2025-10-06T01:43:11+00:00",
+            "temperature_c": 14.54,
+            "temperature_f": 58.172,
+            "humidity": 80,
+            "wind_speed_mph": 2.99758,
+            "wind_direction": 225,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-05T21:00:00+00:00",
-                "temperature": 7.28,
-                "windSpeed": 4.22793,
-                "windDirection": 278,
+                "startTime": "2025-10-06T03:00:00+00:00",
+                "temperature": 14.54,
+                "windSpeed": 6.2636,
+                "windDirection": 247,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-10-06T00:00:00+00:00",
-                "temperature": 9.01,
-                "windSpeed": 5.68198,
-                "windDirection": 254,
+                "startTime": "2025-10-06T06:00:00+00:00",
+                "temperature": 15.24,
+                "windSpeed": 10.424420000000001,
+                "windDirection": 238,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Albany wakes cool and damp before dawn, last evening\u2019s light rain still beading the sidewalks and softening the streetlights. Skies look stubborn and low, with only a shy chance of thinning later; sunshine, if it peeks through, will be fleeting, and the UV stays tame. Expect a muted, slate-gray day with occasional spit of drizzle and long spells of quiet, dry air\u2014more cozy than sparkling, but gentle on the nerves. A light rain jacket and easy layers will serve you well, with shoes that don\u2019t mind puddles and a fold-up umbrella for insurance. It\u2019s a good hour to brew something warm, sort the week\u2019s list, water the plants, or step out for a short errand between showers; later, a calm visit to the library or a brisk lap around the block suits the mood.",
-    "color_code": "#4F6170",
-    "timestamp": "2025-10-06 04:21:07",
+    "weather_report": "Morning settles over Albany with streets still beaded from the night\u2019s light rain. A low quilt of cloud softens the light and hushes the colors; the sun is more rumor than presence, leaving the UV gentle. The air smells of wet leaves and clean pavement, visibility slightly muted at the margins but clear enough for unhurried errands.\n\nThrough the day, expect a mostly gray tableau with occasional light showers or drizzle and only brief, pale hints of sun if the overcast thins. Dress in simple layers with a light waterproof jacket and shoes that don\u2019t mind puddles; keep a small umbrella handy. It\u2019s weather suited to small satisfactions\u2014dropping a letter at the post office, a quiet browse at the library, stocking the pantry, or a short, reflective walk between showers. Save the sun hat; sunglasses can rest today.",
+    "color_code": "#7F8C99",
+    "timestamp": "2025-10-06 09:43:11",
     "location": {
         "name": "Albany",
-        "latitude": -35.03000932132569,
-        "longitude": 117.8862484463212,
+        "latitude": -35.02709918061803,
+        "longitude": 117.8832148482131,
         "timezone": "Australia/Perth"
     }
 }

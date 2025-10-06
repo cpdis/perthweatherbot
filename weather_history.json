@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-28 20:39:57",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968915339081,
-      "longitude": 115.8206919771684,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-28T12:39:56+00:00",
-      "temperature_c": 15.59,
-      "temperature_f": 60.062,
-      "humidity": 71,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 200,
-      "description": "broken clouds"
-    },
-    "report_summary": "Evening in Subiaco arrives with a lidded sky and the soft hush that follows a day slipping out the b...",
-    "color_code": "#2E3B47"
-  },
-  {
-    "timestamp": "2025-09-29 00:23:28",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968915339081,
-      "longitude": 115.8206919771684,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-28T16:23:28+00:00",
-      "temperature_c": 15.6,
-      "temperature_f": 60.08,
-      "humidity": 61,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 220,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco slides past midnight under a quilt of scattered cloud, the streets hushed, the sky carrying ...",
-    "color_code": "#1F2E3A"
-  },
-  {
     "timestamp": "2025-09-29 04:21:52",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Albany wakes cool and damp before dawn, last evening\u2019s light rain still beading the sidewalks and so...",
     "color_code": "#4F6170"
+  },
+  {
+    "timestamp": "2025-10-06 09:43:11",
+    "location": {
+      "name": "Albany",
+      "latitude": -35.02709918061803,
+      "longitude": 117.8832148482131,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-06T01:43:11+00:00",
+      "temperature_c": 14.54,
+      "temperature_f": 58.172,
+      "humidity": 80,
+      "wind_speed_mph": 2.99758,
+      "wind_direction": 225,
+      "description": "broken clouds"
+    },
+    "report_summary": "Morning settles over Albany with streets still beaded from the night\u2019s light rain. A low quilt of cl...",
+    "color_code": "#7F8C99"
   }
 ]
