@@ -3,42 +3,42 @@
         "location": {
             "name": "Nanarup",
             "country": "AU",
-            "latitude": -34.97297099293959,
-            "longitude": 118.1947744895941
+            "latitude": -34.97520449404291,
+            "longitude": 118.1984961668144
         },
         "current_conditions": {
-            "timestamp": "2025-10-06T04:25:34+00:00",
-            "temperature_c": 14.69,
-            "temperature_f": 58.442,
-            "humidity": 67,
-            "wind_speed_mph": 9.08222,
-            "wind_direction": 237,
-            "description": "overcast clouds"
+            "timestamp": "2025-10-06T08:29:46+00:00",
+            "temperature_c": 15.16,
+            "temperature_f": 59.288,
+            "humidity": 64,
+            "wind_speed_mph": 15.50241,
+            "wind_direction": 228,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-06T06:00:00+00:00",
-                "temperature": 14.64,
-                "windSpeed": 12.70616,
-                "windDirection": 232,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-10-06T09:00:00+00:00",
+                "temperature": 15.15,
+                "windSpeed": 15.524780000000002,
+                "windDirection": 234,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-10-06T09:00:00+00:00",
-                "temperature": 14.92,
-                "windSpeed": 16.016920000000002,
-                "windDirection": 235,
+                "startTime": "2025-10-06T12:00:00+00:00",
+                "temperature": 14.89,
+                "windSpeed": 14.629980000000002,
+                "windDirection": 249,
                 "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Midday in Nanarup feels bright but tempered, the sun softened by a quilt of broken cloud sliding in through early afternoon. Light pools and retreats across the dunes and scrub, more dappled than dazzling. As the day leans toward evening, the cloud thins to scattered patches and the view sharpens, the horizon gaining definition and the sea turning a cleaner blue. UV under a spring sun is still punchy at this hour; it slackens later, but not enough to skip a hat and sunscreen.\n\nIt\u2019s a quietly pleasant day\u2014made for unhurried errands and small rituals. Dress in light layers with sunglasses and a brimmed hat; a thin long-sleeve will feel right when the air cools toward late afternoon. A slow walk along the shore or through a nearby reserve will suit the improving light, or potter in the garden between sun breaks. If you stay home, crack the windows and let the softened breeze wander through the rooms.",
-    "color_code": "#9DB0C6",
-    "timestamp": "2025-10-06 12:25:34",
+    "weather_report": "Nanarup eases into late afternoon under a sky of scattered cloud, sunlight slipping through in gentle sheets. The glare is softened now and the UV is easing toward low, though it likely ran stronger earlier; the day feels clean and open, with good clarity and no hint of anything severe, just a calm, salt-tinged brightness that comes and goes as the clouds drift.\n\nInto early evening the pattern holds: broken sunshine tapering to a pastel dusk and a quiet, partly cloudy night. Dress in light layers with something to pull on as the warmth fades; sunglasses for the next hour, a little sunscreen if you\u2019re sensitive, then a comfortable jumper will do. Good hours for modest plans\u2014an unhurried walk along the dunes, a small errand before the shops shut, tidying a corner of the garden, or a cup of tea on the porch while the light thins and the day closes its ledger.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-10-06 16:29:46",
     "location": {
         "name": "Nanarup",
-        "latitude": -34.97297099293959,
-        "longitude": 118.1947744895941,
+        "latitude": -34.97520449404291,
+        "longitude": 118.1984961668144,
         "timezone": "Australia/Perth"
     }
 }
