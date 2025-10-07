@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-09-30 16:30:39",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95406545473081,
-      "longitude": 115.8526935846329,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-30T08:30:38+00:00",
-      "temperature_c": 19.61,
-      "temperature_f": 67.298,
-      "humidity": 55,
-      "wind_speed_mph": 9.48488,
-      "wind_direction": 215,
-      "description": "clear sky"
-    },
-    "report_summary": "Late afternoon in Perth arrives under a rinsed-blue sky, the sun leaning westward and turning verand...",
-    "color_code": "#F4C27A"
-  },
-  {
     "timestamp": "2025-09-30 20:48:14",
     "location": {
       "name": "Subiaco",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Midnight finds Albany damp and muted, the day having slipped from a solid ceiling of cloud into a li...",
     "color_code": "#4C566A"
+  },
+  {
+    "timestamp": "2025-10-08 04:23:43",
+    "location": {
+      "name": "Albany",
+      "latitude": -35.02363776991004,
+      "longitude": 117.8836540983224,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-07T20:23:43+00:00",
+      "temperature_c": 12.75,
+      "temperature_f": 54.95,
+      "humidity": 69,
+      "wind_speed_mph": 7.00181,
+      "wind_direction": 225,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Before dawn in Albany, the streets wear a sheen from last night\u2019s light rain, and the sky feels hush...",
+    "color_code": "#6C7A89"
   }
 ]
