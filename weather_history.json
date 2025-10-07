@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-29 20:47:57",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94972023153387,
-      "longitude": 115.820798255434,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-29T12:47:57+00:00",
-      "temperature_c": 14.65,
-      "temperature_f": 58.37,
-      "humidity": 77,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 210,
-      "description": "clear sky"
-    },
-    "report_summary": "Evening has settled over Subiaco with a clean, glassy sky and the kind of stillness that sharpens ed...",
-    "color_code": "#1b2a49"
-  },
-  {
-    "timestamp": "2025-09-30 00:22:30",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94972023153387,
-      "longitude": 115.820798255434,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-29T16:22:29+00:00",
-      "temperature_c": 12.01,
-      "temperature_f": 53.618,
-      "humidity": 86,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 200,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco settles into a quiet midnight with a clear, polished sky giving way to a few strays of cloud...",
-    "color_code": "#0B2239"
-  },
-  {
     "timestamp": "2025-09-30 04:21:27",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Before dawn settles into day, Centennial Park wears a damp hush. Overnight overcast and a brush of l...",
     "color_code": "#2E3440"
+  },
+  {
+    "timestamp": "2025-10-07 09:40:55",
+    "location": {
+      "name": "Emu Point",
+      "latitude": -34.99814949795554,
+      "longitude": 117.9476150444414,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-07T01:40:55+00:00",
+      "temperature_c": 16.28,
+      "temperature_f": 61.304,
+      "humidity": 69,
+      "wind_speed_mph": 16.86698,
+      "wind_direction": 259,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Morning drifts in under a soft grey lid at Emu Point, the sea flattened to pewter and the horizon a ...",
+    "color_code": "#90A4AE"
   }
 ]

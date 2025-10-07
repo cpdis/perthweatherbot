@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Centennial Park",
+            "name": "Emu Point",
             "country": "AU",
-            "latitude": -35.00471168172884,
-            "longitude": 117.8679874978614
+            "latitude": -34.99814949795554,
+            "longitude": 117.9476150444414
         },
         "current_conditions": {
-            "timestamp": "2025-10-06T20:23:48+00:00",
-            "temperature_c": 12.01,
-            "temperature_f": 53.618,
-            "humidity": 82,
-            "wind_speed_mph": 1.00665,
-            "wind_direction": 248,
+            "timestamp": "2025-10-07T01:40:55+00:00",
+            "temperature_c": 16.28,
+            "temperature_f": 61.304,
+            "humidity": 69,
+            "wind_speed_mph": 16.86698,
+            "wind_direction": 259,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-06T21:00:00+00:00",
-                "temperature": 12.01,
-                "windSpeed": 9.1717,
-                "windDirection": 295,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-10-07T03:00:00+00:00",
+                "temperature": 16.38,
+                "windSpeed": 17.62756,
+                "windDirection": 252,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-10-07T00:00:00+00:00",
-                "temperature": 12.56,
-                "windSpeed": 12.3035,
-                "windDirection": 270,
+                "startTime": "2025-10-07T06:00:00+00:00",
+                "temperature": 16.2,
+                "windSpeed": 16.48669,
+                "windDirection": 261,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Before dawn settles into day, Centennial Park wears a damp hush. Overnight overcast and a brush of light rain have left the paths slick and the air smelling of wet leaves; the sky is a seamless gray with little promise of early sunshine. Expect the morning to stay muted and soft-edged, with occasional mist or brief sprinkles, and only a hesitant brightening later if the ceiling lifts. The sun, if it peeks through at all, will be filtered; UV levels remain low this morning and likely stay modest even at midday.\n\nIt\u2019s a day for comfort and small rituals: a light waterproof shell over easy layers, shoes that don\u2019t mind puddles, and perhaps a cap to keep the drizzle off your glasses. Pleasant in a quiet, contemplative way rather than a sparkling one, the park invites slower plans\u2014a gentle loop with the dog while the birds fuss awake, a jog that enjoys the cool rather than fights the clock, or a thermos of coffee under a pavilion while the world takes its time. If the clouds thin later, a brief stretch on the lawn or a short photo wander to catch raindrops on branches will feel like a small reward.",
-    "color_code": "#2E3440",
-    "timestamp": "2025-10-07 04:23:48",
+    "weather_report": "Morning drifts in under a soft grey lid at Emu Point, the sea flattened to pewter and the horizon a smudge. Light rain is due to arrive toward late morning and return early afternoon, with only brief, pale hints of sun in between. The day looks muted rather than bright; visibility will be a touch hazy along the water and colors subdued, though the air feels pleasantly cool. UV won\u2019t roar today but it will nudge up around midday despite the cloud, so treat it as moderate at best: not a burner, yet not nothing.\n\nDress in light layers with a waterproof top, shoes that don\u2019t mind wet pavement, and keep a compact umbrella close. It\u2019s a good day for unhurried errands, a quiet coffee by a window, or a short promenade along the path when the showers back off; save the longer beach linger for another day. If you\u2019re out on the headland, watch the slick boards and let the breeze do the talking; if you\u2019re staying in, open a window and let the weather edit the soundtrack of your morning.",
+    "color_code": "#90A4AE",
+    "timestamp": "2025-10-07 09:40:55",
     "location": {
-        "name": "Centennial Park",
-        "latitude": -35.00471168172884,
-        "longitude": 117.8679874978614,
+        "name": "Emu Point",
+        "latitude": -34.99814949795554,
+        "longitude": 117.9476150444414,
         "timezone": "Australia/Perth"
     }
 }
