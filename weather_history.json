@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-09-30 04:21:27",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94972023153387,
-      "longitude": 115.820798255434,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-29T20:21:26+00:00",
-      "temperature_c": 10.66,
-      "temperature_f": 51.188,
-      "humidity": 88,
-      "wind_speed_mph": 5.54776,
-      "wind_direction": 133,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Subiaco wakes in a hush before dawn, the sky a deep blue with scattered cloud drifting like torn sai...",
-    "color_code": "#34495E"
-  },
-  {
     "timestamp": "2025-09-30 09:40:10",
     "location": {
       "name": "Subiaco",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Morning drifts in under a soft grey lid at Emu Point, the sea flattened to pewter and the horizon a ...",
     "color_code": "#90A4AE"
+  },
+  {
+    "timestamp": "2025-10-07 12:26:11",
+    "location": {
+      "name": "Centennial Park",
+      "latitude": -35.00469963057406,
+      "longitude": 117.8678728774672,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-07T04:26:11+00:00",
+      "temperature_c": 17.57,
+      "temperature_f": 63.626,
+      "humidity": 70,
+      "wind_speed_mph": 5.99516,
+      "wind_direction": 248,
+      "description": "broken clouds"
+    },
+    "report_summary": "Midday drifts in soft and gray over Centennial Park, the air rinsed clean by earlier light rain and ...",
+    "color_code": "#8DA3B2"
   }
 ]
