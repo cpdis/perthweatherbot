@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-30 09:40:10",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968401223987,
-      "longitude": 115.8209275257089,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-30T01:40:09+00:00",
-      "temperature_c": 17.55,
-      "temperature_f": 63.59,
-      "humidity": 59,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 90,
-      "description": "clear sky"
-    },
-    "report_summary": "Morning in Subiaco opens on a clear, generous blue, the light crisp and easy on the eyes. The sun wi...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-09-30 12:26:18",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95446405485649,
-      "longitude": 115.853560933648,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-30T04:26:17+00:00",
-      "temperature_c": 19.91,
-      "temperature_f": 67.838,
-      "humidity": 49,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 270,
-      "description": "few clouds"
-    },
-    "report_summary": "Perth at midday is washed in bright spring light; the air feels clear and the sun has a determined e...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-09-30 16:30:39",
     "location": {
       "name": "Perth",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon settles over Centennial Park with a soft, pewter sky that never quite opens. The morn...",
     "color_code": "#7a848e"
+  },
+  {
+    "timestamp": "2025-10-07 20:46:06",
+    "location": {
+      "name": "Albany",
+      "latitude": -35.02363776991004,
+      "longitude": 117.8836540983224,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-07T12:46:06+00:00",
+      "temperature_c": 12.19,
+      "temperature_f": 53.942,
+      "humidity": 75,
+      "wind_speed_mph": 1.99093,
+      "wind_direction": 248,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Albany has spent the day under a seamless quilt of cloud, the sun reduced to a pale rumor behind the...",
+    "color_code": "#4B5563"
   }
 ]

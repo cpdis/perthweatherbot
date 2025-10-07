@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Centennial Park",
+            "name": "Albany",
             "country": "AU",
-            "latitude": -35.00470894200059,
-            "longitude": 117.8679500110657
+            "latitude": -35.02363776991004,
+            "longitude": 117.8836540983224
         },
         "current_conditions": {
-            "timestamp": "2025-10-07T08:29:35+00:00",
-            "temperature_c": 12.57,
-            "temperature_f": 54.626,
-            "humidity": 94,
-            "wind_speed_mph": 4.004230000000001,
-            "wind_direction": 225,
+            "timestamp": "2025-10-07T12:46:06+00:00",
+            "temperature_c": 12.19,
+            "temperature_f": 53.942,
+            "humidity": 75,
+            "wind_speed_mph": 1.99093,
+            "wind_direction": 248,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-07T09:00:00+00:00",
-                "temperature": 12.57,
-                "windSpeed": 14.94316,
-                "windDirection": 221,
-                "shortForecast": "light rain"
+                "startTime": "2025-10-07T15:00:00+00:00",
+                "temperature": 11.94,
+                "windSpeed": 10.98367,
+                "windDirection": 241,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2025-10-07T12:00:00+00:00",
-                "temperature": 12.44,
-                "windSpeed": 14.47339,
-                "windDirection": 228,
+                "startTime": "2025-10-07T18:00:00+00:00",
+                "temperature": 11.46,
+                "windSpeed": 10.066500000000001,
+                "windDirection": 264,
                 "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Late afternoon settles over Centennial Park with a soft, pewter sky that never quite opens. The morning\u2019s light rain has rinsed the air, leaving a faint petrichor in the paths and a darker sheen to the lawns. Sunshine is mostly a rumor today, filtered and subdued, and the UV will stay gentle; shadows are dull-edged and the light is calm, almost contemplative. Visibility is steady but the world looks slightly muted, as if viewed through a clean pane of smoked glass.\n\nExpect the overcast to linger into the evening, cool and a touch damp underfoot. A light waterproof or a comfortable sweater suits the hour, with shoes that don\u2019t mind the occasional puddle. It\u2019s good weather for an unhurried loop around the pond, a quiet bench with a book, or a few photos that lean into the park\u2019s silvery tones. If you\u2019re feeling restless, an easy jog or a thoughtful dog walk will match the mood; if not, fetch a warm drink and let the subdued day do its unshowy work.",
-    "color_code": "#7a848e",
-    "timestamp": "2025-10-07 16:29:35",
+    "weather_report": "Albany has spent the day under a seamless quilt of cloud, the sun reduced to a pale rumor behind the gray. Midday stayed dim and gentle on the eyes, with the UV index low and the light diffuse, more pearl than sparkle. Now, deep into the evening, that muted ceiling lingers, softening the edges of buildings and streetlights, and the air carries that familiar October hush that asks for unhurried footsteps.\n\nIt looks like a quietly pleasant but subdued stretch: no glare, no drama, just an even, overcast mood. A light sweater or a casual jacket will feel right, with something comfortable for a lingering walk or a bus ride home. If you have errands, this is a good hour to tuck into a grocery run or return a library book; otherwise, let the gray invite you to simple comforts\u2014brew a cup of tea, sort tomorrow\u2019s to\u2011dos, or take a short stroll to hear the leaves whisper along the curb. Expect little from the sun and nothing from the UV; today is for soft light and calm routines.",
+    "color_code": "#4B5563",
+    "timestamp": "2025-10-07 20:46:06",
     "location": {
-        "name": "Centennial Park",
-        "latitude": -35.00470894200059,
-        "longitude": 117.8679500110657,
+        "name": "Albany",
+        "latitude": -35.02363776991004,
+        "longitude": 117.8836540983224,
         "timezone": "Australia/Perth"
     }
 }
