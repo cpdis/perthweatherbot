@@ -7,34 +7,34 @@
             "longitude": 117.8836540983224
         },
         "current_conditions": {
-            "timestamp": "2025-10-07T12:46:06+00:00",
-            "temperature_c": 12.19,
-            "temperature_f": 53.942,
-            "humidity": 75,
-            "wind_speed_mph": 1.99093,
-            "wind_direction": 248,
+            "timestamp": "2025-10-07T16:27:31+00:00",
+            "temperature_c": 10.3,
+            "temperature_f": 50.54,
+            "humidity": 68,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 249,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-07T15:00:00+00:00",
-                "temperature": 11.94,
-                "windSpeed": 10.98367,
-                "windDirection": 241,
-                "shortForecast": "overcast clouds"
-            },
-            {
                 "startTime": "2025-10-07T18:00:00+00:00",
-                "temperature": 11.46,
+                "temperature": 11.32,
                 "windSpeed": 10.066500000000001,
                 "windDirection": 264,
                 "shortForecast": "overcast clouds"
+            },
+            {
+                "startTime": "2025-10-07T21:00:00+00:00",
+                "temperature": 11.87,
+                "windSpeed": 15.659,
+                "windDirection": 245,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Albany has spent the day under a seamless quilt of cloud, the sun reduced to a pale rumor behind the gray. Midday stayed dim and gentle on the eyes, with the UV index low and the light diffuse, more pearl than sparkle. Now, deep into the evening, that muted ceiling lingers, softening the edges of buildings and streetlights, and the air carries that familiar October hush that asks for unhurried footsteps.\n\nIt looks like a quietly pleasant but subdued stretch: no glare, no drama, just an even, overcast mood. A light sweater or a casual jacket will feel right, with something comfortable for a lingering walk or a bus ride home. If you have errands, this is a good hour to tuck into a grocery run or return a library book; otherwise, let the gray invite you to simple comforts\u2014brew a cup of tea, sort tomorrow\u2019s to\u2011dos, or take a short stroll to hear the leaves whisper along the curb. Expect little from the sun and nothing from the UV; today is for soft light and calm routines.",
-    "color_code": "#4B5563",
-    "timestamp": "2025-10-07 20:46:06",
+    "weather_report": "Midnight finds Albany damp and muted, the day having slipped from a solid ceiling of cloud into a light, steady rain at dusk. The night feels soft around the edges, with low clouds smudging the skyline and pavement catching streetlamp glints. Sun will be mostly hidden for a while; the UV index is negligible now and likely to stay on the low side at first light unless the deck breaks. Expect a gray-leaning morning with decent but hazy clarity, the air cool and a touch metallic.\n\nDress for the hush: a light waterproof layer, shoes that don\u2019t mind puddles, and an umbrella in your bag just in case. At this hour, lean into modest comforts\u2014brew something warm, tidy a corner, sketch the day\u2019s errands. If you must head out early, a brisk walk under the low ceiling can clear the head, and drivers should take the damp streets a bit gently until the world wakes and dries.",
+    "color_code": "#4C566A",
+    "timestamp": "2025-10-08 00:27:31",
     "location": {
         "name": "Albany",
         "latitude": -35.02363776991004,
