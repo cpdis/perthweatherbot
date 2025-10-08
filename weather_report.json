@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Albany",
+            "name": "Denmark",
             "country": "AU",
-            "latitude": -35.02363776991004,
-            "longitude": 117.8836540983224
+            "latitude": -34.96029220211706,
+            "longitude": 117.3552944848047
         },
         "current_conditions": {
-            "timestamp": "2025-10-07T20:23:43+00:00",
-            "temperature_c": 12.75,
-            "temperature_f": 54.95,
-            "humidity": 69,
-            "wind_speed_mph": 7.00181,
-            "wind_direction": 225,
+            "timestamp": "2025-10-08T01:41:26+00:00",
+            "temperature_c": 12.36,
+            "temperature_f": 54.248,
+            "humidity": 67,
+            "wind_speed_mph": 14.00362,
+            "wind_direction": 238,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-07T21:00:00+00:00",
-                "temperature": 12.75,
-                "windSpeed": 14.27206,
-                "windDirection": 241,
+                "startTime": "2025-10-08T03:00:00+00:00",
+                "temperature": 13.16,
+                "windSpeed": 13.55622,
+                "windDirection": 240,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-10-08T00:00:00+00:00",
-                "temperature": 12.53,
-                "windSpeed": 14.585239999999999,
-                "windDirection": 245,
+                "startTime": "2025-10-08T06:00:00+00:00",
+                "temperature": 13.34,
+                "windSpeed": 13.55622,
+                "windDirection": 249,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Before dawn in Albany, the streets wear a sheen from last night\u2019s light rain, and the sky feels hushed and low. Clouds are the main act for now, muting any hint of sunrise; the air has that damp, faintly cool edge that softens sound and color. UV is negligible this early and will likely stay modest unless the overcast thins. Expect a mostly gray morning with a chance of spotty drizzle and only brief, shy breaks of brightness later, if at all. It\u2019s not unpleasant so much as subdued, a day that asks you to slow down and keep the kettle close.\n\nDress in easy layers with a light waterproof shell and shoes that don\u2019t mind wet sidewalks; tuck a compact umbrella in your bag. This is good weather for a quiet coffee, a tidy-up before the day unfurls, or an unhurried trip to the market when it opens. If the clouds lift a little toward midday, take a gentle walk between showers and enjoy the silvery light on the trees, but plan errands that don\u2019t demand sunshine. All told, a soft, gray day with low glare and low UV, best met with patience and comfortable clothes.",
-    "color_code": "#6C7A89",
-    "timestamp": "2025-10-08 04:23:43",
+    "weather_report": "Denmark wakes under a soft, silver sky, streets still beaded from the morning\u2019s light rain and the air smelling faintly of wet stone. Showers brushed through around dawn and may linger in patches through late morning, keeping the sun shy and the day gently dim; if breaks come, they\u2019ll be brief and muted. UV will stay low, the kind that barely nudges the skin even at midday. It\u2019s a cool, contemplative kind of day: clarity is subdued, edges softened, horizons a watercolor of slate and blue. A light rain jacket and comfortable shoes will serve you well, with a warm layer beneath for those unhurried pauses at crossings and bus stops. Consider small, steady pleasures\u2014an errand loop with an umbrella in hand, a quiet coffee by the window, a slow walk to the library between showers, or a lunchtime browse in a shop while the pavements glisten and the clouds rearrange themselves.",
+    "color_code": "#6E7F8D",
+    "timestamp": "2025-10-08 09:41:26",
     "location": {
-        "name": "Albany",
-        "latitude": -35.02363776991004,
-        "longitude": 117.8836540983224,
+        "name": "Denmark",
+        "latitude": -34.96029220211706,
+        "longitude": 117.3552944848047,
         "timezone": "Australia/Perth"
     }
 }

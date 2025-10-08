@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-09-30 20:48:14",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967871000199,
-      "longitude": 115.8208189912277,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-30T12:48:13+00:00",
-      "temperature_c": 14.88,
-      "temperature_f": 58.784000000000006,
-      "humidity": 74,
-      "wind_speed_mph": 5.346430000000001,
-      "wind_direction": 198,
-      "description": "clear sky"
-    },
-    "report_summary": "Evening settles over Subiaco with a clean, open sky and just a brush of cloud, the kind that drifts ...",
-    "color_code": "#1E2A44"
-  },
-  {
-    "timestamp": "2025-10-01 00:28:01",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967871000199,
-      "longitude": 115.8208189912277,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-09-30T16:28:00+00:00",
-      "temperature_c": 13.18,
-      "temperature_f": 55.724000000000004,
-      "humidity": 89,
-      "wind_speed_mph": 4.60822,
-      "wind_direction": 160,
-      "description": "broken clouds"
-    },
-    "report_summary": "Subiaco settles into the small hours under a quilt of scattered clouds that look set to thicken towa...",
-    "color_code": "#2B3A4A"
-  },
-  {
     "timestamp": "2025-10-01 04:23:54",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Before dawn in Albany, the streets wear a sheen from last night\u2019s light rain, and the sky feels hush...",
     "color_code": "#6C7A89"
+  },
+  {
+    "timestamp": "2025-10-08 09:41:26",
+    "location": {
+      "name": "Denmark",
+      "latitude": -34.96029220211706,
+      "longitude": 117.3552944848047,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-08T01:41:26+00:00",
+      "temperature_c": 12.36,
+      "temperature_f": 54.248,
+      "humidity": 67,
+      "wind_speed_mph": 14.00362,
+      "wind_direction": 238,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Denmark wakes under a soft, silver sky, streets still beaded from the morning\u2019s light rain and the a...",
+    "color_code": "#6E7F8D"
   }
 ]
