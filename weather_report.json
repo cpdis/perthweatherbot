@@ -3,42 +3,42 @@
         "location": {
             "name": "Denmark",
             "country": "AU",
-            "latitude": -34.96029220211706,
-            "longitude": 117.3552944848047
+            "latitude": -34.98647486204504,
+            "longitude": 117.344147771501
         },
         "current_conditions": {
-            "timestamp": "2025-10-08T04:26:18+00:00",
-            "temperature_c": 13.23,
-            "temperature_f": 55.814,
-            "humidity": 61,
-            "wind_speed_mph": 13.198300000000001,
-            "wind_direction": 247,
+            "timestamp": "2025-10-08T08:30:05+00:00",
+            "temperature_c": 13.29,
+            "temperature_f": 55.922,
+            "humidity": 65,
+            "wind_speed_mph": 15.18923,
+            "wind_direction": 251,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-08T06:00:00+00:00",
-                "temperature": 13.34,
-                "windSpeed": 13.55622,
-                "windDirection": 249,
-                "shortForecast": "light rain"
+                "startTime": "2025-10-08T09:00:00+00:00",
+                "temperature": 13.29,
+                "windSpeed": 15.18923,
+                "windDirection": 251,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2025-10-08T09:00:00+00:00",
-                "temperature": 13.19,
-                "windSpeed": 13.91414,
-                "windDirection": 250,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-10-08T12:00:00+00:00",
+                "temperature": 13.08,
+                "windSpeed": 12.571940000000001,
+                "windDirection": 254,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Denmark woke to a rinse of light rain, and by late morning the sky fractured into moving panes of cloud with small, silvery windows of sun. At midday the light is gentle rather than showy; the sun will peek now and then but won\u2019t take command, and the UV index stays low, nudging up only briefly when a gap opens. The air feels freshly washed and slightly cool, puddles still stitching the pavements; clarity comes in pulses, crisp when the sun finds you, soft and pewter-toned when it slips away. Expect the rest of the day to hold to this pattern of broken cloud with mostly dry spells and the odd passing sprinkle. Dress for a mild, damp-leaning afternoon: a light waterproof over a sweater, trousers you don\u2019t mind brushing a hedge with, and shoes that ignore shallow puddles. It\u2019s a good day for errands by foot, a quiet spin on the bike between showers, or a caf\u00e9 window seat that lets you watch the light turn the rooftops on and off.",
-    "color_code": "#7A8793",
-    "timestamp": "2025-10-08 12:26:19",
+    "weather_report": "Denmark wears a soft, pewter sky this afternoon, the kind that flattens the light and hushes the edges of things. The morning\u2019s overcast settled in and, by early afternoon, it loosened into a light, passing rain. Now the air feels damp and mild rather than harsh, and the sun stays tucked behind a uniform ceiling of cloud; UV exposure is low to negligible. Visibility is steady but muted, with roofs and trees looking brushed in charcoal. Expect the clouds to linger into the evening, with the last, half-hearted sprinkles tapering off and the day closing in a gentle gray.\n\nIt\u2019s a day for practical comforts: a light waterproof jacket, layers you can shrug on and off, and shoes that don\u2019t mind puddles. Pleasant in its own quiet way, if you like the company of rain and the calm it brings. Consider errands that pair well with a slow pace\u2014picking up pantry staples, returning a library book, or a caf\u00e9 stop to watch the street through the window\u2019s damp glass. A short walk is still fine if you keep to sheltered routes; later, home invites something simmering on the stove and a small, satisfying task, like mending a loose button or sorting a drawer while the evening grays down.",
+    "color_code": "#6D7886",
+    "timestamp": "2025-10-08 16:30:06",
     "location": {
         "name": "Denmark",
-        "latitude": -34.96029220211706,
-        "longitude": 117.3552944848047,
+        "latitude": -34.98647486204504,
+        "longitude": 117.344147771501,
         "timezone": "Australia/Perth"
     }
 }
