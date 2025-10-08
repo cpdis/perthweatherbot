@@ -7,34 +7,34 @@
             "longitude": 117.3552944848047
         },
         "current_conditions": {
-            "timestamp": "2025-10-08T01:41:26+00:00",
-            "temperature_c": 12.36,
-            "temperature_f": 54.248,
-            "humidity": 67,
-            "wind_speed_mph": 14.00362,
-            "wind_direction": 238,
+            "timestamp": "2025-10-08T04:26:18+00:00",
+            "temperature_c": 13.23,
+            "temperature_f": 55.814,
+            "humidity": 61,
+            "wind_speed_mph": 13.198300000000001,
+            "wind_direction": 247,
             "description": "overcast clouds"
         },
         "forecast": [
-            {
-                "startTime": "2025-10-08T03:00:00+00:00",
-                "temperature": 13.16,
-                "windSpeed": 13.55622,
-                "windDirection": 240,
-                "shortForecast": "light rain"
-            },
             {
                 "startTime": "2025-10-08T06:00:00+00:00",
                 "temperature": 13.34,
                 "windSpeed": 13.55622,
                 "windDirection": 249,
                 "shortForecast": "light rain"
+            },
+            {
+                "startTime": "2025-10-08T09:00:00+00:00",
+                "temperature": 13.19,
+                "windSpeed": 13.91414,
+                "windDirection": 250,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Denmark wakes under a soft, silver sky, streets still beaded from the morning\u2019s light rain and the air smelling faintly of wet stone. Showers brushed through around dawn and may linger in patches through late morning, keeping the sun shy and the day gently dim; if breaks come, they\u2019ll be brief and muted. UV will stay low, the kind that barely nudges the skin even at midday. It\u2019s a cool, contemplative kind of day: clarity is subdued, edges softened, horizons a watercolor of slate and blue. A light rain jacket and comfortable shoes will serve you well, with a warm layer beneath for those unhurried pauses at crossings and bus stops. Consider small, steady pleasures\u2014an errand loop with an umbrella in hand, a quiet coffee by the window, a slow walk to the library between showers, or a lunchtime browse in a shop while the pavements glisten and the clouds rearrange themselves.",
-    "color_code": "#6E7F8D",
-    "timestamp": "2025-10-08 09:41:26",
+    "weather_report": "Denmark woke to a rinse of light rain, and by late morning the sky fractured into moving panes of cloud with small, silvery windows of sun. At midday the light is gentle rather than showy; the sun will peek now and then but won\u2019t take command, and the UV index stays low, nudging up only briefly when a gap opens. The air feels freshly washed and slightly cool, puddles still stitching the pavements; clarity comes in pulses, crisp when the sun finds you, soft and pewter-toned when it slips away. Expect the rest of the day to hold to this pattern of broken cloud with mostly dry spells and the odd passing sprinkle. Dress for a mild, damp-leaning afternoon: a light waterproof over a sweater, trousers you don\u2019t mind brushing a hedge with, and shoes that ignore shallow puddles. It\u2019s a good day for errands by foot, a quiet spin on the bike between showers, or a caf\u00e9 window seat that lets you watch the light turn the rooftops on and off.",
+    "color_code": "#7A8793",
+    "timestamp": "2025-10-08 12:26:19",
     "location": {
         "name": "Denmark",
         "latitude": -34.96029220211706,
