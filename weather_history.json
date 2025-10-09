@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-01 20:48:01",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967878853819,
-      "longitude": 115.8209015909153,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-01T12:48:01+00:00",
-      "temperature_c": 14.88,
-      "temperature_f": 58.784000000000006,
-      "humidity": 73,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 200,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco slips into a clear, untroubled night, the sky rinsed clean and glassy, stars pricking throug...",
-    "color_code": "#0A1F3F"
-  },
-  {
-    "timestamp": "2025-10-02 00:27:49",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967878853819,
-      "longitude": 115.8209015909153,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-01T16:27:49+00:00",
-      "temperature_c": 13.1,
-      "temperature_f": 55.58,
-      "humidity": 79,
-      "wind_speed_mph": 5.86094,
-      "wind_direction": 155,
-      "description": "clear sky"
-    },
-    "report_summary": "Just after midnight in Subiaco, the sky is scrubbed clean and open, the kind of clear that makes the...",
-    "color_code": "#0c1e4b"
-  },
-  {
     "timestamp": "2025-10-02 04:23:56",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Denmark wakes under a soft, pewter ceiling: the streets still glisten from a light night rain, and t...",
     "color_code": "#6E7B8B"
+  },
+  {
+    "timestamp": "2025-10-09 09:42:00",
+    "location": {
+      "name": "Denmark",
+      "latitude": -34.98644073930491,
+      "longitude": 117.3440404389256,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-09T01:42:00+00:00",
+      "temperature_c": 15.1,
+      "temperature_f": 59.18,
+      "humidity": 59,
+      "wind_speed_mph": 16.3301,
+      "wind_direction": 257,
+      "description": "broken clouds"
+    },
+    "report_summary": "Denmark eases into the morning under a roof of broken cloud, the light softened to a pewter sheen th...",
+    "color_code": "#9EB1C7"
   }
 ]
