@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Ocean Beach",
+            "name": "Denmark",
             "country": "AU",
-            "latitude": -34.98635973960872,
-            "longitude": 117.266578647596
+            "latitude": -34.98643905318571,
+            "longitude": 117.3440420413964
         },
         "current_conditions": {
-            "timestamp": "2025-10-09T08:29:57+00:00",
-            "temperature_c": 15.43,
-            "temperature_f": 59.774,
-            "humidity": 58,
-            "wind_speed_mph": 16.46432,
-            "wind_direction": 251,
+            "timestamp": "2025-10-09T12:46:35+00:00",
+            "temperature_c": 12.41,
+            "temperature_f": 54.338,
+            "humidity": 70,
+            "wind_speed_mph": 10.603380000000001,
+            "wind_direction": 262,
             "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-09T09:00:00+00:00",
-                "temperature": 14.62,
-                "windSpeed": 15.45767,
-                "windDirection": 252,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-10-09T15:00:00+00:00",
+                "temperature": 13.86,
+                "windSpeed": 9.30592,
+                "windDirection": 264,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-10-09T12:00:00+00:00",
-                "temperature": 14.26,
-                "windSpeed": 12.012690000000001,
-                "windDirection": 258,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-10-09T18:00:00+00:00",
+                "temperature": 12.98,
+                "windSpeed": 8.43349,
+                "windDirection": 270,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Ocean Beach spends the late afternoon under a brushed canvas of scattered clouds, the sun slipping in and out with a soft, silvery glow. It feels calm and gentle rather than stark; the light is flattering, the horizon clean, with the ocean throwing back little shards of brightness when the sun finds a gap. Earlier, under those broken clouds, the UV likely nudged to the moderate side; at this hour it eases, though a few bright bursts still ask for some care if you linger.\n\nExpect the pattern to hold into early evening: intervals of sun, then a brief dimming as a cloud sails past. Dress for changeability\u2014light layers, a breathable shirt with a thin sweater or wind-cutting shell at the ready, sunglasses optional but welcome. It\u2019s a good time for ordinary pleasures: a slow walk along the waterline, a bike ride to pick up something for dinner, a chapter on a bench, or a small errand done on foot before the shadows lengthen.",
-    "color_code": "#C7D4E2",
-    "timestamp": "2025-10-09 16:29:58",
+    "weather_report": "Across Denmark the afternoon drifted under broken clouds, the sun filtering in and out in brief, forgiving intervals before slipping west. By this hour the light is mostly gone, the sky a deep slate with scattered gaps, and the UV index essentially nil. Clarity is mixed: not foggy, not crystal, a soft-edged evening where landmarks seem slightly muted and the first city lights feel warmer than usual. No drama in the sky, just a calm, layered ceiling moving along at its own pace.\n\nIt looks like a mostly dry, temperate night that feels quietly pleasant if you keep moving. Dress in a light jacket or a sweater, maybe a scarf for the chill that gathers after sunset; no special rain gear necessary. Good moments now are small and ordinary: a short walk around the block to stretch the day from your legs, a lazy bike ride to pick up bread, a tidy of the kitchen while the kettle sighs, or a chapter by the window with the streetlights flickering on. Expect more of the same through the evening: broken clouds, gentle air, and time unspooling without hurry.",
+    "color_code": "#2F3A4A",
+    "timestamp": "2025-10-09 20:46:35",
     "location": {
-        "name": "Ocean Beach",
-        "latitude": -34.98635973960872,
-        "longitude": 117.266578647596,
+        "name": "Denmark",
+        "latitude": -34.98643905318571,
+        "longitude": 117.3440420413964,
         "timezone": "Australia/Perth"
     }
 }

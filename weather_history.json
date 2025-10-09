@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-02 09:40:22",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94875391777432,
-      "longitude": 115.8252853268669,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-02T01:40:21+00:00",
-      "temperature_c": 21.83,
-      "temperature_f": 71.294,
-      "humidity": 43,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 50,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes to a hard, polished blue, the kind of cloudless morning that sharpens edges and lifts ...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-10-02 12:25:02",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95412015461349,
-      "longitude": 115.8526845186705,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-02T04:25:01+00:00",
-      "temperature_c": 25.49,
-      "temperature_f": 77.882,
-      "humidity": 31,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 20,
-      "description": "clear sky"
-    },
-    "report_summary": "Midday in Perth feels clean and unhurried, the sky stretched taut and blue with hard-edged shadows u...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-10-02 16:28:13",
     "location": {
       "name": "Perth",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Ocean Beach spends the late afternoon under a brushed canvas of scattered clouds, the sun slipping i...",
     "color_code": "#C7D4E2"
+  },
+  {
+    "timestamp": "2025-10-09 20:46:35",
+    "location": {
+      "name": "Denmark",
+      "latitude": -34.98643905318571,
+      "longitude": 117.3440420413964,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-09T12:46:35+00:00",
+      "temperature_c": 12.41,
+      "temperature_f": 54.338,
+      "humidity": 70,
+      "wind_speed_mph": 10.603380000000001,
+      "wind_direction": 262,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Across Denmark the afternoon drifted under broken clouds, the sun filtering in and out in brief, for...",
+    "color_code": "#2F3A4A"
   }
 ]
