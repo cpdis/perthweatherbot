@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-10-02 16:28:13",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95408178319934,
-      "longitude": 115.8526868304515,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-02T08:28:13+00:00",
-      "temperature_c": 25.95,
-      "temperature_f": 78.71,
-      "humidity": 36,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 250,
-      "description": "clear sky"
-    },
-    "report_summary": "Perth is easing into a clear, golden late afternoon, the sky rinsed of cloud and the light turning h...",
-    "color_code": "#F6C56B"
-  },
-  {
     "timestamp": "2025-10-02 20:42:37",
     "location": {
       "name": "Subiaco",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Across Denmark the afternoon drifted under broken clouds, the sun filtering in and out in brief, for...",
     "color_code": "#2F3A4A"
+  },
+  {
+    "timestamp": "2025-10-10 00:29:36",
+    "location": {
+      "name": "Denmark",
+      "latitude": -34.98643905318571,
+      "longitude": 117.3440420413964,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-09T16:29:36+00:00",
+      "temperature_c": 12.57,
+      "temperature_f": 54.626,
+      "humidity": 68,
+      "wind_speed_mph": 8.74667,
+      "wind_direction": 262,
+      "description": "broken clouds"
+    },
+    "report_summary": "After midnight, Denmark has slipped into a damp hush, the evening\u2019s broken clouds having surrendered...",
+    "color_code": "#2E3A47"
   }
 ]

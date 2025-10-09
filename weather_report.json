@@ -7,34 +7,34 @@
             "longitude": 117.3440420413964
         },
         "current_conditions": {
-            "timestamp": "2025-10-09T12:46:35+00:00",
-            "temperature_c": 12.41,
-            "temperature_f": 54.338,
-            "humidity": 70,
-            "wind_speed_mph": 10.603380000000001,
+            "timestamp": "2025-10-09T16:29:36+00:00",
+            "temperature_c": 12.57,
+            "temperature_f": 54.626,
+            "humidity": 68,
+            "wind_speed_mph": 8.74667,
             "wind_direction": 262,
-            "description": "scattered clouds"
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-09T15:00:00+00:00",
-                "temperature": 13.86,
-                "windSpeed": 9.30592,
-                "windDirection": 264,
-                "shortForecast": "broken clouds"
-            },
-            {
                 "startTime": "2025-10-09T18:00:00+00:00",
-                "temperature": 12.98,
+                "temperature": 12.95,
                 "windSpeed": 8.43349,
                 "windDirection": 270,
                 "shortForecast": "broken clouds"
+            },
+            {
+                "startTime": "2025-10-09T21:00:00+00:00",
+                "temperature": 12.47,
+                "windSpeed": 7.18077,
+                "windDirection": 268,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Across Denmark the afternoon drifted under broken clouds, the sun filtering in and out in brief, forgiving intervals before slipping west. By this hour the light is mostly gone, the sky a deep slate with scattered gaps, and the UV index essentially nil. Clarity is mixed: not foggy, not crystal, a soft-edged evening where landmarks seem slightly muted and the first city lights feel warmer than usual. No drama in the sky, just a calm, layered ceiling moving along at its own pace.\n\nIt looks like a mostly dry, temperate night that feels quietly pleasant if you keep moving. Dress in a light jacket or a sweater, maybe a scarf for the chill that gathers after sunset; no special rain gear necessary. Good moments now are small and ordinary: a short walk around the block to stretch the day from your legs, a lazy bike ride to pick up bread, a tidy of the kitchen while the kettle sighs, or a chapter by the window with the streetlights flickering on. Expect more of the same through the evening: broken clouds, gentle air, and time unspooling without hurry.",
-    "color_code": "#2F3A4A",
-    "timestamp": "2025-10-09 20:46:35",
+    "weather_report": "After midnight, Denmark has slipped into a damp hush, the evening\u2019s broken clouds having surrendered to light rain that slicked the pavements and softened the edges of streetlamps. The sky is closed and unreflective, so there\u2019s no real hint of sun, and the UV index is effectively absent. Air feels cool and a little metallic; visibility is muted rather than murky, the sort of night that invites a quiet walk only if you don\u2019t mind the hem of your coat catching a few droplets.\n\nToward morning, the overcast is likely to linger with a chance of leftover spits of rain, so any sunshine will be shy and filtered, with the UV staying low even once the day stirs. It looks more contemplative than cheerful. Dress in light layers with a rain shell and shoes that won\u2019t mind puddles; tuck a small umbrella in your bag. For these hours, keep things gentle: empty the kettle, write tomorrow\u2019s list, or queue up a slow start. Later, run a few errands between showers, visit a museum or the library, and let the gray sky set the tempo rather than the plan.",
+    "color_code": "#2E3A47",
+    "timestamp": "2025-10-10 00:29:36",
     "location": {
         "name": "Denmark",
         "latitude": -34.98643905318571,
