@@ -7,34 +7,34 @@
             "longitude": 117.3440404389256
         },
         "current_conditions": {
-            "timestamp": "2025-10-09T01:42:00+00:00",
-            "temperature_c": 15.1,
-            "temperature_f": 59.18,
-            "humidity": 59,
-            "wind_speed_mph": 16.3301,
-            "wind_direction": 257,
+            "timestamp": "2025-10-09T04:26:25+00:00",
+            "temperature_c": 17.11,
+            "temperature_f": 62.798,
+            "humidity": 53,
+            "wind_speed_mph": 18.1197,
+            "wind_direction": 250,
             "description": "broken clouds"
         },
         "forecast": [
-            {
-                "startTime": "2025-10-09T03:00:00+00:00",
-                "temperature": 16.58,
-                "windSpeed": 16.93409,
-                "windDirection": 255,
-                "shortForecast": "broken clouds"
-            },
             {
                 "startTime": "2025-10-09T06:00:00+00:00",
                 "temperature": 16.75,
                 "windSpeed": 18.45525,
                 "windDirection": 248,
                 "shortForecast": "broken clouds"
+            },
+            {
+                "startTime": "2025-10-09T09:00:00+00:00",
+                "temperature": 15.62,
+                "windSpeed": 15.54715,
+                "windDirection": 252,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Denmark eases into the morning under a roof of broken cloud, the light softened to a pewter sheen that flatters brick and water alike. Sun breaks come and go, brief bright pages turned by a slow hand; the UV stays low for the season, perhaps nudging upward around midday if the cloud thins, but never fierce. Visibility is fair and the air feels clean, more crisp than cold, the sort of sky that keeps color close to the ground rather than blazing from above.\n\nExpect the patchwork to linger through the day with tempered sunshine and a gentle, steady feel. Dress in easy layers\u2014a light jacket, long sleeves, maybe a scarf for comfort\u2014and keep sunglasses handy for those surprise openings in the cloud. It\u2019s a good day for small errands by foot, a late-morning coffee near a window, sorting a shelf you\u2019ve ignored, or a calm loop through a park to listen to leaves practice their autumn lines. If the afternoon brightens, bring a book outside and let the day do what it does best: unhurried, serviceable, quietly kind.",
-    "color_code": "#9EB1C7",
-    "timestamp": "2025-10-09 09:42:00",
+    "weather_report": "Denmark wakes under a sky that has been loosening its grip since morning: broken cloud at breakfast giving way to scattered, gentler patches by late morning. Now, early afternoon, the light moves in and out like a tide, brief sunbeams skating across streets and water before the next tuft of cloud slips by. It feels clean and crisp, the kind of clarity that sharpens edges without turning harsh. The October sun is present but polite; UV is low, perhaps a touch livelier around midday, more a nudge than a burn.\n\nThe rest of the day looks mostly dry with on-and-off brightness and a cool hush in the air. Think layers: a light jacket, long sleeves, comfortable shoes, perhaps a scarf if you linger in the shade. Sunglasses won\u2019t be wasted during those sunnier intervals; sunscreen is optional unless you\u2019re outside for hours. It\u2019s good weather for small errands on foot, a slow bike to the bakery, a quiet bench in a park with a book, or tending to the balcony plants between sunbreaks. If you prefer indoors, a window table suits the passing light, letting you watch the clouds unspool while the afternoon ambles toward evening.",
+    "color_code": "#B7CFE3",
+    "timestamp": "2025-10-09 12:26:26",
     "location": {
         "name": "Denmark",
         "latitude": -34.98644073930491,

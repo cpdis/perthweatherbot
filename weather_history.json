@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-10-02 04:23:56",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967878853819,
-      "longitude": 115.8209015909153,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-01T20:23:55+00:00",
-      "temperature_c": 10.3,
-      "temperature_f": 50.54,
-      "humidity": 86,
-      "wind_speed_mph": 4.60822,
-      "wind_direction": 50,
-      "description": "clear sky"
-    },
-    "report_summary": "Pre-dawn in Subiaco is quiet and crystalline, the sky a deep, untroubled blue with the first hint of...",
-    "color_code": "#0D3B66"
-  },
-  {
     "timestamp": "2025-10-02 09:40:22",
     "location": {
       "name": "Subiaco",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Denmark eases into the morning under a roof of broken cloud, the light softened to a pewter sheen th...",
     "color_code": "#9EB1C7"
+  },
+  {
+    "timestamp": "2025-10-09 12:26:26",
+    "location": {
+      "name": "Denmark",
+      "latitude": -34.98644073930491,
+      "longitude": 117.3440404389256,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-09T04:26:25+00:00",
+      "temperature_c": 17.11,
+      "temperature_f": 62.798,
+      "humidity": 53,
+      "wind_speed_mph": 18.1197,
+      "wind_direction": 250,
+      "description": "broken clouds"
+    },
+    "report_summary": "Denmark wakes under a sky that has been loosening its grip since morning: broken cloud at breakfast ...",
+    "color_code": "#B7CFE3"
   }
 ]
