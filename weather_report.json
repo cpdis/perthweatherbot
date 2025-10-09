@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Denmark",
+            "name": "Ocean Beach",
             "country": "AU",
-            "latitude": -34.98644073930491,
-            "longitude": 117.3440404389256
+            "latitude": -34.98635973960872,
+            "longitude": 117.266578647596
         },
         "current_conditions": {
-            "timestamp": "2025-10-09T04:26:25+00:00",
-            "temperature_c": 17.11,
-            "temperature_f": 62.798,
-            "humidity": 53,
-            "wind_speed_mph": 18.1197,
-            "wind_direction": 250,
-            "description": "broken clouds"
+            "timestamp": "2025-10-09T08:29:57+00:00",
+            "temperature_c": 15.43,
+            "temperature_f": 59.774,
+            "humidity": 58,
+            "wind_speed_mph": 16.46432,
+            "wind_direction": 251,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-09T06:00:00+00:00",
-                "temperature": 16.75,
-                "windSpeed": 18.45525,
-                "windDirection": 248,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-10-09T09:00:00+00:00",
+                "temperature": 14.62,
+                "windSpeed": 15.45767,
+                "windDirection": 252,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-10-09T09:00:00+00:00",
-                "temperature": 15.62,
-                "windSpeed": 15.54715,
-                "windDirection": 252,
+                "startTime": "2025-10-09T12:00:00+00:00",
+                "temperature": 14.26,
+                "windSpeed": 12.012690000000001,
+                "windDirection": 258,
                 "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Denmark wakes under a sky that has been loosening its grip since morning: broken cloud at breakfast giving way to scattered, gentler patches by late morning. Now, early afternoon, the light moves in and out like a tide, brief sunbeams skating across streets and water before the next tuft of cloud slips by. It feels clean and crisp, the kind of clarity that sharpens edges without turning harsh. The October sun is present but polite; UV is low, perhaps a touch livelier around midday, more a nudge than a burn.\n\nThe rest of the day looks mostly dry with on-and-off brightness and a cool hush in the air. Think layers: a light jacket, long sleeves, comfortable shoes, perhaps a scarf if you linger in the shade. Sunglasses won\u2019t be wasted during those sunnier intervals; sunscreen is optional unless you\u2019re outside for hours. It\u2019s good weather for small errands on foot, a slow bike to the bakery, a quiet bench in a park with a book, or tending to the balcony plants between sunbreaks. If you prefer indoors, a window table suits the passing light, letting you watch the clouds unspool while the afternoon ambles toward evening.",
-    "color_code": "#B7CFE3",
-    "timestamp": "2025-10-09 12:26:26",
+    "weather_report": "Ocean Beach spends the late afternoon under a brushed canvas of scattered clouds, the sun slipping in and out with a soft, silvery glow. It feels calm and gentle rather than stark; the light is flattering, the horizon clean, with the ocean throwing back little shards of brightness when the sun finds a gap. Earlier, under those broken clouds, the UV likely nudged to the moderate side; at this hour it eases, though a few bright bursts still ask for some care if you linger.\n\nExpect the pattern to hold into early evening: intervals of sun, then a brief dimming as a cloud sails past. Dress for changeability\u2014light layers, a breathable shirt with a thin sweater or wind-cutting shell at the ready, sunglasses optional but welcome. It\u2019s a good time for ordinary pleasures: a slow walk along the waterline, a bike ride to pick up something for dinner, a chapter on a bench, or a small errand done on foot before the shadows lengthen.",
+    "color_code": "#C7D4E2",
+    "timestamp": "2025-10-09 16:29:58",
     "location": {
-        "name": "Denmark",
-        "latitude": -34.98644073930491,
-        "longitude": 117.3440404389256,
+        "name": "Ocean Beach",
+        "latitude": -34.98635973960872,
+        "longitude": 117.266578647596,
         "timezone": "Australia/Perth"
     }
 }
