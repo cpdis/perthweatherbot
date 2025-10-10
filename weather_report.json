@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Youngs Siding",
+            "name": "Denmark",
             "country": "AU",
-            "latitude": -35.01055695,
-            "longitude": 117.4751641166667
+            "latitude": -34.986546563522,
+            "longitude": 117.3441690418655
         },
         "current_conditions": {
-            "timestamp": "2025-10-10T04:25:59+00:00",
-            "temperature_c": 16.74,
-            "temperature_f": 62.132,
-            "humidity": 61,
-            "wind_speed_mph": 15.949810000000001,
-            "wind_direction": 246,
-            "description": "scattered clouds"
+            "timestamp": "2025-10-10T08:29:22+00:00",
+            "temperature_c": 16.19,
+            "temperature_f": 61.142,
+            "humidity": 63,
+            "wind_speed_mph": 14.27206,
+            "wind_direction": 242,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-10T06:00:00+00:00",
-                "temperature": 16.78,
-                "windSpeed": 14.987900000000002,
-                "windDirection": 251,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-10-10T09:00:00+00:00",
+                "temperature": 15.26,
+                "windSpeed": 13.422,
+                "windDirection": 254,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-10-10T09:00:00+00:00",
-                "temperature": 15.55,
-                "windSpeed": 12.68379,
-                "windDirection": 253,
+                "startTime": "2025-10-10T12:00:00+00:00",
+                "temperature": 14.74,
+                "windSpeed": 9.86517,
+                "windDirection": 254,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Midday in Youngs Siding arrives with a sky of shifting puzzle pieces, sunlight slipping through the cracks and laying pale gold on fences and fields. The day feels mild and workable rather than showy; clarity is soft, the horizon a touch muted. Expect the cloud to thicken through the afternoon, with a light, polite rain likely toward the late day. It won\u2019t be especially sunny, but around lunch the UV still has teeth, the kind that sneak through broken cloud and nip at forearms.\n\nDress in light layers you can add or shed without ceremony, a breathable shirt for now and a compact rain shell for later, with shoes you won\u2019t mind on damp footpaths. Take advantage of the gentle hours: a short walk after lunch, a loop to the post office, a tidy in the garden before the first drops, or a quiet sit by a window where the light turns silvery and unhurried. As evening settles in with the soft patter of showers, errands can yield to a kettle and the friendly order of small indoor tasks.",
-    "color_code": "#9DB0BF",
-    "timestamp": "2025-10-10 12:25:59",
+    "weather_report": "Denmark settles under a washed-grey sky this afternoon, pavements dark and gleaming from the midday showers. Sunshine is scarce, at best a fleeting silver through cloud; the UV index stays low, slipping toward negligible as the light thins. The air feels clean and damp, edges of buildings softened by fine drizzle and low cloud, with visibility more muted than murky. Expect on-and-off light rain to loiter into the later hours before relaxing to a quiet, overcast evening.\n\nIt\u2019s a contemplative sort of day\u2014gentle rather than grim\u2014inviting patience and small comforts. Dress in easy layers with a light waterproof and shoes that don\u2019t mind puddles; tuck a compact umbrella in your bag and a soft scarf at the collar. For the late afternoon, a slow errand nearby, a brief museum stop, or a caf\u00e9 window with a notebook suits the mood. Between showers, take a short neighborhood walk and let the damp leaves do their work on the senses; back home, oil a bicycle chain or put a simple soup on while the rain taps out a rhythm.",
+    "color_code": "#6E7B8B",
+    "timestamp": "2025-10-10 16:29:23",
     "location": {
-        "name": "Youngs Siding",
-        "latitude": -35.01055695,
-        "longitude": 117.4751641166667,
+        "name": "Denmark",
+        "latitude": -34.986546563522,
+        "longitude": 117.3441690418655,
         "timezone": "Australia/Perth"
     }
 }
