@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-02 20:42:37",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970284542829,
-      "longitude": 115.8206181405574,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-02T12:42:36+00:00",
-      "temperature_c": 17.64,
-      "temperature_f": 63.751999999999995,
-      "humidity": 63,
-      "wind_speed_mph": 6.711,
-      "wind_direction": 180,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco drifts into night with a clear, settled sky and a calmness that feels unhurried; by late eve...",
-    "color_code": "#0A2540"
-  },
-  {
-    "timestamp": "2025-10-03 00:26:52",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970284542829,
-      "longitude": 115.8206181405574,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-02T16:26:51+00:00",
-      "temperature_c": 15.86,
-      "temperature_f": 60.548,
-      "humidity": 74,
-      "wind_speed_mph": 1.85671,
-      "wind_direction": 157,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco settles into the small hours under a mostly clear sky, the night crisp and still, with stars...",
-    "color_code": "#1F2A44"
-  },
-  {
     "timestamp": "2025-10-03 04:23:53",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Denmark wakes under a low, unbroken ceiling, the streets still damp from a light overnight rain. The...",
     "color_code": "#5A6572"
+  },
+  {
+    "timestamp": "2025-10-10 09:42:37",
+    "location": {
+      "name": "Denmark",
+      "latitude": -34.95943656636333,
+      "longitude": 117.3532620317496,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-10T01:42:36+00:00",
+      "temperature_c": 15.91,
+      "temperature_f": 60.638,
+      "humidity": 56,
+      "wind_speed_mph": 11.31922,
+      "wind_direction": 253,
+      "description": "broken clouds"
+    },
+    "report_summary": "Denmark wakes to streets still a little silver from the night\u2019s light rain, the sky now a quilt of b...",
+    "color_code": "#8FA3B7"
   }
 ]
