@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Denmark",
+            "name": "Youngs Siding",
             "country": "AU",
-            "latitude": -34.95943656636333,
-            "longitude": 117.3532620317496
+            "latitude": -35.01055695,
+            "longitude": 117.4751641166667
         },
         "current_conditions": {
-            "timestamp": "2025-10-10T01:42:36+00:00",
-            "temperature_c": 15.91,
-            "temperature_f": 60.638,
-            "humidity": 56,
-            "wind_speed_mph": 11.31922,
-            "wind_direction": 253,
-            "description": "broken clouds"
+            "timestamp": "2025-10-10T04:25:59+00:00",
+            "temperature_c": 16.74,
+            "temperature_f": 62.132,
+            "humidity": 61,
+            "wind_speed_mph": 15.949810000000001,
+            "wind_direction": 246,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-10T03:00:00+00:00",
-                "temperature": 16.38,
-                "windSpeed": 12.21402,
+                "startTime": "2025-10-10T06:00:00+00:00",
+                "temperature": 16.78,
+                "windSpeed": 14.987900000000002,
                 "windDirection": 251,
-                "shortForecast": "light rain"
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-10-10T06:00:00+00:00",
-                "temperature": 16.33,
-                "windSpeed": 12.05743,
-                "windDirection": 255,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-10-10T09:00:00+00:00",
+                "temperature": 15.55,
+                "windSpeed": 12.68379,
+                "windDirection": 253,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Denmark wakes to streets still a little silver from the night\u2019s light rain, the sky now a quilt of broken cloud letting through shy seams of brightness. The air feels rinsed and steady, with a gentle clarity that makes church spires and harbor cranes seem just a touch nearer. Sun will be hesitant rather than bold, and the UV stays low for an October morning, more a soft glow than a sting.\n\nThrough the day expect that same mixed canvas: mostly dry, with cloud pulling apart at times to offer brief, useful light. It looks quietly pleasant if you dress for the cool\u2014layers, a light jacket, maybe a scarf for the breeze, and shoes that don\u2019t mind a damp pavement. It\u2019s a good day for modest errands by bicycle, a mid-morning coffee by a window, or a deliberate walk to the market while the sky negotiates with the sun. If you\u2019re staying in, crack a window, sort a shelf, tune the kettle; if you\u2019re out, aim for the brighter spells around late morning to early afternoon and let the day unspool without hurry.",
-    "color_code": "#8FA3B7",
-    "timestamp": "2025-10-10 09:42:37",
+    "weather_report": "Midday in Youngs Siding arrives with a sky of shifting puzzle pieces, sunlight slipping through the cracks and laying pale gold on fences and fields. The day feels mild and workable rather than showy; clarity is soft, the horizon a touch muted. Expect the cloud to thicken through the afternoon, with a light, polite rain likely toward the late day. It won\u2019t be especially sunny, but around lunch the UV still has teeth, the kind that sneak through broken cloud and nip at forearms.\n\nDress in light layers you can add or shed without ceremony, a breathable shirt for now and a compact rain shell for later, with shoes you won\u2019t mind on damp footpaths. Take advantage of the gentle hours: a short walk after lunch, a loop to the post office, a tidy in the garden before the first drops, or a quiet sit by a window where the light turns silvery and unhurried. As evening settles in with the soft patter of showers, errands can yield to a kettle and the friendly order of small indoor tasks.",
+    "color_code": "#9DB0BF",
+    "timestamp": "2025-10-10 12:25:59",
     "location": {
-        "name": "Denmark",
-        "latitude": -34.95943656636333,
-        "longitude": 117.3532620317496,
+        "name": "Youngs Siding",
+        "latitude": -35.01055695,
+        "longitude": 117.4751641166667,
         "timezone": "Australia/Perth"
     }
 }

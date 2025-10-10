@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-10-03 04:23:53",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970284542829,
-      "longitude": 115.8206181405574,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-02T20:23:53+00:00",
-      "temperature_c": 12.93,
-      "temperature_f": 55.274,
-      "humidity": 81,
-      "wind_speed_mph": 2.84099,
-      "wind_direction": 264,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Subiaco wakes under a soft grey lid, the light flattened and pewter at this early hour. Overcast ski...",
-    "color_code": "#6E7782"
-  },
-  {
     "timestamp": "2025-10-03 09:39:48",
     "location": {
       "name": "Subiaco",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Denmark wakes to streets still a little silver from the night\u2019s light rain, the sky now a quilt of b...",
     "color_code": "#8FA3B7"
+  },
+  {
+    "timestamp": "2025-10-10 12:25:59",
+    "location": {
+      "name": "Youngs Siding",
+      "latitude": -35.01055695,
+      "longitude": 117.4751641166667,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-10T04:25:59+00:00",
+      "temperature_c": 16.74,
+      "temperature_f": 62.132,
+      "humidity": 61,
+      "wind_speed_mph": 15.949810000000001,
+      "wind_direction": 246,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Midday in Youngs Siding arrives with a sky of shifting puzzle pieces, sunlight slipping through the ...",
+    "color_code": "#9DB0BF"
   }
 ]
