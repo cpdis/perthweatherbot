@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-03 09:39:48",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94965150166027,
-      "longitude": 115.8209663997945,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-03T01:39:48+00:00",
-      "temperature_c": 20.69,
-      "temperature_f": 69.242,
-      "humidity": 64,
-      "wind_speed_mph": 4.60822,
-      "wind_direction": 20,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Morning in Subiaco arrives under a soft lid of cloud, the sun a shy rumor behind a seamless grey. Th...",
-    "color_code": "#B3BDC6"
-  },
-  {
-    "timestamp": "2025-10-03 12:25:15",
-    "location": {
-      "name": "North Perth",
-      "latitude": -31.93564800450427,
-      "longitude": 115.8490939279738,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-03T04:25:15+00:00",
-      "temperature_c": 23.32,
-      "temperature_f": 73.976,
-      "humidity": 58,
-      "wind_speed_mph": 16.59854,
-      "wind_direction": 300,
-      "description": "overcast clouds"
-    },
-    "report_summary": "North Perth sits under a soft, unbroken lid of cloud at midday, the sun reduced to a pale smudge and...",
-    "color_code": "#B0B7BF"
-  },
-  {
     "timestamp": "2025-10-03 16:27:32",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Denmark settles under a washed-grey sky this afternoon, pavements dark and gleaming from the midday ...",
     "color_code": "#6E7B8B"
+  },
+  {
+    "timestamp": "2025-10-10 20:44:58",
+    "location": {
+      "name": "Ocean Beach",
+      "latitude": -34.98759840117217,
+      "longitude": 117.2544742662165,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-10T12:44:57+00:00",
+      "temperature_c": 13.7,
+      "temperature_f": 56.66,
+      "humidity": 65,
+      "wind_speed_mph": 8.187420000000001,
+      "wind_direction": 260,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Ocean Beach spent the morning under a dull lid of overcast, then loosened to broken clouds by late m...",
+    "color_code": "#5B6773"
   }
 ]

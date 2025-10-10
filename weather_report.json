@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Denmark",
+            "name": "Ocean Beach",
             "country": "AU",
-            "latitude": -34.986546563522,
-            "longitude": 117.3441690418655
+            "latitude": -34.98759840117217,
+            "longitude": 117.2544742662165
         },
         "current_conditions": {
-            "timestamp": "2025-10-10T08:29:22+00:00",
-            "temperature_c": 16.19,
-            "temperature_f": 61.142,
-            "humidity": 63,
-            "wind_speed_mph": 14.27206,
-            "wind_direction": 242,
-            "description": "broken clouds"
+            "timestamp": "2025-10-10T12:44:57+00:00",
+            "temperature_c": 13.7,
+            "temperature_f": 56.66,
+            "humidity": 65,
+            "wind_speed_mph": 8.187420000000001,
+            "wind_direction": 260,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-10T09:00:00+00:00",
-                "temperature": 15.26,
-                "windSpeed": 13.422,
-                "windDirection": 254,
-                "shortForecast": "light rain"
+                "startTime": "2025-10-10T15:00:00+00:00",
+                "temperature": 13.2,
+                "windSpeed": 6.66626,
+                "windDirection": 271,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2025-10-10T12:00:00+00:00",
-                "temperature": 14.74,
-                "windSpeed": 9.86517,
-                "windDirection": 254,
-                "shortForecast": "light rain"
+                "startTime": "2025-10-10T18:00:00+00:00",
+                "temperature": 10.78,
+                "windSpeed": 6.464930000000001,
+                "windDirection": 307,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Denmark settles under a washed-grey sky this afternoon, pavements dark and gleaming from the midday showers. Sunshine is scarce, at best a fleeting silver through cloud; the UV index stays low, slipping toward negligible as the light thins. The air feels clean and damp, edges of buildings softened by fine drizzle and low cloud, with visibility more muted than murky. Expect on-and-off light rain to loiter into the later hours before relaxing to a quiet, overcast evening.\n\nIt\u2019s a contemplative sort of day\u2014gentle rather than grim\u2014inviting patience and small comforts. Dress in easy layers with a light waterproof and shoes that don\u2019t mind puddles; tuck a compact umbrella in your bag and a soft scarf at the collar. For the late afternoon, a slow errand nearby, a brief museum stop, or a caf\u00e9 window with a notebook suits the mood. Between showers, take a short neighborhood walk and let the damp leaves do their work on the senses; back home, oil a bicycle chain or put a simple soup on while the rain taps out a rhythm.",
-    "color_code": "#6E7B8B",
-    "timestamp": "2025-10-10 16:29:23",
+    "weather_report": "Ocean Beach spent the morning under a dull lid of overcast, then loosened to broken clouds by late morning, letting out a few pale shafts of sun. By now, the sky is still mostly veiled, the horizon a soft smudge, and whatever brightness remains is muted and gentle. UV was subdued even at midday and is effectively gone now; the day never really turned brilliant, but it stayed easy on the eyes and kind on the skin.\n\nIt\u2019s a pleasant, temperate evening for light layers: a soft sweater or windbreaker over comfortable clothes, something you won\u2019t mind catching a hint of salt air. Consider an unhurried walk along the promenade, a quiet errand to the corner market, or a bench on the pier to listen to the waves and watch the occasional gap in the clouds reveal a dim star. If you were out earlier, the sun only flirted through the breaks, so sunglasses were optional; tonight, it\u2019s about keeping warm enough and taking it slow.",
+    "color_code": "#5B6773",
+    "timestamp": "2025-10-10 20:44:58",
     "location": {
-        "name": "Denmark",
-        "latitude": -34.986546563522,
-        "longitude": 117.3441690418655,
+        "name": "Ocean Beach",
+        "latitude": -34.98759840117217,
+        "longitude": 117.2544742662165,
         "timezone": "Australia/Perth"
     }
 }
