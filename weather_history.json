@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-10-03 16:27:32",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969017831322,
-      "longitude": 115.8209317435269,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-03T08:27:32+00:00",
-      "temperature_c": 21.13,
-      "temperature_f": 70.03399999999999,
-      "humidity": 61,
-      "wind_speed_mph": 13.377260000000001,
-      "wind_direction": 306,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Late afternoon in Subiaco wears a single sheet of pewter. The sun is more rumor than presence, its s...",
-    "color_code": "#708090"
-  },
-  {
     "timestamp": "2025-10-03 20:42:49",
     "location": {
       "name": "Subiaco",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Ocean Beach spent the morning under a dull lid of overcast, then loosened to broken clouds by late m...",
     "color_code": "#5B6773"
+  },
+  {
+    "timestamp": "2025-10-11 00:27:34",
+    "location": {
+      "name": "Ocean Beach",
+      "latitude": -34.98759840117217,
+      "longitude": 117.2544742662165,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-10T16:27:33+00:00",
+      "temperature_c": 12.13,
+      "temperature_f": 53.834,
+      "humidity": 77,
+      "wind_speed_mph": 5.97279,
+      "wind_direction": 288,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Ocean Beach settles under a quilt of cloud just past midnight, the surf sounding larger than it look...",
+    "color_code": "#2B303B"
   }
 ]
