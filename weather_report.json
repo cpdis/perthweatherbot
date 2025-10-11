@@ -3,42 +3,42 @@
         "location": {
             "name": "Denmark",
             "country": "AU",
-            "latitude": -34.98645935984428,
-            "longitude": 117.3440300383201
+            "latitude": -34.98644199189325,
+            "longitude": 117.3440578627045
         },
         "current_conditions": {
-            "timestamp": "2025-10-11T04:24:25+00:00",
-            "temperature_c": 18.64,
-            "temperature_f": 65.55199999999999,
-            "humidity": 52,
-            "wind_speed_mph": 8.65719,
-            "wind_direction": 285,
-            "description": "broken clouds"
+            "timestamp": "2025-10-11T08:25:21+00:00",
+            "temperature_c": 17.85,
+            "temperature_f": 64.13,
+            "humidity": 68,
+            "wind_speed_mph": 15.077380000000002,
+            "wind_direction": 244,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-10-11T06:00:00+00:00",
-                "temperature": 17.05,
-                "windSpeed": 9.75332,
-                "windDirection": 266,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-10-11T09:00:00+00:00",
+                "temperature": 16.81,
+                "windSpeed": 14.607610000000001,
+                "windDirection": 246,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-10-11T09:00:00+00:00",
-                "temperature": 16.73,
-                "windSpeed": 14.697090000000001,
-                "windDirection": 247,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-10-11T12:00:00+00:00",
+                "temperature": 15.93,
+                "windSpeed": 7.78476,
+                "windDirection": 256,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Denmark slipped from a blanket of morning grey into a more generous noon, the cloud cover torn into ragged panels that let through a pale, forgiving sun. Light is diffuse and silvery rather than sharp, giving the day a soft-focus clarity where distances remain clean but edges feel gentled. Expect a mix of brighter spells and lingering cloud through the afternoon; sunshine will come and go, and the UV stays low enough that a hat is optional and sunglasses are more for comfort than duty.\n\nIt\u2019s the sort of cool that invites layers: a light sweater under a jacket, perhaps a scarf for the breeze, comfortable shoes for unhurried steps. With rain looking unlikely, it\u2019s a good day for steady errands, a meander through a neighborhood market, or a quiet hour by a window in a cafe, warming your hands around a cup while the light drifts across the street. If you\u2019re out on a bike, take it easy and enjoy the breaks of brightness when they arrive; if indoors calls, a museum or a tidy-up of the bookshelf suits the calm, muted mood.",
-    "color_code": "#9CB3C9",
-    "timestamp": "2025-10-11 12:24:26",
+    "weather_report": "Late afternoon finds Denmark rinsed and reflective, the bright clarity of late morning having slid into a gentle, passing rain after midday. Pavements are dark and a little musical under tires, clouds layered in soft greys that mute the horizon. Any sunshine left today will be brief and slanting, more glimmer than blaze; the UV is low now, almost an afterthought in October\u2019s light. The day has felt honest rather than harsh\u2014clear to start, then quietly watered\u2014good visibility softened by showers rather than smudged.\n\nExpect the sprinkle to linger in pockets before easing toward evening, leaving the air cool and faintly metallic. A light waterproof jacket over a sweater is the right companion, with shoes that don\u2019t mind puddles and a small umbrella you can close one-handed. This is weather for ordinary comforts: a slow supermarket run, a tram ride with a book, a short walk between showers to breathe the damp leaves, a museum hour before closing, or simmering something simple once home. If you\u2019re out on a bike, fenders and patience.",
+    "color_code": "#778899",
+    "timestamp": "2025-10-11 16:25:22",
     "location": {
         "name": "Denmark",
-        "latitude": -34.98645935984428,
-        "longitude": 117.3440300383201,
+        "latitude": -34.98644199189325,
+        "longitude": 117.3440578627045,
         "timezone": "Australia/Perth"
     }
 }
