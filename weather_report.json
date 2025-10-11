@@ -7,34 +7,34 @@
             "longitude": 117.3543191759527
         },
         "current_conditions": {
-            "timestamp": "2025-10-11T12:39:25+00:00",
-            "temperature_c": 13.65,
-            "temperature_f": 56.57,
-            "humidity": 92,
-            "wind_speed_mph": 4.27267,
-            "wind_direction": 272,
+            "timestamp": "2025-10-11T16:23:25+00:00",
+            "temperature_c": 12.62,
+            "temperature_f": 54.716,
+            "humidity": 96,
+            "wind_speed_mph": 4.58585,
+            "wind_direction": 327,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-11T15:00:00+00:00",
-                "temperature": 13.6,
-                "windSpeed": 4.004230000000001,
-                "windDirection": 329,
-                "shortForecast": "light rain"
-            },
-            {
                 "startTime": "2025-10-11T18:00:00+00:00",
-                "temperature": 12.43,
+                "temperature": 12.74,
                 "windSpeed": 5.65961,
                 "windDirection": 326,
                 "shortForecast": "light rain"
+            },
+            {
+                "startTime": "2025-10-11T21:00:00+00:00",
+                "temperature": 13.16,
+                "windSpeed": 6.01753,
+                "windDirection": 323,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Evening settles over Denmark with a soft, persistent patter; the streets wear a lacquered sheen, and the horizon is smudged under a low, obliging sky. Light rain moved in through late afternoon and lingered into nightfall, and it\u2019s still with us now\u2014gentle, but enough to bead on sleeves and turn puddles into small mirrors. Sunshine was scarce today and is done for; the UV index is effectively nil, and the air feels clean but a little hazy, like looking through smoked glass.\n\nExpect on-and-off light showers to keep the night subdued and intimate. It\u2019s a jacket-and-hood sort of evening; choose a light waterproof layer and shoes you don\u2019t mind getting damp, and keep an umbrella handy if you prefer to stay dry between doorways. Good weather for simple comforts: a quiet tram ride home, a quick loop around the block between drops, a detour to a bookstore or bakery, or letting a pot simmer while the rain ticks at the window.",
-    "color_code": "#3C4F5A",
-    "timestamp": "2025-10-11 20:39:25",
+    "weather_report": "Just past midnight in Denmark, the day has folded into a soft, damp hush. Earlier showers have faded to a memory, leaving pavements lacquered and the sky sealed with a uniform lid of cloud. There is no sunshine at this hour, and the UV index is effectively nil; the night feels muted and gentle, the air cool and clean, visibility decent but dulled by the low ceiling.\n\nCome morning, expect a grey start that keeps the sun at arm\u2019s length. Any brightness will likely be shy and short-lived, with the UV index staying low for the season and the cloud cover, perhaps nudging to modest levels only if the overcast thins around midday. It looks more contemplative than sparkling: comfortable enough if you dress for dampness. A light waterproof and layers will serve you well, with closed shoes and a compact umbrella to hand. At this hour, it\u2019s a good time to make tea, file a few thoughts, or prep tomorrow\u2019s breakfast; after daybreak, slip to a caf\u00e9 when it opens, browse a market under awnings, or visit a museum while the sky mulls things over. If the clouds grudgingly part later, take a short walk to enjoy the brief silver light.",
+    "color_code": "#4B5563",
+    "timestamp": "2025-10-12 00:23:25",
     "location": {
         "name": "Denmark",
         "latitude": -34.95992869687829,
