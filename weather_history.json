@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-10-04 16:25:21",
-    "location": {
-      "name": "Centennial Park",
-      "latitude": -35.00470592262745,
-      "longitude": 117.8679665250988,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-04T08:25:21+00:00",
-      "temperature_c": 15.35,
-      "temperature_f": 59.63,
-      "humidity": 91,
-      "wind_speed_mph": 4.004230000000001,
-      "wind_direction": 248,
-      "description": "light rain"
-    },
-    "report_summary": "Late afternoon settles over Centennial Park with a pewter tint; paths are darkened by earlier shower...",
-    "color_code": "#778899"
-  },
-  {
     "timestamp": "2025-10-04 20:39:17",
     "location": {
       "name": "Albany",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Just past midnight in Denmark, the day has folded into a soft, damp hush. Earlier showers have faded...",
     "color_code": "#4B5563"
+  },
+  {
+    "timestamp": "2025-10-12 04:20:59",
+    "location": {
+      "name": "Denmark",
+      "latitude": -34.95992869687829,
+      "longitude": 117.3543191759527,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-11T20:20:58+00:00",
+      "temperature_c": 12.48,
+      "temperature_f": 54.464,
+      "humidity": 94,
+      "wind_speed_mph": 5.77146,
+      "wind_direction": 326,
+      "description": "overcast clouds"
+    },
+    "report_summary": "At this small hour in Denmark the sky is a quilt of broken cloud left behind by last night\u2019s overcas...",
+    "color_code": "#5A6B79"
   }
 ]
