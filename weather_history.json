@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-10-04 04:22:49",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968350650634,
-      "longitude": 115.820836564195,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-03T20:22:49+00:00",
-      "temperature_c": 15.67,
-      "temperature_f": 60.206,
-      "humidity": 82,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 360,
-      "description": "broken clouds"
-    },
-    "report_summary": "Before dawn in Subiaco, a soft, showery veil hushes the streets and lays a gentle sheen on the footp...",
-    "color_code": "#708090"
-  },
-  {
     "timestamp": "2025-10-04 09:36:45",
     "location": {
       "name": "Williams",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Denmark wakes under a soft, unwavering lid of cloud, the morning light diffused to a gentle pewter. ...",
     "color_code": "#A3ABB3"
+  },
+  {
+    "timestamp": "2025-10-11 12:24:26",
+    "location": {
+      "name": "Denmark",
+      "latitude": -34.98645935984428,
+      "longitude": 117.3440300383201,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-11T04:24:25+00:00",
+      "temperature_c": 18.64,
+      "temperature_f": 65.55199999999999,
+      "humidity": 52,
+      "wind_speed_mph": 8.65719,
+      "wind_direction": 285,
+      "description": "broken clouds"
+    },
+    "report_summary": "Denmark slipped from a blanket of morning grey into a more generous noon, the cloud cover torn into ...",
+    "color_code": "#9CB3C9"
   }
 ]

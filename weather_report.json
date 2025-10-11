@@ -7,34 +7,34 @@
             "longitude": 117.3440300383201
         },
         "current_conditions": {
-            "timestamp": "2025-10-11T01:38:15+00:00",
-            "temperature_c": 15.32,
-            "temperature_f": 59.576,
-            "humidity": 65,
-            "wind_speed_mph": 8.07557,
-            "wind_direction": 292,
-            "description": "overcast clouds"
+            "timestamp": "2025-10-11T04:24:25+00:00",
+            "temperature_c": 18.64,
+            "temperature_f": 65.55199999999999,
+            "humidity": 52,
+            "wind_speed_mph": 8.65719,
+            "wind_direction": 285,
+            "description": "broken clouds"
         },
         "forecast": [
-            {
-                "startTime": "2025-10-11T03:00:00+00:00",
-                "temperature": 16.61,
-                "windSpeed": 8.366380000000001,
-                "windDirection": 298,
-                "shortForecast": "overcast clouds"
-            },
             {
                 "startTime": "2025-10-11T06:00:00+00:00",
                 "temperature": 17.05,
                 "windSpeed": 9.75332,
                 "windDirection": 266,
                 "shortForecast": "overcast clouds"
+            },
+            {
+                "startTime": "2025-10-11T09:00:00+00:00",
+                "temperature": 16.73,
+                "windSpeed": 14.697090000000001,
+                "windDirection": 247,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Denmark wakes under a soft, unwavering lid of cloud, the morning light diffused to a gentle pewter. Forecasts keep the sky overcast through the morning hours with little sign of breaks, so sunshine will be scarce and the UV index low, the sort of day where sunglasses stay in the drawer and colors look quietly washed. The air will feel settled rather than sparkling, a day of even, flat light and softened horizons.\n\nIt looks more contemplative than sparklingly pleasant, but comfortable enough if you dress for it: light layers, a sweater or wind-resistant jacket, and shoes you don\u2019t mind taking on damp pavements. Without rain in the forecast, an umbrella is optional, though a compact one in a bag never hurts. This is a morning for unhurried errands, a trip to the market, a museum wander, or a slow spin on the bicycle with lights on. If you\u2019re staying in, put the kettle on and work by a window; if you head out later, expect the gray to linger and plan something that suits a calm, muted day.",
-    "color_code": "#A3ABB3",
-    "timestamp": "2025-10-11 09:38:16",
+    "weather_report": "Denmark slipped from a blanket of morning grey into a more generous noon, the cloud cover torn into ragged panels that let through a pale, forgiving sun. Light is diffuse and silvery rather than sharp, giving the day a soft-focus clarity where distances remain clean but edges feel gentled. Expect a mix of brighter spells and lingering cloud through the afternoon; sunshine will come and go, and the UV stays low enough that a hat is optional and sunglasses are more for comfort than duty.\n\nIt\u2019s the sort of cool that invites layers: a light sweater under a jacket, perhaps a scarf for the breeze, comfortable shoes for unhurried steps. With rain looking unlikely, it\u2019s a good day for steady errands, a meander through a neighborhood market, or a quiet hour by a window in a cafe, warming your hands around a cup while the light drifts across the street. If you\u2019re out on a bike, take it easy and enjoy the breaks of brightness when they arrive; if indoors calls, a museum or a tidy-up of the bookshelf suits the calm, muted mood.",
+    "color_code": "#9CB3C9",
+    "timestamp": "2025-10-11 12:24:26",
     "location": {
         "name": "Denmark",
         "latitude": -34.98645935984428,
