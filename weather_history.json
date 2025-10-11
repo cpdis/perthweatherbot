@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-04 09:36:45",
-    "location": {
-      "name": "Williams",
-      "latitude": -33.03034393072785,
-      "longitude": 116.8786367054359,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-04T01:36:45+00:00",
-      "temperature_c": 15.97,
-      "temperature_f": 60.746,
-      "humidity": 90,
-      "wind_speed_mph": 16.62091,
-      "wind_direction": 313,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Williams wakes to a soft, rain-polished morning. Light showers in the early hours have left the stre...",
-    "color_code": "#708090"
-  },
-  {
-    "timestamp": "2025-10-04 12:24:50",
-    "location": {
-      "name": "Centennial Park",
-      "latitude": -35.01959329774049,
-      "longitude": 117.8817569570458,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-04T04:24:49+00:00",
-      "temperature_c": 14.9,
-      "temperature_f": 58.82,
-      "humidity": 92,
-      "wind_speed_mph": 11.050780000000001,
-      "wind_direction": 284,
-      "description": "light rain"
-    },
-    "report_summary": "Midday at Centennial Park arrives with the hush that follows a light morning rain. Paths are damp, l...",
-    "color_code": "#8FA3B6"
-  },
-  {
     "timestamp": "2025-10-04 16:25:21",
     "location": {
       "name": "Centennial Park",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon finds Denmark rinsed and reflective, the bright clarity of late morning having slid i...",
     "color_code": "#778899"
+  },
+  {
+    "timestamp": "2025-10-11 20:39:25",
+    "location": {
+      "name": "Denmark",
+      "latitude": -34.95992869687829,
+      "longitude": 117.3543191759527,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-11T12:39:25+00:00",
+      "temperature_c": 13.65,
+      "temperature_f": 56.57,
+      "humidity": 92,
+      "wind_speed_mph": 4.27267,
+      "wind_direction": 272,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Evening settles over Denmark with a soft, persistent patter; the streets wear a lacquered sheen, and...",
+    "color_code": "#3C4F5A"
   }
 ]

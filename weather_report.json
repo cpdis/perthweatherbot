@@ -3,42 +3,42 @@
         "location": {
             "name": "Denmark",
             "country": "AU",
-            "latitude": -34.98644199189325,
-            "longitude": 117.3440578627045
+            "latitude": -34.95992869687829,
+            "longitude": 117.3543191759527
         },
         "current_conditions": {
-            "timestamp": "2025-10-11T08:25:21+00:00",
-            "temperature_c": 17.85,
-            "temperature_f": 64.13,
-            "humidity": 68,
-            "wind_speed_mph": 15.077380000000002,
-            "wind_direction": 244,
-            "description": "clear sky"
+            "timestamp": "2025-10-11T12:39:25+00:00",
+            "temperature_c": 13.65,
+            "temperature_f": 56.57,
+            "humidity": 92,
+            "wind_speed_mph": 4.27267,
+            "wind_direction": 272,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-11T09:00:00+00:00",
-                "temperature": 16.81,
-                "windSpeed": 14.607610000000001,
-                "windDirection": 246,
-                "shortForecast": "clear sky"
+                "startTime": "2025-10-11T15:00:00+00:00",
+                "temperature": 13.6,
+                "windSpeed": 4.004230000000001,
+                "windDirection": 329,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-10-11T12:00:00+00:00",
-                "temperature": 15.93,
-                "windSpeed": 7.78476,
-                "windDirection": 256,
+                "startTime": "2025-10-11T18:00:00+00:00",
+                "temperature": 12.43,
+                "windSpeed": 5.65961,
+                "windDirection": 326,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late afternoon finds Denmark rinsed and reflective, the bright clarity of late morning having slid into a gentle, passing rain after midday. Pavements are dark and a little musical under tires, clouds layered in soft greys that mute the horizon. Any sunshine left today will be brief and slanting, more glimmer than blaze; the UV is low now, almost an afterthought in October\u2019s light. The day has felt honest rather than harsh\u2014clear to start, then quietly watered\u2014good visibility softened by showers rather than smudged.\n\nExpect the sprinkle to linger in pockets before easing toward evening, leaving the air cool and faintly metallic. A light waterproof jacket over a sweater is the right companion, with shoes that don\u2019t mind puddles and a small umbrella you can close one-handed. This is weather for ordinary comforts: a slow supermarket run, a tram ride with a book, a short walk between showers to breathe the damp leaves, a museum hour before closing, or simmering something simple once home. If you\u2019re out on a bike, fenders and patience.",
-    "color_code": "#778899",
-    "timestamp": "2025-10-11 16:25:22",
+    "weather_report": "Evening settles over Denmark with a soft, persistent patter; the streets wear a lacquered sheen, and the horizon is smudged under a low, obliging sky. Light rain moved in through late afternoon and lingered into nightfall, and it\u2019s still with us now\u2014gentle, but enough to bead on sleeves and turn puddles into small mirrors. Sunshine was scarce today and is done for; the UV index is effectively nil, and the air feels clean but a little hazy, like looking through smoked glass.\n\nExpect on-and-off light showers to keep the night subdued and intimate. It\u2019s a jacket-and-hood sort of evening; choose a light waterproof layer and shoes you don\u2019t mind getting damp, and keep an umbrella handy if you prefer to stay dry between doorways. Good weather for simple comforts: a quiet tram ride home, a quick loop around the block between drops, a detour to a bookstore or bakery, or letting a pot simmer while the rain ticks at the window.",
+    "color_code": "#3C4F5A",
+    "timestamp": "2025-10-11 20:39:25",
     "location": {
         "name": "Denmark",
-        "latitude": -34.98644199189325,
-        "longitude": 117.3440578627045,
+        "latitude": -34.95992869687829,
+        "longitude": 117.3543191759527,
         "timezone": "Australia/Perth"
     }
 }
