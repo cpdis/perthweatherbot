@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Ocean Beach",
+            "name": "Denmark",
             "country": "AU",
-            "latitude": -34.98759840117217,
-            "longitude": 117.2544742662165
+            "latitude": -34.98645935984428,
+            "longitude": 117.3440300383201
         },
         "current_conditions": {
-            "timestamp": "2025-10-10T20:23:50+00:00",
-            "temperature_c": 9.53,
-            "temperature_f": 49.153999999999996,
-            "humidity": 88,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 315,
-            "description": "broken clouds"
+            "timestamp": "2025-10-11T01:38:15+00:00",
+            "temperature_c": 15.32,
+            "temperature_f": 59.576,
+            "humidity": 65,
+            "wind_speed_mph": 8.07557,
+            "wind_direction": 292,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-10T21:00:00+00:00",
-                "temperature": 10.94,
-                "windSpeed": 5.033250000000001,
-                "windDirection": 315,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-10-11T03:00:00+00:00",
+                "temperature": 16.61,
+                "windSpeed": 8.366380000000001,
+                "windDirection": 298,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2025-10-11T00:00:00+00:00",
-                "temperature": 11.99,
-                "windSpeed": 7.04655,
-                "windDirection": 295,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-10-11T06:00:00+00:00",
+                "temperature": 17.05,
+                "windSpeed": 9.75332,
+                "windDirection": 266,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Before sunrise, Ocean Beach rests under a patchwork ceiling of broken cloud, the ocean a dark slate and the streetlights haloed. Expect a day of shifting light: sun slipping out in brief, silvery intervals rather than blazing down. UV is minimal now, stays gentle through the morning, and may rise to a moderate bite near midday if those seams in the cloud open, before easing again toward late afternoon. Visibility should feel serviceable, with the day rendered in softer tones more than sharp glare, a calm, low-drama mood rather than a spectacle.\n\nDress in forgiving layers\u2014long sleeves or a light sweater, a windbreaker for the onshore nip, and sunglasses for those sudden bright windows; a hat if you linger at noon. It\u2019s a quietly pleasant day built for ordinary rituals: a slow beach walk with a warm cup in hand, a mid-morning errand on foot, tinkering with a bike on the porch, reading where the light pools, or a short jog when the sun makes a cameo. If the sky opens for a spell, take a bench, watch the water turn from pewter to steel, and let the changing light do the talking.",
-    "color_code": "#3C5060",
-    "timestamp": "2025-10-11 04:23:50",
+    "weather_report": "Denmark wakes under a soft, unwavering lid of cloud, the morning light diffused to a gentle pewter. Forecasts keep the sky overcast through the morning hours with little sign of breaks, so sunshine will be scarce and the UV index low, the sort of day where sunglasses stay in the drawer and colors look quietly washed. The air will feel settled rather than sparkling, a day of even, flat light and softened horizons.\n\nIt looks more contemplative than sparklingly pleasant, but comfortable enough if you dress for it: light layers, a sweater or wind-resistant jacket, and shoes you don\u2019t mind taking on damp pavements. Without rain in the forecast, an umbrella is optional, though a compact one in a bag never hurts. This is a morning for unhurried errands, a trip to the market, a museum wander, or a slow spin on the bicycle with lights on. If you\u2019re staying in, put the kettle on and work by a window; if you head out later, expect the gray to linger and plan something that suits a calm, muted day.",
+    "color_code": "#A3ABB3",
+    "timestamp": "2025-10-11 09:38:16",
     "location": {
-        "name": "Ocean Beach",
-        "latitude": -34.98759840117217,
-        "longitude": 117.2544742662165,
+        "name": "Denmark",
+        "latitude": -34.98645935984428,
+        "longitude": 117.3440300383201,
         "timezone": "Australia/Perth"
     }
 }
