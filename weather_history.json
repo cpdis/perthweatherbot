@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-10-05 04:20:49",
-    "location": {
-      "name": "Albany",
-      "latitude": -35.0260344840731,
-      "longitude": 117.8853068844982,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-04T20:20:49+00:00",
-      "temperature_c": 12.03,
-      "temperature_f": 53.653999999999996,
-      "humidity": 61,
-      "wind_speed_mph": 11.923210000000001,
-      "wind_direction": 233,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Albany wakes before dawn under a quilt of scattered clouds, the sky mottled and dimly luminous as th...",
-    "color_code": "#2E3A59"
-  },
-  {
     "timestamp": "2025-10-05 09:49:55",
     "location": {
       "name": "Albany",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Denmark wakes to a clean, roomy sky, the sun already brightening rooftops while a few friendly cloud...",
     "color_code": "#A6D5F2"
+  },
+  {
+    "timestamp": "2025-10-12 12:24:45",
+    "location": {
+      "name": "Porongurup",
+      "latitude": -34.69442793477149,
+      "longitude": 117.922951754722,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-12T04:24:44+00:00",
+      "temperature_c": 19.47,
+      "temperature_f": 67.04599999999999,
+      "humidity": 55,
+      "wind_speed_mph": 12.61668,
+      "wind_direction": 311,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Late morning in Porongurup arrives with a kind, silvery light, the sun slipping between patches of c...",
+    "color_code": "#8FAEC6"
   }
 ]
