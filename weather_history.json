@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-04 20:39:17",
-    "location": {
-      "name": "Albany",
-      "latitude": -35.0260344840731,
-      "longitude": 117.8853068844982,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-04T12:39:16+00:00",
-      "temperature_c": 14.41,
-      "temperature_f": 57.938,
-      "humidity": 80,
-      "wind_speed_mph": 2.99758,
-      "wind_direction": 248,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Evening settles over Albany with a damp, metallic hush. Light rain earlier washed the edges of the d...",
-    "color_code": "#4A5568"
-  },
-  {
-    "timestamp": "2025-10-05 00:23:50",
-    "location": {
-      "name": "Albany",
-      "latitude": -35.0260344840731,
-      "longitude": 117.8853068844982,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-04T16:23:49+00:00",
-      "temperature_c": 13.3,
-      "temperature_f": 55.94,
-      "humidity": 65,
-      "wind_speed_mph": 12.03506,
-      "wind_direction": 236,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Midnight settles over Albany with a quiet lid of cloud, the thick sheet from late afternoon now torn...",
-    "color_code": "#2C3E50"
-  },
-  {
     "timestamp": "2025-10-05 04:20:49",
     "location": {
       "name": "Albany",
@@ -898,5 +858,25 @@
     },
     "report_summary": "At this small hour in Denmark the sky is a quilt of broken cloud left behind by last night\u2019s overcas...",
     "color_code": "#5A6B79"
+  },
+  {
+    "timestamp": "2025-10-12 09:45:38",
+    "location": {
+      "name": "Denmark",
+      "latitude": -34.95873614999999,
+      "longitude": 117.3620367833334,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-12T01:45:37+00:00",
+      "temperature_c": 20.28,
+      "temperature_f": 68.504,
+      "humidity": 55,
+      "wind_speed_mph": 10.133610000000001,
+      "wind_direction": 269,
+      "description": "clear sky"
+    },
+    "report_summary": "Denmark wakes to a clean, roomy sky, the sun already brightening rooftops while a few friendly cloud...",
+    "color_code": "#A6D5F2"
   }
 ]

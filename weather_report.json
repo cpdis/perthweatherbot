@@ -3,42 +3,42 @@
         "location": {
             "name": "Denmark",
             "country": "AU",
-            "latitude": -34.95992869687829,
-            "longitude": 117.3543191759527
+            "latitude": -34.95873614999999,
+            "longitude": 117.3620367833334
         },
         "current_conditions": {
-            "timestamp": "2025-10-11T20:20:58+00:00",
-            "temperature_c": 12.48,
-            "temperature_f": 54.464,
-            "humidity": 94,
-            "wind_speed_mph": 5.77146,
-            "wind_direction": 326,
-            "description": "overcast clouds"
+            "timestamp": "2025-10-12T01:45:37+00:00",
+            "temperature_c": 20.28,
+            "temperature_f": 68.504,
+            "humidity": 55,
+            "wind_speed_mph": 10.133610000000001,
+            "wind_direction": 269,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-10-11T21:00:00+00:00",
-                "temperature": 11.96,
-                "windSpeed": 5.95042,
-                "windDirection": 331,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-10-12T03:00:00+00:00",
+                "temperature": 21.13,
+                "windSpeed": 10.62575,
+                "windDirection": 246,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-10-12T00:00:00+00:00",
-                "temperature": 13.16,
-                "windSpeed": 8.45586,
-                "windDirection": 306,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-10-12T06:00:00+00:00",
+                "temperature": 20.38,
+                "windSpeed": 8.59008,
+                "windDirection": 250,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "At this small hour in Denmark the sky is a quilt of broken cloud left behind by last night\u2019s overcast, the air cool and a little damp, the streets hushed. Dawn will be gentle and gray, with the sun slipping in and out of rifts rather than taking center stage; expect a day of muted light and soft edges, more silver than blue. The UV is low, a suggestion rather than a warning, so the brightness will feel diffuse and kind to the eyes, the horizon a touch veiled but steady.\n\nIt looks quietly pleasant rather than sparkling. Dress in easy layers: a long-sleeve or knit under a light, windproof jacket, perhaps a scarf for the ride or walk, and shoes you don\u2019t mind on damp pavement. Good hours for unhurried errands, a tram to the library when it opens, a bicycle roll to the bakery, or a tidy of the desk and balcony plants while the kettle works. Later, if the clouds thin, take a slow loop around the neighborhood or find a window seat and let the pale light do its calming work.",
-    "color_code": "#5A6B79",
-    "timestamp": "2025-10-12 04:20:59",
+    "weather_report": "Denmark wakes to a clean, roomy sky, the sun already brightening rooftops while a few friendly clouds drift without hurry. The light is crisp and honest, the kind that sharpens edges and carries far; visibility feels excellent. UV is gentle for the season\u2014soft enough for a leisurely morning outdoors\u2014though a pair of sunglasses will make the world more comfortable and a touch of sunscreen won\u2019t hurt if you linger toward midday.\n\nThrough the day, expect mostly sunshine with only thin, passing cloud, a pleasant, clear-headed sort of weather that invites errands done on foot and unhurried conversations at a caf\u00e9 table. The air will still have an autumn nip, so think in layers: a light jacket or sweater, perhaps a scarf if you\u2019re shade-prone. It\u2019s a good day to walk to the bakery, to sit with a book near a window, to take a modest loop through a nearby park and come home with a pocket of leaves and a clearer mind.",
+    "color_code": "#A6D5F2",
+    "timestamp": "2025-10-12 09:45:38",
     "location": {
         "name": "Denmark",
-        "latitude": -34.95992869687829,
-        "longitude": 117.3543191759527,
+        "latitude": -34.95873614999999,
+        "longitude": 117.3620367833334,
         "timezone": "Australia/Perth"
     }
 }
