@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-06 09:43:11",
-    "location": {
-      "name": "Albany",
-      "latitude": -35.02709918061803,
-      "longitude": 117.8832148482131,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-06T01:43:11+00:00",
-      "temperature_c": 14.54,
-      "temperature_f": 58.172,
-      "humidity": 80,
-      "wind_speed_mph": 2.99758,
-      "wind_direction": 225,
-      "description": "broken clouds"
-    },
-    "report_summary": "Morning settles over Albany with streets still beaded from the night\u2019s light rain. A low quilt of cl...",
-    "color_code": "#7F8C99"
-  },
-  {
-    "timestamp": "2025-10-06 12:25:34",
-    "location": {
-      "name": "Nanarup",
-      "latitude": -34.97297099293959,
-      "longitude": 118.1947744895941,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-06T04:25:34+00:00",
-      "temperature_c": 14.69,
-      "temperature_f": 58.442,
-      "humidity": 67,
-      "wind_speed_mph": 9.08222,
-      "wind_direction": 237,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Midday in Nanarup feels bright but tempered, the sun softened by a quilt of broken cloud sliding in ...",
-    "color_code": "#9DB0C6"
-  },
-  {
     "timestamp": "2025-10-06 16:29:46",
     "location": {
       "name": "Nanarup",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon in Perth arrives with a polished, lacquer-blue sky and sun that leans low, sharpening...",
     "color_code": "#FFCC66"
+  },
+  {
+    "timestamp": "2025-10-13 20:46:56",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968348993908,
+      "longitude": 115.8208359778172,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-13T12:46:56+00:00",
+      "temperature_c": 16.78,
+      "temperature_f": 62.204,
+      "humidity": 72,
+      "wind_speed_mph": 11.76662,
+      "wind_direction": 174,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco settles into a clear, polished evening, the heat of the day already folded away and the sky ...",
+    "color_code": "#1C2E68"
   }
 ]
