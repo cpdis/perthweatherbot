@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-05 20:39:38",
-    "location": {
-      "name": "Albany",
-      "latitude": -35.03000932132569,
-      "longitude": 117.8862484463212,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-05T12:39:38+00:00",
-      "temperature_c": 11.17,
-      "temperature_f": 52.106,
-      "humidity": 81,
-      "wind_speed_mph": 3.6463099999999997,
-      "wind_direction": 266,
-      "description": "clear sky"
-    },
-    "report_summary": "Evening settles over Albany with a quilt of scattered clouds drifting across a fading sky. Earlier, ...",
-    "color_code": "#2C3E50"
-  },
-  {
-    "timestamp": "2025-10-06 00:23:40",
-    "location": {
-      "name": "Albany",
-      "latitude": -35.03000932132569,
-      "longitude": 117.8862484463212,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-05T16:23:40+00:00",
-      "temperature_c": 9.5,
-      "temperature_f": 49.1,
-      "humidity": 91,
-      "wind_speed_mph": 5.5925,
-      "wind_direction": 293,
-      "description": "few clouds"
-    },
-    "report_summary": "Just past midnight in Albany, the air feels rinsed and quiet, the pavement still glistening from the...",
-    "color_code": "#2F3A4A"
-  },
-  {
     "timestamp": "2025-10-06 04:21:07",
     "location": {
       "name": "Albany",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Subiaco wakes in a hush, the sky clean and star-scrubbed, with the first hints of dawn waiting in th...",
     "color_code": "#1E3A8A"
+  },
+  {
+    "timestamp": "2025-10-13 09:49:09",
+    "location": {
+      "name": "Perth",
+      "latitude": -31.95379991028696,
+      "longitude": 115.8527911274843,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-13T01:49:08+00:00",
+      "temperature_c": 20.05,
+      "temperature_f": 68.09,
+      "humidity": 60,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 80,
+      "description": "few clouds"
+    },
+    "report_summary": "Perth wakes to a clear, lucid morning with only a few clouds idling at the edges, the kind that soft...",
+    "color_code": "#87CEEB"
   }
 ]
