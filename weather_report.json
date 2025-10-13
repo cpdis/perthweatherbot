@@ -3,42 +3,42 @@
         "location": {
             "name": "Perth",
             "country": "AU",
-            "latitude": -31.95549009326323,
-            "longitude": 115.8590205225983
+            "latitude": -31.95414540304542,
+            "longitude": 115.8527167535548
         },
         "current_conditions": {
-            "timestamp": "2025-10-13T04:26:33+00:00",
-            "temperature_c": 25.8,
-            "temperature_f": 78.44,
-            "humidity": 47,
-            "wind_speed_mph": 6.285970000000001,
-            "wind_direction": 230,
+            "timestamp": "2025-10-13T08:32:31+00:00",
+            "temperature_c": 22.64,
+            "temperature_f": 72.752,
+            "humidity": 58,
+            "wind_speed_mph": 14.36154,
+            "wind_direction": 196,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-10-13T06:00:00+00:00",
-                "temperature": 25.57,
-                "windSpeed": 11.87847,
-                "windDirection": 237,
+                "startTime": "2025-10-13T09:00:00+00:00",
+                "temperature": 22.64,
+                "windSpeed": 14.36154,
+                "windDirection": 196,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-10-13T09:00:00+00:00",
-                "temperature": 22.61,
-                "windSpeed": 12.99697,
-                "windDirection": 195,
+                "startTime": "2025-10-13T12:00:00+00:00",
+                "temperature": 21.09,
+                "windSpeed": 12.23639,
+                "windDirection": 178,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Perth sits under an open, polished sky at midday, the sun in full voice and the air clear enough to make edges seem newly drawn. The forecast holds to this uncluttered script through the afternoon, with bright, uninterrupted sunshine and that hard, cinematic light the city wears so well. UV will be strong into mid-afternoon on a day like this, so treat the sun with respect: hat, sunglasses, sunscreen, and light, breathable layers are the uniform. It feels like a day that invites motion but counsels shade, the kind where colours look a notch more vivid and time stretches a little.\n\nIf you\u2019re stepping out now, keep it unhurried\u2014walk to the shops, collect a coffee, sit a while on a bench beneath a generous tree. Hanging a load of washing will reward you with quick dry lines; a quiet hour of reading on a shaded patio would suit the moment. As the sun softens later, a gentle loop around the neighbourhood or a meandering bike ride along familiar streets will feel just right, with a clear, honeyed sunset likely to close the day.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-10-13 12:26:33",
+    "weather_report": "Late afternoon in Perth arrives with a polished, lacquer-blue sky and sun that leans low, sharpening every edge and lengthening every shadow. The day has been a bright, uncomplicated one, and it stays that way into early evening: clear now, clear later. UV would have bitten earlier, but it\u2019s easing as the sun slides toward the horizon; still, there\u2019s a touch of sting for another hour or so before it softens to almost nothing. The air feels clean and steady, with that glassy clarity that makes distance look nearer than it is.\n\nIt\u2019s a pleasant close to the day: comfortable in a light shirt while the light holds, with a soft layer handy once the warmth slips away under the clear sky. Sunglasses for the walk home; sunscreen if you\u2019re lingering outdoors before sunset. Good weather for ordinary pleasures\u2014hang out the last load of washing, water the plants, take an unhurried loop around the block, or sit by an open window and let the late sun fill the room while you plan a simple supper. As twilight sets in, the evening invites a quiet errand on foot or a brief ride to nowhere in particular, just to enjoy the easy air.",
+    "color_code": "#FFCC66",
+    "timestamp": "2025-10-13 16:32:32",
     "location": {
         "name": "Perth",
-        "latitude": -31.95549009326323,
-        "longitude": 115.8590205225983,
+        "latitude": -31.95414540304542,
+        "longitude": 115.8527167535548,
         "timezone": "Australia/Perth"
     }
 }
