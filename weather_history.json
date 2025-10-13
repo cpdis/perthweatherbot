@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-10-06 16:29:46",
-    "location": {
-      "name": "Nanarup",
-      "latitude": -34.97520449404291,
-      "longitude": 118.1984961668144,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-06T08:29:46+00:00",
-      "temperature_c": 15.16,
-      "temperature_f": 59.288,
-      "humidity": 64,
-      "wind_speed_mph": 15.50241,
-      "wind_direction": 228,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Nanarup eases into late afternoon under a sky of scattered cloud, sunlight slipping through in gentl...",
-    "color_code": "#B0C4DE"
-  },
-  {
     "timestamp": "2025-10-06 20:47:01",
     "location": {
       "name": "Centennial Park",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Just past midnight in Subiaco, the sky is clean as glass, the kind of clear that sharpens distant so...",
     "color_code": "#0a2342"
+  },
+  {
+    "timestamp": "2025-10-14 04:24:24",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968348993908,
+      "longitude": 115.8208359778172,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-13T20:24:23+00:00",
+      "temperature_c": 13,
+      "temperature_f": 55.4,
+      "humidity": 81,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 200,
+      "description": "clear sky"
+    },
+    "report_summary": "Before dawn in Subiaco the sky is a clean, unblemished pane of ink, the air still and a touch cool, ...",
+    "color_code": "#1E3A5F"
   }
 ]
