@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-10-06 04:21:07",
-    "location": {
-      "name": "Albany",
-      "latitude": -35.03000932132569,
-      "longitude": 117.8862484463212,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-05T20:21:07+00:00",
-      "temperature_c": 7.28,
-      "temperature_f": 45.104,
-      "humidity": 92,
-      "wind_speed_mph": 4.98851,
-      "wind_direction": 287,
-      "description": "broken clouds"
-    },
-    "report_summary": "Albany wakes cool and damp before dawn, last evening\u2019s light rain still beading the sidewalks and so...",
-    "color_code": "#4F6170"
-  },
-  {
     "timestamp": "2025-10-06 09:43:11",
     "location": {
       "name": "Albany",
@@ -877,6 +857,26 @@
       "description": "few clouds"
     },
     "report_summary": "Perth wakes to a clear, lucid morning with only a few clouds idling at the edges, the kind that soft...",
+    "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2025-10-13 12:26:33",
+    "location": {
+      "name": "Perth",
+      "latitude": -31.95549009326323,
+      "longitude": 115.8590205225983,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-13T04:26:33+00:00",
+      "temperature_c": 25.8,
+      "temperature_f": 78.44,
+      "humidity": 47,
+      "wind_speed_mph": 6.285970000000001,
+      "wind_direction": 230,
+      "description": "clear sky"
+    },
+    "report_summary": "Perth sits under an open, polished sky at midday, the sun in full voice and the air clear enough to ...",
     "color_code": "#87CEEB"
   }
 ]
