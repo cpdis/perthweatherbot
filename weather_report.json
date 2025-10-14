@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Wembley",
             "country": "AU",
-            "latitude": -31.94968348993908,
-            "longitude": 115.8208359778172
+            "latitude": -31.92819630200824,
+            "longitude": 115.8229624837121
         },
         "current_conditions": {
-            "timestamp": "2025-10-14T01:42:42+00:00",
-            "temperature_c": 21.08,
-            "temperature_f": 69.94399999999999,
-            "humidity": 56,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 170,
+            "timestamp": "2025-10-14T04:26:22+00:00",
+            "temperature_c": 22.97,
+            "temperature_f": 73.346,
+            "humidity": 55,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 230,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-10-14T03:00:00+00:00",
-                "temperature": 21.08,
-                "windSpeed": 10.64812,
-                "windDirection": 227,
-                "shortForecast": "clear sky"
-            },
-            {
                 "startTime": "2025-10-14T06:00:00+00:00",
-                "temperature": 21.94,
+                "temperature": 23.35,
                 "windSpeed": 14.11547,
                 "windDirection": 223,
                 "shortForecast": "few clouds"
+            },
+            {
+                "startTime": "2025-10-14T09:00:00+00:00",
+                "temperature": 21.6,
+                "windSpeed": 13.981250000000001,
+                "windDirection": 212,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Morning in Subiaco arrives clear and bright, the sun sharpening verandah shadows and giving the streets that freshly washed look. Forecasts promise a mostly open sky through the late morning with only a few hesitant clouds drifting in later, so the light will be clean and generous, the sort that makes colors pop and edges gleam. It will feel pleasant overall, though the midday glare will have some bite, and the UV is set to run high, especially as the sun climbs.\n\nDress for ease: breathable layers, short sleeves, a brimmed hat and sunglasses, with sunscreen as routine as your keys. This is a good day to do things slowly and nearby\u2014walk the small errands, pause at a caf\u00e9 under an awning, water the herbs on the balcony, or hang a fresh wash in the sun. If you fancy a stretch of the legs, take a mid-morning stroll before the brightness leans toward fierce, then drift back into the shade and let the afternoon idle along with a book.",
+    "weather_report": "Wembley sits under a clean, forgiving sky this early afternoon, the morning\u2019s few clouds long since swept away to leave a bright, steady sun. The light feels cheerful rather than fierce, with a gentle UV that warms the face without biting, and the air has that clear October crispness that sharpens edges and colours. Visibility is excellent; the day looks honest and uncomplicated.\n\nExpect the afternoon to stay mostly bright and settled, a graceful slide toward cooler air once the sun tilts. It\u2019s a day for light layers: a soft sweater or a tidy jacket, sunglasses for the glare, and a dab of sunscreen if you plan to linger. It would suit a slow walk to run an errand, a sandwich at a caf\u00e9 table, or a quiet sit on a bench with a book, letting the sun do small, restorative work. Open a window for a short airing, hang the washing, or take the long way home; it\u2019s pleasant without asking much of you beyond unhurried company.",
     "color_code": "#87CEFA",
-    "timestamp": "2025-10-14 09:42:42",
+    "timestamp": "2025-10-14 12:26:22",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968348993908,
-        "longitude": 115.8208359778172,
+        "name": "Wembley",
+        "latitude": -31.92819630200824,
+        "longitude": 115.8229624837121,
         "timezone": "Australia/Perth"
     }
 }
