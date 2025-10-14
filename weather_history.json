@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-10-07 16:29:35",
-    "location": {
-      "name": "Centennial Park",
-      "latitude": -35.00470894200059,
-      "longitude": 117.8679500110657,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-07T08:29:35+00:00",
-      "temperature_c": 12.57,
-      "temperature_f": 54.626,
-      "humidity": 94,
-      "wind_speed_mph": 4.004230000000001,
-      "wind_direction": 225,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Late afternoon settles over Centennial Park with a soft, pewter sky that never quite opens. The morn...",
-    "color_code": "#7a848e"
-  },
-  {
     "timestamp": "2025-10-07 20:46:06",
     "location": {
       "name": "Albany",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Subiaco settles under a quilt of broken cloud just past midnight, the sky smudged and shy of starlig...",
     "color_code": "#2C3E50"
+  },
+  {
+    "timestamp": "2025-10-15 04:24:05",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94970252427791,
+      "longitude": 115.8207063517939,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-14T20:24:04+00:00",
+      "temperature_c": 14.88,
+      "temperature_f": 58.784000000000006,
+      "humidity": 74,
+      "wind_speed_mph": 10.35731,
+      "wind_direction": 180,
+      "description": "broken clouds"
+    },
+    "report_summary": "Before dawn in Subiaco, a quilt of broken cloud drifts overhead, muting the last stars and promising...",
+    "color_code": "#7A8C99"
   }
 ]
