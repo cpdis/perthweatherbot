@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-07 09:40:55",
-    "location": {
-      "name": "Emu Point",
-      "latitude": -34.99814949795554,
-      "longitude": 117.9476150444414,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-07T01:40:55+00:00",
-      "temperature_c": 16.28,
-      "temperature_f": 61.304,
-      "humidity": 69,
-      "wind_speed_mph": 16.86698,
-      "wind_direction": 259,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Morning drifts in under a soft grey lid at Emu Point, the sea flattened to pewter and the horizon a ...",
-    "color_code": "#90A4AE"
-  },
-  {
-    "timestamp": "2025-10-07 12:26:11",
-    "location": {
-      "name": "Centennial Park",
-      "latitude": -35.00469963057406,
-      "longitude": 117.8678728774672,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-07T04:26:11+00:00",
-      "temperature_c": 17.57,
-      "temperature_f": 63.626,
-      "humidity": 70,
-      "wind_speed_mph": 5.99516,
-      "wind_direction": 248,
-      "description": "broken clouds"
-    },
-    "report_summary": "Midday drifts in soft and gray over Centennial Park, the air rinsed clean by earlier light rain and ...",
-    "color_code": "#8DA3B2"
-  },
-  {
     "timestamp": "2025-10-07 16:29:35",
     "location": {
       "name": "Centennial Park",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon in Subiaco arrives on a page of clear sky, the sun still clean and steady, throwing l...",
     "color_code": "#FFCC80"
+  },
+  {
+    "timestamp": "2025-10-14 20:49:16",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94970252427791,
+      "longitude": 115.8207063517939,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-14T12:49:16+00:00",
+      "temperature_c": 16.8,
+      "temperature_f": 62.24,
+      "humidity": 74,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 230,
+      "description": "broken clouds"
+    },
+    "report_summary": "Evening has settled over Subiaco with a quilt of broken cloud drifting across the sky, softening the...",
+    "color_code": "#2e3440"
   }
 ]
