@@ -7,34 +7,34 @@
             "longitude": 115.8207063517939
         },
         "current_conditions": {
-            "timestamp": "2025-10-14T12:49:16+00:00",
-            "temperature_c": 16.8,
-            "temperature_f": 62.24,
+            "timestamp": "2025-10-14T16:28:18+00:00",
+            "temperature_c": 16.43,
+            "temperature_f": 61.574,
             "humidity": 74,
             "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 230,
+            "wind_direction": 220,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-14T15:00:00+00:00",
-                "temperature": 16.41,
-                "windSpeed": 13.8694,
-                "windDirection": 214,
-                "shortForecast": "broken clouds"
-            },
-            {
                 "startTime": "2025-10-14T18:00:00+00:00",
-                "temperature": 15.14,
+                "temperature": 15.92,
                 "windSpeed": 14.160210000000001,
                 "windDirection": 204,
                 "shortForecast": "broken clouds"
+            },
+            {
+                "startTime": "2025-10-14T21:00:00+00:00",
+                "temperature": 16.08,
+                "windSpeed": 11.27448,
+                "windDirection": 197,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Evening has settled over Subiaco with a quilt of broken cloud drifting across the sky, softening the edges of streetlights and leaving only occasional pinpricks of starlight. Sunshine is done for the day; under this patchwork cover it would have been filtered and mild before dusk, and now the UV is essentially nil. The night feels gentle rather than sharp, the kind that invites a slow breath and an unhurried walk around the block just to hear the leaves talk to one another.\n\nExpect the cloud to linger through late evening and after midnight, keeping the night muted and a touch introspective rather than crystal-clear. It reads as pleasant, not dramatic: no need for armor, just a light layer or a cardigan if you plan to linger outdoors, comfortable shoes if you\u2019re stepping out. It\u2019s a good night to fetch a quiet takeaway, water the balcony herbs, or return to a half-finished book under a warm lamp, letting the breeze come and go at the window.",
-    "color_code": "#2e3440",
-    "timestamp": "2025-10-14 20:49:16",
+    "weather_report": "Subiaco settles under a quilt of broken cloud just past midnight, the sky smudged and shy of starlight. Toward dawn the cover thickens to a full gray lid, so first light will be muted, more silver than gold. Expect a soft-focus morning with modest clarity; any sun will arrive filtered and reluctant. UV is negligible now, but after sunrise\u2014spring being what it is here\u2014it will rise quickly even through cloud, so treat midday with respect if you\u2019re lingering outdoors.\n\nDress in light layers: a long-sleeve or thin jacket for the small hours, something breathable beneath for later. It\u2019s a pleasant, understated kind of day\u2014neither dazzling nor dour\u2014made for quiet errands and gentle starts. Put the kettle on, clear a few emails, take a slow loop of the block before breakfast. After sunrise, a library drop-off, a neat supermarket run, or reorganizing a corner of the shed will suit the dimmer light. If the ceiling loosens, claim a caf\u00e9 table under an awning and let the day idle by.",
+    "color_code": "#2C3E50",
+    "timestamp": "2025-10-15 00:28:18",
     "location": {
         "name": "Subiaco",
         "latitude": -31.94970252427791,
