@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Wembley",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.92819630200824,
-            "longitude": 115.8229624837121
+            "latitude": -31.94964981812992,
+            "longitude": 115.8209658804881
         },
         "current_conditions": {
-            "timestamp": "2025-10-14T04:26:22+00:00",
-            "temperature_c": 22.97,
-            "temperature_f": 73.346,
-            "humidity": 55,
-            "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 230,
+            "timestamp": "2025-10-14T08:27:48+00:00",
+            "temperature_c": 20.95,
+            "temperature_f": 69.71,
+            "humidity": 64,
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 240,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-10-14T06:00:00+00:00",
-                "temperature": 23.35,
-                "windSpeed": 14.11547,
-                "windDirection": 223,
-                "shortForecast": "few clouds"
+                "startTime": "2025-10-14T09:00:00+00:00",
+                "temperature": 20.95,
+                "windSpeed": 15.2116,
+                "windDirection": 210,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-10-14T09:00:00+00:00",
-                "temperature": 21.6,
-                "windSpeed": 13.981250000000001,
-                "windDirection": 212,
+                "startTime": "2025-10-14T12:00:00+00:00",
+                "temperature": 19.76,
+                "windSpeed": 13.712810000000001,
+                "windDirection": 209,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Wembley sits under a clean, forgiving sky this early afternoon, the morning\u2019s few clouds long since swept away to leave a bright, steady sun. The light feels cheerful rather than fierce, with a gentle UV that warms the face without biting, and the air has that clear October crispness that sharpens edges and colours. Visibility is excellent; the day looks honest and uncomplicated.\n\nExpect the afternoon to stay mostly bright and settled, a graceful slide toward cooler air once the sun tilts. It\u2019s a day for light layers: a soft sweater or a tidy jacket, sunglasses for the glare, and a dab of sunscreen if you plan to linger. It would suit a slow walk to run an errand, a sandwich at a caf\u00e9 table, or a quiet sit on a bench with a book, letting the sun do small, restorative work. Open a window for a short airing, hang the washing, or take the long way home; it\u2019s pleasant without asking much of you beyond unhurried company.",
-    "color_code": "#87CEFA",
-    "timestamp": "2025-10-14 12:26:22",
+    "weather_report": "Late afternoon in Subiaco arrives on a page of clear sky, the sun still clean and steady, throwing long, honeyed light across verandas and gum leaves. Visibility is sharp, the air untroubled by cloud, and the day has that open, generous feel that makes everything look newly washed. The UV has eased from its midday bite but can still nip exposed skin for a little while yet, settling toward low as the evening draws in. Expect the clarity to last through sunset and into a calm, star-leaning night.\n\nIt\u2019s a pleasant one: breathable fabrics and sunglasses now, with a light layer handy for after dusk. A gentle choice would be a slow walk to pick up groceries, watering the garden while the heat softens, or a quiet lap on the bike to a pocket park before the light fades. If home beckons, throw open a window, put the kettle on, and let the day exhale around you.",
+    "color_code": "#FFCC80",
+    "timestamp": "2025-10-14 16:27:48",
     "location": {
-        "name": "Wembley",
-        "latitude": -31.92819630200824,
-        "longitude": 115.8229624837121,
+        "name": "Subiaco",
+        "latitude": -31.94964981812992,
+        "longitude": 115.8209658804881,
         "timezone": "Australia/Perth"
     }
 }
