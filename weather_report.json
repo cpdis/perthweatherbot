@@ -3,42 +3,42 @@
         "location": {
             "name": "Perth",
             "country": "AU",
-            "latitude": -31.9542418255845,
-            "longitude": 115.8528501354486
+            "latitude": -31.95412610328449,
+            "longitude": 115.8527013035788
         },
         "current_conditions": {
-            "timestamp": "2025-10-15T01:45:37+00:00",
-            "temperature_c": 18.81,
-            "temperature_f": 65.858,
-            "humidity": 54,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 190,
-            "description": "broken clouds"
+            "timestamp": "2025-10-15T04:26:26+00:00",
+            "temperature_c": 21.5,
+            "temperature_f": 70.7,
+            "humidity": 48,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 250,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-15T03:00:00+00:00",
-                "temperature": 18.81,
-                "windSpeed": 7.314990000000001,
-                "windDirection": 233,
-                "shortForecast": "broken clouds"
-            },
-            {
                 "startTime": "2025-10-15T06:00:00+00:00",
-                "temperature": 19.98,
+                "temperature": 21.77,
                 "windSpeed": 11.49818,
                 "windDirection": 244,
+                "shortForecast": "scattered clouds"
+            },
+            {
+                "startTime": "2025-10-15T09:00:00+00:00",
+                "temperature": 20.63,
+                "windSpeed": 11.699510000000002,
+                "windDirection": 235,
                 "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Perth wakes under a soft, pearly sky, the sun slipping in and out of broken cloud so the streets alternately gleam and hush. By late morning and into the early afternoon those clouds will keep drifting overhead, offering bright intervals rather than a hard blaze. The air feels kindly and clear, the horizon a touch gauzy, and while the light is filtered, the spring sun still has teeth; expect the UV to climb quickly toward midday even with the patchwork shade.\n\nDress for an easy day: light, breathable layers, a brimmed hat, sunglasses, and a dab of sunscreen on the nose and forearms. It\u2019s a good morning for quiet errands on foot, a meander around Hyde Park or along the river while the glare is softened, or a coffee taken on a shaded verandah with the paper folded just so. If you\u2019re staying in, throw open a window and tend to a few plants or sort a bookshelf by the window, letting the changing light do its gentle work.",
-    "color_code": "#B7D0E6",
-    "timestamp": "2025-10-15 09:45:37",
+    "weather_report": "Perth eases into the afternoon under a sky of shifting gauze: sunlit at present with patches of blue, then trending toward thicker, broken cloud by late day. Expect a bright, somewhat filtered sunshine rather than a clean blaze; the air feels clear enough for long views, but the light grows gentler as the afternoon advances. UV will be strong to very strong around now despite the cloud, softening a touch as cover builds toward evening.\n\nIt looks like a day for easy, unhurried errands and small pleasures. Wear light, breathable layers, a wide-brim hat, sunglasses, and sunscreen; tuck a light top in your bag for when the breeze turns cooler later. A shaded veranda lunch, a quiet loop to the shops on foot, a short riverside amble before the thicker cloud, or tending the garden and hanging the wash while the sun still peeks through would all suit. If you\u2019d rather be indoors, slip into the library or a small gallery for an hour, then step back out into that mellowing light.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-10-15 12:26:27",
     "location": {
         "name": "Perth",
-        "latitude": -31.9542418255845,
-        "longitude": 115.8528501354486,
+        "latitude": -31.95412610328449,
+        "longitude": 115.8527013035788,
         "timezone": "Australia/Perth"
     }
 }

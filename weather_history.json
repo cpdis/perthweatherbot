@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-10-08 04:23:43",
-    "location": {
-      "name": "Albany",
-      "latitude": -35.02363776991004,
-      "longitude": 117.8836540983224,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-07T20:23:43+00:00",
-      "temperature_c": 12.75,
-      "temperature_f": 54.95,
-      "humidity": 69,
-      "wind_speed_mph": 7.00181,
-      "wind_direction": 225,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Before dawn in Albany, the streets wear a sheen from last night\u2019s light rain, and the sky feels hush...",
-    "color_code": "#6C7A89"
-  },
-  {
     "timestamp": "2025-10-08 09:41:26",
     "location": {
       "name": "Denmark",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Perth wakes under a soft, pearly sky, the sun slipping in and out of broken cloud so the streets alt...",
     "color_code": "#B7D0E6"
+  },
+  {
+    "timestamp": "2025-10-15 12:26:27",
+    "location": {
+      "name": "Perth",
+      "latitude": -31.95412610328449,
+      "longitude": 115.8527013035788,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-15T04:26:26+00:00",
+      "temperature_c": 21.5,
+      "temperature_f": 70.7,
+      "humidity": 48,
+      "wind_speed_mph": 17.26964,
+      "wind_direction": 250,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Perth eases into the afternoon under a sky of shifting gauze: sunlit at present with patches of blue...",
+    "color_code": "#87CEEB"
   }
 ]
