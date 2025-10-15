@@ -878,5 +878,25 @@
     },
     "report_summary": "Perth eases into the afternoon under a sky of shifting gauze: sunlit at present with patches of blue...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2025-10-15 16:31:09",
+    "location": {
+      "name": "Perth",
+      "latitude": -31.95414022332155,
+      "longitude": 115.8527182282201,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-15T08:31:08+00:00",
+      "temperature_c": 20.8,
+      "temperature_f": 69.44,
+      "humidity": 58,
+      "wind_speed_mph": 17.26964,
+      "wind_direction": 260,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Late afternoon settles over Perth with a dappled sky, the sun slipping in and out of scattered cloud...",
+    "color_code": "#6B7D99"
   }
 ]
