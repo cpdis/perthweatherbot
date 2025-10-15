@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-08 09:41:26",
-    "location": {
-      "name": "Denmark",
-      "latitude": -34.96029220211706,
-      "longitude": 117.3552944848047,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-08T01:41:26+00:00",
-      "temperature_c": 12.36,
-      "temperature_f": 54.248,
-      "humidity": 67,
-      "wind_speed_mph": 14.00362,
-      "wind_direction": 238,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Denmark wakes under a soft, silver sky, streets still beaded from the morning\u2019s light rain and the a...",
-    "color_code": "#6E7F8D"
-  },
-  {
-    "timestamp": "2025-10-08 12:26:19",
-    "location": {
-      "name": "Denmark",
-      "latitude": -34.96029220211706,
-      "longitude": 117.3552944848047,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-08T04:26:18+00:00",
-      "temperature_c": 13.23,
-      "temperature_f": 55.814,
-      "humidity": 61,
-      "wind_speed_mph": 13.198300000000001,
-      "wind_direction": 247,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Denmark woke to a rinse of light rain, and by late morning the sky fractured into moving panes of cl...",
-    "color_code": "#7A8793"
-  },
-  {
     "timestamp": "2025-10-08 16:30:06",
     "location": {
       "name": "Denmark",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon settles over Perth with a dappled sky, the sun slipping in and out of scattered cloud...",
     "color_code": "#6B7D99"
+  },
+  {
+    "timestamp": "2025-10-15 20:48:54",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94966661729622,
+      "longitude": 115.8207365991477,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-15T12:48:53+00:00",
+      "temperature_c": 17.35,
+      "temperature_f": 63.230000000000004,
+      "humidity": 73,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 210,
+      "description": "few clouds"
+    },
+    "report_summary": "Subiaco settles into a serene evening: the few late-afternoon clouds thinned out, leaving a clean, s...",
+    "color_code": "#0b1e3a"
   }
 ]

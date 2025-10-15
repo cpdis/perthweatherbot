@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95414022332155,
-            "longitude": 115.8527182282201
+            "latitude": -31.94966661729622,
+            "longitude": 115.8207365991477
         },
         "current_conditions": {
-            "timestamp": "2025-10-15T08:31:08+00:00",
-            "temperature_c": 20.8,
-            "temperature_f": 69.44,
-            "humidity": 58,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 260,
-            "description": "scattered clouds"
+            "timestamp": "2025-10-15T12:48:53+00:00",
+            "temperature_c": 17.35,
+            "temperature_f": 63.230000000000004,
+            "humidity": 73,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 210,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-15T09:00:00+00:00",
-                "temperature": 20.8,
-                "windSpeed": 11.8561,
+                "startTime": "2025-10-15T15:00:00+00:00",
+                "temperature": 17.27,
+                "windSpeed": 5.32406,
                 "windDirection": 235,
-                "shortForecast": "scattered clouds"
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-10-15T12:00:00+00:00",
-                "temperature": 20.03,
-                "windSpeed": 6.82285,
-                "windDirection": 224,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-10-15T18:00:00+00:00",
+                "temperature": 15.83,
+                "windSpeed": 4.74244,
+                "windDirection": 251,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Late afternoon settles over Perth with a dappled sky, the sun slipping in and out of scattered clouds and casting a gentle, shifting light. The air feels clear and easy to breathe, the kind of brightness that softens rather than glares. Visibility is good, shadows are lengthening, and the day has the calm, unhurried clarity of early evening.\n\nExpect the scattered cloud to linger toward dusk and into the early night, with sunshine thinning as the hours pass. The UV has eased and will keep dropping; if you\u2019re out before sunset, a touch of protection is sensible, but for most, it\u2019s a low-fuss affair. Dress in light layers you can shed and reclaim, sunglasses handy until the sun slides closer to the horizon. It\u2019s a pleasant time for an easy stroll along quiet streets, a small errand by bike, or an early supper outdoors while the sky drifts between silver and pale blue. Indoors, throw open a window and finish the day\u2019s loose ends in that mellow, forgiving light.",
-    "color_code": "#6B7D99",
-    "timestamp": "2025-10-15 16:31:09",
+    "weather_report": "Subiaco settles into a serene evening: the few late-afternoon clouds thinned out, leaving a clean, star-pricked sky and a sense of order in the air. Sunlight has gone soft and then gone entirely, so the UV has slipped to nothing; it\u2019s a clear, gentle night, the kind that feels honest and uncluttered. Expect the rest of the evening to stay calm and bright in its own quiet way, with good visibility and a touch of cool as the hours lengthen. A light jacket or cardigan will be enough, perhaps a scarf if you linger outdoors. It\u2019s a pleasant time for an unhurried loop around the block, a small errand to the corner shop, or a few minutes on the balcony with the day\u2019s thoughts, letting the quiet do its work.",
+    "color_code": "#0b1e3a",
+    "timestamp": "2025-10-15 20:48:54",
     "location": {
-        "name": "Perth",
-        "latitude": -31.95414022332155,
-        "longitude": 115.8527182282201,
+        "name": "Subiaco",
+        "latitude": -31.94966661729622,
+        "longitude": 115.8207365991477,
         "timezone": "Australia/Perth"
     }
 }
