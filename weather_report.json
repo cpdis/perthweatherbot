@@ -7,34 +7,34 @@
             "longitude": 115.8207116792161
         },
         "current_conditions": {
-            "timestamp": "2025-10-16T12:48:57+00:00",
-            "temperature_c": 17.65,
-            "temperature_f": 63.769999999999996,
+            "timestamp": "2025-10-16T16:28:57+00:00",
+            "temperature_c": 15.57,
+            "temperature_f": 60.025999999999996,
             "humidity": 78,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 210,
-            "description": "clear sky"
+            "wind_speed_mph": 5.8162,
+            "wind_direction": 143,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-16T15:00:00+00:00",
-                "temperature": 17.16,
-                "windSpeed": 6.0399,
-                "windDirection": 150,
-                "shortForecast": "few clouds"
-            },
-            {
                 "startTime": "2025-10-16T18:00:00+00:00",
-                "temperature": 15.59,
+                "temperature": 15.24,
                 "windSpeed": 5.346430000000001,
                 "windDirection": 135,
-                "shortForecast": "scattered clouds"
+                "shortForecast": "broken clouds"
+            },
+            {
+                "startTime": "2025-10-16T21:00:00+00:00",
+                "temperature": 14.08,
+                "windSpeed": 5.256950000000001,
+                "windDirection": 67,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco eases into night beneath a lightly brushed sky: the afternoon offered a clean, gentle sun between a few clouds, and now scattered patches drift in with the dark. Clarity has been good all day, the kind where buildings look newly etched and distances feel close; with the sun gone, the UV drops to almost nothing and the light softens to a quiet blue.\n\nIt\u2019s a pleasant, unfussy evening. Dress with a light layer\u2014something you can shrug on if you decide to linger\u2014and comfortable shoes for an unhurried circuit of the neighborhood. Pick up a small errand, water the balcony pots, or sit at a window and let the last of the day pass while a record hums in the background. If you\u2019re heading out, it\u2019s the sort of weather that suits an early supper outdoors or a slow ride home with the windows cracked, the air cool but not insistent.",
-    "color_code": "#1E2A44",
-    "timestamp": "2025-10-16 20:48:58",
+    "weather_report": "Just past midnight in Subiaco, the sky is quilted with broken cloud, the moon and a few stubborn stars slipping through the seams. The air feels gentle rather than sharp, the sort that invites an unhurried breath at the back door. UV is essentially asleep now, and there\u2019s little in the way of sunshine until morning; the night has that velvety, muted clarity where streetlights pool softly and sounds carry a little farther than usual.\n\nToward the small hours and into dawn, the cloud looks set to linger in pieces, likely giving the sunrise a pale, filtered glow rather than a blaze. It should feel pleasant in a low-key way\u2014unfussy and walkable. Dress with a light layer or long sleeves you can push up as you move, and consider a hat or sunglasses later in the morning if the gaps widen and the UV wakes up. Good night for domestic puttering, a short, contemplative stroll, or sketching tomorrow\u2019s list; early risers might enjoy a quiet lap of the neighborhood before coffee, watching the day sift in through the clouds.",
+    "color_code": "#2C3E50",
+    "timestamp": "2025-10-17 00:28:57",
     "location": {
         "name": "Subiaco",
         "latitude": -31.94970089289311,
