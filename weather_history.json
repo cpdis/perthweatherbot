@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-10-09 04:23:48",
-    "location": {
-      "name": "Denmark",
-      "latitude": -34.98647486204504,
-      "longitude": 117.344147771501,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-08T20:23:48+00:00",
-      "temperature_c": 12.42,
-      "temperature_f": 54.356,
-      "humidity": 70,
-      "wind_speed_mph": 13.489110000000002,
-      "wind_direction": 260,
-      "description": "light rain"
-    },
-    "report_summary": "Denmark wakes under a soft, pewter ceiling: the streets still glisten from a light night rain, and t...",
-    "color_code": "#6E7B8B"
-  },
-  {
     "timestamp": "2025-10-09 09:42:00",
     "location": {
       "name": "Denmark",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Subiaco wakes under a quilt of broken cloud, the sun slipping in and out like a shy performer testin...",
     "color_code": "#A7BFD1"
+  },
+  {
+    "timestamp": "2025-10-16 12:25:57",
+    "location": {
+      "name": "Perth",
+      "latitude": -31.9541282371359,
+      "longitude": 115.8527228759678,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-16T04:25:56+00:00",
+      "temperature_c": 23.78,
+      "temperature_f": 74.804,
+      "humidity": 55,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 250,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Midday in Perth wears a dappled sky: broken clouds drifting like loose pages, letting through warm, ...",
+    "color_code": "#A9B7C6"
   }
 ]
