@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-08 20:46:20",
-    "location": {
-      "name": "Denmark",
-      "latitude": -34.98647486204504,
-      "longitude": 117.344147771501,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-08T12:46:19+00:00",
-      "temperature_c": 13.1,
-      "temperature_f": 55.58,
-      "humidity": 67,
-      "wind_speed_mph": 13.377260000000001,
-      "wind_direction": 256,
-      "description": "overcast clouds"
-    },
-    "report_summary": "A soft rain has been passing over Denmark from late afternoon into the evening, the sky a low, unifo...",
-    "color_code": "#3A4A5A"
-  },
-  {
-    "timestamp": "2025-10-09 00:27:41",
-    "location": {
-      "name": "Denmark",
-      "latitude": -34.98647486204504,
-      "longitude": 117.344147771501,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-08T16:27:41+00:00",
-      "temperature_c": 12.21,
-      "temperature_f": 53.978,
-      "humidity": 72,
-      "wind_speed_mph": 10.692860000000001,
-      "wind_direction": 263,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Denmark dozes under a wet hush after evening showers, streets lacquered with rain and the night air ...",
-    "color_code": "#2b3440"
-  },
-  {
     "timestamp": "2025-10-09 04:23:48",
     "location": {
       "name": "Denmark",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Subiaco wakes under a quiet, predawn veil: a few clouds loitering, the air unhurried, the streets ho...",
     "color_code": "#3B5973"
+  },
+  {
+    "timestamp": "2025-10-16 09:44:22",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94963792406995,
+      "longitude": 115.8209718546498,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-16T01:44:21+00:00",
+      "temperature_c": 21.11,
+      "temperature_f": 69.998,
+      "humidity": 68,
+      "wind_speed_mph": 4.60822,
+      "wind_direction": 300,
+      "description": "broken clouds"
+    },
+    "report_summary": "Subiaco wakes under a quilt of broken cloud, the sun slipping in and out like a shy performer testin...",
+    "color_code": "#A7BFD1"
   }
 ]
