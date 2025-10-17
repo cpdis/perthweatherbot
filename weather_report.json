@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "North Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.935687647824,
-            "longitude": 115.8490977258708
+            "latitude": -31.94967983843196,
+            "longitude": 115.820837020834
         },
         "current_conditions": {
-            "timestamp": "2025-10-17T01:43:06+00:00",
-            "temperature_c": 25.22,
-            "temperature_f": 77.396,
-            "humidity": 45,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 60,
+            "timestamp": "2025-10-17T04:26:52+00:00",
+            "temperature_c": 29.72,
+            "temperature_f": 85.49600000000001,
+            "humidity": 26,
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 340,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-10-17T03:00:00+00:00",
-                "temperature": 25.22,
-                "windSpeed": 9.21644,
-                "windDirection": 322,
+                "startTime": "2025-10-17T06:00:00+00:00",
+                "temperature": 29.29,
+                "windSpeed": 13.399630000000002,
+                "windDirection": 291,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-10-17T06:00:00+00:00",
-                "temperature": 26.04,
-                "windSpeed": 13.31015,
-                "windDirection": 290,
+                "startTime": "2025-10-17T09:00:00+00:00",
+                "temperature": 26.87,
+                "windSpeed": 12.61668,
+                "windDirection": 303,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "North Perth wakes to a clean, unclouded sky and that particular spring brightness that makes the garden leaves look freshly lacquered. The air feels dry and uncomplicated, the horizon sharp, the light already gaining confidence. Expect the day to stay wide open and blue through late morning into the afternoon, with sunshine that turns from friendly to insistent; UV will be very high by midday, so think shade, sunglasses, and a brim that earns its keep. It\u2019s the kind of clarity that flatters everything it touches while quietly reminding you to respect it.\n\nPleasant for being simple and bright, a touch unforgiving if you linger in direct sun. Dress in light, breathable layers and comfortable shoes; carry water and sunscreen as casually as your keys. A good morning to hang the washing, walk to the greengrocer, or move the desk near a window and let the day pour in without sitting under it. By late morning, tend herbs or sweep the porch, then retreat to a cool room for a book or a call. The afternoon light will stay steady and blue, ideal for a small errand by bike, a shaded bench, and the easy satisfaction of getting a few ordinary things just right.",
+    "weather_report": "Subiaco sits under a flawless blue canopy at midday, the sun crisp and insistent, shadows trimmed to sharp edges. It is very sunny now and, in this spring light, the UV is likely fierce through the early afternoon before softening later. The air feels clean and open, the sort of clarity that makes colors pop and the day seem newly washed. Expect the sky to stay clear through the afternoon and into early evening, trading glare for a mellow, honeyed glow.\n\nDress for brightness: light, breathable layers, sunglasses with real intent, a brimmed hat, and a generous sweep of sunscreen. Carry water and let your pace be unhurried. This is a good afternoon for small errands on foot, pausing under shopfront awnings, or for hanging the washing and tending balcony herbs. If you\u2019re restless, save the longer walk or a gentle cycle to the grocer for mid to late afternoon when the light eases and the streets feel unhurried.",
     "color_code": "#87CEEB",
-    "timestamp": "2025-10-17 09:43:07",
+    "timestamp": "2025-10-17 12:26:53",
     "location": {
-        "name": "North Perth",
-        "latitude": -31.935687647824,
-        "longitude": 115.8490977258708,
+        "name": "Subiaco",
+        "latitude": -31.94967983843196,
+        "longitude": 115.820837020834,
         "timezone": "Australia/Perth"
     }
 }

@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-10-10 04:24:29",
-    "location": {
-      "name": "Denmark",
-      "latitude": -34.98643905318571,
-      "longitude": 117.3440420413964,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-09T20:24:29+00:00",
-      "temperature_c": 12.14,
-      "temperature_f": 53.852000000000004,
-      "humidity": 70,
-      "wind_speed_mph": 7.94135,
-      "wind_direction": 266,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Denmark wakes under a low, unbroken ceiling, the streets still damp from a light overnight rain. The...",
-    "color_code": "#5A6572"
-  },
-  {
     "timestamp": "2025-10-10 09:42:37",
     "location": {
       "name": "Denmark",
@@ -877,6 +857,26 @@
       "description": "clear sky"
     },
     "report_summary": "North Perth wakes to a clean, unclouded sky and that particular spring brightness that makes the gar...",
+    "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2025-10-17 12:26:53",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94967983843196,
+      "longitude": 115.820837020834,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-17T04:26:52+00:00",
+      "temperature_c": 29.72,
+      "temperature_f": 85.49600000000001,
+      "humidity": 26,
+      "wind_speed_mph": 16.1064,
+      "wind_direction": 340,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco sits under a flawless blue canopy at midday, the sun crisp and insistent, shadows trimmed to...",
     "color_code": "#87CEEB"
   }
 ]
