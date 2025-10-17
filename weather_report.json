@@ -7,34 +7,34 @@
             "longitude": 115.8207145764352
         },
         "current_conditions": {
-            "timestamp": "2025-10-17T12:46:05+00:00",
-            "temperature_c": 19.67,
-            "temperature_f": 67.406,
-            "humidity": 80,
-            "wind_speed_mph": 9.21644,
+            "timestamp": "2025-10-17T16:27:24+00:00",
+            "temperature_c": 19.73,
+            "temperature_f": 67.514,
+            "humidity": 77,
+            "wind_speed_mph": 11.49818,
             "wind_direction": 330,
-            "description": "clear sky"
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-17T15:00:00+00:00",
-                "temperature": 19.18,
-                "windSpeed": 11.431070000000002,
-                "windDirection": 328,
-                "shortForecast": "clear sky"
-            },
-            {
                 "startTime": "2025-10-17T18:00:00+00:00",
-                "temperature": 17.88,
+                "temperature": 19.05,
                 "windSpeed": 14.339170000000001,
                 "windDirection": 312,
-                "shortForecast": "scattered clouds"
+                "shortForecast": "broken clouds"
+            },
+            {
+                "startTime": "2025-10-17T21:00:00+00:00",
+                "temperature": 18.1,
+                "windSpeed": 14.965530000000001,
+                "windDirection": 267,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Evening settles over Subiaco; after a clear late afternoon, thin clouds have wandered in and softened the first stars. The air is clean and steady, visibility crisp, and the day\u2019s glare has slipped away. Sunshine is done for the night, of course, and the UV has faded to almost nothing; what remains is a calm, lightly veiled sky and a sense of ease.\n\nIt feels quietly pleasant rather than bracing, the sort of night that suits unhurried errands and small comforts. A light jacket or soft sweater is enough, with a scarf if you run cool. Expect the sky to stay mostly cooperative, with a few clouds drifting by and not much else. Good hours for a slow walk along familiar streets, watering the balcony pots, or a gentle spin on the bike before settling in. Open a window, let the mild air move through the rooms, and finish the day at a humane pace.",
-    "color_code": "#2C3E50",
-    "timestamp": "2025-10-17 20:46:06",
+    "weather_report": "Subiaco settles into the small hours under a quilt of broken cloud; the night feels hushed, streetlights ringed with faint halos, and the air a touch damp at the edges. It isn\u2019t a night for stars, and the UV is fast asleep; visibility is decent, but the sky wears a smudged, pewter calm that makes everything quieter than usual.\n\nToward dawn the cloud thickens and a light, passing rain is likely, leaving pavements dark and tidy. Expect a muted start to the day with only stingy hints of sun, so the UV stays modest unless the ceiling breaks later. A thin layer and a light rain shell will suit, with shoes that don\u2019t mind a wet kerb. If you\u2019re awake, make a slow cup and straighten a drawer; after the shower moves on, fetch bread from somewhere nearby or run a small errand, letting the cool, grey morning set the tempo.",
+    "color_code": "#4F5D6A",
+    "timestamp": "2025-10-18 00:27:24",
     "location": {
         "name": "Subiaco",
         "latitude": -31.94970106834354,
