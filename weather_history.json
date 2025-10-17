@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-10-10 16:29:23",
-    "location": {
-      "name": "Denmark",
-      "latitude": -34.986546563522,
-      "longitude": 117.3441690418655,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-10T08:29:22+00:00",
-      "temperature_c": 16.19,
-      "temperature_f": 61.142,
-      "humidity": 63,
-      "wind_speed_mph": 14.27206,
-      "wind_direction": 242,
-      "description": "broken clouds"
-    },
-    "report_summary": "Denmark settles under a washed-grey sky this afternoon, pavements dark and gleaming from the midday ...",
-    "color_code": "#6E7B8B"
-  },
-  {
     "timestamp": "2025-10-10 20:44:58",
     "location": {
       "name": "Ocean Beach",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Subiaco settles into the small hours under a quilt of broken cloud; the night feels hushed, streetli...",
     "color_code": "#4F5D6A"
+  },
+  {
+    "timestamp": "2025-10-18 04:24:27",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94970106834354,
+      "longitude": 115.8207145764352,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-17T20:24:27+00:00",
+      "temperature_c": 18.53,
+      "temperature_f": 65.354,
+      "humidity": 74,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 280,
+      "description": "drizzle"
+    },
+    "report_summary": "Subiaco wakes to a soft, showery hush; the streets look lacquered, and the sky is the color of tin. ...",
+    "color_code": "#5e6a77"
   }
 ]
