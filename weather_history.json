@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-09 20:46:35",
-    "location": {
-      "name": "Denmark",
-      "latitude": -34.98643905318571,
-      "longitude": 117.3440420413964,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-09T12:46:35+00:00",
-      "temperature_c": 12.41,
-      "temperature_f": 54.338,
-      "humidity": 70,
-      "wind_speed_mph": 10.603380000000001,
-      "wind_direction": 262,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Across Denmark the afternoon drifted under broken clouds, the sun filtering in and out in brief, for...",
-    "color_code": "#2F3A4A"
-  },
-  {
-    "timestamp": "2025-10-10 00:29:36",
-    "location": {
-      "name": "Denmark",
-      "latitude": -34.98643905318571,
-      "longitude": 117.3440420413964,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-09T16:29:36+00:00",
-      "temperature_c": 12.57,
-      "temperature_f": 54.626,
-      "humidity": 68,
-      "wind_speed_mph": 8.74667,
-      "wind_direction": 262,
-      "description": "broken clouds"
-    },
-    "report_summary": "After midnight, Denmark has slipped into a damp hush, the evening\u2019s broken clouds having surrendered...",
-    "color_code": "#2E3A47"
-  },
-  {
     "timestamp": "2025-10-10 04:24:29",
     "location": {
       "name": "Denmark",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Before sunrise in Subiaco, the streets are hushed and cool, the sky readying a clean, clear dawn. Fo...",
     "color_code": "#5E86B5"
+  },
+  {
+    "timestamp": "2025-10-17 09:43:07",
+    "location": {
+      "name": "North Perth",
+      "latitude": -31.935687647824,
+      "longitude": 115.8490977258708,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-17T01:43:06+00:00",
+      "temperature_c": 25.22,
+      "temperature_f": 77.396,
+      "humidity": 45,
+      "wind_speed_mph": 9.21644,
+      "wind_direction": 60,
+      "description": "clear sky"
+    },
+    "report_summary": "North Perth wakes to a clean, unclouded sky and that particular spring brightness that makes the gar...",
+    "color_code": "#87CEEB"
   }
 ]
