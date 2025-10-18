@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-10 20:44:58",
-    "location": {
-      "name": "Ocean Beach",
-      "latitude": -34.98759840117217,
-      "longitude": 117.2544742662165,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-10T12:44:57+00:00",
-      "temperature_c": 13.7,
-      "temperature_f": 56.66,
-      "humidity": 65,
-      "wind_speed_mph": 8.187420000000001,
-      "wind_direction": 260,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Ocean Beach spent the morning under a dull lid of overcast, then loosened to broken clouds by late m...",
-    "color_code": "#5B6773"
-  },
-  {
-    "timestamp": "2025-10-11 00:27:34",
-    "location": {
-      "name": "Ocean Beach",
-      "latitude": -34.98759840117217,
-      "longitude": 117.2544742662165,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-10T16:27:33+00:00",
-      "temperature_c": 12.13,
-      "temperature_f": 53.834,
-      "humidity": 77,
-      "wind_speed_mph": 5.97279,
-      "wind_direction": 288,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Ocean Beach settles under a quilt of cloud just past midnight, the surf sounding larger than it look...",
-    "color_code": "#2B303B"
-  },
-  {
     "timestamp": "2025-10-11 04:23:50",
     "location": {
       "name": "Ocean Beach",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Subiaco wakes to a soft, showery hush; the streets look lacquered, and the sky is the color of tin. ...",
     "color_code": "#5e6a77"
+  },
+  {
+    "timestamp": "2025-10-18 09:38:39",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.9497005440687,
+      "longitude": 115.8207150407761,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-18T01:38:38+00:00",
+      "temperature_c": 20.16,
+      "temperature_f": 68.288,
+      "humidity": 60,
+      "wind_speed_mph": 18.410510000000002,
+      "wind_direction": 260,
+      "description": "broken clouds"
+    },
+    "report_summary": "Morning in Subiaco wears a soft, silvery lid of cloud, the pavements darkened by passing light showe...",
+    "color_code": "#6E7A88"
   }
 ]
