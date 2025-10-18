@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-11 09:38:16",
-    "location": {
-      "name": "Denmark",
-      "latitude": -34.98645935984428,
-      "longitude": 117.3440300383201,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-11T01:38:15+00:00",
-      "temperature_c": 15.32,
-      "temperature_f": 59.576,
-      "humidity": 65,
-      "wind_speed_mph": 8.07557,
-      "wind_direction": 292,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Denmark wakes under a soft, unwavering lid of cloud, the morning light diffused to a gentle pewter. ...",
-    "color_code": "#A3ABB3"
-  },
-  {
-    "timestamp": "2025-10-11 12:24:26",
-    "location": {
-      "name": "Denmark",
-      "latitude": -34.98645935984428,
-      "longitude": 117.3440300383201,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-11T04:24:25+00:00",
-      "temperature_c": 18.64,
-      "temperature_f": 65.55199999999999,
-      "humidity": 52,
-      "wind_speed_mph": 8.65719,
-      "wind_direction": 285,
-      "description": "broken clouds"
-    },
-    "report_summary": "Denmark slipped from a blanket of morning grey into a more generous noon, the cloud cover torn into ...",
-    "color_code": "#9CB3C9"
-  },
-  {
     "timestamp": "2025-10-11 16:25:22",
     "location": {
       "name": "Denmark",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Subiaco is easing toward evening under a patchwork sky, the sun slipping through breaks in the cloud...",
     "color_code": "#7B8792"
+  },
+  {
+    "timestamp": "2025-10-18 20:40:34",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94967779354204,
+      "longitude": 115.8207628978983,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-18T12:40:34+00:00",
+      "temperature_c": 16.81,
+      "temperature_f": 62.257999999999996,
+      "humidity": 67,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 230,
+      "description": "broken clouds"
+    },
+    "report_summary": "Evening in Subiaco settles in with a fractured ceiling of cloud and a softened, silvery glow from st...",
+    "color_code": "#2E4057"
   }
 ]
