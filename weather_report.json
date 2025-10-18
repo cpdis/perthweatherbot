@@ -7,34 +7,34 @@
             "longitude": 115.8207628978983
         },
         "current_conditions": {
-            "timestamp": "2025-10-18T12:40:34+00:00",
-            "temperature_c": 16.81,
-            "temperature_f": 62.257999999999996,
-            "humidity": 67,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 230,
-            "description": "broken clouds"
+            "timestamp": "2025-10-18T16:24:48+00:00",
+            "temperature_c": 14.88,
+            "temperature_f": 58.784000000000006,
+            "humidity": 74,
+            "wind_speed_mph": 6.91233,
+            "wind_direction": 40,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-18T15:00:00+00:00",
-                "temperature": 16.86,
-                "windSpeed": 8.008460000000001,
-                "windDirection": 253,
-                "shortForecast": "broken clouds"
-            },
-            {
                 "startTime": "2025-10-18T18:00:00+00:00",
-                "temperature": 16.76,
+                "temperature": 15.3,
                 "windSpeed": 8.0532,
                 "windDirection": 268,
                 "shortForecast": "light rain"
+            },
+            {
+                "startTime": "2025-10-18T21:00:00+00:00",
+                "temperature": 15.47,
+                "windSpeed": 5.45828,
+                "windDirection": 313,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Evening in Subiaco settles in with a fractured ceiling of cloud and a softened, silvery glow from streetlights; any bite from the sun has long gone, and the UV risk is essentially nil. The day has been more matte than glossy, with limited sunshine and a veil of cloud that kept the light diffuse; later tonight the sky leans toward light showers, the kind that darken the pavement and sharpen the scent of gum leaves. It\u2019s a gentle, slightly damp sort of night\u2014pleasant enough if you like a quiet amble, not so kind to bare shoulders or sandals.\n\nDress in light layers and a thin waterproof or compact umbrella, closed shoes to dodge puddles, and you\u2019ll be fine. Good hours for small, ordinary comforts: pick up something warm from a nearby kitchen, flip through a book at home, queue a record or a podcast, tidy the desk for tomorrow. If you need to get out, a short stroll between awnings feels right; watch the reflections gather and let the day exhale.",
-    "color_code": "#2E4057",
-    "timestamp": "2025-10-18 20:40:34",
+    "weather_report": "Subiaco slips past midnight under a ceiling of broken cloud, the streets still a little glossy from earlier light rain. The night feels rinsed and quiet, with only a faint glow where the clouds thin. Sunshine will be limited when morning stirs\u2014more filtered silver than bright gold\u2014so the UV index is nil now and likely modest after sunrise, softened by the cloud. Visibility is decent, edges slightly softened by lingering damp. It looks like a mostly gentle day rather than a sparkling one: serviceable, calm, the kind that invites unhurried plans.\n\nDress in light layers with a small umbrella in your bag, closed shoes for the damp, and sunglasses for those moments when the sun finds the gaps. If you\u2019re up early, a slow walk to a caf\u00e9 suits the mood; later, tidy the garden after the drizzle, browse the library stacks, or run a few errands while the sky plays at being undecided. It\u2019s weather for steady rhythms rather than grand gestures.",
+    "color_code": "#2F3A4F",
+    "timestamp": "2025-10-19 00:24:49",
     "location": {
         "name": "Subiaco",
         "latitude": -31.94967779354204,
