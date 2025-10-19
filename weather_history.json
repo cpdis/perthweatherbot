@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-12 09:45:38",
-    "location": {
-      "name": "Denmark",
-      "latitude": -34.95873614999999,
-      "longitude": 117.3620367833334,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-12T01:45:37+00:00",
-      "temperature_c": 20.28,
-      "temperature_f": 68.504,
-      "humidity": 55,
-      "wind_speed_mph": 10.133610000000001,
-      "wind_direction": 269,
-      "description": "clear sky"
-    },
-    "report_summary": "Denmark wakes to a clean, roomy sky, the sun already brightening rooftops while a few friendly cloud...",
-    "color_code": "#A6D5F2"
-  },
-  {
-    "timestamp": "2025-10-12 12:24:45",
-    "location": {
-      "name": "Porongurup",
-      "latitude": -34.69442793477149,
-      "longitude": 117.922951754722,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-12T04:24:44+00:00",
-      "temperature_c": 19.47,
-      "temperature_f": 67.04599999999999,
-      "humidity": 55,
-      "wind_speed_mph": 12.61668,
-      "wind_direction": 311,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Late morning in Porongurup arrives with a kind, silvery light, the sun slipping between patches of c...",
-    "color_code": "#8FAEC6"
-  },
-  {
     "timestamp": "2025-10-12 16:25:44",
     "location": {
       "name": "Arthur River",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon in Subiaco is slipping into a soft grey, the light thinning as clouds gather with tha...",
     "color_code": "#6B7A8F"
+  },
+  {
+    "timestamp": "2025-10-19 20:40:33",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969888032523,
+      "longitude": 115.8207099932177,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-19T12:40:32+00:00",
+      "temperature_c": 14.17,
+      "temperature_f": 57.506,
+      "humidity": 72,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 260,
+      "description": "few clouds"
+    },
+    "report_summary": "Evening has settled over Subiaco with the sky torn into moving panels of cloud, the streets still be...",
+    "color_code": "#3B4A6B"
   }
 ]
