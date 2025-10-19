@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94966196574544,
-            "longitude": 115.820961363191
+            "latitude": -31.94969929902449,
+            "longitude": 115.8207156351378
         },
         "current_conditions": {
-            "timestamp": "2025-10-19T01:54:59+00:00",
-            "temperature_c": 17.92,
-            "temperature_f": 64.256,
-            "humidity": 70,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 360,
-            "description": "light rain"
+            "timestamp": "2025-10-19T04:26:35+00:00",
+            "temperature_c": 19.2,
+            "temperature_f": 66.56,
+            "humidity": 67,
+            "wind_speed_mph": 19.57375,
+            "wind_direction": 310,
+            "description": "moderate rain"
         },
         "forecast": [
             {
-                "startTime": "2025-10-19T03:00:00+00:00",
-                "temperature": 17.92,
-                "windSpeed": 13.891770000000001,
-                "windDirection": 301,
+                "startTime": "2025-10-19T06:00:00+00:00",
+                "temperature": 20,
+                "windSpeed": 19.0145,
+                "windDirection": 263,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-10-19T06:00:00+00:00",
-                "temperature": 19.14,
-                "windSpeed": 19.0145,
-                "windDirection": 263,
+                "startTime": "2025-10-19T09:00:00+00:00",
+                "temperature": 16.91,
+                "windSpeed": 11.654770000000001,
+                "windDirection": 222,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a soft grey canopy, the morning light diffused like gauze over verandas and shopfronts. The sun is a rumor behind the cloudbank, offering only brief, milky glimmers; visibility is clean but edges are softened, the day more watercolor than ink. UV will still assert itself around midday, even through the veil, so it is a day for quiet caution rather than bravado.\n\nExpect light, passing showers to drift in through late morning and into the afternoon, the kind that freckle pavements and leave the air smelling rinsed and mild. It\u2019s pleasant in a subdued way\u2014cool enough to feel crisp, gentle enough to invite a stroll between awnings. Dress in breathable layers with a light waterproof or compact umbrella, comfortable shoes you don\u2019t mind getting a little damp, and a touch of sunscreen if you linger outdoors. This is a good day to nurse a coffee by a window, browse the stacks at the library, poke through a grocer\u2019s aisles for something fresh, or take a slow detour through a gallery\u2014errands and small pleasures threaded together at an easy pace.",
-    "color_code": "#8FA3B6",
-    "timestamp": "2025-10-19 09:55:00",
+    "weather_report": "Midday in Subiaco drifts in under a pale, woolly sky, the sun diluted to a soft glow that brightens but does not dazzle. The air feels mild and a touch heavy, hinting at showers that look likely to slip in during the later afternoon and towards early evening as light rain brushes through. Expect only modest sunshine, with the UV softened by cloud yet still worth respecting around lunchtime; a hat and a dab of sunscreen won\u2019t go astray. The day reads as gently unsettled, edges blurred, with visibility clear enough but the light turning silvery and subdued.\n\nDress for ease and changeability: light layers, a breathable shirt, and a compact rain jacket or small umbrella in your bag; comfortable shoes that won\u2019t sulk at damp pavements. It\u2019s a good afternoon to linger over a cafe lunch under an awning, pick up a few small errands, or wander a quiet gallery before the sprinkles arrive. If you crave a stretch of air, take a short amble through the neighborhood now, then retreat indoors for a book or a matinee when the first drops tick the windows.",
+    "color_code": "#90a4ae",
+    "timestamp": "2025-10-19 12:26:35",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94966196574544,
-        "longitude": 115.820961363191,
+        "latitude": -31.94969929902449,
+        "longitude": 115.8207156351378,
         "timezone": "Australia/Perth"
     }
 }

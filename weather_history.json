@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-10-12 04:20:59",
-    "location": {
-      "name": "Denmark",
-      "latitude": -34.95992869687829,
-      "longitude": 117.3543191759527,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-11T20:20:58+00:00",
-      "temperature_c": 12.48,
-      "temperature_f": 54.464,
-      "humidity": 94,
-      "wind_speed_mph": 5.77146,
-      "wind_direction": 326,
-      "description": "overcast clouds"
-    },
-    "report_summary": "At this small hour in Denmark the sky is a quilt of broken cloud left behind by last night\u2019s overcas...",
-    "color_code": "#5A6B79"
-  },
-  {
     "timestamp": "2025-10-12 09:45:38",
     "location": {
       "name": "Denmark",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Subiaco wakes under a soft grey canopy, the morning light diffused like gauze over verandas and shop...",
     "color_code": "#8FA3B6"
+  },
+  {
+    "timestamp": "2025-10-19 12:26:35",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969929902449,
+      "longitude": 115.8207156351378,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-19T04:26:35+00:00",
+      "temperature_c": 19.2,
+      "temperature_f": 66.56,
+      "humidity": 67,
+      "wind_speed_mph": 19.57375,
+      "wind_direction": 310,
+      "description": "moderate rain"
+    },
+    "report_summary": "Midday in Subiaco drifts in under a pale, woolly sky, the sun diluted to a soft glow that brightens ...",
+    "color_code": "#90a4ae"
   }
 ]
