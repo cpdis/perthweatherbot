@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-10-12 16:25:44",
-    "location": {
-      "name": "Arthur River",
-      "latitude": -33.23881973333334,
-      "longitude": 117.003254,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-12T08:25:44+00:00",
-      "temperature_c": 22.06,
-      "temperature_f": 71.708,
-      "humidity": 44,
-      "wind_speed_mph": 11.4087,
-      "wind_direction": 259,
-      "description": "clear sky"
-    },
-    "report_summary": "Arthur River spends the late afternoon under a polished blue sky, the kind that makes edges sharp an...",
-    "color_code": "#E8C37A"
-  },
-  {
     "timestamp": "2025-10-12 20:40:03",
     "location": {
       "name": "Subiaco",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Subiaco settles into a quiet, blue-black after-midnight with a quilt of broken cloud softening the s...",
     "color_code": "#2e4057"
+  },
+  {
+    "timestamp": "2025-10-20 04:22:54",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969888032523,
+      "longitude": 115.8207099932177,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-19T20:22:54+00:00",
+      "temperature_c": 11.21,
+      "temperature_f": 52.178000000000004,
+      "humidity": 75,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 30,
+      "description": "few clouds"
+    },
+    "report_summary": "Subiaco wakes to a quiet, rain-brushed dawn, the streets rinsed dark and the sky sealed in soft grey...",
+    "color_code": "#4B5E6A"
   }
 ]
