@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95413284728876,
-            "longitude": 115.8527170967727
+            "latitude": -31.94969983010002,
+            "longitude": 115.8207121570252
         },
         "current_conditions": {
-            "timestamp": "2025-10-20T08:30:37+00:00",
-            "temperature_c": 13.5,
-            "temperature_f": 56.3,
-            "humidity": 88,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 120,
-            "description": "light rain"
+            "timestamp": "2025-10-20T12:47:49+00:00",
+            "temperature_c": 12.16,
+            "temperature_f": 53.888,
+            "humidity": 80,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 220,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-20T09:00:00+00:00",
-                "temperature": 13.5,
-                "windSpeed": 3.53446,
-                "windDirection": 254,
-                "shortForecast": "moderate rain"
+                "startTime": "2025-10-20T15:00:00+00:00",
+                "temperature": 11.38,
+                "windSpeed": 13.73518,
+                "windDirection": 182,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2025-10-20T12:00:00+00:00",
-                "temperature": 13.17,
-                "windSpeed": 17.35912,
-                "windDirection": 174,
-                "shortForecast": "moderate rain"
+                "startTime": "2025-10-20T18:00:00+00:00",
+                "temperature": 9.13,
+                "windSpeed": 13.757550000000002,
+                "windDirection": 168,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Perth slips toward evening under a lid of cloud, the light already thinning at half past four. The first proper band of rain is poised to arrive around sundown and settle in for the evening, a steady, moderate patter that turns pavements glossy and softens the edges of the skyline. Sunshine will be scarce to none, and the UV is effectively a non-issue now; the day feels muted, with clarity dimmed to a comfortable hush rather than a murk.\n\nDress for damp: a light waterproof with a hood or a no-nonsense umbrella, shoes that won\u2019t skate on wet tile, and a dry layer to pull on later. If you\u2019ve errands, take care of the quick ones before the heaviest showers set in; after that, lean into indoor comforts\u2014a quiet window seat at a neighborhood cafe, a simple grocery run for something to simmer, or the unglamorous pleasure of sorting a drawer while the rain taps time on the roof. Travel unhurried; the roads will ask for patience.",
-    "color_code": "#5D6E7A",
-    "timestamp": "2025-10-20 16:30:38",
+    "weather_report": "Evening has settled over Subiaco with a thick ceiling of cloud, the moon smudged to a pale thumbprint and the air carrying that damp, metallic hush before rain. There will be little to no sunshine now and the UV index is effectively nil; even at dawn, if the cloud holds, the light should feel muted and gentle. Clarity is low, edges softened under the streetlamps\u2019 halos, a night that encourages quieter steps and unhurried thoughts.\n\nLater tonight the overcast looks set to give way to a light, nagging rain, the kind that freckles windows and darkens the pavement rather than storms the senses. Dress for a cool, grey stretch: a light waterproof or trusty rain shell, closed shoes, and an umbrella you won\u2019t mind carrying. It\u2019s pleasant in a subdued way\u2014good for a short stroll beneath verandas, a simple takeaway picked up on foot, or a tram ride with a book you\u2019ve been meaning to finish. At home, put the kettle on, clear the day\u2019s crumbs from the counter, lay out tomorrow\u2019s kit, and let the soft drum of showers set the metronome for an early night.",
+    "color_code": "#3A4551",
+    "timestamp": "2025-10-20 20:47:50",
     "location": {
-        "name": "Perth",
-        "latitude": -31.95413284728876,
-        "longitude": 115.8527170967727,
+        "name": "Subiaco",
+        "latitude": -31.94969983010002,
+        "longitude": 115.8207121570252,
         "timezone": "Australia/Perth"
     }
 }
