@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "West Perth",
             "country": "AU",
-            "latitude": -31.94969888032523,
-            "longitude": 115.8207099932177
+            "latitude": -31.95234960965108,
+            "longitude": 115.8394995312353
         },
         "current_conditions": {
-            "timestamp": "2025-10-19T20:22:54+00:00",
-            "temperature_c": 11.21,
-            "temperature_f": 52.178000000000004,
-            "humidity": 75,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 30,
-            "description": "few clouds"
+            "timestamp": "2025-10-20T01:52:14+00:00",
+            "temperature_c": 17.27,
+            "temperature_f": 63.086,
+            "humidity": 59,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 20,
+            "description": "light intensity shower rain"
         },
         "forecast": [
             {
-                "startTime": "2025-10-19T21:00:00+00:00",
-                "temperature": 11.21,
-                "windSpeed": 5.97279,
-                "windDirection": 345,
+                "startTime": "2025-10-20T03:00:00+00:00",
+                "temperature": 17.27,
+                "windSpeed": 11.67714,
+                "windDirection": 334,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-10-20T00:00:00+00:00",
-                "temperature": 12.02,
-                "windSpeed": 9.68621,
-                "windDirection": 36,
-                "shortForecast": "light rain"
+                "startTime": "2025-10-20T06:00:00+00:00",
+                "temperature": 17.1,
+                "windSpeed": 12.281130000000001,
+                "windDirection": 338,
+                "shortForecast": "moderate rain"
             }
         ]
     },
-    "weather_report": "Subiaco wakes to a quiet, rain-brushed dawn, the streets rinsed dark and the sky sealed in soft grey. Light rain is set to visit around first light and into the morning, so sunshine will be shy for a while; the UV sits low at this hour and should stay subdued while the clouds hold, only sharpening later if they thin. The day begins muted and contemplative rather than crystalline, edges softened by drizzle and the occasional hiss of tyres on wet pavement.\n\nDress for a cool, damp start: a light waterproof or hooded layer and shoes that don\u2019t mind puddles. Let the morning unroll gently\u2014wait out the passing showers with a slow coffee by a window, sort a few errands under awnings once shops stir, or put in a tidy hour at the desk while the rain keeps its patient tempo. If the rain slackens, take a brief wander beneath the trees to breathe the petrichor and then return to the day\u2019s small, steady work. Later possibilities depend on the sky, so keep plans flexible and the jacket near.",
-    "color_code": "#4B5E6A",
-    "timestamp": "2025-10-20 04:22:54",
+    "weather_report": "West Perth wakes under a lid of cloud, the light silvery and thin, the day hushed as if the city were speaking softly. Expect the first shy drops late in the morning, then a steadier, more purposeful rain through early afternoon. Sunshine will be fleeting at best; the UV looks subdued under this blanket, though a brief bright gap could still catch unguarded skin. The air will feel clean and cool, the horizon a little smudged by showers, streets taking on that dark, rain-polished sheen that makes colors quietly vivid.\n\nIt\u2019s a day for a light waterproof and comfortable layers, shoes that don\u2019t mind puddles, and an umbrella that knows its job. If you\u2019ve errands, take them on before the rain settles in; otherwise, let the afternoon be gentle work indoors: a tidy of the desk, a slow simmer on the stove, a library visit, or a short tram or bus hop to somewhere with a good window and better coffee. When the rain eases, step out for a brisk loop around the block and breathe the softened air.",
+    "color_code": "#6F7A84",
+    "timestamp": "2025-10-20 09:52:15",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94969888032523,
-        "longitude": 115.8207099932177,
+        "name": "West Perth",
+        "latitude": -31.95234960965108,
+        "longitude": 115.8394995312353,
         "timezone": "Australia/Perth"
     }
 }
