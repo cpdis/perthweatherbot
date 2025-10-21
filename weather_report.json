@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95413487398567,
-            "longitude": 115.852661219034
+            "latitude": -31.9496798295136,
+            "longitude": 115.8208351957753
         },
         "current_conditions": {
-            "timestamp": "2025-10-21T08:24:49+00:00",
-            "temperature_c": 20.16,
-            "temperature_f": 68.288,
-            "humidity": 57,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 240,
-            "description": "few clouds"
+            "timestamp": "2025-10-21T12:49:28+00:00",
+            "temperature_c": 15.36,
+            "temperature_f": 59.648,
+            "humidity": 75,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 200,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-10-21T09:00:00+00:00",
-                "temperature": 19.97,
-                "windSpeed": 13.46674,
-                "windDirection": 205,
-                "shortForecast": "few clouds"
+                "startTime": "2025-10-21T15:00:00+00:00",
+                "temperature": 14.68,
+                "windSpeed": 7.359730000000001,
+                "windDirection": 157,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-10-21T12:00:00+00:00",
-                "temperature": 18.84,
-                "windSpeed": 10.2902,
-                "windDirection": 184,
-                "shortForecast": "few clouds"
+                "startTime": "2025-10-21T18:00:00+00:00",
+                "temperature": 12.99,
+                "windSpeed": 4.72007,
+                "windDirection": 131,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Perth slips into late afternoon under a pale, well-behaved sky, the sun softened by just a few idle clouds. Expect the rest of the day to stay mostly sunny and clean-lined, with the light turning golden toward five and easing into a clear, gentle evening. The UV bite is fading now; it was strong earlier, but at this hour it is sliding toward forgiving, though a little sun sense is still wise if you linger outdoors before dusk. The air feels uncomplicated and dry, the horizon sharp, the sort of clarity that makes small details pop\u2014gum leaves, verandas, the river\u2019s quiet steel-blue surface.\n\nDress in light, breathable layers; sunglasses for the next hour, then a cardigan or light sweater as the warmth drains away. It\u2019s a good time for ordinary pleasures: a short walk to the corner shop, clipping a few herbs for dinner, a lap around the block with the dog, or finishing that half-read book on the back step while the day quietly folds itself up. If you\u2019ve washing to do, the last of the sun will still help; if you\u2019ve been indoors, step out and let the calm light rinse your eyes before evening settles.",
-    "color_code": "#F2B866",
-    "timestamp": "2025-10-21 16:31:57",
+    "weather_report": "Subiaco slips into night under a flawless, ink-blue dome, the air steady and untroubled. Sunshine is gone from the stage and the UV has fallen to almost nothing; the forecast holds to clear skies through late evening and after midnight, so the night should stay transparent and quiet. The scene feels clean-edged and pleasant rather than chilly, the sort of clarity that makes streetlights look crisper and sound carry a little farther.\n\nLight layers will serve you best: a tee with a cardigan or a thin jumper if you\u2019re out, easy shoes for an unhurried loop around the block. With the sky so clean, it\u2019s a good evening to water the garden, sit on the veranda with a chapter or two, take out the bins, or tune a bike chain for tomorrow\u2019s ride. If the clear spell lingers into morning, expect bright sun in short order, but for now the UV rests.",
+    "color_code": "#0b1e3a",
+    "timestamp": "2025-10-21 20:49:28",
     "location": {
-        "name": "Perth",
-        "latitude": -31.95413487398567,
-        "longitude": 115.852661219034,
+        "name": "Subiaco",
+        "latitude": -31.9496798295136,
+        "longitude": 115.8208351957753,
         "timezone": "Australia/Perth"
     }
 }
