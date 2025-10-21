@@ -7,34 +7,34 @@
             "longitude": 115.8208351957753
         },
         "current_conditions": {
-            "timestamp": "2025-10-21T12:49:28+00:00",
-            "temperature_c": 15.36,
-            "temperature_f": 59.648,
-            "humidity": 75,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 200,
+            "timestamp": "2025-10-21T16:28:55+00:00",
+            "temperature_c": 12.32,
+            "temperature_f": 54.176,
+            "humidity": 84,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 150,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-10-21T15:00:00+00:00",
-                "temperature": 14.68,
-                "windSpeed": 7.359730000000001,
-                "windDirection": 157,
-                "shortForecast": "clear sky"
-            },
-            {
                 "startTime": "2025-10-21T18:00:00+00:00",
-                "temperature": 12.99,
+                "temperature": 12.17,
                 "windSpeed": 4.72007,
                 "windDirection": 131,
                 "shortForecast": "clear sky"
+            },
+            {
+                "startTime": "2025-10-21T21:00:00+00:00",
+                "temperature": 11.49,
+                "windSpeed": 4.76481,
+                "windDirection": 81,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Subiaco slips into night under a flawless, ink-blue dome, the air steady and untroubled. Sunshine is gone from the stage and the UV has fallen to almost nothing; the forecast holds to clear skies through late evening and after midnight, so the night should stay transparent and quiet. The scene feels clean-edged and pleasant rather than chilly, the sort of clarity that makes streetlights look crisper and sound carry a little farther.\n\nLight layers will serve you best: a tee with a cardigan or a thin jumper if you\u2019re out, easy shoes for an unhurried loop around the block. With the sky so clean, it\u2019s a good evening to water the garden, sit on the veranda with a chapter or two, take out the bins, or tune a bike chain for tomorrow\u2019s ride. If the clear spell lingers into morning, expect bright sun in short order, but for now the UV rests.",
-    "color_code": "#0b1e3a",
-    "timestamp": "2025-10-21 20:49:28",
+    "weather_report": "Subiaco settles into a quiet, lucid night, the sky mostly clear and the streets wearing that soft midnight hush. UV is effectively nil now, the stars unblunted, the air feeling clean around the edges. Toward the small hours, a few clouds begin to drift in, the kind that slip past without drama and let the first light through.\n\nBy dawn, expect scattered cloud with broad strokes of sunshine breaking it up; the day should look bright more often than not, and the UV will climb quickly after breakfast, so think hat, sunglasses, and sunscreen if you\u2019ll be out a while. It feels like a light-layers morning: a soft jumper for the early chill, easy to shed as the light gathers. This is good weather for the ordinary pleasures\u2014an early dog walk, a quiet ride to the bakery, watering the garden before the sun bites, or an amble to the train with coffee in hand. If you\u2019re awake now, a short stretch on the porch suits the hour; later, let the windows open to the breeze and keep errands unhurried.",
+    "color_code": "#0B1E3C",
+    "timestamp": "2025-10-22 00:28:55",
     "location": {
         "name": "Subiaco",
         "latitude": -31.9496798295136,
