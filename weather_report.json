@@ -3,42 +3,42 @@
         "location": {
             "name": "Perth",
             "country": "AU",
-            "latitude": -31.95412838554542,
-            "longitude": 115.8526580893387
+            "latitude": -31.95412837411951,
+            "longitude": 115.8526580842128
         },
         "current_conditions": {
-            "timestamp": "2025-10-22T04:26:53+00:00",
-            "temperature_c": 22.05,
-            "temperature_f": 71.69,
-            "humidity": 48,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 290,
-            "description": "few clouds"
+            "timestamp": "2025-10-22T08:32:51+00:00",
+            "temperature_c": 20.77,
+            "temperature_f": 69.386,
+            "humidity": 52,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 250,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-10-22T06:00:00+00:00",
-                "temperature": 21.1,
-                "windSpeed": 12.59431,
-                "windDirection": 231,
-                "shortForecast": "few clouds"
+                "startTime": "2025-10-22T09:00:00+00:00",
+                "temperature": 20.77,
+                "windSpeed": 13.24304,
+                "windDirection": 207,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-10-22T09:00:00+00:00",
-                "temperature": 21.12,
-                "windSpeed": 13.69044,
-                "windDirection": 204,
-                "shortForecast": "few clouds"
+                "startTime": "2025-10-22T12:00:00+00:00",
+                "temperature": 19.08,
+                "windSpeed": 12.16928,
+                "windDirection": 184,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Perth sits under a high, clean light at midday, the sky mostly open with only a few modest clouds expected to wander through the afternoon. The day feels clear and decisive, visibility wide and colors bright. It should remain largely sunny as the hours slide toward late afternoon. UV is punchy now and will mellow later; for the moment, the sun asks for a little deference.\n\nIt\u2019s a pleasant day if you chase shade at first. Wear light, breathable layers with a brimmed hat, sunglasses, and a sweep of sunscreen; keep water close. A quiet lunch on a verandah or under a generous tree suits the hour, followed by a quick errand on foot or a spell of reading by a bright window. As the sun softens later, a short spin on the bike, a meander through the neighborhood, or tending to small garden tasks would fit the mood of this clear, steady afternoon.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-10-22 12:26:54",
+    "weather_report": "Perth leans into late afternoon with a sky polished to a quiet, endless blue. The light is clear and flattering, shadows long and crisp, the sun still bright enough to dazzle but already softening at the edges. UV glare is easing now, no longer the stern midday bite, and the air feels open and uncomplicated, the kind of clarity that makes colors seem a shade more honest.\n\nExpect the evening to stay cloudless and serene, cooling gently after sunset. Dress light while the sun lingers, but carry a soft layer for the first hint of night air; sunglasses are still wise if you\u2019re out before dinner, a dab of sunscreen if you\u2019ll linger. It\u2019s a good time to take the slow way home, let a short errand become a little walk, water the plants and listen to them drink, or sit by an open window with a book while the rooms trade the day\u2019s heat for a calmer hush.",
+    "color_code": "#F4C26B",
+    "timestamp": "2025-10-22 16:32:52",
     "location": {
         "name": "Perth",
-        "latitude": -31.95412838554542,
-        "longitude": 115.8526580893387,
+        "latitude": -31.95412837411951,
+        "longitude": 115.8526580842128,
         "timezone": "Australia/Perth"
     }
 }
