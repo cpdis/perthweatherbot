@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-14 20:49:16",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970252427791,
-      "longitude": 115.8207063517939,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-14T12:49:16+00:00",
-      "temperature_c": 16.8,
-      "temperature_f": 62.24,
-      "humidity": 74,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 230,
-      "description": "broken clouds"
-    },
-    "report_summary": "Evening has settled over Subiaco with a quilt of broken cloud drifting across the sky, softening the...",
-    "color_code": "#2e3440"
-  },
-  {
-    "timestamp": "2025-10-15 00:28:18",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970252427791,
-      "longitude": 115.8207063517939,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-14T16:28:18+00:00",
-      "temperature_c": 16.43,
-      "temperature_f": 61.574,
-      "humidity": 74,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 220,
-      "description": "broken clouds"
-    },
-    "report_summary": "Subiaco settles under a quilt of broken cloud just past midnight, the sky smudged and shy of starlig...",
-    "color_code": "#2C3E50"
-  },
-  {
     "timestamp": "2025-10-15 04:24:05",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Pre-dawn in Subiaco is hushed and cool, the sky largely clear and beginning to pale at the edges. It...",
     "color_code": "#0B1E3A"
+  },
+  {
+    "timestamp": "2025-10-22 09:49:21",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.9496798295136,
+      "longitude": 115.8208351957753,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-22T01:49:20+00:00",
+      "temperature_c": 18.98,
+      "temperature_f": 66.164,
+      "humidity": 53,
+      "wind_speed_mph": 6.91233,
+      "wind_direction": 70,
+      "description": "clear sky"
+    },
+    "report_summary": "Mid-morning in Subiaco arrives bright and uncomplicated, the sky a polished pane with no cloud to sm...",
+    "color_code": "#9ED8FF"
   }
 ]
