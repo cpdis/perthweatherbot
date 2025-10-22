@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.9496798295136,
-            "longitude": 115.8208351957753
+            "latitude": -31.95412838554542,
+            "longitude": 115.8526580893387
         },
         "current_conditions": {
-            "timestamp": "2025-10-22T01:49:20+00:00",
-            "temperature_c": 18.98,
-            "temperature_f": 66.164,
-            "humidity": 53,
-            "wind_speed_mph": 6.91233,
-            "wind_direction": 70,
-            "description": "clear sky"
+            "timestamp": "2025-10-22T04:26:53+00:00",
+            "temperature_c": 22.05,
+            "temperature_f": 71.69,
+            "humidity": 48,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 290,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-22T03:00:00+00:00",
-                "temperature": 18.98,
-                "windSpeed": 5.79383,
-                "windDirection": 274,
-                "shortForecast": "clear sky"
+                "startTime": "2025-10-22T06:00:00+00:00",
+                "temperature": 21.1,
+                "windSpeed": 12.59431,
+                "windDirection": 231,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-10-22T06:00:00+00:00",
-                "temperature": 18.73,
-                "windSpeed": 12.95223,
-                "windDirection": 227,
-                "shortForecast": "clear sky"
+                "startTime": "2025-10-22T09:00:00+00:00",
+                "temperature": 21.12,
+                "windSpeed": 13.69044,
+                "windDirection": 204,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Mid-morning in Subiaco arrives bright and uncomplicated, the sky a polished pane with no cloud to smudge it. The forecast holds steady through the late morning and early afternoon, promising unabashed sunshine and that crisp spring clarity that makes colors pop and shadows neat. Expect the UV to surge quickly as the sun climbs; a hat, sunglasses, and sunscreen earn their keep, and a light long-sleeve wouldn\u2019t be out of place. Air feels dry and clean, the day leaning toward pleasantly warm rather than heavy, ideal for unhurried errands on foot, a quiet coffee in a shaded courtyard, or airing the house while you water balcony herbs. Dress in breathable layers and comfortable shoes, keep a bottle of water within reach, and let the simple rhythm of a clear day set the pace.",
-    "color_code": "#9ED8FF",
-    "timestamp": "2025-10-22 09:49:21",
+    "weather_report": "Perth sits under a high, clean light at midday, the sky mostly open with only a few modest clouds expected to wander through the afternoon. The day feels clear and decisive, visibility wide and colors bright. It should remain largely sunny as the hours slide toward late afternoon. UV is punchy now and will mellow later; for the moment, the sun asks for a little deference.\n\nIt\u2019s a pleasant day if you chase shade at first. Wear light, breathable layers with a brimmed hat, sunglasses, and a sweep of sunscreen; keep water close. A quiet lunch on a verandah or under a generous tree suits the hour, followed by a quick errand on foot or a spell of reading by a bright window. As the sun softens later, a short spin on the bike, a meander through the neighborhood, or tending to small garden tasks would fit the mood of this clear, steady afternoon.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-10-22 12:26:54",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.9496798295136,
-        "longitude": 115.8208351957753,
+        "name": "Perth",
+        "latitude": -31.95412838554542,
+        "longitude": 115.8526580893387,
         "timezone": "Australia/Perth"
     }
 }
