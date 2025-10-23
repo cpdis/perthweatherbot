@@ -7,34 +7,34 @@
             "longitude": 115.8208351957753
         },
         "current_conditions": {
-            "timestamp": "2025-10-23T12:49:33+00:00",
-            "temperature_c": 15.18,
-            "temperature_f": 59.324,
-            "humidity": 71,
+            "timestamp": "2025-10-23T16:28:50+00:00",
+            "temperature_c": 14.83,
+            "temperature_f": 58.694,
+            "humidity": 74,
             "wind_speed_mph": 5.74909,
-            "wind_direction": 220,
-            "description": "few clouds"
+            "wind_direction": 50,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-23T15:00:00+00:00",
-                "temperature": 15.09,
-                "windSpeed": 8.59008,
-                "windDirection": 262,
-                "shortForecast": "few clouds"
-            },
-            {
                 "startTime": "2025-10-23T18:00:00+00:00",
-                "temperature": 14.62,
+                "temperature": 14.71,
                 "windSpeed": 10.334940000000001,
                 "windDirection": 291,
-                "shortForecast": "few clouds"
+                "shortForecast": "scattered clouds"
+            },
+            {
+                "startTime": "2025-10-23T21:00:00+00:00",
+                "temperature": 14.64,
+                "windSpeed": 13.51148,
+                "windDirection": 251,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Evening has settled over Subiaco with an easy clarity: just a few clouds drifting and plenty of open sky between them. The air feels clean and uncomplicated, the kind of night where sound carries and streetlights glow softly instead of halos. The sun has long slipped away, promising no sting on the skin; the UV index is effectively nil now, and the stars, where the clouds part, look like neat pins set in dark velvet. Forecasts keep this calm through late evening and into the small hours, so the night should stay steady and agreeable. If the pattern holds, dawn may arrive with a pale, uncomplicated sky.\n\nIt\u2019s a night for comfort over fuss: a light layer or cardigan in case the breeze remembers its coolness, and shoes you don\u2019t mind ambling in. You could wander to the corner shop for milk, water the garden while the heat is gone, or sit on the veranda and return a message you meant to send at lunch. Windows can be opened to air the rooms, laundry can go on the rack without fear of a sudden sprinkle, and an unhurried walk after dinner might quiet the day without asking anything of you.",
-    "color_code": "#0D1B2A",
-    "timestamp": "2025-10-23 20:49:33",
+    "weather_report": "Subiaco settles into a cool, quiet midnight with a gauzy lid of cloud and a hint of moisture in the air. Toward the small hours the cover hangs on, and by dawn a light, fretful rain is likely to dapple pavements and soften the edges of the morning. It won\u2019t feel sunny early; UV is essentially nil overnight and very low at first light, with anything stronger only if the sky opens later. The world will look a shade muted and reflective, streetlights caught in damp leaves, visibility fine unless you\u2019re walking straight into a shower.\n\nIt\u2019s an unobtrusive sort of weather, neither harsh nor inviting, asking for a light layer and a compact rain shell if you\u2019re out before breakfast, and shoes you don\u2019t mind meeting wet footpaths. These hours suit modest errands: tidying a corner of the house, laying out tomorrow\u2019s bag, catching an early train with a paperback, or slipping to a nearby bakery under the awnings. As the morning develops, keep an eye on the clouds; if they thin, the day may brighten enough for a simple lunch outdoors, sunscreen in the pocket just in case.",
+    "color_code": "#2C3E50",
+    "timestamp": "2025-10-24 00:28:51",
     "location": {
         "name": "Subiaco",
         "latitude": -31.9496798295136,
