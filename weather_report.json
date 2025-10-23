@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94967434965919,
-            "longitude": 115.820913121056
+            "latitude": -31.9496741883217,
+            "longitude": 115.8209119223224
         },
         "current_conditions": {
-            "timestamp": "2025-10-23T04:26:42+00:00",
-            "temperature_c": 19.87,
-            "temperature_f": 67.766,
-            "humidity": 51,
+            "timestamp": "2025-10-23T08:30:58+00:00",
+            "temperature_c": 19.18,
+            "temperature_f": 66.524,
+            "humidity": 52,
             "wind_speed_mph": 16.1064,
-            "wind_direction": 210,
+            "wind_direction": 230,
             "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-23T06:00:00+00:00",
-                "temperature": 19.2,
-                "windSpeed": 13.399630000000002,
-                "windDirection": 223,
+                "startTime": "2025-10-23T09:00:00+00:00",
+                "temperature": 19.18,
+                "windSpeed": 11.45344,
+                "windDirection": 225,
                 "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-10-23T09:00:00+00:00",
-                "temperature": 19.1,
-                "windSpeed": 10.75997,
-                "windDirection": 226,
-                "shortForecast": "clear sky"
+                "startTime": "2025-10-23T12:00:00+00:00",
+                "temperature": 17.92,
+                "windSpeed": 7.20314,
+                "windDirection": 234,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Midday in Subiaco feels bright and uncomplicated: the sun sits high, the sky mostly untroubled, and the light carries a lacquered sharpness that crisps every shadow. Forecasts hint at a modest scatter of cloud mid\u2011afternoon before the canvas clears entirely toward late day, so expect a very sunny stretch with UV running high through the early hours and easing as the sun slides west. The air looks clean and transparent, the sort of clarity that makes colours ring true and turns pavements into pale mirrors.\n\nIt\u2019s a pleasant day, though the glare is assertive. Choose breathable fabrics, a brimmed hat, sunglasses, and a sweep of sunscreen; later, when the breeze leans cooler, a light extra layer won\u2019t go astray. Good hours now for simple errands on foot, a quiet coffee under an awning, or letting the washing meet the sun; save a longer wander through the park or a gentle ride to the shops for late afternoon when the light softens and the shade stretches. If you keep to shelter at lunch, the day invites a chapter of a book and a tall glass of water before stepping back into that clear, unwavering blue.",
-    "color_code": "#6DB8FF",
-    "timestamp": "2025-10-23 12:26:43",
+    "weather_report": "Late afternoon in Subiaco looks clear and easygoing: a blue sky brushed with a few small clouds, sunlight beginning to mellow rather than glare. Expect the rest of the day to stay mostly sunny with only thin patches of cloud toward early evening; visibility is crisp, colors look true, and the air feels uncomplicated. UV had some bite earlier and will sit low to moderate for a short while before slipping to low near sunset, so a hat and sunglasses are sensible if you\u2019re out before dinner, then a light layer will do as the warmth softens. It\u2019s a good time for unhurried errands on foot, a gentle ride to pick up groceries, watering the plants, or sitting outside with a book as the day folds into evening.",
+    "color_code": "#F2C14E",
+    "timestamp": "2025-10-23 16:30:59",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94967434965919,
-        "longitude": 115.820913121056,
+        "latitude": -31.9496741883217,
+        "longitude": 115.8209119223224,
         "timezone": "Australia/Perth"
     }
 }
