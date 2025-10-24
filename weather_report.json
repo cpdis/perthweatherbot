@@ -7,34 +7,34 @@
             "longitude": 115.8206986483484
         },
         "current_conditions": {
-            "timestamp": "2025-10-24T12:48:53+00:00",
-            "temperature_c": 14.66,
-            "temperature_f": 58.388,
+            "timestamp": "2025-10-24T16:28:26+00:00",
+            "temperature_c": 13.9,
+            "temperature_f": 57.02,
             "humidity": 81,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 310,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 220,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-24T15:00:00+00:00",
-                "temperature": 14.54,
-                "windSpeed": 17.4486,
-                "windDirection": 208,
-                "shortForecast": "light rain"
-            },
-            {
                 "startTime": "2025-10-24T18:00:00+00:00",
-                "temperature": 13.34,
+                "temperature": 13.58,
                 "windSpeed": 11.699510000000002,
                 "windDirection": 227,
+                "shortForecast": "broken clouds"
+            },
+            {
+                "startTime": "2025-10-24T21:00:00+00:00",
+                "temperature": 13.38,
+                "windSpeed": 10.71523,
+                "windDirection": 230,
                 "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Evening has settled over Subiaco with a soft, damp hush. The sun is long gone and with it any bite of UV; brightness gives way to a low, pewter glow as light showers drift in late tonight, leaving the streets glazed and the air a little hushed around the edges. Expect the rain to ease toward the small hours into scattered cloud, the sky loosening here and there so a few ragged stars might blink through. Clarity is subdued rather than murky, more watercolor than charcoal, the kind of night where sound carries and colors deepen.\n\nIt\u2019s a pleasant enough night if you dress for it: a light waterproof, closed shoes, and a small umbrella tucked under your arm. This is weather for a quiet errand, a gentle loop around the block between showers, or a slow hour at home tending to overlooked things\u2014sorting a drawer, steeping tea, queuing up that album you meant to hear end to end. If you\u2019re out late, plan on slick pavements and a gentle cool that asks for sleeves, not armor.",
-    "color_code": "#1F2A44",
-    "timestamp": "2025-10-24 20:48:53",
+    "weather_report": "Just past midnight in Subiaco, the sky is a patchwork: broken cloud drifting like slow ships, then thinning toward scattered tufts that reveal a few honest stars. The night feels steady and calm, not murky, the sort of clarity that makes streetlights look a little warmer than usual. By dawn those clouds should keep moving along, leaving a brighter canvas with intervals of sunshine. Expect a fair, lucid day overall, the sun turning confident by late morning and the UV biting hard despite the passing cloud.\n\nDress in light layers now, a soft jacket for the small hours, then shift to breathable fabrics, sunglasses, and a brimmed hat once the day gets its glow; sunscreen is not optional. It\u2019s pleasant enough for small routines: an early walk before the light grows sharp, a quiet coffee on the porch, watering the garden ahead of the heat, a spin to the bakery, windows open to air the rooms. Later, run a few errands or read by a bright window and let the afternoon drift by in clean, serviceable light.",
+    "color_code": "#2C3E50",
+    "timestamp": "2025-10-25 00:28:26",
     "location": {
         "name": "Subiaco",
         "latitude": -31.949696362651,
