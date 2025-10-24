@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "North Perth",
             "country": "AU",
-            "latitude": -31.9496798295136,
-            "longitude": 115.8208351957753
+            "latitude": -31.93568366493392,
+            "longitude": 115.8491113419928
         },
         "current_conditions": {
-            "timestamp": "2025-10-23T20:24:09+00:00",
-            "temperature_c": 14.56,
-            "temperature_f": 58.208,
-            "humidity": 82,
-            "wind_speed_mph": 4.60822,
-            "wind_direction": 80,
-            "description": "overcast clouds"
+            "timestamp": "2025-10-24T01:41:22+00:00",
+            "temperature_c": 18.2,
+            "temperature_f": 64.75999999999999,
+            "humidity": 51,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 260,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-23T21:00:00+00:00",
-                "temperature": 14.56,
-                "windSpeed": 14.518130000000001,
-                "windDirection": 255,
-                "shortForecast": "light rain"
+                "startTime": "2025-10-24T03:00:00+00:00",
+                "temperature": 18.2,
+                "windSpeed": 18.992130000000003,
+                "windDirection": 305,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-10-24T00:00:00+00:00",
-                "temperature": 15.05,
-                "windSpeed": 14.965530000000001,
-                "windDirection": 274,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-10-24T06:00:00+00:00",
+                "temperature": 17.43,
+                "windSpeed": 21.90023,
+                "windDirection": 264,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Subiaco wakes in a soft hush, the streets damp and reflective, a brush of light rain near first light tapering into a thick quilt of cloud. Sunshine will be scarce this morning; UV remains low at dawn and subdued under the overcast, with the day\u2019s edges blurred and the horizon a gentle smudge. It\u2019s a quiet, pewter-toned start that feels calm rather than cold, more contemplative than bleak.\n\nDress in light layers with a small waterproof shell and shoes that don\u2019t mind puddles; an umbrella earns its keep. Take the early coffee and watch the pavement darken, let the bus or train carry you while the sky makes up its mind, then run modest errands between pauses in the drizzle. It\u2019s a good morning for inbox triage by a window, a tidy of the pantry, or a slow lap to the bakery if the ceiling lifts. Pleasant in a muted way, if you lean into its unhurried rhythm.",
-    "color_code": "#5B6770",
-    "timestamp": "2025-10-24 04:24:10",
+    "weather_report": "Morning in North Perth arrives under a quilt of broken cloud, the light soft and slightly silvery, with only thin seams of sun slipping through. The day looks mild and a touch humid, the horizon a little softened, as if the edges have been rubbed with an eraser. By late morning those gaps tighten, and into the early afternoon a light rain is likely to wander in, more a persistent patter than a storm. UV should stay tempered by the cloud, but if the sun peeks out near midday it will still have some bite, so a dab of sunscreen won\u2019t go astray. Overall, not a day for squinting; more a day of gentle greys and cool breath.\n\nDress in light layers you can shrug on and off, with a compact rain jacket or umbrella for the early afternoon, and shoes that won\u2019t mind a damp footpath. It\u2019s decent weather for small errands before lunch, a slow coffee by a window, or a short stroll between showers. If the rain settles in, let it: visit a gallery, tidy a drawer, or call someone you\u2019ve been meaning to call. The evening should feel calm and rinsed, the streets carrying that clean, rain-polished scent.",
+    "color_code": "#7F8C99",
+    "timestamp": "2025-10-24 09:41:23",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.9496798295136,
-        "longitude": 115.8208351957753,
+        "name": "North Perth",
+        "latitude": -31.93568366493392,
+        "longitude": 115.8491113419928,
         "timezone": "Australia/Perth"
     }
 }
