@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-17 09:43:07",
-    "location": {
-      "name": "North Perth",
-      "latitude": -31.935687647824,
-      "longitude": 115.8490977258708,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-17T01:43:06+00:00",
-      "temperature_c": 25.22,
-      "temperature_f": 77.396,
-      "humidity": 45,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 60,
-      "description": "clear sky"
-    },
-    "report_summary": "North Perth wakes to a clean, unclouded sky and that particular spring brightness that makes the gar...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-10-17 12:26:53",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967983843196,
-      "longitude": 115.820837020834,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-17T04:26:52+00:00",
-      "temperature_c": 29.72,
-      "temperature_f": 85.49600000000001,
-      "humidity": 26,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 340,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco sits under a flawless blue canopy at midday, the sun crisp and insistent, shadows trimmed to...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-10-17 16:30:10",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon in Subiaco feels clear and golden, the sun still assertive enough to nip at bare skin...",
     "color_code": "#E9C46A"
+  },
+  {
+    "timestamp": "2025-10-24 20:48:53",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.949696362651,
+      "longitude": 115.8206986483484,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-24T12:48:53+00:00",
+      "temperature_c": 14.66,
+      "temperature_f": 58.388,
+      "humidity": 81,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 310,
+      "description": "broken clouds"
+    },
+    "report_summary": "Evening has settled over Subiaco with a soft, damp hush. The sun is long gone and with it any bite o...",
+    "color_code": "#1F2A44"
   }
 ]
