@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "North Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.93568366493392,
-            "longitude": 115.8491113419928
+            "latitude": -31.94960517088603,
+            "longitude": 115.8209681615935
         },
         "current_conditions": {
-            "timestamp": "2025-10-24T01:41:22+00:00",
-            "temperature_c": 18.2,
-            "temperature_f": 64.75999999999999,
-            "humidity": 51,
-            "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 260,
+            "timestamp": "2025-10-24T04:26:32+00:00",
+            "temperature_c": 16.14,
+            "temperature_f": 61.052,
+            "humidity": 80,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 320,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-24T03:00:00+00:00",
-                "temperature": 18.2,
-                "windSpeed": 18.992130000000003,
-                "windDirection": 305,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-10-24T06:00:00+00:00",
+                "temperature": 16.09,
+                "windSpeed": 23.667460000000002,
+                "windDirection": 263,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-10-24T06:00:00+00:00",
-                "temperature": 17.43,
-                "windSpeed": 21.90023,
-                "windDirection": 264,
-                "shortForecast": "light rain"
+                "startTime": "2025-10-24T09:00:00+00:00",
+                "temperature": 17.79,
+                "windSpeed": 19.886930000000003,
+                "windDirection": 265,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Morning in North Perth arrives under a quilt of broken cloud, the light soft and slightly silvery, with only thin seams of sun slipping through. The day looks mild and a touch humid, the horizon a little softened, as if the edges have been rubbed with an eraser. By late morning those gaps tighten, and into the early afternoon a light rain is likely to wander in, more a persistent patter than a storm. UV should stay tempered by the cloud, but if the sun peeks out near midday it will still have some bite, so a dab of sunscreen won\u2019t go astray. Overall, not a day for squinting; more a day of gentle greys and cool breath.\n\nDress in light layers you can shrug on and off, with a compact rain jacket or umbrella for the early afternoon, and shoes that won\u2019t mind a damp footpath. It\u2019s decent weather for small errands before lunch, a slow coffee by a window, or a short stroll between showers. If the rain settles in, let it: visit a gallery, tidy a drawer, or call someone you\u2019ve been meaning to call. The evening should feel calm and rinsed, the streets carrying that clean, rain-polished scent.",
-    "color_code": "#7F8C99",
-    "timestamp": "2025-10-24 09:41:23",
+    "weather_report": "Subiaco slips into early afternoon with the streets still lightly rinsed from a passing morning shower and a ceiling of scattered cloud beginning to fray. Light softens and brightens by turns as the sun slips between patches, giving the day a silvery-blue cast; when it breaks through, expect a touch of warmth and a UV bite that\u2019s modest in shade but assertive in open sun. The air feels newly washed, edges of buildings a little crisper, distant lines clearer, though a few stray sprinkles can\u2019t be ruled out.\n\nDress in light layers and comfortable shoes that don\u2019t mind a damp footpath; tuck a compact umbrella in your bag and keep sunglasses handy for those bright intervals. A dab of sunscreen is wise if you\u2019ll linger outdoors. It\u2019s a day for unhurried errands, a late caf\u00e9 lunch by a window, or a gentle loop through the neighborhood once the pavement dries. If you\u2019re staying in, throw open a window, let the cool, clean air travel the rooms, and sort a small task that thrives on good light and a calm mood.",
+    "color_code": "#8FB3C9",
+    "timestamp": "2025-10-24 12:26:32",
     "location": {
-        "name": "North Perth",
-        "latitude": -31.93568366493392,
-        "longitude": 115.8491113419928,
+        "name": "Subiaco",
+        "latitude": -31.94960517088603,
+        "longitude": 115.8209681615935,
         "timezone": "Australia/Perth"
     }
 }
