@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-10-18 16:26:54",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9497004620673,
-      "longitude": 115.8207155997319,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-18T08:26:53+00:00",
-      "temperature_c": 19.41,
-      "temperature_f": 66.938,
-      "humidity": 55,
-      "wind_speed_mph": 18.410510000000002,
-      "wind_direction": 280,
-      "description": "broken clouds"
-    },
-    "report_summary": "Subiaco is easing toward evening under a patchwork sky, the sun slipping through breaks in the cloud...",
-    "color_code": "#7B8792"
-  },
-  {
     "timestamp": "2025-10-18 20:40:34",
     "location": {
       "name": "Subiaco",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Subiaco drifts past midnight under a quiet sky, the air cool and settled, stars finding their way be...",
     "color_code": "#1B2A41"
+  },
+  {
+    "timestamp": "2025-10-26 04:22:47",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94967997732728,
+      "longitude": 115.8206724875335,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-25T20:22:46+00:00",
+      "temperature_c": 11.82,
+      "temperature_f": 53.275999999999996,
+      "humidity": 78,
+      "wind_speed_mph": 3.44498,
+      "wind_direction": 50,
+      "description": "broken clouds"
+    },
+    "report_summary": "Pre-dawn in Subiaco arrives under a quilt of broken cloud, the kind that turns the first light into ...",
+    "color_code": "#6D7B8D"
   }
 ]
