@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.949696362651,
-            "longitude": 115.8206986483484
+            "latitude": -31.94968049675439,
+            "longitude": 115.8206753172999
         },
         "current_conditions": {
-            "timestamp": "2025-10-24T20:25:00+00:00",
-            "temperature_c": 13.42,
-            "temperature_f": 56.156,
-            "humidity": 79,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 160,
-            "description": "overcast clouds"
+            "timestamp": "2025-10-25T01:42:44+00:00",
+            "temperature_c": 18.08,
+            "temperature_f": 64.544,
+            "humidity": 70,
+            "wind_speed_mph": 4.60822,
+            "wind_direction": 230,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-24T21:00:00+00:00",
-                "temperature": 13.42,
-                "windSpeed": 11.050780000000001,
-                "windDirection": 228,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-10-25T03:00:00+00:00",
+                "temperature": 18.08,
+                "windSpeed": 14.29443,
+                "windDirection": 221,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-10-25T00:00:00+00:00",
-                "temperature": 14.29,
-                "windSpeed": 9.194070000000002,
-                "windDirection": 178,
-                "shortForecast": "light rain"
+                "startTime": "2025-10-25T06:00:00+00:00",
+                "temperature": 18.34,
+                "windSpeed": 13.533850000000001,
+                "windDirection": 233,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Pre-dawn in Subiaco feels hushed and softly dim, a low quilt of cloud pressed over the roofs. The night gives way without ceremony and the sky stays stubbornly grey; light rain is likely to drift in not long after sunrise. Sunshine will be scarce this morning and the UV gentle at first, held down by the cloud, though if there\u2019s the briefest bright break later it can rise quickly in spring. Expect a muted, slightly damp day with softened horizons and a quiet shine on pavements.\n\nDress for cool, misty air: a light waterproof or windbreaker, comfortable closed shoes, and something you won\u2019t mind brushing with a sprinkle of rain. Tuck a small umbrella in your bag; keep sunscreen handy just in case the lid lifts. It\u2019s a good morning for a slow coffee at a corner cafe, a grocery run between showers, or a wander to the library when it opens. If the drizzle lingers, let the day be practical and unhurried; if it eases, take a short walk under the jacarandas and listen to the neighborhood wake.",
-    "color_code": "#6D7883",
-    "timestamp": "2025-10-25 04:25:01",
+    "weather_report": "Subiaco wakes under a quilt of cloud, the light soft and silvery, the air holding that gentle hush before rain. Late morning looks set to bring a brief, polite shower, enough to bead the pavements and freshen the jasmine, then the sky should loosen into broken cloud through the early afternoon with occasional shards of blue. It won\u2019t be a blazing day; the sun will feel filtered and mild, though spring UV still finds its way through when the cloud thins, running from modest this morning to noticeably punchier around midday. The view will be clear with a touch of softness at the edges, colors slightly desaturated by the cloud and rain-washed air.\n\nDress in light layers with a compact rain jacket, comfortable closed shoes, and consider a hat or a dab of sunscreen if you\u2019re out around lunch. This is good weather for a window seat and a slow coffee, a browse through the library or a record shop, a tidy of the pantry, or a short stroll when the breaks appear, letting the streets steam gently and the magpies narrate the afternoon.",
+    "color_code": "#8FA7B5",
+    "timestamp": "2025-10-25 09:42:44",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.949696362651,
-        "longitude": 115.8206986483484,
+        "latitude": -31.94968049675439,
+        "longitude": 115.8206753172999,
         "timezone": "Australia/Perth"
     }
 }
