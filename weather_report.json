@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95031088350368,
-            "longitude": 115.8207631936341
+            "latitude": -31.94968016409886,
+            "longitude": 115.8209125048685
         },
         "current_conditions": {
-            "timestamp": "2025-10-25T04:25:44+00:00",
-            "temperature_c": 19.9,
-            "temperature_f": 67.82,
-            "humidity": 55,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 250,
-            "description": "broken clouds"
+            "timestamp": "2025-10-25T08:26:19+00:00",
+            "temperature_c": 20.71,
+            "temperature_f": 69.278,
+            "humidity": 52,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 240,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-25T06:00:00+00:00",
-                "temperature": 19.56,
-                "windSpeed": 13.533850000000001,
-                "windDirection": 233,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-10-25T09:00:00+00:00",
+                "temperature": 20.71,
+                "windSpeed": 11.296850000000001,
+                "windDirection": 216,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-10-25T09:00:00+00:00",
-                "temperature": 18.58,
-                "windSpeed": 11.81136,
-                "windDirection": 219,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-10-25T12:00:00+00:00",
+                "temperature": 19.26,
+                "windSpeed": 10.245460000000001,
+                "windDirection": 217,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Midday in Subiaco arrives with a softened sun behind patchy cloud, the light diffused like linen over glass. It feels bright but not glaring, the sky broken rather than brooding, and the air has that clear, easy look that flatters colors and keeps the day from feeling harsh. Expect the UV to run high through the early afternoon before easing later, so shade and sunscreen are your quiet allies. The mood is pleasant, neither sultry nor stark, with enough brightness to lift the spirit without washing it out.\n\nAs the afternoon stretches on, the broken cloud should loosen into more scattered tufts toward the drive home, allowing longer spells of sun and a calmer, honeyed glow by late day. Dress for a mild-to-warm feel: breathable layers, sunglasses, a brim if you\u2019ll linger. It\u2019s a good day for errands on foot, a lazy circuit to the grocer, or to sit with a notebook at a courtyard table and let the light do its unhurried work; later, a gentle walk as the edges of the clouds go silver would suit the hour. If you\u2019ve laundry to dry, give it the afternoon; if you\u2019ve a plant to repot, the porch will be kind to you and it.",
-    "color_code": "#7FB3D5",
-    "timestamp": "2025-10-25 12:25:44",
+    "weather_report": "Late afternoon in Subiaco feels open and easy: the sun still bright but softened, a few polite clouds drifting without menace, the air clear enough to see edges sharpen and shadows stretch. UV has slipped from its midday bite to something gentler now, though a touch of sunscreen and sunglasses are still sensible if you\u2019re staying out; by early evening it will ease to low. The day reads as mostly sunny and clean, the kind that makes colors look freshly painted and the breeze feel like guidance rather than interruption.\n\nExpect a serene slide into evening with only thin cloud and a dry, comfortable feel. It\u2019s the sort of weather that rewards light layers\u2014a breathable shirt for now, a cardigan handy once the sun sinks. Consider a simple walk along the quieter streets, a small errand done on foot, or a sit-down outside with a book and a cool drink. Hang the washing for a quick dry, water the pots, or take a gentle spin on the bike before the sky turns gold.",
+    "color_code": "#F2C27A",
+    "timestamp": "2025-10-25 16:26:20",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.95031088350368,
-        "longitude": 115.8207631936341,
+        "latitude": -31.94968016409886,
+        "longitude": 115.8209125048685,
         "timezone": "Australia/Perth"
     }
 }
