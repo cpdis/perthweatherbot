@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94968049675439,
-            "longitude": 115.8206753172999
+            "latitude": -31.95031088350368,
+            "longitude": 115.8207631936341
         },
         "current_conditions": {
-            "timestamp": "2025-10-25T01:42:44+00:00",
-            "temperature_c": 18.08,
-            "temperature_f": 64.544,
-            "humidity": 70,
-            "wind_speed_mph": 4.60822,
-            "wind_direction": 230,
+            "timestamp": "2025-10-25T04:25:44+00:00",
+            "temperature_c": 19.9,
+            "temperature_f": 67.82,
+            "humidity": 55,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 250,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-25T03:00:00+00:00",
-                "temperature": 18.08,
-                "windSpeed": 14.29443,
-                "windDirection": 221,
-                "shortForecast": "light rain"
-            },
-            {
                 "startTime": "2025-10-25T06:00:00+00:00",
-                "temperature": 18.34,
+                "temperature": 19.56,
                 "windSpeed": 13.533850000000001,
                 "windDirection": 233,
                 "shortForecast": "broken clouds"
+            },
+            {
+                "startTime": "2025-10-25T09:00:00+00:00",
+                "temperature": 18.58,
+                "windSpeed": 11.81136,
+                "windDirection": 219,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a quilt of cloud, the light soft and silvery, the air holding that gentle hush before rain. Late morning looks set to bring a brief, polite shower, enough to bead the pavements and freshen the jasmine, then the sky should loosen into broken cloud through the early afternoon with occasional shards of blue. It won\u2019t be a blazing day; the sun will feel filtered and mild, though spring UV still finds its way through when the cloud thins, running from modest this morning to noticeably punchier around midday. The view will be clear with a touch of softness at the edges, colors slightly desaturated by the cloud and rain-washed air.\n\nDress in light layers with a compact rain jacket, comfortable closed shoes, and consider a hat or a dab of sunscreen if you\u2019re out around lunch. This is good weather for a window seat and a slow coffee, a browse through the library or a record shop, a tidy of the pantry, or a short stroll when the breaks appear, letting the streets steam gently and the magpies narrate the afternoon.",
-    "color_code": "#8FA7B5",
-    "timestamp": "2025-10-25 09:42:44",
+    "weather_report": "Midday in Subiaco arrives with a softened sun behind patchy cloud, the light diffused like linen over glass. It feels bright but not glaring, the sky broken rather than brooding, and the air has that clear, easy look that flatters colors and keeps the day from feeling harsh. Expect the UV to run high through the early afternoon before easing later, so shade and sunscreen are your quiet allies. The mood is pleasant, neither sultry nor stark, with enough brightness to lift the spirit without washing it out.\n\nAs the afternoon stretches on, the broken cloud should loosen into more scattered tufts toward the drive home, allowing longer spells of sun and a calmer, honeyed glow by late day. Dress for a mild-to-warm feel: breathable layers, sunglasses, a brim if you\u2019ll linger. It\u2019s a good day for errands on foot, a lazy circuit to the grocer, or to sit with a notebook at a courtyard table and let the light do its unhurried work; later, a gentle walk as the edges of the clouds go silver would suit the hour. If you\u2019ve laundry to dry, give it the afternoon; if you\u2019ve a plant to repot, the porch will be kind to you and it.",
+    "color_code": "#7FB3D5",
+    "timestamp": "2025-10-25 12:25:44",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94968049675439,
-        "longitude": 115.8206753172999,
+        "latitude": -31.95031088350368,
+        "longitude": 115.8207631936341,
         "timezone": "Australia/Perth"
     }
 }
