@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-18 20:40:34",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967779354204,
-      "longitude": 115.8207628978983,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-18T12:40:34+00:00",
-      "temperature_c": 16.81,
-      "temperature_f": 62.257999999999996,
-      "humidity": 67,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 230,
-      "description": "broken clouds"
-    },
-    "report_summary": "Evening in Subiaco settles in with a fractured ceiling of cloud and a softened, silvery glow from st...",
-    "color_code": "#2E4057"
-  },
-  {
-    "timestamp": "2025-10-19 00:24:49",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967779354204,
-      "longitude": 115.8207628978983,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-18T16:24:48+00:00",
-      "temperature_c": 14.88,
-      "temperature_f": 58.784000000000006,
-      "humidity": 74,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 40,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Subiaco slips past midnight under a ceiling of broken cloud, the streets still a little glossy from ...",
-    "color_code": "#2F3A4F"
-  },
-  {
     "timestamp": "2025-10-19 04:21:53",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Pre-dawn in Subiaco arrives under a quilt of broken cloud, the kind that turns the first light into ...",
     "color_code": "#6D7B8D"
+  },
+  {
+    "timestamp": "2025-10-26 09:51:11",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94965270167762,
+      "longitude": 115.8207092530357,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-26T01:51:11+00:00",
+      "temperature_c": 17.68,
+      "temperature_f": 63.824,
+      "humidity": 58,
+      "wind_speed_mph": 14.965530000000001,
+      "wind_direction": 80,
+      "description": "clear sky"
+    },
+    "report_summary": "Morning in Subiaco opens under a clean blue dome, the sun already bright and assertive, shadows cris...",
+    "color_code": "#87CEEB"
   }
 ]
