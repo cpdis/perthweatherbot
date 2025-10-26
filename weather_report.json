@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Fremantle",
             "country": "AU",
-            "latitude": -31.94965270167762,
-            "longitude": 115.8207092530357
+            "latitude": -32.05614560884499,
+            "longitude": 115.7454408989201
         },
         "current_conditions": {
-            "timestamp": "2025-10-26T01:51:11+00:00",
-            "temperature_c": 17.68,
-            "temperature_f": 63.824,
-            "humidity": 58,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 80,
-            "description": "clear sky"
+            "timestamp": "2025-10-26T04:24:58+00:00",
+            "temperature_c": 20.71,
+            "temperature_f": 69.278,
+            "humidity": 53,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 110,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-26T03:00:00+00:00",
-                "temperature": 17.68,
-                "windSpeed": 4.63059,
-                "windDirection": 267,
-                "shortForecast": "clear sky"
+                "startTime": "2025-10-26T06:00:00+00:00",
+                "temperature": 19.71,
+                "windSpeed": 12.41535,
+                "windDirection": 228,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-10-26T06:00:00+00:00",
-                "temperature": 18.14,
-                "windSpeed": 10.871820000000001,
-                "windDirection": 237,
+                "startTime": "2025-10-26T09:00:00+00:00",
+                "temperature": 18.77,
+                "windSpeed": 16.016920000000002,
+                "windDirection": 208,
                 "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Morning in Subiaco opens under a clean blue dome, the sun already bright and assertive, shadows crisp along the verandas. Expect the day to stay mostly sunny through late morning, with a soft quilt of scattered clouds wandering in after lunch that won\u2019t do much to blunt the light. UV will climb quickly and stay fierce through midday, so this is a hat-and-sunscreen sort of day; sunglasses and a light, breathable layer will feel right as the air warms.\n\nIt looks like a pleasant, clear day for simple things done at an easy pace: a stroll to pick up bread and greens, hanging the washing so it dries in no time, a book and a long glass of water at a shaded caf\u00e9 table, or a short ride to the library while the streets are still quiet. Open the windows, let the clean brightness through, and keep to the shade when the sun turns insistent.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-10-26 09:51:11",
+    "weather_report": "Midday in Fremantle arrives under a freckled sky, the sun glowing through drifting patches of cloud so the light comes in pulses\u2014bright, then softened, then bright again. Through the afternoon the canopy should loosen from broken to scattered, yielding wider blue and a clearer horizon over the water. Even with the cloud, the spring sun carries a keen edge; UV will be high enough to sting unguarded skin, and the air will feel easier once the sea breeze settles in and tidies the warmth.\n\nIt looks like a pleasant, gently shifting day rather than a flawless one: good light for ambling and errands, not a day for lingering too long in direct sun. Dress in light layers with breathable fabrics; add a hat, sunglasses, and a slick of sunscreen. Consider a quiet wander along shaded streets, a coffee in a courtyard where the breeze can find you, or a slow lap through the markets before the late-afternoon brightness returns. If you\u2019re outdoors, take your breaks under a tree or an awning and let the wind do its work; if staying in, crack a window and let the salt air thread the rooms while you read, cook, or finish the small things you\u2019ve been meaning to finish.",
+    "color_code": "#86B5E6",
+    "timestamp": "2025-10-26 12:24:59",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94965270167762,
-        "longitude": 115.8207092530357,
+        "name": "Fremantle",
+        "latitude": -32.05614560884499,
+        "longitude": 115.7454408989201,
         "timezone": "Australia/Perth"
     }
 }

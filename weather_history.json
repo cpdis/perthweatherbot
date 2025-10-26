@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-10-19 04:21:53",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967779354204,
-      "longitude": 115.8207628978983,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-18T20:21:53+00:00",
-      "temperature_c": 13.62,
-      "temperature_f": 56.516,
-      "humidity": 78,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 40,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes in a hush before dawn, the sky mostly clear and pale as a kettle starting to sing. Ear...",
-    "color_code": "#708090"
-  },
-  {
     "timestamp": "2025-10-19 09:55:00",
     "location": {
       "name": "Subiaco",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Morning in Subiaco opens under a clean blue dome, the sun already bright and assertive, shadows cris...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2025-10-26 12:24:59",
+    "location": {
+      "name": "Fremantle",
+      "latitude": -32.05614560884499,
+      "longitude": 115.7454408989201,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-26T04:24:58+00:00",
+      "temperature_c": 20.71,
+      "temperature_f": 69.278,
+      "humidity": 53,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 110,
+      "description": "broken clouds"
+    },
+    "report_summary": "Midday in Fremantle arrives under a freckled sky, the sun glowing through drifting patches of cloud ...",
+    "color_code": "#86B5E6"
   }
 ]
