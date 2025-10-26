@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Fremantle",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -32.05614560884499,
-            "longitude": 115.7454408989201
+            "latitude": -31.94968195035224,
+            "longitude": 115.820681131173
         },
         "current_conditions": {
-            "timestamp": "2025-10-26T04:24:58+00:00",
-            "temperature_c": 20.71,
-            "temperature_f": 69.278,
-            "humidity": 53,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 110,
-            "description": "broken clouds"
+            "timestamp": "2025-10-26T08:26:43+00:00",
+            "temperature_c": 21.94,
+            "temperature_f": 71.492,
+            "humidity": 47,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 240,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-10-26T06:00:00+00:00",
-                "temperature": 19.71,
-                "windSpeed": 12.41535,
-                "windDirection": 228,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-10-26T09:00:00+00:00",
+                "temperature": 21.94,
+                "windSpeed": 17.78415,
+                "windDirection": 205,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-10-26T09:00:00+00:00",
-                "temperature": 18.77,
-                "windSpeed": 16.016920000000002,
-                "windDirection": 208,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-10-26T12:00:00+00:00",
+                "temperature": 20.31,
+                "windSpeed": 15.59189,
+                "windDirection": 172,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Midday in Fremantle arrives under a freckled sky, the sun glowing through drifting patches of cloud so the light comes in pulses\u2014bright, then softened, then bright again. Through the afternoon the canopy should loosen from broken to scattered, yielding wider blue and a clearer horizon over the water. Even with the cloud, the spring sun carries a keen edge; UV will be high enough to sting unguarded skin, and the air will feel easier once the sea breeze settles in and tidies the warmth.\n\nIt looks like a pleasant, gently shifting day rather than a flawless one: good light for ambling and errands, not a day for lingering too long in direct sun. Dress in light layers with breathable fabrics; add a hat, sunglasses, and a slick of sunscreen. Consider a quiet wander along shaded streets, a coffee in a courtyard where the breeze can find you, or a slow lap through the markets before the late-afternoon brightness returns. If you\u2019re outdoors, take your breaks under a tree or an awning and let the wind do its work; if staying in, crack a window and let the salt air thread the rooms while you read, cook, or finish the small things you\u2019ve been meaning to finish.",
-    "color_code": "#86B5E6",
-    "timestamp": "2025-10-26 12:24:59",
+    "weather_report": "Late afternoon in Subiaco feels rinsed and untroubled, the sky an unbroken pane of blue and the light turning honeyed at the edges. Shadows lengthen across verandas and shopfronts; the air looks clean enough to ring like glass. It has been a bright, uncomplicated day and stays that way into the evening, with sunshine easing toward a gentle sunset and a clear, starry follow-through. UV would have peaked around midday but is slipping to low now, so the glare softens even as the color deepens.\n\nExpect a pleasant, dry evening: ideal for an unhurried walk to the grocer, a quiet lap of the oval, or sitting outside with a book while the day lets go. Dress in light layers; short sleeves feel right for the moment, with a thin cardigan or overshirt handy once the warmth drains from the pavements. If you\u2019re still out before dusk, a hat and a touch of sunscreen remain sensible; after that, just enjoy the clarity and the calm.",
+    "color_code": "#F6C36B",
+    "timestamp": "2025-10-26 16:26:43",
     "location": {
-        "name": "Fremantle",
-        "latitude": -32.05614560884499,
-        "longitude": 115.7454408989201,
+        "name": "Subiaco",
+        "latitude": -31.94968195035224,
+        "longitude": 115.820681131173,
         "timezone": "Australia/Perth"
     }
 }
