@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-20 09:52:15",
-    "location": {
-      "name": "West Perth",
-      "latitude": -31.95234960965108,
-      "longitude": 115.8394995312353,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-20T01:52:14+00:00",
-      "temperature_c": 17.27,
-      "temperature_f": 63.086,
-      "humidity": 59,
-      "wind_speed_mph": 13.802290000000001,
-      "wind_direction": 20,
-      "description": "light intensity shower rain"
-    },
-    "report_summary": "West Perth wakes under a lid of cloud, the light silvery and thin, the day hushed as if the city wer...",
-    "color_code": "#6F7A84"
-  },
-  {
-    "timestamp": "2025-10-20 12:28:05",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95413048165686,
-      "longitude": 115.8527181371508,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-20T04:28:04+00:00",
-      "temperature_c": 15.58,
-      "temperature_f": 60.044,
-      "humidity": 79,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 160,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Perth drifts through the lunch hour beneath a soft, pewter ceiling. The light is hushed and cool, wi...",
-    "color_code": "#6E7F91"
-  },
-  {
     "timestamp": "2025-10-20 16:30:38",
     "location": {
       "name": "Perth",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Perth lounges under a polished blue dome this late afternoon, the sun angling low and honeyed, with ...",
     "color_code": "#F4B66C"
+  },
+  {
+    "timestamp": "2025-10-27 20:49:50",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94967701290604,
+      "longitude": 115.820844448524,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-27T12:49:50+00:00",
+      "temperature_c": 18.64,
+      "temperature_f": 65.55199999999999,
+      "humidity": 65,
+      "wind_speed_mph": 14.965530000000001,
+      "wind_direction": 190,
+      "description": "clear sky"
+    },
+    "report_summary": "Evening has settled over Subiaco with a clean, open sky and only a few clouds idling at the edges. T...",
+    "color_code": "#0D1B2A"
   }
 ]
