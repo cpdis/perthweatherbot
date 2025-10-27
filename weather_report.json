@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94873860856643,
-            "longitude": 115.820817057897
+            "latitude": -31.95399373698558,
+            "longitude": 115.8528232544674
         },
         "current_conditions": {
-            "timestamp": "2025-10-27T01:46:05+00:00",
-            "temperature_c": 21.19,
-            "temperature_f": 70.142,
-            "humidity": 43,
-            "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 70,
+            "timestamp": "2025-10-27T04:32:10+00:00",
+            "temperature_c": 24.62,
+            "temperature_f": 76.316,
+            "humidity": 34,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 110,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-10-27T03:00:00+00:00",
-                "temperature": 21.62,
-                "windSpeed": 8.07557,
-                "windDirection": 73,
+                "startTime": "2025-10-27T06:00:00+00:00",
+                "temperature": 24.62,
+                "windSpeed": 2.03567,
+                "windDirection": 207,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-10-27T06:00:00+00:00",
-                "temperature": 22.27,
-                "windSpeed": 3.91475,
-                "windDirection": 222,
+                "startTime": "2025-10-27T09:00:00+00:00",
+                "temperature": 24.38,
+                "windSpeed": 6.711,
+                "windDirection": 183,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a spotless sky, the kind of lucid blue that sharpens every edge and turns windows into mirrors. The sun already has some bite; UV will climb quickly toward midday despite the easy, pleasant air, so skin and eyes will want their armor. Expect the day to stay brilliantly clear through the afternoon, the light unwavering, with a gentle sea-breeze feel later to keep things from turning heavy.\n\nIt\u2019s a day for light, breathable clothes, a brimmed hat, sunglasses, and a steady trickle of water. Slip on comfortable shoes and saunter to a shaded caf\u00e9 courtyard, let a late-morning coffee linger, or stroll the park paths and duck from fig tree to fig tree. Hang a wash on the line and watch it crisp in no time, or idle through the bookshop stacks and step back into the sun when the breeze stirs. Lovely, yes\u2014just remember the UV is unforgiving even when the mood is kind.",
+    "weather_report": "Perth sits under a glass-blue sky this afternoon, the sun clean and unwavering, shadows crisp as paper cutouts. The air feels dry and transparent, a day of high clarity where distant lines sharpen and colours lift. Sunshine will hold through the later hours with little to trouble it; UV is fierce around lunchtime and stays punchy into mid-afternoon before easing, so treat the light with respect.\n\nDress for easy movement and shade: a breathable shirt, hat with a brim, sunglasses, and a whisper of broad-spectrum sunscreen. Keep water nearby. Save longer rambles for the gentler light later on; until then, choose simple comforts. Hang the washing and let it drink the breeze. Slip into a gallery or the library and step back out when the sun softens, then wander the river path or a quiet street to admire whatever is in bloom. If you must be out now, keep to the lee of buildings and trees, moving from shadow to shadow like a cat who knows the neighborhood.",
     "color_code": "#87CEEB",
-    "timestamp": "2025-10-27 09:55:25",
+    "timestamp": "2025-10-27 12:32:11",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94873860856643,
-        "longitude": 115.820817057897,
+        "name": "Perth",
+        "latitude": -31.95399373698558,
+        "longitude": 115.8528232544674,
         "timezone": "Australia/Perth"
     }
 }
