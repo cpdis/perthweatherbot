@@ -7,34 +7,34 @@
             "longitude": 115.820844448524
         },
         "current_conditions": {
-            "timestamp": "2025-10-28T12:47:32+00:00",
-            "temperature_c": 20.4,
-            "temperature_f": 68.72,
-            "humidity": 74,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 270,
+            "timestamp": "2025-10-28T16:30:58+00:00",
+            "temperature_c": 18.4,
+            "temperature_f": 65.12,
+            "humidity": 69,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 250,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-10-28T15:00:00+00:00",
-                "temperature": 19.88,
-                "windSpeed": 14.56287,
-                "windDirection": 247,
-                "shortForecast": "scattered clouds"
-            },
-            {
                 "startTime": "2025-10-28T18:00:00+00:00",
-                "temperature": 18.59,
+                "temperature": 18.4,
                 "windSpeed": 13.422,
                 "windDirection": 256,
-                "shortForecast": "broken clouds"
+                "shortForecast": "clear sky"
+            },
+            {
+                "startTime": "2025-10-28T21:00:00+00:00",
+                "temperature": 17.91,
+                "windSpeed": 11.162630000000002,
+                "windDirection": 276,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Evening has settled over Subiaco with a quilt of broken cloud, the day\u2019s earlier patches of sun dimming into a muted, pewter sky. The light is soft and indirect now, with the UV index essentially at rest; any brightness left is the afterglow smoothing across rooftops and stone. The air feels mild to gently cool, and the view is more textured than clear, as if the horizon had been rubbed with charcoal. It looks quietly pleasant rather than dazzling, a night made for unhurried steps and low voices.\n\nFrom here on it stays mostly cloudy, no harsh glare ahead and no need to think about sun protection. A light jacket or soft sweater suits the hour; add a scarf if you run cold. This is good weather for simple things: a short stroll to pick up bread, a calm circuit of the neighborhood, a window cracked open while you put the kettle on, or a small chore you\u2019ve been meaning to finish. Let the evening be modest and intact, and take the long way home.",
-    "color_code": "#3B4E66",
-    "timestamp": "2025-10-28 20:47:33",
+    "weather_report": "Midnight in Subiaco feels clean and hushed under a clear vault of sky, the kind of night where porch lights seem brighter and the air encourages unhurried breaths. If you slip out now, it\u2019s a light-layer evening\u2014something soft over your shoulders\u2014good for a quiet wander to settle the mind, with stars unobstructed and no threat of drizzle to send you home early.\n\nDawn will come bright and cloudless, the day sharpening quickly into that confident Perth sunshine. Expect an unbroken blue and a UV index that climbs fast after breakfast, turning insistent by late morning; sunglasses, a hat, and sunscreen won\u2019t be optional if you\u2019re out for long. It should feel pleasantly crisp at first, so dress in layers you can shed, favoring airy fabrics once the sun takes over. This is a morning for the ordinary joys: a brisk walk to a coffee on Rokeby Road before the glare grows fierce, hanging laundry to drink in the light, watering balcony herbs, or cycling errands while shadows are still long. Save the long linger for a shaded bench or a cool room by midday, and let the day\u2019s clarity do the bright work on your mood.",
+    "color_code": "#0B1D3A",
+    "timestamp": "2025-10-29 00:30:59",
     "location": {
         "name": "Subiaco",
         "latitude": -31.94967701290604,
