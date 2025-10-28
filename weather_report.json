@@ -3,42 +3,42 @@
         "location": {
             "name": "Perth",
             "country": "AU",
-            "latitude": -31.95411119519018,
-            "longitude": 115.8528168103803
+            "latitude": -31.95411216898031,
+            "longitude": 115.8526275108009
         },
         "current_conditions": {
-            "timestamp": "2025-10-28T04:26:41+00:00",
-            "temperature_c": 31.59,
-            "temperature_f": 88.862,
-            "humidity": 20,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 30,
+            "timestamp": "2025-10-28T08:31:15+00:00",
+            "temperature_c": 27.94,
+            "temperature_f": 82.292,
+            "humidity": 32,
+            "wind_speed_mph": 19.57375,
+            "wind_direction": 280,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-10-28T06:00:00+00:00",
-                "temperature": 31.46,
-                "windSpeed": 10.08887,
-                "windDirection": 355,
+                "startTime": "2025-10-28T09:00:00+00:00",
+                "temperature": 27.94,
+                "windSpeed": 12.281130000000001,
+                "windDirection": 264,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-10-28T09:00:00+00:00",
-                "temperature": 28.93,
-                "windSpeed": 11.72188,
-                "windDirection": 264,
-                "shortForecast": "clear sky"
+                "startTime": "2025-10-28T12:00:00+00:00",
+                "temperature": 25.36,
+                "windSpeed": 14.40628,
+                "windDirection": 233,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Perth is dressed in clean, unwrinkled blue this lunchtime, the sun riding high and sharp, throwing crisp shadows onto pale pavements. The light feels assertive rather than gentle, the kind that asks for sunglasses and a brim between you and its stare; UV is likely strong now, easing only as the afternoon stretches and the angle softens. The air looks dry and honest, the horizon uncluttered, as if you could read the day like a page.\n\nExpect the sky to stay clear through mid and late afternoon, with brightness mellowing toward evening. It\u2019s a day for breathable fabrics, a hat, sunscreen on the collarbones and forearms, and a bottle of water that actually gets used. If you\u2019re out now, favor shade and brief errands; later, when the glare relaxes, a quiet walk by the river, a small loop on the bike, or hanging a load of washing to drink in the sun would suit. A late coffee at an outdoor table, or a book on the verandah as the light turns honeyed, would make fine company for this steady, uncomplicated weather.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-10-28 12:26:42",
+    "weather_report": "Perth leans into late afternoon with a clean, open sky and sunlight that\u2019s still bright but gentling at the edges, throwing longer, kinder shadows. Visibility is sharp, colors true, and the day feels honest and dry. UV glare is easing now, sliding from the punchy part of the day toward something more forgiving by early evening, though a hat and sunglasses still earn their keep if you\u2019re out before dusk.\n\nExpect the rest of the day to stay clear and calm, with only a few clouds wandering in after sunset. It reads as a pleasant finish: warm enough for comfort, cooling toward night. Dress light and breathable for the walk home; tuck a soft layer under your arm for later. This is good weather for small, ordinary victories\u2014an unhurried lap around the block, a detour to pick up fruit for tomorrow, a few pages on the balcony, a quick sweep of the step, windows opened to let the last golden hour drift through.",
+    "color_code": "#F6C36B",
+    "timestamp": "2025-10-28 16:31:16",
     "location": {
         "name": "Perth",
-        "latitude": -31.95411119519018,
-        "longitude": 115.8528168103803,
+        "latitude": -31.95411216898031,
+        "longitude": 115.8526275108009,
         "timezone": "Australia/Perth"
     }
 }
