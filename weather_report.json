@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94968407417352,
-            "longitude": 115.8209255534365
+            "latitude": -31.94968956654307,
+            "longitude": 115.8207766889829
         },
         "current_conditions": {
-            "timestamp": "2025-10-29T08:31:49+00:00",
-            "temperature_c": 18.55,
-            "temperature_f": 65.39,
-            "humidity": 58,
-            "wind_speed_mph": 18.410510000000002,
-            "wind_direction": 230,
+            "timestamp": "2025-10-29T12:50:05+00:00",
+            "temperature_c": 16.37,
+            "temperature_f": 61.466,
+            "humidity": 73,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 270,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-29T09:00:00+00:00",
-                "temperature": 18.55,
-                "windSpeed": 16.1064,
-                "windDirection": 238,
+                "startTime": "2025-10-29T15:00:00+00:00",
+                "temperature": 16.71,
+                "windSpeed": 9.462510000000002,
+                "windDirection": 261,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-10-29T12:00:00+00:00",
-                "temperature": 18.47,
-                "windSpeed": 12.3035,
-                "windDirection": 231,
+                "startTime": "2025-10-29T18:00:00+00:00",
+                "temperature": 16.62,
+                "windSpeed": 9.55199,
+                "windDirection": 271,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late afternoon in Subiaco arrives with a pewter light and clouds knitting themselves into a steady ceiling. Skies are thickening now, and a band of light rain is due to slip in around evening and linger into the night\u2014more a soft patter than a storm. Sunshine will be scarce; what little breaks through will be muted, and the UV stays low, the day\u2019s clarity gently blurred like glass breathed upon. It feels calm rather than bleak, a small, silvery pause.\n\nDress for a damp stroll and an easy transition indoors: a light waterproof or umbrella, breathable layers, and shoes with a bit of grip. Good hours for ordinary comforts\u2014duck into a corner bookshop or the library before it closes, pick up bread for supper, tend to a quiet errand under the awnings, or brew tea and catch up on the week\u2019s stray notes. If you fancy fresh air, take a brief walk between showers and listen to the softened city, then head home before the pavement gleams.",
-    "color_code": "#6A7886",
-    "timestamp": "2025-10-29 16:31:49",
+    "weather_report": "Subiaco eases into night under a pewter sky, the air smelling of wet stone and jacaranda, with light rain expected to arrive toward late evening and linger into the small hours. Sunshine has packed up for the day and the UV is essentially nil; the world will look a touch blurred under streetlights, roads slick and reflective, the rain more whisper than drumbeat. It\u2019s a quietly pleasant sort of damp: dress in a light waterproof with a hood or compact umbrella, and shoes that won\u2019t sulk at puddles. Tonight suits small comforts and unhurried errands\u2014a short hooded walk to hear the leaves hiss, a simple supper nearby, or a book by an open window while the patter keeps time; if you\u2019re heading out late, allow an extra moment for glistening pavements and the soft distraction of rain.",
+    "color_code": "#2C3E50",
+    "timestamp": "2025-10-29 20:50:06",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94968407417352,
-        "longitude": 115.8209255534365,
+        "latitude": -31.94968956654307,
+        "longitude": 115.8207766889829,
         "timezone": "Australia/Perth"
     }
 }

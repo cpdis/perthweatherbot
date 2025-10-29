@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-22 09:49:21",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9496798295136,
-      "longitude": 115.8208351957753,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-22T01:49:20+00:00",
-      "temperature_c": 18.98,
-      "temperature_f": 66.164,
-      "humidity": 53,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 70,
-      "description": "clear sky"
-    },
-    "report_summary": "Mid-morning in Subiaco arrives bright and uncomplicated, the sky a polished pane with no cloud to sm...",
-    "color_code": "#9ED8FF"
-  },
-  {
-    "timestamp": "2025-10-22 12:26:54",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95412838554542,
-      "longitude": 115.8526580893387,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-22T04:26:53+00:00",
-      "temperature_c": 22.05,
-      "temperature_f": 71.69,
-      "humidity": 48,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 290,
-      "description": "few clouds"
-    },
-    "report_summary": "Perth sits under a high, clean light at midday, the sky mostly open with only a few modest clouds ex...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-10-22 16:32:52",
     "location": {
       "name": "Perth",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon in Subiaco arrives with a pewter light and clouds knitting themselves into a steady c...",
     "color_code": "#6A7886"
+  },
+  {
+    "timestamp": "2025-10-29 20:50:06",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968956654307,
+      "longitude": 115.8207766889829,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-29T12:50:05+00:00",
+      "temperature_c": 16.37,
+      "temperature_f": 61.466,
+      "humidity": 73,
+      "wind_speed_mph": 10.35731,
+      "wind_direction": 270,
+      "description": "broken clouds"
+    },
+    "report_summary": "Subiaco eases into night under a pewter sky, the air smelling of wet stone and jacaranda, with light...",
+    "color_code": "#2C3E50"
   }
 ]
