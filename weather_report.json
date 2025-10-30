@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94967701290604,
-            "longitude": 115.820844448524
+            "latitude": -31.95410585933191,
+            "longitude": 115.8526342378241
         },
         "current_conditions": {
-            "timestamp": "2025-10-30T01:51:41+00:00",
-            "temperature_c": 18.46,
-            "temperature_f": 65.22800000000001,
-            "humidity": 70,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 10,
-            "description": "scattered clouds"
+            "timestamp": "2025-10-30T04:26:46+00:00",
+            "temperature_c": 20.94,
+            "temperature_f": 69.69200000000001,
+            "humidity": 60,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 290,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-30T03:00:00+00:00",
-                "temperature": 18.46,
-                "windSpeed": 13.60096,
-                "windDirection": 294,
+                "startTime": "2025-10-30T06:00:00+00:00",
+                "temperature": 21.86,
+                "windSpeed": 12.281130000000001,
+                "windDirection": 278,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-10-30T06:00:00+00:00",
-                "temperature": 20.14,
-                "windSpeed": 12.460090000000001,
-                "windDirection": 279,
+                "startTime": "2025-10-30T09:00:00+00:00",
+                "temperature": 20.85,
+                "windSpeed": 10.37968,
+                "windDirection": 281,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "A soft, pewter morning settles over Subiaco, the light subdued and the edges of things slightly blurred. Light rain visits in spells through the morning hours, likely lingering into the early afternoon, the sun mostly a rumor behind a gauze of cloud. Clarity is gentle rather than sharp; colors look washed and thoughtful. Expect a day that feels calm and a little damp, the kind where traffic sounds are cushioned and the air smells like wet leaves. Even with the cloud, the midday UV can still nip, though more softly than on a bright day.\n\nDress with easy pragmatism: a light waterproof layer, breathable clothes beneath, and shoes you don\u2019t mind meeting a few puddles. Carry a compact umbrella for the passing showers. This is a good day for small, local errands done at an unhurried pace\u2014duck into a bakery between showers, browse a bookshop or a gallery, or linger over a late-morning coffee by a window and watch the street shine. If you\u2019re set on fresh air, take a short walk when the rain eases; the world will feel newly rinsed, and the day, while not sunny, has a quiet kind of charm.",
-    "color_code": "#8EA3B0",
-    "timestamp": "2025-10-30 09:51:41",
+    "weather_report": "Perth wears a bright but thinning noon light, the sun softened behind a gauzy veil of cloud. It doesn\u2019t feel crisp; edges are a little muted, the horizon slightly washed as if someone turned the contrast down. Sunshine will be fleeting rather than generous, yet the UV can still nip at exposed skin when the cloud thins, typical of this time of year. Expect a gentle, silvery glow more than a blaze.\n\nBy mid to late afternoon, light rain looks likely to drift across the city, a polite shower rather than a theatrical downpour. It reads as a mild, somewhat humid day that invites light layers\u2014breathable shirt, easy trousers\u2014and a compact umbrella or thin rain jacket in your bag, just in case. Good weather for ordinary comforts: finish errands before the showers, linger over a book at a quiet caf\u00e9, sort a cupboard, or take a short stroll under leafy streets and awnings, savoring the cool of the passing sprinkle. If you\u2019re outdoors, a hat and a touch of sunscreen are still worth the fuss, even under a softened sky.",
+    "color_code": "#8FA8B3",
+    "timestamp": "2025-10-30 12:26:47",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94967701290604,
-        "longitude": 115.820844448524,
+        "name": "Perth",
+        "latitude": -31.95410585933191,
+        "longitude": 115.8526342378241,
         "timezone": "Australia/Perth"
     }
 }
