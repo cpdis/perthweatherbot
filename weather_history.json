@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-22 20:49:49",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968706873979,
-      "longitude": 115.8206720530941,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-22T12:49:49+00:00",
-      "temperature_c": 15.9,
-      "temperature_f": 60.62,
-      "humidity": 68,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 180,
-      "description": "broken clouds"
-    },
-    "report_summary": "Night has settled over Subiaco with a soft quilt of cloud drifting in and out of view; the stars app...",
-    "color_code": "#2C3E50"
-  },
-  {
-    "timestamp": "2025-10-23 00:30:31",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968706873979,
-      "longitude": 115.8206720530941,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-22T16:30:30+00:00",
-      "temperature_c": 14.39,
-      "temperature_f": 57.902,
-      "humidity": 72,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 200,
-      "description": "clear sky"
-    },
-    "report_summary": "Just past midnight in Subiaco, the night feels clean and unhurried, the sky largely clear and the st...",
-    "color_code": "#0b1d3a"
-  },
-  {
     "timestamp": "2025-10-23 04:26:44",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Before dawn in Subiaco the air feels rinsed and quiet, the streets still dark and a little glassy wi...",
     "color_code": "#5B6E7A"
+  },
+  {
+    "timestamp": "2025-10-30 09:51:41",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94967701290604,
+      "longitude": 115.820844448524,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-30T01:51:41+00:00",
+      "temperature_c": 18.46,
+      "temperature_f": 65.22800000000001,
+      "humidity": 70,
+      "wind_speed_mph": 9.21644,
+      "wind_direction": 10,
+      "description": "scattered clouds"
+    },
+    "report_summary": "A soft, pewter morning settles over Subiaco, the light subdued and the edges of things slightly blur...",
+    "color_code": "#8EA3B0"
   }
 ]
