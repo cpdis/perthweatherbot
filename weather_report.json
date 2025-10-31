@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "North Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.93578040305504,
-            "longitude": 115.8489705504407
+            "latitude": -31.94967796927394,
+            "longitude": 115.8208433628888
         },
         "current_conditions": {
-            "timestamp": "2025-10-31T01:48:04+00:00",
-            "temperature_c": 20.88,
-            "temperature_f": 69.584,
-            "humidity": 64,
+            "timestamp": "2025-10-31T04:27:42+00:00",
+            "temperature_c": 22.79,
+            "temperature_f": 73.02199999999999,
+            "humidity": 56,
             "wind_speed_mph": 16.1064,
-            "wind_direction": 340,
+            "wind_direction": 310,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-31T03:00:00+00:00",
-                "temperature": 20.88,
-                "windSpeed": 14.987900000000002,
-                "windDirection": 309,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-10-31T06:00:00+00:00",
+                "temperature": 22.02,
+                "windSpeed": 17.157790000000002,
+                "windDirection": 300,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-10-31T06:00:00+00:00",
-                "temperature": 20.87,
-                "windSpeed": 16.68802,
-                "windDirection": 298,
-                "shortForecast": "light rain"
+                "startTime": "2025-10-31T09:00:00+00:00",
+                "temperature": 21.98,
+                "windSpeed": 16.44195,
+                "windDirection": 310,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Morning in North Perth arrives under a quilt of broken cloud, the sun showing itself in soft glances that brighten verandas and gum leaves without ever quite taking charge. The day looks gentle but unsettled, with light showers expected to wander in by early afternoon, softening the edges of the skyline and dappling pavements. Even with the cloud, the spring UV will sharpen toward midday, so a hat and sunscreen are still wise companions. Air clarity should remain decent, though the sky will feel brushed in grey-blue tones as the rain approaches.\n\nDress in light layers: a breathable shirt for the warmer pockets of the morning, a light waterproof or compact umbrella for later. It\u2019s a good day for ordinary comforts\u2014an unrushed grocery run before lunch, a library visit, or a lingering coffee by a window while the first drops stipple the glass. If you\u2019re gardening, start early and leave the pruning for a drier hour; a late-morning walk will likely reward you with a few bright breaks before the damp sets in.",
-    "color_code": "#7D8A99",
-    "timestamp": "2025-10-31 09:48:05",
+    "weather_report": "Midday in Subiaco feels muted and silvery, the sun hiding behind a quilt of cloud that thickens toward early afternoon. Light showers are likely to shuffle through after lunch, beading the pavements before easing into broken cloud late in the day, when a few weak shafts might slip through. Even with the veil overhead, the spring UV still has a bite at this hour, so treat the light with respect.\n\nIt\u2019s a day for ease and small comforts: a breathable shirt with a light jacket tucked in your bag, shoes that don\u2019t mind a sprinkle, and a dab of sunscreen if you\u2019ll be out between errands. The weather leans gentle rather than grim; the rain looks brief, the air clear enough for a short, reflective walk once it passes, perhaps a detour for coffee by a window while the street glosses over. Later, as the clouds loosen, it could be a good time to browse a bookshop, pick up groceries without rushing, or tend to small tasks at home with the radio low and the afternoon drifting toward a softer evening.",
+    "color_code": "#6E7F8D",
+    "timestamp": "2025-10-31 12:27:43",
     "location": {
-        "name": "North Perth",
-        "latitude": -31.93578040305504,
-        "longitude": 115.8489705504407,
+        "name": "Subiaco",
+        "latitude": -31.94967796927394,
+        "longitude": 115.8208433628888,
         "timezone": "Australia/Perth"
     }
 }
