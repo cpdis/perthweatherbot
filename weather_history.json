@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-24 09:41:23",
-    "location": {
-      "name": "North Perth",
-      "latitude": -31.93568366493392,
-      "longitude": 115.8491113419928,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-24T01:41:22+00:00",
-      "temperature_c": 18.2,
-      "temperature_f": 64.75999999999999,
-      "humidity": 51,
-      "wind_speed_mph": 13.802290000000001,
-      "wind_direction": 260,
-      "description": "broken clouds"
-    },
-    "report_summary": "Morning in North Perth arrives under a quilt of broken cloud, the light soft and slightly silvery, w...",
-    "color_code": "#7F8C99"
-  },
-  {
-    "timestamp": "2025-10-24 12:26:32",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94960517088603,
-      "longitude": 115.8209681615935,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-24T04:26:32+00:00",
-      "temperature_c": 16.14,
-      "temperature_f": 61.052,
-      "humidity": 80,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 320,
-      "description": "broken clouds"
-    },
-    "report_summary": "Subiaco slips into early afternoon with the streets still lightly rinsed from a passing morning show...",
-    "color_code": "#8FB3C9"
-  },
-  {
     "timestamp": "2025-10-24 16:30:07",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon in Subiaco arrives under a quilt of broken cloud, the light soft and silvery on damp ...",
     "color_code": "#778899"
+  },
+  {
+    "timestamp": "2025-10-31 20:47:36",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.95536536835658,
+      "longitude": 115.8167773150915,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-31T12:47:36+00:00",
+      "temperature_c": 18.25,
+      "temperature_f": 64.85,
+      "humidity": 83,
+      "wind_speed_mph": 17.26964,
+      "wind_direction": 290,
+      "description": "broken clouds"
+    },
+    "report_summary": "Evening settles over Subiaco with a soft, persistent rain, the sort that hushes the streets and draw...",
+    "color_code": "#3b4f5c"
   }
 ]
