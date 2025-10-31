@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "North Perth",
             "country": "AU",
-            "latitude": -31.94968897852062,
-            "longitude": 115.8207787553298
+            "latitude": -31.93578040305504,
+            "longitude": 115.8489705504407
         },
         "current_conditions": {
-            "timestamp": "2025-10-30T20:25:15+00:00",
-            "temperature_c": 13.58,
-            "temperature_f": 56.444,
-            "humidity": 89,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 20,
-            "description": "clear sky"
+            "timestamp": "2025-10-31T01:48:04+00:00",
+            "temperature_c": 20.88,
+            "temperature_f": 69.584,
+            "humidity": 64,
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 340,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-30T21:00:00+00:00",
-                "temperature": 13.58,
-                "windSpeed": 8.0532,
-                "windDirection": 344,
-                "shortForecast": "clear sky"
+                "startTime": "2025-10-31T03:00:00+00:00",
+                "temperature": 20.88,
+                "windSpeed": 14.987900000000002,
+                "windDirection": 309,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-10-31T00:00:00+00:00",
-                "temperature": 15.22,
-                "windSpeed": 11.49818,
-                "windDirection": 335,
-                "shortForecast": "clear sky"
+                "startTime": "2025-10-31T06:00:00+00:00",
+                "temperature": 20.87,
+                "windSpeed": 16.68802,
+                "windDirection": 298,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Before sunrise in Subiaco, the air feels hushed and clean, the sky a deep ink slowly rinsing toward blue. It is clear now and will be clear at first light, the kind of morning where edges look crisp and the world seems newly washed. Expect the sun to take charge quickly after dawn; brightness will sharpen, the UV will ramp up fast, and by late morning the light will feel blunt and insistent. The day promises clarity rather than drama: dry, cloudless, and easy to read at a glance.\n\nIt looks like a pleasant one if you time it right. Start with a light layer over breathable clothes, then pare back as the sun gathers strength; sunglasses, a brimmed hat, and sunscreen will earn their keep by midmorning. A quiet walk to catch the day unfurling, watering pots before the heat builds, or a ride for a simple breakfast run would suit the early hours. Later, shade-friendly errands, a book on a veranda, or hanging laundry to the honest sun all make sense. The sky will do its part; you just have to step into it.",
-    "color_code": "#1C2E66",
-    "timestamp": "2025-10-31 04:25:15",
+    "weather_report": "Morning in North Perth arrives under a quilt of broken cloud, the sun showing itself in soft glances that brighten verandas and gum leaves without ever quite taking charge. The day looks gentle but unsettled, with light showers expected to wander in by early afternoon, softening the edges of the skyline and dappling pavements. Even with the cloud, the spring UV will sharpen toward midday, so a hat and sunscreen are still wise companions. Air clarity should remain decent, though the sky will feel brushed in grey-blue tones as the rain approaches.\n\nDress in light layers: a breathable shirt for the warmer pockets of the morning, a light waterproof or compact umbrella for later. It\u2019s a good day for ordinary comforts\u2014an unrushed grocery run before lunch, a library visit, or a lingering coffee by a window while the first drops stipple the glass. If you\u2019re gardening, start early and leave the pruning for a drier hour; a late-morning walk will likely reward you with a few bright breaks before the damp sets in.",
+    "color_code": "#7D8A99",
+    "timestamp": "2025-10-31 09:48:05",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968897852062,
-        "longitude": 115.8207787553298,
+        "name": "North Perth",
+        "latitude": -31.93578040305504,
+        "longitude": 115.8489705504407,
         "timezone": "Australia/Perth"
     }
 }

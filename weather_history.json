@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-23 20:49:33",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9496798295136,
-      "longitude": 115.8208351957753,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-23T12:49:33+00:00",
-      "temperature_c": 15.18,
-      "temperature_f": 59.324,
-      "humidity": 71,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 220,
-      "description": "few clouds"
-    },
-    "report_summary": "Evening has settled over Subiaco with an easy clarity: just a few clouds drifting and plenty of open...",
-    "color_code": "#0D1B2A"
-  },
-  {
-    "timestamp": "2025-10-24 00:28:51",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9496798295136,
-      "longitude": 115.8208351957753,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-23T16:28:50+00:00",
-      "temperature_c": 14.83,
-      "temperature_f": 58.694,
-      "humidity": 74,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 50,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Subiaco settles into a cool, quiet midnight with a gauzy lid of cloud and a hint of moisture in the ...",
-    "color_code": "#2C3E50"
-  },
-  {
     "timestamp": "2025-10-24 04:24:10",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Before sunrise in Subiaco, the air feels hushed and clean, the sky a deep ink slowly rinsing toward ...",
     "color_code": "#1C2E66"
+  },
+  {
+    "timestamp": "2025-10-31 09:48:05",
+    "location": {
+      "name": "North Perth",
+      "latitude": -31.93578040305504,
+      "longitude": 115.8489705504407,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-10-31T01:48:04+00:00",
+      "temperature_c": 20.88,
+      "temperature_f": 69.584,
+      "humidity": 64,
+      "wind_speed_mph": 16.1064,
+      "wind_direction": 340,
+      "description": "broken clouds"
+    },
+    "report_summary": "Morning in North Perth arrives under a quilt of broken cloud, the sun showing itself in soft glances...",
+    "color_code": "#7D8A99"
   }
 ]
