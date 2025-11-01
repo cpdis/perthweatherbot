@@ -7,34 +7,34 @@
             "longitude": 115.820838537444
         },
         "current_conditions": {
-            "timestamp": "2025-11-01T12:41:00+00:00",
-            "temperature_c": 16.01,
-            "temperature_f": 60.818,
-            "humidity": 62,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 200,
-            "description": "few clouds"
+            "timestamp": "2025-11-01T16:24:17+00:00",
+            "temperature_c": 12.71,
+            "temperature_f": 54.878,
+            "humidity": 70,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 210,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-01T15:00:00+00:00",
-                "temperature": 15.35,
-                "windSpeed": 14.85368,
-                "windDirection": 159,
-                "shortForecast": "few clouds"
-            },
-            {
                 "startTime": "2025-11-01T18:00:00+00:00",
-                "temperature": 13.35,
+                "temperature": 12.56,
                 "windSpeed": 8.276900000000001,
                 "windDirection": 142,
+                "shortForecast": "clear sky"
+            },
+            {
+                "startTime": "2025-11-01T21:00:00+00:00",
+                "temperature": 10.94,
+                "windSpeed": 7.717650000000001,
+                "windDirection": 132,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Evening settles over Subiaco with a gentle, lucid sky: the last of the daylight has folded away, leaving only a few harmless clouds drifting into a clean, open night. The air feels honest and dry, visibility crisp, and the UV has ebbed to nothing; whatever bite the sun had earlier is now a memory. Through late evening the patchy cloud thins, and after that it\u2019s plain sailing under clear stars, the kind of clarity that makes streetlights look a little sharper and sound carry a little farther.\n\nIt\u2019s a pleasant night to be unhurried. A light layer or soft long-sleeve will do, maybe a cardigan if you plan to linger, and no need for sunscreen now. Take an easy stroll to clear the head, water the garden while the air is cool, or sit on the balcony with a simple supper and let the day unspool. If you\u2019ve errands to tie up, the calm will help you move through them without fuss; if not, open a window and let the quiet do its work.",
-    "color_code": "#0A2342",
-    "timestamp": "2025-11-01 20:41:00",
+    "weather_report": "Just past midnight in Subiaco, the night is quiet and clean-edged, the sort of stillness where you can hear your own footsteps and pick out constellations without squinting. The forecast through the pre-dawn hours stays cloudless, a good sign that sunrise will arrive bright and uncomplicated, with hard, honest light. Expect a very sunny day ahead; clarity looks excellent and the UV will surge quickly after breakfast, the kind that paints sharp shadows and asks you to take it seriously. It should feel pleasant early, then more insistent by late morning.\n\nIf you\u2019re stepping out now, a light layer will do; by morning, reach for breathable fabrics, a brimmed hat, sunglasses, and sunscreen, with water close by. This is a day for ordinary, satisfying things: an early stroll before the streets heat up, a ride to the bakery, watering the garden while the birds are busy, hanging a wash that will dry in no time, a quick run to the shops, then shade and a book when the sun turns blunt. Keep your plans simple and let the light do the decorating.",
+    "color_code": "#0B132B",
+    "timestamp": "2025-11-02 00:24:18",
     "location": {
         "name": "Subiaco",
         "latitude": -31.94967795352864,
