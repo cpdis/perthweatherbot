@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Dalkeith",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.99481881812886,
-            "longitude": 115.8094594646688
+            "latitude": -31.94967795352864,
+            "longitude": 115.820838537444
         },
         "current_conditions": {
-            "timestamp": "2025-11-01T08:26:19+00:00",
-            "temperature_c": 19.64,
-            "temperature_f": 67.352,
-            "humidity": 49,
-            "wind_speed_mph": 20.71462,
-            "wind_direction": 220,
-            "description": "clear sky"
+            "timestamp": "2025-11-01T12:41:00+00:00",
+            "temperature_c": 16.01,
+            "temperature_f": 60.818,
+            "humidity": 62,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 200,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-11-01T09:00:00+00:00",
-                "temperature": 19.64,
-                "windSpeed": 18.61184,
-                "windDirection": 204,
-                "shortForecast": "clear sky"
+                "startTime": "2025-11-01T15:00:00+00:00",
+                "temperature": 15.35,
+                "windSpeed": 14.85368,
+                "windDirection": 159,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-11-01T12:00:00+00:00",
-                "temperature": 18.62,
-                "windSpeed": 16.93409,
-                "windDirection": 191,
+                "startTime": "2025-11-01T18:00:00+00:00",
+                "temperature": 13.35,
+                "windSpeed": 8.276900000000001,
+                "windDirection": 142,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Late afternoon in Dalkeith arrives clear and quiet, the sun sliding low with that November gold that turns pavements to ribbon. The sky stays open, the air crisp, and visibility keen; it feels as if the day has been polished. The UV has faded to almost nothing now, and even at midday it was gentle rather than insistent, a soft kind of brightness that never quite blazed.\n\nToday has been clean and sunlit from morning through noon, and the clarity holds into dusk. It\u2019s pleasant in a simple, honest way: dry underfoot, easy light, and a quick surrender of warmth as shadows lengthen. A light coat over a jumper, a scarf for comfort, and sunglasses if you\u2019re catching the last rays will serve you well. These are good hours for an unhurried walk by the Esk, a modest errand before the light slips away, or a quiet sit by a window with a book while the sky cools to blue. Expect a crisp, uncomplicated evening.",
-    "color_code": "#F2B35E",
-    "timestamp": "2025-11-01 16:26:19",
+    "weather_report": "Evening settles over Subiaco with a gentle, lucid sky: the last of the daylight has folded away, leaving only a few harmless clouds drifting into a clean, open night. The air feels honest and dry, visibility crisp, and the UV has ebbed to nothing; whatever bite the sun had earlier is now a memory. Through late evening the patchy cloud thins, and after that it\u2019s plain sailing under clear stars, the kind of clarity that makes streetlights look a little sharper and sound carry a little farther.\n\nIt\u2019s a pleasant night to be unhurried. A light layer or soft long-sleeve will do, maybe a cardigan if you plan to linger, and no need for sunscreen now. Take an easy stroll to clear the head, water the garden while the air is cool, or sit on the balcony with a simple supper and let the day unspool. If you\u2019ve errands to tie up, the calm will help you move through them without fuss; if not, open a window and let the quiet do its work.",
+    "color_code": "#0A2342",
+    "timestamp": "2025-11-01 20:41:00",
     "location": {
-        "name": "Dalkeith",
-        "latitude": -31.99481881812886,
-        "longitude": 115.8094594646688,
+        "name": "Subiaco",
+        "latitude": -31.94967795352864,
+        "longitude": 115.820838537444,
         "timezone": "Australia/Perth"
     }
 }

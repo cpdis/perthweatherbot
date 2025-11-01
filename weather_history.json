@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-25 09:42:44",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968049675439,
-      "longitude": 115.8206753172999,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-25T01:42:44+00:00",
-      "temperature_c": 18.08,
-      "temperature_f": 64.544,
-      "humidity": 70,
-      "wind_speed_mph": 4.60822,
-      "wind_direction": 230,
-      "description": "broken clouds"
-    },
-    "report_summary": "Subiaco wakes under a quilt of cloud, the light soft and silvery, the air holding that gentle hush b...",
-    "color_code": "#8FA7B5"
-  },
-  {
-    "timestamp": "2025-10-25 12:25:44",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.95031088350368,
-      "longitude": 115.8207631936341,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-25T04:25:44+00:00",
-      "temperature_c": 19.9,
-      "temperature_f": 67.82,
-      "humidity": 55,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 250,
-      "description": "broken clouds"
-    },
-    "report_summary": "Midday in Subiaco arrives with a softened sun behind patchy cloud, the light diffused like linen ove...",
-    "color_code": "#7FB3D5"
-  },
-  {
     "timestamp": "2025-10-25 16:26:20",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon in Dalkeith arrives clear and quiet, the sun sliding low with that November gold that...",
     "color_code": "#F2B35E"
+  },
+  {
+    "timestamp": "2025-11-01 20:41:00",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94967795352864,
+      "longitude": 115.820838537444,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-01T12:41:00+00:00",
+      "temperature_c": 16.01,
+      "temperature_f": 60.818,
+      "humidity": 62,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 200,
+      "description": "few clouds"
+    },
+    "report_summary": "Evening settles over Subiaco with a gentle, lucid sky: the last of the daylight has folded away, lea...",
+    "color_code": "#0A2342"
   }
 ]
