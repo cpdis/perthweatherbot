@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95536536835658,
-            "longitude": 115.8167773150915
+            "latitude": -31.94968886635559,
+            "longitude": 115.820767907421
         },
         "current_conditions": {
-            "timestamp": "2025-10-31T20:25:17+00:00",
-            "temperature_c": 16.41,
-            "temperature_f": 61.538,
-            "humidity": 64,
-            "wind_speed_mph": 16.1064,
+            "timestamp": "2025-11-01T01:51:38+00:00",
+            "temperature_c": 18.58,
+            "temperature_f": 65.44399999999999,
+            "humidity": 58,
+            "wind_speed_mph": 13.802290000000001,
             "wind_direction": 230,
-            "description": "overcast clouds"
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-10-31T21:00:00+00:00",
-                "temperature": 16.41,
-                "windSpeed": 18.61184,
-                "windDirection": 226,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-11-01T03:00:00+00:00",
+                "temperature": 18.58,
+                "windSpeed": 18.030220000000003,
+                "windDirection": 212,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-11-01T00:00:00+00:00",
-                "temperature": 16.75,
-                "windSpeed": 17.04594,
-                "windDirection": 213,
+                "startTime": "2025-11-01T06:00:00+00:00",
+                "temperature": 18.47,
+                "windSpeed": 17.0012,
+                "windDirection": 208,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Before dawn in Subiaco the sky feels sealed, a pewter lid lowered over quiet streets; the air has that soft, mineral scent that announces rain on the way. Expect a grey morning at first light and a drift of light showers by mid-morning, the sun mostly a rumor behind the overcast. UV stays low early and, unless the ceiling thins, remains muted; if a brief opening appears later it may sharpen quickly, but for now the day looks subdued and gentle on the eyes, with edges softened and colors dulled to calm tones.\n\nDress for a cool, damp start: a light waterproof or trench over breathable layers, closed shoes you don\u2019t mind getting speckled, and an umbrella that fits the bag. This is a morning for ordinary comforts and short errands\u2014an amble to a bakery, a quiet perch by a cafe window, a library run, clearing the inbox while the rain ticks at the panes, or a short stroll under shop verandas between showers. Runners and early cyclists will appreciate a cap and a thin shell; everyone else can keep a compact rain layer handy and let the day unspool at an easy pace.",
-    "color_code": "#6B7280",
-    "timestamp": "2025-11-01 04:25:17",
+    "weather_report": "Subiaco wakes under a gauzy lid of cloud; the light is pewter and the air smells rinsed. Mid\u2011morning feels calm but unsettled, with light showers expected to wander in from late morning into the early afternoon, more a persistent patter than a downpour. Sunshine will be scarce, veiled and fleeting at best, and while spring UV can still nip around midday, the cloud should keep it mostly tempered. The day looks soft-focused and quiet, with edges blurred and colors subdued, inviting a slower pace.\n\nDress for comfort and drizzle: a light waterproof or trench, breathable layers, and shoes you don\u2019t mind getting speckled; slip an umbrella in your bag rather than a heavy coat. It\u2019s a good morning for an unhurried coffee, a browse through a shop or two, or a matinee after lunch; if you want air, take a gentle stroll between showers, then duck back inside when the next silver curtain moves through.",
+    "color_code": "#778899",
+    "timestamp": "2025-11-01 09:51:38",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.95536536835658,
-        "longitude": 115.8167773150915,
+        "latitude": -31.94968886635559,
+        "longitude": 115.820767907421,
         "timezone": "Australia/Perth"
     }
 }
