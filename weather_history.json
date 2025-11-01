@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-10-25 04:25:01",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.949696362651,
-      "longitude": 115.8206986483484,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-24T20:25:00+00:00",
-      "temperature_c": 13.42,
-      "temperature_f": 56.156,
-      "humidity": 79,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 160,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Pre-dawn in Subiaco feels hushed and softly dim, a low quilt of cloud pressed over the roofs. The ni...",
-    "color_code": "#6D7883"
-  },
-  {
     "timestamp": "2025-10-25 09:42:44",
     "location": {
       "name": "Subiaco",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Subiaco drifts through midday with a bright, spring light and a few clouds knitting together, the so...",
     "color_code": "#7FAACC"
+  },
+  {
+    "timestamp": "2025-11-01 16:26:19",
+    "location": {
+      "name": "Dalkeith",
+      "latitude": -31.99481881812886,
+      "longitude": 115.8094594646688,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-01T08:26:19+00:00",
+      "temperature_c": 19.64,
+      "temperature_f": 67.352,
+      "humidity": 49,
+      "wind_speed_mph": 20.71462,
+      "wind_direction": 220,
+      "description": "clear sky"
+    },
+    "report_summary": "Late afternoon in Dalkeith arrives clear and quiet, the sun sliding low with that November gold that...",
+    "color_code": "#F2B35E"
   }
 ]

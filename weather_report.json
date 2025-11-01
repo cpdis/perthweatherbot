@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Dalkeith",
             "country": "AU",
-            "latitude": -31.94969565616833,
-            "longitude": 115.8207552519334
+            "latitude": -31.99481881812886,
+            "longitude": 115.8094594646688
         },
         "current_conditions": {
-            "timestamp": "2025-11-01T04:24:17+00:00",
-            "temperature_c": 19.71,
-            "temperature_f": 67.47800000000001,
-            "humidity": 46,
-            "wind_speed_mph": 18.410510000000002,
+            "timestamp": "2025-11-01T08:26:19+00:00",
+            "temperature_c": 19.64,
+            "temperature_f": 67.352,
+            "humidity": 49,
+            "wind_speed_mph": 20.71462,
             "wind_direction": 220,
-            "description": "scattered clouds"
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-01T06:00:00+00:00",
-                "temperature": 19.23,
-                "windSpeed": 17.0012,
-                "windDirection": 208,
-                "shortForecast": "light rain"
+                "startTime": "2025-11-01T09:00:00+00:00",
+                "temperature": 19.64,
+                "windSpeed": 18.61184,
+                "windDirection": 204,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-01T09:00:00+00:00",
-                "temperature": 18.91,
-                "windSpeed": 17.62756,
-                "windDirection": 203,
-                "shortForecast": "few clouds"
+                "startTime": "2025-11-01T12:00:00+00:00",
+                "temperature": 18.62,
+                "windSpeed": 16.93409,
+                "windDirection": 191,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco drifts through midday with a bright, spring light and a few clouds knitting together, the sort that can wring out a brief, polite shower early this afternoon before loosening to blue by late day. Expect a largely clear evening after the sprinkle; the air should feel rinsed and sightlines crisp. When the sun breaks through it has a bite to it now, so the UV feels strong even between passing clouds.\n\nIt looks like a mostly pleasant day with a short interruption. Dress in breathable layers with a light rain shell folded in your bag; sunglasses, a brimmed hat, and a swipe of sunscreen will earn their keep. If the shower arrives, take cover under an awning for a late lunch or duck into a quiet shop, then step back out for a gentle neighborhood stroll once the light goes silvery and the clouds thin. It\u2019s a good afternoon for small errands, repotting a balcony plant, or a lazy circuit of the local park toward late afternoon when the sky steadies and the warmth softens.",
-    "color_code": "#7FAACC",
-    "timestamp": "2025-11-01 12:24:18",
+    "weather_report": "Late afternoon in Dalkeith arrives clear and quiet, the sun sliding low with that November gold that turns pavements to ribbon. The sky stays open, the air crisp, and visibility keen; it feels as if the day has been polished. The UV has faded to almost nothing now, and even at midday it was gentle rather than insistent, a soft kind of brightness that never quite blazed.\n\nToday has been clean and sunlit from morning through noon, and the clarity holds into dusk. It\u2019s pleasant in a simple, honest way: dry underfoot, easy light, and a quick surrender of warmth as shadows lengthen. A light coat over a jumper, a scarf for comfort, and sunglasses if you\u2019re catching the last rays will serve you well. These are good hours for an unhurried walk by the Esk, a modest errand before the light slips away, or a quiet sit by a window with a book while the sky cools to blue. Expect a crisp, uncomplicated evening.",
+    "color_code": "#F2B35E",
+    "timestamp": "2025-11-01 16:26:19",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94969565616833,
-        "longitude": 115.8207552519334,
+        "name": "Dalkeith",
+        "latitude": -31.99481881812886,
+        "longitude": 115.8094594646688,
         "timezone": "Australia/Perth"
     }
 }
