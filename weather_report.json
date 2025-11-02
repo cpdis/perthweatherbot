@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Midland",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.89600436344727,
-            "longitude": 116.010355641119
+            "latitude": -31.94969562111698,
+            "longitude": 115.8207129269936
         },
         "current_conditions": {
-            "timestamp": "2025-11-02T01:53:48+00:00",
-            "temperature_c": 19.05,
-            "temperature_f": 66.29,
-            "humidity": 41,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 80,
+            "timestamp": "2025-11-02T04:26:33+00:00",
+            "temperature_c": 22.49,
+            "temperature_f": 72.482,
+            "humidity": 33,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 70,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-02T03:00:00+00:00",
-                "temperature": 19.05,
-                "windSpeed": 7.18077,
-                "windDirection": 105,
+                "startTime": "2025-11-02T06:00:00+00:00",
+                "temperature": 22.02,
+                "windSpeed": 11.654770000000001,
+                "windDirection": 216,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-02T06:00:00+00:00",
-                "temperature": 21.12,
-                "windSpeed": 6.80048,
-                "windDirection": 102,
+                "startTime": "2025-11-02T09:00:00+00:00",
+                "temperature": 20.72,
+                "windSpeed": 13.668070000000002,
+                "windDirection": 198,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Midland wakes under a rinsed, cloudless sky; the night and early morning kept their promise of clarity, and the day now opens bright and clean. Expect plenty of sunshine with that low autumn sun casting long, sharp shadows; visibility is excellent, colors look honest, and the UV stays gentle, more a nudge than a threat. It feels fresh rather than biting, the sort of pleasant cool that invites an unhurried pace. Dress in easy layers with a light jacket, a scarf if you run cold, and sunglasses for the morning glare; a touch of moisturizer beats sunscreen unless you\u2019ll linger outside through midday. This is a good day for modest errands on foot, a slow lap around the park, airing the house, or giving the car a quick wash in the slanting light\u2014quiet tasks that pair well with clear air and a calm mind.",
-    "color_code": "#B0E0E6",
-    "timestamp": "2025-11-02 09:53:49",
+    "weather_report": "Subiaco sits under a broad, glassy blue at midday, the sun pressing bright and steady, shadows trimmed short and neat. The air looks scrubbed clean, visibility sharp enough to count the jacaranda blooms, and the UV is unforgiving right now, the kind that warms the skin in a minute and lingers. It feels like a day built for clarity rather than drama.\n\nThe afternoon will stay sun-drenched and cloudless, with the glare softening gently toward late day as the UV eases. Dress light and breathable, hat and sunglasses a must, sunscreen not optional, and keep water at hand. This is a good time for a shaded caf\u00e9 lunch, a quick errand by foot beneath the purple trees, or hanging the wash to let the sky do its work. Save the longer wander for late afternoon when the light turns honeyed\u2014perhaps a quiet loop through Mueller Park or a slow browse along Rokeby Road before dusk.",
+    "color_code": "#00BFFF",
+    "timestamp": "2025-11-02 12:26:34",
     "location": {
-        "name": "Midland",
-        "latitude": -31.89600436344727,
-        "longitude": 116.010355641119,
+        "name": "Subiaco",
+        "latitude": -31.94969562111698,
+        "longitude": 115.8207129269936,
         "timezone": "Australia/Perth"
     }
 }
