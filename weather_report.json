@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Midland",
             "country": "AU",
-            "latitude": -31.94967795352864,
-            "longitude": 115.820838537444
+            "latitude": -31.89600436344727,
+            "longitude": 116.010355641119
         },
         "current_conditions": {
-            "timestamp": "2025-11-01T20:21:09+00:00",
-            "temperature_c": 10.39,
-            "temperature_f": 50.702,
-            "humidity": 77,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 120,
+            "timestamp": "2025-11-02T01:53:48+00:00",
+            "temperature_c": 19.05,
+            "temperature_f": 66.29,
+            "humidity": 41,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 80,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-01T21:00:00+00:00",
-                "temperature": 10.39,
-                "windSpeed": 7.42684,
-                "windDirection": 130,
+                "startTime": "2025-11-02T03:00:00+00:00",
+                "temperature": 19.05,
+                "windSpeed": 7.18077,
+                "windDirection": 105,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-02T00:00:00+00:00",
-                "temperature": 12.2,
-                "windSpeed": 9.3954,
-                "windDirection": 111,
+                "startTime": "2025-11-02T06:00:00+00:00",
+                "temperature": 21.12,
+                "windSpeed": 6.80048,
+                "windDirection": 102,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco stirs under a clear pre-dawn sky, the air quiet and uncomplicated, as the first hint of light finds the edges of roofs and gums. Forecasts keep the canvas simple: clear at sunrise, clear into midmorning, the kind of blue that feels rinsed and precise. Expect a bright day ahead with little in the way of haze; as the sun strengthens, UV will ramp up quickly and, in this season, tends to reach the high range by late morning. The day looks clean-lined and sunny, the sort that flatters shadows and makes colors ring.\n\nDress with a light layer for the cool start, ready to shed into something breezy once the sun takes charge, and bring a hat and sunscreen if you\u2019ll linger outdoors. It\u2019s a gentle hour for a quiet walk to the bakery or a coffee on a veranda, windows open to let the house breathe. Water the garden before the glare, run small errands early, and save any linger-in-the-park plans for a shaded bench. If you\u2019re working from home, set up near a window and let the morning light do its steadying work, then take a brief sun-safe break before the day gathers speed.",
-    "color_code": "#1B365D",
-    "timestamp": "2025-11-02 04:21:10",
+    "weather_report": "Midland wakes under a rinsed, cloudless sky; the night and early morning kept their promise of clarity, and the day now opens bright and clean. Expect plenty of sunshine with that low autumn sun casting long, sharp shadows; visibility is excellent, colors look honest, and the UV stays gentle, more a nudge than a threat. It feels fresh rather than biting, the sort of pleasant cool that invites an unhurried pace. Dress in easy layers with a light jacket, a scarf if you run cold, and sunglasses for the morning glare; a touch of moisturizer beats sunscreen unless you\u2019ll linger outside through midday. This is a good day for modest errands on foot, a slow lap around the park, airing the house, or giving the car a quick wash in the slanting light\u2014quiet tasks that pair well with clear air and a calm mind.",
+    "color_code": "#B0E0E6",
+    "timestamp": "2025-11-02 09:53:49",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94967795352864,
-        "longitude": 115.820838537444,
+        "name": "Midland",
+        "latitude": -31.89600436344727,
+        "longitude": 116.010355641119,
         "timezone": "Australia/Perth"
     }
 }

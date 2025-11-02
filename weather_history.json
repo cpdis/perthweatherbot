@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-25 20:40:11",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967997732728,
-      "longitude": 115.8206724875335,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-25T12:40:10+00:00",
-      "temperature_c": 15.43,
-      "temperature_f": 59.774,
-      "humidity": 74,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 230,
-      "description": "few clouds"
-    },
-    "report_summary": "Evening settles over Subiaco with a quiet sky: mostly clear, a few tufts of cloud drifting without u...",
-    "color_code": "#1E2D50"
-  },
-  {
-    "timestamp": "2025-10-26 00:25:36",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967997732728,
-      "longitude": 115.8206724875335,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-25T16:25:35+00:00",
-      "temperature_c": 13.91,
-      "temperature_f": 57.038,
-      "humidity": 79,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 160,
-      "description": "few clouds"
-    },
-    "report_summary": "Subiaco drifts past midnight under a quiet sky, the air cool and settled, stars finding their way be...",
-    "color_code": "#1B2A41"
-  },
-  {
     "timestamp": "2025-10-26 04:22:47",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Subiaco stirs under a clear pre-dawn sky, the air quiet and uncomplicated, as the first hint of ligh...",
     "color_code": "#1B365D"
+  },
+  {
+    "timestamp": "2025-11-02 09:53:49",
+    "location": {
+      "name": "Midland",
+      "latitude": -31.89600436344727,
+      "longitude": 116.010355641119,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-02T01:53:48+00:00",
+      "temperature_c": 19.05,
+      "temperature_f": 66.29,
+      "humidity": 41,
+      "wind_speed_mph": 14.965530000000001,
+      "wind_direction": 80,
+      "description": "clear sky"
+    },
+    "report_summary": "Midland wakes under a rinsed, cloudless sky; the night and early morning kept their promise of clari...",
+    "color_code": "#B0E0E6"
   }
 ]
