@@ -7,34 +7,34 @@
             "longitude": 115.820838537444
         },
         "current_conditions": {
-            "timestamp": "2025-11-03T12:49:02+00:00",
-            "temperature_c": 23.77,
-            "temperature_f": 74.786,
+            "timestamp": "2025-11-03T16:26:53+00:00",
+            "temperature_c": 22.86,
+            "temperature_f": 73.148,
             "humidity": 26,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 110,
+            "wind_speed_mph": 25.322840000000003,
+            "wind_direction": 90,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-03T15:00:00+00:00",
-                "temperature": 23.32,
-                "windSpeed": 22.72792,
-                "windDirection": 91,
-                "shortForecast": "clear sky"
-            },
-            {
                 "startTime": "2025-11-03T18:00:00+00:00",
-                "temperature": 22.56,
+                "temperature": 22.63,
                 "windSpeed": 26.642670000000003,
                 "windDirection": 79,
-                "shortForecast": "scattered clouds"
+                "shortForecast": "few clouds"
+            },
+            {
+                "startTime": "2025-11-03T21:00:00+00:00",
+                "temperature": 21.86,
+                "windSpeed": 24.204340000000002,
+                "windDirection": 72,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Evening in Subiaco has settled into a calm hush; the sky is mostly clear now, with a few friendly clouds penciled in for the small hours. The sun has long bowed out and with it the UV sting, leaving only the soft dark and streetlamp glow. It looks like an uncomplicated night\u2014clean horizons, good visibility, and a sense of ease rather than drama. Expect a pleasant run of weather through tonight: clear to start, then scattered clouds drifting over like slow thoughts.\n\nDress for comfort in a light layer\u2014something you can slip off if you\u2019re moving and back on when you pause. It\u2019s a good night to take an unhurried walk to return that book, water the pots, or sit by an open window and let the quiet air in while you answer the last messages of the day. If you step outside, give yourself a minute to look up; the sky is cooperative, and the night feels well-mannered.",
+    "weather_report": "Just past midnight in Subiaco, the night has settled into a calm, inky blue with only a few stray clouds adrift. The air feels clean and unhurried; visibility is clear and the streets are hushed. Through the small hours the sky should stay mostly open, which bodes for a bright, uncomplicated sunrise and a day that tilts sunny. The UV is negligible now, then wakes quickly after first light; by late morning, shade and sunscreen become wise companions.\n\nWear a light layer or soft sweater for the night\u2019s edge, trading it for something breathable and a hat once the day gathers. It\u2019s a good hour for finishing a chapter, folding laundry, or setting coffee to steep for the morning; early risers might enjoy a quiet walk before the city yawns awake. Expect a clear-headed day suited to small errands, a gentle ride to the shops, or a few unhurried minutes with the garden and the birds.",
     "color_code": "#0B1D3A",
-    "timestamp": "2025-11-03 20:49:03",
+    "timestamp": "2025-11-04 00:26:53",
     "location": {
         "name": "Subiaco",
         "latitude": -31.94967795352864,
