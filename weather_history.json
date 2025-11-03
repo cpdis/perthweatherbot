@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-26 20:41:38",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9496855556919,
-      "longitude": 115.8206457920754,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-26T12:41:38+00:00",
-      "temperature_c": 17.01,
-      "temperature_f": 62.618,
-      "humidity": 72,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 200,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco settles under a clear, quiet sky tonight, the day\u2019s glare already spent and the UV all but g...",
-    "color_code": "#0d1b2a"
-  },
-  {
-    "timestamp": "2025-10-27 00:25:43",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9496855556919,
-      "longitude": 115.8206457920754,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-26T16:25:42+00:00",
-      "temperature_c": 14.26,
-      "temperature_f": 57.668,
-      "humidity": 81,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 180,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco lies under a clean, quiet sky tonight, the kind of clear that makes the streetlights seem fr...",
-    "color_code": "#0A2342"
-  },
-  {
     "timestamp": "2025-10-27 04:23:32",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Subiaco wakes in a hush, the sky already swept clear toward dawn, with only a few stray clouds promi...",
     "color_code": "#0B2D5B"
+  },
+  {
+    "timestamp": "2025-11-03 09:53:26",
+    "location": {
+      "name": "West Perth",
+      "latitude": -31.95189389319706,
+      "longitude": 115.837818251447,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-03T01:53:25+00:00",
+      "temperature_c": 21.84,
+      "temperature_f": 71.312,
+      "humidity": 39,
+      "wind_speed_mph": 19.57375,
+      "wind_direction": 80,
+      "description": "clear sky"
+    },
+    "report_summary": "Mid-morning in West Perth arrives with a clean, lucid sky and a bright, amiable sun. The light has a...",
+    "color_code": "#87CEEB"
   }
 ]
