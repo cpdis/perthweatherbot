@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95402916888858,
-            "longitude": 115.8525968387823
+            "latitude": -31.9496963149304,
+            "longitude": 115.820712886899
         },
         "current_conditions": {
-            "timestamp": "2025-11-04T08:32:02+00:00",
-            "temperature_c": 24.35,
-            "temperature_f": 75.83,
-            "humidity": 55,
+            "timestamp": "2025-11-04T12:51:19+00:00",
+            "temperature_c": 20,
+            "temperature_f": 68.0,
+            "humidity": 74,
             "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 270,
-            "description": "thunderstorm"
+            "wind_direction": 40,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2025-11-04T09:00:00+00:00",
-                "temperature": 24.32,
-                "windSpeed": 3.01995,
-                "windDirection": 316,
+                "startTime": "2025-11-04T15:00:00+00:00",
+                "temperature": 19.53,
+                "windSpeed": 5.435910000000001,
+                "windDirection": 80,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-11-04T12:00:00+00:00",
-                "temperature": 22.94,
-                "windSpeed": 5.18984,
-                "windDirection": 240,
+                "startTime": "2025-11-04T18:00:00+00:00",
+                "temperature": 18.04,
+                "windSpeed": 17.202530000000003,
+                "windDirection": 62,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Perth leans into a soft, grey late afternoon, the light turning steely and the air smelling faintly of wet concrete. Skies are overcast with light rain nudging in around sunset and lingering through the evening, more a patient mist than a downpour. Sunshine will be scarce; the UV index is low now and slipping lower, with the day\u2019s edges dulled and distant views a little smudged. It\u2019s the sort of weather that hushes the streets rather than stops them.\n\nDress for damp comfort: a light waterproof or anorak over breathable layers, closed shoes that don\u2019t mind puddles, and an umbrella for the pauses between showers. It\u2019s good weather for practical errands under awnings, a slow detour through a bookshop, or a quiet hour at the gym before dinner. If you\u2019re headed home, put something simple on the stove and let the windows fog a little while the rain taps its patient rhythm; if you\u2019re still out, a tram or rideshare will feel kinder than a long walk tonight.",
-    "color_code": "#6A7D8B",
-    "timestamp": "2025-11-04 16:32:03",
+    "weather_report": "Evening has settled over Subiaco with a hush and the smell of wet pavement waiting in the wings. Sunshine is spent for the day and the UV index has slipped to nothing; what light remains comes from doorways and streetlamps, which blur a little in the damp air. Light rain is expected to arrive late tonight and linger into the small hours, the kind that softens edges rather than shouts, leaving the town muted and reflective. It\u2019s a gentle, if slightly sodden, night\u2014more silver than gold, more echo than gleam.\n\nIf you\u2019re stepping out, a light waterproof and closed shoes will serve you, with an umbrella for the slow showers. It\u2019s a good evening for modest comforts: a short errand run before the rain thickens, a quiet trampling of familiar streets, or an unhurried hour at home tidying the week into shape, steeping tea, and setting out tomorrow\u2019s essentials. The night invites low-key plans and a calm pace, and the weather agrees\u2014nothing harsh, just a soft, persistent patter.",
+    "color_code": "#2C3E50",
+    "timestamp": "2025-11-04 20:51:19",
     "location": {
-        "name": "Perth",
-        "latitude": -31.95402916888858,
-        "longitude": 115.8525968387823,
+        "name": "Subiaco",
+        "latitude": -31.9496963149304,
+        "longitude": 115.820712886899,
         "timezone": "Australia/Perth"
     }
 }

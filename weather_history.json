@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-28 09:45:24",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968928421616,
-      "longitude": 115.820747215103,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-28T01:45:23+00:00",
-      "temperature_c": 26.45,
-      "temperature_f": 79.61,
-      "humidity": 27,
-      "wind_speed_mph": 19.57375,
-      "wind_direction": 50,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes under a spotless blue, the kind of morning where shadows look freshly sharpened and th...",
-    "color_code": "#87CEFA"
-  },
-  {
-    "timestamp": "2025-10-28 12:26:42",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95411119519018,
-      "longitude": 115.8528168103803,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-28T04:26:41+00:00",
-      "temperature_c": 31.59,
-      "temperature_f": 88.862,
-      "humidity": 20,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 30,
-      "description": "clear sky"
-    },
-    "report_summary": "Perth is dressed in clean, unwrinkled blue this lunchtime, the sun riding high and sharp, throwing c...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-10-28 16:31:16",
     "location": {
       "name": "Perth",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Perth leans into a soft, grey late afternoon, the light turning steely and the air smelling faintly ...",
     "color_code": "#6A7D8B"
+  },
+  {
+    "timestamp": "2025-11-04 20:51:19",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.9496963149304,
+      "longitude": 115.820712886899,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-04T12:51:19+00:00",
+      "temperature_c": 20,
+      "temperature_f": 68.0,
+      "humidity": 74,
+      "wind_speed_mph": 14.965530000000001,
+      "wind_direction": 40,
+      "description": "light rain"
+    },
+    "report_summary": "Evening has settled over Subiaco with a hush and the smell of wet pavement waiting in the wings. Sun...",
+    "color_code": "#2C3E50"
   }
 ]
