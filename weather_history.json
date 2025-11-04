@@ -878,5 +878,25 @@
     },
     "report_summary": "Midday in Perth arrives with a clean, open light, the kind that sharpens edges and makes the pavemen...",
     "color_code": "#F2D98D"
+  },
+  {
+    "timestamp": "2025-11-04 16:32:03",
+    "location": {
+      "name": "Perth",
+      "latitude": -31.95402916888858,
+      "longitude": 115.8525968387823,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-04T08:32:02+00:00",
+      "temperature_c": 24.35,
+      "temperature_f": 75.83,
+      "humidity": 55,
+      "wind_speed_mph": 14.965530000000001,
+      "wind_direction": 270,
+      "description": "thunderstorm"
+    },
+    "report_summary": "Perth leans into a soft, grey late afternoon, the light turning steely and the air smelling faintly ...",
+    "color_code": "#6A7D8B"
   }
 ]
