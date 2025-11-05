@@ -7,34 +7,34 @@
             "longitude": 115.820774113273
         },
         "current_conditions": {
-            "timestamp": "2025-11-05T16:31:10+00:00",
-            "temperature_c": 18.04,
-            "temperature_f": 64.472,
-            "humidity": 73,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 200,
-            "description": "few clouds"
+            "timestamp": "2025-11-05T20:26:38+00:00",
+            "temperature_c": 16.79,
+            "temperature_f": 62.221999999999994,
+            "humidity": 76,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 170,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-11-05T18:00:00+00:00",
-                "temperature": 18.04,
-                "windSpeed": 13.802290000000001,
-                "windDirection": 177,
-                "shortForecast": "few clouds"
-            },
-            {
                 "startTime": "2025-11-05T21:00:00+00:00",
-                "temperature": 17.9,
+                "temperature": 16.79,
                 "windSpeed": 16.39721,
                 "windDirection": 179,
-                "shortForecast": "scattered clouds"
+                "shortForecast": "broken clouds"
+            },
+            {
+                "startTime": "2025-11-06T00:00:00+00:00",
+                "temperature": 17.75,
+                "windSpeed": 15.45767,
+                "windDirection": 180,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Just past midnight in Subiaco, the sky is clean and spare, a few clouds loosening the edge of the stars. The air feels settled; the night is clear enough to trace rooflines and jacaranda silhouettes. UV is essentially absent now, and the darkness is kind to skin and eyes.\n\nToward the small hours and into dawn, scattered cloud will drift in, promising a morning of softened light with sun peeking through rather than a hard glare. Sunshine should feel gentle at first, then more insistent after sunrise; UV will be negligible until then and will climb quickly as the morning gathers, so carry a hat and a dab of sunscreen if you\u2019ll linger outside later. Light layers suit the early cool: a tee with a thin jacket, something breathable once the sun asserts itself. It looks like pleasant, unhurried weather for small, ordinary rituals \u2014 rinsing the coffee pot, watering the herbs, a quiet walk to the bakery, or a short cycle to tick off an errand before the day crowds in.",
-    "color_code": "#1a2a44",
-    "timestamp": "2025-11-06 00:31:10",
+    "weather_report": "Before dawn in Subiaco, a quilt of broken cloud hangs over quiet streets, softening the last stars and promising a morning of mottled light. Expect the day to open gently with patches of blue and filtered sunshine, more bright than gloomy, the kind that makes colors look rinsed and clean. UV is low right now but will climb quickly after breakfast, likely reaching the kind of strength that nips at unguarded skin even through shifting gaps in the cloud. The air should feel agreeable rather than harsh; clarity decent, the horizon a little veiled by the broken deck. Dress in light layers you can peel back, with a hat, sunglasses, and a touch of sunscreen for later. It\u2019s a morning suited to unhurried errands, a walk to the bakery, or watering the garden while the light is still soft; by midmorning, a short pedal to the shops or a tidy at the desk near a window as the sun comes and goes.",
+    "color_code": "#6C7A89",
+    "timestamp": "2025-11-06 04:26:38",
     "location": {
         "name": "Subiaco",
         "latitude": -31.94970385462607,
