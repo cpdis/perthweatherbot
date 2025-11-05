@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-29 09:52:06",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969672288606,
-      "longitude": 115.8207040143809,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-29T01:52:05+00:00",
-      "temperature_c": 19.56,
-      "temperature_f": 67.208,
-      "humidity": 56,
-      "wind_speed_mph": 19.57375,
-      "wind_direction": 270,
-      "description": "broken clouds"
-    },
-    "report_summary": "Subiaco stirs under a mottled sky, sunlight thinned through broken cloud so the morning looks gentle...",
-    "color_code": "#9AA6B1"
-  },
-  {
-    "timestamp": "2025-10-29 12:29:37",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967701290604,
-      "longitude": 115.820844448524,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-29T04:29:36+00:00",
-      "temperature_c": 19.71,
-      "temperature_f": 67.47800000000001,
-      "humidity": 61,
-      "wind_speed_mph": 20.71462,
-      "wind_direction": 240,
-      "description": "broken clouds"
-    },
-    "report_summary": "Midday in Subiaco feels tempered, the light turning silvery as clouds gather; a light shower looks s...",
-    "color_code": "#8EA6B8"
-  },
-  {
     "timestamp": "2025-10-29 16:31:49",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Subiaco settles into late afternoon with a clear, open sky and clean light on verandas; toward eveni...",
     "color_code": "#F5C27A"
+  },
+  {
+    "timestamp": "2025-11-05 20:49:17",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94970385462607,
+      "longitude": 115.820774113273,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-05T12:49:16+00:00",
+      "temperature_c": 19.44,
+      "temperature_f": 66.992,
+      "humidity": 79,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 220,
+      "description": "few clouds"
+    },
+    "report_summary": "Evening in Subiaco has settled into a calm, lucid mood: the clouds that flirted with the afternoon h...",
+    "color_code": "#0D3B66"
   }
 ]

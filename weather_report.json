@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94965481771007,
-            "longitude": 115.8209285593613
+            "latitude": -31.94970385462607,
+            "longitude": 115.820774113273
         },
         "current_conditions": {
-            "timestamp": "2025-11-05T08:32:11+00:00",
-            "temperature_c": 23.6,
-            "temperature_f": 74.48,
-            "humidity": 59,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 240,
-            "description": "clear sky"
+            "timestamp": "2025-11-05T12:49:16+00:00",
+            "temperature_c": 19.44,
+            "temperature_f": 66.992,
+            "humidity": 79,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 220,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-11-05T09:00:00+00:00",
-                "temperature": 23.6,
-                "windSpeed": 17.18016,
-                "windDirection": 198,
-                "shortForecast": "clear sky"
+                "startTime": "2025-11-05T15:00:00+00:00",
+                "temperature": 18.62,
+                "windSpeed": 10.871820000000001,
+                "windDirection": 179,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-11-05T12:00:00+00:00",
-                "temperature": 22.8,
-                "windSpeed": 8.85852,
-                "windDirection": 166,
-                "shortForecast": "few clouds"
+                "startTime": "2025-11-05T18:00:00+00:00",
+                "temperature": 16.71,
+                "windSpeed": 13.802290000000001,
+                "windDirection": 177,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco settles into late afternoon with a clear, open sky and clean light on verandas; toward evening, only a few modest clouds drift in and the air keeps its clarity. It\u2019s dry and untroubled, the kind of sky that makes edges look crisp. The sun still has a little bite but it\u2019s easing now, UV slipping from assertive to gentle as dusk arrives.\n\nIt feels pleasantly warm rather than taxing. Airy layers suit the hour; keep sunglasses and a touch of sunscreen for the next stretch, then a light cardigan for later. Good weather for the ordinary joys: a slow walk to the shops, watering the garden, an unhurried ride home, or an early dinner outdoors while the last gold slides off the rooftops.",
-    "color_code": "#F5C27A",
-    "timestamp": "2025-11-05 16:32:11",
+    "weather_report": "Evening in Subiaco has settled into a calm, lucid mood: the clouds that flirted with the afternoon have thinned to nothing, leaving a clean, open sky. Clarity is excellent, edges crisp, the air untroubled. Earlier sunshine would have felt generous and bright\u2014enough to warrant hat and sunscreen in the middle hours\u2014but at this hour the UV has fallen away to almost nothing, and the light is more suggestion than blaze.\n\nExpect the night to stay dry and uncomplicated, a mostly clear stretch that invites unhurried errands and small pleasures. Dress with easy layers: a soft knit or light jacket over short sleeves, comfortable shoes, perhaps a scarf if you run cool. It\u2019s pleasant weather for a gentle loop around the block, watering the plants, a relaxed ride to return a library book, or a quiet sit on the balcony with the evening\u2019s first stars. If you\u2019re staying in, crack a window and let the calm air rinse the rooms; this clear night seems to ask for simple, steady tasks and an early exhale.",
+    "color_code": "#0D3B66",
+    "timestamp": "2025-11-05 20:49:17",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94965481771007,
-        "longitude": 115.8209285593613,
+        "latitude": -31.94970385462607,
+        "longitude": 115.820774113273,
         "timezone": "Australia/Perth"
     }
 }
