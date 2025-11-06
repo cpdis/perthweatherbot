@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95392541346922,
-            "longitude": 115.8526249664112
+            "latitude": -31.94971269575135,
+            "longitude": 115.820717463501
         },
         "current_conditions": {
-            "timestamp": "2025-11-06T08:31:32+00:00",
-            "temperature_c": 21.71,
-            "temperature_f": 71.078,
-            "humidity": 55,
-            "wind_speed_mph": 20.71462,
-            "wind_direction": 230,
-            "description": "few clouds"
+            "timestamp": "2025-11-06T12:48:31+00:00",
+            "temperature_c": 17.5,
+            "temperature_f": 63.5,
+            "humidity": 76,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 210,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-06T09:00:00+00:00",
-                "temperature": 21.71,
-                "windSpeed": 16.68802,
-                "windDirection": 205,
-                "shortForecast": "few clouds"
+                "startTime": "2025-11-06T15:00:00+00:00",
+                "temperature": 17.8,
+                "windSpeed": 12.50483,
+                "windDirection": 153,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-06T12:00:00+00:00",
-                "temperature": 20.34,
-                "windSpeed": 14.719460000000002,
-                "windDirection": 196,
+                "startTime": "2025-11-06T18:00:00+00:00",
+                "temperature": 17.77,
+                "windSpeed": 9.97702,
+                "windDirection": 139,
                 "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Late afternoon in Perth feels open and uncomplicated: a pale-blue sky with just a scattering of clouds, the sun mellowing as it angles toward evening. Sunshine remains generous over the next few hours with only a few clouds to soften it, so visibility stays crisp and the day reads clear and inviting. UV will be easing with the dropping sun; if you\u2019re out before dusk, a hat and a touch of sunscreen still make sense, but the bite fades quickly into evening.\n\nIt looks like a pleasant finish to the day. Light, breathable layers are enough now, with a cardigan handy for when the warmth slips away after sunset. This is the hour for ordinary errands done on foot, a lazy circuit of the neighborhood, watering the garden, or carrying dinner out to the balcony to catch the last gold on the walls. As night arrives, expect a calm, mostly clear sky and a simple, comfortable close.",
-    "color_code": "#F3C77A",
-    "timestamp": "2025-11-06 16:31:33",
+    "weather_report": "Subiaco settles into a calm night, the sky mostly clear and clean, with stars sharp at the edges and only a few clouds expected to drift in toward the small hours. The sun is gone and with it the bite; UV is negligible now and will stay that way until dawn, when the light returns quickly and, even with patchy cloud, the UV will build fast through the morning. It feels like a night for ease: a light layer over short sleeves, something comfortable if you wander out for a last errand or to water the pots, windows cracked to let in the cooler air. Set out tomorrow\u2019s things, take a short, unhurried walk around the block, or read a few pages on the balcony. Early risers might enjoy a quiet spin or walk at first light before the day brightens and the sun turns more insistent.",
+    "color_code": "#0b1e3a",
+    "timestamp": "2025-11-06 20:48:32",
     "location": {
-        "name": "Perth",
-        "latitude": -31.95392541346922,
-        "longitude": 115.8526249664112,
+        "name": "Subiaco",
+        "latitude": -31.94971269575135,
+        "longitude": 115.820717463501,
         "timezone": "Australia/Perth"
     }
 }
