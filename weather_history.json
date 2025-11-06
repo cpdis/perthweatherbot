@@ -878,5 +878,25 @@
     },
     "report_summary": "Midday in Perth feels bright and lucid, the sun shouldering through a shifting veil of cloud. Expect...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2025-11-06 16:31:33",
+    "location": {
+      "name": "Perth",
+      "latitude": -31.95392541346922,
+      "longitude": 115.8526249664112,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-06T08:31:32+00:00",
+      "temperature_c": 21.71,
+      "temperature_f": 71.078,
+      "humidity": 55,
+      "wind_speed_mph": 20.71462,
+      "wind_direction": 230,
+      "description": "few clouds"
+    },
+    "report_summary": "Late afternoon in Perth feels open and uncomplicated: a pale-blue sky with just a scattering of clou...",
+    "color_code": "#F3C77A"
   }
 ]
