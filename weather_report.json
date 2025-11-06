@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94965179606067,
-            "longitude": 115.8207982470819
+            "latitude": -31.95396979368542,
+            "longitude": 115.8526381245803
         },
         "current_conditions": {
-            "timestamp": "2025-11-06T01:50:00+00:00",
-            "temperature_c": 19.9,
-            "temperature_f": 67.82,
-            "humidity": 65,
+            "timestamp": "2025-11-06T04:29:33+00:00",
+            "temperature_c": 22.05,
+            "temperature_f": 71.69,
+            "humidity": 62,
             "wind_speed_mph": 16.1064,
-            "wind_direction": 200,
-            "description": "overcast clouds"
+            "wind_direction": 220,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-11-06T03:00:00+00:00",
-                "temperature": 19.9,
-                "windSpeed": 16.084030000000002,
-                "windDirection": 207,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-11-06T06:00:00+00:00",
+                "temperature": 22.42,
+                "windSpeed": 15.39056,
+                "windDirection": 215,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-11-06T06:00:00+00:00",
-                "temperature": 20.94,
-                "windSpeed": 15.994550000000002,
-                "windDirection": 214,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-11-06T09:00:00+00:00",
+                "temperature": 20.14,
+                "windSpeed": 16.68802,
+                "windDirection": 205,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a soft grey lid, the sun reduced to a pale lantern behind the cloud. The light is matte and forgiving, edges blurred, colors hushed. Forecasts suggest the overcast will hold through late morning into early afternoon, so don\u2019t expect much in the way of blue sky; clarity remains diffused, with bright glare largely tamed. UV will be subdued but not absent\u2014late spring can still nip around midday\u2014so a light touch of sunscreen won\u2019t go astray. It\u2019s a calm, even sort of day, more companionable than thrilling.\n\nDress in easy layers: a breathable long sleeve or light knit, perhaps a thin jacket for comfort, and comfortable shoes for unhurried errands. With the glare gone, it\u2019s a good morning for a quiet coffee walk, a library stop, or a measured lap through the grocer. Garden jobs feel kinder under this sky, and the soft light flatters a quick photo wander if you\u2019re inclined. Settle by a window for focused work, then step out again when the clock drifts toward lunch; the day may not dazzle, but it invites you to move through it at a steady, human pace.",
-    "color_code": "#A3ABB2",
-    "timestamp": "2025-11-06 09:50:00",
+    "weather_report": "Midday in Perth feels bright and lucid, the sun shouldering through a shifting veil of cloud. Expect the afternoon to open with more broken cloud, then ease toward cleaner, scattered patches as the day leans to evening, giving the light a silvery glaze rather than a hard glare. UV is very high now and will stay punchy through the early afternoon before softening later, so shade is your ally and the day will feel warm to hot, crisp-edged and dry under a generous sky.\n\nLight, breathable layers with a brimmed hat, sunglasses, and sunscreen will serve you well; carry water and give your skin a break where you can. Save longer errands or a lazy walk under trees for later in the day when the sun gentles and the sky clears, or linger at a quiet caf\u00e9 veranda with a book. It\u2019s a good afternoon for hanging a wash, tending a few plants in the shade, or a slow loop along the river paths once the light goes honeyed.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-11-06 12:29:34",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94965179606067,
-        "longitude": 115.8207982470819,
+        "name": "Perth",
+        "latitude": -31.95396979368542,
+        "longitude": 115.8526381245803,
         "timezone": "Australia/Perth"
     }
 }
