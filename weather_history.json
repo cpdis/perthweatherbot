@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-30 20:47:58",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968897852062,
-      "longitude": 115.8207787553298,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-30T12:47:58+00:00",
-      "temperature_c": 16.95,
-      "temperature_f": 62.51,
-      "humidity": 80,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 290,
-      "description": "few clouds"
-    },
-    "report_summary": "Evening has folded over Subiaco with an easy calm, the sky mostly clear, only a few wayward clouds d...",
-    "color_code": "#1c2746"
-  },
-  {
-    "timestamp": "2025-10-31 00:29:33",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968897852062,
-      "longitude": 115.8207787553298,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-30T16:29:33+00:00",
-      "temperature_c": 15.3,
-      "temperature_f": 59.540000000000006,
-      "humidity": 80,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 30,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco settles under a clean, moonlit sky, the kind that sharpens edges and hushes the streets. It ...",
-    "color_code": "#0b1e3a"
-  },
-  {
     "timestamp": "2025-10-31 04:25:15",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Subiaco wakes before the sun, the streets tinted a quiet blue and the sky mostly clear, promising a ...",
     "color_code": "#87A8D0"
+  },
+  {
+    "timestamp": "2025-11-07 09:48:43",
+    "location": {
+      "name": "Cottesloe",
+      "latitude": -31.99530858533898,
+      "longitude": 115.7516610762625,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-07T01:48:43+00:00",
+      "temperature_c": 20.64,
+      "temperature_f": 69.152,
+      "humidity": 52,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 80,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Late morning in Cottesloe arrives under a quilt of broken cloud, the light bright but softened so th...",
+    "color_code": "#B0C4DE"
   }
 ]

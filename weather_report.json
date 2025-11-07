@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Cottesloe",
             "country": "AU",
-            "latitude": -31.94971269575135,
-            "longitude": 115.820717463501
+            "latitude": -31.99530858533898,
+            "longitude": 115.7516610762625
         },
         "current_conditions": {
-            "timestamp": "2025-11-06T20:26:00+00:00",
-            "temperature_c": 14.16,
-            "temperature_f": 57.488,
-            "humidity": 75,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 110,
-            "description": "clear sky"
+            "timestamp": "2025-11-07T01:48:43+00:00",
+            "temperature_c": 20.64,
+            "temperature_f": 69.152,
+            "humidity": 52,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 80,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-11-06T21:00:00+00:00",
-                "temperature": 14.16,
-                "windSpeed": 8.187420000000001,
-                "windDirection": 133,
-                "shortForecast": "clear sky"
+                "startTime": "2025-11-07T03:00:00+00:00",
+                "temperature": 20.64,
+                "windSpeed": 7.717650000000001,
+                "windDirection": 201,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-11-07T00:00:00+00:00",
-                "temperature": 15.31,
-                "windSpeed": 8.25453,
-                "windDirection": 120,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-11-07T06:00:00+00:00",
+                "temperature": 20.21,
+                "windSpeed": 19.39479,
+                "windDirection": 209,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco wakes before the sun, the streets tinted a quiet blue and the sky mostly clear, promising a clean, glassy light as dawn tips in. The first hours look bright and gentle, with only a few scattered clouds wandering in by midmorning to soften the edges. Visibility should be crisp, the sort of morning where outlines feel newly etched. As the light strengthens, the UV will climb quickly; by late morning it\u2019s likely to be assertive, the kind that asks for sunscreen, a brim, and dark lenses.\n\nIt feels like a day for light layers: something easy over the shoulders at first, pared back to short sleeves once the sun finds its stride. An unhurried walk to fetch bread or a coffee suits this hour, or a quiet loop on the bike before the day gathers heat and glare. Open the windows, let the cool air rinse the rooms, hang a wash while the sky is honest. If you\u2019ll be out through lunch, plan your route with shade in mind, and let the afternoon be patient work indoors, saving the next errand for the gentle light returning toward evening.",
-    "color_code": "#87A8D0",
-    "timestamp": "2025-11-07 04:26:00",
+    "weather_report": "Late morning in Cottesloe arrives under a quilt of broken cloud, the light bright but softened so the day feels calm at the edges. Expect this dappled pattern to hold through early afternoon: sun slipping in and out, a silvered glare on the water when it breaks through, and otherwise a high, pale sky. Even with the cloud, the UV will surge toward midday; the sun bites here through gaps and gauze alike, so sunscreen, sunglasses, and a brim help. The air looks clear and clean, the horizon crisp, with a gentle sea breeze likely to gather after lunch.\n\nPleasant more than perfect. Dress in easy layers\u2014a light shirt you can roll at the sleeves, shorts or a skirt, and shoes you don\u2019t mind wandering in. It\u2019s a good morning for ordinary joys: a slow walk for coffee, errands by foot, hanging laundry to catch the moving light, a quiet lap at the pool, or tending a few plants while the sky flickers above. As the day opens up, a stroll along the foreshore or a short bike to the shops would suit the mood: unhurried, bright, and comfortably alive.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-11-07 09:48:43",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94971269575135,
-        "longitude": 115.820717463501,
+        "name": "Cottesloe",
+        "latitude": -31.99530858533898,
+        "longitude": 115.7516610762625,
         "timezone": "Australia/Perth"
     }
 }
