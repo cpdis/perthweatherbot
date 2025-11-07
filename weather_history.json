@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-10-31 09:48:05",
-    "location": {
-      "name": "North Perth",
-      "latitude": -31.93578040305504,
-      "longitude": 115.8489705504407,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-31T01:48:04+00:00",
-      "temperature_c": 20.88,
-      "temperature_f": 69.584,
-      "humidity": 64,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 340,
-      "description": "broken clouds"
-    },
-    "report_summary": "Morning in North Perth arrives under a quilt of broken cloud, the sun showing itself in soft glances...",
-    "color_code": "#7D8A99"
-  },
-  {
-    "timestamp": "2025-10-31 12:27:43",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967796927394,
-      "longitude": 115.8208433628888,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-31T04:27:42+00:00",
-      "temperature_c": 22.79,
-      "temperature_f": 73.02199999999999,
-      "humidity": 56,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 310,
-      "description": "broken clouds"
-    },
-    "report_summary": "Midday in Subiaco feels muted and silvery, the sun hiding behind a quilt of cloud that thickens towa...",
-    "color_code": "#6E7F8D"
-  },
-  {
     "timestamp": "2025-10-31 16:29:35",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon in Shenton Park arrives polished and cloudless, the sky a taut blue sheet turning slo...",
     "color_code": "#F4C27A"
+  },
+  {
+    "timestamp": "2025-11-07 20:47:07",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969735686783,
+      "longitude": 115.8209044754674,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-07T12:47:07+00:00",
+      "temperature_c": 19.18,
+      "temperature_f": 66.524,
+      "humidity": 49,
+      "wind_speed_mph": 10.35731,
+      "wind_direction": 170,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco settles into a clear, untroubled evening, the sky rinsed clean and steady, with stars beginn...",
+    "color_code": "#0B2545"
   }
 ]
