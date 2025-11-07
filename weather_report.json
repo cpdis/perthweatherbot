@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Shenton Park",
             "country": "AU",
-            "latitude": -31.94622583333333,
-            "longitude": 115.8384175666667
+            "latitude": -31.95664328433991,
+            "longitude": 115.8200298278301
         },
         "current_conditions": {
-            "timestamp": "2025-11-07T04:26:57+00:00",
-            "temperature_c": 23.44,
-            "temperature_f": 74.19200000000001,
-            "humidity": 43,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 160,
+            "timestamp": "2025-11-07T08:31:19+00:00",
+            "temperature_c": 24.52,
+            "temperature_f": 76.136,
+            "humidity": 42,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 200,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-07T06:00:00+00:00",
-                "temperature": 24.08,
-                "windSpeed": 16.59854,
-                "windDirection": 216,
+                "startTime": "2025-11-07T09:00:00+00:00",
+                "temperature": 24.52,
+                "windSpeed": 19.886930000000003,
+                "windDirection": 204,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-07T09:00:00+00:00",
-                "temperature": 23.73,
-                "windSpeed": 15.815590000000002,
-                "windDirection": 209,
+                "startTime": "2025-11-07T12:00:00+00:00",
+                "temperature": 23.38,
+                "windSpeed": 14.3168,
+                "windDirection": 140,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Midday in Subiaco arrives with a lucid, uncomplicated sky; sunlight pours in without fuss, edges crisp, shadows honest. Forecasts keep the day on this bright track through the afternoon into early evening, so expect a steady run of blue and little in the way of cloud or distraction. The UV will peak through the early afternoon under this clean sun, so lean on a brimmed hat, sunglasses, and a swipe of sunscreen; light, breathable layers will feel right, with a spare layer handy if a breeze picks up later. It\u2019s the sort of pleasant day made for ordinary rituals: a quiet walk to fetch lunch, errands done on foot, a line of laundry left to drink the light, or a short turn in the garden; as the sun lowers, the brightness will soften to a kinder glow, inviting an unhurried stroll before supper.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-11-07 12:26:57",
+    "weather_report": "Late afternoon in Shenton Park arrives polished and cloudless, the sky a taut blue sheet turning slowly to honey. The day has been unabashedly sunny; midday UV would have bitten quickly, and even now the sting lingers, so a hat, sunglasses, and a dab of sunscreen still make sense if you\u2019re out for a while. The air feels dry and clean, edges crisp, with a light breeze that keeps the warmth companionable rather than harsh.\n\nExpect the clear theme to hold through sunset and into a mild, starry evening. It\u2019s pleasant weather for breathable fabrics and easy shoes, with a light layer handy once the sun slips away. These are good hours for ordinary comforts: a loop around Lake Jualbup, a quiet errand on foot, watering the garden, or supper on the balcony while the light fades. If you saved your exercise for later, this is the forgiving window; if you were out at noon, your skin has earned a rest.",
+    "color_code": "#F4C27A",
+    "timestamp": "2025-11-07 16:31:19",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94622583333333,
-        "longitude": 115.8384175666667,
+        "name": "Shenton Park",
+        "latitude": -31.95664328433991,
+        "longitude": 115.8200298278301,
         "timezone": "Australia/Perth"
     }
 }
