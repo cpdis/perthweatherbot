@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-10-31 04:25:15",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968897852062,
-      "longitude": 115.8207787553298,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-10-30T20:25:15+00:00",
-      "temperature_c": 13.58,
-      "temperature_f": 56.444,
-      "humidity": 89,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 20,
-      "description": "clear sky"
-    },
-    "report_summary": "Before sunrise in Subiaco, the air feels hushed and clean, the sky a deep ink slowly rinsing toward ...",
-    "color_code": "#1C2E66"
-  },
-  {
     "timestamp": "2025-10-31 09:48:05",
     "location": {
       "name": "North Perth",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Late morning in Cottesloe arrives under a quilt of broken cloud, the light bright but softened so th...",
     "color_code": "#B0C4DE"
+  },
+  {
+    "timestamp": "2025-11-07 12:26:57",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94622583333333,
+      "longitude": 115.8384175666667,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-07T04:26:57+00:00",
+      "temperature_c": 23.44,
+      "temperature_f": 74.19200000000001,
+      "humidity": 43,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 160,
+      "description": "clear sky"
+    },
+    "report_summary": "Midday in Subiaco arrives with a lucid, uncomplicated sky; sunlight pours in without fuss, edges cri...",
+    "color_code": "#87CEEB"
   }
 ]
