@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-11-01 16:26:19",
-    "location": {
-      "name": "Dalkeith",
-      "latitude": -31.99481881812886,
-      "longitude": 115.8094594646688,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-01T08:26:19+00:00",
-      "temperature_c": 19.64,
-      "temperature_f": 67.352,
-      "humidity": 49,
-      "wind_speed_mph": 20.71462,
-      "wind_direction": 220,
-      "description": "clear sky"
-    },
-    "report_summary": "Late afternoon in Dalkeith arrives clear and quiet, the sun sliding low with that November gold that...",
-    "color_code": "#F2B35E"
-  },
-  {
     "timestamp": "2025-11-01 20:41:00",
     "location": {
       "name": "Subiaco",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Northbridge settles into a quiet night after a day that wore only a few clouds like loose buttons on...",
     "color_code": "#0B1E3A"
+  },
+  {
+    "timestamp": "2025-11-09 04:21:48",
+    "location": {
+      "name": "Northbridge",
+      "latitude": -31.94609769831934,
+      "longitude": 115.859864597996,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-08T20:18:39+00:00",
+      "temperature_c": 15.74,
+      "temperature_f": 60.332,
+      "humidity": 63,
+      "wind_speed_mph": 24.1596,
+      "wind_direction": 90,
+      "description": "clear sky"
+    },
+    "report_summary": "Northbridge wakes in the hush before dawn, the sky largely clear with only a few faint brushstrokes ...",
+    "color_code": "#0B2545"
   }
 ]
