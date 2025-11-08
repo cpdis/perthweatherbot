@@ -7,34 +7,34 @@
             "longitude": 115.859864597996
         },
         "current_conditions": {
-            "timestamp": "2025-11-08T12:41:10+00:00",
-            "temperature_c": 19.47,
-            "temperature_f": 67.04599999999999,
-            "humidity": 66,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 180,
+            "timestamp": "2025-11-08T16:25:27+00:00",
+            "temperature_c": 19.92,
+            "temperature_f": 67.85600000000001,
+            "humidity": 42,
+            "wind_speed_mph": 20.71462,
+            "wind_direction": 100,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-08T15:00:00+00:00",
-                "temperature": 19.6,
-                "windSpeed": 11.699510000000002,
-                "windDirection": 103,
-                "shortForecast": "clear sky"
-            },
-            {
                 "startTime": "2025-11-08T18:00:00+00:00",
-                "temperature": 17.91,
+                "temperature": 19.16,
                 "windSpeed": 16.53143,
                 "windDirection": 99,
-                "shortForecast": "scattered clouds"
+                "shortForecast": "few clouds"
+            },
+            {
+                "startTime": "2025-11-08T21:00:00+00:00",
+                "temperature": 17.63,
+                "windSpeed": 15.077380000000002,
+                "windDirection": 90,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Northbridge settles into a hushed evening after a day that opened wide and sunny, the afternoon polished to a clear gloss before a band of scattered clouds wandered in toward dusk. The sky now is mostly open and quietly reflective, with the moon and a few brave stars slipping through the gauze. UV is no longer a concern; earlier it would have been modest at best by midafternoon and then swiftly fading. The air feels clean and steady, the kind of night where sound carries and porch lights seem warmer than usual.\n\nIt looks like a pleasant, unhurried stretch ahead. A light jacket or soft sweater suits the hour, with comfortable shoes if you\u2019re inclined to take a slow loop around the block or walk the dog beneath the thin cloud cover. Otherwise, this is good weather for small, useful rituals: stepping outside to breathe between chores, a cup of tea on the stoop, tidying tomorrow\u2019s bag, or a short errand before settling in.",
-    "color_code": "#1E2A44",
-    "timestamp": "2025-11-08 20:41:11",
+    "weather_report": "Northbridge settles into a quiet night after a day that wore only a few clouds like loose buttons on a blue coat. Earlier, sunshine slipped through freely and the UV felt gentle for November; now it\u2019s all muted, the sky mostly clear with a thin scatter of clouds and no UV to speak of. Visibility is clean and crisp, the kind of clarity that makes porch lights look steadier and distant trees a little more outlined against the dark.\n\nExpect the calm to linger overnight; if those light clouds hold their shape, daybreak should begin bright and easy. Dress with a bit of caution to the chill: a warm sweater or light coat will feel right, and a hat if you\u2019re out for long. This is pleasant weather for small errands and quiet rituals\u2014an unhurried walk to the corner, sorting tomorrow\u2019s bag by an open window, or a short spin around the block with a thermos in hand before turning in. In the morning, sunglasses may earn a place by the door if the sun returns in the same forgiving mood.",
+    "color_code": "#0B1E3A",
+    "timestamp": "2025-11-09 00:25:27",
     "location": {
         "name": "Northbridge",
         "latitude": -31.94609769831934,
