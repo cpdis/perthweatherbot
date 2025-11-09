@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Fremantle",
+            "name": "Innaloo",
             "country": "AU",
-            "latitude": -32.0575055982334,
-            "longitude": 115.745057564893
+            "latitude": -31.90348469419136,
+            "longitude": 115.7995044701386
         },
         "current_conditions": {
-            "timestamp": "2025-11-09T01:52:54+00:00",
-            "temperature_c": 24.46,
-            "temperature_f": 76.028,
-            "humidity": 38,
+            "timestamp": "2025-11-09T04:25:27+00:00",
+            "temperature_c": 28.37,
+            "temperature_f": 83.066,
+            "humidity": 23,
             "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 60,
+            "wind_direction": 110,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-09T03:00:00+00:00",
-                "temperature": 24.46,
-                "windSpeed": 2.41596,
-                "windDirection": 99,
+                "startTime": "2025-11-09T06:00:00+00:00",
+                "temperature": 28.45,
+                "windSpeed": 12.818010000000001,
+                "windDirection": 214,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-09T06:00:00+00:00",
-                "temperature": 23.79,
-                "windSpeed": 17.6723,
-                "windDirection": 220,
-                "shortForecast": "clear sky"
+                "startTime": "2025-11-09T09:00:00+00:00",
+                "temperature": 26.94,
+                "windSpeed": 16.03929,
+                "windDirection": 191,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Fremantle wakes under a hard, generous blue, the kind that leaves no place for cloud to hide. The morning sun is already bright and intent, sharpening edges and pulling color from the sea; by late morning into early afternoon it will be unrelenting. Expect a clear, dry day with excellent visibility and that polished, salt-tinged light the port knows so well. UV will be very high to extreme around midday under these pristine skies, so think shade when you can and armor up when you can\u2019t: sunscreen, sunglasses, a brim, and a light long-sleeve you won\u2019t mind wearing.\n\nDress for bright warmth rather than heat\u2014breathable fabrics and comfortable shoes\u2014and carry water. With the day this clear, small, ordinary plans will sing: a short errand on the bike before noon, coffee under an awning, laundry that will dry in a blink, a quiet wander beneath the fig trees on the Esplanade. If the beach calls, save the swim for later when the sun softens and the light goes honeyed; for now, let the morning be about easy movement and cool shade, windows open to let the sea air thread the rooms.",
+    "weather_report": "It\u2019s early afternoon in Innaloo and the light feels clean and insistent, the kind that sharpens edges and sends colors humming. Expect a mostly sunny stretch through the early afternoon with a clear, high sky; by late afternoon a scatter of friendly cloud should drift in and take a bit of the glare off. The UV will be very high through the peak hours, so the sun will feel direct and unblinking even as a sea-breeze stirs later and lends the air a gentler touch. Overall it\u2019s a bright, dry, good-spirited day with excellent visibility.\n\nDress for the light more than the temperature: airy fabrics, a brimmed hat, sunglasses, and sunscreen you don\u2019t forget to reapply. Step out briefly for errands now if you must, then save the longer stroll for mid to late afternoon when the breeze arrives and the light softens. It\u2019s a fine day to let a load of washing snap dry on the line, to open the windows and air the rooms, to sit by a shaded window with a cool drink and make a quiet plan for the week. Toward late afternoon, a gentle neighborhood walk or a quick ride to the shops will feel just right.",
     "color_code": "#87CEEB",
-    "timestamp": "2025-11-09 09:52:54",
+    "timestamp": "2025-11-09 12:25:27",
     "location": {
-        "name": "Fremantle",
-        "latitude": -32.0575055982334,
-        "longitude": 115.745057564893,
+        "name": "Innaloo",
+        "latitude": -31.90348469419136,
+        "longitude": 115.7995044701386,
         "timezone": "Australia/Perth"
     }
 }

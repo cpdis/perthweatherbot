@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-11-02 04:21:10",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967795352864,
-      "longitude": 115.820838537444,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-01T20:21:09+00:00",
-      "temperature_c": 10.39,
-      "temperature_f": 50.702,
-      "humidity": 77,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 120,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco stirs under a clear pre-dawn sky, the air quiet and uncomplicated, as the first hint of ligh...",
-    "color_code": "#1B365D"
-  },
-  {
     "timestamp": "2025-11-02 09:53:49",
     "location": {
       "name": "Midland",
@@ -877,6 +857,26 @@
       "description": "clear sky"
     },
     "report_summary": "Fremantle wakes under a hard, generous blue, the kind that leaves no place for cloud to hide. The mo...",
+    "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2025-11-09 12:25:27",
+    "location": {
+      "name": "Innaloo",
+      "latitude": -31.90348469419136,
+      "longitude": 115.7995044701386,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-09T04:25:27+00:00",
+      "temperature_c": 28.37,
+      "temperature_f": 83.066,
+      "humidity": 23,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 110,
+      "description": "clear sky"
+    },
+    "report_summary": "It\u2019s early afternoon in Innaloo and the light feels clean and insistent, the kind that sharpens edge...",
     "color_code": "#87CEEB"
   }
 ]
