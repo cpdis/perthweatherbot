@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Northbridge",
+            "name": "Fremantle",
             "country": "AU",
-            "latitude": -31.94609769831934,
-            "longitude": 115.859864597996
+            "latitude": -32.0575055982334,
+            "longitude": 115.745057564893
         },
         "current_conditions": {
-            "timestamp": "2025-11-08T20:18:39+00:00",
-            "temperature_c": 15.74,
-            "temperature_f": 60.332,
-            "humidity": 63,
-            "wind_speed_mph": 24.1596,
-            "wind_direction": 90,
+            "timestamp": "2025-11-09T01:52:54+00:00",
+            "temperature_c": 24.46,
+            "temperature_f": 76.028,
+            "humidity": 38,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 60,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-08T21:00:00+00:00",
-                "temperature": 15.74,
-                "windSpeed": 15.860330000000001,
-                "windDirection": 89,
+                "startTime": "2025-11-09T03:00:00+00:00",
+                "temperature": 24.46,
+                "windSpeed": 2.41596,
+                "windDirection": 99,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-09T00:00:00+00:00",
-                "temperature": 17.5,
-                "windSpeed": 14.607610000000001,
-                "windDirection": 74,
-                "shortForecast": "few clouds"
+                "startTime": "2025-11-09T06:00:00+00:00",
+                "temperature": 23.79,
+                "windSpeed": 17.6723,
+                "windDirection": 220,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Northbridge wakes in the hush before dawn, the sky largely clear with only a few faint brushstrokes of cloud adrift. It feels calm and a bit cool, that quiet hour when the streets belong to cats and delivery vans, when breath hangs lightly and the first birds consider their opening notes.\n\nOnce the sun lifts, expect a bright, mostly sunny day with just enough passing cloud to give the light some texture. The air should feel clean and crisp, visibility good, shadows confident. UV is negligible now but will build steadily through late morning; a touch of sunscreen and sunglasses will serve you well if you\u2019re out around midday. Dress in simple layers: a light jacket to start, an easy shirt underneath for when the day warms its shoulders. It looks like a pleasant one for unhurried errands, watering the plants, a short walk with coffee in hand, or giving the car a rinse before lunch.",
-    "color_code": "#0B2545",
-    "timestamp": "2025-11-09 04:21:48",
+    "weather_report": "Fremantle wakes under a hard, generous blue, the kind that leaves no place for cloud to hide. The morning sun is already bright and intent, sharpening edges and pulling color from the sea; by late morning into early afternoon it will be unrelenting. Expect a clear, dry day with excellent visibility and that polished, salt-tinged light the port knows so well. UV will be very high to extreme around midday under these pristine skies, so think shade when you can and armor up when you can\u2019t: sunscreen, sunglasses, a brim, and a light long-sleeve you won\u2019t mind wearing.\n\nDress for bright warmth rather than heat\u2014breathable fabrics and comfortable shoes\u2014and carry water. With the day this clear, small, ordinary plans will sing: a short errand on the bike before noon, coffee under an awning, laundry that will dry in a blink, a quiet wander beneath the fig trees on the Esplanade. If the beach calls, save the swim for later when the sun softens and the light goes honeyed; for now, let the morning be about easy movement and cool shade, windows open to let the sea air thread the rooms.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-11-09 09:52:54",
     "location": {
-        "name": "Northbridge",
-        "latitude": -31.94609769831934,
-        "longitude": 115.859864597996,
+        "name": "Fremantle",
+        "latitude": -32.0575055982334,
+        "longitude": 115.745057564893,
         "timezone": "Australia/Perth"
     }
 }
