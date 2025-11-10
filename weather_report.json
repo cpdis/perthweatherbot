@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Daglish",
             "country": "AU",
-            "latitude": -31.94968606070941,
-            "longitude": 115.820822883646
+            "latitude": -31.94763225,
+            "longitude": 115.8198188166667
         },
         "current_conditions": {
-            "timestamp": "2025-11-10T04:29:55+00:00",
-            "temperature_c": 27.96,
-            "temperature_f": 82.328,
-            "humidity": 27,
-            "wind_speed_mph": 18.410510000000002,
+            "timestamp": "2025-11-10T08:32:49+00:00",
+            "temperature_c": 30.27,
+            "temperature_f": 86.486,
+            "humidity": 18,
+            "wind_speed_mph": 13.802290000000001,
             "wind_direction": 90,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-10T06:00:00+00:00",
-                "temperature": 28.91,
-                "windSpeed": 8.85852,
-                "windDirection": 104,
+                "startTime": "2025-11-10T09:00:00+00:00",
+                "temperature": 30.27,
+                "windSpeed": 10.62575,
+                "windDirection": 113,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-10T09:00:00+00:00",
-                "temperature": 29.24,
-                "windSpeed": 12.16928,
-                "windDirection": 105,
-                "shortForecast": "few clouds"
+                "startTime": "2025-11-10T12:00:00+00:00",
+                "temperature": 28.41,
+                "windSpeed": 13.8694,
+                "windDirection": 121,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Midday in Subiaco arrives with a clean, confident light; the sky feels open and steady now and should stay bright through the afternoon, with only a few shy clouds wandering in toward evening. Visibility looks crisp and generous, the kind of clear day that sharpens edges and invites a lingering glance upward. The sun has some bite to it, and the UV will be strong through the early afternoon before softening later, so dress in breathable layers with a brimmed hat, sunglasses, and sunscreen, and keep water at hand. It\u2019s pleasant if you give it shade: a quick walk to run an errand, lunch on a verandah under an awning, a load of washing that will dry in no time, or a simple circuit of the quieter streets as the light mellows and the day exhales.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-11-10 12:29:56",
+    "weather_report": "Daglish leans into a cloudless late afternoon, the sky a clear, polished blue and the sun still with some bite as it tilts toward evening. It has been a bright, dry day and remains so; the UV would have been fierce at midday and is easing now, but a little sting lingers until the light softens. Visibility is clean and far-reaching, edges crisp, with a gentle breeze that makes the warmth pleasant rather than overbearing. The forecast into early evening stays serenely clear, promising a soft, golden fade to twilight and a calm, starry night.\n\nDress light and breathable, with a hat and sunglasses if you\u2019re out before sunset; sunscreen is still sensible for a late errand or walk. As the air cools, a thin layer tossed over the shoulders will do. These are hours made for unhurried things: watering the garden while shadows lengthen, a quiet loop around the block, cycling to pick up a few groceries, or sitting by an open window with a book as the day sighs toward night. If you have laundry, the air will finish it quickly; if you have plans, keep them outdoors and unhurried.",
+    "color_code": "#F6C27A",
+    "timestamp": "2025-11-10 16:32:50",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968606070941,
-        "longitude": 115.820822883646,
+        "name": "Daglish",
+        "latitude": -31.94763225,
+        "longitude": 115.8198188166667,
         "timezone": "Australia/Perth"
     }
 }
