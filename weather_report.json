@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Daglish",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94763225,
-            "longitude": 115.8198188166667
+            "latitude": -31.94965397924826,
+            "longitude": 115.8206466593216
         },
         "current_conditions": {
-            "timestamp": "2025-11-10T08:32:49+00:00",
-            "temperature_c": 30.27,
-            "temperature_f": 86.486,
-            "humidity": 18,
-            "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 90,
+            "timestamp": "2025-11-10T12:49:41+00:00",
+            "temperature_c": 24.2,
+            "temperature_f": 75.56,
+            "humidity": 30,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 120,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-10T09:00:00+00:00",
-                "temperature": 30.27,
-                "windSpeed": 10.62575,
-                "windDirection": 113,
+                "startTime": "2025-11-10T15:00:00+00:00",
+                "temperature": 23.2,
+                "windSpeed": 20.267220000000002,
+                "windDirection": 105,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-10T12:00:00+00:00",
-                "temperature": 28.41,
-                "windSpeed": 13.8694,
-                "windDirection": 121,
+                "startTime": "2025-11-10T18:00:00+00:00",
+                "temperature": 19.87,
+                "windSpeed": 19.9093,
+                "windDirection": 92,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Daglish leans into a cloudless late afternoon, the sky a clear, polished blue and the sun still with some bite as it tilts toward evening. It has been a bright, dry day and remains so; the UV would have been fierce at midday and is easing now, but a little sting lingers until the light softens. Visibility is clean and far-reaching, edges crisp, with a gentle breeze that makes the warmth pleasant rather than overbearing. The forecast into early evening stays serenely clear, promising a soft, golden fade to twilight and a calm, starry night.\n\nDress light and breathable, with a hat and sunglasses if you\u2019re out before sunset; sunscreen is still sensible for a late errand or walk. As the air cools, a thin layer tossed over the shoulders will do. These are hours made for unhurried things: watering the garden while shadows lengthen, a quiet loop around the block, cycling to pick up a few groceries, or sitting by an open window with a book as the day sighs toward night. If you have laundry, the air will finish it quickly; if you have plans, keep them outdoors and unhurried.",
-    "color_code": "#F6C27A",
-    "timestamp": "2025-11-10 16:32:50",
+    "weather_report": "Subiaco slips into a calm, glass-clear night, the day\u2019s harsh edges polished away to a quiet sheen. The sky is clean as a whistle and stays that way through late evening and past midnight; with the sun long gone, UV is effectively nil and the world softens under starlight. It\u2019s the sort of clarity that makes distant sounds carry and streetlights feel almost theatrical. Expect the mood to remain stable and pleasant rather than cold or clammy; when the sun returns, it should be a bright, unfiltered start, and UV will rise quickly once morning takes hold.\n\nDress in easy layers this evening\u2014a light shirt and a soft jacket will be comfortable if you linger outdoors. Consider a gentle after-dinner stroll, a slow lap around the block with the dog, or a few unhurried minutes on the porch to let the day exhale. If you\u2019re in a practical mood, water the garden now that the heat is off and set out what you need for an early, sun-sparked start tomorrow.",
+    "color_code": "#0b1a3a",
+    "timestamp": "2025-11-10 20:49:42",
     "location": {
-        "name": "Daglish",
-        "latitude": -31.94763225,
-        "longitude": 115.8198188166667,
+        "name": "Subiaco",
+        "latitude": -31.94965397924826,
+        "longitude": 115.8206466593216,
         "timezone": "Australia/Perth"
     }
 }

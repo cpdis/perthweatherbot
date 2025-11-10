@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-03 09:53:26",
-    "location": {
-      "name": "West Perth",
-      "latitude": -31.95189389319706,
-      "longitude": 115.837818251447,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-03T01:53:25+00:00",
-      "temperature_c": 21.84,
-      "temperature_f": 71.312,
-      "humidity": 39,
-      "wind_speed_mph": 19.57375,
-      "wind_direction": 80,
-      "description": "clear sky"
-    },
-    "report_summary": "Mid-morning in West Perth arrives with a clean, lucid sky and a bright, amiable sun. The light has a...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-11-03 12:31:10",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95445900590294,
-      "longitude": 115.8537834453617,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-03T04:31:09+00:00",
-      "temperature_c": 27.21,
-      "temperature_f": 80.97800000000001,
-      "humidity": 26,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 90,
-      "description": "clear sky"
-    },
-    "report_summary": "Midday finds Perth under a polished, uncomplicated blue; the sun is frank and generous, shadows shor...",
-    "color_code": "#87CEFA"
-  },
-  {
     "timestamp": "2025-11-03 16:32:18",
     "location": {
       "name": "Perth",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Daglish leans into a cloudless late afternoon, the sky a clear, polished blue and the sun still with...",
     "color_code": "#F6C27A"
+  },
+  {
+    "timestamp": "2025-11-10 20:49:42",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94965397924826,
+      "longitude": 115.8206466593216,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-10T12:49:41+00:00",
+      "temperature_c": 24.2,
+      "temperature_f": 75.56,
+      "humidity": 30,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 120,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco slips into a calm, glass-clear night, the day\u2019s harsh edges polished away to a quiet sheen. ...",
+    "color_code": "#0b1a3a"
   }
 ]
