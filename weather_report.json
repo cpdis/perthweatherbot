@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Mount Pleasant",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -32.01207090922271,
-            "longitude": 115.8506658458529
+            "latitude": -31.95408570065581,
+            "longitude": 115.8524615381576
         },
         "current_conditions": {
-            "timestamp": "2025-11-11T04:28:13+00:00",
-            "temperature_c": 31.51,
-            "temperature_f": 88.718,
-            "humidity": 21,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 70,
+            "timestamp": "2025-11-11T08:30:59+00:00",
+            "temperature_c": 32.85,
+            "temperature_f": 91.13000000000001,
+            "humidity": 20,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 210,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-11T06:00:00+00:00",
-                "temperature": 31.86,
-                "windSpeed": 1.70012,
-                "windDirection": 139,
+                "startTime": "2025-11-11T09:00:00+00:00",
+                "temperature": 32.85,
+                "windSpeed": 10.513900000000001,
+                "windDirection": 183,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-11T09:00:00+00:00",
-                "temperature": 31.14,
-                "windSpeed": 12.43772,
-                "windDirection": 193,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-11-11T12:00:00+00:00",
+                "temperature": 30.14,
+                "windSpeed": 10.84945,
+                "windDirection": 180,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Midday in Mount Pleasant is bright and open, the sky mostly clear with a scatter of easygoing clouds drifting through. The sun has the upper hand, so expect good light and a dry day, the sort that sharpens edges and makes colors feel honest. UV looks moderate around the early afternoon, enough for sunglasses and a touch of sunscreen if you linger, easing as the sun tilts later. No drama on the horizon, just a gentle, agreeable day that invites unhurried errands and small pleasures.\n\nIt feels like a light-layer day: a soft sweater or a thin jacket over a comfortable shirt, shoes you can walk in, and shades in your pocket. If you have the time, take lunch outside or slip out for a short loop through the neighborhood; let the sunshine do its quiet work. Open a window, air out a room, water the plants, or sit by a bright pane with a book you\u2019ve been meaning to finish. The afternoon should remain pleasantly clear, with just enough cloud to give the sky character.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-11-11 12:28:13",
+    "weather_report": "Perth leans into late afternoon under a lacquered blue, the horizon clean and the light unblinking. The sun still bites a little, the day bright and lucid, with shadows lengthening and edges crisp. It has been a high\u2011glare sort of afternoon; UV was fierce earlier and will stay assertive a while longer, then back down as the sun slides toward evening.\n\nExpect the rest of the day to stay cloudless and calm, the brightness softening to honeyed light before a clear night. It looks pleasantly uncomplicated: choose light, breathable layers, sunglasses, a hat, and a touch of sunscreen if you\u2019re out before dusk, with water in hand. Good hours for modest errands and small comforts\u2014walk to the corner shop, give the balcony herbs a drink, hang a fresh load of washing, or take a gentle loop around the block once the glare eases.",
+    "color_code": "#F7C97A",
+    "timestamp": "2025-11-11 16:31:00",
     "location": {
-        "name": "Mount Pleasant",
-        "latitude": -32.01207090922271,
-        "longitude": 115.8506658458529,
+        "name": "Perth",
+        "latitude": -31.95408570065581,
+        "longitude": 115.8524615381576,
         "timezone": "Australia/Perth"
     }
 }
