@@ -7,34 +7,34 @@
             "longitude": 115.7691030532086
         },
         "current_conditions": {
-            "timestamp": "2025-11-11T12:48:41+00:00",
-            "temperature_c": 24.93,
-            "temperature_f": 76.874,
-            "humidity": 41,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 190,
+            "timestamp": "2025-11-11T16:30:14+00:00",
+            "temperature_c": 21.46,
+            "temperature_f": 70.628,
+            "humidity": 52,
+            "wind_speed_mph": 2.99758,
+            "wind_direction": 169,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-11T15:00:00+00:00",
-                "temperature": 24.31,
-                "windSpeed": 6.375450000000001,
-                "windDirection": 119,
-                "shortForecast": "clear sky"
-            },
-            {
                 "startTime": "2025-11-11T18:00:00+00:00",
-                "temperature": 22.18,
+                "temperature": 21.46,
                 "windSpeed": 3.78053,
                 "windDirection": 91,
                 "shortForecast": "clear sky"
+            },
+            {
+                "startTime": "2025-11-11T21:00:00+00:00",
+                "temperature": 20.85,
+                "windSpeed": 7.94135,
+                "windDirection": 190,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Swanbourne settles under a clear, uncomplicated sky tonight; the air feels clean and a touch brittle, the kind of evening where sound carries and stars show their quiet faces. The day ran bright and transparent, a pale November sun casting long shadows through the afternoon, more pretty than powerful, with the UV index low then and virtually none to speak of now. With no cloud to blur the edges, visibility has been sharp and honest from daylight into night.\n\nIt all makes for a pleasant, if brisk, end to the day. If you\u2019re heading out, think in layers: a warm coat and maybe a scarf to take the edge off that nocturnal chill; earlier, a simple jumper would have done. These are good conditions for a slow wander after dinner, a short dog walk beneath the steady stars, or a quiet trip to post a letter without worrying about drizzle. Indoors, a lamp by the window and a book will do nicely while the night stays clear and calm.",
-    "color_code": "#0B1D3A",
-    "timestamp": "2025-11-11 20:48:41",
+    "weather_report": "Just after midnight in Swanbourne, the night is clear and unhurried, the kind that makes the streetlights seem gentler and the air a touch cleaner. The sky is mostly open with only a few strays of cloud later toward dawn; visibility is good, stars easy to pick out. UV is essentially absent now, and the mood outdoors is calm and quiet, a fine moment for a last small errand or a slow breath on the porch.\n\nToward sunrise, expect a bright start with only a light brush of cloud. If those patches drift away, the day should feel sunny and transparent, with UV climbing quickly once the sun is up; plan shade and sunscreen if you\u2019ll be out for long. Dress in light layers for the cooler early hours\u2014a soft jumper or light jacket\u2014and trade them for something breezier later, with sunglasses in your pocket just in case. This looks like a day for the ordinary pleasures: a brisk morning walk, a tidy-up of the garden, a ride to the shops, or reading by an open window while the light clears its throat.",
+    "color_code": "#0b1e3a",
+    "timestamp": "2025-11-12 00:30:15",
     "location": {
         "name": "Swanbourne",
         "latitude": -31.98271642528047,
