@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Swanbourne",
             "country": "AU",
-            "latitude": -31.95408570065581,
-            "longitude": 115.8524615381576
+            "latitude": -31.98271642528047,
+            "longitude": 115.7691030532086
         },
         "current_conditions": {
-            "timestamp": "2025-11-11T08:30:59+00:00",
-            "temperature_c": 32.85,
-            "temperature_f": 91.13000000000001,
-            "humidity": 20,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 210,
+            "timestamp": "2025-11-11T12:48:41+00:00",
+            "temperature_c": 24.93,
+            "temperature_f": 76.874,
+            "humidity": 41,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 190,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-11T09:00:00+00:00",
-                "temperature": 32.85,
-                "windSpeed": 10.513900000000001,
-                "windDirection": 183,
+                "startTime": "2025-11-11T15:00:00+00:00",
+                "temperature": 24.31,
+                "windSpeed": 6.375450000000001,
+                "windDirection": 119,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-11T12:00:00+00:00",
-                "temperature": 30.14,
-                "windSpeed": 10.84945,
-                "windDirection": 180,
+                "startTime": "2025-11-11T18:00:00+00:00",
+                "temperature": 22.18,
+                "windSpeed": 3.78053,
+                "windDirection": 91,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Perth leans into late afternoon under a lacquered blue, the horizon clean and the light unblinking. The sun still bites a little, the day bright and lucid, with shadows lengthening and edges crisp. It has been a high\u2011glare sort of afternoon; UV was fierce earlier and will stay assertive a while longer, then back down as the sun slides toward evening.\n\nExpect the rest of the day to stay cloudless and calm, the brightness softening to honeyed light before a clear night. It looks pleasantly uncomplicated: choose light, breathable layers, sunglasses, a hat, and a touch of sunscreen if you\u2019re out before dusk, with water in hand. Good hours for modest errands and small comforts\u2014walk to the corner shop, give the balcony herbs a drink, hang a fresh load of washing, or take a gentle loop around the block once the glare eases.",
-    "color_code": "#F7C97A",
-    "timestamp": "2025-11-11 16:31:00",
+    "weather_report": "Swanbourne settles under a clear, uncomplicated sky tonight; the air feels clean and a touch brittle, the kind of evening where sound carries and stars show their quiet faces. The day ran bright and transparent, a pale November sun casting long shadows through the afternoon, more pretty than powerful, with the UV index low then and virtually none to speak of now. With no cloud to blur the edges, visibility has been sharp and honest from daylight into night.\n\nIt all makes for a pleasant, if brisk, end to the day. If you\u2019re heading out, think in layers: a warm coat and maybe a scarf to take the edge off that nocturnal chill; earlier, a simple jumper would have done. These are good conditions for a slow wander after dinner, a short dog walk beneath the steady stars, or a quiet trip to post a letter without worrying about drizzle. Indoors, a lamp by the window and a book will do nicely while the night stays clear and calm.",
+    "color_code": "#0B1D3A",
+    "timestamp": "2025-11-11 20:48:41",
     "location": {
-        "name": "Perth",
-        "latitude": -31.95408570065581,
-        "longitude": 115.8524615381576,
+        "name": "Swanbourne",
+        "latitude": -31.98271642528047,
+        "longitude": 115.7691030532086,
         "timezone": "Australia/Perth"
     }
 }

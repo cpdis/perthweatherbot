@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-04 09:49:01",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94868972422687,
-      "longitude": 115.8355301578725,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-04T01:44:24+00:00",
-      "temperature_c": 24.42,
-      "temperature_f": 75.956,
-      "humidity": 31,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 80,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes under a clear, enamel-blue sky, the sun already brightening verandas and jacaranda sha...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-11-04 12:26:42",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95420482993999,
-      "longitude": 115.8527646442864,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-04T04:26:41+00:00",
-      "temperature_c": 26.05,
-      "temperature_f": 78.89,
-      "humidity": 46,
-      "wind_speed_mph": 13.802290000000001,
-      "wind_direction": 280,
-      "description": "clear sky"
-    },
-    "report_summary": "Midday in Perth arrives with a clean, open light, the kind that sharpens edges and makes the pavemen...",
-    "color_code": "#F2D98D"
-  },
-  {
     "timestamp": "2025-11-04 16:32:03",
     "location": {
       "name": "Perth",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Perth leans into late afternoon under a lacquered blue, the horizon clean and the light unblinking. ...",
     "color_code": "#F7C97A"
+  },
+  {
+    "timestamp": "2025-11-11 20:48:41",
+    "location": {
+      "name": "Swanbourne",
+      "latitude": -31.98271642528047,
+      "longitude": 115.7691030532086,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-11T12:48:41+00:00",
+      "temperature_c": 24.93,
+      "temperature_f": 76.874,
+      "humidity": 41,
+      "wind_speed_mph": 14.965530000000001,
+      "wind_direction": 190,
+      "description": "clear sky"
+    },
+    "report_summary": "Swanbourne settles under a clear, uncomplicated sky tonight; the air feels clean and a touch brittle...",
+    "color_code": "#0B1D3A"
   }
 ]
