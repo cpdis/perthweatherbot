@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-11-04 04:25:55",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967795352864,
-      "longitude": 115.820838537444,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-03T20:25:54+00:00",
-      "temperature_c": 21.4,
-      "temperature_f": 70.52,
-      "humidity": 33,
-      "wind_speed_mph": 28.76782,
-      "wind_direction": 90,
-      "description": "broken clouds"
-    },
-    "report_summary": "Before dawn in Subiaco, a quilt of broken cloud hangs quietly over the suburbs, letting through only...",
-    "color_code": "#2C3E50"
-  },
-  {
     "timestamp": "2025-11-04 09:49:01",
     "location": {
       "name": "Subiaco",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Morning in Subiaco arrives with a clean, polished sky and sunlight that sharpens edges on verandas a...",
     "color_code": "#87CEFA"
+  },
+  {
+    "timestamp": "2025-11-11 12:28:13",
+    "location": {
+      "name": "Mount Pleasant",
+      "latitude": -32.01207090922271,
+      "longitude": 115.8506658458529,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-11T04:28:13+00:00",
+      "temperature_c": 31.51,
+      "temperature_f": 88.718,
+      "humidity": 21,
+      "wind_speed_mph": 17.26964,
+      "wind_direction": 70,
+      "description": "clear sky"
+    },
+    "report_summary": "Midday in Mount Pleasant is bright and open, the sky mostly clear with a scatter of easygoing clouds...",
+    "color_code": "#87CEEB"
   }
 ]
