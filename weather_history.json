@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-11-04 16:32:03",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95402916888858,
-      "longitude": 115.8525968387823,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-04T08:32:02+00:00",
-      "temperature_c": 24.35,
-      "temperature_f": 75.83,
-      "humidity": 55,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 270,
-      "description": "thunderstorm"
-    },
-    "report_summary": "Perth leans into a soft, grey late afternoon, the light turning steely and the air smelling faintly ...",
-    "color_code": "#6A7D8B"
-  },
-  {
     "timestamp": "2025-11-04 20:51:19",
     "location": {
       "name": "Subiaco",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Just after midnight in Swanbourne, the night is clear and unhurried, the kind that makes the streetl...",
     "color_code": "#0b1e3a"
+  },
+  {
+    "timestamp": "2025-11-12 04:25:22",
+    "location": {
+      "name": "Swanbourne",
+      "latitude": -31.98271642528047,
+      "longitude": 115.7691030532086,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-11T20:25:22+00:00",
+      "temperature_c": 18.96,
+      "temperature_f": 66.128,
+      "humidity": 53,
+      "wind_speed_mph": 9.21644,
+      "wind_direction": 70,
+      "description": "broken clouds"
+    },
+    "report_summary": "Before sunrise, Swanbourne sits under a ragged ceiling of broken cloud, the light faint and pewtery,...",
+    "color_code": "#708090"
   }
 ]
