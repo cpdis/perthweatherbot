@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-05 09:50:03",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968974686758,
-      "longitude": 115.8206608184058,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-05T01:50:03+00:00",
-      "temperature_c": 22.82,
-      "temperature_f": 73.076,
-      "humidity": 59,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 10,
-      "description": "broken clouds"
-    },
-    "report_summary": "A soft, grey morning is settling over Subiaco, with light rain expected to drift in by late morning ...",
-    "color_code": "#6E7F8D"
-  },
-  {
-    "timestamp": "2025-11-05 12:27:19",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969495066043,
-      "longitude": 115.8207517968545,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-05T04:27:18+00:00",
-      "temperature_c": 23.41,
-      "temperature_f": 74.138,
-      "humidity": 59,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 220,
-      "description": "broken clouds"
-    },
-    "report_summary": "Midday in Subiaco arrives under a gauzy ceiling, the light silvered and soft, as if the day is takin...",
-    "color_code": "#8FA3B8"
-  },
-  {
     "timestamp": "2025-11-05 16:32:11",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon in Subiaco arrives under a clean, unmarred sky; the light is turning honeyed and the ...",
     "color_code": "#FDBA58"
+  },
+  {
+    "timestamp": "2025-11-12 20:49:54",
+    "location": {
+      "name": "Swanbourne",
+      "latitude": -31.97928301209171,
+      "longitude": 115.7548087893547,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-12T12:49:54+00:00",
+      "temperature_c": 19.83,
+      "temperature_f": 67.69399999999999,
+      "humidity": 69,
+      "wind_speed_mph": 9.21644,
+      "wind_direction": 220,
+      "description": "clear sky"
+    },
+    "report_summary": "After a lucid, blue afternoon, Swanbourne has slipped into a glassy, clear night. Skies stayed open ...",
+    "color_code": "#0b1d3a"
   }
 ]
