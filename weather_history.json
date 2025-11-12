@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-11-05 16:32:11",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94965481771007,
-      "longitude": 115.8209285593613,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-05T08:32:11+00:00",
-      "temperature_c": 23.6,
-      "temperature_f": 74.48,
-      "humidity": 59,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 240,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco settles into late afternoon with a clear, open sky and clean light on verandas; toward eveni...",
-    "color_code": "#F5C27A"
-  },
-  {
     "timestamp": "2025-11-05 20:49:17",
     "location": {
       "name": "Subiaco",
@@ -878,5 +858,25 @@
     },
     "report_summary": "After a lucid, blue afternoon, Swanbourne has slipped into a glassy, clear night. Skies stayed open ...",
     "color_code": "#0b1d3a"
+  },
+  {
+    "timestamp": "2025-11-13 00:31:47",
+    "location": {
+      "name": "Swanbourne",
+      "latitude": -31.97928301209171,
+      "longitude": 115.7548087893547,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-12T16:31:46+00:00",
+      "temperature_c": 16.87,
+      "temperature_f": 62.366,
+      "humidity": 66,
+      "wind_speed_mph": 10.35731,
+      "wind_direction": 190,
+      "description": "clear sky"
+    },
+    "report_summary": "Swanbourne has slipped into a quiet, crystalline night. The sky is clear and clean-edged, stars set ...",
+    "color_code": "#0a2240"
   }
 ]
