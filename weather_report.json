@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Swanbourne",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.97928301209171,
-            "longitude": 115.7548087893547
+            "latitude": -31.94966730599595,
+            "longitude": 115.820898137655
         },
         "current_conditions": {
-            "timestamp": "2025-11-12T20:26:12+00:00",
-            "temperature_c": 15.38,
-            "temperature_f": 59.684000000000005,
-            "humidity": 72,
-            "wind_speed_mph": 12.728530000000001,
-            "wind_direction": 147,
+            "timestamp": "2025-11-13T01:51:27+00:00",
+            "temperature_c": 21.31,
+            "temperature_f": 70.358,
+            "humidity": 49,
+            "wind_speed_mph": 6.91233,
+            "wind_direction": 120,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-12T21:00:00+00:00",
-                "temperature": 15.38,
-                "windSpeed": 12.728530000000001,
-                "windDirection": 149,
+                "startTime": "2025-11-13T03:00:00+00:00",
+                "temperature": 21.31,
+                "windSpeed": 13.891770000000001,
+                "windDirection": 223,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-13T00:00:00+00:00",
-                "temperature": 16.06,
-                "windSpeed": 9.26118,
-                "windDirection": 138,
-                "shortForecast": "clear sky"
+                "startTime": "2025-11-13T06:00:00+00:00",
+                "temperature": 22.1,
+                "windSpeed": 17.4486,
+                "windDirection": 220,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "A clear night has carried Swanbourne into a still, inky-blue dawn; stars thinning, the horizon quietly rinsing toward silver. The air will feel crisp on the first step outside, the kind that nudges you to breathe a little deeper. With skies untroubled through the small hours, expect a bright, clean morning once the sun lifts, the light sharp and honest, visibility excellent. UV will stay low for the season, so the day promises sunshine without bite, more glimmer than scorch.\n\nIt looks like a good day for unhurried, ordinary pleasures: a short walk before breakfast to hear the hedges stir, putting a wash on to catch the dry air, or clearing a windowsill to let the low sun warm the room. Dress in layers and a proper coat, with a scarf for that first chill; sunglasses won\u2019t be amiss against the clear-day glare. By midday the light should feel kind rather than fierce, the sort that makes errands easy and a coffee on a bench feel like a small reward.",
-    "color_code": "#0B2545",
-    "timestamp": "2025-11-13 04:26:13",
+    "weather_report": "Subiaco wakes under a bright, uncomplicated sky, the kind that sharpens edges and makes colors ring. The air feels clean and dry, with the sun already taking charge and the UV climbing quickly through the morning; by late morning it will be unforgiving on bare skin, though the light itself is crystalline and kind. Expect the day to stay mostly sunny, with a scattering of friendly clouds gliding in after lunch that won\u2019t dull the shine.\n\nIt looks like a pleasantly warm day if you keep to shade when the sun is highest. Dress in light, breathable layers, add a brimmed hat and sunglasses, and don\u2019t skip sunscreen; a linen shirt or long sleeves will feel wiser than it sounds. Good hours now for a gentle errand on foot, a coffee carried through jacaranda shade, laundry on the line, or some unhurried pottering in the garden before the sun bites. Save the longer walk or a quiet loop by bike for late afternoon, when the light softens and the streets exhale.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-11-13 09:51:27",
     "location": {
-        "name": "Swanbourne",
-        "latitude": -31.97928301209171,
-        "longitude": 115.7548087893547,
+        "name": "Subiaco",
+        "latitude": -31.94966730599595,
+        "longitude": 115.820898137655,
         "timezone": "Australia/Perth"
     }
 }
