@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "South Perth",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.97047334928128,
-            "longitude": 115.8469067037511
+            "latitude": -31.95506868432269,
+            "longitude": 115.8551730898718
         },
         "current_conditions": {
-            "timestamp": "2025-11-13T04:28:29+00:00",
-            "temperature_c": 23.76,
-            "temperature_f": 74.768,
-            "humidity": 44,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 260,
+            "timestamp": "2025-11-13T08:31:12+00:00",
+            "temperature_c": 21.61,
+            "temperature_f": 70.898,
+            "humidity": 52,
+            "wind_speed_mph": 19.57375,
+            "wind_direction": 240,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-13T06:00:00+00:00",
-                "temperature": 23.73,
-                "windSpeed": 17.26964,
-                "windDirection": 223,
-                "shortForecast": "few clouds"
+                "startTime": "2025-11-13T09:00:00+00:00",
+                "temperature": 21.61,
+                "windSpeed": 17.98548,
+                "windDirection": 202,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-13T09:00:00+00:00",
-                "temperature": 21.77,
-                "windSpeed": 18.14207,
-                "windDirection": 200,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-11-13T12:00:00+00:00",
+                "temperature": 20.54,
+                "windSpeed": 16.195880000000002,
+                "windDirection": 192,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "South Perth steps into early afternoon under a clean, bright sky that will stay mostly sunny, then gather into more textured, broken clouds toward late day. Expect a lucid, high-contrast light for the next couple of hours, softening as the cloud builds. The sun has some bite now; UV is likely very high for early afternoon in November, easing as the angle lowers toward late afternoon, so shade and sunscreen will be your friends.\n\nIt looks like an easy, pleasant day if you dress light: breathable shirt, hat, sunglasses, and a dab of sunscreen; a thin extra layer might be welcome after sunset if the air turns a touch cooler. Good hours for ordinary pleasures\u2014an unhurried loop along the foreshore, a coffee beneath an awning, hanging a wash to dry, or picking up a few groceries on foot while the light is still bright. As the clouds gather later, the glare should mellow, making it a fine time to sit with a book on a bench and watch the river traffic slide by.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-11-13 12:28:30",
+    "weather_report": "Late afternoon in Perth finds the sky holding a clear, well-scrubbed blue, the sun still generous but mellowing as shadows lengthen. The forecast keeps things dry and bright through late day, with only scattered clouds nosing in toward evening. It\u2019s sunny enough for the light to feel lively, yet not harsh; UV has eased from the midday bite, still capable of a mild sting if you linger outdoors before sunset, then fading quickly into the evening. The air feels clean and the view long, a clear-headed sort of afternoon.\n\nDress in easy layers: short sleeves for now, a light top for later; sunglasses for the walk home and a touch of sunscreen if you\u2019ll be out before the sun dips. This is a good hour for modest things done unhurriedly\u2014a quick errand on foot, watering the herbs, a gentle loop around the block, sorting the week\u2019s groceries while the sky turns honeyed. Let the windows breathe, keep dinner simple, and watch the first soft clouds drift in as the day folds itself away.",
+    "color_code": "#F2C66E",
+    "timestamp": "2025-11-13 16:31:13",
     "location": {
-        "name": "South Perth",
-        "latitude": -31.97047334928128,
-        "longitude": 115.8469067037511,
+        "name": "Perth",
+        "latitude": -31.95506868432269,
+        "longitude": 115.8551730898718,
         "timezone": "Australia/Perth"
     }
 }
