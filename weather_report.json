@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "South Perth",
             "country": "AU",
-            "latitude": -31.94966730599595,
-            "longitude": 115.820898137655
+            "latitude": -31.97047334928128,
+            "longitude": 115.8469067037511
         },
         "current_conditions": {
-            "timestamp": "2025-11-13T01:51:27+00:00",
-            "temperature_c": 21.31,
-            "temperature_f": 70.358,
-            "humidity": 49,
-            "wind_speed_mph": 6.91233,
-            "wind_direction": 120,
+            "timestamp": "2025-11-13T04:28:29+00:00",
+            "temperature_c": 23.76,
+            "temperature_f": 74.768,
+            "humidity": 44,
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 260,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-13T03:00:00+00:00",
-                "temperature": 21.31,
-                "windSpeed": 13.891770000000001,
+                "startTime": "2025-11-13T06:00:00+00:00",
+                "temperature": 23.73,
+                "windSpeed": 17.26964,
                 "windDirection": 223,
-                "shortForecast": "clear sky"
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-11-13T06:00:00+00:00",
-                "temperature": 22.1,
-                "windSpeed": 17.4486,
-                "windDirection": 220,
-                "shortForecast": "few clouds"
+                "startTime": "2025-11-13T09:00:00+00:00",
+                "temperature": 21.77,
+                "windSpeed": 18.14207,
+                "windDirection": 200,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a bright, uncomplicated sky, the kind that sharpens edges and makes colors ring. The air feels clean and dry, with the sun already taking charge and the UV climbing quickly through the morning; by late morning it will be unforgiving on bare skin, though the light itself is crystalline and kind. Expect the day to stay mostly sunny, with a scattering of friendly clouds gliding in after lunch that won\u2019t dull the shine.\n\nIt looks like a pleasantly warm day if you keep to shade when the sun is highest. Dress in light, breathable layers, add a brimmed hat and sunglasses, and don\u2019t skip sunscreen; a linen shirt or long sleeves will feel wiser than it sounds. Good hours now for a gentle errand on foot, a coffee carried through jacaranda shade, laundry on the line, or some unhurried pottering in the garden before the sun bites. Save the longer walk or a quiet loop by bike for late afternoon, when the light softens and the streets exhale.",
+    "weather_report": "South Perth steps into early afternoon under a clean, bright sky that will stay mostly sunny, then gather into more textured, broken clouds toward late day. Expect a lucid, high-contrast light for the next couple of hours, softening as the cloud builds. The sun has some bite now; UV is likely very high for early afternoon in November, easing as the angle lowers toward late afternoon, so shade and sunscreen will be your friends.\n\nIt looks like an easy, pleasant day if you dress light: breathable shirt, hat, sunglasses, and a dab of sunscreen; a thin extra layer might be welcome after sunset if the air turns a touch cooler. Good hours for ordinary pleasures\u2014an unhurried loop along the foreshore, a coffee beneath an awning, hanging a wash to dry, or picking up a few groceries on foot while the light is still bright. As the clouds gather later, the glare should mellow, making it a fine time to sit with a book on a bench and watch the river traffic slide by.",
     "color_code": "#87CEEB",
-    "timestamp": "2025-11-13 09:51:27",
+    "timestamp": "2025-11-13 12:28:30",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94966730599595,
-        "longitude": 115.820898137655,
+        "name": "South Perth",
+        "latitude": -31.97047334928128,
+        "longitude": 115.8469067037511,
         "timezone": "Australia/Perth"
     }
 }
