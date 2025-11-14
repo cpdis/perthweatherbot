@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Shenton Park",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95656246120873,
-            "longitude": 115.8200492345521
+            "latitude": -31.94970410503225,
+            "longitude": 115.8207550981097
         },
         "current_conditions": {
-            "timestamp": "2025-11-14T04:27:36+00:00",
-            "temperature_c": 22.7,
-            "temperature_f": 72.86,
-            "humidity": 46,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 230,
+            "timestamp": "2025-11-14T12:47:56+00:00",
+            "temperature_c": 18.09,
+            "temperature_f": 64.562,
+            "humidity": 68,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 200,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-14T06:00:00+00:00",
-                "temperature": 21.83,
-                "windSpeed": 18.07496,
-                "windDirection": 209,
-                "shortForecast": "few clouds"
+                "startTime": "2025-11-14T15:00:00+00:00",
+                "temperature": 17.52,
+                "windSpeed": 12.840380000000001,
+                "windDirection": 163,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-14T09:00:00+00:00",
-                "temperature": 21.99,
-                "windSpeed": 19.59612,
-                "windDirection": 199,
+                "startTime": "2025-11-14T18:00:00+00:00",
+                "temperature": 15.38,
+                "windSpeed": 11.99032,
+                "windDirection": 152,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Shenton Park moves through midday under a broad, honest blue. The sun is unblinking and the air clear, with only a thin drift of cloud expected early afternoon before the sky opens fully toward evening. It will be decidedly sunny; UV is intense around now and stays high through midafternoon, easing as shadows lengthen and the light turns honeyed. The day feels simple and bright, the kind that sharpens edges and invites a slower pace.\n\nWear breathable layers with a brimmed hat and dark glasses, and don sunscreen as a matter of routine; keep a light extra layer for dusk when the warmth lets go. Good hours for a gentle errand on foot, a quiet lap around Shenton Park Lake, or a coffee taken in the shade while the afternoon mellows; save any gardening or longer walk for the later glow, when the sun loosens its grip and the sky remains clear.",
-    "color_code": "#87CEFA",
-    "timestamp": "2025-11-14 12:27:37",
+    "weather_report": "Subiaco eases into night with a clean, ink-blue sky and the kind of clarity that makes distant lights feel nearer. The forecast holds steady and simple: clear now and clear as the hours slip past midnight. There\u2019s no sun at this hour and the UV index is essentially asleep, leaving the air gentle rather than demanding. It feels quietly pleasant, unhurried, a night that sharpens edges and softens voices; tomorrow\u2019s early sun, if the sky remains this bare, will wake bright and quickly, so plan shade and sunscreen once morning gets its footing.\n\nFor now, a light layer is enough if you\u2019re stepping out, perhaps a cardigan over short sleeves. This is good weather for the small domestic errands we otherwise postpone: a slow stroll to post a letter, watering the herbs, a tidy of the porch with the door propped open, or a brief step to the driveway to let your eyes adjust and pick out a familiar constellation. Keep it simple, keep it close to home, and let the clear night do the talking.",
+    "color_code": "#0B1D39",
+    "timestamp": "2025-11-14 20:47:56",
     "location": {
-        "name": "Shenton Park",
-        "latitude": -31.95656246120873,
-        "longitude": 115.8200492345521,
+        "name": "Subiaco",
+        "latitude": -31.94970410503225,
+        "longitude": 115.8207550981097,
         "timezone": "Australia/Perth"
     }
 }

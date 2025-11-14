@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-07 09:48:43",
-    "location": {
-      "name": "Cottesloe",
-      "latitude": -31.99530858533898,
-      "longitude": 115.7516610762625,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-07T01:48:43+00:00",
-      "temperature_c": 20.64,
-      "temperature_f": 69.152,
-      "humidity": 52,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 80,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Late morning in Cottesloe arrives under a quilt of broken cloud, the light bright but softened so th...",
-    "color_code": "#B0C4DE"
-  },
-  {
-    "timestamp": "2025-11-07 12:26:57",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94622583333333,
-      "longitude": 115.8384175666667,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-07T04:26:57+00:00",
-      "temperature_c": 23.44,
-      "temperature_f": 74.19200000000001,
-      "humidity": 43,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 160,
-      "description": "clear sky"
-    },
-    "report_summary": "Midday in Subiaco arrives with a lucid, uncomplicated sky; sunlight pours in without fuss, edges cri...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-11-07 16:31:19",
     "location": {
       "name": "Shenton Park",
@@ -878,5 +838,25 @@
     },
     "report_summary": "Shenton Park moves through midday under a broad, honest blue. The sun is unblinking and the air clea...",
     "color_code": "#87CEFA"
+  },
+  {
+    "timestamp": "2025-11-14 20:47:56",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94970410503225,
+      "longitude": 115.8207550981097,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-14T12:47:56+00:00",
+      "temperature_c": 18.09,
+      "temperature_f": 64.562,
+      "humidity": 68,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 200,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco eases into night with a clean, ink-blue sky and the kind of clarity that makes distant light...",
+    "color_code": "#0B1D39"
   }
 ]
