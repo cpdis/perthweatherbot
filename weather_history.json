@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-11-07 04:26:00",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94971269575135,
-      "longitude": 115.820717463501,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-06T20:26:00+00:00",
-      "temperature_c": 14.16,
-      "temperature_f": 57.488,
-      "humidity": 75,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 110,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes before the sun, the streets tinted a quiet blue and the sky mostly clear, promising a ...",
-    "color_code": "#87A8D0"
-  },
-  {
     "timestamp": "2025-11-07 09:48:43",
     "location": {
       "name": "Cottesloe",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Morning in Subiaco arrives bright and easy, the sky mostly open with a few stray clouds drifting lik...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2025-11-14 12:27:37",
+    "location": {
+      "name": "Shenton Park",
+      "latitude": -31.95656246120873,
+      "longitude": 115.8200492345521,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-14T04:27:36+00:00",
+      "temperature_c": 22.7,
+      "temperature_f": 72.86,
+      "humidity": 46,
+      "wind_speed_mph": 17.26964,
+      "wind_direction": 230,
+      "description": "clear sky"
+    },
+    "report_summary": "Shenton Park moves through midday under a broad, honest blue. The sun is unblinking and the air clea...",
+    "color_code": "#87CEFA"
   }
 ]
