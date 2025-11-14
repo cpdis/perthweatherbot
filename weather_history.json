@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-11-07 16:31:19",
-    "location": {
-      "name": "Shenton Park",
-      "latitude": -31.95664328433991,
-      "longitude": 115.8200298278301,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-07T08:31:19+00:00",
-      "temperature_c": 24.52,
-      "temperature_f": 76.136,
-      "humidity": 42,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 200,
-      "description": "clear sky"
-    },
-    "report_summary": "Late afternoon in Shenton Park arrives polished and cloudless, the sky a taut blue sheet turning slo...",
-    "color_code": "#F4C27A"
-  },
-  {
     "timestamp": "2025-11-07 20:47:07",
     "location": {
       "name": "Subiaco",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Just past midnight in Subiaco, the sky is clean and glassy, a quiet canopy of stars and streetlamps....",
     "color_code": "#0A1E3F"
+  },
+  {
+    "timestamp": "2025-11-15 04:26:07",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94970410503225,
+      "longitude": 115.8207550981097,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-14T20:26:07+00:00",
+      "temperature_c": 12.71,
+      "temperature_f": 54.878,
+      "humidity": 76,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 150,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco wakes in a hush at this hour, the sky clear and deep, with a clean sunrise and a bright morn...",
+    "color_code": "#0B2545"
   }
 ]
