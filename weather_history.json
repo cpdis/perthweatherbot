@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-11-08 16:27:04",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94963428945252,
-      "longitude": 115.8208985940379,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-08T08:27:03+00:00",
-      "temperature_c": 26.24,
-      "temperature_f": 79.232,
-      "humidity": 38,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 210,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco settles into late afternoon under a spotless, luminous sky; the sun has shifted from fierce ...",
-    "color_code": "#F6C27A"
-  },
-  {
     "timestamp": "2025-11-08 20:41:11",
     "location": {
       "name": "Northbridge",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Fremantle sits under a rinsed, midnight-blue sky, the air quiet and a touch salty, as if the ocean w...",
     "color_code": "#0B1E3A"
+  },
+  {
+    "timestamp": "2025-11-16 04:22:38",
+    "location": {
+      "name": "Fremantle",
+      "latitude": -32.05589791425264,
+      "longitude": 115.7421683739181,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-15T20:22:37+00:00",
+      "temperature_c": 13.28,
+      "temperature_f": 55.903999999999996,
+      "humidity": 72,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 160,
+      "description": "clear sky"
+    },
+    "report_summary": "Pre-dawn in Fremantle feels hushed and clean, the sky already loosening toward blue with a clear sta...",
+    "color_code": "#5D8AA8"
   }
 ]
