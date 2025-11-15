@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Fremantle",
             "country": "AU",
-            "latitude": -31.95186867436193,
-            "longitude": 115.8138748887638
+            "latitude": -32.05589791425264,
+            "longitude": 115.7421683739181
         },
         "current_conditions": {
-            "timestamp": "2025-11-15T08:27:16+00:00",
-            "temperature_c": 22.08,
-            "temperature_f": 71.744,
-            "humidity": 50,
-            "wind_speed_mph": 20.71462,
-            "wind_direction": 230,
+            "timestamp": "2025-11-15T12:41:39+00:00",
+            "temperature_c": 17.92,
+            "temperature_f": 64.256,
+            "humidity": 65,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 190,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-15T09:00:00+00:00",
-                "temperature": 22.08,
-                "windSpeed": 19.707970000000003,
-                "windDirection": 194,
+                "startTime": "2025-11-15T15:00:00+00:00",
+                "temperature": 17.65,
+                "windSpeed": 18.567100000000003,
+                "windDirection": 164,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-15T12:00:00+00:00",
-                "temperature": 21.04,
-                "windSpeed": 18.45525,
-                "windDirection": 187,
+                "startTime": "2025-11-15T18:00:00+00:00",
+                "temperature": 16.22,
+                "windSpeed": 13.51148,
+                "windDirection": 151,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco sits under an unblemished sky this afternoon, the light clean and glassy, shadows sharpening as the day leans toward evening. Sunshine is full-throated and unapologetic; earlier it had that fierce, springtime bite, and even now it asks for respect. Expect it to stay clear straight through twilight, the air steady and visibility crisp, with a gentle easing of heat and a softening glow as the sun drifts lower.\n\nDress for light and ease: breathable layers, sunglasses, a hat if you\u2019ll be out a while, and a dab of sunscreen for late-day errands. As it cools, a thin outer layer will be enough. It\u2019s pleasant weather for ordinary pleasures: a slow wander to pick up a few groceries, a quiet loop on the bike before dinner, watering the garden while the light goes honey-gold, or reading on a porch where the breeze can find you. Clear skies promise a simple, satisfying evening.",
-    "color_code": "#F7C873",
-    "timestamp": "2025-11-15 16:27:16",
+    "weather_report": "Evening has settled over Fremantle with a clean, untroubled sky, the kind that lets the first stars appear like pinpricks over the water. The day\u2019s glare has faded; UV is effectively nil now, and the night looks settled and serene. Clarity is excellent, no hint of haze or cloud, just a dry, dark-blue vault that promises a steady night.\n\nThe forecast keeps it simple: clear through late evening and after midnight. Expect a gentle coolness after dark; a light layer or easy cardigan will serve you well, with comfortable shoes if you\u2019re stepping out. This is good weather for small, ordinary pleasures: a slow lap around the block, a quiet sit on the balcony to let the house breathe, watering the pots, or finishing a chapter with the window open. If you\u2019re inclined, look up; the sky is tidy and cooperative, made for a brief negotiation with the constellations before calling it a night.",
+    "color_code": "#0B1D3A",
+    "timestamp": "2025-11-15 20:41:39",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.95186867436193,
-        "longitude": 115.8138748887638,
+        "name": "Fremantle",
+        "latitude": -32.05589791425264,
+        "longitude": 115.7421683739181,
         "timezone": "Australia/Perth"
     }
 }
