@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-09 09:52:54",
-    "location": {
-      "name": "Fremantle",
-      "latitude": -32.0575055982334,
-      "longitude": 115.745057564893,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-09T01:52:54+00:00",
-      "temperature_c": 24.46,
-      "temperature_f": 76.028,
-      "humidity": 38,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 60,
-      "description": "clear sky"
-    },
-    "report_summary": "Fremantle wakes under a hard, generous blue, the kind that leaves no place for cloud to hide. The mo...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-11-09 12:25:27",
-    "location": {
-      "name": "Innaloo",
-      "latitude": -31.90348469419136,
-      "longitude": 115.7995044701386,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-09T04:25:27+00:00",
-      "temperature_c": 28.37,
-      "temperature_f": 83.066,
-      "humidity": 23,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 110,
-      "description": "clear sky"
-    },
-    "report_summary": "It\u2019s early afternoon in Innaloo and the light feels clean and insistent, the kind that sharpens edge...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-11-09 16:25:46",
     "location": {
       "name": "Subiaco",
@@ -878,5 +838,25 @@
     },
     "report_summary": "Subiaco drifts through the late afternoon under a flawless sky, the light still bright enough to sha...",
     "color_code": "#F6C27A"
+  },
+  {
+    "timestamp": "2025-11-16 20:41:40",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94966543710898,
+      "longitude": 115.8208954379286,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-16T12:41:39+00:00",
+      "temperature_c": 19.71,
+      "temperature_f": 67.47800000000001,
+      "humidity": 73,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 200,
+      "description": "clear sky"
+    },
+    "report_summary": "Night has settled over Subiaco with a polished clarity, the sky clean and open, stars like pins in d...",
+    "color_code": "#0d1b2a"
   }
 ]
