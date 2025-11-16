@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Fremantle",
+            "name": "Floreat",
             "country": "AU",
-            "latitude": -32.05589791425264,
-            "longitude": 115.7421683739181
+            "latitude": -31.94147650838563,
+            "longitude": 115.7919261362925
         },
         "current_conditions": {
-            "timestamp": "2025-11-15T20:22:37+00:00",
-            "temperature_c": 13.28,
-            "temperature_f": 55.903999999999996,
-            "humidity": 72,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 160,
+            "timestamp": "2025-11-16T01:55:44+00:00",
+            "temperature_c": 22.11,
+            "temperature_f": 71.798,
+            "humidity": 46,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 100,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-15T21:00:00+00:00",
-                "temperature": 13.28,
-                "windSpeed": 11.07315,
-                "windDirection": 142,
+                "startTime": "2025-11-16T03:00:00+00:00",
+                "temperature": 22.11,
+                "windSpeed": 8.970369999999999,
+                "windDirection": 206,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-16T00:00:00+00:00",
-                "temperature": 14.54,
-                "windSpeed": 9.66384,
-                "windDirection": 123,
+                "startTime": "2025-11-16T06:00:00+00:00",
+                "temperature": 23.86,
+                "windSpeed": 18.231550000000002,
+                "windDirection": 211,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Pre-dawn in Fremantle feels hushed and clean, the sky already loosening toward blue with a clear start promised through the early morning. Sunshine looks unfiltered today; if the clear spell holds, expect a bright, glare-prone morning with crisp visibility over the water and streets. UV will climb quickly after breakfast\u2014typical for this time of year here\u2014so think of the sun as sharp rather than gentle, and plan shade by late morning.\n\nIt\u2019s a pleasant start for small, quiet errands: a sunrise stroll along the harbor before the day hardens, an early load of washing to catch the first light, a short ride to pick up bread while the air is still kind. Dress light with a breathable layer for the first hour, then shift to a hat, sunglasses, and sunscreen; carry water and aim for pockets of shade if you\u2019re staying out. If you\u2019re lingering at home, open the windows, water the pots, and let the clear morning do its tidy work.",
-    "color_code": "#5D8AA8",
-    "timestamp": "2025-11-16 04:22:38",
+    "weather_report": "Morning in Floreat arrives clean and bright, the day already shaking off any haze. The forecast shows clear skies through late morning into early afternoon, so expect unabashed sunshine and excellent visibility. With the spring sun unfiltered, the UV will climb quickly around midday; it\u2019s a day that looks simple and inviting, but asks for a bit of respect from the light.\n\nDress for ease: breathable layers, a brimmed hat, sunglasses, and sunscreen as habit rather than afterthought. It\u2019s good weather for small, unrushed things\u2014a coffee on a shaded veranda, a meander through Bold Park\u2019s quieter paths, hanging the week\u2019s washing to drink in the air, or cycling to the shops before the sun gets insistent. Keep water handy and let errands cluster in the gentler edges of the day; around noon, favor the shade and let the blue sky do the talking.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-11-16 09:55:45",
     "location": {
-        "name": "Fremantle",
-        "latitude": -32.05589791425264,
-        "longitude": 115.7421683739181,
+        "name": "Floreat",
+        "latitude": -31.94147650838563,
+        "longitude": 115.7919261362925,
         "timezone": "Australia/Perth"
     }
 }
