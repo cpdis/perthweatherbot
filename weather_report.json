@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Floreat",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94147650838563,
-            "longitude": 115.7919261362925
+            "latitude": -31.94967482590498,
+            "longitude": 115.8207145921522
         },
         "current_conditions": {
-            "timestamp": "2025-11-16T01:55:44+00:00",
-            "temperature_c": 22.11,
-            "temperature_f": 71.798,
-            "humidity": 46,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 100,
+            "timestamp": "2025-11-16T04:28:20+00:00",
+            "temperature_c": 26.38,
+            "temperature_f": 79.484,
+            "humidity": 32,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 60,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-16T03:00:00+00:00",
-                "temperature": 22.11,
-                "windSpeed": 8.970369999999999,
-                "windDirection": 206,
+                "startTime": "2025-11-16T06:00:00+00:00",
+                "temperature": 26.82,
+                "windSpeed": 16.732760000000003,
+                "windDirection": 212,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-16T06:00:00+00:00",
-                "temperature": 23.86,
-                "windSpeed": 18.231550000000002,
-                "windDirection": 211,
+                "startTime": "2025-11-16T09:00:00+00:00",
+                "temperature": 25.25,
+                "windSpeed": 17.336750000000002,
+                "windDirection": 195,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Morning in Floreat arrives clean and bright, the day already shaking off any haze. The forecast shows clear skies through late morning into early afternoon, so expect unabashed sunshine and excellent visibility. With the spring sun unfiltered, the UV will climb quickly around midday; it\u2019s a day that looks simple and inviting, but asks for a bit of respect from the light.\n\nDress for ease: breathable layers, a brimmed hat, sunglasses, and sunscreen as habit rather than afterthought. It\u2019s good weather for small, unrushed things\u2014a coffee on a shaded veranda, a meander through Bold Park\u2019s quieter paths, hanging the week\u2019s washing to drink in the air, or cycling to the shops before the sun gets insistent. Keep water handy and let errands cluster in the gentler edges of the day; around noon, favor the shade and let the blue sky do the talking.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-11-16 09:55:45",
+    "weather_report": "Midday in Subiaco arrives under a polished blue dome, the light crisp and steady, edges of buildings cut a little sharper than usual. With the sky largely untroubled by cloud, the sun has some bite; UV will be assertive through the early afternoon, so a hat, sunglasses, and sunscreen are wise companions, with light, breathable layers and a bottle of water in tow. The air feels clean and open, a day that invites you out but reminds you to mind the glare.\n\nThis clarity looks set to linger through the afternoon, softening only as the sun tilts toward evening. It\u2019s a good time for ordinary pleasures: a gentle walk to run an errand, lunch on a shaded terrace, hanging the wash where it can drink the light, a quiet spin to the shops on a bicycle, or a book on a bench while the leaves stir. As the heat eases and shadows lengthen, the outdoors should feel friendlier, and the world a touch more forgiving.",
+    "color_code": "#87CEFA",
+    "timestamp": "2025-11-16 12:28:21",
     "location": {
-        "name": "Floreat",
-        "latitude": -31.94147650838563,
-        "longitude": 115.7919261362925,
+        "name": "Subiaco",
+        "latitude": -31.94967482590498,
+        "longitude": 115.8207145921522,
         "timezone": "Australia/Perth"
     }
 }

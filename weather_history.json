@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-11-09 04:21:48",
-    "location": {
-      "name": "Northbridge",
-      "latitude": -31.94609769831934,
-      "longitude": 115.859864597996,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-08T20:18:39+00:00",
-      "temperature_c": 15.74,
-      "temperature_f": 60.332,
-      "humidity": 63,
-      "wind_speed_mph": 24.1596,
-      "wind_direction": 90,
-      "description": "clear sky"
-    },
-    "report_summary": "Northbridge wakes in the hush before dawn, the sky largely clear with only a few faint brushstrokes ...",
-    "color_code": "#0B2545"
-  },
-  {
     "timestamp": "2025-11-09 09:52:54",
     "location": {
       "name": "Fremantle",
@@ -858,5 +838,25 @@
     },
     "report_summary": "Morning in Floreat arrives clean and bright, the day already shaking off any haze. The forecast show...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2025-11-16 12:28:21",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94967482590498,
+      "longitude": 115.8207145921522,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-16T04:28:20+00:00",
+      "temperature_c": 26.38,
+      "temperature_f": 79.484,
+      "humidity": 32,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 60,
+      "description": "clear sky"
+    },
+    "report_summary": "Midday in Subiaco arrives under a polished blue dome, the light crisp and steady, edges of buildings...",
+    "color_code": "#87CEFA"
   }
 ]
