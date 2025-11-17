@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-10 09:54:11",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9496860480276,
-      "longitude": 115.820823537538,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-10T01:54:10+00:00",
-      "temperature_c": 24.09,
-      "temperature_f": 75.362,
-      "humidity": 41,
-      "wind_speed_mph": 20.71462,
-      "wind_direction": 90,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes under a rinsed-blue sky, the sun already brightening verandas and jarrah leaves. The m...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-11-10 12:29:56",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968606070941,
-      "longitude": 115.820822883646,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-10T04:29:55+00:00",
-      "temperature_c": 27.96,
-      "temperature_f": 82.328,
-      "humidity": 27,
-      "wind_speed_mph": 18.410510000000002,
-      "wind_direction": 90,
-      "description": "clear sky"
-    },
-    "report_summary": "Midday in Subiaco arrives with a clean, confident light; the sky feels open and steady now and shoul...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-11-10 16:32:50",
     "location": {
       "name": "Daglish",
@@ -878,5 +838,25 @@
     },
     "report_summary": "Perth leans into late afternoon with a clean, open sky; the light is honeyed and uncomplicated, and ...",
     "color_code": "#F4C27A"
+  },
+  {
+    "timestamp": "2025-11-17 20:49:23",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.949676207368,
+      "longitude": 115.8206749240993,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-17T12:49:22+00:00",
+      "temperature_c": 26.09,
+      "temperature_f": 78.962,
+      "humidity": 46,
+      "wind_speed_mph": 16.1064,
+      "wind_direction": 180,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco slips into evening with a soft, patchwork sky: scattered clouds drifting past and letting a ...",
+    "color_code": "#1B263B"
   }
 ]
