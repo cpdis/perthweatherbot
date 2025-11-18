@@ -7,34 +7,34 @@
             "longitude": 115.8205959156223
         },
         "current_conditions": {
-            "timestamp": "2025-11-18T12:49:14+00:00",
-            "temperature_c": 24.73,
-            "temperature_f": 76.514,
-            "humidity": 56,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 130,
+            "timestamp": "2025-11-18T16:32:16+00:00",
+            "temperature_c": 22.84,
+            "temperature_f": 73.112,
+            "humidity": 59,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 100,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-18T15:00:00+00:00",
-                "temperature": 24.48,
-                "windSpeed": 11.49818,
-                "windDirection": 98,
-                "shortForecast": "light rain"
-            },
-            {
                 "startTime": "2025-11-18T18:00:00+00:00",
-                "temperature": 21.6,
+                "temperature": 22.84,
                 "windSpeed": 14.876050000000001,
                 "windDirection": 95,
-                "shortForecast": "scattered clouds"
+                "shortForecast": "clear sky"
+            },
+            {
+                "startTime": "2025-11-18T21:00:00+00:00",
+                "temperature": 20.84,
+                "windSpeed": 11.99032,
+                "windDirection": 90,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Evening settles over Subiaco with a soft hush, the air turning gently damp as a light shower drifts in later tonight and the sky loosens into scattered cloud toward the small hours. The sun has bowed out; there will be no blaze, only the low gleam of streetlights on dark leaves and a faint shimmer on pavements when the rain passes. UV is effectively asleep until after dawn. The night feels calm rather than bleak, a little smudged at the edges, with visibility softened by moisture and cloud.\n\nDress for an easy, practical night: a light jacket with a hood or a small umbrella, and shoes that won\u2019t mind a wet footpath. It\u2019s pleasant enough for a short amble between showers, or to linger on a veranda with the sound of drips for company. If you\u2019re out late, take your time on slick roads, and if you\u2019re staying in, it\u2019s a good night for quiet chores, a chapter or two, and an early turn-in while the weather tidies itself overhead.",
-    "color_code": "#1f2b3a",
-    "timestamp": "2025-11-18 20:49:14",
+    "weather_report": "Subiaco sits in a quiet midnight hush, the sky mostly clear for now, the kind of polished dark that makes the streetlights feel thoughtful. Forecast hints at change toward dawn: a brush of light rain softening the edges of morning, the clarity going from crystalline to watercolor. It won\u2019t be sunny yet, and the UV is negligible through the small hours; after sunrise, if the clouds thin, the November sun will gather strength quickly, the kind that nips at unguarded skin even through bright gaps.\n\nExpect a gentle, somewhat pleasant start, tempered by damp pavements and a passing shower. Dress in easy layers with a light shell or small umbrella at hand, and shoes ready for a wet footpath. If you\u2019re up early, take a short, unhurried walk between showers and let the air do its quiet work; otherwise, ease into the day with coffee by a window and a simple errand once the rain slackens. If the sun breaks through later, carry a hat and a dab of sunscreen, then get on with the ordinary rituals\u2014commute, market run, a tidy-up\u2014while the sky decides what it wants to be.",
+    "color_code": "#1B2A41",
+    "timestamp": "2025-11-19 00:32:17",
     "location": {
         "name": "Subiaco",
         "latitude": -31.94971133659426,
