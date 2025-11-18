@@ -3,42 +3,42 @@
         "location": {
             "name": "Perth",
             "country": "AU",
-            "latitude": -31.9544372938622,
-            "longitude": 115.853577533466
+            "latitude": -31.95435133650973,
+            "longitude": 115.8525786079174
         },
         "current_conditions": {
-            "timestamp": "2025-11-18T04:27:54+00:00",
-            "temperature_c": 23.83,
-            "temperature_f": 74.89399999999999,
-            "humidity": 57,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 80,
-            "description": "light intensity drizzle"
+            "timestamp": "2025-11-18T08:31:25+00:00",
+            "temperature_c": 27.44,
+            "temperature_f": 81.392,
+            "humidity": 48,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 170,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2025-11-18T06:00:00+00:00",
-                "temperature": 26.77,
-                "windSpeed": 7.292619999999999,
-                "windDirection": 192,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-11-18T09:00:00+00:00",
+                "temperature": 27.44,
+                "windSpeed": 15.435300000000002,
+                "windDirection": 6,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-11-18T09:00:00+00:00",
-                "temperature": 28.98,
-                "windSpeed": 6.174119999999999,
-                "windDirection": 185,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-11-18T12:00:00+00:00",
+                "temperature": 27.44,
+                "windSpeed": 9.21644,
+                "windDirection": 115,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Perth steps into the early afternoon bright and open, the sky mostly clear with scattered flecks of cloud that drift without hurry. Light pours through with a confident shine; the day feels lucid rather than harsh, though the sun still carries its November bite. Expect this bright, spotty cloud cover to hold through the afternoon and toward early evening, keeping the day cheerful and dry with good visibility. UV will be strong through the next couple of hours, easing later as the sun tilts.\n\nLean on airy fabrics, a brimmed hat, sunglasses, and sunscreen; a light shirt over a tee keeps you comfortable as the light shifts. It\u2019s a good window for a shaded lunch on a terrace, a quiet errand on foot, or a detour to a gallery where the cool rooms make time slow down. As the afternoon stretches, a relaxed stroll through a park or a small round of gardening becomes inviting, with the softening sun slipping between the clouds.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-11-18 12:27:55",
+    "weather_report": "Perth drifts into late afternoon under a soft, paling sky. Clouds gather and thicken, with a light shower likely around the dinner hour before easing to broken cloud through the evening. Sunshine will be fleeting at best, brief silvery glints between gaps, and the UV is low now and fading with the sinking sun. The air feels mild and a touch damp; clarity is more watercolor than high-definition, streets darkening and distance smudged.\n\nDress for changeability: a light layer and a thin, shower-proof jacket, breathable fabrics, and shoes you don\u2019t mind meeting wet pavement. Sunglasses are optional, useful only for those short bright breaks. It\u2019s a night for easy, unrushed errands\u2014duck to the shops between sprinkles, take a short walk along a sheltered street to watch the first lamps bloom, or settle by a cafe window and let the rain bead and slide as you finish the day. If you\u2019re homebound, crack a window to the cool air and let the evening\u2019s hush take over.",
+    "color_code": "#6D7886",
+    "timestamp": "2025-11-18 16:31:26",
     "location": {
         "name": "Perth",
-        "latitude": -31.9544372938622,
-        "longitude": 115.853577533466,
+        "latitude": -31.95435133650973,
+        "longitude": 115.8525786079174,
         "timezone": "Australia/Perth"
     }
 }
