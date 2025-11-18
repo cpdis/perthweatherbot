@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-10 20:49:42",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94965397924826,
-      "longitude": 115.8206466593216,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-10T12:49:41+00:00",
-      "temperature_c": 24.2,
-      "temperature_f": 75.56,
-      "humidity": 30,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 120,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco slips into a calm, glass-clear night, the day\u2019s harsh edges polished away to a quiet sheen. ...",
-    "color_code": "#0b1a3a"
-  },
-  {
-    "timestamp": "2025-11-11 00:31:30",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94965397924826,
-      "longitude": 115.8206466593216,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-10T16:31:30+00:00",
-      "temperature_c": 20.52,
-      "temperature_f": 68.936,
-      "humidity": 49,
-      "wind_speed_mph": 26.463710000000003,
-      "wind_direction": 90,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco sits under a clean, inky sky at this small hour, the air settled and dry, the streets hushed...",
-    "color_code": "#0b1e3c"
-  },
-  {
     "timestamp": "2025-11-11 04:27:17",
     "location": {
       "name": "Subiaco",
@@ -878,5 +838,25 @@
     },
     "report_summary": "Subiaco wakes in a cool hush, first light beginning to rinse the roofs while the sky stays mostly cl...",
     "color_code": "#6B7FA6"
+  },
+  {
+    "timestamp": "2025-11-18 09:49:39",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94966240858356,
+      "longitude": 115.8208583103725,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-18T01:49:38+00:00",
+      "temperature_c": 22.77,
+      "temperature_f": 72.986,
+      "humidity": 57,
+      "wind_speed_mph": 14.965530000000001,
+      "wind_direction": 80,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco wakes under a lucid, blue morning\u2014sun already bright, the air clear as glass. Expect the lig...",
+    "color_code": "#87CEEB"
   }
 ]
