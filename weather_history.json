@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-13 09:51:27",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94966730599595,
-      "longitude": 115.820898137655,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-13T01:51:27+00:00",
-      "temperature_c": 21.31,
-      "temperature_f": 70.358,
-      "humidity": 49,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 120,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes under a bright, uncomplicated sky, the kind that sharpens edges and makes colors ring....",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-11-13 12:28:30",
-    "location": {
-      "name": "South Perth",
-      "latitude": -31.97047334928128,
-      "longitude": 115.8469067037511,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-13T04:28:29+00:00",
-      "temperature_c": 23.76,
-      "temperature_f": 74.768,
-      "humidity": 44,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 260,
-      "description": "clear sky"
-    },
-    "report_summary": "South Perth steps into early afternoon under a clean, bright sky that will stay mostly sunny, then g...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-11-13 16:31:13",
     "location": {
       "name": "Perth",
@@ -878,5 +838,25 @@
     },
     "report_summary": "Late afternoon in Perth arrives clear and honeyed, the sun slipping lower yet still bright enough to...",
     "color_code": "#D8B272"
+  },
+  {
+    "timestamp": "2025-11-20 20:48:18",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.9497130821896,
+      "longitude": 115.8207523782199,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-20T12:48:18+00:00",
+      "temperature_c": 21.79,
+      "temperature_f": 71.222,
+      "humidity": 71,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 110,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco\u2019s afternoon took a soft tap of rain, then the weather shrugged it off and cleared, the sky r...",
+    "color_code": "#1E2A44"
   }
 ]
