@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9496993023624,
-            "longitude": 115.8206486537352
+            "latitude": -31.94974321364641,
+            "longitude": 115.8206346027118
         },
         "current_conditions": {
-            "timestamp": "2025-11-19T20:22:55+00:00",
-            "temperature_c": 18.41,
-            "temperature_f": 65.138,
-            "humidity": 76,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 110,
-            "description": "few clouds"
+            "timestamp": "2025-11-20T01:48:15+00:00",
+            "temperature_c": 25.68,
+            "temperature_f": 78.224,
+            "humidity": 54,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 140,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-11-19T21:00:00+00:00",
-                "temperature": 18.41,
-                "windSpeed": 10.80471,
-                "windDirection": 111,
-                "shortForecast": "few clouds"
+                "startTime": "2025-11-20T03:00:00+00:00",
+                "temperature": 25.68,
+                "windSpeed": 9.104590000000002,
+                "windDirection": 123,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-11-20T00:00:00+00:00",
-                "temperature": 19.11,
-                "windSpeed": 12.818010000000001,
-                "windDirection": 95,
-                "shortForecast": "light rain"
+                "startTime": "2025-11-20T06:00:00+00:00",
+                "temperature": 26.85,
+                "windSpeed": 8.85852,
+                "windDirection": 157,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco wakes in a dim, blue hour, the air quiet and cool with high clouds lingering and a hint of rain on the way. Expect light, passing showers to brush through after dawn, softening the edges of the morning and keeping sunshine at a premium; if the sky opens briefly later, it will be fleeting and gentle. The day looks muted rather than harsh, with visibility a touch gauzy and the UV low early, rising only to modest levels if a few breaks appear.\n\nDress for a damp start: a light waterproof jacket over breathable layers, comfortable closed shoes, and an umbrella you won\u2019t mind carrying. It\u2019s a morning for unhurried rituals\u2014brew something warm, clear the kitchen counter, or take a short, hood-up walk between showers to watch the neighborhood wake. If you\u2019re heading out, time errands around the drizzles and sit by a cafe window; later, when the clouds thin, a brief loop to stretch the legs will feel especially clean and calm.",
-    "color_code": "#5E6C7A",
-    "timestamp": "2025-11-20 04:22:56",
+    "weather_report": "Subiaco wakes under a softened sky, the morning light muted and calm, with a band of light rain expected to slide through late morning before easing to broken cloud by mid\u2011afternoon. Sunshine will be fitful rather than bold, more pearly glow than sparkle, but when the cloud thins you\u2019ll feel it quickly; UV is likely to be strong around the middle of the day even with passing cloud, so treat it with respect. The air should feel pleasant overall\u2014freshened by showers, edges of the horizon a little blurred, then clearer in the breaks.\n\nDress for variety: a light, breathable layer with a small rain shell you can scrunch into a bag, and shoes that won\u2019t sulk at wet pavements. If you\u2019re out now, a gentle errand loop or a coffee under an awning suits the mood; let the shower line pass while you read a few pages or sort a list. When the cloud loosens later, take a short walk through the back streets, check the garden after its rinse, or pick up groceries without rushing. Sunscreen, sunglasses, and a hat are wise if you\u2019ll be out around lunchtime, when the shy sun can still bite.",
+    "color_code": "#9CB3C9",
+    "timestamp": "2025-11-20 09:48:15",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.9496993023624,
-        "longitude": 115.8206486537352,
+        "latitude": -31.94974321364641,
+        "longitude": 115.8206346027118,
         "timezone": "Australia/Perth"
     }
 }

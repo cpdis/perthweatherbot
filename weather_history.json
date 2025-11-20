@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-12 20:49:54",
-    "location": {
-      "name": "Swanbourne",
-      "latitude": -31.97928301209171,
-      "longitude": 115.7548087893547,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-12T12:49:54+00:00",
-      "temperature_c": 19.83,
-      "temperature_f": 67.69399999999999,
-      "humidity": 69,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 220,
-      "description": "clear sky"
-    },
-    "report_summary": "After a lucid, blue afternoon, Swanbourne has slipped into a glassy, clear night. Skies stayed open ...",
-    "color_code": "#0b1d3a"
-  },
-  {
-    "timestamp": "2025-11-13 00:31:47",
-    "location": {
-      "name": "Swanbourne",
-      "latitude": -31.97928301209171,
-      "longitude": 115.7548087893547,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-12T16:31:46+00:00",
-      "temperature_c": 16.87,
-      "temperature_f": 62.366,
-      "humidity": 66,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 190,
-      "description": "clear sky"
-    },
-    "report_summary": "Swanbourne has slipped into a quiet, crystalline night. The sky is clear and clean-edged, stars set ...",
-    "color_code": "#0a2240"
-  },
-  {
     "timestamp": "2025-11-13 04:26:13",
     "location": {
       "name": "Swanbourne",
@@ -878,5 +838,25 @@
     },
     "report_summary": "Subiaco wakes in a dim, blue hour, the air quiet and cool with high clouds lingering and a hint of r...",
     "color_code": "#5E6C7A"
+  },
+  {
+    "timestamp": "2025-11-20 09:48:15",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94974321364641,
+      "longitude": 115.8206346027118,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-20T01:48:15+00:00",
+      "temperature_c": 25.68,
+      "temperature_f": 78.224,
+      "humidity": 54,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 140,
+      "description": "broken clouds"
+    },
+    "report_summary": "Subiaco wakes under a softened sky, the morning light muted and calm, with a band of light rain expe...",
+    "color_code": "#9CB3C9"
   }
 ]
