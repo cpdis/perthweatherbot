@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94974321364641,
-            "longitude": 115.8206346027118
+            "latitude": -31.95434975676308,
+            "longitude": 115.8525834146583
         },
         "current_conditions": {
-            "timestamp": "2025-11-20T04:26:28+00:00",
-            "temperature_c": 28.11,
-            "temperature_f": 82.598,
-            "humidity": 44,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 140,
-            "description": "broken clouds"
+            "timestamp": "2025-11-20T08:32:09+00:00",
+            "temperature_c": 28.3,
+            "temperature_f": 82.94,
+            "humidity": 46,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 240,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-20T06:00:00+00:00",
-                "temperature": 28.64,
-                "windSpeed": 8.85852,
-                "windDirection": 157,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-11-20T09:00:00+00:00",
+                "temperature": 28.3,
+                "windSpeed": 11.99032,
+                "windDirection": 131,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-20T09:00:00+00:00",
-                "temperature": 28.73,
-                "windSpeed": 13.31015,
-                "windDirection": 121,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-11-20T12:00:00+00:00",
+                "temperature": 26.82,
+                "windSpeed": 13.15356,
+                "windDirection": 111,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Midday in Subiaco arrives under a quilt of broken cloud, the sun slipping through like a hand opening and closing over a lantern. Light is bright but softened, the sort of day where edges look gentler, though the UV still bites in the early afternoon despite the interruptions overhead. It feels like a warm, workable day: mostly dry, a little shifting shade, the promise of a sea breeze later to lift the leaves and your mood.\n\nDress for easy movement and sun sense: a breathable shirt, sunglasses, a brimmed hat, and sunscreen you actually reapply. If you\u2019re out now, keep to the shadier side of the street; save the linger-and-loaf for mid to late afternoon when the sky steadies and the light grows honeyed. It\u2019s a good day for small errands, a quiet browse in a bookshop, or a late lunch on a verandah. As the breeze freshens, take an unhurried walk through a leafy street or tend to the garden, letting the patchwork sky do its modest theatre above you.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2025-11-20 12:26:28",
+    "weather_report": "Late afternoon in Perth arrives clear and honeyed, the sun slipping lower yet still bright enough to cast crisp shadows; the UV sting is easing now, settling to moderate and falling toward low by dusk. The air feels clean, the sky mostly unmarred for the next hour, then a gentle change approaches with light evening showers that will soften the view and hush the streets. It\u2019s a pleasant, unhurried spell: warm without weight, a good moment for small errands or a quiet stroll. Wear breathable layers and sunglasses for the last of the glare, and tuck a light jacket or compact umbrella in your bag for later. Consider a walk to pick up something for supper, a window seat with a book, or hanging the washing for a quick dry and bringing it in before the sprinkle arrives, when pavements will darken and the night take on a reflective sheen.",
+    "color_code": "#D8B272",
+    "timestamp": "2025-11-20 16:32:10",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94974321364641,
-        "longitude": 115.8206346027118,
+        "name": "Perth",
+        "latitude": -31.95434975676308,
+        "longitude": 115.8525834146583,
         "timezone": "Australia/Perth"
     }
 }
