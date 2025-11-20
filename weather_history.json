@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-11-13 04:26:13",
-    "location": {
-      "name": "Swanbourne",
-      "latitude": -31.97928301209171,
-      "longitude": 115.7548087893547,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-12T20:26:12+00:00",
-      "temperature_c": 15.38,
-      "temperature_f": 59.684000000000005,
-      "humidity": 72,
-      "wind_speed_mph": 12.728530000000001,
-      "wind_direction": 147,
-      "description": "clear sky"
-    },
-    "report_summary": "A clear night has carried Swanbourne into a still, inky-blue dawn; stars thinning, the horizon quiet...",
-    "color_code": "#0B2545"
-  },
-  {
     "timestamp": "2025-11-13 09:51:27",
     "location": {
       "name": "Subiaco",
@@ -858,5 +838,25 @@
     },
     "report_summary": "Subiaco wakes under a softened sky, the morning light muted and calm, with a band of light rain expe...",
     "color_code": "#9CB3C9"
+  },
+  {
+    "timestamp": "2025-11-20 12:26:28",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94974321364641,
+      "longitude": 115.8206346027118,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-20T04:26:28+00:00",
+      "temperature_c": 28.11,
+      "temperature_f": 82.598,
+      "humidity": 44,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 140,
+      "description": "broken clouds"
+    },
+    "report_summary": "Midday in Subiaco arrives under a quilt of broken cloud, the sun slipping through like a hand openin...",
+    "color_code": "#A4C8E1"
   }
 ]
