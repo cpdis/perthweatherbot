@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-14 09:50:37",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969101016282,
-      "longitude": 115.8208349340979,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-14T01:50:37+00:00",
-      "temperature_c": 20.36,
-      "temperature_f": 68.648,
-      "humidity": 51,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 160,
-      "description": "few clouds"
-    },
-    "report_summary": "Morning in Subiaco arrives bright and easy, the sky mostly open with a few stray clouds drifting lik...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-11-14 12:27:37",
-    "location": {
-      "name": "Shenton Park",
-      "latitude": -31.95656246120873,
-      "longitude": 115.8200492345521,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-14T04:27:36+00:00",
-      "temperature_c": 22.7,
-      "temperature_f": 72.86,
-      "humidity": 46,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 230,
-      "description": "clear sky"
-    },
-    "report_summary": "Shenton Park moves through midday under a broad, honest blue. The sun is unblinking and the air clea...",
-    "color_code": "#87CEFA"
-  },
-  {
     "timestamp": "2025-11-14 20:47:56",
     "location": {
       "name": "Subiaco",
@@ -878,5 +838,25 @@
     },
     "report_summary": "Subiaco sits under a mostly open sky this afternoon, the sun softened by a few idle clouds that drif...",
     "color_code": "#F4C27A"
+  },
+  {
+    "timestamp": "2025-11-21 20:46:58",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.95041217743557,
+      "longitude": 115.8224300654707,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-21T12:46:57+00:00",
+      "temperature_c": 21.57,
+      "temperature_f": 70.826,
+      "humidity": 74,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 210,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco eases into night under a patchwork sky: scattered clouds letting a few brave stars through n...",
+    "color_code": "#2C3E50"
   }
 ]

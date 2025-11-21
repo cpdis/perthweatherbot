@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94968738731781,
-            "longitude": 115.820838000247
+            "latitude": -31.95041217743557,
+            "longitude": 115.8224300654707
         },
         "current_conditions": {
-            "timestamp": "2025-11-21T08:32:33+00:00",
-            "temperature_c": 27.99,
-            "temperature_f": 82.382,
-            "humidity": 49,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 240,
-            "description": "light rain"
+            "timestamp": "2025-11-21T12:46:57+00:00",
+            "temperature_c": 21.57,
+            "temperature_f": 70.826,
+            "humidity": 74,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 210,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-21T09:00:00+00:00",
-                "temperature": 27.99,
-                "windSpeed": 14.249690000000001,
-                "windDirection": 189,
-                "shortForecast": "few clouds"
+                "startTime": "2025-11-21T15:00:00+00:00",
+                "temperature": 21.94,
+                "windSpeed": 6.0399,
+                "windDirection": 149,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-11-21T12:00:00+00:00",
-                "temperature": 27.21,
-                "windSpeed": 11.565290000000001,
-                "windDirection": 178,
-                "shortForecast": "few clouds"
+                "startTime": "2025-11-21T18:00:00+00:00",
+                "temperature": 21.78,
+                "windSpeed": 11.36396,
+                "windDirection": 81,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco sits under a mostly open sky this afternoon, the sun softened by a few idle clouds that drift like thoughts between errands. The day has held steady and clear, and it looks to stay settled into evening, with light that turns warmer and more honeyed toward sunset. UV has eased from its midday bite but still warrants a little care if you\u2019ll be out for a while; sunglasses and a hat won\u2019t go astray. The air feels uncomplicated, the horizon crisp, the mood agreeable rather than dazzling.\n\nDress in simple layers you can shed and reclaim with the breeze: a breathable shirt now, a light jumper in your bag for when the light thins. It\u2019s good weather for ordinary pleasures\u2014walking the long way home, a gentle spin on the bike, picking up groceries on foot, watering the garden, or taking a quiet seat outside with a book as the evening unspools.",
-    "color_code": "#F4C27A",
-    "timestamp": "2025-11-21 16:32:34",
+    "weather_report": "Subiaco eases into night under a patchwork sky: scattered clouds letting a few brave stars through now, thickening to a gentler, more uniform cover later. Sunshine has left the stage and the UV risk has slipped to nothing; the air feels clear, with the glow of streetlamps softened by the cloud. It\u2019s not a dramatic evening, just a quiet, serviceable one, and visibility should hold steady as the lid of cloud settles in.\n\nDress for comfort\u2014light layers over short sleeves, a cardigan if you tend to chill, and easy shoes. It\u2019s a good time for modest pleasures: a slow walk to fetch dessert, a lap around the block with a favorite song, a tidy of the desk while the kettle murmurs. Cyclists should use bright lights as the ceiling thickens. Tomorrow\u2019s sun will likely share the stage with cloud, so no harsh blaze expected early; for now, enjoy the calm and the gentler edges of the night.",
+    "color_code": "#2C3E50",
+    "timestamp": "2025-11-21 20:46:58",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94968738731781,
-        "longitude": 115.820838000247,
+        "latitude": -31.95041217743557,
+        "longitude": 115.8224300654707,
         "timezone": "Australia/Perth"
     }
 }
