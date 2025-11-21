@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Shenton Park",
             "country": "AU",
-            "latitude": -31.9497250219603,
-            "longitude": 115.8206059243633
+            "latitude": -31.96092543895942,
+            "longitude": 115.8138794560394
         },
         "current_conditions": {
-            "timestamp": "2025-11-21T01:49:07+00:00",
-            "temperature_c": 24.56,
-            "temperature_f": 76.208,
-            "humidity": 53,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 90,
+            "timestamp": "2025-11-21T04:27:40+00:00",
+            "temperature_c": 28.63,
+            "temperature_f": 83.534,
+            "humidity": 38,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 110,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-21T03:00:00+00:00",
-                "temperature": 24.56,
-                "windSpeed": 5.32406,
-                "windDirection": 168,
-                "shortForecast": "clear sky"
+                "startTime": "2025-11-21T06:00:00+00:00",
+                "temperature": 28.9,
+                "windSpeed": 10.2902,
+                "windDirection": 201,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-11-21T06:00:00+00:00",
-                "temperature": 26.05,
-                "windSpeed": 10.44679,
-                "windDirection": 200,
-                "shortForecast": "few clouds"
+                "startTime": "2025-11-21T09:00:00+00:00",
+                "temperature": 29.48,
+                "windSpeed": 14.7642,
+                "windDirection": 196,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a clean, lucid sky, the kind that makes colors ring true and shadows sit neatly at the curb. By late morning the sun will be full and generous, then a few idle clouds may wander through the early afternoon without mischief. Expect a bright, distinctly sunny day with that springtime Western Australian bite to the UV; the light looks kind, but it asks for respect. Air feels agreeable in the shade and warm where the sun lingers, the sort of clarity that sharpens edges and moods.\n\nDress for brightness: light, breathable layers, a brimmed hat, sunglasses, and sunscreen you actually reapply. Carry water if you\u2019re out near midday. It\u2019s a good morning for an unhurried walk to a cafe on Rokeby Road, a quiet browse in a bookshop, or hanging the washing so it drinks the light. Save the longer errands for before lunch or later in the afternoon; around noon, find a patch of tree-shadow in a small park, open a notebook, and let the day glow without taking too much of you.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-11-21 09:49:08",
+    "weather_report": "Midday in Shenton Park arrives under a hard, polished blue, the morning\u2019s stray clouds long burned away. Light is sharp and generous, shadows trimmed; the air feels dry and clean with a far horizon. Expect a broadly sunny, uncomplicated afternoon, perhaps a modest breeze later, but mostly a day ruled by glare. The sun carries some bite now and the UV is unforgiving through early afternoon, so time outside is best measured rather than lingering.\n\nIt\u2019s pleasant if you keep a respectful distance from the rays: a brimmed hat, sunglasses, light long sleeves, sunscreen, and a bottle of water will make it an easy day. Take a quiet walk between trees, run a couple of errands in the shade, peg laundry to the line and let the sky do the work, or slide into a caf\u00e9 window seat and watch the bright world pass. Save the longer stretch of the legs for late afternoon, when the light softens and the heat loses its edge.",
+    "color_code": "#00BFFF",
+    "timestamp": "2025-11-21 12:27:40",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.9497250219603,
-        "longitude": 115.8206059243633,
+        "name": "Shenton Park",
+        "latitude": -31.96092543895942,
+        "longitude": 115.8138794560394,
         "timezone": "Australia/Perth"
     }
 }
