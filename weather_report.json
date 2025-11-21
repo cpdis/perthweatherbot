@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9497130821896,
-            "longitude": 115.8207523782199
+            "latitude": -31.9497250219603,
+            "longitude": 115.8206059243633
         },
         "current_conditions": {
-            "timestamp": "2025-11-20T20:27:04+00:00",
-            "temperature_c": 17.84,
-            "temperature_f": 64.112,
-            "humidity": 75,
-            "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 100,
-            "description": "few clouds"
+            "timestamp": "2025-11-21T01:49:07+00:00",
+            "temperature_c": 24.56,
+            "temperature_f": 76.208,
+            "humidity": 53,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 90,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-20T21:00:00+00:00",
-                "temperature": 17.84,
-                "windSpeed": 11.6324,
-                "windDirection": 91,
-                "shortForecast": "few clouds"
+                "startTime": "2025-11-21T03:00:00+00:00",
+                "temperature": 24.56,
+                "windSpeed": 5.32406,
+                "windDirection": 168,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-21T00:00:00+00:00",
-                "temperature": 19.23,
-                "windSpeed": 8.67956,
-                "windDirection": 94,
+                "startTime": "2025-11-21T06:00:00+00:00",
+                "temperature": 26.05,
+                "windSpeed": 10.44679,
+                "windDirection": 200,
                 "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a pale, honest sky, the kind that lets early birdsong carry. A few light clouds drift at dawn, more decoration than omen, and the air feels clean and open, the streets etched with clear edges as the light begins to gather.\n\nThrough the morning, expect a bright, mostly sunny day with only passing wisps overhead. It will feel pleasantly mild at first, warming as the sun takes charge; UV will climb quickly into the high range typical for late November, so lean on shade and sunscreen once the day is underway. Dress in light layers and breathable fabrics, and reach for a hat and sunglasses. It\u2019s a good morning to step out for a quiet coffee, water the garden before the glare hardens, tune a bicycle and take a brief spin along calm streets, or run a few errands while the light is still kind; later, let the afternoon do its shining while you read near a cool window.",
-    "color_code": "#F6CBAA",
-    "timestamp": "2025-11-21 04:27:04",
+    "weather_report": "Subiaco wakes under a clean, lucid sky, the kind that makes colors ring true and shadows sit neatly at the curb. By late morning the sun will be full and generous, then a few idle clouds may wander through the early afternoon without mischief. Expect a bright, distinctly sunny day with that springtime Western Australian bite to the UV; the light looks kind, but it asks for respect. Air feels agreeable in the shade and warm where the sun lingers, the sort of clarity that sharpens edges and moods.\n\nDress for brightness: light, breathable layers, a brimmed hat, sunglasses, and sunscreen you actually reapply. Carry water if you\u2019re out near midday. It\u2019s a good morning for an unhurried walk to a cafe on Rokeby Road, a quiet browse in a bookshop, or hanging the washing so it drinks the light. Save the longer errands for before lunch or later in the afternoon; around noon, find a patch of tree-shadow in a small park, open a notebook, and let the day glow without taking too much of you.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-11-21 09:49:08",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.9497130821896,
-        "longitude": 115.8207523782199,
+        "latitude": -31.9497250219603,
+        "longitude": 115.8206059243633,
         "timezone": "Australia/Perth"
     }
 }
