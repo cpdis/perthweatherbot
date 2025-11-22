@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Crawley",
+            "name": "Bassendean",
             "country": "AU",
-            "latitude": -31.97698141122513,
-            "longitude": 115.8191116202778
+            "latitude": -31.90205909308378,
+            "longitude": 115.9549585023505
         },
         "current_conditions": {
-            "timestamp": "2025-11-22T04:26:36+00:00",
-            "temperature_c": 22.78,
-            "temperature_f": 73.004,
-            "humidity": 65,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 270,
-            "description": "broken clouds"
+            "timestamp": "2025-11-22T08:28:11+00:00",
+            "temperature_c": 23.4,
+            "temperature_f": 74.12,
+            "humidity": 63,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 260,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-11-22T06:00:00+00:00",
-                "temperature": 23.53,
-                "windSpeed": 15.860330000000001,
-                "windDirection": 287,
+                "startTime": "2025-11-22T09:00:00+00:00",
+                "temperature": 23.4,
+                "windSpeed": 14.20495,
+                "windDirection": 265,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-11-22T09:00:00+00:00",
-                "temperature": 22.95,
-                "windSpeed": 15.345820000000002,
-                "windDirection": 275,
+                "startTime": "2025-11-22T12:00:00+00:00",
+                "temperature": 22.07,
+                "windSpeed": 14.85368,
+                "windDirection": 242,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "A damp morning has rinsed Crawley, leaving the pavements dark and reflective, the sky a stubborn quilt of grey. By early afternoon the rain is likely lighter and more intermittent at best, with only hesitant bright spells trying to work through. Sun, if it peeks out at all, will be fleeting and soft; the UV is negligible this time of year, and the air feels clean but muted, as though the distance has been pressed closer. It\u2019s a cool, quietly persistent sort of day, more drizzly interlude than dramatic weather, and daylight will slip away early.\n\nDress for patience: a light waterproof over warm layers, shoes that don\u2019t mind puddles, and an umbrella you can fold away between spits. It\u2019s a good time to run a few errands while the rain eases, take a short, brisk loop through the park to stretch the legs, then reward yourself with a caf\u00e9 window seat and a book. If you stay home, let the kettle do its work and tackle a small project, the kind that makes the room feel a shade brighter when you\u2019re done.",
-    "color_code": "#778899",
-    "timestamp": "2025-11-22 12:26:37",
+    "weather_report": "Late afternoon in Bassendean feels hushed and silvered, the sky turning to soft pewter as light rain noses in toward dusk. The sun is largely veiled now, with only a pale glow behind the cloud; UV has eased to the low end and will keep sliding as evening comes on. The air is mild and a touch damp, visibility good but edges smudged, as if the day has decided to speak in a quieter voice.\n\nExpect intermittent light showers from about now through the evening, more a steady patter than a downpour, with the odd lull for a breather. It\u2019s a gentle, if subdued, sort of pleasant: fine for those who like the streets darkening and the gardens grateful. A light waterproof or a short raincoat, breathable layers, and closed shoes will serve you well; tuck a small umbrella in your bag. Good choices this hour are modest ones\u2014an unhurried grocery run, a library return, tidying a corner of the shed, or a short walk between showers before putting a pot on to simmer and letting the windows fog a little.",
+    "color_code": "#708090",
+    "timestamp": "2025-11-22 16:28:11",
     "location": {
-        "name": "Crawley",
-        "latitude": -31.97698141122513,
-        "longitude": 115.8191116202778,
+        "name": "Bassendean",
+        "latitude": -31.90205909308378,
+        "longitude": 115.9549585023505,
         "timezone": "Australia/Perth"
     }
 }
