@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Crawley",
             "country": "AU",
-            "latitude": -31.94964869616688,
-            "longitude": 115.8209569157717
+            "latitude": -31.97698141122513,
+            "longitude": 115.8191116202778
         },
         "current_conditions": {
-            "timestamp": "2025-11-22T01:45:18+00:00",
-            "temperature_c": 21.83,
-            "temperature_f": 71.294,
-            "humidity": 70,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 310,
+            "timestamp": "2025-11-22T04:26:36+00:00",
+            "temperature_c": 22.78,
+            "temperature_f": 73.004,
+            "humidity": 65,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 270,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-11-22T03:00:00+00:00",
-                "temperature": 21.83,
-                "windSpeed": 13.73518,
-                "windDirection": 285,
+                "startTime": "2025-11-22T06:00:00+00:00",
+                "temperature": 23.53,
+                "windSpeed": 15.860330000000001,
+                "windDirection": 287,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-11-22T06:00:00+00:00",
-                "temperature": 22.92,
-                "windSpeed": 15.92744,
-                "windDirection": 286,
+                "startTime": "2025-11-22T09:00:00+00:00",
+                "temperature": 22.95,
+                "windSpeed": 15.345820000000002,
+                "windDirection": 275,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a soft, pewter sky, the light diluted and gentle, the air holding that quiet expectancy before the first drops. Late morning and early afternoon look set for on-and-off light rain, the day more silvery than sunny, with only brief, pale openings in the cloud. Clarity will be muted rather than murky\u2014edges softened, colors cooled. Even so, it\u2019s spring and the midday UV in Perth can still sneak through the overcast; don\u2019t let the gray fool you if you\u2019ll be outdoors for long.\n\nIt\u2019s a day for ease and small comforts: light layers with a breathable rain jacket, shoes that won\u2019t mind the damp, a compact umbrella that actually fits in your bag. Step out soon if you\u2019ve errands before the showers, then linger somewhere with a window\u2014coffee, a bakery, a quiet corner to read notes or draft a list for the week. A gentle walk between squalls can be oddly pleasant, the streets washed and reflective, but keep plans flexible and unhurried.",
-    "color_code": "#90A4AE",
-    "timestamp": "2025-11-22 09:45:18",
+    "weather_report": "A damp morning has rinsed Crawley, leaving the pavements dark and reflective, the sky a stubborn quilt of grey. By early afternoon the rain is likely lighter and more intermittent at best, with only hesitant bright spells trying to work through. Sun, if it peeks out at all, will be fleeting and soft; the UV is negligible this time of year, and the air feels clean but muted, as though the distance has been pressed closer. It\u2019s a cool, quietly persistent sort of day, more drizzly interlude than dramatic weather, and daylight will slip away early.\n\nDress for patience: a light waterproof over warm layers, shoes that don\u2019t mind puddles, and an umbrella you can fold away between spits. It\u2019s a good time to run a few errands while the rain eases, take a short, brisk loop through the park to stretch the legs, then reward yourself with a caf\u00e9 window seat and a book. If you stay home, let the kettle do its work and tackle a small project, the kind that makes the room feel a shade brighter when you\u2019re done.",
+    "color_code": "#778899",
+    "timestamp": "2025-11-22 12:26:37",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94964869616688,
-        "longitude": 115.8209569157717,
+        "name": "Crawley",
+        "latitude": -31.97698141122513,
+        "longitude": 115.8191116202778,
         "timezone": "Australia/Perth"
     }
 }

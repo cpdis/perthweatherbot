@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-11-15 04:26:07",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970410503225,
-      "longitude": 115.8207550981097,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-14T20:26:07+00:00",
-      "temperature_c": 12.71,
-      "temperature_f": 54.878,
-      "humidity": 76,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 150,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes in a hush at this hour, the sky clear and deep, with a clean sunrise and a bright morn...",
-    "color_code": "#0B2545"
-  },
-  {
     "timestamp": "2025-11-15 09:46:33",
     "location": {
       "name": "Subiaco",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Subiaco wakes under a soft, pewter sky, the light diluted and gentle, the air holding that quiet exp...",
     "color_code": "#90A4AE"
+  },
+  {
+    "timestamp": "2025-11-22 12:26:37",
+    "location": {
+      "name": "Crawley",
+      "latitude": -31.97698141122513,
+      "longitude": 115.8191116202778,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-22T04:26:36+00:00",
+      "temperature_c": 22.78,
+      "temperature_f": 73.004,
+      "humidity": 65,
+      "wind_speed_mph": 14.965530000000001,
+      "wind_direction": 270,
+      "description": "broken clouds"
+    },
+    "report_summary": "A damp morning has rinsed Crawley, leaving the pavements dark and reflective, the sky a stubborn qui...",
+    "color_code": "#778899"
   }
 ]
