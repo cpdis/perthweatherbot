@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Bassendean",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.90205909308378,
-            "longitude": 115.9549585023505
+            "latitude": -31.94968886453806,
+            "longitude": 115.8206594582706
         },
         "current_conditions": {
-            "timestamp": "2025-11-22T08:28:11+00:00",
-            "temperature_c": 23.4,
-            "temperature_f": 74.12,
-            "humidity": 63,
-            "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 260,
-            "description": "scattered clouds"
+            "timestamp": "2025-11-22T12:40:45+00:00",
+            "temperature_c": 19.56,
+            "temperature_f": 67.208,
+            "humidity": 74,
+            "wind_speed_mph": 18.410510000000002,
+            "wind_direction": 250,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-11-22T09:00:00+00:00",
-                "temperature": 23.4,
-                "windSpeed": 14.20495,
-                "windDirection": 265,
+                "startTime": "2025-11-22T15:00:00+00:00",
+                "temperature": 18.97,
+                "windSpeed": 16.86698,
+                "windDirection": 232,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-11-22T12:00:00+00:00",
-                "temperature": 22.07,
-                "windSpeed": 14.85368,
-                "windDirection": 242,
+                "startTime": "2025-11-22T18:00:00+00:00",
+                "temperature": 17.87,
+                "windSpeed": 14.7642,
+                "windDirection": 246,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late afternoon in Bassendean feels hushed and silvered, the sky turning to soft pewter as light rain noses in toward dusk. The sun is largely veiled now, with only a pale glow behind the cloud; UV has eased to the low end and will keep sliding as evening comes on. The air is mild and a touch damp, visibility good but edges smudged, as if the day has decided to speak in a quieter voice.\n\nExpect intermittent light showers from about now through the evening, more a steady patter than a downpour, with the odd lull for a breather. It\u2019s a gentle, if subdued, sort of pleasant: fine for those who like the streets darkening and the gardens grateful. A light waterproof or a short raincoat, breathable layers, and closed shoes will serve you well; tuck a small umbrella in your bag. Good choices this hour are modest ones\u2014an unhurried grocery run, a library return, tidying a corner of the shed, or a short walk between showers before putting a pot on to simmer and letting the windows fog a little.",
-    "color_code": "#708090",
-    "timestamp": "2025-11-22 16:28:11",
+    "weather_report": "Night has settled over Subiaco with a soft, charcoal sky and a hush to the air. The sun is gone and with it any bite of UV, leaving the streets under low, pearly cloud that blurs the edges of things and halos the lamps. It feels gentle rather than bleak, the kind of evening where you hear your footsteps and the town breathes a little slower.\n\nLight rain is expected to slip in later tonight and wander through after midnight, more a patient tap on the awnings than a deluge. It won\u2019t be sunny or crisp, but it will be quietly beautiful in its own damp way. A light rain jacket, closed shoes, and a small umbrella will suit you fine. If you\u2019re out, an unhurried meal close to home or a quick errand before the showers arrive; if you\u2019re in, fold laundry, sort the week\u2019s notes, or read three unimportant pages that turn into ten. The night encourages small, domestic victories and an early tram if you must travel.",
+    "color_code": "#2C3E50",
+    "timestamp": "2025-11-22 20:40:46",
     "location": {
-        "name": "Bassendean",
-        "latitude": -31.90205909308378,
-        "longitude": 115.9549585023505,
+        "name": "Subiaco",
+        "latitude": -31.94968886453806,
+        "longitude": 115.8206594582706,
         "timezone": "Australia/Perth"
     }
 }
