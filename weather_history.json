@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-16 09:55:45",
-    "location": {
-      "name": "Floreat",
-      "latitude": -31.94147650838563,
-      "longitude": 115.7919261362925,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-16T01:55:44+00:00",
-      "temperature_c": 22.11,
-      "temperature_f": 71.798,
-      "humidity": 46,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 100,
-      "description": "clear sky"
-    },
-    "report_summary": "Morning in Floreat arrives clean and bright, the day already shaking off any haze. The forecast show...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-11-16 12:28:21",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967482590498,
-      "longitude": 115.8207145921522,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-16T04:28:20+00:00",
-      "temperature_c": 26.38,
-      "temperature_f": 79.484,
-      "humidity": 32,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 60,
-      "description": "clear sky"
-    },
-    "report_summary": "Midday in Subiaco arrives under a polished blue dome, the light crisp and steady, edges of buildings...",
-    "color_code": "#87CEFA"
-  },
-  {
     "timestamp": "2025-11-16 16:27:56",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon in Subiaco wears a soft, pewter light; the breeze has that hushed, rain-on-the-way pr...",
     "color_code": "#708090"
+  },
+  {
+    "timestamp": "2025-11-23 20:40:28",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968985017791,
+      "longitude": 115.8208388456529,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-23T12:40:28+00:00",
+      "temperature_c": 17.56,
+      "temperature_f": 63.608,
+      "humidity": 61,
+      "wind_speed_mph": 16.1064,
+      "wind_direction": 240,
+      "description": "moderate rain"
+    },
+    "report_summary": "Evening settles over Subiaco with a soft, lived\u2011in glow, the sky mostly veiled and the air carrying ...",
+    "color_code": "#2f3e4e"
   }
 ]
