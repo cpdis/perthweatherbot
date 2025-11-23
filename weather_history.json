@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-15 20:41:39",
-    "location": {
-      "name": "Fremantle",
-      "latitude": -32.05589791425264,
-      "longitude": 115.7421683739181,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-15T12:41:39+00:00",
-      "temperature_c": 17.92,
-      "temperature_f": 64.256,
-      "humidity": 65,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 190,
-      "description": "clear sky"
-    },
-    "report_summary": "Evening has settled over Fremantle with a clean, untroubled sky, the kind that lets the first stars ...",
-    "color_code": "#0B1D3A"
-  },
-  {
-    "timestamp": "2025-11-16 00:25:25",
-    "location": {
-      "name": "Fremantle",
-      "latitude": -32.05589791425264,
-      "longitude": 115.7421683739181,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-15T16:25:25+00:00",
-      "temperature_c": 15.18,
-      "temperature_f": 59.324,
-      "humidity": 69,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 180,
-      "description": "clear sky"
-    },
-    "report_summary": "Fremantle sits under a rinsed, midnight-blue sky, the air quiet and a touch salty, as if the ocean w...",
-    "color_code": "#0B1E3A"
-  },
-  {
     "timestamp": "2025-11-16 04:22:38",
     "location": {
       "name": "Fremantle",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Before dawn in Subiaco, the streets feel hushed and softly silvered; a light rain is due to drift in...",
     "color_code": "#5F6D7A"
+  },
+  {
+    "timestamp": "2025-11-23 10:03:24",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969761543064,
+      "longitude": 115.8206556676279,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-23T02:03:24+00:00",
+      "temperature_c": 19.61,
+      "temperature_f": 67.298,
+      "humidity": 52,
+      "wind_speed_mph": 20.71462,
+      "wind_direction": 240,
+      "description": "broken clouds"
+    },
+    "report_summary": "Subiaco wakes under a quilt of soft grey, the morning light muted and thoughtful. Clouds are thicken...",
+    "color_code": "#8FA3B4"
   }
 ]
