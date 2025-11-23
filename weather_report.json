@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9497402756063,
-            "longitude": 115.8206517799136
+            "latitude": -31.94968985017791,
+            "longitude": 115.8208388456529
         },
         "current_conditions": {
-            "timestamp": "2025-11-23T04:35:02+00:00",
-            "temperature_c": 20.7,
-            "temperature_f": 69.25999999999999,
-            "humidity": 47,
-            "wind_speed_mph": 26.463710000000003,
+            "timestamp": "2025-11-23T08:28:22+00:00",
+            "temperature_c": 20.03,
+            "temperature_f": 68.054,
+            "humidity": 51,
+            "wind_speed_mph": 24.1596,
             "wind_direction": 250,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-11-23T06:00:00+00:00",
-                "temperature": 20.7,
-                "windSpeed": 22.43711,
-                "windDirection": 245,
+                "startTime": "2025-11-23T09:00:00+00:00",
+                "temperature": 20.03,
+                "windSpeed": 21.721270000000004,
+                "windDirection": 241,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-11-23T09:00:00+00:00",
-                "temperature": 20.35,
-                "windSpeed": 21.76601,
-                "windDirection": 242,
-                "shortForecast": "light rain"
+                "startTime": "2025-11-23T12:00:00+00:00",
+                "temperature": 19.63,
+                "windSpeed": 20.15537,
+                "windDirection": 237,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Midday in Subiaco arrives under a soft, pewter sky, the light gentled as clouds thicken and the air takes on that faint, mineral smell that hints at rain. The sun is shy and filtered, but November\u2019s bite still lingers; UV can remain surprisingly assertive around lunch, even through a veil of cloud, so a dab of sunscreen won\u2019t go amiss. The day feels calm rather than bright, with visibility good, the colour of the streets slightly desaturated as if someone turned down the contrast.\n\nFrom early afternoon into late day, passing light showers look likely, more a hush than a downpour, the kind that spots the pavement and cools the shoulders. It\u2019s a pleasant-enough day if you\u2019re dressed for it: breathable layers with a light waterproof or umbrella, comfortable shoes that don\u2019t mind a sprinkle. Consider errands close to home, a quiet browse in the bookshop, or a caf\u00e9 window seat where you can watch the drizzle gather in the jacaranda petals. If you\u2019re stepping out for a stroll, keep it leisurely and aim for the gaps between showers; the evening should feel fresh, the kind that pairs well with a simple supper and an early night.",
-    "color_code": "#6D7B8D",
-    "timestamp": "2025-11-23 12:35:02",
+    "weather_report": "Late afternoon in Subiaco wears a soft, pewter light; the breeze has that hushed, rain-on-the-way promise. A light shower is due around the next hour, then the sky loosens into broken cloud after dusk, perhaps a thin, late glow if a gap opens on the western rim. Sunshine is mostly veiled and gentle, the UV now low and losing interest as evening approaches. The day feels rinsed rather than bright; edges are softened, visibility still good, pavements likely to glimmer a little.\n\nA light waterproof or windbreaker over breathable layers will serve, with comfortable shoes that don\u2019t mind a damp footpath; tuck a small umbrella in a bag. It\u2019s a good window for an unhurried grocery top\u2011up, a quiet browse at the returns shelf, or a loop through the neighborhood between showers, listening to the soft rattle of drops in the jacarandas. If you\u2019re cycling, lights and a modest pace will keep things civil. At home, crack a window for the cool, clean air and let the evening settle in while you put a pot on and sort tomorrow\u2019s list.",
+    "color_code": "#708090",
+    "timestamp": "2025-11-23 16:28:22",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.9497402756063,
-        "longitude": 115.8206517799136,
+        "latitude": -31.94968985017791,
+        "longitude": 115.8208388456529,
         "timezone": "Australia/Perth"
     }
 }
