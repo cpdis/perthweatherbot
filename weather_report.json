@@ -7,34 +7,34 @@
             "longitude": 115.8208388456529
         },
         "current_conditions": {
-            "timestamp": "2025-11-23T12:40:28+00:00",
-            "temperature_c": 17.56,
-            "temperature_f": 63.608,
-            "humidity": 61,
+            "timestamp": "2025-11-23T16:26:58+00:00",
+            "temperature_c": 16.63,
+            "temperature_f": 61.934,
+            "humidity": 69,
             "wind_speed_mph": 16.1064,
-            "wind_direction": 240,
-            "description": "moderate rain"
+            "wind_direction": 230,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-11-23T15:00:00+00:00",
-                "temperature": 17.62,
-                "windSpeed": 20.848840000000003,
-                "windDirection": 233,
-                "shortForecast": "light rain"
-            },
-            {
                 "startTime": "2025-11-23T18:00:00+00:00",
-                "temperature": 17.73,
+                "temperature": 16.93,
                 "windSpeed": 17.2249,
                 "windDirection": 228,
                 "shortForecast": "broken clouds"
+            },
+            {
+                "startTime": "2025-11-23T21:00:00+00:00",
+                "temperature": 17.46,
+                "windSpeed": 16.62091,
+                "windDirection": 229,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Evening settles over Subiaco with a soft, lived\u2011in glow, the sky mostly veiled and the air carrying a hint of damp. Sunshine is done for the day and the UV index has slipped to practically nothing; clarity is muted rather than murky, the kind of cloud cover that lets the streetlights halo and, at times, breaks just enough to suggest a few shy stars. Expect a brush of light rain around the evening hours, easing back to broken clouds later on, a night more about puddle sheen and quiet pavements than drama.\n\nIt looks gently pleasant if you\u2019re dressed for it: a light jacket, something with a hood or an umbrella in hand, comfortable shoes that won\u2019t sulk at a wet curb. Good weather for small, useful rituals \u2014 post a letter on a short stroll before the showers, bring the washing in, sharpen a knife and chop tomorrow\u2019s vegetables, tidy the desk, put fresh water on the plants you keep inside. If you step out, keep it unhurried, a loop around the block to listen to the neighborhood breathing, then home before the next sprinkle finds you.",
-    "color_code": "#2f3e4e",
-    "timestamp": "2025-11-23 20:40:28",
+    "weather_report": "Just past midnight in Subiaco, the sky is torn into quiet scraps of cloud, the town dimly varnished by streetlight. The air feels calm, a touch heavy, and the night has that muffled hush that makes small sounds travel. Stars are mostly veiled and horizon lines are softened; clarity is low, but gentle rather than grim.\n\nToward the small hours the cloud thickens, and by the first hint of morning a light rain looks likely, enough to stipple footpaths and freshen the gardens. Sunshine will be scarce at daybreak; UV is negligible overnight and should stay low into the morning unless skies surprise us by opening. Expect a muted, grey start, the sort of damp that invites a light layer and a thin waterproof, closed shoes, perhaps an umbrella tucked under the arm. It\u2019s good weather for unhurried tasks: tidying a desk, laying out tomorrow\u2019s kit, brewing something warm, or taking a quiet, brisk walk under the awnings before the city fully wakes. If you\u2019re commuting early, allow a touch more time and let the day ease you in.",
+    "color_code": "#2F3E46",
+    "timestamp": "2025-11-24 00:26:59",
     "location": {
         "name": "Subiaco",
         "latitude": -31.94968985017791,
