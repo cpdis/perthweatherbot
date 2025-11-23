@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-11-16 16:27:56",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94988435283463,
-      "longitude": 115.8205495967287,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-16T08:27:55+00:00",
-      "temperature_c": 25.36,
-      "temperature_f": 77.648,
-      "humidity": 47,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 240,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco drifts through the late afternoon under a flawless sky, the light still bright enough to sha...",
-    "color_code": "#F6C27A"
-  },
-  {
     "timestamp": "2025-11-16 20:41:40",
     "location": {
       "name": "Subiaco",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Just past midnight in Subiaco, the sky is torn into quiet scraps of cloud, the town dimly varnished ...",
     "color_code": "#2F3E46"
+  },
+  {
+    "timestamp": "2025-11-24 04:25:09",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968985017791,
+      "longitude": 115.8208388456529,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-23T20:25:08+00:00",
+      "temperature_c": 16.68,
+      "temperature_f": 62.024,
+      "humidity": 71,
+      "wind_speed_mph": 19.57375,
+      "wind_direction": 240,
+      "description": "light rain"
+    },
+    "report_summary": "Before dawn in Subiaco, the streets wear a thin gloss as a light rain lingers, the sky a soft, unbro...",
+    "color_code": "#6b7c8f"
   }
 ]
