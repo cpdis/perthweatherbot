@@ -7,34 +7,34 @@
             "longitude": 115.8207221619934
         },
         "current_conditions": {
-            "timestamp": "2025-11-24T12:50:40+00:00",
-            "temperature_c": 17.05,
-            "temperature_f": 62.690000000000005,
-            "humidity": 62,
+            "timestamp": "2025-11-24T16:26:54+00:00",
+            "temperature_c": 16.56,
+            "temperature_f": 61.808,
+            "humidity": 71,
             "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 210,
-            "description": "scattered clouds"
+            "wind_direction": 200,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-11-24T15:00:00+00:00",
-                "temperature": 17.13,
-                "windSpeed": 13.35489,
-                "windDirection": 228,
-                "shortForecast": "broken clouds"
-            },
-            {
                 "startTime": "2025-11-24T18:00:00+00:00",
-                "temperature": 16.96,
+                "temperature": 16.65,
                 "windSpeed": 12.5272,
                 "windDirection": 227,
+                "shortForecast": "light rain"
+            },
+            {
+                "startTime": "2025-11-24T21:00:00+00:00",
+                "temperature": 16.79,
+                "windSpeed": 13.22067,
+                "windDirection": 221,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Evening has settled over Subiaco with a quilt of broken cloud softening the streetlights and dimming the last of the day\u2019s edges. The glare is gone and the UV has gone with it, effectively asleep until morning; the sky feels muted, the air a touch heavy, as if considering its next move. Clarity is fair but gentle, a night of scattered texture rather than crisp stars.\n\nThose clouds are set to linger through late evening, with light rain likely drifting in after midnight and giving the footpaths a quiet shine. It\u2019s a mild-to-cool sort of night: a light layer will do if you\u2019re stepping out, plus a compact umbrella or a simple rain shell for the wee hours, and shoes you won\u2019t mind meeting damp pavements. It\u2019s a good window for an unhurried stroll before the sprinkles arrive, a slow grocery top-up, or clearing the kitchen while the radio murmurs; if you do cycle, lights and an easy pace will serve you well on slick corners. Gardeners can let the sky take care of the watering, and those at home might crack a window for the first whiff of petrichor, then close it when the drops begin.",
-    "color_code": "#2F4F4F",
-    "timestamp": "2025-11-24 20:50:41",
+    "weather_report": "Subiaco slips past midnight under a soft, wet hush, light rain tufting the eaves and turning the streets to ink and silver. Clouds have the night sewn shut, so there\u2019s no moonlight to speak of and the UV is asleep; visibility is gentle, edges blurred, the town lit like a quiet stage between scenes.\n\nThrough the small hours and into dawn, passing showers linger, likely yielding a muted sunrise with only thin, hesitant light at first. Sunshine looks limited early; if the cloud deck fractures later, brightness will return in brief, clean intervals, and the UV will climb quickly once it does. It\u2019s a day for comfort rather than sparkle: dress in light layers with a rain shell, sturdy shoes, and a pocket umbrella; after sun-up, keep sunglasses and a dab of sunscreen handy in case the sky opens. Let the weather set a humane pace\u2014an early tram ride with a book, a calm coffee under a verandah while the pavements dry in patches, or a gentle start at the desk clearing yesterday\u2019s loose ends. If you\u2019re cycling before breakfast, lights on and a fender help; if you\u2019re driving, leave a few extra beats for the slick, reflective roads.",
+    "color_code": "#2F3D4A",
+    "timestamp": "2025-11-25 00:26:54",
     "location": {
         "name": "Subiaco",
         "latitude": -31.94971010779003,
