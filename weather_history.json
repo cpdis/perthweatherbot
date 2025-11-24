@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-11-17 04:24:08",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94966543710898,
-      "longitude": 115.8208954379286,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-16T20:17:57+00:00",
-      "temperature_c": 17.47,
-      "temperature_f": 63.446,
-      "humidity": 59,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 100,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes in a hush: a clear, indigo sky lightening at the edges, the last stars stepping offsta...",
-    "color_code": "#1E3A5F"
-  },
-  {
     "timestamp": "2025-11-17 09:51:30",
     "location": {
       "name": "Subiaco",
@@ -877,6 +857,26 @@
       "description": "scattered clouds"
     },
     "report_summary": "Perth eases into late morning under a washed-blue sky brushed with scattered cloud. Sunlight slips c...",
+    "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2025-11-24 12:36:22",
+    "location": {
+      "name": "Perth",
+      "latitude": -31.96060082246112,
+      "longitude": 115.8470986483143,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-24T04:36:22+00:00",
+      "temperature_c": 20.4,
+      "temperature_f": 68.72,
+      "humidity": 47,
+      "wind_speed_mph": 13.802290000000001,
+      "wind_direction": 240,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Perth sits under a kindly scatter of clouds at midday, the sun still the main actor, shouldering thr...",
     "color_code": "#87CEEB"
   }
 ]
