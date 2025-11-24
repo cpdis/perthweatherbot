@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-17 09:51:30",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969565934422,
-      "longitude": 115.8207575310645,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-17T01:51:30+00:00",
-      "temperature_c": 26.82,
-      "temperature_f": 80.276,
-      "humidity": 37,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 80,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes under a rinsed-blue sky, the light already clean and insistent. Forecasts from late mo...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-11-17 12:29:40",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95400624261476,
-      "longitude": 115.8528484265146,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-17T04:29:39+00:00",
-      "temperature_c": 31.89,
-      "temperature_f": 89.402,
-      "humidity": 24,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 60,
-      "description": "clear sky"
-    },
-    "report_summary": "Perth sits under a rinsed-blue midday sky, the morning\u2019s pure clarity now softened by a few easygoin...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-11-17 16:33:44",
     "location": {
       "name": "Perth",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon in Perth and the sky is mostly clear, just a few cottony clouds idling as the sun til...",
     "color_code": "#F6C27A"
+  },
+  {
+    "timestamp": "2025-11-24 20:50:41",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94971010779003,
+      "longitude": 115.8207221619934,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-24T12:50:40+00:00",
+      "temperature_c": 17.05,
+      "temperature_f": 62.690000000000005,
+      "humidity": 62,
+      "wind_speed_mph": 13.802290000000001,
+      "wind_direction": 210,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Evening has settled over Subiaco with a quilt of broken cloud softening the streetlights and dimming...",
+    "color_code": "#2F4F4F"
   }
 ]

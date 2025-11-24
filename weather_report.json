@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9543342775087,
-            "longitude": 115.8525729851644
+            "latitude": -31.94971010779003,
+            "longitude": 115.8207221619934
         },
         "current_conditions": {
-            "timestamp": "2025-11-24T08:34:13+00:00",
-            "temperature_c": 19.64,
-            "temperature_f": 67.352,
-            "humidity": 53,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 240,
-            "description": "few clouds"
+            "timestamp": "2025-11-24T12:50:40+00:00",
+            "temperature_c": 17.05,
+            "temperature_f": 62.690000000000005,
+            "humidity": 62,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 210,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-11-24T09:00:00+00:00",
-                "temperature": 19.64,
-                "windSpeed": 15.055010000000001,
-                "windDirection": 231,
-                "shortForecast": "few clouds"
+                "startTime": "2025-11-24T15:00:00+00:00",
+                "temperature": 17.13,
+                "windSpeed": 13.35489,
+                "windDirection": 228,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-11-24T12:00:00+00:00",
-                "temperature": 19.04,
-                "windSpeed": 11.58766,
-                "windDirection": 224,
-                "shortForecast": "few clouds"
+                "startTime": "2025-11-24T18:00:00+00:00",
+                "temperature": 16.96,
+                "windSpeed": 12.5272,
+                "windDirection": 227,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late afternoon in Perth and the sky is mostly clear, just a few cottony clouds idling as the sun tilts west. The light is bright but softening, the air clean and visibility keen; it feels like a day that has stayed sunny and uncomplicated. UV was fierce earlier, now easing quickly toward low as dusk approaches; if you\u2019re out before sunset, a hat and a smear of sunscreen are still sensible.\n\nThrough the early evening the outlook stays steady\u2014few clouds, no drama\u2014so expect a pleasant, open sky and an easy slide into twilight. Dress light and breathable for now, with a soft layer ready when the warmth lets go. Good hours for unhurried things: water the plants, fetch a small shop, hang a late load of washing, or sit on the balcony and let the last gold spill over the page of a book. If a stretch is needed, take a short loop around the block and watch the day fold itself away.",
-    "color_code": "#F6C27A",
-    "timestamp": "2025-11-24 16:34:14",
+    "weather_report": "Evening has settled over Subiaco with a quilt of broken cloud softening the streetlights and dimming the last of the day\u2019s edges. The glare is gone and the UV has gone with it, effectively asleep until morning; the sky feels muted, the air a touch heavy, as if considering its next move. Clarity is fair but gentle, a night of scattered texture rather than crisp stars.\n\nThose clouds are set to linger through late evening, with light rain likely drifting in after midnight and giving the footpaths a quiet shine. It\u2019s a mild-to-cool sort of night: a light layer will do if you\u2019re stepping out, plus a compact umbrella or a simple rain shell for the wee hours, and shoes you won\u2019t mind meeting damp pavements. It\u2019s a good window for an unhurried stroll before the sprinkles arrive, a slow grocery top-up, or clearing the kitchen while the radio murmurs; if you do cycle, lights and an easy pace will serve you well on slick corners. Gardeners can let the sky take care of the watering, and those at home might crack a window for the first whiff of petrichor, then close it when the drops begin.",
+    "color_code": "#2F4F4F",
+    "timestamp": "2025-11-24 20:50:41",
     "location": {
-        "name": "Perth",
-        "latitude": -31.9543342775087,
-        "longitude": 115.8525729851644,
+        "name": "Subiaco",
+        "latitude": -31.94971010779003,
+        "longitude": 115.8207221619934,
         "timezone": "Australia/Perth"
     }
 }
