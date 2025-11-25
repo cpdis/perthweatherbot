@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-11-18 16:31:26",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95435133650973,
-      "longitude": 115.8525786079174,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-18T08:31:25+00:00",
-      "temperature_c": 27.44,
-      "temperature_f": 81.392,
-      "humidity": 48,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 170,
-      "description": "light rain"
-    },
-    "report_summary": "Perth drifts into late afternoon under a soft, paling sky. Clouds gather and thicken, with a light s...",
-    "color_code": "#6D7886"
-  },
-  {
     "timestamp": "2025-11-18 20:49:14",
     "location": {
       "name": "Subiaco",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Subiaco slips into evening under a mostly clear dome, only a few loose clouds wandering past as the ...",
     "color_code": "#1B263B"
+  },
+  {
+    "timestamp": "2025-11-26 00:31:59",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969752952215,
+      "longitude": 115.820651875097,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-25T16:31:59+00:00",
+      "temperature_c": 16.36,
+      "temperature_f": 61.448,
+      "humidity": 77,
+      "wind_speed_mph": 1.14087,
+      "wind_direction": 310,
+      "description": "broken clouds"
+    },
+    "report_summary": "Past midnight in Subiaco, the sky is a patchwork of broken cloud, the moon slipping in and out like ...",
+    "color_code": "#2C3E50"
   }
 ]
