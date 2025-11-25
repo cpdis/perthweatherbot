@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-18 09:49:39",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94966240858356,
-      "longitude": 115.8208583103725,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-18T01:49:38+00:00",
-      "temperature_c": 22.77,
-      "temperature_f": 72.986,
-      "humidity": 57,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 80,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes under a lucid, blue morning\u2014sun already bright, the air clear as glass. Expect the lig...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-11-18 12:27:55",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.9544372938622,
-      "longitude": 115.853577533466,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-18T04:27:54+00:00",
-      "temperature_c": 23.83,
-      "temperature_f": 74.89399999999999,
-      "humidity": 57,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 80,
-      "description": "light intensity drizzle"
-    },
-    "report_summary": "Perth steps into the early afternoon bright and open, the sky mostly clear with scattered flecks of ...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-11-18 16:31:26",
     "location": {
       "name": "Perth",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Perth leans into late afternoon with a mostly open sky and just a smatter of cloud, the light turnin...",
     "color_code": "#F3C77C"
+  },
+  {
+    "timestamp": "2025-11-25 20:50:16",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969752952215,
+      "longitude": 115.820651875097,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-25T12:50:15+00:00",
+      "temperature_c": 17.38,
+      "temperature_f": 63.284,
+      "humidity": 72,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 200,
+      "description": "moderate rain"
+    },
+    "report_summary": "Subiaco slips into evening under a mostly clear dome, only a few loose clouds wandering past as the ...",
+    "color_code": "#1B263B"
   }
 ]
