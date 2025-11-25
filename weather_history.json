@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-17 20:49:23",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.949676207368,
-      "longitude": 115.8206749240993,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-17T12:49:22+00:00",
-      "temperature_c": 26.09,
-      "temperature_f": 78.962,
-      "humidity": 46,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 180,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco slips into evening with a soft, patchwork sky: scattered clouds drifting past and letting a ...",
-    "color_code": "#1B263B"
-  },
-  {
-    "timestamp": "2025-11-18 00:31:47",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.949676207368,
-      "longitude": 115.8206749240993,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-17T16:31:47+00:00",
-      "temperature_c": 22.83,
-      "temperature_f": 73.094,
-      "humidity": 51,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 120,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco settles into the small hours with a clean, open sky; the forecast keeps it clear through the...",
-    "color_code": "#0B1E3D"
-  },
-  {
     "timestamp": "2025-11-18 04:26:38",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Before sunrise in Subiaco the air feels newly rinsed, with a soft patter due around dawn and lingeri...",
     "color_code": "#3A4A59"
+  },
+  {
+    "timestamp": "2025-11-25 09:51:22",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94971424346025,
+      "longitude": 115.8207024518839,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-25T01:42:56+00:00",
+      "temperature_c": 19.59,
+      "temperature_f": 67.262,
+      "humidity": 54,
+      "wind_speed_mph": 17.26964,
+      "wind_direction": 210,
+      "description": "light rain"
+    },
+    "report_summary": "Subiaco wakes to a pale, amiable sun, the morning light washing through a loose quilt of cloud. As t...",
+    "color_code": "#9CC6E7"
   }
 ]
