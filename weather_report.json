@@ -3,42 +3,42 @@
         "location": {
             "name": "Osborne Park",
             "country": "AU",
-            "latitude": -31.90428006128768,
-            "longitude": 115.8165498903683
+            "latitude": -31.90550710238847,
+            "longitude": 115.809262137527
         },
         "current_conditions": {
-            "timestamp": "2025-11-26T04:30:22+00:00",
-            "temperature_c": 22.77,
-            "temperature_f": 72.986,
-            "humidity": 56,
-            "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 260,
-            "description": "few clouds"
+            "timestamp": "2025-11-26T08:32:00+00:00",
+            "temperature_c": 22.37,
+            "temperature_f": 72.266,
+            "humidity": 63,
+            "wind_speed_mph": 11.00604,
+            "wind_direction": 41,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-11-26T06:00:00+00:00",
-                "temperature": 22.77,
-                "windSpeed": 13.287780000000001,
-                "windDirection": 230,
-                "shortForecast": "few clouds"
+                "startTime": "2025-11-26T09:00:00+00:00",
+                "temperature": 22.37,
+                "windSpeed": 14.20495,
+                "windDirection": 213,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-11-26T09:00:00+00:00",
-                "temperature": 22.69,
-                "windSpeed": 13.936510000000002,
-                "windDirection": 215,
-                "shortForecast": "few clouds"
+                "startTime": "2025-11-26T12:00:00+00:00",
+                "temperature": 20.87,
+                "windSpeed": 12.86275,
+                "windDirection": 197,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Early afternoon in Osborne Park arrives under a clean blue sky, only a few modest clouds wandering through the light. The sun feels decisive and bright, the sort that sharpens edges and deepens color; UV is fierce now, so skin and eyes will want shelter. The air reads clear and uncomplicated, a day that invites you out while reminding you to move thoughtfully through the glare.\n\nExpect the sunshine to hold through the afternoon with just scattered cloud, softening toward evening. A light breeze may take the edge off the warmth. Choose breathable clothing, a brimmed hat, sunglasses, and sunscreen, and keep some water at hand. It\u2019s a good time for small, ordinary pleasures: walking errands under shaded shopfronts, letting fresh laundry drink in the dry air, or a quiet coffee outside beneath an awning. Save anything strenuous for later, when the light cools and the day relaxes.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-11-26 12:30:22",
+    "weather_report": "Late afternoon in Osborne Park arrives under scattered clouds, the sun sliding westward between soft gaps and giving the streets a warm, dappled glow. The sky feels open and honest, with just enough cloud to soften the glare; the UV is easing but still has a little bite until the day leans toward twilight. Expect more of the same into evening: broken cloud, dry air, and clear views, the light mellowing to a calm, honeyed hush. It reads as a pleasant, unhurried spell. Dress light and breathable now, with a hat and a whisper of sunscreen if you\u2019re out before dusk, and keep a soft layer handy for when the warmth drifts off. Good hours for modest comforts: a stroll to the shops, watering the garden, a tidy of the front step, or an easy loop with the dog as the day exhales.",
+    "color_code": "#E8B86D",
+    "timestamp": "2025-11-26 16:32:01",
     "location": {
         "name": "Osborne Park",
-        "latitude": -31.90428006128768,
-        "longitude": 115.8165498903683,
+        "latitude": -31.90550710238847,
+        "longitude": 115.809262137527,
         "timezone": "Australia/Perth"
     }
 }
