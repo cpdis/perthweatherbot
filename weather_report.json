@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Osborne Park",
             "country": "AU",
-            "latitude": -31.94971631666666,
-            "longitude": 115.8205484
+            "latitude": -31.90428006128768,
+            "longitude": 115.8165498903683
         },
         "current_conditions": {
-            "timestamp": "2025-11-26T01:51:00+00:00",
-            "temperature_c": 20.85,
-            "temperature_f": 69.53,
-            "humidity": 53,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 230,
-            "description": "scattered clouds"
+            "timestamp": "2025-11-26T04:30:22+00:00",
+            "temperature_c": 22.77,
+            "temperature_f": 72.986,
+            "humidity": 56,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 260,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-11-26T03:00:00+00:00",
-                "temperature": 20.85,
-                "windSpeed": 7.96372,
-                "windDirection": 285,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-11-26T06:00:00+00:00",
+                "temperature": 22.77,
+                "windSpeed": 13.287780000000001,
+                "windDirection": 230,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-11-26T06:00:00+00:00",
-                "temperature": 20.86,
-                "windSpeed": 13.17593,
-                "windDirection": 229,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-11-26T09:00:00+00:00",
+                "temperature": 22.69,
+                "windSpeed": 13.936510000000002,
+                "windDirection": 215,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a quilt of scattered cloud, the sun slipping in and out like a shy accompanist, lending a soft, silvery clarity to the streets. Through late morning and into the afternoon, expect that pattern to hold: bright spells with gentle veils of cloud, the day reading clean and glare-prone rather than murky. UV will rise quickly as the sun climbs, even with the passing cover, so think of shade as a companion rather than an afterthought. It feels like an easy day to be outside in short bursts.\n\nDress for lightness and flexibility: breathable layers, sunglasses, a brimmed hat, and sunscreen on the forearms. It\u2019s a good morning for unhurried errands on foot, a quiet browse in a bookshop before lunch, or tending a few plants on the balcony while the light is kind. If you wander to a caf\u00e9, choose the table under the awning and let the shifting sky do the small talk.",
-    "color_code": "#89CFF0",
-    "timestamp": "2025-11-26 09:51:00",
+    "weather_report": "Early afternoon in Osborne Park arrives under a clean blue sky, only a few modest clouds wandering through the light. The sun feels decisive and bright, the sort that sharpens edges and deepens color; UV is fierce now, so skin and eyes will want shelter. The air reads clear and uncomplicated, a day that invites you out while reminding you to move thoughtfully through the glare.\n\nExpect the sunshine to hold through the afternoon with just scattered cloud, softening toward evening. A light breeze may take the edge off the warmth. Choose breathable clothing, a brimmed hat, sunglasses, and sunscreen, and keep some water at hand. It\u2019s a good time for small, ordinary pleasures: walking errands under shaded shopfronts, letting fresh laundry drink in the dry air, or a quiet coffee outside beneath an awning. Save anything strenuous for later, when the light cools and the day relaxes.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-11-26 12:30:22",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94971631666666,
-        "longitude": 115.8205484,
+        "name": "Osborne Park",
+        "latitude": -31.90428006128768,
+        "longitude": 115.8165498903683,
         "timezone": "Australia/Perth"
     }
 }
