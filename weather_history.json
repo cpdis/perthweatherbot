@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-18 20:49:14",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94971133659426,
-      "longitude": 115.8205959156223,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-18T12:49:14+00:00",
-      "temperature_c": 24.73,
-      "temperature_f": 76.514,
-      "humidity": 56,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 130,
-      "description": "clear sky"
-    },
-    "report_summary": "Evening settles over Subiaco with a soft hush, the air turning gently damp as a light shower drifts ...",
-    "color_code": "#1f2b3a"
-  },
-  {
-    "timestamp": "2025-11-19 00:32:17",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94971133659426,
-      "longitude": 115.8205959156223,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-18T16:32:16+00:00",
-      "temperature_c": 22.84,
-      "temperature_f": 73.112,
-      "humidity": 59,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 100,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco sits in a quiet midnight hush, the sky mostly clear for now, the kind of polished dark that ...",
-    "color_code": "#1B2A41"
-  },
-  {
     "timestamp": "2025-11-19 04:27:43",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Before sunrise, Subiaco sits under a quilt of broken cloud, the sky a blue-slate with narrow rents w...",
     "color_code": "#778899"
+  },
+  {
+    "timestamp": "2025-11-26 09:51:00",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94971631666666,
+      "longitude": 115.8205484,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-26T01:51:00+00:00",
+      "temperature_c": 20.85,
+      "temperature_f": 69.53,
+      "humidity": 53,
+      "wind_speed_mph": 10.35731,
+      "wind_direction": 230,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Subiaco wakes under a quilt of scattered cloud, the sun slipping in and out like a shy accompanist, ...",
+    "color_code": "#89CFF0"
   }
 ]
