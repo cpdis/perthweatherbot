@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Osborne Park",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.90550710238847,
-            "longitude": 115.809262137527
+            "latitude": -31.94971411125293,
+            "longitude": 115.8206653161862
         },
         "current_conditions": {
-            "timestamp": "2025-11-26T08:32:00+00:00",
-            "temperature_c": 22.37,
-            "temperature_f": 72.266,
-            "humidity": 63,
-            "wind_speed_mph": 11.00604,
-            "wind_direction": 41,
-            "description": "scattered clouds"
+            "timestamp": "2025-11-26T12:51:15+00:00",
+            "temperature_c": 17.67,
+            "temperature_f": 63.806000000000004,
+            "humidity": 60,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 210,
+            "description": "moderate rain"
         },
         "forecast": [
             {
-                "startTime": "2025-11-26T09:00:00+00:00",
-                "temperature": 22.37,
-                "windSpeed": 14.20495,
-                "windDirection": 213,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-11-26T15:00:00+00:00",
+                "temperature": 17.36,
+                "windSpeed": 11.02841,
+                "windDirection": 187,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-26T12:00:00+00:00",
-                "temperature": 20.87,
-                "windSpeed": 12.86275,
-                "windDirection": 197,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-11-26T18:00:00+00:00",
+                "temperature": 15.27,
+                "windSpeed": 10.871820000000001,
+                "windDirection": 174,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Late afternoon in Osborne Park arrives under scattered clouds, the sun sliding westward between soft gaps and giving the streets a warm, dappled glow. The sky feels open and honest, with just enough cloud to soften the glare; the UV is easing but still has a little bite until the day leans toward twilight. Expect more of the same into evening: broken cloud, dry air, and clear views, the light mellowing to a calm, honeyed hush. It reads as a pleasant, unhurried spell. Dress light and breathable now, with a hat and a whisper of sunscreen if you\u2019re out before dusk, and keep a soft layer handy for when the warmth drifts off. Good hours for modest comforts: a stroll to the shops, watering the garden, a tidy of the front step, or an easy loop with the dog as the day exhales.",
-    "color_code": "#E8B86D",
-    "timestamp": "2025-11-26 16:32:01",
+    "weather_report": "Subiaco settles into evening beneath a flawless dome, the last ember of daylight gone and a lucid ink-blue taking its place. The air feels gentle rather than cold, the kind that invites a slow amble after dinner; the sky is clean and open, with stars beginning to stand at attention. UV is essentially nil now, and the day\u2019s hard glare has folded itself away, leaving a calm, unhurried clarity.\n\nThe forecast keeps it simple: clear through late evening and into the small hours, a pleasant close that cools bit by bit. Dress light with a spare layer in reach \u2014 a cotton shirt, sleeves you can roll, and easy shoes. These are good hours for a quiet loop around the block, an unhurried chat on the veranda, or jotting tomorrow\u2019s list by an open window while the night air drifts through. When the sun returns it will do so cleanly, with a bright, honest light and a UV that wakes quickly, but for now the town breathes easy.",
+    "color_code": "#0b1a3a",
+    "timestamp": "2025-11-26 20:51:16",
     "location": {
-        "name": "Osborne Park",
-        "latitude": -31.90550710238847,
-        "longitude": 115.809262137527,
+        "name": "Subiaco",
+        "latitude": -31.94971411125293,
+        "longitude": 115.8206653161862,
         "timezone": "Australia/Perth"
     }
 }

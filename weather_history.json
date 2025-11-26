@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-19 09:49:36",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969557883661,
-      "longitude": 115.8207536221415,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-19T01:49:36+00:00",
-      "temperature_c": 26.25,
-      "temperature_f": 79.25,
-      "humidity": 48,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 110,
-      "description": "clear sky"
-    },
-    "report_summary": "Morning in Subiaco arrives with a soft, pewter sky and the promise of light showers drifting through...",
-    "color_code": "#8CA0B3"
-  },
-  {
-    "timestamp": "2025-11-19 12:28:08",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94972359609796,
-      "longitude": 115.8206061959749,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-19T04:28:07+00:00",
-      "temperature_c": 26.69,
-      "temperature_f": 80.042,
-      "humidity": 50,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 100,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Midday in Subiaco settles under a pewter sky, the light soft and a little tired. Forecasts point to ...",
-    "color_code": "#7a8894"
-  },
-  {
     "timestamp": "2025-11-19 16:31:37",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon in Osborne Park arrives under scattered clouds, the sun sliding westward between soft...",
     "color_code": "#E8B86D"
+  },
+  {
+    "timestamp": "2025-11-26 20:51:16",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94971411125293,
+      "longitude": 115.8206653161862,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-26T12:51:15+00:00",
+      "temperature_c": 17.67,
+      "temperature_f": 63.806000000000004,
+      "humidity": 60,
+      "wind_speed_mph": 13.802290000000001,
+      "wind_direction": 210,
+      "description": "moderate rain"
+    },
+    "report_summary": "Subiaco settles into evening beneath a flawless dome, the last ember of daylight gone and a lucid in...",
+    "color_code": "#0b1a3a"
   }
 ]
