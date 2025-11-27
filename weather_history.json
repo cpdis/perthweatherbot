@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-20 09:48:15",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94974321364641,
-      "longitude": 115.8206346027118,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-20T01:48:15+00:00",
-      "temperature_c": 25.68,
-      "temperature_f": 78.224,
-      "humidity": 54,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 140,
-      "description": "broken clouds"
-    },
-    "report_summary": "Subiaco wakes under a softened sky, the morning light muted and calm, with a band of light rain expe...",
-    "color_code": "#9CB3C9"
-  },
-  {
-    "timestamp": "2025-11-20 12:26:28",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94974321364641,
-      "longitude": 115.8206346027118,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-20T04:26:28+00:00",
-      "temperature_c": 28.11,
-      "temperature_f": 82.598,
-      "humidity": 44,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 140,
-      "description": "broken clouds"
-    },
-    "report_summary": "Midday in Subiaco arrives under a quilt of broken cloud, the sun slipping through like a hand openin...",
-    "color_code": "#A4C8E1"
-  },
-  {
     "timestamp": "2025-11-20 16:32:10",
     "location": {
       "name": "Perth",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Perth lounges under a flawless sky this late afternoon, the light bright and honest, edges crisp eno...",
     "color_code": "#F6C26B"
+  },
+  {
+    "timestamp": "2025-11-27 20:50:10",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968815312752,
+      "longitude": 115.8206386017671,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-27T12:50:09+00:00",
+      "temperature_c": 17.47,
+      "temperature_f": 63.446,
+      "humidity": 65,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 210,
+      "description": "heavy intensity rain"
+    },
+    "report_summary": "Subiaco slips into a calm, polished night: the last light gone, the sky easing from a soft scatter o...",
+    "color_code": "#0B1D4A"
   }
 ]
