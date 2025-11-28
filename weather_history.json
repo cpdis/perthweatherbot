@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-20 20:48:18",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9497130821896,
-      "longitude": 115.8207523782199,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-20T12:48:18+00:00",
-      "temperature_c": 21.79,
-      "temperature_f": 71.222,
-      "humidity": 71,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 110,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco\u2019s afternoon took a soft tap of rain, then the weather shrugged it off and cleared, the sky r...",
-    "color_code": "#1E2A44"
-  },
-  {
-    "timestamp": "2025-11-21 00:30:35",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9497130821896,
-      "longitude": 115.8207523782199,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-20T16:30:35+00:00",
-      "temperature_c": 21.29,
-      "temperature_f": 70.322,
-      "humidity": 61,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 90,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco sits in the small hours beneath a clean, untroubled sky, the kind that makes the streetlight...",
-    "color_code": "#0A2239"
-  },
-  {
     "timestamp": "2025-11-21 04:27:04",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Before dawn in Subiaco, the sky is clean and untroubled, a deep blue softening toward the first gold...",
     "color_code": "#1B365D"
+  },
+  {
+    "timestamp": "2025-11-28 09:49:02",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94971573626697,
+      "longitude": 115.8206729153992,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-28T01:49:02+00:00",
+      "temperature_c": 19.82,
+      "temperature_f": 67.676,
+      "humidity": 44,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 130,
+      "description": "few clouds"
+    },
+    "report_summary": "Subiaco eases into the late morning under a clear, glassy light, with only a scattering of tidy clou...",
+    "color_code": "#87CEEB"
   }
 ]
