@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-11-21 16:32:34",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968738731781,
-      "longitude": 115.820838000247,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-21T08:32:33+00:00",
-      "temperature_c": 27.99,
-      "temperature_f": 82.382,
-      "humidity": 49,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 240,
-      "description": "light rain"
-    },
-    "report_summary": "Subiaco sits under a mostly open sky this afternoon, the sun softened by a few idle clouds that drif...",
-    "color_code": "#F4C27A"
-  },
-  {
     "timestamp": "2025-11-21 20:46:58",
     "location": {
       "name": "Subiaco",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Past midnight in Cottesloe, the town is held beneath a lacquered, star-sharp sky. The air feels dry ...",
     "color_code": "#0B1E3B"
+  },
+  {
+    "timestamp": "2025-11-29 04:25:42",
+    "location": {
+      "name": "Cottesloe",
+      "latitude": -31.98965524902063,
+      "longitude": 115.7530556733561,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-28T20:25:41+00:00",
+      "temperature_c": 14.23,
+      "temperature_f": 57.614,
+      "humidity": 78,
+      "wind_speed_mph": 9.21644,
+      "wind_direction": 190,
+      "description": "light rain"
+    },
+    "report_summary": "Before sunrise the town is hushed, the ocean breathing softly and the sky scrubbed clear, stars loos...",
+    "color_code": "#1E3A5F"
   }
 ]
