@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-21 09:49:08",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9497250219603,
-      "longitude": 115.8206059243633,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-21T01:49:07+00:00",
-      "temperature_c": 24.56,
-      "temperature_f": 76.208,
-      "humidity": 53,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 90,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes under a clean, lucid sky, the kind that makes colors ring true and shadows sit neatly ...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-11-21 12:27:40",
-    "location": {
-      "name": "Shenton Park",
-      "latitude": -31.96092543895942,
-      "longitude": 115.8138794560394,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-21T04:27:40+00:00",
-      "temperature_c": 28.63,
-      "temperature_f": 83.534,
-      "humidity": 38,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 110,
-      "description": "clear sky"
-    },
-    "report_summary": "Midday in Shenton Park arrives under a hard, polished blue, the morning\u2019s stray clouds long burned a...",
-    "color_code": "#00BFFF"
-  },
-  {
     "timestamp": "2025-11-21 16:32:34",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Subiaco spends the late afternoon under a polished blue, the kind of clear sky that makes the street...",
     "color_code": "#F2C76E"
+  },
+  {
+    "timestamp": "2025-11-28 20:48:27",
+    "location": {
+      "name": "Cottesloe",
+      "latitude": -31.98965524902063,
+      "longitude": 115.7530556733561,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-28T12:48:27+00:00",
+      "temperature_c": 18.08,
+      "temperature_f": 64.544,
+      "humidity": 73,
+      "wind_speed_mph": 11.00604,
+      "wind_direction": 205,
+      "description": "clear sky"
+    },
+    "report_summary": "Cottesloe eases into night beneath a polished, cloudless dome. The day has let go, leaving salt-ting...",
+    "color_code": "#0b1d3a"
   }
 ]
