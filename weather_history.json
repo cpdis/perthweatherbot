@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-11-22 16:28:11",
-    "location": {
-      "name": "Bassendean",
-      "latitude": -31.90205909308378,
-      "longitude": 115.9549585023505,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-22T08:28:11+00:00",
-      "temperature_c": 23.4,
-      "temperature_f": 74.12,
-      "humidity": 63,
-      "wind_speed_mph": 13.802290000000001,
-      "wind_direction": 260,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Late afternoon in Bassendean feels hushed and silvered, the sky turning to soft pewter as light rain...",
-    "color_code": "#708090"
-  },
-  {
     "timestamp": "2025-11-22 20:40:46",
     "location": {
       "name": "Subiaco",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Evening has settled over Swanbourne with a clean, untroubled sky, the kind that lets the first stars...",
     "color_code": "#0a1a2f"
+  },
+  {
+    "timestamp": "2025-11-30 00:27:48",
+    "location": {
+      "name": "Swanbourne",
+      "latitude": -31.98297433719692,
+      "longitude": 115.7695090484171,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-29T16:27:47+00:00",
+      "temperature_c": 19.45,
+      "temperature_f": 67.00999999999999,
+      "humidity": 53,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 130,
+      "description": "clear sky"
+    },
+    "report_summary": "Just past midnight in Swanbourne, the sky is swept clean and starry, the air carrying that gentle se...",
+    "color_code": "#0b1d3a"
   }
 ]
