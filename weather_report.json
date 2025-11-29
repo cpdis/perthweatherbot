@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Cottesloe",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.98965524902063,
-            "longitude": 115.7530556733561
+            "latitude": -31.94969676542011,
+            "longitude": 115.8206642717309
         },
         "current_conditions": {
-            "timestamp": "2025-11-28T20:25:41+00:00",
-            "temperature_c": 14.23,
-            "temperature_f": 57.614,
-            "humidity": 78,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 190,
-            "description": "light rain"
+            "timestamp": "2025-11-29T01:48:09+00:00",
+            "temperature_c": 22.89,
+            "temperature_f": 73.202,
+            "humidity": 47,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 120,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-28T21:00:00+00:00",
-                "temperature": 14.23,
-                "windSpeed": 13.757550000000002,
-                "windDirection": 150,
+                "startTime": "2025-11-29T03:00:00+00:00",
+                "temperature": 22.89,
+                "windSpeed": 9.52962,
+                "windDirection": 210,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-29T00:00:00+00:00",
-                "temperature": 15.25,
-                "windSpeed": 9.64147,
-                "windDirection": 138,
+                "startTime": "2025-11-29T06:00:00+00:00",
+                "temperature": 22.63,
+                "windSpeed": 19.43953,
+                "windDirection": 212,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Before sunrise the town is hushed, the ocean breathing softly and the sky scrubbed clear, stars loosening their grip as a pale seam of light gathers over the water. The forecast is simple and kind: clear at dawn and staying clear through the early morning, the sort of bright, razor-clean light that makes colours ring. Once the sun lifts, it will be generous and unblinking; UV will climb quickly after breakfast and be punishing by late morning, so shade will be your ally.\n\nSet out in a light layer now, and plan to shed it for breathable fabrics, a wide-brim hat, sunglasses, and sunscreen as the day opens up. This early hour is perfect for a quiet walk along Marine Parade, a thermos coffee on a bench, or watering the garden before the sun starts to insist. Run simple errands soon, then retreat to a veranda or a patch of dappled shade with a book; if you\u2019re beach\u2011bound, make it a brief dip and keep to the umbrellas when you pause. It\u2019s a lucid, pleasant start that invites small, unhurried tasks and the gentle pleasure of being outside while the light is still soft.",
-    "color_code": "#1E3A5F",
-    "timestamp": "2025-11-29 04:25:42",
+    "weather_report": "A lucid Subiaco morning is unfolding, the sky rinsed clean and bright, with the forecast holding clear right through late morning and into early afternoon. Expect the sun to become assertive as midday approaches; UV will run high to very high under this unbroken blue, with sharp, tidy shadows and colours that look freshly painted. It should feel pleasant now, warming quickly, the sort of clarity that makes everything seem newly outlined and untroubled, with no whisper of rain.\n\nDress for ease and glare: light, breathable fabrics, a brimmed hat, sunglasses, and sunscreen; carry water if you\u2019re on foot. This is good weather for small, ordinary victories\u2014walk to a caf\u00e9 and claim a shaded table, hang a load of washing and watch it turn dry in a single song, run a quick bike errand while the streets are still unhurried, or give the balcony herbs a careful soak before the afternoon bite. If the light grows too fierce, step into the library or a quiet shop, then drift back out when the sun softens.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-11-29 09:48:09",
     "location": {
-        "name": "Cottesloe",
-        "latitude": -31.98965524902063,
-        "longitude": 115.7530556733561,
+        "name": "Subiaco",
+        "latitude": -31.94969676542011,
+        "longitude": 115.8206642717309,
         "timezone": "Australia/Perth"
     }
 }
