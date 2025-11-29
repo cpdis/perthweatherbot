@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-22 09:45:18",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94964869616688,
-      "longitude": 115.8209569157717,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-22T01:45:18+00:00",
-      "temperature_c": 21.83,
-      "temperature_f": 71.294,
-      "humidity": 70,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 310,
-      "description": "broken clouds"
-    },
-    "report_summary": "Subiaco wakes under a soft, pewter sky, the light diluted and gentle, the air holding that quiet exp...",
-    "color_code": "#90A4AE"
-  },
-  {
-    "timestamp": "2025-11-22 12:26:37",
-    "location": {
-      "name": "Crawley",
-      "latitude": -31.97698141122513,
-      "longitude": 115.8191116202778,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-22T04:26:36+00:00",
-      "temperature_c": 22.78,
-      "temperature_f": 73.004,
-      "humidity": 65,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 270,
-      "description": "broken clouds"
-    },
-    "report_summary": "A damp morning has rinsed Crawley, leaving the pavements dark and reflective, the sky a stubborn qui...",
-    "color_code": "#778899"
-  },
-  {
     "timestamp": "2025-11-22 16:28:11",
     "location": {
       "name": "Bassendean",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Subiaco has spent the day under a clean, unmarked sky; morning through midday stayed bright and unwa...",
     "color_code": "#F2C572"
+  },
+  {
+    "timestamp": "2025-11-29 20:44:09",
+    "location": {
+      "name": "Swanbourne",
+      "latitude": -31.98297433719692,
+      "longitude": 115.7695090484171,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-29T12:44:08+00:00",
+      "temperature_c": 19.99,
+      "temperature_f": 67.982,
+      "humidity": 69,
+      "wind_speed_mph": 10.35731,
+      "wind_direction": 190,
+      "description": "light rain"
+    },
+    "report_summary": "Evening has settled over Swanbourne with a clean, untroubled sky, the kind that lets the first stars...",
+    "color_code": "#0a1a2f"
   }
 ]

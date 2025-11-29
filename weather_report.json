@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Swanbourne",
             "country": "AU",
-            "latitude": -31.94971337254013,
-            "longitude": 115.8206739266959
+            "latitude": -31.98297433719692,
+            "longitude": 115.7695090484171
         },
         "current_conditions": {
-            "timestamp": "2025-11-29T08:29:48+00:00",
-            "temperature_c": 25.95,
-            "temperature_f": 78.71,
-            "humidity": 44,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 230,
-            "description": "clear sky"
+            "timestamp": "2025-11-29T12:44:08+00:00",
+            "temperature_c": 19.99,
+            "temperature_f": 67.982,
+            "humidity": 69,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 190,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2025-11-29T09:00:00+00:00",
-                "temperature": 25.95,
-                "windSpeed": 20.088260000000002,
-                "windDirection": 192,
+                "startTime": "2025-11-29T15:00:00+00:00",
+                "temperature": 19.67,
+                "windSpeed": 9.8428,
+                "windDirection": 161,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-29T12:00:00+00:00",
-                "temperature": 24.18,
-                "windSpeed": 14.987900000000002,
-                "windDirection": 184,
+                "startTime": "2025-11-29T18:00:00+00:00",
+                "temperature": 19.47,
+                "windSpeed": 15.79322,
+                "windDirection": 105,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco has spent the day under a clean, unmarked sky; morning through midday stayed bright and unwavering, and the light now, late afternoon, is softening toward honey. With the sun so unfiltered, it has been a strongly sunny day, the kind where the UV bites at noon and only begins to loosen its grip by this hour. Air and vista feel uncomplicated and clear, colors a little more saturated than usual, the sort of clarity that sharpens edges without hardening them.\n\nAs the heat eases and shadows grow longer, it looks like a pleasant early evening ahead. Dress in light, breathable layers, add sunglasses, and if you\u2019re wandering before dusk, a hat won\u2019t go astray; sunscreen was essential earlier and is still sensible. This is good weather for small errands on foot, a meander to pick up something for dinner, watering the garden, or a quiet lap around the block to rinse the day from your mind. Windows open, kettle on, the sky doing its slow golden turn.",
-    "color_code": "#F2C572",
-    "timestamp": "2025-11-29 16:29:48",
+    "weather_report": "Evening has settled over Swanbourne with a clean, untroubled sky, the kind that lets the first stars arrive early and sharp. The air feels crisp and edging colder by the minute, and with the sun long gone the UV is all but absent. It was a lucid sort of afternoon\u2014clear blue, low winter light, a day that never quite warmed but made up for it with clarity and quiet.\n\nSkies look set to stay clear through the night, pleasant in spirit if not in temperature. Dress in layers and a warm coat; a scarf and gloves will make the difference between brisk and biting. If you\u2019re heading out, a slow amble around the block will do\u2014admire the thin crescent of sky above chimneys and bare branches\u2014then home to something simple: a pot of tea, a book that doesn\u2019t rush, perhaps a little tidying while the house hums softly. For tomorrow\u2019s plans, expect more gentle sun than strength; UV stays low, the light bright but tender, ideal for errands done without haste.",
+    "color_code": "#0a1a2f",
+    "timestamp": "2025-11-29 20:44:09",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94971337254013,
-        "longitude": 115.8206739266959,
+        "name": "Swanbourne",
+        "latitude": -31.98297433719692,
+        "longitude": 115.7695090484171,
         "timezone": "Australia/Perth"
     }
 }
