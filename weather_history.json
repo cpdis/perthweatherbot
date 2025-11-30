@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-23 10:03:24",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969761543064,
-      "longitude": 115.8206556676279,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-23T02:03:24+00:00",
-      "temperature_c": 19.61,
-      "temperature_f": 67.298,
-      "humidity": 52,
-      "wind_speed_mph": 20.71462,
-      "wind_direction": 240,
-      "description": "broken clouds"
-    },
-    "report_summary": "Subiaco wakes under a quilt of soft grey, the morning light muted and thoughtful. Clouds are thicken...",
-    "color_code": "#8FA3B4"
-  },
-  {
-    "timestamp": "2025-11-23 12:35:02",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9497402756063,
-      "longitude": 115.8206517799136,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-23T04:35:02+00:00",
-      "temperature_c": 20.7,
-      "temperature_f": 69.25999999999999,
-      "humidity": 47,
-      "wind_speed_mph": 26.463710000000003,
-      "wind_direction": 250,
-      "description": "broken clouds"
-    },
-    "report_summary": "Midday in Subiaco arrives under a soft, pewter sky, the light gentled as clouds thicken and the air ...",
-    "color_code": "#6D7B8D"
-  },
-  {
     "timestamp": "2025-11-23 16:28:22",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late afternoon in Subiaco looks untroubled: a clear sky and bright, mellow light as the day leans to...",
     "color_code": "#F6C36C"
+  },
+  {
+    "timestamp": "2025-11-30 20:43:22",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94971359861248,
+      "longitude": 115.8206722265897,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-11-30T12:43:22+00:00",
+      "temperature_c": 24.62,
+      "temperature_f": 76.316,
+      "humidity": 46,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 180,
+      "description": "light rain"
+    },
+    "report_summary": "Evening has settled over Subiaco under a sky rinsed clean, a glassy, star-dotted dome with crisp vis...",
+    "color_code": "#0C1F3F"
   }
 ]
