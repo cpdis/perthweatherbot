@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Swanbourne",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.98297433719692,
-            "longitude": 115.7695090484171
+            "latitude": -31.94968687050257,
+            "longitude": 115.8208327853349
         },
         "current_conditions": {
-            "timestamp": "2025-11-29T20:25:10+00:00",
-            "temperature_c": 17.46,
-            "temperature_f": 63.428000000000004,
-            "humidity": 57,
-            "wind_speed_mph": 25.322840000000003,
-            "wind_direction": 90,
+            "timestamp": "2025-11-30T02:02:16+00:00",
+            "temperature_c": 26.39,
+            "temperature_f": 79.502,
+            "humidity": 35,
+            "wind_speed_mph": 18.410510000000002,
+            "wind_direction": 80,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-11-29T21:00:00+00:00",
-                "temperature": 17.46,
-                "windSpeed": 15.50241,
-                "windDirection": 90,
+                "startTime": "2025-11-30T03:00:00+00:00",
+                "temperature": 26.39,
+                "windSpeed": 6.95707,
+                "windDirection": 70,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-11-30T00:00:00+00:00",
-                "temperature": 18.46,
-                "windSpeed": 13.981250000000001,
-                "windDirection": 78,
+                "startTime": "2025-11-30T06:00:00+00:00",
+                "temperature": 28.63,
+                "windSpeed": 9.6191,
+                "windDirection": 195,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Swanbourne wakes in a hush before sunrise, the sky clean as polished glass and the air holding a faint coastal cool. Stars are slipping away, and the horizon has that thin promise of amber. It feels calm and very clear, the sort of early hour where sounds carry and the day seems to wait politely at the door.\n\nOnce the sun breaks, expect a spotless, sunny morning that warms quickly. With such unbroken blue, the UV will ramp up fast and likely sit very high by late morning, so plan shade for the middle of the day. It looks pleasant overall: gentle now, bright and a touch relentless later. A light layer is right for this hour, then shift to breathable clothes, sunglasses, a brimmed hat, and steady sunscreen. Good moments today are the unhurried ones: a short stroll along quiet streets before breakfast, coffee on the porch, hanging a wash that will dry in no time, a small grocery run or bike errand before the glare takes hold, then a pause with a book by an open window while the sea breeze finds its way inland.",
-    "color_code": "#0B2E59",
-    "timestamp": "2025-11-30 04:25:11",
+    "weather_report": "Subiaco wakes under a clean, lacquered blue, the kind of morning that sharpens edges and shortens shadows. The air feels amiable now, but the sun is already intent; with clear skies holding through late morning and into early afternoon, expect a bright, uncompromising light and a UV index that climbs quickly toward the fierce end of the scale. The day looks simple and honest: no cloud, high clarity, colours a touch over-saturated, the sort of sky that makes windows flash and pavements glow.\n\nDress light and breathable, favoring pale fabrics; a brimmed hat, sunglasses, and sunscreen aren\u2019t accessories so much as good manners. Take your errands and a gentle walk before noon, perhaps a coffee run or a loop past the jacarandas while they\u2019re still throwing shade. If you\u2019re staying put, open the windows for a cross-breeze and let the morning do its quiet work; it\u2019s a good time to water pot plants, hang a wash, or read by a window where the sun falls but doesn\u2019t bite. By early afternoon, think shade and sips of water\u2014the sky won\u2019t be giving you much mercy today.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-11-30 10:02:17",
     "location": {
-        "name": "Swanbourne",
-        "latitude": -31.98297433719692,
-        "longitude": 115.7695090484171,
+        "name": "Subiaco",
+        "latitude": -31.94968687050257,
+        "longitude": 115.8208327853349,
         "timezone": "Australia/Perth"
     }
 }
