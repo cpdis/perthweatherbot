@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-23 20:40:28",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968985017791,
-      "longitude": 115.8208388456529,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-23T12:40:28+00:00",
-      "temperature_c": 17.56,
-      "temperature_f": 63.608,
-      "humidity": 61,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 240,
-      "description": "moderate rain"
-    },
-    "report_summary": "Evening settles over Subiaco with a soft, lived\u2011in glow, the sky mostly veiled and the air carrying ...",
-    "color_code": "#2f3e4e"
-  },
-  {
-    "timestamp": "2025-11-24 00:26:59",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968985017791,
-      "longitude": 115.8208388456529,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-23T16:26:58+00:00",
-      "temperature_c": 16.63,
-      "temperature_f": 61.934,
-      "humidity": 69,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 230,
-      "description": "broken clouds"
-    },
-    "report_summary": "Just past midnight in Subiaco, the sky is torn into quiet scraps of cloud, the town dimly varnished ...",
-    "color_code": "#2F3E46"
-  },
-  {
     "timestamp": "2025-11-24 04:25:09",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Dawn in Subiaco arrives under a clear, untroubled sky, the air still and cool enough to make the fir...",
     "color_code": "#0D3B66"
+  },
+  {
+    "timestamp": "2025-12-01 10:09:33",
+    "location": {
+      "name": "West Perth",
+      "latitude": -31.9536713888311,
+      "longitude": 115.8434892623835,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-01T02:09:33+00:00",
+      "temperature_c": 33.53,
+      "temperature_f": 92.354,
+      "humidity": 16,
+      "wind_speed_mph": 18.410510000000002,
+      "wind_direction": 20,
+      "description": "clear sky"
+    },
+    "report_summary": "Morning in West Perth opens under a lacquered blue, the sun already keen and without a veil. The air...",
+    "color_code": "#87CEEB"
   }
 ]
