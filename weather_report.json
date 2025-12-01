@@ -3,42 +3,42 @@
         "location": {
             "name": "Perth",
             "country": "AU",
-            "latitude": -31.95287626983345,
-            "longitude": 115.8587438967909
+            "latitude": -31.95416873147325,
+            "longitude": 115.8526052578762
         },
         "current_conditions": {
-            "timestamp": "2025-12-01T04:52:05+00:00",
-            "temperature_c": 38.46,
-            "temperature_f": 101.228,
-            "humidity": 10,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 290,
+            "timestamp": "2025-12-01T08:36:13+00:00",
+            "temperature_c": 37.31,
+            "temperature_f": 99.158,
+            "humidity": 9,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 260,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-01T06:00:00+00:00",
-                "temperature": 38.46,
-                "windSpeed": 11.87847,
-                "windDirection": 253,
+                "startTime": "2025-12-01T09:00:00+00:00",
+                "temperature": 37.32,
+                "windSpeed": 13.287780000000001,
+                "windDirection": 204,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-12-01T09:00:00+00:00",
-                "temperature": 37.09,
-                "windSpeed": 11.90084,
-                "windDirection": 210,
+                "startTime": "2025-12-01T12:00:00+00:00",
+                "temperature": 34.08,
+                "windSpeed": 11.140260000000001,
+                "windDirection": 187,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Perth sits under a brilliant, unblemished sky at midday, the sun clean and insistent, shadows crisp as paper cutouts. The air feels clear and uncomplicated, the kind that sharpens colors and turns glassy water to silver. Expect this bright, cloudless mood to hold through the afternoon and into early evening; UV will be very high now and soften only later, so a hat, sunglasses, sunscreen, and light, breathable layers are wise companions.\n\nIt\u2019s handsome weather, if a touch intense before the day eases. A shaded lunch on a veranda suits the hour; errands are best done with a brim and a bottle of water; laundry will dry in a blink. As the light mellows, a slow wander by the river, a quiet stop at the library, or tending to the garden with a watering can will fit the day\u2019s calm. If you stay indoors, crack a window, put on a record, and let the blue afternoon borrow its way into the room.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-12-01 12:52:06",
+    "weather_report": "Perth steps into late afternoon under a faultless, polished-blue sky. The light is bright but softening, shadows lengthening toward evening. It has been a sun-forward day and remains clear through sunset, with the UV that roared at midday now easing to the gentler end; glare lingers, but the scorch is fading. Air feels dry and clean, visibility crisp enough to read the hills, and the evening promises a quietly radiant sky before stars take over.\n\nDress for ease: breathable fabrics, sunglasses for the low sun, a hat if you\u2019re out before it dips, and a light layer to slip on after dark. This is weather for modest pleasures\u2014an unhurried walk along the river paths, watering the garden and listening to the birds trade shifts, a quick ride to the shops, or an open-window dinner that doesn\u2019t ask for conversation to compete with the breeze. Expect a clear, pleasant night that invites lingering a little longer than planned.",
+    "color_code": "#F4C27A",
+    "timestamp": "2025-12-01 16:36:14",
     "location": {
         "name": "Perth",
-        "latitude": -31.95287626983345,
-        "longitude": 115.8587438967909,
+        "latitude": -31.95416873147325,
+        "longitude": 115.8526052578762,
         "timezone": "Australia/Perth"
     }
 }
