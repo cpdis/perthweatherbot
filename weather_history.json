@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-11-24 16:34:14",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.9543342775087,
-      "longitude": 115.8525729851644,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-24T08:34:13+00:00",
-      "temperature_c": 19.64,
-      "temperature_f": 67.352,
-      "humidity": 53,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 240,
-      "description": "few clouds"
-    },
-    "report_summary": "Late afternoon in Perth and the sky is mostly clear, just a few cottony clouds idling as the sun til...",
-    "color_code": "#F6C27A"
-  },
-  {
     "timestamp": "2025-11-24 20:50:41",
     "location": {
       "name": "Subiaco",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Night has settled over Subiaco with an easy calm. The sky is largely open, only a few clouds expecte...",
     "color_code": "#1B2B4A"
+  },
+  {
+    "timestamp": "2025-12-02 00:33:28",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968384113032,
+      "longitude": 115.8207280084613,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-01T16:33:28+00:00",
+      "temperature_c": 22.34,
+      "temperature_f": 72.212,
+      "humidity": 58,
+      "wind_speed_mph": 1.14087,
+      "wind_direction": 130,
+      "description": "moderate rain"
+    },
+    "report_summary": "Subiaco settles under a patchwork sky at this late hour, scattered clouds moving lazily enough to le...",
+    "color_code": "#1f2e44"
   }
 ]
