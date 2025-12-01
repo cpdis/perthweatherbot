@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "West Perth",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.9536713888311,
-            "longitude": 115.8434892623835
+            "latitude": -31.95287626983345,
+            "longitude": 115.8587438967909
         },
         "current_conditions": {
-            "timestamp": "2025-12-01T02:09:33+00:00",
-            "temperature_c": 33.53,
-            "temperature_f": 92.354,
-            "humidity": 16,
-            "wind_speed_mph": 18.410510000000002,
-            "wind_direction": 20,
+            "timestamp": "2025-12-01T04:52:05+00:00",
+            "temperature_c": 38.46,
+            "temperature_f": 101.228,
+            "humidity": 10,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 290,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-01T03:00:00+00:00",
-                "temperature": 33.53,
-                "windSpeed": 8.32164,
-                "windDirection": 352,
+                "startTime": "2025-12-01T06:00:00+00:00",
+                "temperature": 38.46,
+                "windSpeed": 11.87847,
+                "windDirection": 253,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-12-01T06:00:00+00:00",
-                "temperature": 34.63,
-                "windSpeed": 11.87847,
-                "windDirection": 253,
+                "startTime": "2025-12-01T09:00:00+00:00",
+                "temperature": 37.09,
+                "windSpeed": 11.90084,
+                "windDirection": 210,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Morning in West Perth opens under a lacquered blue, the sun already keen and without a veil. The air is dry and clean, visibility crisp; by late morning into early afternoon the light will sharpen rather than soften, with very high UV under a cloudless sky. It reads as a simple day, bright and uncomplicated, pleasant in the shade and a touch unforgiving in the open as the heat gathers.\n\nLight, breathable clothes suit it best; a brimmed hat, sunglasses, and a generous run of sunscreen are not ornaments today but armor, and a bottle of water belongs in the bag. Make the most of the late morning for errands on foot or a brief stroll for coffee before the glare peaks; consider a quiet lunch tucked under a verandah or in a leafy courtyard, and let the early afternoon be for indoor tasks, a gallery wander, or reading in a pool of shade. If you feel like moving, take an easy loop through the neighborhood, keeping to the trees and the gentler light.",
+    "weather_report": "Perth sits under a brilliant, unblemished sky at midday, the sun clean and insistent, shadows crisp as paper cutouts. The air feels clear and uncomplicated, the kind that sharpens colors and turns glassy water to silver. Expect this bright, cloudless mood to hold through the afternoon and into early evening; UV will be very high now and soften only later, so a hat, sunglasses, sunscreen, and light, breathable layers are wise companions.\n\nIt\u2019s handsome weather, if a touch intense before the day eases. A shaded lunch on a veranda suits the hour; errands are best done with a brim and a bottle of water; laundry will dry in a blink. As the light mellows, a slow wander by the river, a quiet stop at the library, or tending to the garden with a watering can will fit the day\u2019s calm. If you stay indoors, crack a window, put on a record, and let the blue afternoon borrow its way into the room.",
     "color_code": "#87CEEB",
-    "timestamp": "2025-12-01 10:09:33",
+    "timestamp": "2025-12-01 12:52:06",
     "location": {
-        "name": "West Perth",
-        "latitude": -31.9536713888311,
-        "longitude": 115.8434892623835,
+        "name": "Perth",
+        "latitude": -31.95287626983345,
+        "longitude": 115.8587438967909,
         "timezone": "Australia/Perth"
     }
 }
