@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-24 20:50:41",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94971010779003,
-      "longitude": 115.8207221619934,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-24T12:50:40+00:00",
-      "temperature_c": 17.05,
-      "temperature_f": 62.690000000000005,
-      "humidity": 62,
-      "wind_speed_mph": 13.802290000000001,
-      "wind_direction": 210,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Evening has settled over Subiaco with a quilt of broken cloud softening the streetlights and dimming...",
-    "color_code": "#2F4F4F"
-  },
-  {
-    "timestamp": "2025-11-25 00:26:54",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94971010779003,
-      "longitude": 115.8207221619934,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-24T16:26:54+00:00",
-      "temperature_c": 16.56,
-      "temperature_f": 61.808,
-      "humidity": 71,
-      "wind_speed_mph": 13.802290000000001,
-      "wind_direction": 200,
-      "description": "broken clouds"
-    },
-    "report_summary": "Subiaco slips past midnight under a soft, wet hush, light rain tufting the eaves and turning the str...",
-    "color_code": "#2F3D4A"
-  },
-  {
     "timestamp": "2025-11-25 04:27:03",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Before dawn in Subiaco, the sky is a patchwork of broken cloud, the kind that mutes the stars and so...",
     "color_code": "#2D3A4A"
+  },
+  {
+    "timestamp": "2025-12-02 09:53:15",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969857712147,
+      "longitude": 115.8209128963497,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-02T01:53:14+00:00",
+      "temperature_c": 28.88,
+      "temperature_f": 83.98400000000001,
+      "humidity": 37,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 250,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco wakes under a lucid blue, the kind of late-morning light that sharpens edges and brightens v...",
+    "color_code": "#87CEEB"
   }
 ]

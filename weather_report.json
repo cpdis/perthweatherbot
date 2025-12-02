@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94968384113032,
-            "longitude": 115.8207280084613
+            "latitude": -31.94969857712147,
+            "longitude": 115.8209128963497
         },
         "current_conditions": {
-            "timestamp": "2025-12-01T20:20:09+00:00",
-            "temperature_c": 20.31,
-            "temperature_f": 68.55799999999999,
-            "humidity": 78,
-            "wind_speed_mph": 2.99758,
-            "wind_direction": 190,
-            "description": "overcast clouds"
+            "timestamp": "2025-12-02T01:53:14+00:00",
+            "temperature_c": 28.88,
+            "temperature_f": 83.98400000000001,
+            "humidity": 37,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 250,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-01T21:00:00+00:00",
-                "temperature": 20.14,
-                "windSpeed": 6.330710000000001,
-                "windDirection": 201,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-12-02T03:00:00+00:00",
+                "temperature": 28.88,
+                "windSpeed": 13.6457,
+                "windDirection": 213,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-12-02T00:00:00+00:00",
-                "temperature": 22.09,
-                "windSpeed": 10.08887,
-                "windDirection": 203,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-12-02T06:00:00+00:00",
+                "temperature": 29.55,
+                "windSpeed": 15.56952,
+                "windDirection": 217,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Before dawn in Subiaco, the sky is a patchwork of broken cloud, the kind that mutes the stars and softens the first hint of light on verandas and jacaranda leaves. It feels calm and temperate now, with no obvious threat of rain, and the day looks set to unfold under a shifting veil of cloud with spells of bright sun breaking through. Expect a day short on crystal-blue clarity but generous with diffused light; the sun will not be constant, yet when it appears the early-summer UV will rise quickly and bite, even through gaps and thin cloud.\n\nDress for a gentle start and a warmer late morning: light layers you can shed, breathable fabrics, sunglasses at the ready, and a hat and sunscreen for any time outdoors after breakfast. It\u2019s a pleasant morning for a quiet walk to the bakery, a coffee on the porch, or watering the garden before the light strengthens. Later, errands by foot or bike fit the mood; keep to the shade when you can and let the soft, intermittent sun do the rest.",
-    "color_code": "#2D3A4A",
-    "timestamp": "2025-12-02 04:24:50",
+    "weather_report": "Subiaco wakes under a lucid blue, the kind of late-morning light that sharpens edges and brightens verandas. Right now it feels open and inviting, a clear sky giving the streets a gentle sparkle; by early afternoon a handful of scattered clouds should wander through, softening the glare without dimming the day. Expect strong sunshine\u2014UV running high to very high around midday\u2014so think breathable long sleeves, a brimmed hat, sunglasses, and a dab more sunscreen than you think you need. The air reads as clean and uncomplicated, a day built for simple tasks done without hurry.\n\nIf you\u2019re stepping out soon, take your coffee on a shady bench and let the warmth do the talking, then run a light errand on foot while the sun is still kind. As the afternoon brightens, shift to the cool side of the street: browse a bookshop, water the garden, hang the washing that will dry in a snap, or take a short, unhurried walk under leafy cover. It\u2019s a pleasant, honest day\u2014clear-eyed, sun-forward, and best handled with a little shade and unhurried grace.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-12-02 09:53:15",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94968384113032,
-        "longitude": 115.8207280084613,
+        "latitude": -31.94969857712147,
+        "longitude": 115.8209128963497,
         "timezone": "Australia/Perth"
     }
 }
