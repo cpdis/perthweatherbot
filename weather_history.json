@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-28 09:49:02",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94971573626697,
-      "longitude": 115.8206729153992,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-28T01:49:02+00:00",
-      "temperature_c": 19.82,
-      "temperature_f": 67.676,
-      "humidity": 44,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 130,
-      "description": "few clouds"
-    },
-    "report_summary": "Subiaco eases into the late morning under a clear, glassy light, with only a scattering of tidy clou...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-11-28 12:28:25",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94962222510444,
-      "longitude": 115.8209776908619,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-28T04:28:25+00:00",
-      "temperature_c": 22.7,
-      "temperature_f": 72.86,
-      "humidity": 39,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 200,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco sits under a clean, enamel-blue sky at midday, the kind of late-spring clarity that makes ed...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-11-28 16:32:54",
     "location": {
       "name": "Subiaco",
@@ -538,5 +498,25 @@
     },
     "report_summary": "West Busselton slips into late afternoon with a clean, glassy sky and sun that still feels confident...",
     "color_code": "#F6C36B"
+  },
+  {
+    "timestamp": "2025-12-05 20:50:01",
+    "location": {
+      "name": "Busselton",
+      "latitude": -33.64491977736887,
+      "longitude": 115.3450631770372,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-05T12:50:00+00:00",
+      "temperature_c": 15.18,
+      "temperature_f": 59.324,
+      "humidity": 77,
+      "wind_speed_mph": 11.99032,
+      "wind_direction": 185,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Evening settles over Busselton with a quilt of broken cloud drifting in from the bay, softening the ...",
+    "color_code": "#2E3A4F"
   }
 ]
