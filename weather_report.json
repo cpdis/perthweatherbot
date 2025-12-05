@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Busselton",
             "country": "AU",
-            "latitude": -31.94969857712147,
-            "longitude": 115.8209128963497
+            "latitude": -33.64704741666667,
+            "longitude": 115.3424033833333
         },
         "current_conditions": {
-            "timestamp": "2025-12-02T01:53:14+00:00",
-            "temperature_c": 28.88,
-            "temperature_f": 83.98400000000001,
-            "humidity": 37,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 250,
-            "description": "clear sky"
+            "timestamp": "2025-12-05T04:38:31+00:00",
+            "temperature_c": 22.49,
+            "temperature_f": 72.482,
+            "humidity": 48,
+            "wind_speed_mph": 10.98367,
+            "wind_direction": 210,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-02T03:00:00+00:00",
-                "temperature": 28.88,
-                "windSpeed": 13.6457,
+                "startTime": "2025-12-05T06:00:00+00:00",
+                "temperature": 22.02,
+                "windSpeed": 13.15356,
                 "windDirection": 213,
-                "shortForecast": "clear sky"
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-12-02T06:00:00+00:00",
-                "temperature": 29.55,
-                "windSpeed": 15.56952,
-                "windDirection": 217,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-12-05T09:00:00+00:00",
+                "temperature": 22.03,
+                "windSpeed": 15.815590000000002,
+                "windDirection": 214,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a lucid blue, the kind of late-morning light that sharpens edges and brightens verandas. Right now it feels open and inviting, a clear sky giving the streets a gentle sparkle; by early afternoon a handful of scattered clouds should wander through, softening the glare without dimming the day. Expect strong sunshine\u2014UV running high to very high around midday\u2014so think breathable long sleeves, a brimmed hat, sunglasses, and a dab more sunscreen than you think you need. The air reads as clean and uncomplicated, a day built for simple tasks done without hurry.\n\nIf you\u2019re stepping out soon, take your coffee on a shady bench and let the warmth do the talking, then run a light errand on foot while the sun is still kind. As the afternoon brightens, shift to the cool side of the street: browse a bookshop, water the garden, hang the washing that will dry in a snap, or take a short, unhurried walk under leafy cover. It\u2019s a pleasant, honest day\u2014clear-eyed, sun-forward, and best handled with a little shade and unhurried grace.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-12-02 09:53:15",
+    "weather_report": "Midday in Busselton arrives under broken cloud, the light slipping in and out like a lighthouse beam, warm and bright when it lands, softer and pearly when the cloud takes over. The air feels clean and a touch salty, the horizon clear, with no pressing hint of rain. Sunshine is still assertive and the UV bite is strong at this hour, even with the patchwork sky.\n\nThrough the afternoon, expect that dance to continue: sunny intervals, then a veil of cloud, then sun again, with a modest coastal breeze to keep things from feeling heavy. It\u2019s pleasant if you give the sun a little respect\u2014think breathable layers, a brimmed hat, sunglasses, and sunscreen now; a light overshirt for later when the edge comes off the day. This is weather for simple, unhurried errands, a late lunch in the shade, or a quiet circuit on foot or bike once the glare eases; water the garden toward evening, or browse the shops and library while the clouds idle overhead. The day won\u2019t be crystal-blue, but it will be clear enough to feel open and kind.",
+    "color_code": "#8FB3C8",
+    "timestamp": "2025-12-05 12:38:32",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94969857712147,
-        "longitude": 115.8209128963497,
+        "name": "Busselton",
+        "latitude": -33.64704741666667,
+        "longitude": 115.3424033833333,
         "timezone": "Australia/Perth"
     }
 }
