@@ -7,34 +7,34 @@
             "longitude": 115.3450631770372
         },
         "current_conditions": {
-            "timestamp": "2025-12-05T12:50:00+00:00",
-            "temperature_c": 15.18,
-            "temperature_f": 59.324,
-            "humidity": 77,
-            "wind_speed_mph": 11.99032,
-            "wind_direction": 185,
-            "description": "overcast clouds"
+            "timestamp": "2025-12-05T16:31:07+00:00",
+            "temperature_c": 13.02,
+            "temperature_f": 55.436,
+            "humidity": 87,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 172,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-05T15:00:00+00:00",
-                "temperature": 15.45,
-                "windSpeed": 10.021760000000002,
-                "windDirection": 174,
-                "shortForecast": "broken clouds"
-            },
-            {
                 "startTime": "2025-12-05T18:00:00+00:00",
-                "temperature": 14.07,
+                "temperature": 12.95,
                 "windSpeed": 6.73337,
                 "windDirection": 159,
                 "shortForecast": "broken clouds"
+            },
+            {
+                "startTime": "2025-12-05T21:00:00+00:00",
+                "temperature": 12.77,
+                "windSpeed": 5.010880000000001,
+                "windDirection": 124,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Evening settles over Busselton with a quilt of broken cloud drifting in from the bay, softening the shoreline and muting the last of the reflected light. The sun is long gone and the UV has slipped to nothing; through the late hours and into the small morning, expect the sky to stay mottled, the stars appearing in loose intervals between darker seams. It\u2019s a gentle, slightly damp maritime night rather than a cold one, the sort that makes colors go quiet and sounds carry. A light layer or a soft windbreaker will suit if you step out; canvas shoes will do fine. This is pleasant weather for a slow foreshore wander, a lap with the dog, or a seat on the veranda to let the sea air unspool the day. Views are calm but not crystal, the horizon brushed in charcoal and blue, inviting an unhurried pace and practical plans rather than bravado.",
-    "color_code": "#2E3A4F",
-    "timestamp": "2025-12-05 20:50:01",
+    "weather_report": "Just past midnight in Busselton, the night feels soft and salt-edged, with the sky torn into moving pieces of cloud. Expect a quilt of broken cloud to linger through the small hours, then loosen toward dawn into gentler, scattered patches, letting the first light sift through. It\u2019s a quiet, temperate night\u2014good for unhurried thoughts and the sound of distant water.\n\nBy morning, the day should open brighter than it began, with plenty of sun between the passing clouds. UV is negligible now but will surge quickly after sunrise in this early-summer stretch, so plan shade and sunscreen for later; a hat and sunglasses will earn their keep. For the moment, a light layer is enough, then something breathable for the day. You might enjoy a slow pre-dawn walk along the foreshore or a cup of coffee on the verandah while the sky pales; later, run simple errands or a short spin on the bike before the glare sharpens, and save the more exposed tasks for the edges of the day.",
+    "color_code": "#223447",
+    "timestamp": "2025-12-06 00:31:08",
     "location": {
         "name": "Busselton",
         "latitude": -33.64491977736887,
