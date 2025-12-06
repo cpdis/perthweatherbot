@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-29 09:48:09",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969676542011,
-      "longitude": 115.8206642717309,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-29T01:48:09+00:00",
-      "temperature_c": 22.89,
-      "temperature_f": 73.202,
-      "humidity": 47,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 120,
-      "description": "clear sky"
-    },
-    "report_summary": "A lucid Subiaco morning is unfolding, the sky rinsed clean and bright, with the forecast holding cle...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-11-29 12:27:28",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968712037261,
-      "longitude": 115.8208346571112,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-29T04:27:28+00:00",
-      "temperature_c": 26.25,
-      "temperature_f": 79.25,
-      "humidity": 40,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 170,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco sits under a wide, polished sky this afternoon, the air bright and uncomplicated, the sun un...",
-    "color_code": "#87CEFA"
-  },
-  {
     "timestamp": "2025-11-29 16:29:48",
     "location": {
       "name": "Subiaco",
@@ -538,5 +498,25 @@
     },
     "report_summary": "Late afternoon in Busselton opens wide and bright, with just a handful of soft clouds strolling acro...",
     "color_code": "#F6C27A"
+  },
+  {
+    "timestamp": "2025-12-06 20:44:23",
+    "location": {
+      "name": "West Busselton",
+      "latitude": -33.65498960492028,
+      "longitude": 115.3334926953812,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-06T12:44:23+00:00",
+      "temperature_c": 16.12,
+      "temperature_f": 61.016000000000005,
+      "humidity": 86,
+      "wind_speed_mph": 8.12031,
+      "wind_direction": 204,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Evening has settled softly over West Busselton; the warmth of the day is ebbing, the breeze slackeni...",
+    "color_code": "#0d1b2a"
   }
 ]
