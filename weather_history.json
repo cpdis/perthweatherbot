@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-28 20:48:27",
-    "location": {
-      "name": "Cottesloe",
-      "latitude": -31.98965524902063,
-      "longitude": 115.7530556733561,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-28T12:48:27+00:00",
-      "temperature_c": 18.08,
-      "temperature_f": 64.544,
-      "humidity": 73,
-      "wind_speed_mph": 11.00604,
-      "wind_direction": 205,
-      "description": "clear sky"
-    },
-    "report_summary": "Cottesloe eases into night beneath a polished, cloudless dome. The day has let go, leaving salt-ting...",
-    "color_code": "#0b1d3a"
-  },
-  {
-    "timestamp": "2025-11-29 00:29:32",
-    "location": {
-      "name": "Cottesloe",
-      "latitude": -31.98965524902063,
-      "longitude": 115.7530556733561,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-28T16:29:32+00:00",
-      "temperature_c": 16.19,
-      "temperature_f": 61.142,
-      "humidity": 72,
-      "wind_speed_mph": 13.802290000000001,
-      "wind_direction": 180,
-      "description": "clear sky"
-    },
-    "report_summary": "Past midnight in Cottesloe, the town is held beneath a lacquered, star-sharp sky. The air feels dry ...",
-    "color_code": "#0B1E3B"
-  },
-  {
     "timestamp": "2025-11-29 04:25:42",
     "location": {
       "name": "Cottesloe",
@@ -538,5 +498,25 @@
     },
     "report_summary": "Dawn comes quietly to Busselton, with a clear sky already stretching pale and clean above the water....",
     "color_code": "#FAD6A5"
+  },
+  {
+    "timestamp": "2025-12-06 09:47:45",
+    "location": {
+      "name": "Busselton",
+      "latitude": -33.65008141199221,
+      "longitude": 115.344230903032,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-06T01:47:44+00:00",
+      "temperature_c": 21.39,
+      "temperature_f": 70.502,
+      "humidity": 51,
+      "wind_speed_mph": 6.688630000000001,
+      "wind_direction": 325,
+      "description": "clear sky"
+    },
+    "report_summary": "Morning in Busselton opens on a polished blue sky, the kind that makes colors snap and edges look fr...",
+    "color_code": "#87CEEB"
   }
 ]
