@@ -3,42 +3,42 @@
         "location": {
             "name": "Busselton",
             "country": "AU",
-            "latitude": -33.65008141199221,
-            "longitude": 115.344230903032
+            "latitude": -33.65031405527182,
+            "longitude": 115.3436613588319
         },
         "current_conditions": {
-            "timestamp": "2025-12-06T01:47:44+00:00",
-            "temperature_c": 21.39,
-            "temperature_f": 70.502,
-            "humidity": 51,
-            "wind_speed_mph": 6.688630000000001,
-            "wind_direction": 325,
+            "timestamp": "2025-12-06T04:26:41+00:00",
+            "temperature_c": 22.26,
+            "temperature_f": 72.068,
+            "humidity": 50,
+            "wind_speed_mph": 13.26541,
+            "wind_direction": 306,
             "description": "clear sky"
         },
         "forecast": [
-            {
-                "startTime": "2025-12-06T03:00:00+00:00",
-                "temperature": 22.28,
-                "windSpeed": 10.491530000000001,
-                "windDirection": 319,
-                "shortForecast": "clear sky"
-            },
             {
                 "startTime": "2025-12-06T06:00:00+00:00",
                 "temperature": 22.36,
                 "windSpeed": 14.540500000000002,
                 "windDirection": 291,
                 "shortForecast": "clear sky"
+            },
+            {
+                "startTime": "2025-12-06T09:00:00+00:00",
+                "temperature": 21.51,
+                "windSpeed": 17.42623,
+                "windDirection": 243,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Morning in Busselton opens on a polished blue sky, the kind that makes colors snap and edges look freshly cut. The sun is already assertive and set to rule the day; the forecast holds clear from late morning into afternoon with no cloud to soften the glare. Expect brilliant visibility and a summery warmth that feels pleasant in shade but fierce in full sun, with UV rising to very high or even extreme by midday.\n\nDress light and breathable, with a wide-brim hat, sunglasses, and proper sunscreen; long sleeves are wise if you\u2019ll be out through lunch. It\u2019s a good hour for a quiet stroll along the foreshore, a coffee tucked under an awning, or a couple of errands by bike before the light turns hard. As the day brightens, let the shade be your accomplice: read on a veranda, tend to small indoor tasks, then step back out when the afternoon eases for an unhurried wander by the bay.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-12-06 09:47:45",
+    "weather_report": "Midday in Busselton arrives bright and unblinking: a cloudless vault, hard blue from shore to paddocks. The forecast holds to this clarity through the afternoon into early evening, so expect unfiltered sunshine and sharp horizons. UV will be strong through the early afternoon, the sort that turns a quick errand into a sunbath, easing as the sun tilts west. The air feels clean and dry, with colors a touch more vivid and shadows neat as a ruler.\n\nDress light and breathable, with a brimmed hat, sunglasses, and sunscreen; sandals or easy sneakers will suit the pavements and the jetty boards alike. It\u2019s a good day to let a load of washing drink the sun, fetch a few groceries without lingering, or slip into the library for a cool half hour. Save the longer stroll along the foreshore or a gentle spin on the bike paths for late afternoon, when the light softens and the day turns from brilliant to kindly.",
+    "color_code": "#87CEFA",
+    "timestamp": "2025-12-06 12:26:42",
     "location": {
         "name": "Busselton",
-        "latitude": -33.65008141199221,
-        "longitude": 115.344230903032,
+        "latitude": -33.65031405527182,
+        "longitude": 115.3436613588319,
         "timezone": "Australia/Perth"
     }
 }

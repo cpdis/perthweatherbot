@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-11-29 04:25:42",
-    "location": {
-      "name": "Cottesloe",
-      "latitude": -31.98965524902063,
-      "longitude": 115.7530556733561,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-28T20:25:41+00:00",
-      "temperature_c": 14.23,
-      "temperature_f": 57.614,
-      "humidity": 78,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 190,
-      "description": "light rain"
-    },
-    "report_summary": "Before sunrise the town is hushed, the ocean breathing softly and the sky scrubbed clear, stars loos...",
-    "color_code": "#1E3A5F"
-  },
-  {
     "timestamp": "2025-11-29 09:48:09",
     "location": {
       "name": "Subiaco",
@@ -518,5 +498,25 @@
     },
     "report_summary": "Morning in Busselton opens on a polished blue sky, the kind that makes colors snap and edges look fr...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2025-12-06 12:26:42",
+    "location": {
+      "name": "Busselton",
+      "latitude": -33.65031405527182,
+      "longitude": 115.3436613588319,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-06T04:26:41+00:00",
+      "temperature_c": 22.26,
+      "temperature_f": 72.068,
+      "humidity": 50,
+      "wind_speed_mph": 13.26541,
+      "wind_direction": 306,
+      "description": "clear sky"
+    },
+    "report_summary": "Midday in Busselton arrives bright and unblinking: a cloudless vault, hard blue from shore to paddoc...",
+    "color_code": "#87CEFA"
   }
 ]
