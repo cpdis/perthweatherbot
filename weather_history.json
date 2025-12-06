@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-11-29 16:29:48",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94971337254013,
-      "longitude": 115.8206739266959,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-29T08:29:48+00:00",
-      "temperature_c": 25.95,
-      "temperature_f": 78.71,
-      "humidity": 44,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 230,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco has spent the day under a clean, unmarked sky; morning through midday stayed bright and unwa...",
-    "color_code": "#F2C572"
-  },
-  {
     "timestamp": "2025-11-29 20:44:09",
     "location": {
       "name": "Swanbourne",
@@ -538,5 +518,25 @@
     },
     "report_summary": "West Busselton lies under a calm, inky sky just after midnight, a few slow-drifting clouds leaving p...",
     "color_code": "#0D1B2E"
+  },
+  {
+    "timestamp": "2025-12-07 04:24:24",
+    "location": {
+      "name": "West Busselton",
+      "latitude": -33.65498960492028,
+      "longitude": 115.3334926953812,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-06T20:24:24+00:00",
+      "temperature_c": 12.81,
+      "temperature_f": 55.058,
+      "humidity": 91,
+      "wind_speed_mph": 3.75816,
+      "wind_direction": 151,
+      "description": "clear sky"
+    },
+    "report_summary": "West Busselton wakes in the hush before dawn, a clear sky rinsed in dark blue, the bay holding its b...",
+    "color_code": "#0E3A66"
   }
 ]
