@@ -3,42 +3,42 @@
         "location": {
             "name": "Busselton",
             "country": "AU",
-            "latitude": -33.64610168565569,
-            "longitude": 115.344543995313
+            "latitude": -33.64562797099725,
+            "longitude": 115.3442688439169
         },
         "current_conditions": {
-            "timestamp": "2025-12-07T08:28:34+00:00",
-            "temperature_c": 23.34,
-            "temperature_f": 74.012,
-            "humidity": 53,
-            "wind_speed_mph": 15.770850000000001,
-            "wind_direction": 250,
+            "timestamp": "2025-12-07T12:33:20+00:00",
+            "temperature_c": 16.79,
+            "temperature_f": 62.221999999999994,
+            "humidity": 89,
+            "wind_speed_mph": 8.88089,
+            "wind_direction": 210,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-07T09:00:00+00:00",
-                "temperature": 22.66,
-                "windSpeed": 15.077380000000002,
-                "windDirection": 244,
+                "startTime": "2025-12-07T15:00:00+00:00",
+                "temperature": 17.22,
+                "windSpeed": 6.44256,
+                "windDirection": 186,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-12-07T12:00:00+00:00",
-                "temperature": 21.04,
-                "windSpeed": 10.44679,
-                "windDirection": 222,
+                "startTime": "2025-12-07T18:00:00+00:00",
+                "temperature": 17.15,
+                "windSpeed": 4.31741,
+                "windDirection": 180,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Busselton passes the afternoon under a clean, untroubled sky, the kind of clear that sharpens edges and throws long, honeyed shadows across the street. The sun is still assertive at this hour, bright and unfiltered; UV will ease toward dusk but has a little bite yet, so a hat, sunglasses, and a dab of sunscreen wouldn\u2019t go astray. The sea air feels tidy and salt-lean, and visibility is crisp, promising a transparent slide into evening.\n\nExpect the clarity to hold through sunset and on into a mild, starry night. Dress light and breathable now, then keep a soft layer handy for after dark. It\u2019s the sort of late day that suits modest errands and small pleasures: take a quiet loop around the block, bring the washing in before the chill, water the garden, or roll an easy few minutes on the bike path while the light goes amber. Supper outdoors or by an open window would sit nicely with the mood.",
-    "color_code": "#FDB813",
-    "timestamp": "2025-12-07 16:28:34",
+    "weather_report": "Busselton settles into a clear, untroubled night; the sky is open and steady, the air likely cooling gently after a bright day. With no cloud cover, the clarity is striking and stars should be easy to pick out, while the UV has dropped to practically nothing. Forecasts keep the heavens clear through late evening and after midnight; if this pattern holds into morning, the sun will return clean and unfiltered, the sort that feels cheerful but asks for sunscreen when it climbs.\n\nIt\u2019s a night for light layers\u2014long sleeves or a soft jumper if you\u2019re near the water\u2014comfortable shoes if you fancy a quiet wander along the foreshore, or simply a chair on the veranda and the hush of crickets for company. You could bring in the washing before the dew settles, crack a window to let the house breathe, or lay out tomorrow\u2019s hat and sunglasses for an early errand while the streets are still calm. Pleasant, easy weather; no drama, just a clear dome overhead.",
+    "color_code": "#0D1B2A",
+    "timestamp": "2025-12-07 20:42:59",
     "location": {
         "name": "Busselton",
-        "latitude": -33.64610168565569,
-        "longitude": 115.344543995313,
+        "latitude": -33.64562797099725,
+        "longitude": 115.3442688439169,
         "timezone": "Australia/Perth"
     }
 }
