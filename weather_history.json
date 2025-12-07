@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-29 20:44:09",
-    "location": {
-      "name": "Swanbourne",
-      "latitude": -31.98297433719692,
-      "longitude": 115.7695090484171,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-29T12:44:08+00:00",
-      "temperature_c": 19.99,
-      "temperature_f": 67.982,
-      "humidity": 69,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 190,
-      "description": "light rain"
-    },
-    "report_summary": "Evening has settled over Swanbourne with a clean, untroubled sky, the kind that lets the first stars...",
-    "color_code": "#0a1a2f"
-  },
-  {
-    "timestamp": "2025-11-30 00:27:48",
-    "location": {
-      "name": "Swanbourne",
-      "latitude": -31.98297433719692,
-      "longitude": 115.7695090484171,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-29T16:27:47+00:00",
-      "temperature_c": 19.45,
-      "temperature_f": 67.00999999999999,
-      "humidity": 53,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 130,
-      "description": "clear sky"
-    },
-    "report_summary": "Just past midnight in Swanbourne, the sky is swept clean and starry, the air carrying that gentle se...",
-    "color_code": "#0b1d3a"
-  },
-  {
     "timestamp": "2025-11-30 04:25:11",
     "location": {
       "name": "Swanbourne",
@@ -538,5 +498,25 @@
     },
     "report_summary": "West Busselton wakes in the hush before dawn, a clear sky rinsed in dark blue, the bay holding its b...",
     "color_code": "#0E3A66"
+  },
+  {
+    "timestamp": "2025-12-07 10:02:49",
+    "location": {
+      "name": "Busselton",
+      "latitude": -33.64590771496801,
+      "longitude": 115.3435209254383,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-07T02:02:49+00:00",
+      "temperature_c": 21.53,
+      "temperature_f": 70.754,
+      "humidity": 58,
+      "wind_speed_mph": 9.73095,
+      "wind_direction": 311,
+      "description": "clear sky"
+    },
+    "report_summary": "Busselton wakes to a crystal-blue morning, the kind of clean, unblinking light that sharpens every e...",
+    "color_code": "#87CEEB"
   }
 ]

@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "West Busselton",
+            "name": "Busselton",
             "country": "AU",
-            "latitude": -33.65498960492028,
-            "longitude": 115.3334926953812
+            "latitude": -33.64590771496801,
+            "longitude": 115.3435209254383
         },
         "current_conditions": {
-            "timestamp": "2025-12-06T20:24:24+00:00",
-            "temperature_c": 12.81,
-            "temperature_f": 55.058,
-            "humidity": 91,
-            "wind_speed_mph": 3.75816,
-            "wind_direction": 151,
+            "timestamp": "2025-12-07T02:02:49+00:00",
+            "temperature_c": 21.53,
+            "temperature_f": 70.754,
+            "humidity": 58,
+            "wind_speed_mph": 9.73095,
+            "wind_direction": 311,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-06T21:00:00+00:00",
-                "temperature": 12.66,
-                "windSpeed": 2.77388,
-                "windDirection": 151,
+                "startTime": "2025-12-07T03:00:00+00:00",
+                "temperature": 22.66,
+                "windSpeed": 11.76662,
+                "windDirection": 298,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-12-07T00:00:00+00:00",
-                "temperature": 14.67,
-                "windSpeed": 4.63059,
-                "windDirection": 310,
-                "shortForecast": "few clouds"
+                "startTime": "2025-12-07T06:00:00+00:00",
+                "temperature": 23.04,
+                "windSpeed": 16.374840000000003,
+                "windDirection": 265,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "West Busselton wakes in the hush before dawn, a clear sky rinsed in dark blue, the bay holding its breath as the first hint of light picks out the jetty. Expect a bright, uncomplicated day: sunrise into a clean, lucid blue with only a few idle clouds wandering in by midmorning. The sun will be generous and sharp; UV will ramp up quickly and stay unforgiving through the late morning and early afternoon, so think shade and patience at midday. It feels pleasant now\u2014cool enough for a light layer\u2014but it will warm with the day; dress in breathable fabrics, short sleeves by breakfast, and add a wide-brim hat, sunglasses, and real sunscreen. This is a morning for simple things: a quiet stroll along the foreshore as the gulls start their arguments, coffee on the porch, a bit of early gardening or a run to the bakery before the light grows fierce. Later, errands by bike or a read beneath a veranda\u2019s soft shadow will feel just right.",
-    "color_code": "#0E3A66",
-    "timestamp": "2025-12-07 04:24:24",
+    "weather_report": "Busselton wakes to a crystal-blue morning, the kind of clean, unblinking light that sharpens every edge and throws a white shimmer off water and pavement. Skies are set to stay clear through the early afternoon, so expect a sun-forward day with high glare and that dry, summery brightness that makes colors pop. With the season turning and no cloud cover to soften it, the UV will be very strong by midday; the day looks lovely but unforgiving if you linger in it too long.\n\nKeep it easy: light, breathable clothing, long sleeves if you can manage them, a wide-brim hat, sunglasses, and sunscreen, with a bottle of water tucked in your bag. Late morning suits a quiet coffee in the shade, a brief errand on foot, or a browse at the library while the sun hits its stride; save a longer wander along the foreshore or a gentle bike ride for later, when the light mellows and a coastal breeze takes the edge off.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-12-07 10:02:49",
     "location": {
-        "name": "West Busselton",
-        "latitude": -33.65498960492028,
-        "longitude": 115.3334926953812,
+        "name": "Busselton",
+        "latitude": -33.64590771496801,
+        "longitude": 115.3435209254383,
         "timezone": "Australia/Perth"
     }
 }
