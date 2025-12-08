@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-01 12:52:06",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95287626983345,
-      "longitude": 115.8587438967909,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-01T04:52:05+00:00",
-      "temperature_c": 38.46,
-      "temperature_f": 101.228,
-      "humidity": 10,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 290,
-      "description": "clear sky"
-    },
-    "report_summary": "Perth sits under a brilliant, unblemished sky at midday, the sun clean and insistent, shadows crisp ...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-12-01 16:36:14",
     "location": {
       "name": "Perth",
@@ -518,5 +498,25 @@
     },
     "report_summary": "Night has come to Subiaco with a quiet, open sky and just a few stray clouds sliding by; the stars f...",
     "color_code": "#1A2238"
+  },
+  {
+    "timestamp": "2025-12-09 00:32:46",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968744739739,
+      "longitude": 115.8208396929434,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-08T16:32:45+00:00",
+      "temperature_c": 19.39,
+      "temperature_f": 66.902,
+      "humidity": 72,
+      "wind_speed_mph": 9.21644,
+      "wind_direction": 200,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco is wrapped in a quiet, lucid night; the sky is clear and the air has that gentle, pared-back...",
+    "color_code": "#0B1D3A"
   }
 ]

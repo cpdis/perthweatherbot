@@ -7,34 +7,34 @@
             "longitude": 115.8208396929434
         },
         "current_conditions": {
-            "timestamp": "2025-12-08T12:51:07+00:00",
-            "temperature_c": 20.28,
-            "temperature_f": 68.504,
+            "timestamp": "2025-12-08T16:32:45+00:00",
+            "temperature_c": 19.39,
+            "temperature_f": 66.902,
             "humidity": 72,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 210,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 200,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-08T15:00:00+00:00",
-                "temperature": 20.11,
-                "windSpeed": 12.50483,
-                "windDirection": 183,
-                "shortForecast": "few clouds"
-            },
-            {
                 "startTime": "2025-12-08T18:00:00+00:00",
-                "temperature": 19.12,
+                "temperature": 19.39,
                 "windSpeed": 7.02418,
                 "windDirection": 147,
-                "shortForecast": "broken clouds"
+                "shortForecast": "clear sky"
+            },
+            {
+                "startTime": "2025-12-08T21:00:00+00:00",
+                "temperature": 18.75,
+                "windSpeed": 7.33736,
+                "windDirection": 132,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Night has come to Subiaco with a quiet, open sky and just a few stray clouds sliding by; the stars feel accessible, the air unhurried. Sunshine is no longer in play and the UV index is essentially nil, leaving the evening clear-eyed and gentle rather than dazzling. It\u2019s a calm, breathable night, the sort that asks for unhurried steps and an easy pace.\n\nAs the hours drift on, cloud cover is expected to thicken into broader, broken patches, softening the moon and muting the horizon before dawn. Expect a filtered first light rather than a blaze; UV will stay low early, rising only once the morning gets going. A light layer or soft jumper will suit the late evening and the first hours of tomorrow. It\u2019s good weather for a slow lap around the block, for bringing in the washing, jotting tomorrow\u2019s list at the kitchen table, or stepping out to catch a brief window of stars between clouds before turning in.",
-    "color_code": "#1A2238",
-    "timestamp": "2025-12-08 20:51:08",
+    "weather_report": "Subiaco is wrapped in a quiet, lucid night; the sky is clear and the air has that gentle, pared-back cool that carries sound and thought a little farther than usual. Stars are clean-edged, streets unhurried, a good hour for open windows and unhurried breaths.\n\nToward dawn, the clarity should hold: a cloudless sunrise, a bright, decisive morning sliding into a plainly sunny day. UV is negligible now but will climb quickly after breakfast, so plan for shade and a hat once the light hardens. A light layer suits the small hours; by mid-morning you\u2019ll want breathable fabrics and easy shoes. If you\u2019re awake early, water the garden at first light, take a brief walk before the glare arrives, or set a load of washing to make use of the dry air. Later, errands and coffee are best tucked into the morning, saving the early afternoon for indoor tasks and cool rooms.",
+    "color_code": "#0B1D3A",
+    "timestamp": "2025-12-09 00:32:46",
     "location": {
         "name": "Subiaco",
         "latitude": -31.94968744739739,
