@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Busselton",
+            "name": "Yallingup",
             "country": "AU",
-            "latitude": -33.64462816543257,
-            "longitude": 115.345521981513
+            "latitude": -33.66867990406928,
+            "longitude": 115.0028951200458
         },
         "current_conditions": {
-            "timestamp": "2025-12-08T01:54:59+00:00",
-            "temperature_c": 22.99,
-            "temperature_f": 73.382,
-            "humidity": 53,
-            "wind_speed_mph": 5.45828,
-            "wind_direction": 178,
-            "description": "scattered clouds"
+            "timestamp": "2025-12-08T04:36:38+00:00",
+            "temperature_c": 19.27,
+            "temperature_f": 66.686,
+            "humidity": 69,
+            "wind_speed_mph": 22.168670000000002,
+            "wind_direction": 214,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-08T03:00:00+00:00",
-                "temperature": 24.04,
-                "windSpeed": 3.55683,
-                "windDirection": 235,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-12-08T06:00:00+00:00",
+                "temperature": 18.51,
+                "windSpeed": 24.07012,
+                "windDirection": 212,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-12-08T06:00:00+00:00",
-                "temperature": 24.74,
-                "windSpeed": 9.75332,
-                "windDirection": 263,
+                "startTime": "2025-12-08T09:00:00+00:00",
+                "temperature": 18.68,
+                "windSpeed": 23.667460000000002,
+                "windDirection": 202,
                 "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Busselton wakes to a bright, open sky, the last scraps of morning cloud already loosening their grip. Through late morning the sun will take charge, with only scattered puffs, then a cleaner blue by early afternoon. The air looks clear and salt-bright, the horizon sharp, and the day will feel warm in the sun, easier in the shade. UV will be strong to very strong as the sun climbs, so the light will carry that hard Australian sparkle that invites you out and warns you to take care.\n\nDress for ease: breathable fabrics, a brimmed hat, sunglasses, and sunscreen on every bit that sees the light; keep a bottle of water nearby. It\u2019s the kind of day to sip a quiet coffee on a verandah, hang the washing to let it drink the breeze, then stroll a shaded path or run a couple of errands before the sun hits its stride. Save the longer wander for later, when the sea breeze freshens the afternoon and the light softens.",
+    "weather_report": "Midday in Yallingup arrives bright and salt-clear, the sun riding high with only a scattering of cloud to soften the edges. The light has that polished, oceanic sheen; visibility feels clean and far-reaching, and the UV is assertive, the kind that asks for respect and shade. Through the afternoon the sky should remain largely sunny with just a few fair-weather tufts, a gentle, uncomplicated day that leans cheerful rather than dramatic.\n\nLean into light, breathable layers, a brimmed hat, sunglasses, and faithful sunscreen; sandals or easy sneakers will suit most errands. It\u2019s a good time for an unhurried lunch indoors near a window, then small tasks under verandas or trees while the sun is fierce. As the heat eases, take a slow amble along the coastal path, linger over rock pools, or sit with a book beneath a peppermint tree and let the breeze turn the pages. Toward late afternoon the light will mellow and the clouds will gild at the edges, a pleasant invitation for a quiet photo, a short beach wander, or a simple early dinner outside.",
     "color_code": "#87CEEB",
-    "timestamp": "2025-12-08 09:55:00",
+    "timestamp": "2025-12-08 12:36:38",
     "location": {
-        "name": "Busselton",
-        "latitude": -33.64462816543257,
-        "longitude": 115.345521981513,
+        "name": "Yallingup",
+        "latitude": -33.66867990406928,
+        "longitude": 115.0028951200458,
         "timezone": "Australia/Perth"
     }
 }

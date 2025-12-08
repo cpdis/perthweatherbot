@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-01 04:25:25",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94971359861248,
-      "longitude": 115.8206722265897,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-30T20:25:24+00:00",
-      "temperature_c": 20.82,
-      "temperature_f": 69.476,
-      "humidity": 33,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 60,
-      "description": "clear sky"
-    },
-    "report_summary": "Dawn in Subiaco arrives under a clear, untroubled sky, the air still and cool enough to make the fir...",
-    "color_code": "#0D3B66"
-  },
-  {
     "timestamp": "2025-12-01 10:09:33",
     "location": {
       "name": "West Perth",
@@ -517,6 +497,26 @@
       "description": "scattered clouds"
     },
     "report_summary": "Busselton wakes to a bright, open sky, the last scraps of morning cloud already loosening their grip...",
+    "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2025-12-08 12:36:38",
+    "location": {
+      "name": "Yallingup",
+      "latitude": -33.66867990406928,
+      "longitude": 115.0028951200458,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-08T04:36:38+00:00",
+      "temperature_c": 19.27,
+      "temperature_f": 66.686,
+      "humidity": 69,
+      "wind_speed_mph": 22.168670000000002,
+      "wind_direction": 214,
+      "description": "few clouds"
+    },
+    "report_summary": "Midday in Yallingup arrives bright and salt-clear, the sun riding high with only a scattering of clo...",
     "color_code": "#87CEEB"
   }
 ]

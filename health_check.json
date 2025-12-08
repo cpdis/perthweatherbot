@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-08T01:54:59.414232",
+  "timestamp": "2025-12-08T04:36:38.038816",
   "overall_status": "healthy",
   "summary": {
     "total_checks": 5,
@@ -15,7 +15,7 @@
         "OpenWeather API key configured",
         "OpenAI API key configured",
         "ElevenLabs API key configured",
-        "Location: Busselton"
+        "Location: Yallingup"
       ]
     },
     {
@@ -42,7 +42,7 @@
     {
       "name": "OpenWeather API",
       "status": "healthy",
-      "response_time_ms": 120.33099999999999,
+      "response_time_ms": 310.16700000000003,
       "details": "HTTP 200"
     }
   ]
