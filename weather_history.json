@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-11-30 20:43:22",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94971359861248,
-      "longitude": 115.8206722265897,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-30T12:43:22+00:00",
-      "temperature_c": 24.62,
-      "temperature_f": 76.316,
-      "humidity": 46,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 180,
-      "description": "light rain"
-    },
-    "report_summary": "Evening has settled over Subiaco under a sky rinsed clean, a glassy, star-dotted dome with crisp vis...",
-    "color_code": "#0C1F3F"
-  },
-  {
-    "timestamp": "2025-12-01 00:27:26",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94971359861248,
-      "longitude": 115.8206722265897,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-11-30T16:27:25+00:00",
-      "temperature_c": 21.89,
-      "temperature_f": 71.402,
-      "humidity": 51,
-      "wind_speed_mph": 10.334940000000001,
-      "wind_direction": 92,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco sits under a clear, quiet sky at this late hour, the air pared back to its essentials and th...",
-    "color_code": "#0A1E3F"
-  },
-  {
     "timestamp": "2025-12-01 04:25:25",
     "location": {
       "name": "Subiaco",
@@ -538,5 +498,25 @@
     },
     "report_summary": "Busselton wakes under a quilt of dull cloud, the early hours hushed and cool, with the sea and stree...",
     "color_code": "#6E7A86"
+  },
+  {
+    "timestamp": "2025-12-08 09:55:00",
+    "location": {
+      "name": "Busselton",
+      "latitude": -33.64462816543257,
+      "longitude": 115.345521981513,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-08T01:54:59+00:00",
+      "temperature_c": 22.99,
+      "temperature_f": 73.382,
+      "humidity": 53,
+      "wind_speed_mph": 5.45828,
+      "wind_direction": 178,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Busselton wakes to a bright, open sky, the last scraps of morning cloud already loosening their grip...",
+    "color_code": "#87CEEB"
   }
 ]
