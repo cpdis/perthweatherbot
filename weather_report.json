@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Yallingup",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -33.66867990406928,
-            "longitude": 115.0028951200458
+            "latitude": -31.94968744739739,
+            "longitude": 115.8208396929434
         },
         "current_conditions": {
-            "timestamp": "2025-12-08T04:36:38+00:00",
-            "temperature_c": 19.27,
-            "temperature_f": 66.686,
-            "humidity": 69,
-            "wind_speed_mph": 22.168670000000002,
-            "wind_direction": 214,
-            "description": "few clouds"
+            "timestamp": "2025-12-08T12:51:07+00:00",
+            "temperature_c": 20.28,
+            "temperature_f": 68.504,
+            "humidity": 72,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 210,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-08T06:00:00+00:00",
-                "temperature": 18.51,
-                "windSpeed": 24.07012,
-                "windDirection": 212,
+                "startTime": "2025-12-08T15:00:00+00:00",
+                "temperature": 20.11,
+                "windSpeed": 12.50483,
+                "windDirection": 183,
                 "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-12-08T09:00:00+00:00",
-                "temperature": 18.68,
-                "windSpeed": 23.667460000000002,
-                "windDirection": 202,
-                "shortForecast": "few clouds"
+                "startTime": "2025-12-08T18:00:00+00:00",
+                "temperature": 19.12,
+                "windSpeed": 7.02418,
+                "windDirection": 147,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Midday in Yallingup arrives bright and salt-clear, the sun riding high with only a scattering of cloud to soften the edges. The light has that polished, oceanic sheen; visibility feels clean and far-reaching, and the UV is assertive, the kind that asks for respect and shade. Through the afternoon the sky should remain largely sunny with just a few fair-weather tufts, a gentle, uncomplicated day that leans cheerful rather than dramatic.\n\nLean into light, breathable layers, a brimmed hat, sunglasses, and faithful sunscreen; sandals or easy sneakers will suit most errands. It\u2019s a good time for an unhurried lunch indoors near a window, then small tasks under verandas or trees while the sun is fierce. As the heat eases, take a slow amble along the coastal path, linger over rock pools, or sit with a book beneath a peppermint tree and let the breeze turn the pages. Toward late afternoon the light will mellow and the clouds will gild at the edges, a pleasant invitation for a quiet photo, a short beach wander, or a simple early dinner outside.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-12-08 12:36:38",
+    "weather_report": "Night has come to Subiaco with a quiet, open sky and just a few stray clouds sliding by; the stars feel accessible, the air unhurried. Sunshine is no longer in play and the UV index is essentially nil, leaving the evening clear-eyed and gentle rather than dazzling. It\u2019s a calm, breathable night, the sort that asks for unhurried steps and an easy pace.\n\nAs the hours drift on, cloud cover is expected to thicken into broader, broken patches, softening the moon and muting the horizon before dawn. Expect a filtered first light rather than a blaze; UV will stay low early, rising only once the morning gets going. A light layer or soft jumper will suit the late evening and the first hours of tomorrow. It\u2019s good weather for a slow lap around the block, for bringing in the washing, jotting tomorrow\u2019s list at the kitchen table, or stepping out to catch a brief window of stars between clouds before turning in.",
+    "color_code": "#1A2238",
+    "timestamp": "2025-12-08 20:51:08",
     "location": {
-        "name": "Yallingup",
-        "latitude": -33.66867990406928,
-        "longitude": 115.0028951200458,
+        "name": "Subiaco",
+        "latitude": -31.94968744739739,
+        "longitude": 115.8208396929434,
         "timezone": "Australia/Perth"
     }
 }
