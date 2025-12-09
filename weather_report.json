@@ -3,42 +3,42 @@
         "location": {
             "name": "Perth",
             "country": "AU",
-            "latitude": -31.9540109967326,
-            "longitude": 115.8525810558012
+            "latitude": -31.95397918206296,
+            "longitude": 115.8525986443203
         },
         "current_conditions": {
-            "timestamp": "2025-12-09T04:26:49+00:00",
-            "temperature_c": 27.63,
-            "temperature_f": 81.734,
-            "humidity": 45,
-            "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 240,
+            "timestamp": "2025-12-09T08:25:13+00:00",
+            "temperature_c": 26.51,
+            "temperature_f": 79.718,
+            "humidity": 49,
+            "wind_speed_mph": 18.410510000000002,
+            "wind_direction": 230,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-09T06:00:00+00:00",
-                "temperature": 27.65,
-                "windSpeed": 19.707970000000003,
-                "windDirection": 223,
+                "startTime": "2025-12-09T09:00:00+00:00",
+                "temperature": 23.6,
+                "windSpeed": 18.567100000000003,
+                "windDirection": 205,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-12-09T09:00:00+00:00",
-                "temperature": 27.12,
-                "windSpeed": 18.49999,
-                "windDirection": 205,
+                "startTime": "2025-12-09T12:00:00+00:00",
+                "temperature": 23.24,
+                "windSpeed": 13.422,
+                "windDirection": 197,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Perth sits under a faultless bowl of blue at midday, the sun bright and unwavering, shadows cut like paper. It feels dry and clean, the kind of light that makes edges sharp and colours pop. UV is very high now beneath this clear sky, so a wide-brimmed hat, sunscreen, and dark glasses are as sensible as a glass of cold water within reach. The air has that shimmering afternoon gloss, and the horizon looks swept and orderly.\n\nThe day holds to sunshine through the afternoon, bright and uncomplicated, with the light easing later as a salt-tinged breeze noses inland. It\u2019s a pleasant day with a firm grip at noon and a softer hand toward evening. Wear light, breathable fabrics and consider a loose long sleeve if you\u2019ll be out for a while. Good uses of the hours: a late lunch tucked beneath an awning, a quiet spin through errands before the rush, laundry on the line to drink in the air, and then a gentle wander by the river or through a shady park when the glare has mellowed and the day tips toward gold.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-12-09 12:31:52",
+    "weather_report": "Late afternoon in Perth sits under a polished blue dome with not a cloud to trouble it. The sun still has a bright, insistent bite, though it\u2019s easing as it leans toward the horizon. UV has been fierce and remains assertive for now, tapering through the evening; the air is clean and the view sharp, with long, elegant shadows slipping across the streets.\n\nExpect the sky to stay crystal clear through sunset and into a calm, star-pricked night. Light, breathable clothes suit the hour; keep sunglasses and a hat close, refresh your sunscreen if you\u2019re still out, and carry water. It\u2019s good weather for a gentle errand run, a quiet stroll to the shops or along a shaded street, watering the garden, hanging the washing to catch the last golden rays, or an easy bike ride toward dusk; later, a simple dinner outdoors while the warmth ebbs.",
+    "color_code": "#FDB813",
+    "timestamp": "2025-12-09 16:35:14",
     "location": {
         "name": "Perth",
-        "latitude": -31.9540109967326,
-        "longitude": 115.8525810558012,
+        "latitude": -31.95397918206296,
+        "longitude": 115.8525986443203,
         "timezone": "Australia/Perth"
     }
 }
