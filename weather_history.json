@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-02 09:53:15",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969857712147,
-      "longitude": 115.8209128963497,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-02T01:53:14+00:00",
-      "temperature_c": 28.88,
-      "temperature_f": 83.98400000000001,
-      "humidity": 37,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 250,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes under a lucid blue, the kind of late-morning light that sharpens edges and brightens v...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-12-05 12:38:32",
     "location": {
       "name": "Busselton",
@@ -518,5 +498,25 @@
     },
     "report_summary": "Late afternoon in Perth sits under a polished blue dome with not a cloud to trouble it. The sun stil...",
     "color_code": "#FDB813"
+  },
+  {
+    "timestamp": "2025-12-09 20:52:30",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94967955234673,
+      "longitude": 115.8206485462303,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-09T12:52:30+00:00",
+      "temperature_c": 21.85,
+      "temperature_f": 71.33,
+      "humidity": 69,
+      "wind_speed_mph": 9.21644,
+      "wind_direction": 210,
+      "description": "clear sky"
+    },
+    "report_summary": "Evening settles over Subiaco with a glass-clear sky, the last ember of twilight long gone and the fi...",
+    "color_code": "#0b1e3a"
   }
 ]

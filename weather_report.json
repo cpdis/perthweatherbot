@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95397918206296,
-            "longitude": 115.8525986443203
+            "latitude": -31.94967955234673,
+            "longitude": 115.8206485462303
         },
         "current_conditions": {
-            "timestamp": "2025-12-09T08:25:13+00:00",
-            "temperature_c": 26.51,
-            "temperature_f": 79.718,
-            "humidity": 49,
-            "wind_speed_mph": 18.410510000000002,
-            "wind_direction": 230,
+            "timestamp": "2025-12-09T12:52:30+00:00",
+            "temperature_c": 21.85,
+            "temperature_f": 71.33,
+            "humidity": 69,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 210,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-09T09:00:00+00:00",
-                "temperature": 23.6,
-                "windSpeed": 18.567100000000003,
-                "windDirection": 205,
+                "startTime": "2025-12-09T15:00:00+00:00",
+                "temperature": 21.52,
+                "windSpeed": 6.35308,
+                "windDirection": 154,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-12-09T12:00:00+00:00",
-                "temperature": 23.24,
-                "windSpeed": 13.422,
-                "windDirection": 197,
+                "startTime": "2025-12-09T18:00:00+00:00",
+                "temperature": 20.01,
+                "windSpeed": 11.565290000000001,
+                "windDirection": 99,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Late afternoon in Perth sits under a polished blue dome with not a cloud to trouble it. The sun still has a bright, insistent bite, though it\u2019s easing as it leans toward the horizon. UV has been fierce and remains assertive for now, tapering through the evening; the air is clean and the view sharp, with long, elegant shadows slipping across the streets.\n\nExpect the sky to stay crystal clear through sunset and into a calm, star-pricked night. Light, breathable clothes suit the hour; keep sunglasses and a hat close, refresh your sunscreen if you\u2019re still out, and carry water. It\u2019s good weather for a gentle errand run, a quiet stroll to the shops or along a shaded street, watering the garden, hanging the washing to catch the last golden rays, or an easy bike ride toward dusk; later, a simple dinner outdoors while the warmth ebbs.",
-    "color_code": "#FDB813",
-    "timestamp": "2025-12-09 16:35:14",
+    "weather_report": "Evening settles over Subiaco with a glass-clear sky, the last ember of twilight long gone and the first hard stars bright above the hills. Today stayed bright and untroubled by clouds; the sunshine was gentle, the kind that sharpens edges without biting, and the UV stayed modest. Now the ultraviolet is essentially asleep, and the air feels crisp and dry, lending the streets a pleasant, clean hush and a sense of long sightlines.\n\nIt looks like a quietly lovely night, better for layers than bravado: a warm coat, a scarf, shoes with some heft, perhaps thin gloves if you linger. With the weather so steady, you might take an unhurried loop to return a library book, pick up milk, or stand a minute to watch the lights gather in shop windows; at home, crack a window for a brief airing, oil the bicycle chain, or draft a note you\u2019ve been meaning to write. If you step outside later, the sky will reward you with uncomplicated stars.",
+    "color_code": "#0b1e3a",
+    "timestamp": "2025-12-09 20:52:30",
     "location": {
-        "name": "Perth",
-        "latitude": -31.95397918206296,
-        "longitude": 115.8525986443203,
+        "name": "Subiaco",
+        "latitude": -31.94967955234673,
+        "longitude": 115.8206485462303,
         "timezone": "Australia/Perth"
     }
 }
