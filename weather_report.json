@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Kings Park",
             "country": "AU",
-            "latitude": -31.95402642638195,
-            "longitude": 115.8525917016521
+            "latitude": -31.95957199467183,
+            "longitude": 115.8437675427619
         },
         "current_conditions": {
-            "timestamp": "2025-12-11T04:37:28+00:00",
-            "temperature_c": 32.64,
-            "temperature_f": 90.752,
-            "humidity": 39,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 270,
+            "timestamp": "2025-12-11T08:34:42+00:00",
+            "temperature_c": 30.85,
+            "temperature_f": 87.53,
+            "humidity": 44,
+            "wind_speed_mph": 19.57375,
+            "wind_direction": 230,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-11T06:00:00+00:00",
-                "temperature": 32.63,
-                "windSpeed": 19.707970000000003,
-                "windDirection": 215,
+                "startTime": "2025-12-11T09:00:00+00:00",
+                "temperature": 30.85,
+                "windSpeed": 20.065890000000003,
+                "windDirection": 202,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-12-11T09:00:00+00:00",
-                "temperature": 32.15,
-                "windSpeed": 20.71462,
-                "windDirection": 201,
+                "startTime": "2025-12-11T12:00:00+00:00",
+                "temperature": 29.96,
+                "windSpeed": 18.43288,
+                "windDirection": 196,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Perth leans into the early afternoon with a bright, unwavering sun and a sky rinsed clear of cloud. Shadows are crisp, colors a little more saturated than usual, and the light has that summery insistence that warms the pavement and the patience. Expect the clarity to hold into late afternoon and early evening; it will stay sunny, with the UV likely very high now and only softening as the day slides toward dusk.\n\nDress light and breathable, a brimmed hat and sunglasses doing noble work, with sunscreen as quiet armor. Keep water close. It\u2019s a good day to take lunch in the shade, to hang a fresh load of washing and let the sun finish the job, to run a short errand on foot once the glare eases, or to tend balcony plants and watch their leaves brighten. Later, when the heat relaxes, a gentle amble along a tree-lined street or a quick ride to the corner shop will feel just right. Keep your plans unhurried; the sky has already done the heavy lifting.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-12-11 12:37:29",
+    "weather_report": "Kings Park has spent the day under a polished, unbroken sky\u2014bright from morning through noon, the kind of sun that makes colors pop and throws crisp shadows. UV likely peaked around midday and is easing now to low or modest levels as the light turns honeyed and kind, with no real clouds to complicate the view. Expect the clarity to hold into dusk, the evening arriving clean and unhurried.\n\nIt\u2019s a pleasant finish: sunglasses still helpful for the low glare, a light layer sensible if you linger in the shade, and comfortable clothes for an unhurried walk. Mundane chores feel almost ceremonial in this light\u2014drop a letter at the box, water the garden, or take a small loop through the park and let the day glide to a quiet close.",
+    "color_code": "#F2C66D",
+    "timestamp": "2025-12-11 16:34:43",
     "location": {
-        "name": "Perth",
-        "latitude": -31.95402642638195,
-        "longitude": 115.8525917016521,
+        "name": "Kings Park",
+        "latitude": -31.95957199467183,
+        "longitude": 115.8437675427619,
         "timezone": "Australia/Perth"
     }
 }
