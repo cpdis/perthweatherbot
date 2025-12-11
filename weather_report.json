@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Kings Park",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95957199467183,
-            "longitude": 115.8437675427619
+            "latitude": -31.94970984376867,
+            "longitude": 115.8206878720748
         },
         "current_conditions": {
-            "timestamp": "2025-12-11T08:34:42+00:00",
-            "temperature_c": 30.85,
-            "temperature_f": 87.53,
-            "humidity": 44,
-            "wind_speed_mph": 19.57375,
-            "wind_direction": 230,
+            "timestamp": "2025-12-11T12:54:19+00:00",
+            "temperature_c": 25.35,
+            "temperature_f": 77.63,
+            "humidity": 66,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 220,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-11T09:00:00+00:00",
-                "temperature": 30.85,
-                "windSpeed": 20.065890000000003,
-                "windDirection": 202,
+                "startTime": "2025-12-11T15:00:00+00:00",
+                "temperature": 25.28,
+                "windSpeed": 14.719460000000002,
+                "windDirection": 133,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-12-11T12:00:00+00:00",
-                "temperature": 29.96,
-                "windSpeed": 18.43288,
-                "windDirection": 196,
+                "startTime": "2025-12-11T18:00:00+00:00",
+                "temperature": 22.6,
+                "windSpeed": 12.929860000000001,
+                "windDirection": 144,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Kings Park has spent the day under a polished, unbroken sky\u2014bright from morning through noon, the kind of sun that makes colors pop and throws crisp shadows. UV likely peaked around midday and is easing now to low or modest levels as the light turns honeyed and kind, with no real clouds to complicate the view. Expect the clarity to hold into dusk, the evening arriving clean and unhurried.\n\nIt\u2019s a pleasant finish: sunglasses still helpful for the low glare, a light layer sensible if you linger in the shade, and comfortable clothes for an unhurried walk. Mundane chores feel almost ceremonial in this light\u2014drop a letter at the box, water the garden, or take a small loop through the park and let the day glide to a quiet close.",
-    "color_code": "#F2C66D",
-    "timestamp": "2025-12-11 16:34:43",
+    "weather_report": "Subiaco settles under a spotless evening sky, the sort of clean, untroubled blue that makes the town feel larger and quieter at once. The afternoon held to clear, honest sunshine; with the sun riding low at this time of year, light was bright but gentle and the UV stayed modest, then fell away quickly toward dusk. Now, with night fully arrived, the air feels composed and still, and visibility is crisp right down the streets.\n\nThe forecast keeps it clear through late evening and into the small hours, a pleasant, unhurried stretch of weather. It looks like a night for calm routines: a short stroll to air out the day, a phone call from a balcony, or finishing that lingering chore while the sky keeps you company. Dress in layers with a warm coat; a scarf will make lingering outdoors more comfortable. With UV essentially gone, it\u2019s a safe time to wander without worry, and to let the clarity of the night do the simple work of clearing the mind.",
+    "color_code": "#0d1b2a",
+    "timestamp": "2025-12-11 20:54:20",
     "location": {
-        "name": "Kings Park",
-        "latitude": -31.95957199467183,
-        "longitude": 115.8437675427619,
+        "name": "Subiaco",
+        "latitude": -31.94970984376867,
+        "longitude": 115.8206878720748,
         "timezone": "Australia/Perth"
     }
 }
