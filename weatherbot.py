@@ -121,7 +121,7 @@ def main() -> None:
                     image_path = generate_weather_image(
                         location_name=location.name,
                         weather_description=current['description'],
-                        temperature=current['temperature'],
+                        temperature=current['temperature_c'],
                         date_str=datetime.now(local_tz).strftime("%A, %B %d"),
                         config=config
                     )
