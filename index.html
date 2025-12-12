@@ -270,22 +270,19 @@
             margin: 1em 0;
         }
 
-        /* Image cropping styles */
+        /* Image styles */
         .cropped-image-container {
             width: 100%;
             position: relative;
             overflow: hidden;
-            aspect-ratio: 16/8; /* This creates a container with 50% height of width */
             margin-bottom: 2em;
         }
 
         .cropped-image {
-            position: absolute;
-            top:  0;
-            left: 0;
             width: 100%;
-            height: 150%; /* 150% height to account for the 25% crop on top and bottom */
-            object-fit: cover;
+            height: auto;
+            object-fit: contain;
+            border-radius: 8px;
         }
 
         #weather-report {
@@ -553,6 +550,10 @@
                     // Update the title with the current location
                     const locationName = data.forecast_data?.location?.name || data.location?.name || 'Weather';
                     document.getElementById('location-title').innerText = locationName + ' Weather Vibes';
+
+                    // Refresh weather image with cache-busting
+                    const weatherImage = document.getElementById('weather-image');
+                    weatherImage.src = `weather_image.png?t=${Date.now()}`;
                     
                     // Enable audio controls if audio is available
                     const audioElement = document.getElementById('weather-audio');
@@ -660,7 +661,7 @@
         </div>
         <hr class="divider">
         <div class="cropped-image-container">
-            <img src="perth-in-the-clouds.jpg" alt="Perth skyline view" class="cropped-image">
+            <img id="weather-image" src="weather_image.png" alt="AI-generated weather scene" class="cropped-image" onerror="this.src='perth-in-the-clouds.jpg'; this.alt='Perth skyline view';">
         </div>
         <div id="weather-report">
             <div class="loading">
