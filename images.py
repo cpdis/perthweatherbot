@@ -78,8 +78,12 @@ Square 1080x1080 dimension."""
         if not response.candidates:
             raise ImageGenerationError("No candidates in response")
 
-        for part in response.candidates[0].content.parts:
-            if part.inline_data:
+        candidate = response.candidates[0]
+        if candidate.content is None or candidate.content.parts is None:
+            raise ImageGenerationError("No content in response")
+
+        for part in candidate.content.parts:
+            if part.inline_data is not None and part.inline_data.data is not None:
                 with open(image_path, "wb") as f:
                     f.write(part.inline_data.data)
                 logger.info(f"Successfully generated weather image at {image_path}")
