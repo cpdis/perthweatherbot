@@ -64,10 +64,10 @@ Square 1080x1080 dimension."""
 
         # Generate image
         response = client.models.generate_content(
-            model="gemini-2.0-flash-exp-image-generation",
+            model="gemini-2.5-flash-image",
             contents=[prompt],
             config=types.GenerateContentConfig(
-                response_modalities=['IMAGE'],
+                response_modalities=["IMAGE"],
                 image_config=types.ImageConfig(aspect_ratio="1:1")
             )
         )
@@ -78,11 +78,7 @@ Square 1080x1080 dimension."""
         if not response.candidates:
             raise ImageGenerationError("No candidates in response")
 
-        candidate = response.candidates[0]
-        if candidate.content is None or candidate.content.parts is None:
-            raise ImageGenerationError("No content in response")
-
-        for part in candidate.content.parts:
+        for part in response.parts:
             if part.inline_data is not None and part.inline_data.data is not None:
                 with open(image_path, "wb") as f:
                     f.write(part.inline_data.data)
