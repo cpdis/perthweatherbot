@@ -44,6 +44,7 @@ class WeatherBotConfig:
     openweather_api_key: str
     openai_api_key: str
     elevenlabs_api_key: Optional[str] = None
+    gemini_api_key: Optional[str] = None
     log_level: str = 'INFO'
     forecast_hours: int = 6
     max_report_words: int = 300
@@ -170,6 +171,10 @@ def load_config() -> WeatherBotConfig:
     elevenlabs_key: Optional[str] = os.getenv('ELEVENLABS_API_KEY')
     if not elevenlabs_key:
         logger.warning("ElevenLabs API key not found - audio generation will be skipped")
+
+    gemini_key: Optional[str] = os.getenv('GEMINI_API_KEY')
+    if not gemini_key:
+        logger.warning("Gemini API key not found - image generation will be skipped")
     
     # Set OpenAI API key for llm library
     os.environ["OPENAI_API_KEY"] = openai_key
@@ -187,6 +192,7 @@ def load_config() -> WeatherBotConfig:
         openweather_api_key=openweather_key,
         openai_api_key=openai_key,
         elevenlabs_api_key=elevenlabs_key,
+        gemini_api_key=gemini_key,
         log_level=log_level,
         forecast_hours=forecast_hours,
         max_report_words=max_report_words,

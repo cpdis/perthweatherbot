@@ -11,6 +11,7 @@ from typing import Dict, Union, Optional, Any
 from config import load_config, WeatherBotConfig, LocationConfig, ConfigurationError
 from weather import WeatherService, APIError
 from audio import generate_audio_forecast, AudioGenerationError
+from images import generate_weather_image, ImageGenerationError
 from history import WeatherHistory
 
 # Configure logging
@@ -112,7 +113,24 @@ def main() -> None:
                     logger.warning(f"Audio generation failed: {e}")
             else:
                 logger.info("Skipping audio generation - no ElevenLabs API key configured")
-                
+
+            # Generate weather image
+            if config.gemini_api_key:
+                try:
+                    current = weather_data['current_conditions']
+                    image_path = generate_weather_image(
+                        location_name=location.name,
+                        weather_description=current['description'],
+                        temperature=current['temperature'],
+                        date_str=datetime.now(local_tz).strftime("%A, %B %d"),
+                        config=config
+                    )
+                    logger.info(f"Weather image generated: {image_path}")
+                except ImageGenerationError as e:
+                    logger.warning(f"Image generation failed: {e}")
+            else:
+                logger.info("Skipping image generation - no Gemini API key configured")
+
             # Log completion
             logger.info(f"Weather report generation completed for {location.name}")
                 
