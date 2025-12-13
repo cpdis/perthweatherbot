@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-06 04:27:06",
-    "location": {
-      "name": "Busselton",
-      "latitude": -33.64491977736887,
-      "longitude": 115.3450631770372,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-05T20:27:05+00:00",
-      "temperature_c": 12.54,
-      "temperature_f": 54.571999999999996,
-      "humidity": 85,
-      "wind_speed_mph": 4.29504,
-      "wind_direction": 155,
-      "description": "clear sky"
-    },
-    "report_summary": "Dawn comes quietly to Busselton, with a clear sky already stretching pale and clean above the water....",
-    "color_code": "#FAD6A5"
-  },
-  {
     "timestamp": "2025-12-06 09:47:45",
     "location": {
       "name": "Busselton",
@@ -978,5 +958,25 @@
     },
     "report_summary": "Subiaco wakes under a polished blue, the sun already laying down clean, hard shadows and a sense tha...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2025-12-13 12:29:46",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.9496888703273,
+      "longitude": 115.820836432166,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-13T04:29:45+00:00",
+      "temperature_c": 32.19,
+      "temperature_f": 89.942,
+      "humidity": 29,
+      "wind_speed_mph": 14.965530000000001,
+      "wind_direction": 100,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco slides into early afternoon under a polished blue dome, the sun already bright enough to etc...",
+    "color_code": "#87CEFA"
   }
 ]
