@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-12-05 20:50:01",
-    "location": {
-      "name": "Busselton",
-      "latitude": -33.64491977736887,
-      "longitude": 115.3450631770372,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-05T12:50:00+00:00",
-      "temperature_c": 15.18,
-      "temperature_f": 59.324,
-      "humidity": 77,
-      "wind_speed_mph": 11.99032,
-      "wind_direction": 185,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Evening settles over Busselton with a quilt of broken cloud drifting in from the bay, softening the ...",
-    "color_code": "#2E3A4F"
-  },
-  {
-    "timestamp": "2025-12-06 00:31:08",
-    "location": {
-      "name": "Busselton",
-      "latitude": -33.64491977736887,
-      "longitude": 115.3450631770372,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-05T16:31:07+00:00",
-      "temperature_c": 13.02,
-      "temperature_f": 55.436,
-      "humidity": 87,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 172,
-      "description": "broken clouds"
-    },
-    "report_summary": "Just past midnight in Busselton, the night feels soft and salt-edged, with the sky torn into moving ...",
-    "color_code": "#223447"
-  },
-  {
     "timestamp": "2025-12-06 04:27:06",
     "location": {
       "name": "Busselton",
@@ -998,5 +958,25 @@
     },
     "report_summary": "Subiaco wakes under a clear, velvet pre-dawn, the air cool on the skin and the eastern edge of the s...",
     "color_code": "#0D3B66"
+  },
+  {
+    "timestamp": "2025-12-13 09:50:25",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.9496721258691,
+      "longitude": 115.8206846134939,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-13T01:50:25+00:00",
+      "temperature_c": 27.44,
+      "temperature_f": 81.392,
+      "humidity": 44,
+      "wind_speed_mph": 17.26964,
+      "wind_direction": 110,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco wakes under a polished blue, the sun already laying down clean, hard shadows and a sense tha...",
+    "color_code": "#87CEEB"
   }
 ]
