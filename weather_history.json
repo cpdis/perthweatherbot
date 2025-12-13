@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-12-06 09:47:45",
-    "location": {
-      "name": "Busselton",
-      "latitude": -33.65008141199221,
-      "longitude": 115.344230903032,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-06T01:47:44+00:00",
-      "temperature_c": 21.39,
-      "temperature_f": 70.502,
-      "humidity": 51,
-      "wind_speed_mph": 6.688630000000001,
-      "wind_direction": 325,
-      "description": "clear sky"
-    },
-    "report_summary": "Morning in Busselton opens on a polished blue sky, the kind that makes colors snap and edges look fr...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-12-06 12:26:42",
-    "location": {
-      "name": "Busselton",
-      "latitude": -33.65031405527182,
-      "longitude": 115.3436613588319,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-06T04:26:41+00:00",
-      "temperature_c": 22.26,
-      "temperature_f": 72.068,
-      "humidity": 50,
-      "wind_speed_mph": 13.26541,
-      "wind_direction": 306,
-      "description": "clear sky"
-    },
-    "report_summary": "Midday in Busselton arrives bright and unblinking: a cloudless vault, hard blue from shore to paddoc...",
-    "color_code": "#87CEFA"
-  },
-  {
     "timestamp": "2025-12-06 16:29:12",
     "location": {
       "name": "Busselton",
@@ -998,5 +958,25 @@
     },
     "report_summary": "In Subiaco this late afternoon, the sky is an enamel blue and the light is bright enough to cut long...",
     "color_code": "#F6C56F"
+  },
+  {
+    "timestamp": "2025-12-13 20:45:38",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968464231462,
+      "longitude": 115.8208243513355,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-13T12:45:38+00:00",
+      "temperature_c": 31.29,
+      "temperature_f": 88.322,
+      "humidity": 21,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 140,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco settles into a polished, cloudless night. The sky is open and steady now and through the lat...",
+    "color_code": "#0a1e3f"
   }
 ]
