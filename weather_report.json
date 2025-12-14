@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Kangiara",
             "country": "AU",
-            "latitude": -31.94968439542611,
-            "longitude": 115.8208245348275
+            "latitude": -34.57459146200199,
+            "longitude": 148.7509607063003
         },
         "current_conditions": {
-            "timestamp": "2025-12-14T16:28:03+00:00",
-            "temperature_c": 26.03,
-            "temperature_f": 78.854,
-            "humidity": 59,
-            "wind_speed_mph": 19.57375,
-            "wind_direction": 60,
+            "timestamp": "2025-12-14T20:25:31+00:00",
+            "temperature_c": 12.16,
+            "temperature_f": 53.888,
+            "humidity": 74,
+            "wind_speed_mph": 7.628170000000001,
+            "wind_direction": 269,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-14T18:00:00+00:00",
-                "temperature": 25.75,
-                "windSpeed": 16.03929,
-                "windDirection": 46,
-                "shortForecast": "few clouds"
+                "startTime": "2025-12-14T21:00:00+00:00",
+                "temperature": 13.11,
+                "windSpeed": 8.925630000000002,
+                "windDirection": 259,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-12-14T21:00:00+00:00",
-                "temperature": 25.04,
-                "windSpeed": 11.09552,
-                "windDirection": 34,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-12-15T00:00:00+00:00",
+                "temperature": 14.89,
+                "windSpeed": 9.97702,
+                "windDirection": 259,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Just past midnight in Subiaco, the sky is a deep navy with only a few clouds drifting across it, the kind of quiet that makes streetlights look warmer than they are. Toward the small hours those clouds will gather into a more broken ceiling, so expect a muted, gauzy dawn rather than a blazing one. The night carries almost no UV burden, but after sunrise in mid-December here the UV will ramp up quickly and become strong to very high by late morning, even if the sun is filtered at times, so plan shade, sunscreen, and a brimmed hat. It looks like a pleasant day built of intervals: pockets of sunshine, spells of cloud, decent visibility without that crystal-clear glare. Light, breathable layers will suit the early breeze, with something you can shrug off once the day wakes up. Night owls might enjoy a slow stroll now when the streets are empty and the air feels unhurried; early risers could nurse a first coffee on the veranda and step out for errands or a gentle ride before the sun sharpens and the afternoon asks for patience and a pause.",
-    "color_code": "#0B1E3B",
-    "timestamp": "2025-12-15 00:28:03",
+    "weather_report": "Kangiara wakes before dawn in a hush, the air gentle and cool, the eastern edge of the sky just beginning to pale. Forecasts promise a clean, sun-forward morning, with only a few stray clouds wandering in later. Expect a bright, open feel and sharp clarity; the sun will be forthright, and the UV will climb quickly after sunrise, likely strong by late morning, so seek shade when you can and be generous with sunscreen and a brim.\n\nIt looks like a day for unhurried starts and practical comforts: step out in a light layer at first, then ease into breathable clothes as the light strengthens; sunglasses earn their keep. Water the garden or hang a wash early, take a quiet loop on foot while the countryside is still soft and blue-edged, then tend to simple errands before the light turns hard. Toward midday, those few clouds won\u2019t do much to dull the glare, so a shaded porch, a book, and windows open to the clear air would be a good way to ride out the bright heart of the day.",
+    "color_code": "#5B7EA6",
+    "timestamp": "2025-12-15 04:25:32",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968439542611,
-        "longitude": 115.8208245348275,
+        "name": "Kangiara",
+        "latitude": -34.57459146200199,
+        "longitude": 148.7509607063003,
         "timezone": "Australia/Perth"
     }
 }
