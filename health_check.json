@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-13T20:24:50.446001",
+  "timestamp": "2025-12-14T02:03:32.001679",
   "overall_status": "healthy",
   "summary": {
     "total_checks": 5,
@@ -15,7 +15,7 @@
         "OpenWeather API key configured",
         "OpenAI API key configured",
         "ElevenLabs API key configured",
-        "Location: Subiaco"
+        "Location: Scarborough"
       ]
     },
     {
@@ -42,7 +42,7 @@
     {
       "name": "OpenWeather API",
       "status": "healthy",
-      "response_time_ms": 64.131,
+      "response_time_ms": 122.083,
       "details": "HTTP 200"
     }
   ]

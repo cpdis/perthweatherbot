@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Scarborough",
             "country": "AU",
-            "latitude": -31.94968464231462,
-            "longitude": 115.8208243513355
+            "latitude": -31.90160262059002,
+            "longitude": 115.7572952403062
         },
         "current_conditions": {
-            "timestamp": "2025-12-13T20:24:51+00:00",
-            "temperature_c": 24.25,
-            "temperature_f": 75.65,
-            "humidity": 43,
-            "wind_speed_mph": 21.85549,
-            "wind_direction": 60,
-            "description": "clear sky"
+            "timestamp": "2025-12-14T02:03:33+00:00",
+            "temperature_c": 32.31,
+            "temperature_f": 90.158,
+            "humidity": 32,
+            "wind_speed_mph": 15.14449,
+            "wind_direction": 72,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-13T21:00:00+00:00",
-                "temperature": 24.25,
-                "windSpeed": 14.18258,
-                "windDirection": 85,
-                "shortForecast": "clear sky"
+                "startTime": "2025-12-14T03:00:00+00:00",
+                "temperature": 32.31,
+                "windSpeed": 10.80471,
+                "windDirection": 84,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-12-14T00:00:00+00:00",
-                "temperature": 25.43,
-                "windSpeed": 15.659,
-                "windDirection": 70,
-                "shortForecast": "clear sky"
+                "startTime": "2025-12-14T06:00:00+00:00",
+                "temperature": 33.91,
+                "windSpeed": 15.435300000000002,
+                "windDirection": 164,
+                "shortForecast": "moderate rain"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a clear, tender sky; the night is thinning and the first wash of pale gold is sliding along the eastern roofs. Air is calm and clean, with stars fading out of a deep velvet blue. Expect a lucid sunrise and a day that opens wide to full sun, the kind that paints sharp edges on everything and leaves no corners dim. UV will surge quickly after sunrise and stay very high through late morning into early afternoon, so shade will be your best friend once the light hardens.\n\nIt looks like an inviting morning and a demanding midday. Step out early in breathable layers, a brimmed hat, sunglasses, and sunscreen; carry water as the brightness gathers. Good hours for a quiet walk past blooming verges, to hang the washing, or to take a book to a caf\u00e9\u2019s shaded table. Run your errands before lunch, then let the sun do its work while you retreat to a cool room, a library stack, or a slow chore by a fan. As the glare softens later, another unhurried lap around the block will finish the day comfortably.",
-    "color_code": "#F9E2B0",
-    "timestamp": "2025-12-14 04:24:51",
+    "weather_report": "After the night\u2019s showers and a heavier burst toward dawn, Scarborough wakes washed and grey, pavements shining like slate and the sea a pewter plane. The sun will stay largely veiled behind a thick quilt of cloud; if it peeks through at all, it will be brief and pale. UV remains very low, the sort that hardly registers this close to the solstice. The air feels damp and cool, and the view softens at the edges, distant headlands drawn in charcoal rather than ink.\n\nExpect a showery, unsettled day with longer dry pauses as the morning wears on, though the mood stays overcast more than bright. Dress in warm layers under a waterproof, with shoes ready for slick stones and puddles; a hood beats an umbrella along the front. It\u2019s a good day for small pilgrimages: a slow coffee by a window, a lazy browse in a bookshop, a quiet hour at the museum, or a brisk walk on the promenade between showers, rewarded by something hot in a paper bag. If staying in, open a window to the salt air, catch up on letters, and let the weather drum its own gentle measure.",
+    "color_code": "#6e7f91",
+    "timestamp": "2025-12-14 10:03:33",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968464231462,
-        "longitude": 115.8208243513355,
+        "name": "Scarborough",
+        "latitude": -31.90160262059002,
+        "longitude": 115.7572952403062,
         "timezone": "Australia/Perth"
     }
 }
