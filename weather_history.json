@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-07 04:24:24",
-    "location": {
-      "name": "West Busselton",
-      "latitude": -33.65498960492028,
-      "longitude": 115.3334926953812,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-06T20:24:24+00:00",
-      "temperature_c": 12.81,
-      "temperature_f": 55.058,
-      "humidity": 91,
-      "wind_speed_mph": 3.75816,
-      "wind_direction": 151,
-      "description": "clear sky"
-    },
-    "report_summary": "West Busselton wakes in the hush before dawn, a clear sky rinsed in dark blue, the bay holding its b...",
-    "color_code": "#0E3A66"
-  },
-  {
     "timestamp": "2025-12-07 10:02:49",
     "location": {
       "name": "Busselton",
@@ -978,5 +958,25 @@
     },
     "report_summary": "After the night\u2019s showers and a heavier burst toward dawn, Scarborough wakes washed and grey, paveme...",
     "color_code": "#6e7f91"
+  },
+  {
+    "timestamp": "2025-12-14 12:38:41",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968486133229,
+      "longitude": 115.8208255862076,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-14T04:38:40+00:00",
+      "temperature_c": 36.55,
+      "temperature_f": 97.78999999999999,
+      "humidity": 25,
+      "wind_speed_mph": 17.26964,
+      "wind_direction": 90,
+      "description": "thunderstorm with light rain"
+    },
+    "report_summary": "Midday finds Subiaco under a pewter sky, the light dulled and the air smelling of wet pavement. Band...",
+    "color_code": "#6E7B8B"
   }
 ]

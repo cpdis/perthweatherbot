@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Scarborough",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.90160262059002,
-            "longitude": 115.7572952403062
+            "latitude": -31.94968486133229,
+            "longitude": 115.8208255862076
         },
         "current_conditions": {
-            "timestamp": "2025-12-14T02:03:33+00:00",
-            "temperature_c": 32.31,
-            "temperature_f": 90.158,
-            "humidity": 32,
-            "wind_speed_mph": 15.14449,
-            "wind_direction": 72,
-            "description": "broken clouds"
+            "timestamp": "2025-12-14T04:38:40+00:00",
+            "temperature_c": 36.55,
+            "temperature_f": 97.78999999999999,
+            "humidity": 25,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 90,
+            "description": "thunderstorm with light rain"
         },
         "forecast": [
             {
-                "startTime": "2025-12-14T03:00:00+00:00",
-                "temperature": 32.31,
-                "windSpeed": 10.80471,
-                "windDirection": 84,
-                "shortForecast": "light rain"
+                "startTime": "2025-12-14T06:00:00+00:00",
+                "temperature": 36.55,
+                "windSpeed": 13.198300000000001,
+                "windDirection": 161,
+                "shortForecast": "moderate rain"
             },
             {
-                "startTime": "2025-12-14T06:00:00+00:00",
-                "temperature": 33.91,
-                "windSpeed": 15.435300000000002,
-                "windDirection": 164,
+                "startTime": "2025-12-14T09:00:00+00:00",
+                "temperature": 33,
+                "windSpeed": 18.52236,
+                "windDirection": 90,
                 "shortForecast": "moderate rain"
             }
         ]
     },
-    "weather_report": "After the night\u2019s showers and a heavier burst toward dawn, Scarborough wakes washed and grey, pavements shining like slate and the sea a pewter plane. The sun will stay largely veiled behind a thick quilt of cloud; if it peeks through at all, it will be brief and pale. UV remains very low, the sort that hardly registers this close to the solstice. The air feels damp and cool, and the view softens at the edges, distant headlands drawn in charcoal rather than ink.\n\nExpect a showery, unsettled day with longer dry pauses as the morning wears on, though the mood stays overcast more than bright. Dress in warm layers under a waterproof, with shoes ready for slick stones and puddles; a hood beats an umbrella along the front. It\u2019s a good day for small pilgrimages: a slow coffee by a window, a lazy browse in a bookshop, a quiet hour at the museum, or a brisk walk on the promenade between showers, rewarded by something hot in a paper bag. If staying in, open a window to the salt air, catch up on letters, and let the weather drum its own gentle measure.",
-    "color_code": "#6e7f91",
-    "timestamp": "2025-12-14 10:03:33",
+    "weather_report": "Midday finds Subiaco under a pewter sky, the light dulled and the air smelling of wet pavement. Bands of moderate rain sweep through, with only stingy hints of brightness between them; if the sun shows, it will be a fleeting cameo. Expect a soft, hazy clarity today\u2014distant edges blurred, streets dark and reflective. UV exposure stays muted under this cloud deck, low to perhaps moderate in any brief bright patch, but generally the day leans gray and damp rather than sunstruck.\n\nIt\u2019s a rain-jacket and comfortable, water\u2011resistant shoes sort of day; a compact umbrella earns its keep. The weather isn\u2019t harsh so much as persistent, better suited to errands that keep you lightly in and out of doorways, a slow coffee while showers pass, a wander through a gallery or the library, or a short amble between bursts of rain to stretch the legs and admire the sheen on the jacarandas. If you\u2019re staying in, put a pot on the stove or tend to the little chores that never demand sunshine. The day will be gentle if you move with it.",
+    "color_code": "#6E7B8B",
+    "timestamp": "2025-12-14 12:38:41",
     "location": {
-        "name": "Scarborough",
-        "latitude": -31.90160262059002,
-        "longitude": 115.7572952403062,
+        "name": "Subiaco",
+        "latitude": -31.94968486133229,
+        "longitude": 115.8208255862076,
         "timezone": "Australia/Perth"
     }
 }
