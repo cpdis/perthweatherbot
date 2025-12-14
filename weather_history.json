@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-07 16:28:34",
-    "location": {
-      "name": "Busselton",
-      "latitude": -33.64610168565569,
-      "longitude": 115.344543995313,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-07T08:28:34+00:00",
-      "temperature_c": 23.34,
-      "temperature_f": 74.012,
-      "humidity": 53,
-      "wind_speed_mph": 15.770850000000001,
-      "wind_direction": 250,
-      "description": "clear sky"
-    },
-    "report_summary": "Busselton passes the afternoon under a clean, untroubled sky, the kind of clear that sharpens edges ...",
-    "color_code": "#FDB813"
-  },
-  {
     "timestamp": "2025-12-07 20:42:59",
     "location": {
       "name": "Busselton",
@@ -978,5 +958,25 @@
     },
     "report_summary": "Evening settles over Subiaco with a simple, pleasing sky: mostly clear, a few clouds drifting like q...",
     "color_code": "#0B1D3A"
+  },
+  {
+    "timestamp": "2025-12-15 00:28:03",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968439542611,
+      "longitude": 115.8208245348275,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-14T16:28:03+00:00",
+      "temperature_c": 26.03,
+      "temperature_f": 78.854,
+      "humidity": 59,
+      "wind_speed_mph": 19.57375,
+      "wind_direction": 60,
+      "description": "clear sky"
+    },
+    "report_summary": "Just past midnight in Subiaco, the sky is a deep navy with only a few clouds drifting across it, the...",
+    "color_code": "#0B1E3B"
   }
 ]
