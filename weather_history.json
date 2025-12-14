@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-12-07 10:02:49",
-    "location": {
-      "name": "Busselton",
-      "latitude": -33.64590771496801,
-      "longitude": 115.3435209254383,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-07T02:02:49+00:00",
-      "temperature_c": 21.53,
-      "temperature_f": 70.754,
-      "humidity": 58,
-      "wind_speed_mph": 9.73095,
-      "wind_direction": 311,
-      "description": "clear sky"
-    },
-    "report_summary": "Busselton wakes to a crystal-blue morning, the kind of clean, unblinking light that sharpens every e...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-12-07 12:34:41",
-    "location": {
-      "name": "West Busselton",
-      "latitude": -33.65470250543309,
-      "longitude": 115.3336729028253,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-07T04:34:40+00:00",
-      "temperature_c": 26.03,
-      "temperature_f": 78.854,
-      "humidity": 48,
-      "wind_speed_mph": 15.636630000000002,
-      "wind_direction": 269,
-      "description": "clear sky"
-    },
-    "report_summary": "West Busselton sits under a polished, blue coin of sky at midday, the light clean and unsparing. The...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-12-07 16:28:34",
     "location": {
       "name": "Busselton",
@@ -998,5 +958,25 @@
     },
     "report_summary": "Subiaco slips into late afternoon under a bruised sky, the light already thinning as a band of heavy...",
     "color_code": "#5F6D7A"
+  },
+  {
+    "timestamp": "2025-12-14 20:45:57",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968439542611,
+      "longitude": 115.8208245348275,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-14T12:45:56+00:00",
+      "temperature_c": 26.28,
+      "temperature_f": 79.304,
+      "humidity": 54,
+      "wind_speed_mph": 18.410510000000002,
+      "wind_direction": 100,
+      "description": "clear sky"
+    },
+    "report_summary": "Evening settles over Subiaco with a simple, pleasing sky: mostly clear, a few clouds drifting like q...",
+    "color_code": "#0B1D3A"
   }
 ]
