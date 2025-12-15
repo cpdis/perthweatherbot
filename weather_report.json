@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Mascot",
-            "country": "AU",
-            "latitude": -33.93599471134146,
-            "longitude": 151.1670133774279
+            "name": "Los Angeles",
+            "country": "US",
+            "latitude": 33.94066467954153,
+            "longitude": -118.3977971640087
         },
         "current_conditions": {
-            "timestamp": "2025-12-15T16:36:15+00:00",
-            "temperature_c": 17.57,
-            "temperature_f": 63.626,
-            "humidity": 81,
-            "wind_speed_mph": 1.00665,
-            "wind_direction": 189,
-            "description": "overcast clouds"
+            "timestamp": "2025-12-15T20:28:51+00:00",
+            "temperature_c": 18.08,
+            "temperature_f": 64.544,
+            "humidity": 78,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 260,
+            "description": "haze"
         },
         "forecast": [
             {
-                "startTime": "2025-12-15T18:00:00+00:00",
-                "temperature": 17.57,
-                "windSpeed": 9.73095,
-                "windDirection": 108,
-                "shortForecast": "light rain"
+                "startTime": "2025-12-15T21:00:00+00:00",
+                "temperature": 18.08,
+                "windSpeed": 8.70193,
+                "windDirection": 237,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-12-15T21:00:00+00:00",
-                "temperature": 18.04,
-                "windSpeed": 8.56771,
-                "windDirection": 101,
-                "shortForecast": "light rain"
+                "startTime": "2025-12-16T00:00:00+00:00",
+                "temperature": 17.87,
+                "windSpeed": 6.75574,
+                "windDirection": 228,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Just past midnight in Mascot, the air feels mild and a touch sticky, the sky pressed low with cloud that turns streetlights into soft halos. It\u2019s a muted, velvety night with visibility gently smudged, and by daybreak light rain moves through, keeping the horizon hazy and the sun mostly behind curtains. Expect a dim, pewter morning; sunshine will be scarce at first, with the UV staying low at dawn and only edging up later if the cloud fissures for a spell.\n\nPlan for an unhurried start. A light, breathable layer under a thin rain jacket, closed shoes with some grip, and a small umbrella will suit the early showers. The day looks gently unpleasant in that summery, damp way\u2014more languid than harsh\u2014good for a quiet tram ride to a window seat and a coffee, a library visit, a short grocery run between sprinkles, or tidying a project you can finish before lunch. If you\u2019re walking or cycling early, keep it easy and let the drizzle set the tempo; check the sky late morning to see if it softens enough for a quick errand in brighter light.",
-    "color_code": "#2C3E50",
-    "timestamp": "2025-12-16 00:36:16",
+    "weather_report": "Los Angeles wakes under a quiet pre-dawn, the sky a deep blue canvas with scattered clouds drifting like unhurried thoughts. Yesterday afternoon held the same pattern, and today looks set to reprise it: a mostly sunny day punctuated by passing cloud cover, leaving light and shadow to trade places across the streets. UV is low now and will stay gentle in the early hours, rising to moderate by midday despite the winter sun\u2019s softer angle, so sunglasses and a touch of sunscreen won\u2019t be out of place. Visibility should be clean and bright once the sun is up, with that cool morning clarity that makes colors feel honest.\n\nIt\u2019s a day for light layers: a soft sweater or a thin jacket for the chill at daybreak, peeled back to a comfortable shirt by late morning. Let it be an unhurried day\u2014an early walk for coffee, a grocery run before the traffic stirs, a midmorning read on a balcony or a quiet bench, and a simple errand loop while the sun winks through the clouds. If you\u2019re commuting, it should feel pleasant door to door; if you\u2019re staying close to home, open a window and let the air move through.",
+    "color_code": "#1F2E4A",
+    "timestamp": "2025-12-16 04:28:51",
     "location": {
-        "name": "Mascot",
-        "latitude": -33.93599471134146,
-        "longitude": 151.1670133774279,
+        "name": "Los Angeles",
+        "latitude": 33.94066467954153,
+        "longitude": -118.3977971640087,
         "timezone": "Australia/Perth"
     }
 }
