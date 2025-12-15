@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Kangiara",
+            "name": "Mascot",
             "country": "AU",
-            "latitude": -34.57459146200199,
-            "longitude": 148.7509607063003
+            "latitude": -33.93599471134146,
+            "longitude": 151.1670133774279
         },
         "current_conditions": {
-            "timestamp": "2025-12-14T20:25:31+00:00",
-            "temperature_c": 12.16,
-            "temperature_f": 53.888,
-            "humidity": 74,
-            "wind_speed_mph": 7.628170000000001,
-            "wind_direction": 269,
-            "description": "clear sky"
+            "timestamp": "2025-12-15T02:00:51+00:00",
+            "temperature_c": 22.28,
+            "temperature_f": 72.104,
+            "humidity": 59,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 110,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-14T21:00:00+00:00",
-                "temperature": 13.11,
-                "windSpeed": 8.925630000000002,
-                "windDirection": 259,
-                "shortForecast": "clear sky"
+                "startTime": "2025-12-15T03:00:00+00:00",
+                "temperature": 22.28,
+                "windSpeed": 14.22732,
+                "windDirection": 107,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-12-15T00:00:00+00:00",
-                "temperature": 14.89,
-                "windSpeed": 9.97702,
-                "windDirection": 259,
-                "shortForecast": "few clouds"
+                "startTime": "2025-12-15T06:00:00+00:00",
+                "temperature": 21.14,
+                "windSpeed": 14.697090000000001,
+                "windDirection": 133,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Kangiara wakes before dawn in a hush, the air gentle and cool, the eastern edge of the sky just beginning to pale. Forecasts promise a clean, sun-forward morning, with only a few stray clouds wandering in later. Expect a bright, open feel and sharp clarity; the sun will be forthright, and the UV will climb quickly after sunrise, likely strong by late morning, so seek shade when you can and be generous with sunscreen and a brim.\n\nIt looks like a day for unhurried starts and practical comforts: step out in a light layer at first, then ease into breathable clothes as the light strengthens; sunglasses earn their keep. Water the garden or hang a wash early, take a quiet loop on foot while the countryside is still soft and blue-edged, then tend to simple errands before the light turns hard. Toward midday, those few clouds won\u2019t do much to dull the glare, so a shaded porch, a book, and windows open to the clear air would be a good way to ride out the bright heart of the day.",
-    "color_code": "#5B7EA6",
-    "timestamp": "2025-12-15 04:25:32",
+    "weather_report": "Morning in Mascot opens with a diluted, silvery light and a sky that seems to be thinking about rain. Sunshine will be fleeting, the day tending toward a grey, soft-focus clarity with light showers likely drifting in from mid to late afternoon and lingering toward evening. Even so, it\u2019s December; the UV can still bite when the cloud thins around midday, so a hat and sunscreen are sensible companions. The air feels on the mild side of warm, a touch humid rather than crisp, more gentle than bracing.\n\nDress in breathable layers and shoes that won\u2019t complain about damp footpaths; tuck a compact umbrella or light rain shell in your bag. It\u2019s a good day for a late-morning errand run or a quiet loop through the neighborhood before the sprinkles arrive, then something unhurried under a roof: a browse at the library, a tidy of the workspace, or a simple lunch somewhere with a window where you can watch the showers come and go. If you\u2019re commuting later, give the streets a few extra minutes; they\u2019ll be slick and reflective, holding the day\u2019s pale light.",
+    "color_code": "#8AA0B2",
+    "timestamp": "2025-12-15 10:00:52",
     "location": {
-        "name": "Kangiara",
-        "latitude": -34.57459146200199,
-        "longitude": 148.7509607063003,
+        "name": "Mascot",
+        "latitude": -33.93599471134146,
+        "longitude": 151.1670133774279,
         "timezone": "Australia/Perth"
     }
 }

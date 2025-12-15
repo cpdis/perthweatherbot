@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-12-07 20:42:59",
-    "location": {
-      "name": "Busselton",
-      "latitude": -33.64562797099725,
-      "longitude": 115.3442688439169,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-07T12:33:20+00:00",
-      "temperature_c": 16.79,
-      "temperature_f": 62.221999999999994,
-      "humidity": 89,
-      "wind_speed_mph": 8.88089,
-      "wind_direction": 210,
-      "description": "clear sky"
-    },
-    "report_summary": "Busselton settles into a clear, untroubled night; the sky is open and steady, the air likely cooling...",
-    "color_code": "#0D1B2A"
-  },
-  {
-    "timestamp": "2025-12-08 00:26:58",
-    "location": {
-      "name": "Busselton",
-      "latitude": -33.64562797099725,
-      "longitude": 115.3442688439169,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-07T16:26:58+00:00",
-      "temperature_c": 15.78,
-      "temperature_f": 60.403999999999996,
-      "humidity": 94,
-      "wind_speed_mph": 5.1451,
-      "wind_direction": 178,
-      "description": "clear sky"
-    },
-    "report_summary": "Just after midnight in Busselton the sky is largely clear, the night airy and unhurried; by the smal...",
-    "color_code": "#0B1E3A"
-  },
-  {
     "timestamp": "2025-12-08 04:25:21",
     "location": {
       "name": "Busselton",
@@ -998,5 +958,25 @@
     },
     "report_summary": "Kangiara wakes before dawn in a hush, the air gentle and cool, the eastern edge of the sky just begi...",
     "color_code": "#5B7EA6"
+  },
+  {
+    "timestamp": "2025-12-15 10:00:52",
+    "location": {
+      "name": "Mascot",
+      "latitude": -33.93599471134146,
+      "longitude": 151.1670133774279,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-15T02:00:51+00:00",
+      "temperature_c": 22.28,
+      "temperature_f": 72.104,
+      "humidity": 59,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 110,
+      "description": "broken clouds"
+    },
+    "report_summary": "Morning in Mascot opens with a diluted, silvery light and a sky that seems to be thinking about rain...",
+    "color_code": "#8AA0B2"
   }
 ]
