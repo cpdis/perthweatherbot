@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-08 04:25:21",
-    "location": {
-      "name": "Busselton",
-      "latitude": -33.64562797099725,
-      "longitude": 115.3442688439169,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-07T20:25:20+00:00",
-      "temperature_c": 17.63,
-      "temperature_f": 63.733999999999995,
-      "humidity": 91,
-      "wind_speed_mph": 8.76904,
-      "wind_direction": 179,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Busselton wakes under a quilt of dull cloud, the early hours hushed and cool, with the sea and stree...",
-    "color_code": "#6E7A86"
-  },
-  {
     "timestamp": "2025-12-08 09:55:00",
     "location": {
       "name": "Busselton",
@@ -978,5 +958,25 @@
     },
     "report_summary": "Morning in Mascot opens with a diluted, silvery light and a sky that seems to be thinking about rain...",
     "color_code": "#8AA0B2"
+  },
+  {
+    "timestamp": "2025-12-15 12:44:08",
+    "location": {
+      "name": "Mascot",
+      "latitude": -33.93599471134146,
+      "longitude": 151.1670133774279,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-15T04:44:08+00:00",
+      "temperature_c": 22.2,
+      "temperature_f": 71.96,
+      "humidity": 60,
+      "wind_speed_mph": 18.410510000000002,
+      "wind_direction": 110,
+      "description": "broken clouds"
+    },
+    "report_summary": "Early afternoon in Mascot feels warm and a touch humid, the light a pale silver where clouds soften ...",
+    "color_code": "#89A6C8"
   }
 ]
