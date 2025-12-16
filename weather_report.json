@@ -3,42 +3,42 @@
         "location": {
             "name": "Katy",
             "country": "US",
-            "latitude": 29.72342643046705,
-            "longitude": -95.83348325161094
+            "latitude": 29.7437282,
+            "longitude": -95.77677739999999
         },
         "current_conditions": {
-            "timestamp": "2025-12-16T16:34:19+00:00",
-            "temperature_c": 15.73,
-            "temperature_f": 60.314,
-            "humidity": 70,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 150,
+            "timestamp": "2025-12-16T20:29:12+00:00",
+            "temperature_c": 18.72,
+            "temperature_f": 65.696,
+            "humidity": 66,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 160,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-16T18:00:00+00:00",
-                "temperature": 15.73,
-                "windSpeed": 8.88089,
-                "windDirection": 157,
+                "startTime": "2025-12-16T21:00:00+00:00",
+                "temperature": 18.72,
+                "windSpeed": 8.32164,
+                "windDirection": 162,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-12-16T21:00:00+00:00",
-                "temperature": 16.25,
-                "windSpeed": 7.47158,
-                "windDirection": 163,
+                "startTime": "2025-12-17T00:00:00+00:00",
+                "temperature": 17.23,
+                "windSpeed": 6.4873,
+                "windDirection": 130,
                 "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Midnight settles softly over Katy, the sky mostly clear after a bright, clean noon and a late-afternoon sweep of scattered clouds. Sunlight earlier was generous without bite, the sort that warms a windshield and leaves the UV index modest for winter; now it\u2019s dropped to nothing, and the night feels unhurried and transparent, stars slipping through the thinner patches.\n\nIt\u2019s a pleasant, easy night: cool enough for long sleeves or a light jacket, maybe a soft sweater if you linger. Good weather for a quiet lap around the block, to set out the bins, to listen to the hush between streetlights, or to stand in the driveway and count the constellations you still remember. If you\u2019re up late, brew something gentle and let the stillness work on you; tomorrow will come soon enough.",
-    "color_code": "#0b1f3a",
-    "timestamp": "2025-12-17 00:34:19",
+    "weather_report": "Katy wakes before dawn under a mostly clear sky, the last wisps of last night\u2019s scattered clouds thinning into the dark-blue quiet. The air feels calm and dry, the streets still, and there\u2019s a sense that sunrise will lift a clean, bright light over town rather than anything brooding. It looks like an easy morning with good visibility and little haze, the kind of clarity that makes rooftops and bare branches seem neatly outlined.\n\nThrough the day, expect generous sunshine with a few friendly clouds drifting by. The winter sun will be bright but not fierce; UV is low now and should only become modest around midday, enough for sunglasses and a dab of sunscreen if you\u2019ll linger outside. It reads as a pleasant, unhurried day. Dress in light layers\u2014a sweater or a soft jacket for the early commute, something you can peel back when the sun warms the sidewalks. Good choices are ordinary ones: open the blinds and let the light in, take a short walk after sunrise, run a couple of errands late morning, or give the car a rinse and let it dry in the clear air. Later, a quiet lunch by a window or a few pages of a book in a sunny corner would suit the mood.",
+    "color_code": "#163E6D",
+    "timestamp": "2025-12-17 04:29:12",
     "location": {
         "name": "Katy",
-        "latitude": 29.72342643046705,
-        "longitude": -95.83348325161094,
+        "latitude": 29.7437282,
+        "longitude": -95.77677739999999,
         "timezone": "Australia/Perth"
     }
 }

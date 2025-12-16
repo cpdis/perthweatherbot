@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-09 16:35:14",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95397918206296,
-      "longitude": 115.8525986443203,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-09T08:25:13+00:00",
-      "temperature_c": 26.51,
-      "temperature_f": 79.718,
-      "humidity": 49,
-      "wind_speed_mph": 18.410510000000002,
-      "wind_direction": 230,
-      "description": "clear sky"
-    },
-    "report_summary": "Late afternoon in Perth sits under a polished blue dome with not a cloud to trouble it. The sun stil...",
-    "color_code": "#FDB813"
-  },
-  {
     "timestamp": "2025-12-09 20:52:30",
     "location": {
       "name": "Subiaco",
@@ -1018,5 +998,25 @@
     },
     "report_summary": "Midnight settles softly over Katy, the sky mostly clear after a bright, clean noon and a late-aftern...",
     "color_code": "#0b1f3a"
+  },
+  {
+    "timestamp": "2025-12-17 04:29:12",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.7437282,
+      "longitude": -95.77677739999999,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-16T20:29:12+00:00",
+      "temperature_c": 18.72,
+      "temperature_f": 65.696,
+      "humidity": 66,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 160,
+      "description": "clear sky"
+    },
+    "report_summary": "Katy wakes before dawn under a mostly clear sky, the last wisps of last night\u2019s scattered clouds thi...",
+    "color_code": "#163E6D"
   }
 ]
