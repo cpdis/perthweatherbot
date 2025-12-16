@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-12-08 20:51:08",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968744739739,
-      "longitude": 115.8208396929434,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-08T12:51:07+00:00",
-      "temperature_c": 20.28,
-      "temperature_f": 68.504,
-      "humidity": 72,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 210,
-      "description": "clear sky"
-    },
-    "report_summary": "Night has come to Subiaco with a quiet, open sky and just a few stray clouds sliding by; the stars f...",
-    "color_code": "#1A2238"
-  },
-  {
-    "timestamp": "2025-12-09 00:32:46",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968744739739,
-      "longitude": 115.8208396929434,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-08T16:32:45+00:00",
-      "temperature_c": 19.39,
-      "temperature_f": 66.902,
-      "humidity": 72,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 200,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco is wrapped in a quiet, lucid night; the sky is clear and the air has that gentle, pared-back...",
-    "color_code": "#0B1D3A"
-  },
-  {
     "timestamp": "2025-12-09 04:27:40",
     "location": {
       "name": "Subiaco",
@@ -1018,5 +978,25 @@
     },
     "report_summary": "Los Angeles wakes under a quiet pre-dawn, the sky a deep blue canvas with scattered clouds drifting ...",
     "color_code": "#1F2E4A"
+  },
+  {
+    "timestamp": "2025-12-16 09:57:20",
+    "location": {
+      "name": "Houston",
+      "latitude": 29.98652621915488,
+      "longitude": -95.33885710593229,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-16T01:57:20+00:00",
+      "temperature_c": 7.13,
+      "temperature_f": 44.834,
+      "humidity": 63,
+      "wind_speed_mph": 1.00665,
+      "wind_direction": 52,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Late morning in Houston arrives under a seamless lid of cloud, the light cooled and grainy, colors a...",
+    "color_code": "#9AA0A6"
   }
 ]

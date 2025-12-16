@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Los Angeles",
+            "name": "Houston",
             "country": "US",
-            "latitude": 33.94066467954153,
-            "longitude": -118.3977971640087
+            "latitude": 29.98652621915488,
+            "longitude": -95.33885710593229
         },
         "current_conditions": {
-            "timestamp": "2025-12-15T20:28:51+00:00",
-            "temperature_c": 18.08,
-            "temperature_f": 64.544,
-            "humidity": 78,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 260,
-            "description": "haze"
+            "timestamp": "2025-12-16T01:57:20+00:00",
+            "temperature_c": 7.13,
+            "temperature_f": 44.834,
+            "humidity": 63,
+            "wind_speed_mph": 1.00665,
+            "wind_direction": 52,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-15T21:00:00+00:00",
-                "temperature": 18.08,
-                "windSpeed": 8.70193,
-                "windDirection": 237,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-12-16T03:00:00+00:00",
+                "temperature": 7.13,
+                "windSpeed": 5.79383,
+                "windDirection": 138,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2025-12-16T00:00:00+00:00",
-                "temperature": 17.87,
-                "windSpeed": 6.75574,
-                "windDirection": 228,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-12-16T06:00:00+00:00",
+                "temperature": 6.91,
+                "windSpeed": 4.85429,
+                "windDirection": 168,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Los Angeles wakes under a quiet pre-dawn, the sky a deep blue canvas with scattered clouds drifting like unhurried thoughts. Yesterday afternoon held the same pattern, and today looks set to reprise it: a mostly sunny day punctuated by passing cloud cover, leaving light and shadow to trade places across the streets. UV is low now and will stay gentle in the early hours, rising to moderate by midday despite the winter sun\u2019s softer angle, so sunglasses and a touch of sunscreen won\u2019t be out of place. Visibility should be clean and bright once the sun is up, with that cool morning clarity that makes colors feel honest.\n\nIt\u2019s a day for light layers: a soft sweater or a thin jacket for the chill at daybreak, peeled back to a comfortable shirt by late morning. Let it be an unhurried day\u2014an early walk for coffee, a grocery run before the traffic stirs, a midmorning read on a balcony or a quiet bench, and a simple errand loop while the sun winks through the clouds. If you\u2019re commuting, it should feel pleasant door to door; if you\u2019re staying close to home, open a window and let the air move through.",
-    "color_code": "#1F2E4A",
-    "timestamp": "2025-12-16 04:28:51",
+    "weather_report": "Late morning in Houston arrives under a seamless lid of cloud, the light cooled and grainy, colors a shade quieter than usual. The forecast shows overcast carrying in from the night, so sunshine will be scarce; if it glances through at all, expect it to be brief and muted. UV index stays low under this kind of blanket in December, so glare and hard shadows are unlikely. The air feels settled rather than sharp, with the horizon a touch smudged but visibility otherwise fine.\n\nIt\u2019s a day for easy layers: long sleeves, a light jacket or cardigan, maybe a thin shell if you\u2019ll be out for hours, and comfortable shoes. Lean into the gray and do the gentle tasks it favors: a late-morning coffee run, a quiet lap through the grocery, a library hold pickup, tidying a workspace by the window, or a short neighborhood walk to reset the mind if the sidewalks are dry. Sunglasses can stay pocketed; let the soft light set the tempo.",
+    "color_code": "#9AA0A6",
+    "timestamp": "2025-12-16 09:57:20",
     "location": {
-        "name": "Los Angeles",
-        "latitude": 33.94066467954153,
-        "longitude": -118.3977971640087,
+        "name": "Houston",
+        "latitude": 29.98652621915488,
+        "longitude": -95.33885710593229,
         "timezone": "Australia/Perth"
     }
 }
