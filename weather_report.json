@@ -7,34 +7,34 @@
             "longitude": -95.33885710593229
         },
         "current_conditions": {
-            "timestamp": "2025-12-16T01:57:20+00:00",
-            "temperature_c": 7.13,
-            "temperature_f": 44.834,
-            "humidity": 63,
-            "wind_speed_mph": 1.00665,
-            "wind_direction": 52,
-            "description": "overcast clouds"
+            "timestamp": "2025-12-16T04:38:09+00:00",
+            "temperature_c": 6.69,
+            "temperature_f": 44.042,
+            "humidity": 67,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 180,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-16T03:00:00+00:00",
-                "temperature": 7.13,
-                "windSpeed": 5.79383,
-                "windDirection": 138,
-                "shortForecast": "overcast clouds"
-            },
-            {
                 "startTime": "2025-12-16T06:00:00+00:00",
-                "temperature": 6.91,
+                "temperature": 6.69,
                 "windSpeed": 4.85429,
                 "windDirection": 168,
-                "shortForecast": "overcast clouds"
+                "shortForecast": "scattered clouds"
+            },
+            {
+                "startTime": "2025-12-16T09:00:00+00:00",
+                "temperature": 6.42,
+                "windSpeed": 2.48307,
+                "windDirection": 148,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Late morning in Houston arrives under a seamless lid of cloud, the light cooled and grainy, colors a shade quieter than usual. The forecast shows overcast carrying in from the night, so sunshine will be scarce; if it glances through at all, expect it to be brief and muted. UV index stays low under this kind of blanket in December, so glare and hard shadows are unlikely. The air feels settled rather than sharp, with the horizon a touch smudged but visibility otherwise fine.\n\nIt\u2019s a day for easy layers: long sleeves, a light jacket or cardigan, maybe a thin shell if you\u2019ll be out for hours, and comfortable shoes. Lean into the gray and do the gentle tasks it favors: a late-morning coffee run, a quiet lap through the grocery, a library hold pickup, tidying a workspace by the window, or a short neighborhood walk to reset the mind if the sidewalks are dry. Sunglasses can stay pocketed; let the soft light set the tempo.",
-    "color_code": "#9AA0A6",
-    "timestamp": "2025-12-16 09:57:20",
+    "weather_report": "Midday in Houston arrives under a gauzy sky, the sun coming and going as scattered clouds thicken into broader patches. Light slips through in gentle sheets rather than sharp glare, so the UV feels tempered for December, though the noon sun still asks for a touch of sunscreen and maybe sunglasses when the breaks appear. The air reads clear, the horizon a little softened by the quilt of cloud, lending the day a calm, reflective mood rather than a dazzling one.\n\nExpect this mixed, partly to mostly cloudy character to linger through the afternoon with occasional bright openings. It\u2019s a day for light layers and a pocketable jacket, easy to shed when the sun tilts warmer. Consider an unhurried coffee run, a quiet stroll to mail something you\u2019ve been meaning to send, or a brief lap around the block between tasks. A museum hour, a bookstore browse, or reorganizing a corner by the window would suit the softened light. If you\u2019re out, errands will feel kinder without the blaze.",
+    "color_code": "#A5B7C8",
+    "timestamp": "2025-12-16 12:38:09",
     "location": {
         "name": "Houston",
         "latitude": 29.98652621915488,

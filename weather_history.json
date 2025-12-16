@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-09 04:27:40",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968744739739,
-      "longitude": 115.8208396929434,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-08T20:27:40+00:00",
-      "temperature_c": 17.87,
-      "temperature_f": 64.166,
-      "humidity": 70,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 120,
-      "description": "clear sky"
-    },
-    "report_summary": "A clear, quiet pre-dawn sits over Subiaco, the air gentle and unhurried, the sky rinsing from charco...",
-    "color_code": "#A4C8F0"
-  },
-  {
     "timestamp": "2025-12-09 09:54:23",
     "location": {
       "name": "Subiaco",
@@ -998,5 +978,25 @@
     },
     "report_summary": "Late morning in Houston arrives under a seamless lid of cloud, the light cooled and grainy, colors a...",
     "color_code": "#9AA0A6"
+  },
+  {
+    "timestamp": "2025-12-16 12:38:09",
+    "location": {
+      "name": "Houston",
+      "latitude": 29.98652621915488,
+      "longitude": -95.33885710593229,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-16T04:38:09+00:00",
+      "temperature_c": 6.69,
+      "temperature_f": 44.042,
+      "humidity": 67,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 180,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Midday in Houston arrives under a gauzy sky, the sun coming and going as scattered clouds thicken in...",
+    "color_code": "#A5B7C8"
   }
 ]
