@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-12-09 09:54:23",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968613350051,
-      "longitude": 115.820952283497,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-09T01:54:23+00:00",
-      "temperature_c": 25.26,
-      "temperature_f": 77.468,
-      "humidity": 51,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 110,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes under a scrubbed, enamel-blue sky, the sort of clear that sharpens edges and lifts moo...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-12-09 12:31:52",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.9540109967326,
-      "longitude": 115.8525810558012,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-09T04:26:49+00:00",
-      "temperature_c": 27.63,
-      "temperature_f": 81.734,
-      "humidity": 45,
-      "wind_speed_mph": 13.802290000000001,
-      "wind_direction": 240,
-      "description": "clear sky"
-    },
-    "report_summary": "Perth sits under a faultless bowl of blue at midday, the sun bright and unwavering, shadows cut like...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-12-09 16:35:14",
     "location": {
       "name": "Perth",
@@ -1018,5 +978,25 @@
     },
     "report_summary": "Late afternoon in Houston arrives with a soft, pewter light. The day opened with scattered, playful ...",
     "color_code": "#7F8A96"
+  },
+  {
+    "timestamp": "2025-12-16 20:53:30",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.72344188427916,
+      "longitude": -95.83348003372039,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-16T12:53:30+00:00",
+      "temperature_c": 5.2,
+      "temperature_f": 41.36,
+      "humidity": 88,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 100,
+      "description": "clear sky"
+    },
+    "report_summary": "Evening settles over Katy with a soft, pewter ceiling, the kind that catches distant streetlights an...",
+    "color_code": "#4A596B"
   }
 ]
