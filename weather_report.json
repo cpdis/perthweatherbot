@@ -7,34 +7,34 @@
             "longitude": -95.83344654279207
         },
         "current_conditions": {
-            "timestamp": "2025-12-17T01:52:55+00:00",
-            "temperature_c": 15.78,
-            "temperature_f": 60.403999999999996,
-            "humidity": 79,
-            "wind_speed_mph": 8.0532,
+            "timestamp": "2025-12-17T04:29:31+00:00",
+            "temperature_c": 15.25,
+            "temperature_f": 59.45,
+            "humidity": 89,
+            "wind_speed_mph": 6.91233,
             "wind_direction": 140,
-            "description": "overcast clouds"
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-17T03:00:00+00:00",
-                "temperature": 15.78,
-                "windSpeed": 8.76904,
-                "windDirection": 126,
-                "shortForecast": "light rain"
-            },
-            {
                 "startTime": "2025-12-17T06:00:00+00:00",
-                "temperature": 14.69,
+                "temperature": 15.18,
                 "windSpeed": 9.05985,
                 "windDirection": 137,
-                "shortForecast": "overcast clouds"
+                "shortForecast": "few clouds"
+            },
+            {
+                "startTime": "2025-12-17T09:00:00+00:00",
+                "temperature": 14.12,
+                "windSpeed": 3.46735,
+                "windDirection": 99,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Morning settles over Katy under a soft gray ceiling. Overnight light rain has eased, leaving the streets darkened and the air a little silken and cool; clouds hold steady, muting the sun and keeping the UV index low. The day looks clear in a quiet way\u2014visibility fine, shadows scarce, edges softened by the overcast. It\u2019s not a dramatic sky, more a thoughtful one, the sort that invites a slower pace and makes colors in the trees and storefronts look richer.\n\nExpect the clouds to linger most of the day with only a slim chance of a stray sprinkle, the kind that vanishes before you can open an umbrella. Dress in light layers with a thin waterproof or windproof shell and comfortable shoes for damp pavement. This is a good morning for ordinary pleasures: a deliberate grocery run, a tidy-up of the workspace, a coffee unhurried at a corner table, or a short neighborhood walk where the lack of glare makes the world easy on the eyes. If you\u2019re heading out later, plan outdoor time without worrying about sun exposure; the sky will keep its gentle lid on things.",
-    "color_code": "#708090",
-    "timestamp": "2025-12-17 09:52:56",
+    "weather_report": "After a quiet, lightly clouded dawn and a small-hours sprinkle, Katy eases into early afternoon under a changeable sky. Expect sun to slip in and out from behind scattered clouds rather than blaze; in December the UV tends to be gentle to moderate, rising a touch if the cover thins, but nothing like summer\u2019s sharpness. The air should feel clear between patches of cloud, with any stray drips more of a soft interruption than a soak, making the day modestly pleasant if not dazzling. Dress in light layers with a thin jacket you can shed, and keep a compact umbrella handy just in case. This is good weather for ordinary errands done at an unhurried pace, a bookstore browse, a coffee you actually sit with, or a short neighborhood loop when the light looks kind. If you\u2019re sensitive to sun, a dab of sunscreen won\u2019t go amiss, though today\u2019s light is more silvery than stern.",
+    "color_code": "#A3B6C6",
+    "timestamp": "2025-12-17 12:35:53",
     "location": {
         "name": "Katy",
         "latitude": 29.7233967520847,
