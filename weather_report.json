@@ -3,42 +3,42 @@
         "location": {
             "name": "Katy",
             "country": "US",
-            "latitude": 29.7437282,
-            "longitude": -95.77677739999999
+            "latitude": 29.7233967520847,
+            "longitude": -95.83344654279207
         },
         "current_conditions": {
-            "timestamp": "2025-12-16T20:29:12+00:00",
-            "temperature_c": 18.72,
-            "temperature_f": 65.696,
-            "humidity": 66,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 160,
-            "description": "clear sky"
+            "timestamp": "2025-12-17T01:52:55+00:00",
+            "temperature_c": 15.78,
+            "temperature_f": 60.403999999999996,
+            "humidity": 79,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 140,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-16T21:00:00+00:00",
-                "temperature": 18.72,
-                "windSpeed": 8.32164,
-                "windDirection": 162,
-                "shortForecast": "clear sky"
+                "startTime": "2025-12-17T03:00:00+00:00",
+                "temperature": 15.78,
+                "windSpeed": 8.76904,
+                "windDirection": 126,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-12-17T00:00:00+00:00",
-                "temperature": 17.23,
-                "windSpeed": 6.4873,
-                "windDirection": 130,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-12-17T06:00:00+00:00",
+                "temperature": 14.69,
+                "windSpeed": 9.05985,
+                "windDirection": 137,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Katy wakes before dawn under a mostly clear sky, the last wisps of last night\u2019s scattered clouds thinning into the dark-blue quiet. The air feels calm and dry, the streets still, and there\u2019s a sense that sunrise will lift a clean, bright light over town rather than anything brooding. It looks like an easy morning with good visibility and little haze, the kind of clarity that makes rooftops and bare branches seem neatly outlined.\n\nThrough the day, expect generous sunshine with a few friendly clouds drifting by. The winter sun will be bright but not fierce; UV is low now and should only become modest around midday, enough for sunglasses and a dab of sunscreen if you\u2019ll linger outside. It reads as a pleasant, unhurried day. Dress in light layers\u2014a sweater or a soft jacket for the early commute, something you can peel back when the sun warms the sidewalks. Good choices are ordinary ones: open the blinds and let the light in, take a short walk after sunrise, run a couple of errands late morning, or give the car a rinse and let it dry in the clear air. Later, a quiet lunch by a window or a few pages of a book in a sunny corner would suit the mood.",
-    "color_code": "#163E6D",
-    "timestamp": "2025-12-17 04:29:12",
+    "weather_report": "Morning settles over Katy under a soft gray ceiling. Overnight light rain has eased, leaving the streets darkened and the air a little silken and cool; clouds hold steady, muting the sun and keeping the UV index low. The day looks clear in a quiet way\u2014visibility fine, shadows scarce, edges softened by the overcast. It\u2019s not a dramatic sky, more a thoughtful one, the sort that invites a slower pace and makes colors in the trees and storefronts look richer.\n\nExpect the clouds to linger most of the day with only a slim chance of a stray sprinkle, the kind that vanishes before you can open an umbrella. Dress in light layers with a thin waterproof or windproof shell and comfortable shoes for damp pavement. This is a good morning for ordinary pleasures: a deliberate grocery run, a tidy-up of the workspace, a coffee unhurried at a corner table, or a short neighborhood walk where the lack of glare makes the world easy on the eyes. If you\u2019re heading out later, plan outdoor time without worrying about sun exposure; the sky will keep its gentle lid on things.",
+    "color_code": "#708090",
+    "timestamp": "2025-12-17 09:52:56",
     "location": {
         "name": "Katy",
-        "latitude": 29.7437282,
-        "longitude": -95.77677739999999,
+        "latitude": 29.7233967520847,
+        "longitude": -95.83344654279207,
         "timezone": "Australia/Perth"
     }
 }

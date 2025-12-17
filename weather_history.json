@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-12-09 20:52:30",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967955234673,
-      "longitude": 115.8206485462303,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-09T12:52:30+00:00",
-      "temperature_c": 21.85,
-      "temperature_f": 71.33,
-      "humidity": 69,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 210,
-      "description": "clear sky"
-    },
-    "report_summary": "Evening settles over Subiaco with a glass-clear sky, the last ember of twilight long gone and the fi...",
-    "color_code": "#0b1e3a"
-  },
-  {
-    "timestamp": "2025-12-10 00:31:57",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967955234673,
-      "longitude": 115.8206485462303,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-09T16:31:57+00:00",
-      "temperature_c": 20.96,
-      "temperature_f": 69.72800000000001,
-      "humidity": 58,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 110,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco is settled and quiet under a flawless night sky, the air clear and a touch crisp, the kind o...",
-    "color_code": "#0A2342"
-  },
-  {
     "timestamp": "2025-12-10 04:24:49",
     "location": {
       "name": "Subiaco",
@@ -1018,5 +978,25 @@
     },
     "report_summary": "Katy wakes before dawn under a mostly clear sky, the last wisps of last night\u2019s scattered clouds thi...",
     "color_code": "#163E6D"
+  },
+  {
+    "timestamp": "2025-12-17 09:52:56",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.7233967520847,
+      "longitude": -95.83344654279207,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-17T01:52:55+00:00",
+      "temperature_c": 15.78,
+      "temperature_f": 60.403999999999996,
+      "humidity": 79,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 140,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Morning settles over Katy under a soft gray ceiling. Overnight light rain has eased, leaving the str...",
+    "color_code": "#708090"
   }
 ]
