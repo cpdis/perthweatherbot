@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-12-10 09:56:13",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969325160245,
-      "longitude": 115.8206370927423,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-10T01:56:12+00:00",
-      "temperature_c": 27.37,
-      "temperature_f": 81.266,
-      "humidity": 44,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 90,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco slides into late morning under a clean, hard blue, the kind of sky that leaves no fingerprin...",
-    "color_code": "#87CEFA"
-  },
-  {
-    "timestamp": "2025-12-10 12:35:48",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968620270319,
-      "longitude": 115.820916076971,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-10T04:27:06+00:00",
-      "temperature_c": 31.91,
-      "temperature_f": 89.438,
-      "humidity": 29,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 60,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco sits under a clean, unsmudged sky at midday, the kind of light that sharpens edges and turns...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-12-10 16:33:53",
     "location": {
       "name": "Subiaco",
@@ -1018,5 +978,25 @@
     },
     "report_summary": "Katy woke to light rain, and the afternoon still feels washed and hushed, the streets a little slick...",
     "color_code": "#708090"
+  },
+  {
+    "timestamp": "2025-12-17 20:53:27",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.71911819818681,
+      "longitude": -95.8171837985398,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-17T12:53:26+00:00",
+      "temperature_c": 16.26,
+      "temperature_f": 61.268,
+      "humidity": 95,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 90,
+      "description": "mist"
+    },
+    "report_summary": "Evening settles over Katy with a soft hiss, the streets still glistening from light rain that came t...",
+    "color_code": "#4C5E6A"
   }
 ]
