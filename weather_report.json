@@ -3,42 +3,42 @@
         "location": {
             "name": "Katy",
             "country": "US",
-            "latitude": 29.72342335460167,
-            "longitude": -95.8334436744536
+            "latitude": 29.72342434021943,
+            "longitude": -95.83344506647119
         },
         "current_conditions": {
-            "timestamp": "2025-12-17T16:34:15+00:00",
-            "temperature_c": 17.55,
-            "temperature_f": 63.59,
-            "humidity": 96,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 150,
-            "description": "mist"
+            "timestamp": "2025-12-17T20:29:10+00:00",
+            "temperature_c": 19.49,
+            "temperature_f": 67.082,
+            "humidity": 88,
+            "wind_speed_mph": 6.91233,
+            "wind_direction": 140,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-17T18:00:00+00:00",
-                "temperature": 17.55,
-                "windSpeed": 10.08887,
-                "windDirection": 120,
+                "startTime": "2025-12-17T21:00:00+00:00",
+                "temperature": 19.49,
+                "windSpeed": 13.15356,
+                "windDirection": 133,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2025-12-17T21:00:00+00:00",
-                "temperature": 18.02,
-                "windSpeed": 8.32164,
-                "windDirection": 121,
-                "shortForecast": "light rain"
+                "startTime": "2025-12-18T00:00:00+00:00",
+                "temperature": 19.16,
+                "windSpeed": 8.67956,
+                "windDirection": 119,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "After midnight in Katy, the evening\u2019s light rain has left the streets lacquered and quiet, and the sky is a washed slate with no hint of moon or star. The air feels gently cool and a little damp, with visibility softened at the edges. There\u2019s no sunshine to be had at this hour, and the UV index is essentially asleep; the mood is subdued, reflective, and good for unhurried breaths on a doorstep or a lamp-lit page indoors.\n\nGiven the recent pattern of light showers through the afternoon and early evening, expect a muted start to the day: clouds lingering, perhaps a passing sprinkle, and any sun arriving filtered and shy, keeping the UV low unless the ceiling thins later. Dress for the in-between\u2014breathable layers, a light rain jacket, shoes that don\u2019t mind a puddle. It\u2019s a day for quiet, ordinary tasks: a slow coffee before dawn, a short umbrella walk between showers, a tidy-up of the desk, a grocery run when the radar looks friendly. If you\u2019re driving early, leave a little extra time for slick patches and the occasional wavering mist.",
-    "color_code": "#3B4E5C",
-    "timestamp": "2025-12-18 00:34:16",
+    "weather_report": "Katy wakes under a quiet, pre-dawn lid of cloud, the streets still holding last evening\u2019s damp like a memory. The sky is fractured rather than clear, more pewter than pearl, and the air feels gentle, unrushed. Sun won\u2019t have much to say at first; expect a muted sunrise with only occasional pale breaks. UV is essentially asleep now and will stay modest later unless the ceiling thins. Visibility is steady but softened at the edges, as if the town is taking its time to come into focus.\n\nDress with easy layers and a light jacket, and choose shoes that don\u2019t mind a wet curb. An umbrella can rest by the door; you probably won\u2019t need it, but the sky keeps its own counsel. For this hour, a simple routine fits: a slow walk around the block to hear the quiet tires of the world, a fresh pot of coffee, maybe an early errand while the day is still cool. Let the morning be practical and unhurried, ready to brighten if the clouds allow.",
+    "color_code": "#2E3947",
+    "timestamp": "2025-12-18 04:29:10",
     "location": {
         "name": "Katy",
-        "latitude": 29.72342335460167,
-        "longitude": -95.8334436744536,
+        "latitude": 29.72342434021943,
+        "longitude": -95.83344506647119,
         "timezone": "Australia/Perth"
     }
 }
