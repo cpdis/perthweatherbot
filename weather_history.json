@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-10 16:33:53",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968718204299,
-      "longitude": 115.8209166959242,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-10T08:33:53+00:00",
-      "temperature_c": 24.44,
-      "temperature_f": 75.992,
-      "humidity": 69,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 230,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco leans into late afternoon under an immaculate, rinsed-blue sky. The day has been all sun, an...",
-    "color_code": "#F2B880"
-  },
-  {
     "timestamp": "2025-12-10 20:53:10",
     "location": {
       "name": "Subiaco",
@@ -998,5 +978,25 @@
     },
     "report_summary": "Evening settles over Katy with a soft hiss, the streets still glistening from light rain that came t...",
     "color_code": "#4C5E6A"
+  },
+  {
+    "timestamp": "2025-12-18 00:34:16",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.72342335460167,
+      "longitude": -95.8334436744536,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-17T16:34:15+00:00",
+      "temperature_c": 17.55,
+      "temperature_f": 63.59,
+      "humidity": 96,
+      "wind_speed_mph": 9.21644,
+      "wind_direction": 150,
+      "description": "mist"
+    },
+    "report_summary": "After midnight in Katy, the evening\u2019s light rain has left the streets lacquered and quiet, and the s...",
+    "color_code": "#3B4E5C"
   }
 ]
