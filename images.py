@@ -78,6 +78,9 @@ Square 1080x1080 dimension."""
         if not response.candidates:
             raise ImageGenerationError("No candidates in response")
 
+        if not response.parts:
+            raise ImageGenerationError("No parts in response")
+
         for part in response.parts:
             if part.inline_data is not None and part.inline_data.data is not None:
                 with open(image_path, "wb") as f:
