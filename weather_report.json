@@ -3,42 +3,42 @@
         "location": {
             "name": "Katy",
             "country": "US",
-            "latitude": 29.7234990981316,
-            "longitude": -95.83344042660873
+            "latitude": 29.72342487492703,
+            "longitude": -95.83344729587496
         },
         "current_conditions": {
-            "timestamp": "2025-12-18T12:51:38+00:00",
-            "temperature_c": 17.43,
-            "temperature_f": 63.374,
-            "humidity": 97,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 210,
-            "description": "mist"
+            "timestamp": "2025-12-18T16:35:16+00:00",
+            "temperature_c": 20.39,
+            "temperature_f": 68.702,
+            "humidity": 90,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 240,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-18T15:00:00+00:00",
-                "temperature": 17.63,
-                "windSpeed": 9.194070000000002,
-                "windDirection": 233,
+                "startTime": "2025-12-18T18:00:00+00:00",
+                "temperature": 20.39,
+                "windSpeed": 14.339170000000001,
+                "windDirection": 240,
                 "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2025-12-18T18:00:00+00:00",
-                "temperature": 21.07,
-                "windSpeed": 14.339170000000001,
-                "windDirection": 240,
+                "startTime": "2025-12-18T21:00:00+00:00",
+                "temperature": 21.46,
+                "windSpeed": 15.09975,
+                "windDirection": 281,
                 "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "In Katy today the sun played shy, filtered through a quilt of cloud that eased from a solid gray this morning into a looser, brighter patchwork by midday. The light stayed soft and forgiving, UV low and unhurried, the kind that makes colors look truer and edges less sharp. By tonight the sky returns to a muted lid, with only occasional thin breaks; the air feels steady and quiet rather than harsh. It\u2019s a day that reads as gently pleasant rather than dazzling: not much glare, no real bite, a good companion for unhurried errands and small comforts. Dress in easy layers\u2014a long-sleeve shirt with a light jacket you can pocket when you warm up\u2014and save the heavy sunscreen for another day. At this hour, consider a slow neighborhood walk, a short grocery run for staples you forgot, or a tidy-up of the desk while a pot of tea hums along; let the evening do what it does best, which is calm the room.",
-    "color_code": "#2E3A47",
-    "timestamp": "2025-12-18 20:51:39",
+    "weather_report": "Just after midnight in Katy, the town settles under a soft lid of cloud. Earlier, the day wore a gray felt\u2014overcast at midday, loosening to broken clouds by late afternoon\u2014so sunshine came filtered and shy, and the UV stayed subdued; now, under the night, it is essentially absent. The air feels calm and ordinary, visibility decent but not crystalline, the kind of sky that muffles edges and keeps the world hushed.\n\nToward morning, expect the mood to linger: patchy cloud with occasional openings, the sun more silvery than bold and the UV likely modest for the season. Dress in light, adjustable layers\u2014a soft sweater or a light jacket you can shrug off if the day brightens\u2014and comfortable shoes for errands or a gentle walk. Sunglasses may be a nice-to-have if the breaks widen, but not essential. It\u2019s a good window-watching day: make a slow breakfast, sort a drawer, write a note you\u2019ve been meaning to send, or take a late-morning stroll when the light feels kind and even. If the ceiling lifts, sit on the porch for a few unhurried minutes and let the muted daylight do its quiet work.",
+    "color_code": "#22303c",
+    "timestamp": "2025-12-19 00:35:16",
     "location": {
         "name": "Katy",
-        "latitude": 29.7234990981316,
-        "longitude": -95.83344042660873,
+        "latitude": 29.72342487492703,
+        "longitude": -95.83344729587496,
         "timezone": "Australia/Perth"
     }
 }

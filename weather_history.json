@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-11 16:34:43",
-    "location": {
-      "name": "Kings Park",
-      "latitude": -31.95957199467183,
-      "longitude": 115.8437675427619,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-11T08:34:42+00:00",
-      "temperature_c": 30.85,
-      "temperature_f": 87.53,
-      "humidity": 44,
-      "wind_speed_mph": 19.57375,
-      "wind_direction": 230,
-      "description": "clear sky"
-    },
-    "report_summary": "Kings Park has spent the day under a polished, unbroken sky\u2014bright from morning through noon, the ki...",
-    "color_code": "#F2C66D"
-  },
-  {
     "timestamp": "2025-12-11 20:54:20",
     "location": {
       "name": "Subiaco",
@@ -998,5 +978,25 @@
     },
     "report_summary": "In Katy today the sun played shy, filtered through a quilt of cloud that eased from a solid gray thi...",
     "color_code": "#2E3A47"
+  },
+  {
+    "timestamp": "2025-12-19 00:35:16",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.72342487492703,
+      "longitude": -95.83344729587496,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-18T16:35:16+00:00",
+      "temperature_c": 20.39,
+      "temperature_f": 68.702,
+      "humidity": 90,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 240,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Just after midnight in Katy, the town settles under a soft lid of cloud. Earlier, the day wore a gra...",
+    "color_code": "#22303c"
   }
 ]
