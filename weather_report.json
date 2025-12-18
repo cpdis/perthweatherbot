@@ -7,34 +7,34 @@
             "longitude": -95.82389984353698
         },
         "current_conditions": {
-            "timestamp": "2025-12-18T01:53:30+00:00",
-            "temperature_c": 17.03,
-            "temperature_f": 62.654,
-            "humidity": 93,
+            "timestamp": "2025-12-18T04:36:55+00:00",
+            "temperature_c": 16.46,
+            "temperature_f": 61.628,
+            "humidity": 94,
             "wind_speed_mph": 5.74909,
-            "wind_direction": 110,
-            "description": "scattered clouds"
+            "wind_direction": 140,
+            "description": "mist"
         },
         "forecast": [
             {
-                "startTime": "2025-12-18T03:00:00+00:00",
-                "temperature": 17.03,
-                "windSpeed": 8.43349,
-                "windDirection": 134,
-                "shortForecast": "scattered clouds"
-            },
-            {
                 "startTime": "2025-12-18T06:00:00+00:00",
-                "temperature": 16.87,
+                "temperature": 16.46,
                 "windSpeed": 5.88331,
                 "windDirection": 155,
-                "shortForecast": "scattered clouds"
+                "shortForecast": "overcast clouds"
+            },
+            {
+                "startTime": "2025-12-18T09:00:00+00:00",
+                "temperature": 16.61,
+                "windSpeed": 6.30834,
+                "windDirection": 141,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Morning in Katy arrives soft and unhurried, the sky mottled with scattered clouds that let through tempered light. The overnight forecast showed those same broken patches lingering into the early hours, so expect a mix today: intervals of sun, then a gauzy veil, then sun again. Clarity should be decent, the horizon clean rather than hazy, with brightness that feels kind to the eyes. This time of year keeps the UV index on the low side, nudging up a bit around midday if the cloud deck shreds, so sunglasses help but aren\u2019t mandatory.\n\nIt looks like a pleasant, low-drama day\u2014more companionable than dazzling. Dress in easy layers: a breathable shirt with a light sweater or jacket you can shed if the sun leans your way. Think comfortable shoes for a midmorning loop around the block, a leisurely grocery run, or a quiet hour on the patio with a notebook. If you\u2019ve chores waiting\u2014car wash, plant watering, a tidy-up in the garage\u2014this weather plays along without pressing you. No strong hints of rain in the early outlook; just a gentle breeze and a sky content to change its mind now and then.",
-    "color_code": "#c5d8ee",
-    "timestamp": "2025-12-18 09:53:30",
+    "weather_report": "Midday in Katy arrives under a steady quilt of overcast, the sun reduced to a pale idea behind the clouds. The light is gentle and uniform, the kind that softens edges and mutes the palette of streets and lawns; glare is gone, distance looks honest but subdued. Expect little in the way of true sunshine and a modest UV bite at most, even around lunch. It\u2019s a day that feels calm rather than bright, made for unhurried errands and clear thinking.\n\nThe rest of the afternoon is likely to remain gray with occasional brightening, a ceiling that keeps moods measured and plans sensible. Dress in light layers\u2014long sleeves or a soft sweater, with a jacket you can shrug off if the air steadies\u2014comfortable shoes, and perhaps a cap more for style than shade. Good hours for a lingering coffee, a quiet lap around the neighborhood, returning library books, or giving the workspace a small, satisfying re-order. If you\u2019re outdoors for a while, a touch of sunscreen won\u2019t go amiss, but the day invites steady movement more than basking.",
+    "color_code": "#9BA7B0",
+    "timestamp": "2025-12-18 12:36:55",
     "location": {
         "name": "Katy",
         "latitude": 29.74598174800873,
