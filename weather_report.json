@@ -3,42 +3,42 @@
         "location": {
             "name": "Katy",
             "country": "US",
-            "latitude": 29.74598174800873,
-            "longitude": -95.82389984353698
+            "latitude": 29.7234990981316,
+            "longitude": -95.83344042660873
         },
         "current_conditions": {
-            "timestamp": "2025-12-18T08:34:29+00:00",
-            "temperature_c": 16.15,
-            "temperature_f": 61.07,
-            "humidity": 96,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 130,
+            "timestamp": "2025-12-18T12:51:38+00:00",
+            "temperature_c": 17.43,
+            "temperature_f": 63.374,
+            "humidity": 97,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 210,
             "description": "mist"
         },
         "forecast": [
             {
-                "startTime": "2025-12-18T09:00:00+00:00",
-                "temperature": 16.15,
-                "windSpeed": 5.97279,
-                "windDirection": 132,
+                "startTime": "2025-12-18T15:00:00+00:00",
+                "temperature": 17.63,
+                "windSpeed": 9.194070000000002,
+                "windDirection": 233,
                 "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2025-12-18T12:00:00+00:00",
-                "temperature": 16.3,
-                "windSpeed": 6.420190000000001,
-                "windDirection": 168,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-12-18T18:00:00+00:00",
+                "temperature": 21.07,
+                "windSpeed": 14.339170000000001,
+                "windDirection": 240,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Late afternoon in Katy wears a steady, pewter overcast that softens edges and flattens the light. The morning started gray and the ceiling hasn\u2019t lifted, so sunshine will be scarce, with a low, gentle UV that asks nothing more than unhurried eyes. The air feels even-tempered, neither biting nor heavy, and the day is clear enough for long views, though the sky is one continuous sheet, more watercolor wash than drama.\n\nExpect the gray to linger into the evening. Dress in easy layers\u2014long sleeves and a light jacket or cardigan are sensible; sunglasses can take the night off. It\u2019s good weather for ordinary victories: a late-day walk without glare, returning a library book, swinging by the market for something simple to cook, tidying the mudroom, or sorting the week\u2019s mail at the kitchen table. If you\u2019d rather stay outside, a gentle jog or a loop with the dog fits the mood, the quiet light making every surface look newly considered.",
-    "color_code": "#6E7B87",
-    "timestamp": "2025-12-18 16:34:30",
+    "weather_report": "In Katy today the sun played shy, filtered through a quilt of cloud that eased from a solid gray this morning into a looser, brighter patchwork by midday. The light stayed soft and forgiving, UV low and unhurried, the kind that makes colors look truer and edges less sharp. By tonight the sky returns to a muted lid, with only occasional thin breaks; the air feels steady and quiet rather than harsh. It\u2019s a day that reads as gently pleasant rather than dazzling: not much glare, no real bite, a good companion for unhurried errands and small comforts. Dress in easy layers\u2014a long-sleeve shirt with a light jacket you can pocket when you warm up\u2014and save the heavy sunscreen for another day. At this hour, consider a slow neighborhood walk, a short grocery run for staples you forgot, or a tidy-up of the desk while a pot of tea hums along; let the evening do what it does best, which is calm the room.",
+    "color_code": "#2E3A47",
+    "timestamp": "2025-12-18 20:51:39",
     "location": {
         "name": "Katy",
-        "latitude": 29.74598174800873,
-        "longitude": -95.82389984353698,
+        "latitude": 29.7234990981316,
+        "longitude": -95.83344042660873,
         "timezone": "Australia/Perth"
     }
 }

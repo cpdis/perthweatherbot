@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-12-11 09:57:29",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970442952715,
-      "longitude": 115.8206454109137,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-11T01:57:29+00:00",
-      "temperature_c": 30.64,
-      "temperature_f": 87.152,
-      "humidity": 40,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 180,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes under a polished blue, the kind of clear sky that sharpens shadows and makes leaves si...",
-    "color_code": "#87CEFA"
-  },
-  {
-    "timestamp": "2025-12-11 12:37:29",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95402642638195,
-      "longitude": 115.8525917016521,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-11T04:37:28+00:00",
-      "temperature_c": 32.64,
-      "temperature_f": 90.752,
-      "humidity": 39,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 270,
-      "description": "clear sky"
-    },
-    "report_summary": "Perth leans into the early afternoon with a bright, unwavering sun and a sky rinsed clear of cloud. ...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-12-11 16:34:43",
     "location": {
       "name": "Kings Park",
@@ -1018,5 +978,25 @@
     },
     "report_summary": "Late afternoon in Katy wears a steady, pewter overcast that softens edges and flattens the light. Th...",
     "color_code": "#6E7B87"
+  },
+  {
+    "timestamp": "2025-12-18 20:51:39",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.7234990981316,
+      "longitude": -95.83344042660873,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-18T12:51:38+00:00",
+      "temperature_c": 17.43,
+      "temperature_f": 63.374,
+      "humidity": 97,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 210,
+      "description": "mist"
+    },
+    "report_summary": "In Katy today the sun played shy, filtered through a quilt of cloud that eased from a solid gray thi...",
+    "color_code": "#2E3A47"
   }
 ]
