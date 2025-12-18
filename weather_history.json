@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-12-10 20:53:10",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970307241598,
-      "longitude": 115.8207971227874,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-10T12:53:10+00:00",
-      "temperature_c": 25.88,
-      "temperature_f": 78.584,
-      "humidity": 56,
-      "wind_speed_mph": 18.410510000000002,
-      "wind_direction": 190,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco settles into evening with a clean, open sky and a quietly reflective mood. The forecast keep...",
-    "color_code": "#1B263B"
-  },
-  {
-    "timestamp": "2025-12-11 00:32:18",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970307241598,
-      "longitude": 115.8207971227874,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-10T16:32:18+00:00",
-      "temperature_c": 22.3,
-      "temperature_f": 72.14,
-      "humidity": 69,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 190,
-      "description": "clear sky"
-    },
-    "report_summary": "Just past midnight in Subiaco, the sky is clear as glass and the streets feel unburdened, a quiet se...",
-    "color_code": "#0B1D3A"
-  },
-  {
     "timestamp": "2025-12-11 04:29:09",
     "location": {
       "name": "Subiaco",
@@ -1018,5 +978,25 @@
     },
     "report_summary": "Katy wakes under a quiet, pre-dawn lid of cloud, the streets still holding last evening\u2019s damp like ...",
     "color_code": "#2E3947"
+  },
+  {
+    "timestamp": "2025-12-18 09:53:30",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.74598174800873,
+      "longitude": -95.82389984353698,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-18T01:53:30+00:00",
+      "temperature_c": 17.03,
+      "temperature_f": 62.654,
+      "humidity": 93,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 110,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Morning in Katy arrives soft and unhurried, the sky mottled with scattered clouds that let through t...",
+    "color_code": "#c5d8ee"
   }
 ]
