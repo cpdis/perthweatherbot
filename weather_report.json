@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Galveston",
+            "name": "Katy",
             "country": "US",
-            "latitude": 29.30400217990662,
-            "longitude": -94.79942900706851
+            "latitude": 29.72342480754589,
+            "longitude": -95.8334508030869
         },
         "current_conditions": {
-            "timestamp": "2025-12-19T08:34:06+00:00",
-            "temperature_c": 15.46,
-            "temperature_f": 59.828,
-            "humidity": 44,
-            "wind_speed_mph": 18.410510000000002,
-            "wind_direction": 360,
+            "timestamp": "2025-12-19T12:49:55+00:00",
+            "temperature_c": 5.06,
+            "temperature_f": 41.108000000000004,
+            "humidity": 75,
+            "wind_speed_mph": 4.60822,
+            "wind_direction": 40,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-19T09:00:00+00:00",
-                "temperature": 15.46,
-                "windSpeed": 18.00785,
-                "windDirection": 16,
+                "startTime": "2025-12-19T15:00:00+00:00",
+                "temperature": 7.22,
+                "windSpeed": 6.82285,
+                "windDirection": 55,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-12-19T12:00:00+00:00",
-                "temperature": 14.45,
-                "windSpeed": 18.030220000000003,
-                "windDirection": 30,
+                "startTime": "2025-12-19T18:00:00+00:00",
+                "temperature": 12.87,
+                "windSpeed": 7.04655,
+                "windDirection": 127,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Late afternoon in Galveston arrives clear and bright, the sun angling low and painting the water with buttery light. The sky has been open since early morning and stays mostly cloudless, so it feels frankly sunny rather than fierce; the winter UV peaked at a modest midday and is easing now, though reflections off the Gulf can still be sharp. The air reads clean and salt-tinged, horizons crisp, the kind of clarity that makes colors feel freshly rinsed.\n\nIt\u2019s a pleasant day made for easy pace: light layers with a windproof shell, sunglasses, maybe a hat and a touch of sunscreen if you\u2019ll linger by the water. Consider a slow walk along the Seawall before sundown, a quiet spin on a bike, or a simple errand turned amble through the Strand with a coffee in hand. As evening draws in under a glassy sky, the warmth will slip away, so keep that extra layer nearby and let the day taper into a pale-gold dusk.",
-    "color_code": "#F6C28B",
-    "timestamp": "2025-12-19 16:34:07",
+    "weather_report": "Night has settled over Katy with a polished, uncomplicated sky. The day ran bright from morning into midday, the sun steady but, in December, gentler on the skin; the UV would have been modest at noon and quickly softened toward evening. Clarity has been the theme: a dry, see-forever kind of blue by day, turning now to a clean, starlit dome. It\u2019s a calm, cool-feeling night that asks little of you but a breath and a moment.\n\nExpect the quiet to hold, with no clouds to complicate the hours ahead. A light jacket or sweater suits the after-dark air; earlier, a dab of sunscreen would\u2019ve been sensible but not urgent. This is weather for small errands done without hurry, a slow walk with the dog, a few minutes on the porch listening to the neighborhood settle, or a quick check of the holiday lights before turning in. If you look up, the sky rewards the glance.",
+    "color_code": "#0B1E3A",
+    "timestamp": "2025-12-19 20:49:56",
     "location": {
-        "name": "Galveston",
-        "latitude": 29.30400217990662,
-        "longitude": -94.79942900706851,
+        "name": "Katy",
+        "latitude": 29.72342480754589,
+        "longitude": -95.8334508030869,
         "timezone": "Australia/Perth"
     }
 }

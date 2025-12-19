@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-12-12 09:56:47",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968345879476,
-      "longitude": 115.8209227588774,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-12T01:56:46+00:00",
-      "temperature_c": 28.35,
-      "temperature_f": 83.03,
-      "humidity": 40,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 150,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes to a rinsed-blue morning, the sort of clean, shadow-etched light that promises a day w...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-12-12 12:36:05",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970677159492,
-      "longitude": 115.8210030296619,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-12T04:36:04+00:00",
-      "temperature_c": 33.49,
-      "temperature_f": 92.28200000000001,
-      "humidity": 26,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 130,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco sits under a flawless canopy, the noon sun hard and clean, shadows sharp as cutouts. The for...",
-    "color_code": "#87CEFA"
-  },
-  {
     "timestamp": "2025-12-12 16:34:54",
     "location": {
       "name": "Subiaco",
@@ -1018,5 +978,25 @@
     },
     "report_summary": "Late afternoon in Galveston arrives clear and bright, the sun angling low and painting the water wit...",
     "color_code": "#F6C28B"
+  },
+  {
+    "timestamp": "2025-12-19 20:49:56",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.72342480754589,
+      "longitude": -95.8334508030869,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-19T12:49:55+00:00",
+      "temperature_c": 5.06,
+      "temperature_f": 41.108000000000004,
+      "humidity": 75,
+      "wind_speed_mph": 4.60822,
+      "wind_direction": 40,
+      "description": "clear sky"
+    },
+    "report_summary": "Night has settled over Katy with a polished, uncomplicated sky. The day ran bright from morning into...",
+    "color_code": "#0B1E3A"
   }
 ]
