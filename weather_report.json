@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Katy",
+            "name": "Galveston",
             "country": "US",
-            "latitude": 29.73849043990193,
-            "longitude": -95.82826907931006
+            "latitude": 29.30400217990662,
+            "longitude": -94.79942900706851
         },
         "current_conditions": {
-            "timestamp": "2025-12-18T20:24:41+00:00",
-            "temperature_c": 24.77,
-            "temperature_f": 76.586,
+            "timestamp": "2025-12-19T01:56:35+00:00",
+            "temperature_c": 20.73,
+            "temperature_f": 69.314,
             "humidity": 70,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 280,
-            "description": "scattered clouds"
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 320,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-18T21:00:00+00:00",
-                "temperature": 24.77,
-                "windSpeed": 16.084030000000002,
-                "windDirection": 289,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-12-19T03:00:00+00:00",
+                "temperature": 20.73,
+                "windSpeed": 20.37907,
+                "windDirection": 352,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-12-19T00:00:00+00:00",
-                "temperature": 23.43,
-                "windSpeed": 15.726110000000002,
-                "windDirection": 353,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-12-19T06:00:00+00:00",
+                "temperature": 18.89,
+                "windSpeed": 20.53566,
+                "windDirection": 4,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "A quiet, predawn hush sits over Katy. The most recent forecast showed scattered clouds through late afternoon and early evening, the kind that drift like loose pages and let starlight and city glow filter through. At this hour the sun is still a rumor, UV essentially nil, and visibility should feel clean and uncomplicated, with only a thin gauze of cloud softening the sky.\n\nAs daylight unfolds, expect intervals of sunshine rather than a blazing spotlight, with UV likely staying modest once the sun climbs; sunglasses will be useful when the breaks arrive. Plan for comfort: a light layer or two for the morning chill, something you can shed toward midday, and shoes fit for an easy stroll. This looks like a day for ordinary pleasures\u2014brew a second cup, take a short neighborhood walk when the first light brightens the pavement, run an errand before lunch, or read by a window where the sun comes and goes like a polite houseguest.",
-    "color_code": "#2C3E50",
-    "timestamp": "2025-12-19 04:24:41",
+    "weather_report": "Morning settles over Galveston with only a few harmless clouds drifting by, the light clear and forgiving. Skies have been mostly clean since the night hours, and the day leans sunny; expect a bright, open feel with just passing patches of cloud. The UV index will stay tame for December but not trivial, nudging to moderate around midday when the sun finds its stride. Air clarity looks good, colors a little sharper than usual, the sort of morning that makes windows feel bigger.\n\nIt should be a pleasant day to move about: comfortable rather than sultry, with a hint of cool if you\u2019re near the water. Dress in easy layers\u2014a light sweater or long sleeves you can shed by noon\u2014plus sunglasses and a touch of sunscreen if you\u2019re out toward lunchtime. Good weather for a slow stroll along the Seawall, a coffee on a quiet patio, a browse through the bookshop, or a few unhurried errands by bike before the afternoon gets busy.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-12-19 09:56:36",
     "location": {
-        "name": "Katy",
-        "latitude": 29.73849043990193,
-        "longitude": -95.82826907931006,
+        "name": "Galveston",
+        "latitude": 29.30400217990662,
+        "longitude": -94.79942900706851,
         "timezone": "Australia/Perth"
     }
 }
