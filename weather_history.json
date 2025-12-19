@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-12 04:27:45",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970984376867,
-      "longitude": 115.8206878720748,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-11T20:27:45+00:00",
-      "temperature_c": 20.22,
-      "temperature_f": 68.396,
-      "humidity": 63,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 140,
-      "description": "clear sky"
-    },
-    "report_summary": "Before dawn in Subiaco the sky is clean and uncomplicated, stars thinning toward a pale seam in the ...",
-    "color_code": "#4F76A1"
-  },
-  {
     "timestamp": "2025-12-12 09:56:47",
     "location": {
       "name": "Subiaco",
@@ -997,6 +977,26 @@
       "description": "few clouds"
     },
     "report_summary": "Morning settles over Galveston with only a few harmless clouds drifting by, the light clear and forg...",
+    "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2025-12-19 12:36:48",
+    "location": {
+      "name": "Galveston",
+      "latitude": 29.30400217990662,
+      "longitude": -94.79942900706851,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-19T04:36:48+00:00",
+      "temperature_c": 17.92,
+      "temperature_f": 64.256,
+      "humidity": 60,
+      "wind_speed_mph": 21.85549,
+      "wind_direction": 340,
+      "description": "clear sky"
+    },
+    "report_summary": "Galveston wakes under a clean, porcelain sky and keeps it, the kind of blue that seems freshly rinse...",
     "color_code": "#87CEEB"
   }
 ]
