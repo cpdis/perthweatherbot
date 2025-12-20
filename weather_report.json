@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Fort Worth",
+            "name": "Granbury",
             "country": "US",
-            "latitude": 32.75989808180223,
-            "longitude": -97.24664422857582
+            "latitude": 32.43435701771099,
+            "longitude": -97.78460614552523
         },
         "current_conditions": {
-            "timestamp": "2025-12-20T16:28:05+00:00",
-            "temperature_c": 16.82,
-            "temperature_f": 62.275999999999996,
-            "humidity": 66,
-            "wind_speed_mph": 18.410510000000002,
-            "wind_direction": 190,
+            "timestamp": "2025-12-20T20:24:45+00:00",
+            "temperature_c": 28.74,
+            "temperature_f": 83.732,
+            "humidity": 30,
+            "wind_speed_mph": 5.010880000000001,
+            "wind_direction": 247,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-20T18:00:00+00:00",
-                "temperature": 17.85,
-                "windSpeed": 14.808940000000002,
-                "windDirection": 221,
+                "startTime": "2025-12-20T21:00:00+00:00",
+                "temperature": 28.74,
+                "windSpeed": 12.99697,
+                "windDirection": 250,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-12-20T21:00:00+00:00",
-                "temperature": 21.81,
-                "windSpeed": 10.111239999999999,
-                "windDirection": 234,
+                "startTime": "2025-12-21T00:00:00+00:00",
+                "temperature": 26.36,
+                "windSpeed": 5.77146,
+                "windDirection": 221,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Fort Worth has slipped past midnight under a clean, starry dome; the air feels settled and a touch chilly, the kind that makes sound carry and porch lights seem brighter. With skies this clear, visibility is sharp and the night is uncomplicated. UV is essentially nonexistent now, of course, and the scene invites a quiet dog walk or a moment on the steps to trace constellations before turning in.\n\nYesterday\u2019s forecast showed a clear afternoon, and the pattern looks set to linger into today: a bright, uncomplicated Sunday with plenty of sun and a soft winter angle. Expect a gentle UV bite by midday\u2014low to modest for the season\u2014more a nudge than a hazard, though sunglasses will earn their keep. Dress in layers you can shuffle: a warmer jacket for the early hours, easing to a light sweater by late morning. It\u2019s the kind of day that rewards small errands done on foot, coffee carried to a sunlit bench, a tidy-up in the yard, or washing the car while the sky stays flawlessly blue. Pleasant, unhurried weather, as clear in its intentions as a fresh page.",
-    "color_code": "#0D1B2A",
-    "timestamp": "2025-12-21 00:28:06",
+    "weather_report": "Granbury wakes under a clean, quiet sky, the kind that sharpens the stars and lets the air feel a touch crisper than memory. The forecast has been steadfastly clear through the evening, and there\u2019s little to suggest it will do anything but brighten into a transparent morning and a sun-splashed day. UV is negligible before dawn and should stay modest by winter standards once the sun is up; light is generous, glare on pale surfaces likely. It looks like a plainspoken, pleasant day, all clarity and no fuss.\n\nDress in easy layers for the early chill\u2014a soft sweater or light jacket\u2014and keep sunglasses handy for the glare once it breaks over the rooftops; a dab of sunscreen won\u2019t be wasted if you linger outside by midday. At this hour, a slow cup of coffee on the porch or a gentle walk to catch first light would suit. Later, it\u2019s good weather for unhurried errands, tidying the garden, or a quiet drive down familiar roads with the windows cracked just enough to let the clean air in.",
+    "color_code": "#0a1f44",
+    "timestamp": "2025-12-21 04:24:46",
     "location": {
-        "name": "Fort Worth",
-        "latitude": 32.75989808180223,
-        "longitude": -97.24664422857582,
+        "name": "Granbury",
+        "latitude": 32.43435701771099,
+        "longitude": -97.78460614552523,
         "timezone": "Australia/Perth"
     }
 }

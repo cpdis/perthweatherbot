@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-13 16:29:28",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970431929847,
-      "longitude": 115.8206558883384,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-13T08:29:28+00:00",
-      "temperature_c": 36.62,
-      "temperature_f": 97.916,
-      "humidity": 17,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 120,
-      "description": "clear sky"
-    },
-    "report_summary": "In Subiaco this late afternoon, the sky is an enamel blue and the light is bright enough to cut long...",
-    "color_code": "#F6C56F"
-  },
-  {
     "timestamp": "2025-12-13 20:45:38",
     "location": {
       "name": "Subiaco",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Fort Worth has slipped past midnight under a clean, starry dome; the air feels settled and a touch c...",
     "color_code": "#0D1B2A"
+  },
+  {
+    "timestamp": "2025-12-21 04:24:46",
+    "location": {
+      "name": "Granbury",
+      "latitude": 32.43435701771099,
+      "longitude": -97.78460614552523,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-20T20:24:45+00:00",
+      "temperature_c": 28.74,
+      "temperature_f": 83.732,
+      "humidity": 30,
+      "wind_speed_mph": 5.010880000000001,
+      "wind_direction": 247,
+      "description": "clear sky"
+    },
+    "report_summary": "Granbury wakes under a clean, quiet sky, the kind that sharpens the stars and lets the air feel a to...",
+    "color_code": "#0a1f44"
   }
 ]
