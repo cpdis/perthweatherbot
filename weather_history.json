@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-12-13 09:50:25",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9496721258691,
-      "longitude": 115.8206846134939,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-13T01:50:25+00:00",
-      "temperature_c": 27.44,
-      "temperature_f": 81.392,
-      "humidity": 44,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 110,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes under a polished blue, the sun already laying down clean, hard shadows and a sense tha...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-12-13 12:29:46",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9496888703273,
-      "longitude": 115.820836432166,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-13T04:29:45+00:00",
-      "temperature_c": 32.19,
-      "temperature_f": 89.942,
-      "humidity": 29,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 100,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco slides into early afternoon under a polished blue dome, the sun already bright enough to etc...",
-    "color_code": "#87CEFA"
-  },
-  {
     "timestamp": "2025-12-13 16:29:28",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Late-day light in Dallas feels warm and forgiving, the sky mostly open with only a few lazy clouds d...",
     "color_code": "#E9B872"
+  },
+  {
+    "timestamp": "2025-12-20 20:45:19",
+    "location": {
+      "name": "Dallas",
+      "latitude": 32.78052703062674,
+      "longitude": -96.79649300183367,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-20T12:41:01+00:00",
+      "temperature_c": 10.42,
+      "temperature_f": 50.756,
+      "humidity": 85,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 180,
+      "description": "few clouds"
+    },
+    "report_summary": "Dallas drifted through a sun-forward day: a few morning tufts gave way to a clean, open noon sky, br...",
+    "color_code": "#0a1f44"
   }
 ]

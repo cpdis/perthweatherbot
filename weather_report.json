@@ -3,42 +3,42 @@
         "location": {
             "name": "Dallas",
             "country": "US",
-            "latitude": 32.78057228462914,
-            "longitude": -96.79642530445533
+            "latitude": 32.78052703062674,
+            "longitude": -96.79649300183367
         },
         "current_conditions": {
-            "timestamp": "2025-12-20T08:29:50+00:00",
-            "temperature_c": 11.04,
-            "temperature_f": 51.872,
-            "humidity": 61,
-            "wind_speed_mph": 13.802290000000001,
+            "timestamp": "2025-12-20T12:41:01+00:00",
+            "temperature_c": 10.42,
+            "temperature_f": 50.756,
+            "humidity": 85,
+            "wind_speed_mph": 12.661420000000001,
             "wind_direction": 180,
             "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-20T09:00:00+00:00",
-                "temperature": 11.04,
-                "windSpeed": 15.12212,
-                "windDirection": 188,
+                "startTime": "2025-12-20T15:00:00+00:00",
+                "temperature": 11.33,
+                "windSpeed": 13.936510000000002,
+                "windDirection": 198,
                 "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-12-20T12:00:00+00:00",
-                "temperature": 9.8,
-                "windSpeed": 14.18258,
-                "windDirection": 192,
-                "shortForecast": "few clouds"
+                "startTime": "2025-12-20T18:00:00+00:00",
+                "temperature": 18.14,
+                "windSpeed": 13.489110000000002,
+                "windDirection": 215,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Late-day light in Dallas feels warm and forgiving, the sky mostly open with only a few lazy clouds drifting by. The morning outlook promised clarity and it seems to have delivered, leaving the afternoon bright and clean-edged. Sun is still doing gentle work now, but the UV is weak this late in the day; earlier it would have run modest under the clear canopy. Air feels dry and uncomplicated, the sort that sharpens colors and makes distant buildings look newly drawn.\n\nDress in easy layers: keep the sunglasses for the last stretch of sun, and carry a light sweater or jacket for the cool that slips in toward dusk. It\u2019s a good time for unhurried errands, a quick neighborhood loop, or a quiet perch by a window with a late coffee and a few pages of reading. If there\u2019s a small task you\u2019ve been meaning to finish\u2014watering a plant, straightening the entryway\u2014this clear, calm afternoon invites it, without hurry or fuss.",
-    "color_code": "#E9B872",
-    "timestamp": "2025-12-20 16:29:51",
+    "weather_report": "Dallas drifted through a sun-forward day: a few morning tufts gave way to a clean, open noon sky, bright enough that sunglasses earned their keep and the midday UV, while winter-softened, was still noticeable; by evening it has fallen to almost nothing. Now the night is clear and steady, the air crisp, the skyline sharp as cut paper. The overall mood is pleasantly calm, leaning mild to cool after dark. Dress is simple: light layers would have suited the day, and a sweater or jacket makes sense now. Given the hour, consider a quiet neighborhood walk, a leisurely errand without glare, or a brief driveway stargaze before heading in; if you\u2019re staying home, crack a window for a moment and let a ribbon of clean night air through the room.",
+    "color_code": "#0a1f44",
+    "timestamp": "2025-12-20 20:45:19",
     "location": {
         "name": "Dallas",
-        "latitude": 32.78057228462914,
-        "longitude": -96.79642530445533,
+        "latitude": 32.78052703062674,
+        "longitude": -96.79649300183367,
         "timezone": "Australia/Perth"
     }
 }
