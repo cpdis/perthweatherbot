@@ -7,34 +7,34 @@
             "longitude": -96.79642530445533
         },
         "current_conditions": {
-            "timestamp": "2025-12-20T01:50:08+00:00",
-            "temperature_c": 13.38,
-            "temperature_f": 56.084,
-            "humidity": 37,
-            "wind_speed_mph": 13.802290000000001,
+            "timestamp": "2025-12-20T04:16:58+00:00",
+            "temperature_c": 12.25,
+            "temperature_f": 54.05,
+            "humidity": 42,
+            "wind_speed_mph": 12.661420000000001,
             "wind_direction": 170,
-            "description": "broken clouds"
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-20T03:00:00+00:00",
-                "temperature": 13.38,
-                "windSpeed": 13.019340000000001,
-                "windDirection": 171,
-                "shortForecast": "broken clouds"
-            },
-            {
                 "startTime": "2025-12-20T06:00:00+00:00",
-                "temperature": 12.38,
+                "temperature": 11.78,
                 "windSpeed": 14.495760000000002,
                 "windDirection": 181,
-                "shortForecast": "broken clouds"
+                "shortForecast": "scattered clouds"
+            },
+            {
+                "startTime": "2025-12-20T09:00:00+00:00",
+                "temperature": 9.79,
+                "windSpeed": 15.077380000000002,
+                "windDirection": 188,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Dallas wakes under a quilt of broken clouds, the sun slipping in and out like a shy performer between curtains. The light is soft and silvery this morning, more glow than glare; UV remains low, with only a modest nudge upward near midday. The air feels steady and uncomplicated, the day likely to stay partly cloudy rather than brilliantly clear, offering moments of brightness without the harshness of summer.\n\nIt\u2019s a day for gentle layers: long sleeves with a light jacket, comfortable shoes, sunglasses if you\u2019re out around lunch, and a dab of sunscreen if you linger. It looks pleasant in that quiet December way\u2014dry, calm, and forgiving\u2014good for a late-morning walk with coffee, a run of errands, or unhurried browsing at a market or bookstore. If you\u2019ve chores to tackle, the tempered light will be kind; if you prefer to linger indoors, a window seat will do the rest.",
-    "color_code": "#AAB7C5",
-    "timestamp": "2025-12-20 09:50:09",
+    "weather_report": "Dallas moves through midday under a high, well-combed sky, the clouds thinning to wisps that only soften the sun. The light is bright but winter-gentle, with a modest UV bite that suggests sunglasses and a touch of sunscreen rather than alarm. Air feels clear and steady, the horizons sharp; it\u2019s a day that makes colors honest and shadows tidy. Overall, pleasantly mild and easy to be in, more invitation than challenge.\n\nDress in easy layers: a soft long-sleeve or light sweater, a jacket you can shrug off, comfortable shoes for wandering. It\u2019s a good time to run errands without hurry, sit by a window for a late lunch, or take a simple walk through the neighborhood and let the cool brightness restore your head. If you\u2019re headed out longer, bring lip balm and a hat; if you\u2019re staying in, crack a window and let the clean air drift through the room.",
+    "color_code": "#86C5E0",
+    "timestamp": "2025-12-20 12:29:47",
     "location": {
         "name": "Dallas",
         "latitude": 32.78057228462914,

@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-13 04:27:07",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970302022118,
-      "longitude": 115.8206461510457,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-12T20:25:24+00:00",
-      "temperature_c": 19.29,
-      "temperature_f": 66.722,
-      "humidity": 63,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 80,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes under a clear, velvet pre-dawn, the air cool on the skin and the eastern edge of the s...",
-    "color_code": "#0D3B66"
-  },
-  {
     "timestamp": "2025-12-13 09:50:25",
     "location": {
       "name": "Subiaco",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Dallas wakes under a quilt of broken clouds, the sun slipping in and out like a shy performer betwee...",
     "color_code": "#AAB7C5"
+  },
+  {
+    "timestamp": "2025-12-20 12:29:47",
+    "location": {
+      "name": "Dallas",
+      "latitude": 32.78057228462914,
+      "longitude": -96.79642530445533,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-20T04:16:58+00:00",
+      "temperature_c": 12.25,
+      "temperature_f": 54.05,
+      "humidity": 42,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 170,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Dallas moves through midday under a high, well-combed sky, the clouds thinning to wisps that only so...",
+    "color_code": "#86C5E0"
   }
 ]
