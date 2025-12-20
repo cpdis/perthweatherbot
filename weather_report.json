@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Dallas",
+            "name": "Fort Worth",
             "country": "US",
-            "latitude": 32.78052703062674,
-            "longitude": -96.79649300183367
+            "latitude": 32.75989808180223,
+            "longitude": -97.24664422857582
         },
         "current_conditions": {
-            "timestamp": "2025-12-20T12:41:01+00:00",
-            "temperature_c": 10.42,
-            "temperature_f": 50.756,
-            "humidity": 85,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 180,
-            "description": "few clouds"
+            "timestamp": "2025-12-20T16:28:05+00:00",
+            "temperature_c": 16.82,
+            "temperature_f": 62.275999999999996,
+            "humidity": 66,
+            "wind_speed_mph": 18.410510000000002,
+            "wind_direction": 190,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-20T15:00:00+00:00",
-                "temperature": 11.33,
-                "windSpeed": 13.936510000000002,
-                "windDirection": 198,
-                "shortForecast": "few clouds"
+                "startTime": "2025-12-20T18:00:00+00:00",
+                "temperature": 17.85,
+                "windSpeed": 14.808940000000002,
+                "windDirection": 221,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-12-20T18:00:00+00:00",
-                "temperature": 18.14,
-                "windSpeed": 13.489110000000002,
-                "windDirection": 215,
+                "startTime": "2025-12-20T21:00:00+00:00",
+                "temperature": 21.81,
+                "windSpeed": 10.111239999999999,
+                "windDirection": 234,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Dallas drifted through a sun-forward day: a few morning tufts gave way to a clean, open noon sky, bright enough that sunglasses earned their keep and the midday UV, while winter-softened, was still noticeable; by evening it has fallen to almost nothing. Now the night is clear and steady, the air crisp, the skyline sharp as cut paper. The overall mood is pleasantly calm, leaning mild to cool after dark. Dress is simple: light layers would have suited the day, and a sweater or jacket makes sense now. Given the hour, consider a quiet neighborhood walk, a leisurely errand without glare, or a brief driveway stargaze before heading in; if you\u2019re staying home, crack a window for a moment and let a ribbon of clean night air through the room.",
-    "color_code": "#0a1f44",
-    "timestamp": "2025-12-20 20:45:19",
+    "weather_report": "Fort Worth has slipped past midnight under a clean, starry dome; the air feels settled and a touch chilly, the kind that makes sound carry and porch lights seem brighter. With skies this clear, visibility is sharp and the night is uncomplicated. UV is essentially nonexistent now, of course, and the scene invites a quiet dog walk or a moment on the steps to trace constellations before turning in.\n\nYesterday\u2019s forecast showed a clear afternoon, and the pattern looks set to linger into today: a bright, uncomplicated Sunday with plenty of sun and a soft winter angle. Expect a gentle UV bite by midday\u2014low to modest for the season\u2014more a nudge than a hazard, though sunglasses will earn their keep. Dress in layers you can shuffle: a warmer jacket for the early hours, easing to a light sweater by late morning. It\u2019s the kind of day that rewards small errands done on foot, coffee carried to a sunlit bench, a tidy-up in the yard, or washing the car while the sky stays flawlessly blue. Pleasant, unhurried weather, as clear in its intentions as a fresh page.",
+    "color_code": "#0D1B2A",
+    "timestamp": "2025-12-21 00:28:06",
     "location": {
-        "name": "Dallas",
-        "latitude": 32.78052703062674,
-        "longitude": -96.79649300183367,
+        "name": "Fort Worth",
+        "latitude": 32.75989808180223,
+        "longitude": -97.24664422857582,
         "timezone": "Australia/Perth"
     }
 }
