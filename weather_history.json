@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-14 04:24:51",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968464231462,
-      "longitude": 115.8208243513355,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-13T20:24:51+00:00",
-      "temperature_c": 24.25,
-      "temperature_f": 75.65,
-      "humidity": 43,
-      "wind_speed_mph": 21.85549,
-      "wind_direction": 60,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes under a clear, tender sky; the night is thinning and the first wash of pale gold is sl...",
-    "color_code": "#F9E2B0"
-  },
-  {
     "timestamp": "2025-12-14 10:03:33",
     "location": {
       "name": "Scarborough",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Morning in Waco comes on clear and unhurried, the sky mostly open with only a few feathery clouds le...",
     "color_code": "#ADD8E6"
+  },
+  {
+    "timestamp": "2025-12-21 12:39:52",
+    "location": {
+      "name": "Waco",
+      "latitude": 31.530170226551,
+      "longitude": -97.13109155379934,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-21T04:39:51+00:00",
+      "temperature_c": 17.2,
+      "temperature_f": 62.959999999999994,
+      "humidity": 92,
+      "wind_speed_mph": 1.99093,
+      "wind_direction": 321,
+      "description": "few clouds"
+    },
+    "report_summary": "Midday in Waco arrives under a polished winter blue, unmarred by cloud, the kind of clear that sharp...",
+    "color_code": "#87CEEB"
   }
 ]
