@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Waco",
+            "name": "Katy",
             "country": "US",
-            "latitude": 31.530170226551,
-            "longitude": -97.13109155379934
+            "latitude": 29.72345211810401,
+            "longitude": -95.83347164323735
         },
         "current_conditions": {
-            "timestamp": "2025-12-21T08:30:22+00:00",
-            "temperature_c": 13.57,
-            "temperature_f": 56.426,
-            "humidity": 61,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 290,
-            "description": "clear sky"
+            "timestamp": "2025-12-21T12:46:25+00:00",
+            "temperature_c": 21.05,
+            "temperature_f": 69.89,
+            "humidity": 95,
+            "wind_speed_mph": 1.00665,
+            "wind_direction": 132,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-21T09:00:00+00:00",
-                "temperature": 13.57,
-                "windSpeed": 11.22974,
-                "windDirection": 325,
-                "shortForecast": "clear sky"
+                "startTime": "2025-12-21T15:00:00+00:00",
+                "temperature": 20.87,
+                "windSpeed": 3.48972,
+                "windDirection": 231,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2025-12-21T12:00:00+00:00",
-                "temperature": 13.05,
-                "windSpeed": 14.29443,
-                "windDirection": 333,
-                "shortForecast": "clear sky"
+                "startTime": "2025-12-21T18:00:00+00:00",
+                "temperature": 22.41,
+                "windSpeed": 4.6977,
+                "windDirection": 234,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Waco slides into late afternoon under a clear, forgiving sky, the sun softened to a warm coin drifting toward the horizon. The day has been bright and clean-lined, the air transparent enough to make distant rooftops feel near. With December\u2019s angle, the sun offered a modest bite at midday, but the UV has eased to gentle now; glare is low, shadows are long, and the light carries a quiet gold that makes even parking lots look cinematic. It feels pleasant more than bold, the kind of clarity that slows the pulse.\n\nDress in easy layers: a long-sleeve or light sweater now, a jacket handy once the light fades. Sunglasses help with the last low beams. This is a good hour for simple errands done on foot, a porch sit with a warm cup, a tidy-up of the garden beds, or a small detour to a neighborhood bookstore before dusk. If you\u2019ve been indoors all day, a short, unhurried loop around the block will do; the air is honest, the sky uncomplicated, and evening is arriving without hurry.",
-    "color_code": "#F2C14E",
-    "timestamp": "2025-12-21 16:30:23",
+    "weather_report": "Katy settles under a lid of overcast, the night sky a soft charcoal with no stars to puncture it. The day ran gray from morning to midday and never quite brightened; the sun stayed veiled, and the UV index remained low then faded to nothing after dusk. The air feels steady rather than dramatic, the horizon muted, streetlights haloed, a calm, dim clarity that invites quiet rather than hustle.\n\nIf you\u2019re stepping out, a light jacket or sweater over long sleeves will feel right; add an extra layer if you run cool. Comfortable shoes for an unhurried errand, a short dog walk, or a quiet lap around the block. Indoors suits the mood too: sort tomorrow\u2019s bag, batch-cook something simple, water the plants, or cue up that podcast you keep pausing. It\u2019s a workable, unflashy evening\u2014pleasant in its own subdued way, with the clouds content to keep the night gentle and low-contrast.",
+    "color_code": "#2F343D",
+    "timestamp": "2025-12-21 20:46:25",
     "location": {
-        "name": "Waco",
-        "latitude": 31.530170226551,
-        "longitude": -97.13109155379934,
+        "name": "Katy",
+        "latitude": 29.72345211810401,
+        "longitude": -95.83347164323735,
         "timezone": "Australia/Perth"
     }
 }
