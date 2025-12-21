@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-12-13 20:45:38",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968464231462,
-      "longitude": 115.8208243513355,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-13T12:45:38+00:00",
-      "temperature_c": 31.29,
-      "temperature_f": 88.322,
-      "humidity": 21,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 140,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco settles into a polished, cloudless night. The sky is open and steady now and through the lat...",
-    "color_code": "#0a1e3f"
-  },
-  {
-    "timestamp": "2025-12-14 00:28:37",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968464231462,
-      "longitude": 115.8208243513355,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-13T16:28:37+00:00",
-      "temperature_c": 27.35,
-      "temperature_f": 81.23,
-      "humidity": 35,
-      "wind_speed_mph": 24.1596,
-      "wind_direction": 90,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco settles into the small hours beneath a polished, ink-blue sky, and the forecast holds that l...",
-    "color_code": "#0D1B2A"
-  },
-  {
     "timestamp": "2025-12-14 04:24:51",
     "location": {
       "name": "Subiaco",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Granbury wakes under a clean, quiet sky, the kind that sharpens the stars and lets the air feel a to...",
     "color_code": "#0a1f44"
+  },
+  {
+    "timestamp": "2025-12-21 10:03:19",
+    "location": {
+      "name": "Waco",
+      "latitude": 31.530170226551,
+      "longitude": -97.13109155379934,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-21T02:03:18+00:00",
+      "temperature_c": 19.68,
+      "temperature_f": 67.424,
+      "humidity": 80,
+      "wind_speed_mph": 5.99516,
+      "wind_direction": 195,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Morning in Waco comes on clear and unhurried, the sky mostly open with only a few feathery clouds le...",
+    "color_code": "#ADD8E6"
   }
 ]
