@@ -3,42 +3,42 @@
         "location": {
             "name": "Katy",
             "country": "US",
-            "latitude": 29.72345211810401,
-            "longitude": -95.83347164323735
+            "latitude": 29.72342772243239,
+            "longitude": -95.83345793509248
         },
         "current_conditions": {
-            "timestamp": "2025-12-21T12:46:25+00:00",
-            "temperature_c": 21.05,
-            "temperature_f": 69.89,
-            "humidity": 95,
-            "wind_speed_mph": 1.00665,
-            "wind_direction": 132,
-            "description": "overcast clouds"
+            "timestamp": "2025-12-21T16:28:01+00:00",
+            "temperature_c": 24.25,
+            "temperature_f": 75.65,
+            "humidity": 87,
+            "wind_speed_mph": 3.44498,
+            "wind_direction": 260,
+            "description": "mist"
         },
         "forecast": [
             {
-                "startTime": "2025-12-21T15:00:00+00:00",
-                "temperature": 20.87,
-                "windSpeed": 3.48972,
-                "windDirection": 231,
+                "startTime": "2025-12-21T18:00:00+00:00",
+                "temperature": 23.64,
+                "windSpeed": 4.6977,
+                "windDirection": 234,
                 "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2025-12-21T18:00:00+00:00",
-                "temperature": 22.41,
-                "windSpeed": 4.6977,
-                "windDirection": 234,
+                "startTime": "2025-12-21T21:00:00+00:00",
+                "temperature": 23.64,
+                "windSpeed": 3.75816,
+                "windDirection": 306,
                 "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Katy settles under a lid of overcast, the night sky a soft charcoal with no stars to puncture it. The day ran gray from morning to midday and never quite brightened; the sun stayed veiled, and the UV index remained low then faded to nothing after dusk. The air feels steady rather than dramatic, the horizon muted, streetlights haloed, a calm, dim clarity that invites quiet rather than hustle.\n\nIf you\u2019re stepping out, a light jacket or sweater over long sleeves will feel right; add an extra layer if you run cool. Comfortable shoes for an unhurried errand, a short dog walk, or a quiet lap around the block. Indoors suits the mood too: sort tomorrow\u2019s bag, batch-cook something simple, water the plants, or cue up that podcast you keep pausing. It\u2019s a workable, unflashy evening\u2014pleasant in its own subdued way, with the clouds content to keep the night gentle and low-contrast.",
-    "color_code": "#2F343D",
-    "timestamp": "2025-12-21 20:46:25",
+    "weather_report": "Midnight settles over Katy with a soft, unbroken ceiling of cloud, the kind that muffles the edges of the neighborhood and turns porch lights into halos. There\u2019s hardly a hint of moon or star; any sunshine you might have hoped for earlier stayed tucked away behind gray wool. UV is negligible now and was muted through the day, the sky more parchment than crystal, visibility serviceable but subdued.\n\nThrough the small hours and into the morning, expect the clouds to loiter, keeping things cool to mild and a bit somber rather than sparkly. It\u2019s a long-sleeves sort of night, a light jacket by the door just in case, and comfortable shoes for quick errands when dawn sidles in. If you\u2019re awake, this is good weather for quiet work at the kitchen table, tidying a corner you\u2019ve been ignoring, or setting up tomorrow\u2019s coffee so the morning greets you gently. Later, a short stroll between tasks will suit the mood\u2014no glare to squint against, no harsh heat, only the calm of a sky that has decided to keep its secrets.",
+    "color_code": "#2F3A4A",
+    "timestamp": "2025-12-22 00:28:01",
     "location": {
         "name": "Katy",
-        "latitude": 29.72345211810401,
-        "longitude": -95.83347164323735,
+        "latitude": 29.72342772243239,
+        "longitude": -95.83345793509248,
         "timezone": "Australia/Perth"
     }
 }
