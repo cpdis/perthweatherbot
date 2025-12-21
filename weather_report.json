@@ -3,42 +3,42 @@
         "location": {
             "name": "Katy",
             "country": "US",
-            "latitude": 29.72342772243239,
-            "longitude": -95.83345793509248
+            "latitude": 29.72342808581918,
+            "longitude": -95.83345853776662
         },
         "current_conditions": {
-            "timestamp": "2025-12-21T16:28:01+00:00",
-            "temperature_c": 24.25,
-            "temperature_f": 75.65,
-            "humidity": 87,
-            "wind_speed_mph": 3.44498,
-            "wind_direction": 260,
-            "description": "mist"
+            "timestamp": "2025-12-21T20:25:43+00:00",
+            "temperature_c": 25.99,
+            "temperature_f": 78.782,
+            "humidity": 75,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 340,
+            "description": "haze"
         },
         "forecast": [
             {
-                "startTime": "2025-12-21T18:00:00+00:00",
-                "temperature": 23.64,
-                "windSpeed": 4.6977,
-                "windDirection": 234,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-12-21T21:00:00+00:00",
+                "temperature": 25.99,
+                "windSpeed": 5.3688,
+                "windDirection": 324,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2025-12-21T21:00:00+00:00",
-                "temperature": 23.64,
-                "windSpeed": 3.75816,
-                "windDirection": 306,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-12-22T00:00:00+00:00",
+                "temperature": 24.83,
+                "windSpeed": 2.05804,
+                "windDirection": 46,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Midnight settles over Katy with a soft, unbroken ceiling of cloud, the kind that muffles the edges of the neighborhood and turns porch lights into halos. There\u2019s hardly a hint of moon or star; any sunshine you might have hoped for earlier stayed tucked away behind gray wool. UV is negligible now and was muted through the day, the sky more parchment than crystal, visibility serviceable but subdued.\n\nThrough the small hours and into the morning, expect the clouds to loiter, keeping things cool to mild and a bit somber rather than sparkly. It\u2019s a long-sleeves sort of night, a light jacket by the door just in case, and comfortable shoes for quick errands when dawn sidles in. If you\u2019re awake, this is good weather for quiet work at the kitchen table, tidying a corner you\u2019ve been ignoring, or setting up tomorrow\u2019s coffee so the morning greets you gently. Later, a short stroll between tasks will suit the mood\u2014no glare to squint against, no harsh heat, only the calm of a sky that has decided to keep its secrets.",
-    "color_code": "#2F3A4A",
-    "timestamp": "2025-12-22 00:28:01",
+    "weather_report": "Night still clings to Katy at this quiet hour, the sky quilted with lingering broken clouds that soften the last streetlights and hush the stars. It feels cool and calm, the air a muted blue, with no bite from the sun and a UV index at rest. The world is blurred at the edges, the kind of predawn that invites a slower breath and a hand around a warm mug.\n\nAs the day stirs, expect a mostly cloudy canvas with occasional sun slipping through in gentle intervals rather than a blaze\u2014bright enough for a lift, not enough for glare. UV should stay modest unless the clouds thin longer than expected. It looks like a generally pleasant, low-contrast day: easy on the eyes, good for simple errands and unhurried routines. Dress in easy layers\u2014a light jacket or soft sweater over a tee\u2014and comfortable shoes; sunglasses only if the sky opens. Consider a short walk after sunrise when the light turns pewter to pearl, a grocery run before lunch, or a tidy-up on the porch while the air stays mild and unbothered.",
+    "color_code": "#2C3E50",
+    "timestamp": "2025-12-22 04:25:44",
     "location": {
         "name": "Katy",
-        "latitude": 29.72342772243239,
-        "longitude": -95.83345793509248,
+        "latitude": 29.72342808581918,
+        "longitude": -95.83345853776662,
         "timezone": "Australia/Perth"
     }
 }
