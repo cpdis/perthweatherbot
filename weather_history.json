@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-15 16:37:19",
-    "location": {
-      "name": "Mascot",
-      "latitude": -33.93599471134146,
-      "longitude": 151.1670133774279,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-15T08:37:18+00:00",
-      "temperature_c": 20.01,
-      "temperature_f": 68.018,
-      "humidity": 69,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 130,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Late afternoon in Mascot leans gray-blue, the light thinned to a gentle sheen as cloud cover gathers...",
-    "color_code": "#708090"
-  },
-  {
     "timestamp": "2025-12-15 20:55:06",
     "location": {
       "name": "Mascot",
@@ -898,5 +878,25 @@
     },
     "report_summary": "After an afternoon and early evening of light rain in Katy, the night has settled into a damp hush. ...",
     "color_code": "#2F3A4A"
+  },
+  {
+    "timestamp": "2025-12-23 04:27:37",
+    "location": {
+      "name": "Houston",
+      "latitude": 29.7850063811427,
+      "longitude": -95.62389885589629,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-22T20:27:37+00:00",
+      "temperature_c": 27.98,
+      "temperature_f": 82.364,
+      "humidity": 68,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 200,
+      "description": "broken clouds"
+    },
+    "report_summary": "Houston wakes to a damp, sleepy hush; yesterday\u2019s light rain has left the streets darkly polished, a...",
+    "color_code": "#6A7B88"
   }
 ]
