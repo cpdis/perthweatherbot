@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Katy",
+            "name": "Richmond",
             "country": "US",
-            "latitude": 29.72342808581918,
-            "longitude": -95.83345853776662
+            "latitude": 29.63885987699928,
+            "longitude": -95.73958442259578
         },
         "current_conditions": {
-            "timestamp": "2025-12-21T20:25:43+00:00",
-            "temperature_c": 25.99,
-            "temperature_f": 78.782,
-            "humidity": 75,
+            "timestamp": "2025-12-22T02:02:39+00:00",
+            "temperature_c": 19.77,
+            "temperature_f": 67.586,
+            "humidity": 89,
             "wind_speed_mph": 5.74909,
-            "wind_direction": 340,
-            "description": "haze"
+            "wind_direction": 170,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-21T21:00:00+00:00",
-                "temperature": 25.99,
-                "windSpeed": 5.3688,
-                "windDirection": 324,
-                "shortForecast": "scattered clouds"
+                "startTime": "2025-12-22T03:00:00+00:00",
+                "temperature": 19.77,
+                "windSpeed": 2.237,
+                "windDirection": 101,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-12-22T00:00:00+00:00",
-                "temperature": 24.83,
-                "windSpeed": 2.05804,
-                "windDirection": 46,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-12-22T06:00:00+00:00",
+                "temperature": 20.3,
+                "windSpeed": 0.26844,
+                "windDirection": 14,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Night still clings to Katy at this quiet hour, the sky quilted with lingering broken clouds that soften the last streetlights and hush the stars. It feels cool and calm, the air a muted blue, with no bite from the sun and a UV index at rest. The world is blurred at the edges, the kind of predawn that invites a slower breath and a hand around a warm mug.\n\nAs the day stirs, expect a mostly cloudy canvas with occasional sun slipping through in gentle intervals rather than a blaze\u2014bright enough for a lift, not enough for glare. UV should stay modest unless the clouds thin longer than expected. It looks like a generally pleasant, low-contrast day: easy on the eyes, good for simple errands and unhurried routines. Dress in easy layers\u2014a light jacket or soft sweater over a tee\u2014and comfortable shoes; sunglasses only if the sky opens. Consider a short walk after sunrise when the light turns pewter to pearl, a grocery run before lunch, or a tidy-up on the porch while the air stays mild and unbothered.",
-    "color_code": "#2C3E50",
-    "timestamp": "2025-12-22 04:25:44",
+    "weather_report": "Morning in Richmond arrives washed in pale winter light. Overnight was clear and toward dawn a few clouds wandered in; now the sky leans mostly sunny with occasional tufts sliding by, the air clean and crisp and the horizon well-defined. The sun feels kind but not fierce, with a winter-soft UV that will nudge up around midday yet remain on the low side. It looks like a pleasant, quietly bright day rather than a glaring one.\n\nDress in easy layers: a sweater under a light coat, perhaps a scarf if a breeze sneaks around corners, and sunglasses for the gentle glare off windshields and water. It\u2019s a fine day for modest plans\u2014an unhurried coffee walk, a loop through the neighborhood to mail a card, tending a few chores by a sunny window, or a calm spin to the market. If you\u2019re outdoors, take your time and let the clear edges of the day set the pace; if you\u2019re in, open the blinds and let the light do some of the work.",
+    "color_code": "#AFCBEA",
+    "timestamp": "2025-12-22 10:02:40",
     "location": {
-        "name": "Katy",
-        "latitude": 29.72342808581918,
-        "longitude": -95.83345853776662,
+        "name": "Richmond",
+        "latitude": 29.63885987699928,
+        "longitude": -95.73958442259578,
         "timezone": "Australia/Perth"
     }
 }

@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-12-14 20:45:57",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968439542611,
-      "longitude": 115.8208245348275,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-14T12:45:56+00:00",
-      "temperature_c": 26.28,
-      "temperature_f": 79.304,
-      "humidity": 54,
-      "wind_speed_mph": 18.410510000000002,
-      "wind_direction": 100,
-      "description": "clear sky"
-    },
-    "report_summary": "Evening settles over Subiaco with a simple, pleasing sky: mostly clear, a few clouds drifting like q...",
-    "color_code": "#0B1D3A"
-  },
-  {
-    "timestamp": "2025-12-15 00:28:03",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968439542611,
-      "longitude": 115.8208245348275,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-14T16:28:03+00:00",
-      "temperature_c": 26.03,
-      "temperature_f": 78.854,
-      "humidity": 59,
-      "wind_speed_mph": 19.57375,
-      "wind_direction": 60,
-      "description": "clear sky"
-    },
-    "report_summary": "Just past midnight in Subiaco, the sky is a deep navy with only a few clouds drifting across it, the...",
-    "color_code": "#0B1E3B"
-  },
-  {
     "timestamp": "2025-12-15 04:25:32",
     "location": {
       "name": "Kangiara",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Night still clings to Katy at this quiet hour, the sky quilted with lingering broken clouds that sof...",
     "color_code": "#2C3E50"
+  },
+  {
+    "timestamp": "2025-12-22 10:02:40",
+    "location": {
+      "name": "Richmond",
+      "latitude": 29.63885987699928,
+      "longitude": -95.73958442259578,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-22T02:02:39+00:00",
+      "temperature_c": 19.77,
+      "temperature_f": 67.586,
+      "humidity": 89,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 170,
+      "description": "clear sky"
+    },
+    "report_summary": "Morning in Richmond arrives washed in pale winter light. Overnight was clear and toward dawn a few c...",
+    "color_code": "#AFCBEA"
   }
 ]
