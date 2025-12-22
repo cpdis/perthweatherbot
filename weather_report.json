@@ -7,34 +7,34 @@
             "longitude": -95.73958442259578
         },
         "current_conditions": {
-            "timestamp": "2025-12-22T02:02:39+00:00",
-            "temperature_c": 19.77,
-            "temperature_f": 67.586,
-            "humidity": 89,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 170,
-            "description": "clear sky"
+            "timestamp": "2025-12-22T04:43:20+00:00",
+            "temperature_c": 20.36,
+            "temperature_f": 68.648,
+            "humidity": 85,
+            "wind_speed_mph": 3.44498,
+            "wind_direction": 270,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-22T03:00:00+00:00",
-                "temperature": 19.77,
-                "windSpeed": 2.237,
-                "windDirection": 101,
-                "shortForecast": "clear sky"
-            },
-            {
                 "startTime": "2025-12-22T06:00:00+00:00",
-                "temperature": 20.3,
+                "temperature": 20.36,
                 "windSpeed": 0.26844,
                 "windDirection": 14,
-                "shortForecast": "scattered clouds"
+                "shortForecast": "overcast clouds"
+            },
+            {
+                "startTime": "2025-12-22T09:00:00+00:00",
+                "temperature": 20.36,
+                "windSpeed": 3.37787,
+                "windDirection": 85,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Morning in Richmond arrives washed in pale winter light. Overnight was clear and toward dawn a few clouds wandered in; now the sky leans mostly sunny with occasional tufts sliding by, the air clean and crisp and the horizon well-defined. The sun feels kind but not fierce, with a winter-soft UV that will nudge up around midday yet remain on the low side. It looks like a pleasant, quietly bright day rather than a glaring one.\n\nDress in easy layers: a sweater under a light coat, perhaps a scarf if a breeze sneaks around corners, and sunglasses for the gentle glare off windshields and water. It\u2019s a fine day for modest plans\u2014an unhurried coffee walk, a loop through the neighborhood to mail a card, tending a few chores by a sunny window, or a calm spin to the market. If you\u2019re outdoors, take your time and let the clear edges of the day set the pace; if you\u2019re in, open the blinds and let the light do some of the work.",
-    "color_code": "#AFCBEA",
-    "timestamp": "2025-12-22 10:02:40",
+    "weather_report": "Midday in Richmond arrives under a lid of dull pewter, streets still freckled from the morning\u2019s light rain. The sun is a rumor behind the cloudbank, giving the day a soft, silvery cast with a low, forgiving UV index. Edges blur a little at the horizon; the air feels cool and slightly damp, the kind of gray that hushes traffic and makes the river look thoughtful.\n\nThe rest of the day leans toward mostly cloudy, with the chance of a stray sprinkle keeping the pavement honest. It\u2019s not harsh, just gently uninviting unless you dress for it: a waterproof shell over a warm layer, trousers that don\u2019t sulk at brushy puddles, shoes with grip, and an umbrella you won\u2019t mind carrying. Good weather for modest ambitions\u2014an amble to a neighborhood bakery, a lap through the library stacks, unhurried errands, or a tidy-up at home with the window cracked to let in the cool, clean smell of rain. If you need movement, a short, steady walk between showers will suit the mood.",
+    "color_code": "#6D7A86",
+    "timestamp": "2025-12-22 12:43:21",
     "location": {
         "name": "Richmond",
         "latitude": 29.63885987699928,

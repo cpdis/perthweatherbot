@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-15 04:25:32",
-    "location": {
-      "name": "Kangiara",
-      "latitude": -34.57459146200199,
-      "longitude": 148.7509607063003,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-14T20:25:31+00:00",
-      "temperature_c": 12.16,
-      "temperature_f": 53.888,
-      "humidity": 74,
-      "wind_speed_mph": 7.628170000000001,
-      "wind_direction": 269,
-      "description": "clear sky"
-    },
-    "report_summary": "Kangiara wakes before dawn in a hush, the air gentle and cool, the eastern edge of the sky just begi...",
-    "color_code": "#5B7EA6"
-  },
-  {
     "timestamp": "2025-12-15 10:00:52",
     "location": {
       "name": "Mascot",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Morning in Richmond arrives washed in pale winter light. Overnight was clear and toward dawn a few c...",
     "color_code": "#AFCBEA"
+  },
+  {
+    "timestamp": "2025-12-22 12:43:21",
+    "location": {
+      "name": "Richmond",
+      "latitude": 29.63885987699928,
+      "longitude": -95.73958442259578,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-22T04:43:20+00:00",
+      "temperature_c": 20.36,
+      "temperature_f": 68.648,
+      "humidity": 85,
+      "wind_speed_mph": 3.44498,
+      "wind_direction": 270,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Midday in Richmond arrives under a lid of dull pewter, streets still freckled from the morning\u2019s lig...",
+    "color_code": "#6D7A86"
   }
 ]
