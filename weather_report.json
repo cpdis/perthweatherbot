@@ -7,34 +7,34 @@
             "longitude": -95.73958442259578
         },
         "current_conditions": {
-            "timestamp": "2025-12-22T04:43:20+00:00",
-            "temperature_c": 20.36,
-            "temperature_f": 68.648,
-            "humidity": 85,
-            "wind_speed_mph": 3.44498,
-            "wind_direction": 270,
+            "timestamp": "2025-12-22T08:35:33+00:00",
+            "temperature_c": 19.4,
+            "temperature_f": 66.92,
+            "humidity": 87,
+            "wind_speed_mph": 1.00665,
+            "wind_direction": 243,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-22T06:00:00+00:00",
-                "temperature": 20.36,
-                "windSpeed": 0.26844,
-                "windDirection": 14,
-                "shortForecast": "overcast clouds"
-            },
-            {
                 "startTime": "2025-12-22T09:00:00+00:00",
-                "temperature": 20.36,
+                "temperature": 19.4,
                 "windSpeed": 3.37787,
                 "windDirection": 85,
                 "shortForecast": "light rain"
+            },
+            {
+                "startTime": "2025-12-22T12:00:00+00:00",
+                "temperature": 19.38,
+                "windSpeed": 1.74486,
+                "windDirection": 66,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Midday in Richmond arrives under a lid of dull pewter, streets still freckled from the morning\u2019s light rain. The sun is a rumor behind the cloudbank, giving the day a soft, silvery cast with a low, forgiving UV index. Edges blur a little at the horizon; the air feels cool and slightly damp, the kind of gray that hushes traffic and makes the river look thoughtful.\n\nThe rest of the day leans toward mostly cloudy, with the chance of a stray sprinkle keeping the pavement honest. It\u2019s not harsh, just gently uninviting unless you dress for it: a waterproof shell over a warm layer, trousers that don\u2019t sulk at brushy puddles, shoes with grip, and an umbrella you won\u2019t mind carrying. Good weather for modest ambitions\u2014an amble to a neighborhood bakery, a lap through the library stacks, unhurried errands, or a tidy-up at home with the window cracked to let in the cool, clean smell of rain. If you need movement, a short, steady walk between showers will suit the mood.",
-    "color_code": "#6D7A86",
-    "timestamp": "2025-12-22 12:43:21",
+    "weather_report": "Late afternoon in Richmond settles under a low quilt of cloud. The morning\u2019s light rain rinsed the streets and the sky never truly brightened; gray hung on, the sun more rumor than presence and the UV gentle enough to forget. The air feels clean but dim, a pewter wash that softens edges and quiets color. Expect the overcast to linger into evening, the day more contemplative than bright, with any leftover damp more like a passing mist than a downpour.\n\nA warm coat, a soft scarf, and comfortable water-resistant shoes fit the mood; keep a small umbrella in your bag just in case. It\u2019s good weather for a short errand loop, a quiet hour in the library stacks, or a gentle stroll to catch the moment when shop windows outshine the sky. Later, let home take over\u2014simmer something simple, sort the mail, and let the gray outside help you focus on small, tidy victories.",
+    "color_code": "#6B6E75",
+    "timestamp": "2025-12-22 16:35:34",
     "location": {
         "name": "Richmond",
         "latitude": 29.63885987699928,
