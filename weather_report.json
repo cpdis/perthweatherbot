@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Richmond",
+            "name": "Katy",
             "country": "US",
-            "latitude": 29.63885987699928,
-            "longitude": -95.73958442259578
+            "latitude": 29.73428685532892,
+            "longitude": -95.84841243518687
         },
         "current_conditions": {
-            "timestamp": "2025-12-22T08:35:33+00:00",
-            "temperature_c": 19.4,
-            "temperature_f": 66.92,
-            "humidity": 87,
+            "timestamp": "2025-12-22T12:51:06+00:00",
+            "temperature_c": 18.94,
+            "temperature_f": 66.092,
+            "humidity": 92,
             "wind_speed_mph": 1.00665,
-            "wind_direction": 243,
-            "description": "overcast clouds"
+            "wind_direction": 206,
+            "description": "mist"
         },
         "forecast": [
             {
-                "startTime": "2025-12-22T09:00:00+00:00",
-                "temperature": 19.4,
-                "windSpeed": 3.37787,
-                "windDirection": 85,
-                "shortForecast": "light rain"
+                "startTime": "2025-12-22T15:00:00+00:00",
+                "temperature": 19.5,
+                "windSpeed": 4.87666,
+                "windDirection": 161,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2025-12-22T12:00:00+00:00",
-                "temperature": 19.38,
-                "windSpeed": 1.74486,
-                "windDirection": 66,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-12-22T18:00:00+00:00",
+                "temperature": 23.27,
+                "windSpeed": 10.37968,
+                "windDirection": 173,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late afternoon in Richmond settles under a low quilt of cloud. The morning\u2019s light rain rinsed the streets and the sky never truly brightened; gray hung on, the sun more rumor than presence and the UV gentle enough to forget. The air feels clean but dim, a pewter wash that softens edges and quiets color. Expect the overcast to linger into evening, the day more contemplative than bright, with any leftover damp more like a passing mist than a downpour.\n\nA warm coat, a soft scarf, and comfortable water-resistant shoes fit the mood; keep a small umbrella in your bag just in case. It\u2019s good weather for a short errand loop, a quiet hour in the library stacks, or a gentle stroll to catch the moment when shop windows outshine the sky. Later, let home take over\u2014simmer something simple, sort the mail, and let the gray outside help you focus on small, tidy victories.",
-    "color_code": "#6B6E75",
-    "timestamp": "2025-12-22 16:35:34",
+    "weather_report": "Evening drapes Katy in a soft, pewter sky; the day never quite brightened. Morning wore a solid overcast and by midday a light, passing rain stippled streets and lawns. Now, the night is damp and muted, with halos around porch lights and the gentle scent of wet concrete. Sunshine was scarce and shy; the UV stayed subdued and fades to nothing at this hour. Visibility is serviceable but softened by lingering moisture, the horizon smudged rather than crisp.\n\nDress for comfort more than bravado: a light waterproof or hooded jacket over easy layers, closed shoes with some grip, and a small umbrella if you don\u2019t fancy fine drizzle. It\u2019s a night for practical, unhurried things \u2014 a quick grocery run, returning a library book, a slow loop with the dog, or putting tools back in order in the garage while the damp air settles. If you stay in, set up tomorrow\u2019s coffee, draft a note to a friend, or let a calm film play while the clouds keep their steady vigil.",
+    "color_code": "#3A4750",
+    "timestamp": "2025-12-22 20:51:06",
     "location": {
-        "name": "Richmond",
-        "latitude": 29.63885987699928,
-        "longitude": -95.73958442259578,
+        "name": "Katy",
+        "latitude": 29.73428685532892,
+        "longitude": -95.84841243518687,
         "timezone": "Australia/Perth"
     }
 }
