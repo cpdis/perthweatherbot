@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-16 04:28:51",
-    "location": {
-      "name": "Los Angeles",
-      "latitude": 33.94066467954153,
-      "longitude": -118.3977971640087,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-15T20:28:51+00:00",
-      "temperature_c": 18.08,
-      "temperature_f": 64.544,
-      "humidity": 78,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 260,
-      "description": "haze"
-    },
-    "report_summary": "Los Angeles wakes under a quiet pre-dawn, the sky a deep blue canvas with scattered clouds drifting ...",
-    "color_code": "#1F2E4A"
-  },
-  {
     "timestamp": "2025-12-16 09:57:20",
     "location": {
       "name": "Houston",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Late morning in Katy arrives with a clear, polished sky and only a few unhurried clouds drifting the...",
     "color_code": "#EEDC9A"
+  },
+  {
+    "timestamp": "2025-12-23 12:40:21",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.72353712094572,
+      "longitude": -95.83322913759397,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-23T04:40:20+00:00",
+      "temperature_c": 21.66,
+      "temperature_f": 70.988,
+      "humidity": 94,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 170,
+      "description": "broken clouds"
+    },
+    "report_summary": "Early afternoon in Katy arrives under a quilt of broken clouds, the sun slipping in and out with a p...",
+    "color_code": "#B0C4DE"
   }
 ]
