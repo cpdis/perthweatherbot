@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-12-16 09:57:20",
-    "location": {
-      "name": "Houston",
-      "latitude": 29.98652621915488,
-      "longitude": -95.33885710593229,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-16T01:57:20+00:00",
-      "temperature_c": 7.13,
-      "temperature_f": 44.834,
-      "humidity": 63,
-      "wind_speed_mph": 1.00665,
-      "wind_direction": 52,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Late morning in Houston arrives under a seamless lid of cloud, the light cooled and grainy, colors a...",
-    "color_code": "#9AA0A6"
-  },
-  {
-    "timestamp": "2025-12-16 12:38:09",
-    "location": {
-      "name": "Houston",
-      "latitude": 29.98652621915488,
-      "longitude": -95.33885710593229,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-16T04:38:09+00:00",
-      "temperature_c": 6.69,
-      "temperature_f": 44.042,
-      "humidity": 67,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 180,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Midday in Houston arrives under a gauzy sky, the sun coming and going as scattered clouds thicken in...",
-    "color_code": "#A5B7C8"
-  },
-  {
     "timestamp": "2025-12-16 16:35:27",
     "location": {
       "name": "Houston",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Katy spends the late afternoon under a quiet gray lid, the day having woken to overcast skies and ne...",
     "color_code": "#6F7880"
+  },
+  {
+    "timestamp": "2025-12-23 20:52:27",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.72345168642478,
+      "longitude": -95.83343234303359,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-23T12:52:26+00:00",
+      "temperature_c": 21.18,
+      "temperature_f": 70.124,
+      "humidity": 95,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 160,
+      "description": "mist"
+    },
+    "report_summary": "A gray lid hung over Katy through the morning and midday, and by night it has settled into a steady,...",
+    "color_code": "#2F3A4A"
   }
 ]

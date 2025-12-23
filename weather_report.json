@@ -3,42 +3,42 @@
         "location": {
             "name": "Katy",
             "country": "US",
-            "latitude": 29.72353712094572,
-            "longitude": -95.83322913759397
+            "latitude": 29.72345168642478,
+            "longitude": -95.83343234303359
         },
         "current_conditions": {
-            "timestamp": "2025-12-23T08:34:35+00:00",
-            "temperature_c": 21.72,
-            "temperature_f": 71.096,
-            "humidity": 94,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 180,
-            "description": "overcast clouds"
+            "timestamp": "2025-12-23T12:52:26+00:00",
+            "temperature_c": 21.18,
+            "temperature_f": 70.124,
+            "humidity": 95,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 160,
+            "description": "mist"
         },
         "forecast": [
             {
-                "startTime": "2025-12-23T09:00:00+00:00",
-                "temperature": 21.72,
-                "windSpeed": 6.21886,
-                "windDirection": 160,
+                "startTime": "2025-12-23T15:00:00+00:00",
+                "temperature": 21.28,
+                "windSpeed": 7.98609,
+                "windDirection": 147,
                 "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2025-12-23T12:00:00+00:00",
-                "temperature": 21.4,
-                "windSpeed": 6.44256,
-                "windDirection": 152,
+                "startTime": "2025-12-23T18:00:00+00:00",
+                "temperature": 24.49,
+                "windSpeed": 9.48488,
+                "windDirection": 162,
                 "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Katy spends the late afternoon under a quiet gray lid, the day having woken to overcast skies and never quite shrugging them off. The sun is a rumor behind the cloudbank, so brightness stays gentle and the UV index low; shadows are smudged out, colors soft and a touch blue. Air feels steady rather than sharp, visibility is fine, and the sky promises more of the same as evening draws in, with no strong hint of rain, just a calm, dim clarity.\n\nIt\u2019s the sort of weather that rewards simple comforts. A light jacket or sweater over long sleeves will do, maybe a scarf if you run cool; sunglasses can stay home and sunscreen is optional today. Consider a small errand loop before dusk, then a stop at the grocery for something easy to simmer. If you need quiet, a bookstore chair or a corner table at a caf\u00e9 suits the mood; if you need motion, an unhurried walk or a few stretches by the window fit the gray hour. The day is not unpleasant, simply subdued\u2014an invitation to move at half speed and let evening arrive without hurry.",
-    "color_code": "#6F7880",
-    "timestamp": "2025-12-23 16:34:35",
+    "weather_report": "A gray lid hung over Katy through the morning and midday, and by night it has settled into a steady, unbroken ceiling. The sun never truly made an entrance, so the UV stayed muted; now it\u2019s effectively asleep, leaving the neighborhood washed in soft, streetlamp amber and a gentle hush. Visibility is fine but subdued, edges slightly softened, the kind of clarity that invites unhurried steps and quiet errands rather than spectacle.\n\nDress in easy layers: a light jacket or cardigan over long sleeves, comfortable shoes, maybe a cap if a faint mist toys with the air. It\u2019s not a night for basking, but it is pleasant in a contemplative way. Consider a short, reflective walk after dinner, a quick spin to the store for last-minute provisions, or a brief stop at a caf\u00e9 to finish a note, a list, a chapter. Let the evening be practical and calm, with small tasks done well under a calm, pewter sky.",
+    "color_code": "#2F3A4A",
+    "timestamp": "2025-12-23 20:52:27",
     "location": {
         "name": "Katy",
-        "latitude": 29.72353712094572,
-        "longitude": -95.83322913759397,
+        "latitude": 29.72345168642478,
+        "longitude": -95.83343234303359,
         "timezone": "Australia/Perth"
     }
 }
