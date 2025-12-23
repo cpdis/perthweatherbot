@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Katy",
+            "name": "Houston",
             "country": "US",
-            "latitude": 29.7234491554596,
-            "longitude": -95.83346789891314
+            "latitude": 29.77669357154583,
+            "longitude": -95.39901490738043
         },
         "current_conditions": {
-            "timestamp": "2025-12-23T16:32:24+00:00",
-            "temperature_c": 23.27,
-            "temperature_f": 73.886,
-            "humidity": 88,
+            "timestamp": "2025-12-23T20:27:08+00:00",
+            "temperature_c": 26.76,
+            "temperature_f": 80.168,
+            "humidity": 67,
             "wind_speed_mph": 10.35731,
-            "wind_direction": 170,
+            "wind_direction": 130,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-23T18:00:00+00:00",
-                "temperature": 23.27,
-                "windSpeed": 9.48488,
-                "windDirection": 162,
+                "startTime": "2025-12-23T21:00:00+00:00",
+                "temperature": 26.76,
+                "windSpeed": 8.43349,
+                "windDirection": 153,
                 "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2025-12-23T21:00:00+00:00",
-                "temperature": 24.24,
-                "windSpeed": 10.08887,
-                "windDirection": 159,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-12-24T00:00:00+00:00",
+                "temperature": 25.84,
+                "windSpeed": 8.38875,
+                "windDirection": 132,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Just past midnight in Katy, the sky is a soft lid of overcast, streetlights puddling in the quiet and the air reading as cool and a touch damp. Sunshine will be scarce when morning comes; the day looks locked in gray, with the UV index staying low and the light staying gentle and diffuse rather than sharp. Clarity should be steady\u2014no glare, no drama\u2014just a muted, even canvas.\n\nIt\u2019s a modest, practical kind of day. Pull on light layers\u2014a soft sweater or light jacket\u2014and, if you run cool, a scarf for good measure. This weather suits unhurried errands, a window-side coffee, tending to houseplants, or a slow neighborhood walk with a podcast. At this hour, it\u2019s a fine time to straighten the desk, make tomorrow\u2019s list, or let a chapter of something quiet carry you toward sleep. Expect little in the way of sun and no need for sunglasses; the world will arrive in calm, low-contrast tones.",
-    "color_code": "#2F3B4C",
-    "timestamp": "2025-12-24 00:32:25",
+    "weather_report": "Houston wakes under a dim, predawn quilt of cloud, the sky a soft charcoal with only the hint of cobalt at the edges. Overnight cover shifted from overcast to broken layers, so the morning should begin muted and calm, with no sharp glare and the UV index at its gentlest. Expect a hazy clarity at sunrise, then a day that leans gray, perhaps with occasional breaks where the light slips through and brightens the sidewalks for a while. If the clouds linger, the sun will stay diffused and easy on the eyes; if they thin toward midday, UV will nudge up from low to modest for a brief spell.\n\nDress for a mild, indecisive sky: light layers, a soft jacket, and shoes suited to unhurried errands. It\u2019s the kind of morning for a quiet coffee and a short neighborhood walk before the streets fully wake, then a tidy-up of the to-do list, a gym session, or a window seat with something to read. If the ceiling lifts later, take lunch outdoors for a moment, then let the afternoon be practical and unhurried, moving at the pace of the clouds.",
+    "color_code": "#3f4a5a",
+    "timestamp": "2025-12-24 04:27:09",
     "location": {
-        "name": "Katy",
-        "latitude": 29.7234491554596,
-        "longitude": -95.83346789891314,
+        "name": "Houston",
+        "latitude": 29.77669357154583,
+        "longitude": -95.39901490738043,
         "timezone": "Australia/Perth"
     }
 }

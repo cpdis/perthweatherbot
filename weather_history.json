@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-16 16:35:27",
-    "location": {
-      "name": "Houston",
-      "latitude": 29.98652621915488,
-      "longitude": -95.33885710593229,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-16T08:26:59+00:00",
-      "temperature_c": 3,
-      "temperature_f": 37.4,
-      "humidity": 93,
-      "wind_speed_mph": 0.0,
-      "wind_direction": 0,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Late afternoon in Houston arrives with a soft, pewter light. The day opened with scattered, playful ...",
-    "color_code": "#7F8A96"
-  },
-  {
     "timestamp": "2025-12-16 20:53:30",
     "location": {
       "name": "Katy",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Just past midnight in Katy, the sky is a soft lid of overcast, streetlights puddling in the quiet an...",
     "color_code": "#2F3B4C"
+  },
+  {
+    "timestamp": "2025-12-24 04:27:09",
+    "location": {
+      "name": "Houston",
+      "latitude": 29.77669357154583,
+      "longitude": -95.39901490738043,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-23T20:27:08+00:00",
+      "temperature_c": 26.76,
+      "temperature_f": 80.168,
+      "humidity": 67,
+      "wind_speed_mph": 10.35731,
+      "wind_direction": 130,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Houston wakes under a dim, predawn quilt of cloud, the sky a soft charcoal with only the hint of cob...",
+    "color_code": "#3f4a5a"
   }
 ]
