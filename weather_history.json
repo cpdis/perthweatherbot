@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-12-15 20:55:06",
-    "location": {
-      "name": "Mascot",
-      "latitude": -33.93599471134146,
-      "longitude": 151.1670133774279,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-15T12:55:06+00:00",
-      "temperature_c": 18.38,
-      "temperature_f": 65.084,
-      "humidity": 80,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 120,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Mascot sinks into a damp, wind-brushed evening, the streets glossed with earlier showers and the sky...",
-    "color_code": "#3E4A59"
-  },
-  {
-    "timestamp": "2025-12-16 00:36:16",
-    "location": {
-      "name": "Mascot",
-      "latitude": -33.93599471134146,
-      "longitude": 151.1670133774279,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-15T16:36:15+00:00",
-      "temperature_c": 17.57,
-      "temperature_f": 63.626,
-      "humidity": 81,
-      "wind_speed_mph": 1.00665,
-      "wind_direction": 189,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Just past midnight in Mascot, the air feels mild and a touch sticky, the sky pressed low with cloud ...",
-    "color_code": "#2C3E50"
-  },
-  {
     "timestamp": "2025-12-16 04:28:51",
     "location": {
       "name": "Los Angeles",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Houston wakes to a damp, sleepy hush; yesterday\u2019s light rain has left the streets darkly polished, a...",
     "color_code": "#6A7B88"
+  },
+  {
+    "timestamp": "2025-12-23 09:57:42",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.72353712094572,
+      "longitude": -95.83322913759397,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-23T01:57:42+00:00",
+      "temperature_c": 22.53,
+      "temperature_f": 72.554,
+      "humidity": 88,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 180,
+      "description": "clear sky"
+    },
+    "report_summary": "Late morning in Katy arrives with a clear, polished sky and only a few unhurried clouds drifting the...",
+    "color_code": "#EEDC9A"
   }
 ]

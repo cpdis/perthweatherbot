@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Houston",
+            "name": "Katy",
             "country": "US",
-            "latitude": 29.7850063811427,
-            "longitude": -95.62389885589629
+            "latitude": 29.72353712094572,
+            "longitude": -95.83322913759397
         },
         "current_conditions": {
-            "timestamp": "2025-12-22T20:27:37+00:00",
-            "temperature_c": 27.98,
-            "temperature_f": 82.364,
-            "humidity": 68,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 200,
-            "description": "broken clouds"
+            "timestamp": "2025-12-23T01:57:42+00:00",
+            "temperature_c": 22.53,
+            "temperature_f": 72.554,
+            "humidity": 88,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 180,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-22T21:00:00+00:00",
-                "temperature": 27.98,
-                "windSpeed": 7.33736,
-                "windDirection": 167,
-                "shortForecast": "light rain"
+                "startTime": "2025-12-23T03:00:00+00:00",
+                "temperature": 22.53,
+                "windSpeed": 8.7243,
+                "windDirection": 157,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-12-23T00:00:00+00:00",
-                "temperature": 26.63,
-                "windSpeed": 9.52962,
-                "windDirection": 158,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-12-23T06:00:00+00:00",
+                "temperature": 22.13,
+                "windSpeed": 6.95707,
+                "windDirection": 154,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Houston wakes to a damp, sleepy hush; yesterday\u2019s light rain has left the streets darkly polished, and broken clouds still loiter in the pre-dawn. The air feels clean rather than sharp, with a faint glimmer toward the east that hints at a shy sunrise. Expect the day to lean more gray than golden, with the sun slipping in and out of gaps rather than taking center stage. UV exposure will be near zero until after sunrise and likely stay on the low side through the morning, nudging to modest only if the cloud deck frays toward midday. Visibility should be decent, though light will be soft and subdued.\n\nIt\u2019s a day for easy layers\u2014light jacket or sweater, closed shoes, maybe a compact umbrella for insurance\u2014and the kind of pace that doesn\u2019t mind a muted sky. An early coffee run, a short errand loop, or a quiet spell at the gym or library fits the mood; later, if a brighter patch opens, a gentle stroll on a dry sidewalk will feel earned. Roads may still be slick in spots, so take the corners with care and let the day unfold without hurry.",
-    "color_code": "#6A7B88",
-    "timestamp": "2025-12-23 04:27:37",
+    "weather_report": "Late morning in Katy arrives with a clear, polished sky and only a few unhurried clouds drifting the horizon. The light has that winter-quiet gleam\u2014bright but gentle\u2014so the UV will stay on the mild side for most of the day, more a nudge than a sting, though sunglasses and a dab of sunscreen won\u2019t go amiss. Air clarity looks good, the sort that sharpens edges and colors without heat shimmer, and the day should hold mostly sunny with only brief veils of cloud.\n\nIt\u2019s a day for light layers: a soft long-sleeve, maybe a sweater or light jacket if you linger in shade or catch a breeze. Take a late-morning walk, let the sunlight do its quiet work, or run a few errands without the slog of humidity. A patio coffee, a tidy-up of the porch plants, a slow browse through the grocery aisles\u2014ordinary rituals made a touch more pleasant by the clean blue overhead. If you have time later, park near the edge of town and watch the sky deepen, unhurried and clear.",
+    "color_code": "#EEDC9A",
+    "timestamp": "2025-12-23 09:57:42",
     "location": {
-        "name": "Houston",
-        "latitude": 29.7850063811427,
-        "longitude": -95.62389885589629,
+        "name": "Katy",
+        "latitude": 29.72353712094572,
+        "longitude": -95.83322913759397,
         "timezone": "Australia/Perth"
     }
 }
