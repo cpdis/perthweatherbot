@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-12-16 20:53:30",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.72344188427916,
-      "longitude": -95.83348003372039,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-16T12:53:30+00:00",
-      "temperature_c": 5.2,
-      "temperature_f": 41.36,
-      "humidity": 88,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 100,
-      "description": "clear sky"
-    },
-    "report_summary": "Evening settles over Katy with a soft, pewter ceiling, the kind that catches distant streetlights an...",
-    "color_code": "#4A596B"
-  },
-  {
-    "timestamp": "2025-12-17 00:34:19",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.72342643046705,
-      "longitude": -95.83348325161094,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-16T16:34:19+00:00",
-      "temperature_c": 15.73,
-      "temperature_f": 60.314,
-      "humidity": 70,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 150,
-      "description": "clear sky"
-    },
-    "report_summary": "Midnight settles softly over Katy, the sky mostly clear after a bright, clean noon and a late-aftern...",
-    "color_code": "#0b1f3a"
-  },
-  {
     "timestamp": "2025-12-17 04:29:12",
     "location": {
       "name": "Katy",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Houston wakes under a dim, predawn quilt of cloud, the sky a soft charcoal with only the hint of cob...",
     "color_code": "#3f4a5a"
+  },
+  {
+    "timestamp": "2025-12-24 09:56:11",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.72344165133764,
+      "longitude": -95.8334348195218,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-24T01:56:10+00:00",
+      "temperature_c": 21.56,
+      "temperature_f": 70.80799999999999,
+      "humidity": 91,
+      "wind_speed_mph": 6.91233,
+      "wind_direction": 150,
+      "description": "clear sky"
+    },
+    "report_summary": "Morning in Katy arrives clear and uncomplicated, the sky mostly open with just a few quiet clouds dr...",
+    "color_code": "#87CEEB"
   }
 ]

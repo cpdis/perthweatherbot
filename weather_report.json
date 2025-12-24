@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Houston",
+            "name": "Katy",
             "country": "US",
-            "latitude": 29.77669357154583,
-            "longitude": -95.39901490738043
+            "latitude": 29.72344165133764,
+            "longitude": -95.8334348195218
         },
         "current_conditions": {
-            "timestamp": "2025-12-23T20:27:08+00:00",
-            "temperature_c": 26.76,
-            "temperature_f": 80.168,
-            "humidity": 67,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 130,
-            "description": "overcast clouds"
+            "timestamp": "2025-12-24T01:56:10+00:00",
+            "temperature_c": 21.56,
+            "temperature_f": 70.80799999999999,
+            "humidity": 91,
+            "wind_speed_mph": 6.91233,
+            "wind_direction": 150,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-23T21:00:00+00:00",
-                "temperature": 26.76,
-                "windSpeed": 8.43349,
-                "windDirection": 153,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-12-24T03:00:00+00:00",
+                "temperature": 21.56,
+                "windSpeed": 8.61245,
+                "windDirection": 134,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-12-24T00:00:00+00:00",
-                "temperature": 25.84,
-                "windSpeed": 8.38875,
-                "windDirection": 132,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-12-24T06:00:00+00:00",
+                "temperature": 21.48,
+                "windSpeed": 7.404470000000001,
+                "windDirection": 142,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Houston wakes under a dim, predawn quilt of cloud, the sky a soft charcoal with only the hint of cobalt at the edges. Overnight cover shifted from overcast to broken layers, so the morning should begin muted and calm, with no sharp glare and the UV index at its gentlest. Expect a hazy clarity at sunrise, then a day that leans gray, perhaps with occasional breaks where the light slips through and brightens the sidewalks for a while. If the clouds linger, the sun will stay diffused and easy on the eyes; if they thin toward midday, UV will nudge up from low to modest for a brief spell.\n\nDress for a mild, indecisive sky: light layers, a soft jacket, and shoes suited to unhurried errands. It\u2019s the kind of morning for a quiet coffee and a short neighborhood walk before the streets fully wake, then a tidy-up of the to-do list, a gym session, or a window seat with something to read. If the ceiling lifts later, take lunch outdoors for a moment, then let the afternoon be practical and unhurried, moving at the pace of the clouds.",
-    "color_code": "#3f4a5a",
-    "timestamp": "2025-12-24 04:27:09",
+    "weather_report": "Morning in Katy arrives clear and uncomplicated, the sky mostly open with just a few quiet clouds drifting west to east. Sunlight looks steady rather than harsh, the kind that brightens brick and fence-lines without pressing on the skin. UV is low now and should lift to a modest midday peak; sunglasses and a light touch of sunscreen are sensible. The day looks dry and lucid, with good visibility and little hint of mischief from the weather, a pleasant companion more than a challenge.\n\nDress in easy layers: a soft long-sleeve or light sweater you can peel back as the sun settles in. It\u2019s a fine morning for an unhurried porch coffee, a short neighborhood loop with the dog, or knocking out a couple of errands before the afternoon hum begins. If you\u2019re staying in, crack a window for a few minutes and let the clean air wander through; if you\u2019re out, carry a small water bottle and enjoy the clarity while it lasts.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-12-24 09:56:11",
     "location": {
-        "name": "Houston",
-        "latitude": 29.77669357154583,
-        "longitude": -95.39901490738043,
+        "name": "Katy",
+        "latitude": 29.72344165133764,
+        "longitude": -95.8334348195218,
         "timezone": "Australia/Perth"
     }
 }
