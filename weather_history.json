@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-17 16:35:20",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.7233967520847,
-      "longitude": -95.83344654279207,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-17T08:35:20+00:00",
-      "temperature_c": 14.98,
-      "temperature_f": 58.964,
-      "humidity": 94,
-      "wind_speed_mph": 4.60822,
-      "wind_direction": 100,
-      "description": "mist"
-    },
-    "report_summary": "Katy woke to light rain, and the afternoon still feels washed and hushed, the streets a little slick...",
-    "color_code": "#708090"
-  },
-  {
     "timestamp": "2025-12-17 20:53:27",
     "location": {
       "name": "Katy",
@@ -898,5 +878,25 @@
     },
     "report_summary": "Just past midnight, Katy feels quiet and damp, the streets holding a faint sheen from the afternoon\u2019...",
     "color_code": "#2C3E50"
+  },
+  {
+    "timestamp": "2025-12-25 04:26:50",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.72344130175688,
+      "longitude": -95.83343674440177,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-24T20:26:49+00:00",
+      "temperature_c": 26.52,
+      "temperature_f": 79.736,
+      "humidity": 74,
+      "wind_speed_mph": 1.99093,
+      "wind_direction": 211,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Before dawn in Katy, the sky hangs low and pewter, the streets still damp from yesterday\u2019s light rai...",
+    "color_code": "#3B4252"
   }
 ]

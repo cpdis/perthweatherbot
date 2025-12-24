@@ -3,42 +3,42 @@
         "location": {
             "name": "Katy",
             "country": "US",
-            "latitude": 29.72344108087242,
-            "longitude": -95.83343608601257
+            "latitude": 29.72344130175688,
+            "longitude": -95.83343674440177
         },
         "current_conditions": {
-            "timestamp": "2025-12-24T16:30:18+00:00",
-            "temperature_c": 22.34,
-            "temperature_f": 72.212,
-            "humidity": 94,
-            "wind_speed_mph": 6.91233,
-            "wind_direction": 170,
-            "description": "mist"
+            "timestamp": "2025-12-24T20:26:49+00:00",
+            "temperature_c": 26.52,
+            "temperature_f": 79.736,
+            "humidity": 74,
+            "wind_speed_mph": 1.99093,
+            "wind_direction": 211,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-24T18:00:00+00:00",
-                "temperature": 22.34,
-                "windSpeed": 10.223090000000001,
-                "windDirection": 169,
-                "shortForecast": "overcast clouds"
-            },
-            {
                 "startTime": "2025-12-24T21:00:00+00:00",
-                "temperature": 23.54,
+                "temperature": 26.52,
                 "windSpeed": 9.30592,
                 "windDirection": 160,
                 "shortForecast": "light rain"
+            },
+            {
+                "startTime": "2025-12-25T00:00:00+00:00",
+                "temperature": 25.45,
+                "windSpeed": 9.3954,
+                "windDirection": 153,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Just past midnight, Katy feels quiet and damp, the streets holding a faint sheen from the afternoon\u2019s light rain. The day wore a heavy lid of cloud from midday on, and the sun never really had its say; UV exposure was minimal, the light subdued and silvery at best, with edges of the landscape softened by the overcast and showers.\n\nIt\u2019s a night for soft layers and a light waterproof if you step outside, and shoes that don\u2019t mind wet sidewalks. The mood is calm rather than cheerful, but not unfriendly: a good time to brew something warm, read a few unhurried pages, or sort tomorrow\u2019s to-dos while the house settles. If you\u2019re out early, expect the gray to linger and the air to feel cool and clean; drive unhurried, lights on, and let the day come to you.",
-    "color_code": "#2C3E50",
-    "timestamp": "2025-12-25 00:30:18",
+    "weather_report": "Before dawn in Katy, the sky hangs low and pewter, the streets still damp from yesterday\u2019s light rain and a ceiling of stubborn cloud. Expect a mostly gray, quiet morning with the sun a shy rumor behind the overcast; UV will be low early and likely stay modest even at midday unless the blanket thins. The light will be soft and diffuse rather than sparkling, clarity muted rather than crisp, with the occasional brighter patch slipping through like a promise rather than a plan.\n\nDress in comfortable layers and shoes that don\u2019t mind wet edges; a light waterproof jacket is the right companion for a quick errand or a slow stroll once the sidewalks stop glistening. The mood suits small, unhurried tasks: brew something warm, tidy the corners the week neglected, leaf through a book with the windows cracked for a breath of cool air. If the cloud lifts a touch later, take a brief walk around the block or a nearby park and let the muted daylight set an easy pace\u2014pleasant in its hush, if not exactly sunny.",
+    "color_code": "#3B4252",
+    "timestamp": "2025-12-25 04:26:50",
     "location": {
         "name": "Katy",
-        "latitude": 29.72344108087242,
-        "longitude": -95.83343608601257,
+        "latitude": 29.72344130175688,
+        "longitude": -95.83343674440177,
         "timezone": "Australia/Perth"
     }
 }
