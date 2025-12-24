@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-17 04:29:12",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.7437282,
-      "longitude": -95.77677739999999,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-16T20:29:12+00:00",
-      "temperature_c": 18.72,
-      "temperature_f": 65.696,
-      "humidity": 66,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 160,
-      "description": "clear sky"
-    },
-    "report_summary": "Katy wakes before dawn under a mostly clear sky, the last wisps of last night\u2019s scattered clouds thi...",
-    "color_code": "#163E6D"
-  },
-  {
     "timestamp": "2025-12-17 09:52:56",
     "location": {
       "name": "Katy",
@@ -878,5 +858,25 @@
     },
     "report_summary": "Morning in Katy arrives clear and uncomplicated, the sky mostly open with just a few quiet clouds dr...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2025-12-24 12:38:34",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.72344165133764,
+      "longitude": -95.8334348195218,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-24T04:38:33+00:00",
+      "temperature_c": 20.82,
+      "temperature_f": 69.476,
+      "humidity": 94,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 150,
+      "description": "mist"
+    },
+    "report_summary": "Early afternoon in Katy wears a soft, changeable sky: the morning\u2019s overcast has loosened into broke...",
+    "color_code": "#9CB3C7"
   }
 ]

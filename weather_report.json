@@ -7,34 +7,34 @@
             "longitude": -95.8334348195218
         },
         "current_conditions": {
-            "timestamp": "2025-12-24T01:56:10+00:00",
-            "temperature_c": 21.56,
-            "temperature_f": 70.80799999999999,
-            "humidity": 91,
-            "wind_speed_mph": 6.91233,
+            "timestamp": "2025-12-24T04:38:33+00:00",
+            "temperature_c": 20.82,
+            "temperature_f": 69.476,
+            "humidity": 94,
+            "wind_speed_mph": 8.0532,
             "wind_direction": 150,
-            "description": "clear sky"
+            "description": "mist"
         },
         "forecast": [
             {
-                "startTime": "2025-12-24T03:00:00+00:00",
-                "temperature": 21.56,
-                "windSpeed": 8.61245,
-                "windDirection": 134,
-                "shortForecast": "clear sky"
-            },
-            {
                 "startTime": "2025-12-24T06:00:00+00:00",
-                "temperature": 21.48,
+                "temperature": 20.82,
                 "windSpeed": 7.404470000000001,
                 "windDirection": 142,
-                "shortForecast": "few clouds"
+                "shortForecast": "overcast clouds"
+            },
+            {
+                "startTime": "2025-12-24T09:00:00+00:00",
+                "temperature": 20.27,
+                "windSpeed": 6.08464,
+                "windDirection": 143,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Morning in Katy arrives clear and uncomplicated, the sky mostly open with just a few quiet clouds drifting west to east. Sunlight looks steady rather than harsh, the kind that brightens brick and fence-lines without pressing on the skin. UV is low now and should lift to a modest midday peak; sunglasses and a light touch of sunscreen are sensible. The day looks dry and lucid, with good visibility and little hint of mischief from the weather, a pleasant companion more than a challenge.\n\nDress in easy layers: a soft long-sleeve or light sweater you can peel back as the sun settles in. It\u2019s a fine morning for an unhurried porch coffee, a short neighborhood loop with the dog, or knocking out a couple of errands before the afternoon hum begins. If you\u2019re staying in, crack a window for a few minutes and let the clean air wander through; if you\u2019re out, carry a small water bottle and enjoy the clarity while it lasts.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-12-24 09:56:11",
+    "weather_report": "Early afternoon in Katy wears a soft, changeable sky: the morning\u2019s overcast has loosened into broken clouds, letting shy, silvery sunlight slip through. The day looks clear enough for long views yet a touch matte around the edges, as if seen through frosted glass. Expect more of this gentle back-and-forth through the afternoon\u2014periods of muted sun, then a veil of cloud\u2014pleasant rather than dramatic. The December sun sits low and mild; UV will be on the gentle side, edging toward moderate when the brighter gaps open.\n\nDress for easy comfort: light layers, a breathable long-sleeve or a thin sweater, a jacket if you run cool, and sunglasses for those sudden bright patches. It\u2019s a day for small, unhurried things\u2014an unambitious walk around the block, a swing by the bakery, tidying the porch, wrapping a few gifts near a window where the light drifts in and out. If you linger outdoors, a touch of sunscreen won\u2019t go amiss, even with the cloud cover.",
+    "color_code": "#9CB3C7",
+    "timestamp": "2025-12-24 12:38:34",
     "location": {
         "name": "Katy",
         "latitude": 29.72344165133764,
