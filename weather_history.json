@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-12-17 09:52:56",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.7233967520847,
-      "longitude": -95.83344654279207,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-17T01:52:55+00:00",
-      "temperature_c": 15.78,
-      "temperature_f": 60.403999999999996,
-      "humidity": 79,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 140,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Morning settles over Katy under a soft gray ceiling. Overnight light rain has eased, leaving the str...",
-    "color_code": "#708090"
-  },
-  {
-    "timestamp": "2025-12-17 12:35:53",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.7233967520847,
-      "longitude": -95.83344654279207,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-17T04:29:31+00:00",
-      "temperature_c": 15.25,
-      "temperature_f": 59.45,
-      "humidity": 89,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 140,
-      "description": "few clouds"
-    },
-    "report_summary": "After a quiet, lightly clouded dawn and a small-hours sprinkle, Katy eases into early afternoon unde...",
-    "color_code": "#A3B6C6"
-  },
-  {
     "timestamp": "2025-12-17 16:35:20",
     "location": {
       "name": "Katy",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Katy eases into late afternoon under a calm, pewter sky. Morning\u2019s blanket of cloud loosened at midd...",
     "color_code": "#8FA1B2"
+  },
+  {
+    "timestamp": "2025-12-24 20:50:34",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.72344355902561,
+      "longitude": -95.83343240519866,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-24T12:50:33+00:00",
+      "temperature_c": 20.08,
+      "temperature_f": 68.14399999999999,
+      "humidity": 97,
+      "wind_speed_mph": 6.91233,
+      "wind_direction": 120,
+      "description": "fog"
+    },
+    "report_summary": "Evening settles over Katy with a quilt of broken clouds drifting overhead, the moon and a few brave ...",
+    "color_code": "#2C3E50"
   }
 ]
