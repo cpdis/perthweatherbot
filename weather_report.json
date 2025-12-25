@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Katy",
+            "name": "Houston",
             "country": "US",
-            "latitude": 29.72344130175688,
-            "longitude": -95.83343674440177
+            "latitude": 29.73213684537486,
+            "longitude": -95.7561012241985
         },
         "current_conditions": {
-            "timestamp": "2025-12-24T20:26:49+00:00",
-            "temperature_c": 26.52,
-            "temperature_f": 79.736,
-            "humidity": 74,
-            "wind_speed_mph": 1.99093,
-            "wind_direction": 211,
+            "timestamp": "2025-12-25T01:57:59+00:00",
+            "temperature_c": 21.97,
+            "temperature_f": 71.54599999999999,
+            "humidity": 91,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 150,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-24T21:00:00+00:00",
-                "temperature": 26.52,
-                "windSpeed": 9.30592,
-                "windDirection": 160,
-                "shortForecast": "light rain"
-            },
-            {
-                "startTime": "2025-12-25T00:00:00+00:00",
-                "temperature": 25.45,
-                "windSpeed": 9.3954,
+                "startTime": "2025-12-25T03:00:00+00:00",
+                "temperature": 21.97,
+                "windSpeed": 7.65054,
                 "windDirection": 153,
                 "shortForecast": "overcast clouds"
+            },
+            {
+                "startTime": "2025-12-25T06:00:00+00:00",
+                "temperature": 21.44,
+                "windSpeed": 7.247880000000001,
+                "windDirection": 162,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Before dawn in Katy, the sky hangs low and pewter, the streets still damp from yesterday\u2019s light rain and a ceiling of stubborn cloud. Expect a mostly gray, quiet morning with the sun a shy rumor behind the overcast; UV will be low early and likely stay modest even at midday unless the blanket thins. The light will be soft and diffuse rather than sparkling, clarity muted rather than crisp, with the occasional brighter patch slipping through like a promise rather than a plan.\n\nDress in comfortable layers and shoes that don\u2019t mind wet edges; a light waterproof jacket is the right companion for a quick errand or a slow stroll once the sidewalks stop glistening. The mood suits small, unhurried tasks: brew something warm, tidy the corners the week neglected, leaf through a book with the windows cracked for a breath of cool air. If the cloud lifts a touch later, take a brief walk around the block or a nearby park and let the muted daylight set an easy pace\u2014pleasant in its hush, if not exactly sunny.",
-    "color_code": "#3B4252",
-    "timestamp": "2025-12-25 04:26:50",
+    "weather_report": "Houston wakes under a quilt of soft gray, the heavy night blanket having loosened into broken cloud. The sun is mostly a rumor behind the deck, offering a muted, pearly light and a gentle, low UV that won\u2019t bite. The day\u2019s outlines appear softened at the edges, the city quieter in tone, with no glare, just a calm, even brightness that makes colors look honest.\n\nExpect the clouds to loiter and thin in places as the morning opens up, with shy glimpses of blue rather than any grand clearing. It looks like a pleasant, unhurried sort of day: comfortable in light layers\u2014a long-sleeve shirt or a thin sweater, a packable jacket if you run cool\u2014and sunglasses only if you\u2019re sensitive to brightness. It\u2019s a good morning for easy errands, a slow neighborhood walk to listen to the birds working the treetops, lingering over coffee by a window, or browsing a bookstore where the light falls in silvery panes. If the sun does slip through, it will feel brief and kind.",
+    "color_code": "#A7B2C1",
+    "timestamp": "2025-12-25 09:58:00",
     "location": {
-        "name": "Katy",
-        "latitude": 29.72344130175688,
-        "longitude": -95.83343674440177,
+        "name": "Houston",
+        "latitude": 29.73213684537486,
+        "longitude": -95.7561012241985,
         "timezone": "Australia/Perth"
     }
 }

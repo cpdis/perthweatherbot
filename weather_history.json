@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-12-17 20:53:27",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.71911819818681,
-      "longitude": -95.8171837985398,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-17T12:53:26+00:00",
-      "temperature_c": 16.26,
-      "temperature_f": 61.268,
-      "humidity": 95,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 90,
-      "description": "mist"
-    },
-    "report_summary": "Evening settles over Katy with a soft hiss, the streets still glistening from light rain that came t...",
-    "color_code": "#4C5E6A"
-  },
-  {
-    "timestamp": "2025-12-18 00:34:16",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.72342335460167,
-      "longitude": -95.8334436744536,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-17T16:34:15+00:00",
-      "temperature_c": 17.55,
-      "temperature_f": 63.59,
-      "humidity": 96,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 150,
-      "description": "mist"
-    },
-    "report_summary": "After midnight in Katy, the evening\u2019s light rain has left the streets lacquered and quiet, and the s...",
-    "color_code": "#3B4E5C"
-  },
-  {
     "timestamp": "2025-12-18 04:29:10",
     "location": {
       "name": "Katy",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Before dawn in Katy, the sky hangs low and pewter, the streets still damp from yesterday\u2019s light rai...",
     "color_code": "#3B4252"
+  },
+  {
+    "timestamp": "2025-12-25 09:58:00",
+    "location": {
+      "name": "Houston",
+      "latitude": 29.73213684537486,
+      "longitude": -95.7561012241985,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-25T01:57:59+00:00",
+      "temperature_c": 21.97,
+      "temperature_f": 71.54599999999999,
+      "humidity": 91,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 150,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Houston wakes under a quilt of soft gray, the heavy night blanket having loosened into broken cloud....",
+    "color_code": "#A7B2C1"
   }
 ]
