@@ -2,7 +2,7 @@ name: Automated Weather Update
 
 on:
   schedule:
-    - cron: '0 6,23 * * *' # 7am and 2pm Perth time (UTC+8)
+    - cron: '0 0,13 * * *' # 7am and 6pm Central Time (UTC-6)
   workflow_dispatch:  # Allow manual trigger
 
 permissions:
