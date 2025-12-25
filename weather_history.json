@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2025-12-18 09:53:30",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.74598174800873,
-      "longitude": -95.82389984353698,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-18T01:53:30+00:00",
-      "temperature_c": 17.03,
-      "temperature_f": 62.654,
-      "humidity": 93,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 110,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Morning in Katy arrives soft and unhurried, the sky mottled with scattered clouds that let through t...",
-    "color_code": "#c5d8ee"
-  },
-  {
-    "timestamp": "2025-12-18 12:36:55",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.74598174800873,
-      "longitude": -95.82389984353698,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-18T04:36:55+00:00",
-      "temperature_c": 16.46,
-      "temperature_f": 61.628,
-      "humidity": 94,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 140,
-      "description": "mist"
-    },
-    "report_summary": "Midday in Katy arrives under a steady quilt of overcast, the sun reduced to a pale idea behind the c...",
-    "color_code": "#9BA7B0"
-  },
-  {
     "timestamp": "2025-12-18 16:34:30",
     "location": {
       "name": "Katy",
@@ -898,5 +858,25 @@
     },
     "report_summary": "Houston moves through the late afternoon under a cover of soft gray, the sun slipping in and out of ...",
     "color_code": "#8C97A1"
+  },
+  {
+    "timestamp": "2025-12-25 20:50:05",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.72344703630922,
+      "longitude": -95.8334266054507,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-25T12:50:05+00:00",
+      "temperature_c": 19.97,
+      "temperature_f": 67.946,
+      "humidity": 96,
+      "wind_speed_mph": 1.00665,
+      "wind_direction": 105,
+      "description": "clear sky"
+    },
+    "report_summary": "Katy spent the day under a clear, uncomplicated sky, the kind that turns sunlight into a clean gleam...",
+    "color_code": "#0A1A2F"
   }
 ]

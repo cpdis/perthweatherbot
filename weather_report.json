@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Houston",
+            "name": "Katy",
             "country": "US",
-            "latitude": 29.73213684537486,
-            "longitude": -95.7561012241985
+            "latitude": 29.72344703630922,
+            "longitude": -95.8334266054507
         },
         "current_conditions": {
-            "timestamp": "2025-12-25T08:33:10+00:00",
-            "temperature_c": 20.37,
-            "temperature_f": 68.666,
-            "humidity": 95,
-            "wind_speed_mph": 4.60822,
-            "wind_direction": 160,
-            "description": "overcast clouds"
+            "timestamp": "2025-12-25T12:50:05+00:00",
+            "temperature_c": 19.97,
+            "temperature_f": 67.946,
+            "humidity": 96,
+            "wind_speed_mph": 1.00665,
+            "wind_direction": 105,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-25T09:00:00+00:00",
-                "temperature": 20.37,
-                "windSpeed": 4.56348,
-                "windDirection": 171,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-12-25T15:00:00+00:00",
+                "temperature": 20.06,
+                "windSpeed": 5.41354,
+                "windDirection": 158,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-12-25T12:00:00+00:00",
-                "temperature": 20.14,
-                "windSpeed": 3.19891,
-                "windDirection": 165,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-12-25T18:00:00+00:00",
+                "temperature": 23.02,
+                "windSpeed": 8.16505,
+                "windDirection": 180,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Houston moves through the late afternoon under a cover of soft gray, the sun slipping in and out of torn seams of cloud. After a heavy ceiling before dawn and looser, broken clouds by morning, the light now is gentle and forgiving, the kind that flatters brick and live oak alike. UV is modest at best and fading with the hour, and the day\u2019s clarity is more watercolor than crystal, edges softened, visibility fine but the contrast turned down.\n\nThe rest of the day looks mostly cloudy with occasional brighter breaks, a calm, unhurried mood rather than a dramatic one. Dress in easy layers: a breathable long\u2011sleeve or light sweater you won\u2019t mind carrying if a brighter patch warms the sidewalk, perhaps a scarf if you run cool after sunset. It\u2019s a good afternoon for small, ordinary things\u2014an amble around the block to stretch the legs, watering the plants, finishing the chapter you started this morning, or simmering something simple while the sky dims. If you need to be out, sunglasses are optional; the light is more pearly than sharp.",
-    "color_code": "#8C97A1",
-    "timestamp": "2025-12-25 16:33:11",
+    "weather_report": "Katy spent the day under a clear, uncomplicated sky, the kind that turns sunlight into a clean gleam on every roofline and windshield. The midday sun had some honest strength to it for winter, enough to warrant shades and a bit of respect for the UV, though the air stayed gentle and dry. Now, evening has settled in with a quiet, transparent darkness; stars feel close, the air a touch crisp on the face, and the UV has faded to nothing. No hint of haze or mischief in the weather, just a steady calm that feels dependable.\n\nIt\u2019s a pleasant kind of night if you dress for it: keep the light layers from the day and add a soft sweater or an easy jacket if you\u2019re lingering outdoors. A slow walk around the block would feel good, or a few minutes on the porch with a warm mug, listening to the neighborhood breathe. If you\u2019re staying in, crack a window for a moment and let the clear air wander through; if you\u2019re out, take your time and enjoy the hush. Tomorrow looks like more of the same, a simple, sunlit page waiting to be turned.",
+    "color_code": "#0A1A2F",
+    "timestamp": "2025-12-25 20:50:05",
     "location": {
-        "name": "Houston",
-        "latitude": 29.73213684537486,
-        "longitude": -95.7561012241985,
+        "name": "Katy",
+        "latitude": 29.72344703630922,
+        "longitude": -95.8334266054507,
         "timezone": "Australia/Perth"
     }
 }
