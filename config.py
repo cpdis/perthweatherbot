@@ -4,8 +4,24 @@ import logging
 from pathlib import Path
 from typing import Dict, Union, Optional, Any, List
 from dataclasses import dataclass
+from timezonefinder import TimezoneFinder
 
 logger = logging.getLogger(__name__)
+
+# Initialize timezone finder (lazy singleton)
+_tf: Optional[TimezoneFinder] = None
+
+def get_timezone_from_coords(latitude: float, longitude: float) -> str:
+    """Determine timezone from coordinates using timezonefinder"""
+    global _tf
+    if _tf is None:
+        _tf = TimezoneFinder()
+
+    tz = _tf.timezone_at(lat=latitude, lng=longitude)
+    if tz is None:
+        logger.warning(f"Could not determine timezone for ({latitude}, {longitude}), defaulting to UTC")
+        return 'UTC'
+    return tz
 
 
 class WeatherBotError(Exception):
@@ -89,11 +105,20 @@ def load_location_config() -> LocationConfig:
             if field not in location_data:
                 raise ConfigurationError(f"Missing required field '{field}' in location.json")
                 
+        lat = float(location_data['latitude'])
+        lon = float(location_data['longitude'])
+
+        # Auto-detect timezone from coordinates if not provided
+        tz = location_data.get('timezone')
+        if not tz:
+            tz = get_timezone_from_coords(lat, lon)
+            logger.info(f"Auto-detected timezone: {tz}")
+
         return LocationConfig(
             name=location_data.get('location_name', 'Current Location'),
-            latitude=float(location_data['latitude']),
-            longitude=float(location_data['longitude']),
-            timezone=location_data.get('timezone', 'Australia/Perth')
+            latitude=lat,
+            longitude=lon,
+            timezone=tz
         )
     except FileNotFoundError:
         logger.warning("location.json not found, using Perth coordinates as fallback")
