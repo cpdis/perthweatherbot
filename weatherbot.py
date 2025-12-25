@@ -10,7 +10,6 @@ from typing import Dict, Union, Optional, Any
 
 from config import load_config, WeatherBotConfig, LocationConfig, ConfigurationError
 from weather import WeatherService, APIError
-from audio import generate_audio_forecast, AudioGenerationError
 from images import generate_weather_image, ImageGenerationError
 from history import WeatherHistory
 
@@ -23,7 +22,7 @@ logger = logging.getLogger(__name__)
 
 
 def main() -> None:
-    """Main function to generate weather report and audio"""
+    """Main function to generate weather report"""
     try:
         # Load configuration
         config: WeatherBotConfig = load_config()
@@ -104,16 +103,6 @@ def main() -> None:
             except Exception as e:
                 logger.warning(f"Failed to save to history: {e}")
             
-            # Generate audio forecast
-            if config.elevenlabs_api_key:
-                try:
-                    generate_audio_forecast(response_text, config)
-                    logger.info("Audio forecast generation completed successfully")
-                except AudioGenerationError as e:
-                    logger.warning(f"Audio generation failed: {e}")
-            else:
-                logger.info("Skipping audio generation - no ElevenLabs API key configured")
-
             # Generate weather image
             if config.gemini_api_key:
                 try:

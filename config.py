@@ -43,13 +43,10 @@ class WeatherBotConfig:
     locations: List[LocationConfig]
     openweather_api_key: str
     openai_api_key: str
-    elevenlabs_api_key: Optional[str] = None
     gemini_api_key: Optional[str] = None
     log_level: str = 'INFO'
     forecast_hours: int = 6
     max_report_words: int = 300
-    voice_id: str = 'qNkzaJoHLLdpvgh5tISm'
-    model_id: str = 'eleven_multilingual_v2'
     
     def __post_init__(self) -> None:
         """Validate configuration after initialization"""
@@ -168,10 +165,6 @@ def load_config() -> WeatherBotConfig:
     if not openweather_key:
         raise ConfigurationError("OpenWeather API key not found in environment variables")
     
-    elevenlabs_key: Optional[str] = os.getenv('ELEVENLABS_API_KEY')
-    if not elevenlabs_key:
-        logger.warning("ElevenLabs API key not found - audio generation will be skipped")
-
     gemini_key: Optional[str] = os.getenv('GEMINI_API_KEY')
     if not gemini_key:
         logger.warning("Gemini API key not found - image generation will be skipped")
@@ -183,21 +176,16 @@ def load_config() -> WeatherBotConfig:
     log_level: str = os.getenv('LOG_LEVEL', 'INFO')
     forecast_hours: int = int(os.getenv('FORECAST_HOURS', '6'))
     max_report_words: int = int(os.getenv('MAX_REPORT_WORDS', '300'))
-    voice_id: str = os.getenv('ELEVENLABS_VOICE_ID', 'qNkzaJoHLLdpvgh5tISm')
-    model_id: str = os.getenv('ELEVENLABS_MODEL_ID', 'eleven_multilingual_v2')
-    
+
     return WeatherBotConfig(
         current_location=current_location,
         locations=all_locations,
         openweather_api_key=openweather_key,
         openai_api_key=openai_key,
-        elevenlabs_api_key=elevenlabs_key,
         gemini_api_key=gemini_key,
         log_level=log_level,
         forecast_hours=forecast_hours,
-        max_report_words=max_report_words,
-        voice_id=voice_id,
-        model_id=model_id
+        max_report_words=max_report_words
     )
 
 

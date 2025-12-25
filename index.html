@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css" integrity="sha512-EZLkOqwILORob+p0BXZc+Vm3RgJBOe1Iq/0fiI7r/wJgzOFZMlsqTa29UEl6v6U6gsV4uIpsNZoV32YZqrCRCQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <title>Weather Report</title>
     <style>
         :root {
@@ -248,10 +247,6 @@
                 line-height: 1.5;
             }
             
-            .audio-container {
-                flex-direction: column;
-                gap: 0.5rem;
-            }
         }
 
         hr {
@@ -342,30 +337,6 @@
             opacity: 0.8;
         }
 
-        /* Audio control styles */
-        .play-button {
-            font-size: 2.5rem;
-            cursor: pointer;
-            transition: transform 0.3s ease;
-            color: var(--text-color);
-        }
-
-        .play-button:hover {
-            transform: scale(1.1);
-        }
-        
-        .play-button:disabled {
-            opacity: 0.5;
-            cursor: not-allowed;
-        }
-        
-        .audio-status {
-            font-size: 0.9rem;
-            color: #666;
-            text-align: center;
-            margin-top: 0.5rem;
-        }
-        
         /* Location selector styles */
         .location-selector {
             display: flex;
@@ -396,75 +367,6 @@
             }
         }
 
-        .waveform-container {
-            width: 50%;
-            height: 60px;
-            margin: 0 auto;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            opacity: 0;
-            transition: opacity 0.5s ease;
-        }
-
-        .waveform-container.active {
-            opacity: 1;
-        }
-
-        .bar {
-            width: 2px;
-            height: 20px;
-            margin: 0 2px;
-            background-color: var(--text-color);
-            animation: wave 1s ease-in-out infinite;
-        }
-
-        @keyframes wave {
-            0%, 100% {
-                height: 20px;
-            }
-            50% {
-                height: 40px;
-            }
-        }
-
-        /* Different animation delays for each bar */
-        .bar:nth-child(1) { animation-delay: 0.0s; }
-        .bar:nth-child(2) { animation-delay: 0.1s; }
-        .bar:nth-child(3) { animation-delay: 0.2s; }
-        .bar:nth-child(4) { animation-delay: 0.3s; }
-        .bar:nth-child(5) { animation-delay: 0.4s; }
-        .bar:nth-child(6) { animation-delay: 0.5s; }
-        .bar:nth-child(7) { animation-delay: 0.6s; }
-        .bar:nth-child(8) { animation-delay: 0.7s; }
-        .bar:nth-child(9) { animation-delay: 0.8s; }
-        .bar:nth-child(10) { animation-delay: 0.9s; }
-
-        /* Audio player styles */
-        .audio-container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 1rem;
-            margin: 2rem 0;
-        }
-
-        audio {
-            height: 30px;
-        }
-
-        /* Hide default audio player controls except for the timeline and volume */
-        audio::-webkit-media-controls-panel {
-            background-color: var(--bg-color);
-        }
-
-        audio::-webkit-media-controls-play-button,
-        audio::-webkit-media-controls-timeline,
-        audio::-webkit-media-controls-current-time-display,
-        audio::-webkit-media-controls-time-remaining-display,
-        audio::-webkit-media-controls-volume-slider {
-            display: none;
-        }
     </style>
     <script>
         const systemThemeMedia = window.matchMedia('(prefers-color-scheme: dark)');
@@ -554,26 +456,7 @@
                     // Refresh weather image with cache-busting
                     const weatherImage = document.getElementById('weather-image');
                     weatherImage.src = `weather_image.png?t=${Date.now()}`;
-                    
-                    // Enable audio controls if audio is available
-                    const audioElement = document.getElementById('weather-audio');
-                    const playButton = document.getElementById('playButton');
-                    
-                    // Check if audio file exists by trying to load it
-                    audioElement.addEventListener('canplaythrough', function() {
-                        playButton.disabled = false;
-                        document.querySelector('.audio-status').textContent = 'Audio forecast available';
-                    }, { once: true });
-                    
-                    audioElement.addEventListener('error', function() {
-                        playButton.disabled = true;
-                        document.querySelector('.audio-status').textContent = 'Audio forecast unavailable';
-                    }, { once: true });
-                    
-                    // Trigger audio load with cache-busting
-                    audioElement.src = `forecast.mp3?t=${Date.now()}`;
-                    audioElement.load();
-                    
+
                     // Load and populate location selector if multiple locations available
                     loadLocationSelector(data);
                 })
@@ -607,11 +490,6 @@
         
         // Add keyboard shortcuts
         document.addEventListener('keydown', function(e) {
-            // Space bar to toggle audio
-            if (e.code === 'Space' && e.target === document.body) {
-                e.preventDefault();
-                toggleAudio();
-            }
             // R key to refresh
             if (e.code === 'KeyR' && !e.ctrlKey && !e.metaKey) {
                 e.preventDefault();
@@ -670,74 +548,14 @@
             </div>
         </div>
         <hr class="divider">
-        <div class="audio-container">
-            <div class="twelve columns" style="text-align: center;">
-                <i id="playButton" class="fa-solid fa-play play-button" onclick="toggleAudio()" disabled></i>
-                <div class="waveform-container">
-                    <div class="bar"></div>
-                    <div class="bar"></div>
-                    <div class="bar"></div>
-                    <div class="bar"></div>
-                    <div class="bar"></div>
-                    <div class="bar"></div>
-                    <div class="bar"></div>
-                    <div class="bar"></div>
-                    <div class="bar"></div>
-                    <div class="bar"></div>
-                </div>
-                <div class="audio-status">Checking audio availability...</div>
-            </div>
-            <audio id="weather-audio" src="forecast.mp3?t=" preload="none"></audio>
-        </div>
-        <hr class="divider">
         <div id="footer">
             <p id="timestamp">Loading timestamp...</p>
             <p id="health-status" style="font-size: 0.9rem; color: #666;"></p>
             <p>By <a href="https://www.colindismuke.com">Colin Dismuke</a>. Powered by the <a href="https://openweathermap.org/">OpenWeather API</a>, <a href="https://llm.datasette.io/en/stable/">llm</a>, and vibes.</p>
-            <p>View <a href="https://github.com/cpdis/perthweatherbot">the code</a>. <span style="color: #666; font-size: 0.8rem;">Keyboard shortcuts: Space (play/pause), R (refresh), T (theme)</span></p>
+            <p>View <a href="https://github.com/cpdis/perthweatherbot">the code</a>. <span style="color: #666; font-size: 0.8rem;">Keyboard shortcuts: R (refresh), T (theme)</span></p>
         </div>
     </div>
 
-    <script>
-        // Audio player functionality
-        let audio = document.getElementById('weather-audio');
-        let playButton = document.querySelector('.play-button');
-
-        function toggleAudio() {
-            if (playButton.disabled) return;
-            
-            if (audio.paused) {
-                audio.play().catch(error => {
-                    console.error('Audio play failed:', error);
-                    document.querySelector('.audio-status').textContent = 'Audio playback failed';
-                });
-                playButton.classList.remove('fa-play');
-                playButton.classList.add('fa-pause');
-                document.querySelector('.waveform-container').classList.add('active');
-            } else {
-                audio.pause();
-                playButton.classList.remove('fa-pause');
-                playButton.classList.add('fa-play');
-                document.querySelector('.waveform-container').classList.remove('active');
-            }
-        }
-
-        // Reset play button and waveform when audio ends
-        audio.addEventListener('ended', function() {
-            playButton.classList.remove('fa-pause');
-            playButton.classList.add('fa-play');
-            document.querySelector('.waveform-container').classList.remove('active');
-        });
-        
-        // Handle audio loading states
-        audio.addEventListener('loadstart', function() {
-            document.querySelector('.audio-status').textContent = 'Loading audio...';
-        });
-        
-        audio.addEventListener('loadeddata', function() {
-            document.querySelector('.audio-status').textContent = 'Audio forecast ready';
-        });
-    </script>
 </body>
 
 </html>

@@ -40,7 +40,6 @@ jobs:
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
-        ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       run: |
         python health.py
@@ -50,7 +49,6 @@ jobs:
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
-        ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         LOG_LEVEL: INFO
       run: python weatherbot.py
@@ -73,7 +71,7 @@ jobs:
         git config --global user.email 'action@github.com'
         
         # Add generated files (including history and image if they exist)
-        git add forecast.mp3 weather_report.json
+        git add weather_report.json
         if [ -f weather_image.png ]; then
           git add weather_image.png
         fi

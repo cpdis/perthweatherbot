@@ -67,12 +67,7 @@ class HealthCheck:
                 checks.append("OpenAI API key configured")
             else:
                 checks.append("❌ OpenAI API key missing")
-                
-            if config.elevenlabs_api_key:
-                checks.append("ElevenLabs API key configured")
-            else:
-                checks.append("⚠️ ElevenLabs API key missing (audio will be skipped)")
-            
+
             # Check location configuration
             if config.current_location:
                 checks.append(f"Location: {config.current_location.name}")
@@ -185,7 +180,7 @@ class HealthCheck:
         """Check if all required Python packages are available"""
         try:
             required_modules = [
-                "requests", "llm", "pytz", "websocket", "json", "pathlib"
+                "requests", "llm", "pytz", "json", "pathlib"
             ]
             
             missing_modules = []
