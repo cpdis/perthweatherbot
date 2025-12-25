@@ -3,42 +3,42 @@
         "location": {
             "name": "Katy",
             "country": "US",
-            "latitude": 29.72344337746032,
-            "longitude": -95.83343238987413
+            "latitude": 29.72344111066829,
+            "longitude": -95.83343385677153
         },
         "current_conditions": {
-            "timestamp": "2025-12-25T16:30:35+00:00",
-            "temperature_c": 22.53,
-            "temperature_f": 72.554,
-            "humidity": 89,
+            "timestamp": "2025-12-25T17:38:50+00:00",
+            "temperature_c": 23.97,
+            "temperature_f": 75.146,
+            "humidity": 83,
             "wind_speed_mph": 4.004230000000001,
-            "wind_direction": 149,
+            "wind_direction": 207,
             "description": "clear sky"
         },
         "forecast": [
             {
                 "startTime": "2025-12-25T18:00:00+00:00",
-                "temperature": 22.53,
+                "temperature": 23.97,
                 "windSpeed": 8.16505,
                 "windDirection": 180,
                 "shortForecast": "clear sky"
             },
             {
                 "startTime": "2025-12-25T21:00:00+00:00",
-                "temperature": 24.01,
+                "temperature": 24.97,
                 "windSpeed": 9.73095,
                 "windDirection": 191,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Just after midnight in Katy, the sky is swept clean and quiet, a dark enamel with a few sharp stars. The night feels gentle and settled, the kind that slows the breath and softens the neighborhood edges; with the sun long gone, the UV burden is essentially nil and visibility is crisp.\n\nEarlier, midday and late afternoon ran under an unbroken blue\u2014bright, uncomplicated sun and a cheerful clarity that likely carried a stout UV bite at its peak. If that clear pattern lingers into morning, plan light layers you can add or shed and keep sunglasses handy toward midday; for now, a light sweater or jacket suits the cool calm. It\u2019s a good hour for a slow circuit around the block or a last, easy check on porch plants; after dawn, consider coffee on the stoop, a quiet dog walk before traffic stirs, a quick grocery run while aisles are empty, or wiping down the car windows as the day brightens.",
-    "color_code": "#0b1d4d",
-    "timestamp": "2025-12-26 00:30:36",
+    "weather_report": "Late morning in Katy arrives clean and bright, the sky rinsed of haze and holding a steady, silvery winter sun. By midday and through midafternoon, the forecast keeps it simple: clear sky, good visibility, and the kind of light that makes edges look sharper and colors a little truer. The UV will be modest for December, gentler than summer but not absent; sunglasses are wise, a dab of sunscreen reasonable. Expect the air to feel pleasantly mild to cool, the breeze light, the day easy on the lungs and kind to a lingering stroll.\n\nIt\u2019s the sort of day for small, satisfying errands and unrushed moments: a neighborhood walk between lunch and three, a car wash that finally dries properly, a quiet sit on the patio with a book, or a tidy-up in the garage with the door rolled open to the light. Dress in layers\u2014a soft tee under a light sweater or jacket\u2014so you can chase the sun without shivering in the shade. As the afternoon leans on, the clarity holds, shadows lengthen neatly, and the evening promises to arrive crisp and uncomplicated.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-12-25 11:38:50",
     "location": {
         "name": "Katy",
-        "latitude": 29.72344337746032,
-        "longitude": -95.83343238987413,
-        "timezone": "Australia/Perth"
+        "latitude": 29.72344111066829,
+        "longitude": -95.83343385677153,
+        "timezone": "America/Chicago"
     }
 }
