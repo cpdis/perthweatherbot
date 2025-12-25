@@ -1,67 +1,86 @@
-# Perth Weather Bot
+# Weather Vibes
 
-A natural language weather forecast generator for Perth, Australia. This application fetches real-time weather data from the OpenWeather API and generates a beautifully written weather report.
+A natural language weather forecast generator that creates beautifully written weather reports and AI-generated images for any location. Originally built for Perth, Australia, now location-aware and mobile.
+
+## Features
+
+- Fetches real-time weather data from OpenWeather API
+- Generates narrative weather reports using GPT
+- Creates AI-generated weather scene images using Gemini
+- Auto-detects timezone from coordinates
+- Supports dynamic location updates (via mobile automation)
+- Runs on GitHub Actions with scheduled updates
 
 ## Prerequisites
 
-- Python 3.6 or higher
+- Python 3.9+
 - OpenWeather API key
 - OpenAI API key
+- Gemini API key (optional, for image generation)
 
 ## Installation
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/perth-weather-bot.git
-cd perth-weather-bot
+git clone https://github.com/cpdis/perthweatherbot.git
+cd perthweatherbot
 ```
 
-2. Install the required Python packages:
+2. Install dependencies:
 ```bash
-pip install requests pytz python-dotenv llm
+pip install -r requirements.txt
 ```
 
-3. Set up environment variables:
-Create a `.env` file in the root directory with the following content:
+3. Set up environment variables in a `.env` file:
 ```
 OPENWEATHER_API_KEY=your_openweather_api_key
 OPENAI_API_KEY=your_openai_api_key
+GEMINI_API_KEY=your_gemini_api_key
 ```
 
 ## Configuration
 
-The application is pre-configured with:
-- Location: Perth, Australia (latitude: -31.9523, longitude: 115.8613)
-- Environment variables for API keys (stored in `.env` file)
+### Location
+
+Edit `location.json` to set your location:
+```json
+{
+  "latitude": 29.7234,
+  "longitude": -95.8334,
+  "location_name": "Katy"
+}
+```
+
+The timezone is automatically detected from coordinates using `timezonefinder`.
+
+### Mobile Location Updates
+
+The location can be updated automatically via mobile automation (e.g., iOS Shortcuts) by pushing changes to `location.json`. This enables the weather report to follow you as you travel.
 
 ## Running Locally
 
-1. Make sure your `.env` file is properly configured with valid API keys.
-
-2. Run the Python script:
 ```bash
 python weatherbot.py
 ```
 
-3. The script will generate a `weather_report.json` file containing:
+This generates:
+- `weather_report.json` - Weather data and narrative report
+- `weather_image.png` - AI-generated weather scene (if Gemini configured)
+
+## GitHub Actions
+
+The bot runs automatically via GitHub Actions on a schedule. Configure the cron in `.github/workflows/weather-update.yml`.
+
+## Output
+
+The generated report includes:
 - Current weather conditions
 - Weather forecast
-- Natural language weather report
-- Color code based on weather conditions
-- Current timestamp in Perth time
+- Narrative weather report (novelist style)
+- AI-generated scene image
+- Color code based on conditions
+- Timestamps in local time
 
-## API Reference
+## Live Site
 
-This application uses:
-- OpenWeather API to fetch weather data:
-  - Current weather endpoint: `api.openweathermap.org/data/2.5/weather`
-  - Forecast endpoint: `api.openweathermap.org/data/2.5/forecast`
-- OpenAI API for natural language processing
-
-## Output Format
-
-The generated `weather_report.json` file includes:
-- Detailed weather data
-- A beautifully written weather report in a narrative style
-- Color coding for weather conditions
-- Timestamps in Perth local time
+View the live weather at [weather.cpd.dev](https://weather.cpd.dev)
