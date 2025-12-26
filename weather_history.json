@@ -1,65 +1,5 @@
 [
   {
-    "timestamp": "2025-12-19 04:24:41",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.73849043990193,
-      "longitude": -95.82826907931006,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-18T20:24:41+00:00",
-      "temperature_c": 24.77,
-      "temperature_f": 76.586,
-      "humidity": 70,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 280,
-      "description": "scattered clouds"
-    },
-    "report_summary": "A quiet, predawn hush sits over Katy. The most recent forecast showed scattered clouds through late ...",
-    "color_code": "#2C3E50"
-  },
-  {
-    "timestamp": "2025-12-19 09:56:36",
-    "location": {
-      "name": "Galveston",
-      "latitude": 29.30400217990662,
-      "longitude": -94.79942900706851,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-19T01:56:35+00:00",
-      "temperature_c": 20.73,
-      "temperature_f": 69.314,
-      "humidity": 70,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 320,
-      "description": "few clouds"
-    },
-    "report_summary": "Morning settles over Galveston with only a few harmless clouds drifting by, the light clear and forg...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2025-12-19 12:36:48",
-    "location": {
-      "name": "Galveston",
-      "latitude": 29.30400217990662,
-      "longitude": -94.79942900706851,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-19T04:36:48+00:00",
-      "temperature_c": 17.92,
-      "temperature_f": 64.256,
-      "humidity": 60,
-      "wind_speed_mph": 21.85549,
-      "wind_direction": 340,
-      "description": "clear sky"
-    },
-    "report_summary": "Galveston wakes under a clean, porcelain sky and keeps it, the kind of blue that seems freshly rinse...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2025-12-19 16:34:07",
     "location": {
       "name": "Galveston",
@@ -878,5 +818,25 @@
     },
     "report_summary": "Evening settles over Katy with scattered clouds drifting like loose pages across a deepening sky. It...",
     "color_code": "#2C3E50"
+  },
+  {
+    "timestamp": "2025-12-26 07:30:41",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.72344283976949,
+      "longitude": -95.83342996388517,
+      "timezone": "America/Chicago"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-26T13:30:41+00:00",
+      "temperature_c": 20.92,
+      "temperature_f": 69.656,
+      "humidity": 95,
+      "wind_speed_mph": 1.99093,
+      "wind_direction": 219,
+      "description": "overcast clouds"
+    },
+    "report_summary": "A gray quilt has been drawn over Katy this morning, and it looks content to linger. From midmorning ...",
+    "color_code": "#9AA1A8"
   }
 ]
