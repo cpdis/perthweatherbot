@@ -1,65 +1,5 @@
 [
   {
-    "timestamp": "2025-12-20 04:27:28",
-    "location": {
-      "name": "Fulshear",
-      "latitude": 29.72126772405123,
-      "longitude": -95.84679436064854,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-19T20:27:28+00:00",
-      "temperature_c": 20.25,
-      "temperature_f": 68.45,
-      "humidity": 28,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 210,
-      "description": "clear sky"
-    },
-    "report_summary": "Fulshear wakes under a hushed, star-salted sky, the kind of clear, predawn stillness that makes the ...",
-    "color_code": "#0b1d3a"
-  },
-  {
-    "timestamp": "2025-12-20 09:50:09",
-    "location": {
-      "name": "Dallas",
-      "latitude": 32.78057228462914,
-      "longitude": -96.79642530445533,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-20T01:50:08+00:00",
-      "temperature_c": 13.38,
-      "temperature_f": 56.084,
-      "humidity": 37,
-      "wind_speed_mph": 13.802290000000001,
-      "wind_direction": 170,
-      "description": "broken clouds"
-    },
-    "report_summary": "Dallas wakes under a quilt of broken clouds, the sun slipping in and out like a shy performer betwee...",
-    "color_code": "#AAB7C5"
-  },
-  {
-    "timestamp": "2025-12-20 12:29:47",
-    "location": {
-      "name": "Dallas",
-      "latitude": 32.78057228462914,
-      "longitude": -96.79642530445533,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-20T04:16:58+00:00",
-      "temperature_c": 12.25,
-      "temperature_f": 54.05,
-      "humidity": 42,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 170,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Dallas moves through midday under a high, well-combed sky, the clouds thinning to wisps that only so...",
-    "color_code": "#86C5E0"
-  },
-  {
     "timestamp": "2025-12-20 16:29:51",
     "location": {
       "name": "Dallas",
@@ -798,5 +738,25 @@
     },
     "report_summary": "Evening settles over Katy with an easy quiet, the sky mostly open, only a few clouds loitering at th...",
     "color_code": "#0B1D3A"
+  },
+  {
+    "timestamp": "2025-12-27 07:26:18",
+    "location": {
+      "name": "Houston",
+      "latitude": 29.77573926641382,
+      "longitude": -95.69471412881519,
+      "timezone": "America/Chicago"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-27T13:26:18+00:00",
+      "temperature_c": 20.58,
+      "temperature_f": 69.044,
+      "humidity": 94,
+      "wind_speed_mph": 4.60822,
+      "wind_direction": 230,
+      "description": "fog"
+    },
+    "report_summary": "Houston wakes to a quilt of low gray cloud, the light soft and directionless, the sun hiding somewhe...",
+    "color_code": "#A3ABB5"
   }
 ]
