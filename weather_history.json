@@ -1,65 +1,5 @@
 [
   {
-    "timestamp": "2025-12-19 16:34:07",
-    "location": {
-      "name": "Galveston",
-      "latitude": 29.30400217990662,
-      "longitude": -94.79942900706851,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-19T08:34:06+00:00",
-      "temperature_c": 15.46,
-      "temperature_f": 59.828,
-      "humidity": 44,
-      "wind_speed_mph": 18.410510000000002,
-      "wind_direction": 360,
-      "description": "clear sky"
-    },
-    "report_summary": "Late afternoon in Galveston arrives clear and bright, the sun angling low and painting the water wit...",
-    "color_code": "#F6C28B"
-  },
-  {
-    "timestamp": "2025-12-19 20:49:56",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.72342480754589,
-      "longitude": -95.8334508030869,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-19T12:49:55+00:00",
-      "temperature_c": 5.06,
-      "temperature_f": 41.108000000000004,
-      "humidity": 75,
-      "wind_speed_mph": 4.60822,
-      "wind_direction": 40,
-      "description": "clear sky"
-    },
-    "report_summary": "Night has settled over Katy with a polished, uncomplicated sky. The day ran bright from morning into...",
-    "color_code": "#0B1E3A"
-  },
-  {
-    "timestamp": "2025-12-20 00:31:06",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.72341801657811,
-      "longitude": -95.83344607491324,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-19T16:31:05+00:00",
-      "temperature_c": 15.08,
-      "temperature_f": 59.144,
-      "humidity": 38,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 80,
-      "description": "clear sky"
-    },
-    "report_summary": "Just past midnight in Katy, the sky is scrubbed clean and still, a quiet lid of darkness where even ...",
-    "color_code": "#0b1e3f"
-  },
-  {
     "timestamp": "2025-12-20 04:27:28",
     "location": {
       "name": "Fulshear",
@@ -838,5 +778,25 @@
     },
     "report_summary": "A gray quilt has been drawn over Katy this morning, and it looks content to linger. From midmorning ...",
     "color_code": "#9AA1A8"
+  },
+  {
+    "timestamp": "2025-12-26 19:19:10",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.72344460018686,
+      "longitude": -95.83343280201389,
+      "timezone": "America/Chicago"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-27T01:19:10+00:00",
+      "temperature_c": 22.99,
+      "temperature_f": 73.382,
+      "humidity": 85,
+      "wind_speed_mph": 10.35731,
+      "wind_direction": 200,
+      "description": "clear sky"
+    },
+    "report_summary": "Evening settles over Katy with an easy quiet, the sky mostly open, only a few clouds loitering at th...",
+    "color_code": "#0B1D3A"
   }
 ]

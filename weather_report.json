@@ -3,42 +3,42 @@
         "location": {
             "name": "Katy",
             "country": "US",
-            "latitude": 29.72344283976949,
-            "longitude": -95.83342996388517
+            "latitude": 29.72344460018686,
+            "longitude": -95.83343280201389
         },
         "current_conditions": {
-            "timestamp": "2025-12-26T13:30:41+00:00",
-            "temperature_c": 20.92,
-            "temperature_f": 69.656,
-            "humidity": 95,
-            "wind_speed_mph": 1.99093,
-            "wind_direction": 219,
-            "description": "overcast clouds"
+            "timestamp": "2025-12-27T01:19:10+00:00",
+            "temperature_c": 22.99,
+            "temperature_f": 73.382,
+            "humidity": 85,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 200,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-26T15:00:00+00:00",
-                "temperature": 20.92,
-                "windSpeed": 6.77811,
-                "windDirection": 217,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-12-27T03:00:00+00:00",
+                "temperature": 22.79,
+                "windSpeed": 9.8428,
+                "windDirection": 185,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2025-12-26T18:00:00+00:00",
-                "temperature": 21.49,
-                "windSpeed": 10.75997,
-                "windDirection": 218,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-12-27T06:00:00+00:00",
+                "temperature": 22.46,
+                "windSpeed": 9.21644,
+                "windDirection": 182,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "A gray quilt has been drawn over Katy this morning, and it looks content to linger. From midmorning through noon the clouds hold fast, keeping the sun to a pale suggestion behind the curtain. Expect a soft, even light with little glare and a low UV index; colors will look subdued, edges a little gentler than usual, and visibility otherwise steady. It\u2019s not a dramatic day, just a muted one, the sort that smooths out distractions.\n\nDress in easy layers\u2014a long-sleeve shirt and a light jacket or cardigan should suit the cool, hushed feel\u2014and save the heavy gear for another time. The weather invites errands done unhurriedly, a quiet walk around the block to stretch the legs, a stop at the library, or a late-morning grocery run. If you\u2019re staying in, this is fine light for sorting a drawer, writing a note, or simmering something simple on the stove while the sky keeps its calm.",
-    "color_code": "#9AA1A8",
-    "timestamp": "2025-12-26 07:30:41",
+    "weather_report": "Evening settles over Katy with an easy quiet, the sky mostly open, only a few clouds loitering at the edges and more drifting in by midnight. There\u2019s no sun left to speak of and the UV is essentially nil, so the night reads clean and calm, with decent clarity for a glance at the stars between passing veils. It feels like one of those December nights that invites you to breathe a little slower and listen to the soft machinery of the neighborhood.\n\nExpect a steady, pleasant stretch tonight: fair now, lightly speckled later. A light jacket or cozy sweater will do, the sort of layer you forget you\u2019re wearing until you hang it by the door. If you\u2019re heading out, a short errand, a leisurely dog walk, or a quiet loop around the block suits the mood; if you\u2019re staying in, a cup of tea on the porch or a few pages of that magazine you keep meaning to finish pair nicely with the sky\u2019s gentle half-clouded attitude.",
+    "color_code": "#0B1D3A",
+    "timestamp": "2025-12-26 19:19:10",
     "location": {
         "name": "Katy",
-        "latitude": 29.72344283976949,
-        "longitude": -95.83342996388517,
+        "latitude": 29.72344460018686,
+        "longitude": -95.83343280201389,
         "timezone": "America/Chicago"
     }
 }
