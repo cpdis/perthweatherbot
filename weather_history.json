@@ -1,65 +1,5 @@
 [
   {
-    "timestamp": "2025-12-20 16:29:51",
-    "location": {
-      "name": "Dallas",
-      "latitude": 32.78057228462914,
-      "longitude": -96.79642530445533,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-20T08:29:50+00:00",
-      "temperature_c": 11.04,
-      "temperature_f": 51.872,
-      "humidity": 61,
-      "wind_speed_mph": 13.802290000000001,
-      "wind_direction": 180,
-      "description": "few clouds"
-    },
-    "report_summary": "Late-day light in Dallas feels warm and forgiving, the sky mostly open with only a few lazy clouds d...",
-    "color_code": "#E9B872"
-  },
-  {
-    "timestamp": "2025-12-20 20:45:19",
-    "location": {
-      "name": "Dallas",
-      "latitude": 32.78052703062674,
-      "longitude": -96.79649300183367,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-20T12:41:01+00:00",
-      "temperature_c": 10.42,
-      "temperature_f": 50.756,
-      "humidity": 85,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 180,
-      "description": "few clouds"
-    },
-    "report_summary": "Dallas drifted through a sun-forward day: a few morning tufts gave way to a clean, open noon sky, br...",
-    "color_code": "#0a1f44"
-  },
-  {
-    "timestamp": "2025-12-21 00:28:06",
-    "location": {
-      "name": "Fort Worth",
-      "latitude": 32.75989808180223,
-      "longitude": -97.24664422857582,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-20T16:28:05+00:00",
-      "temperature_c": 16.82,
-      "temperature_f": 62.275999999999996,
-      "humidity": 66,
-      "wind_speed_mph": 18.410510000000002,
-      "wind_direction": 190,
-      "description": "clear sky"
-    },
-    "report_summary": "Fort Worth has slipped past midnight under a clean, starry dome; the air feels settled and a touch c...",
-    "color_code": "#0D1B2A"
-  },
-  {
     "timestamp": "2025-12-21 04:24:46",
     "location": {
       "name": "Granbury",
@@ -758,5 +698,25 @@
     },
     "report_summary": "Houston wakes to a quilt of low gray cloud, the light soft and directionless, the sun hiding somewhe...",
     "color_code": "#A3ABB5"
+  },
+  {
+    "timestamp": "2025-12-27 19:38:50",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.72344525812541,
+      "longitude": -95.83342886513647,
+      "timezone": "America/Chicago"
+    },
+    "current_conditions": {
+      "timestamp": "2025-12-28T01:38:50+00:00",
+      "temperature_c": 22.5,
+      "temperature_f": 72.5,
+      "humidity": 86,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 190,
+      "description": "clear sky"
+    },
+    "report_summary": "Evening settles over Katy with a clean, unblemished sky, the kind of clarity that sharpens the edges...",
+    "color_code": "#0D1B2A"
   }
 ]

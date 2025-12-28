@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Houston",
+            "name": "Katy",
             "country": "US",
-            "latitude": 29.77573926641382,
-            "longitude": -95.69471412881519
+            "latitude": 29.72344525812541,
+            "longitude": -95.83342886513647
         },
         "current_conditions": {
-            "timestamp": "2025-12-27T13:26:18+00:00",
-            "temperature_c": 20.58,
-            "temperature_f": 69.044,
-            "humidity": 94,
-            "wind_speed_mph": 4.60822,
-            "wind_direction": 230,
-            "description": "fog"
+            "timestamp": "2025-12-28T01:38:50+00:00",
+            "temperature_c": 22.5,
+            "temperature_f": 72.5,
+            "humidity": 86,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 190,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-27T15:00:00+00:00",
-                "temperature": 20.9,
-                "windSpeed": 7.1584,
-                "windDirection": 187,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-12-28T03:00:00+00:00",
+                "temperature": 22.5,
+                "windSpeed": 8.20979,
+                "windDirection": 173,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-12-27T18:00:00+00:00",
-                "temperature": 24.79,
+                "startTime": "2025-12-28T06:00:00+00:00",
+                "temperature": 22.05,
                 "windSpeed": 10.334940000000001,
-                "windDirection": 184,
-                "shortForecast": "overcast clouds"
+                "windDirection": 169,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Houston wakes to a quilt of low gray cloud, the light soft and directionless, the sun hiding somewhere above the ceiling. Expect the overcast to linger through the morning and likely into the afternoon, with only a pale brightening at midday. UV exposure stays low under this thick cover, and the day will feel muted and calm, the skyline a little ghosted at the edges but visibility otherwise fine. It\u2019s not a dramatic day, just gently dim, made for slow starts and unhurried errands.\n\nDress in light layers\u2014a long-sleeve shirt or a soft sweater with a breathable jacket\u2014and skip the sunglasses; a cap or hood is enough if a mist drifts in. Comfortable shoes will suit a late-morning walk along the bayou or a lap around the neighborhood while the city hums to itself. Indoors, this is good weather for a library stop, a focused hour at the gym, or reorganizing a corner of the kitchen before an afternoon coffee. Pleasant in a quiet, practical way, with no harsh glare and no rush.",
-    "color_code": "#A3ABB5",
-    "timestamp": "2025-12-27 07:26:18",
+    "weather_report": "Evening settles over Katy with a clean, unblemished sky, the kind of clarity that sharpens the edges of stars and quiets the streets. It feels calm and dry, a touch crisp without being unfriendly. With the sun long gone, there\u2019s no burn to worry about; the UV index is effectively asleep. The night looks trustworthy: clear now and holding that line toward midnight, the sort of night where porch lights look warmer and distant trains sound nearer.\n\nExpect this calm to carry into the small hours, setting the stage for a bright, uncomplicated sunrise and a likely sunny start; UV will stay low early and only matter once the morning stretches its legs. Dress with a light jacket or an easy sweater; a scarf if you plan to linger under the stars. Good moments tonight are small and ordinary: a slow loop around the block, checking the holiday lights, stepping out with a warm mug, setting out tomorrow\u2019s coffee kit, or hauling the recycling to the curb while the sky stays glass-clear.",
+    "color_code": "#0D1B2A",
+    "timestamp": "2025-12-27 19:38:50",
     "location": {
-        "name": "Houston",
-        "latitude": 29.77573926641382,
-        "longitude": -95.69471412881519,
+        "name": "Katy",
+        "latitude": 29.72344525812541,
+        "longitude": -95.83342886513647,
         "timezone": "America/Chicago"
     }
 }
