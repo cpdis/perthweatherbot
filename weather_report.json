@@ -3,42 +3,42 @@
         "location": {
             "name": "Katy",
             "country": "US",
-            "latitude": 29.72344526291313,
-            "longitude": -95.83342899396818
+            "latitude": 29.72344078812366,
+            "longitude": -95.83341798926388
         },
         "current_conditions": {
-            "timestamp": "2025-12-28T13:27:06+00:00",
-            "temperature_c": 19.58,
-            "temperature_f": 67.244,
-            "humidity": 96,
-            "wind_speed_mph": 5.74909,
+            "timestamp": "2025-12-29T01:27:05+00:00",
+            "temperature_c": 22.58,
+            "temperature_f": 72.64399999999999,
+            "humidity": 76,
+            "wind_speed_mph": 6.91233,
             "wind_direction": 190,
-            "description": "fog"
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-28T15:00:00+00:00",
-                "temperature": 20.15,
-                "windSpeed": 7.359730000000001,
-                "windDirection": 190,
+                "startTime": "2025-12-29T03:00:00+00:00",
+                "temperature": 22.7,
+                "windSpeed": 4.38452,
+                "windDirection": 253,
                 "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2025-12-28T18:00:00+00:00",
-                "temperature": 23.75,
-                "windSpeed": 12.840380000000001,
-                "windDirection": 202,
-                "shortForecast": "broken clouds"
+                "startTime": "2025-12-29T06:00:00+00:00",
+                "temperature": 18.58,
+                "windSpeed": 20.64751,
+                "windDirection": 360,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Dawn in Katy arrives under a quilt of broken clouds, the sky a soft gray-blue with hints of brightness pressing through. The day ahead looks gently lit rather than dazzling, with the sun playing peekaboo through the late morning and around midday. UV should stay on the mild side for winter, perhaps nudging to moderate when the sun finds a wider seam in the clouds. The air promises a calm, tempered clarity\u2014more diffused glow than sharp glare\u2014which makes the day feel easy on the eyes and unhurried.\n\nDress in light layers: a comfortable long-sleeve or sweater with a light jacket you can shed if the sun lingers. Sunglasses are optional but handy when those brighter intervals arrive. It\u2019s a pleasant morning for a quiet neighborhood walk, a coffee run, or tidying small errands without battling heat or harsh light; by late morning, a short bike ride or a meander through a local shop or market would suit the mood. If you\u2019re staying in, open the blinds and let the filtered daylight do its slow, steady work.",
-    "color_code": "#9AAFC2",
-    "timestamp": "2025-12-28 07:27:06",
+    "weather_report": "Evening settles over Katy under a shifting quilt of broken clouds, the last scraps of twilight giving way to a muted, pewter sky. By late evening the ceiling thickens to a full overcast, the city\u2019s lights reflecting softly against it. There\u2019s no sun to speak of now, and the UV index is essentially asleep; even early tomorrow looks reluctant to brighten quickly if the cloud layer lingers. The night feels calm and orderly, the horizon blurred just enough to make the world seem gentler and close at hand.\n\nExpect a quiet, gray-tinged night rather than drama. If you step out, a light jacket or soft sweater will suit the mood; long sleeves make sense for an unhurried dog walk or a last circuit around the block. It\u2019s good weather for small, useful comforts: tidying a room, prepping tomorrow\u2019s breakfast, skimming a few chapters, or making a short drive to return a library book before the week reawakens. The sky may not dazzle, but it invites a slower rhythm and thoughts that don\u2019t have to hurry.",
+    "color_code": "#475763",
+    "timestamp": "2025-12-28 19:27:05",
     "location": {
         "name": "Katy",
-        "latitude": 29.72344526291313,
-        "longitude": -95.83342899396818,
+        "latitude": 29.72344078812366,
+        "longitude": -95.83341798926388,
         "timezone": "America/Chicago"
     }
 }
