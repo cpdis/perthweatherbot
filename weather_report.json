@@ -3,42 +3,42 @@
         "location": {
             "name": "Katy",
             "country": "US",
-            "latitude": 29.72344593932709,
-            "longitude": -95.83342012772327
+            "latitude": 29.72344091892656,
+            "longitude": -95.83342724397819
         },
         "current_conditions": {
-            "timestamp": "2025-12-29T13:35:18+00:00",
-            "temperature_c": 9.79,
-            "temperature_f": 49.622,
-            "humidity": 32,
-            "wind_speed_mph": 18.410510000000002,
-            "wind_direction": 30,
+            "timestamp": "2025-12-30T01:21:33+00:00",
+            "temperature_c": 6.03,
+            "temperature_f": 42.854,
+            "humidity": 47,
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 360,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2025-12-29T15:00:00+00:00",
-                "temperature": 9.79,
-                "windSpeed": 18.768430000000002,
-                "windDirection": 15,
+                "startTime": "2025-12-30T03:00:00+00:00",
+                "temperature": 6.28,
+                "windSpeed": 13.936510000000002,
+                "windDirection": 2,
                 "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2025-12-29T18:00:00+00:00",
-                "temperature": 9.87,
-                "windSpeed": 19.43953,
-                "windDirection": 8,
+                "startTime": "2025-12-30T06:00:00+00:00",
+                "temperature": 7.08,
+                "windSpeed": 13.623330000000001,
+                "windDirection": 2,
                 "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Katy wakes under a smooth gray lid, the light already diffused and gentle, the kind that erases hard edges and quiets the pace of the street. The forecast keeps the clouds stitched in place through afternoon and early evening, so don\u2019t expect sun breaks; the UV index will stay low and the day will feel calm rather than bright. Visibility should be fine, but the colors of the world will be softened, like a photograph left slightly underexposed. It looks like a steady, uneventful sky\u2014good weather for getting things done without glare or heat.\n\nLean into easy layers: long sleeves with a light jacket or cardigan you can shrug off indoors, and skip the sunglasses. This is an errand day and a library day, a return-the-holiday-packages day, a tidy-the-desk-and-clear-the-inbox day. Take a short neighborhood walk after lunch when the light is at its widest, or settle at a window seat with a coffee and let the gray do its quiet work. If you\u2019re restless, sort the hall closet or plan meals for the week; if you\u2019re not, enjoy the softness of an overcast Monday that asks little and forgives much.",
-    "color_code": "#7E8795",
-    "timestamp": "2025-12-29 07:35:19",
+    "weather_report": "Katy settles under a low, unbroken lid of cloud this evening, the moon and stars politely excused. The night looks muted and steady rather than stormy, a gray hush that should hold through the late hours. Sunshine won\u2019t factor in; expect no bright breaks, and a UV index that is essentially nil until day returns. Clarity is serviceable despite the ceiling\u2014edges softened, colors desaturated, the kind of sky that makes streetlights feel warmer than they are. It\u2019s the sort of night that\u2019s more gentle than thrilling, a little dreary but calm.\n\nDress for coziness and small comforts: a light layer or sweater, something with pockets, comfortable shoes for a short stroll if you need one last loop around the block. The weather suits simple, ordinary rituals\u2014tidying the kitchen, catching up on a chapter under a good lamp, prepping tomorrow\u2019s lunch, or an unhurried grocery run while the parking lot is quiet. If morning arrives with the same quilt of clouds, expect a slow, gray start and soft light rather than sparkle.",
+    "color_code": "#3C4650",
+    "timestamp": "2025-12-29 19:21:34",
     "location": {
         "name": "Katy",
-        "latitude": 29.72344593932709,
-        "longitude": -95.83342012772327,
+        "latitude": 29.72344091892656,
+        "longitude": -95.83342724397819,
         "timezone": "America/Chicago"
     }
 }
