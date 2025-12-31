@@ -3,42 +3,42 @@
         "location": {
             "name": "Katy",
             "country": "US",
-            "latitude": 29.72344091892656,
-            "longitude": -95.83342724397819
+            "latitude": 29.72346531894812,
+            "longitude": -95.83340726408105
         },
         "current_conditions": {
-            "timestamp": "2025-12-30T01:21:33+00:00",
-            "temperature_c": 6.03,
-            "temperature_f": 42.854,
-            "humidity": 47,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 360,
-            "description": "overcast clouds"
+            "timestamp": "2025-12-31T01:22:25+00:00",
+            "temperature_c": 7.08,
+            "temperature_f": 44.744,
+            "humidity": 51,
+            "wind_speed_mph": 3.44498,
+            "wind_direction": 330,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-30T03:00:00+00:00",
-                "temperature": 6.28,
-                "windSpeed": 13.936510000000002,
-                "windDirection": 2,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-12-31T03:00:00+00:00",
+                "temperature": 7.02,
+                "windSpeed": 4.89903,
+                "windDirection": 353,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-12-30T06:00:00+00:00",
-                "temperature": 7.08,
-                "windSpeed": 13.623330000000001,
-                "windDirection": 2,
-                "shortForecast": "overcast clouds"
+                "startTime": "2025-12-31T06:00:00+00:00",
+                "temperature": 6.8,
+                "windSpeed": 4.11608,
+                "windDirection": 331,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Katy settles under a low, unbroken lid of cloud this evening, the moon and stars politely excused. The night looks muted and steady rather than stormy, a gray hush that should hold through the late hours. Sunshine won\u2019t factor in; expect no bright breaks, and a UV index that is essentially nil until day returns. Clarity is serviceable despite the ceiling\u2014edges softened, colors desaturated, the kind of sky that makes streetlights feel warmer than they are. It\u2019s the sort of night that\u2019s more gentle than thrilling, a little dreary but calm.\n\nDress for coziness and small comforts: a light layer or sweater, something with pockets, comfortable shoes for a short stroll if you need one last loop around the block. The weather suits simple, ordinary rituals\u2014tidying the kitchen, catching up on a chapter under a good lamp, prepping tomorrow\u2019s lunch, or an unhurried grocery run while the parking lot is quiet. If morning arrives with the same quilt of clouds, expect a slow, gray start and soft light rather than sparkle.",
-    "color_code": "#3C4650",
-    "timestamp": "2025-12-29 19:21:34",
+    "weather_report": "Evening settles over Katy with a polished, cloudless sky, the kind that sharpens the edges of rooftops and lets the first stars gather without fuss. The air feels clean and unhurried, visibility crisp, and the UV index effectively asleep for the night. Expect that same clear tenor through midnight, a quietly pleasant scene for a short walk with the dog, an unhurried grocery dash, or a little porch time to breathe between holidays. A light jacket or soft sweater will suit the cooler night air; comfortable shoes and an easy pace complete the picture.\n\nIf these clear skies hold, dawn should arrive bright and uncomplicated, the sun stepping in without ceremony. Early UV will remain low at first light, then build to typical winter levels as the morning matures, so sunglasses will earn their keep by mid-morning. Plan for simple, useful errands, a coffee on the patio, or a window-cracked commute with a favorite song\u2014nothing grand, just the small satisfactions of a clear start.",
+    "color_code": "#0B1D3A",
+    "timestamp": "2025-12-30 19:22:25",
     "location": {
         "name": "Katy",
-        "latitude": 29.72344091892656,
-        "longitude": -95.83342724397819,
+        "latitude": 29.72346531894812,
+        "longitude": -95.83340726408105,
         "timezone": "America/Chicago"
     }
 }
