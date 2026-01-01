@@ -3,42 +3,42 @@
         "location": {
             "name": "Katy",
             "country": "US",
-            "latitude": 29.72338510450822,
-            "longitude": -95.83337865801902
+            "latitude": 29.72345460343649,
+            "longitude": -95.8334103992006
         },
         "current_conditions": {
-            "timestamp": "2026-01-01T01:29:29+00:00",
-            "temperature_c": 12.45,
-            "temperature_f": 54.41,
-            "humidity": 42,
-            "wind_speed_mph": 1.99093,
-            "wind_direction": 209,
+            "timestamp": "2026-01-01T13:31:17+00:00",
+            "temperature_c": 5.27,
+            "temperature_f": 41.486,
+            "humidity": 90,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-01-01T03:00:00+00:00",
-                "temperature": 11.43,
-                "windSpeed": 8.008460000000001,
-                "windDirection": 198,
+                "startTime": "2026-01-01T15:00:00+00:00",
+                "temperature": 5.27,
+                "windSpeed": 5.68198,
+                "windDirection": 221,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-01-01T06:00:00+00:00",
-                "temperature": 8.28,
-                "windSpeed": 7.493950000000001,
-                "windDirection": 210,
-                "shortForecast": "clear sky"
+                "startTime": "2026-01-01T18:00:00+00:00",
+                "temperature": 10.65,
+                "windSpeed": 9.68621,
+                "windDirection": 215,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Evening settles over Katy with a clean, starlit calm; the forecast keeps the sky clear through late night, which means no glare, no haze, and a UV index that slips to nothing until dawn. It\u2019s the kind of gentle night that feels pleasantly open and unhurried, a touch cool on the skin, asking only for a light jacket or soft sweater. Take advantage of the clarity: a slow walk with the dog, a quiet porch sit, a quick errand while the roads are dry, or a simple tidy-up at home with the windows cracked to let in the crisp air; expect the serenity to hold steady as midnight arrives.",
-    "color_code": "#0d1b2a",
-    "timestamp": "2025-12-31 19:29:29",
+    "weather_report": "Day breaks over Katy with a clean, uncomplicated sky and that cool January hush. As the sun climbs, expect a broad wash of blue and clear light; by late morning the scene remains bright, only a few untroubled clouds drifting in to soften the edges. UV will start gentle and drift to moderate around midday, the kind that warms the skin without shouting\u2014still worth a dab of sunscreen and sunglasses if you linger outdoors. The air looks honest and crisp, visibility wide open.\n\nIt\u2019s a day for light layers: a soft sweater or light jacket at breakfast, easy to peel back to a T\u2011shirt by late morning. Take a slow stroll with coffee, air out the house, run those small errands that never make the list, or tidy the porch while the sun does its quiet work. If you\u2019ve been meaning to check on the garden or ride a short loop around the neighborhood, the sky is giving you permission. Pleasant, simple, unhurried\u2014let the clarity set the pace.",
+    "color_code": "#A8D8FF",
+    "timestamp": "2026-01-01 07:31:17",
     "location": {
         "name": "Katy",
-        "latitude": 29.72338510450822,
-        "longitude": -95.83337865801902,
+        "latitude": 29.72345460343649,
+        "longitude": -95.8334103992006,
         "timezone": "America/Chicago"
     }
 }
