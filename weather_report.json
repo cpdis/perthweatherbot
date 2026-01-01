@@ -3,42 +3,42 @@
         "location": {
             "name": "Katy",
             "country": "US",
-            "latitude": 29.72345190358924,
-            "longitude": -95.83341198365562
+            "latitude": 29.72338510450822,
+            "longitude": -95.83337865801902
         },
         "current_conditions": {
-            "timestamp": "2025-12-31T13:30:43+00:00",
-            "temperature_c": 1.96,
-            "temperature_f": 35.528,
-            "humidity": 83,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2026-01-01T01:29:29+00:00",
+            "temperature_c": 12.45,
+            "temperature_f": 54.41,
+            "humidity": 42,
+            "wind_speed_mph": 1.99093,
+            "wind_direction": 209,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2025-12-31T15:00:00+00:00",
-                "temperature": 1.96,
-                "windSpeed": 4.42926,
-                "windDirection": 264,
+                "startTime": "2026-01-01T03:00:00+00:00",
+                "temperature": 11.43,
+                "windSpeed": 8.008460000000001,
+                "windDirection": 198,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2025-12-31T18:00:00+00:00",
-                "temperature": 6.36,
-                "windSpeed": 6.88996,
-                "windDirection": 246,
+                "startTime": "2026-01-01T06:00:00+00:00",
+                "temperature": 8.28,
+                "windSpeed": 7.493950000000001,
+                "windDirection": 210,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "A clear, uncomplicated morning is settling over Katy, the sky already rinsed clean and brightening with an easy, winter light. The sun will stay generous through midmorning and into midday, with visibility crisp and untroubled by haze. UV is gentle now and will nudge toward moderate by lunchtime; sunglasses and a dab of sunscreen won\u2019t be wasted. The day reads as quietly pleasant rather than balmy\u2014cool enough at daybreak to want a light layer, then contentedly comfortable as the hours slide forward. Expect the clarity to hold, the kind of blue that makes windows seem too small.\n\nDress in layers you can shed\u2014light jacket, long sleeves, and comfortable shoes. It\u2019s a good morning to open the blinds, let the house drink in the sun, and take a brief walk with coffee in hand. If you\u2019ve errands, make them late morning when the air feels kind; if you\u2019re home, step outside to tighten a loose hinge, sweep the porch, or sort the week\u2019s recycling. With the sky so steady and unruffled, even routine chores take on a small sense of ceremony.",
-    "color_code": "#A7C7E7",
-    "timestamp": "2025-12-31 07:30:43",
+    "weather_report": "Evening settles over Katy with a clean, starlit calm; the forecast keeps the sky clear through late night, which means no glare, no haze, and a UV index that slips to nothing until dawn. It\u2019s the kind of gentle night that feels pleasantly open and unhurried, a touch cool on the skin, asking only for a light jacket or soft sweater. Take advantage of the clarity: a slow walk with the dog, a quiet porch sit, a quick errand while the roads are dry, or a simple tidy-up at home with the windows cracked to let in the crisp air; expect the serenity to hold steady as midnight arrives.",
+    "color_code": "#0d1b2a",
+    "timestamp": "2025-12-31 19:29:29",
     "location": {
         "name": "Katy",
-        "latitude": 29.72345190358924,
-        "longitude": -95.83341198365562,
+        "latitude": 29.72338510450822,
+        "longitude": -95.83337865801902,
         "timezone": "America/Chicago"
     }
 }
