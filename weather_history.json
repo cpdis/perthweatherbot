@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-27 07:26:18",
-    "location": {
-      "name": "Houston",
-      "latitude": 29.77573926641382,
-      "longitude": -95.69471412881519,
-      "timezone": "America/Chicago"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-27T13:26:18+00:00",
-      "temperature_c": 20.58,
-      "temperature_f": 69.044,
-      "humidity": 94,
-      "wind_speed_mph": 4.60822,
-      "wind_direction": 230,
-      "description": "fog"
-    },
-    "report_summary": "Houston wakes to a quilt of low gray cloud, the light soft and directionless, the sun hiding somewhe...",
-    "color_code": "#A3ABB5"
-  },
-  {
     "timestamp": "2025-12-27 19:38:50",
     "location": {
       "name": "Katy",
@@ -218,5 +198,25 @@
     },
     "report_summary": "Evening slides over Katy and the sky comes up clean, a pane of dark glass with a few careful stars. ...",
     "color_code": "#0a1e3f"
+  },
+  {
+    "timestamp": "2026-01-03 07:26:43",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.72345850757945,
+      "longitude": -95.83340272533455,
+      "timezone": "America/Chicago"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-03T13:26:42+00:00",
+      "temperature_c": 14.47,
+      "temperature_f": 58.04600000000001,
+      "humidity": 94,
+      "wind_speed_mph": 1.00665,
+      "wind_direction": 223,
+      "description": "clear sky"
+    },
+    "report_summary": "Daybreak in Katy arrives with a swept-clean sky and that quiet, golden clarity that makes the neighb...",
+    "color_code": "#CFE8FF"
   }
 ]

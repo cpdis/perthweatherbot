@@ -3,42 +3,42 @@
         "location": {
             "name": "Katy",
             "country": "US",
-            "latitude": 29.72345760429008,
-            "longitude": -95.83340289284197
+            "latitude": 29.72345850757945,
+            "longitude": -95.83340272533455
         },
         "current_conditions": {
-            "timestamp": "2026-01-03T01:18:26+00:00",
-            "temperature_c": 22.9,
-            "temperature_f": 73.22,
-            "humidity": 67,
-            "wind_speed_mph": 5.99516,
-            "wind_direction": 214,
+            "timestamp": "2026-01-03T13:26:42+00:00",
+            "temperature_c": 14.47,
+            "temperature_f": 58.04600000000001,
+            "humidity": 94,
+            "wind_speed_mph": 1.00665,
+            "wind_direction": 223,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-01-03T03:00:00+00:00",
-                "temperature": 22.45,
-                "windSpeed": 10.111239999999999,
-                "windDirection": 202,
+                "startTime": "2026-01-03T15:00:00+00:00",
+                "temperature": 15.46,
+                "windSpeed": 10.871820000000001,
+                "windDirection": 318,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-01-03T06:00:00+00:00",
-                "temperature": 21.23,
-                "windSpeed": 8.83615,
-                "windDirection": 226,
+                "startTime": "2026-01-03T18:00:00+00:00",
+                "temperature": 19.53,
+                "windSpeed": 14.898420000000002,
+                "windDirection": 348,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Evening slides over Katy and the sky comes up clean, a pane of dark glass with a few careful stars. The forecast keeps it cloudless through late evening into midnight, a gentle, starlit stretch with no sun left to bite; the UV index is effectively nil, and if these clear skies hold, dawn should arrive bright and uncomplicated. The night feels agreeable rather than stern\u2014cool enough to nudge you toward a light jacket, warmer layer if you intend to linger, but not a night to hurry through.\n\nIt\u2019s a good time for the small, pleasant errands of life: a slow lap around the block, the dog nosing the air; sorting tomorrow\u2019s to\u2011dos on the porch; a quiet grocery run or topping off the tank without the day\u2019s glare. Visibility is crisp, the mood untroubled, the kind of clear night that invites unhurried footsteps and a patient mind.",
-    "color_code": "#0a1e3f",
-    "timestamp": "2026-01-02 19:18:26",
+    "weather_report": "Daybreak in Katy arrives with a swept-clean sky and that quiet, golden clarity that makes the neighborhood feel newly minted. The air starts on the cool side, but the sun will take the reins quickly; by midmorning to noon, expect bright, unobstructed sunshine and an open, cobalt dome. UV exposure will be modest at first, trending to moderate by late morning, so sunglasses and a dab of sunscreen are wise companions. Visibility looks crisp, the kind of clear day where edges are sharp and colors feel honest.\n\nIt\u2019s a light-layers morning: a sweater or thin jacket now, easy to peel to a comfortable shirt as the day warms. With the sky so faithful, it\u2019s a good time for a porch coffee, a meandering dog walk, or a calm loop around the block before errands. Wash the car without fear of surprise drizzle, tend to the porch plants, or browse a grocery aisle while the sun does its steady work. Pleasant, simple, and bright, the day invites unhurried tasks and a bit of sun on your face.",
+    "color_code": "#CFE8FF",
+    "timestamp": "2026-01-03 07:26:43",
     "location": {
         "name": "Katy",
-        "latitude": 29.72345760429008,
-        "longitude": -95.83340289284197,
+        "latitude": 29.72345850757945,
+        "longitude": -95.83340272533455,
         "timezone": "America/Chicago"
     }
 }
