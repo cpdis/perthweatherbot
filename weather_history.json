@@ -1,125 +1,5 @@
 [
   {
-    "timestamp": "2025-12-25 16:33:11",
-    "location": {
-      "name": "Houston",
-      "latitude": 29.73213684537486,
-      "longitude": -95.7561012241985,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-25T08:33:10+00:00",
-      "temperature_c": 20.37,
-      "temperature_f": 68.666,
-      "humidity": 95,
-      "wind_speed_mph": 4.60822,
-      "wind_direction": 160,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Houston moves through the late afternoon under a cover of soft gray, the sun slipping in and out of ...",
-    "color_code": "#8C97A1"
-  },
-  {
-    "timestamp": "2025-12-25 20:50:05",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.72344703630922,
-      "longitude": -95.8334266054507,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-25T12:50:05+00:00",
-      "temperature_c": 19.97,
-      "temperature_f": 67.946,
-      "humidity": 96,
-      "wind_speed_mph": 1.00665,
-      "wind_direction": 105,
-      "description": "clear sky"
-    },
-    "report_summary": "Katy spent the day under a clear, uncomplicated sky, the kind that turns sunlight into a clean gleam...",
-    "color_code": "#0A1A2F"
-  },
-  {
-    "timestamp": "2025-12-26 00:30:36",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.72344337746032,
-      "longitude": -95.83343238987413,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-25T16:30:35+00:00",
-      "temperature_c": 22.53,
-      "temperature_f": 72.554,
-      "humidity": 89,
-      "wind_speed_mph": 4.004230000000001,
-      "wind_direction": 149,
-      "description": "clear sky"
-    },
-    "report_summary": "Just after midnight in Katy, the sky is swept clean and quiet, a dark enamel with a few sharp stars....",
-    "color_code": "#0b1d4d"
-  },
-  {
-    "timestamp": "2025-12-25 19:21:12",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.75202506938739,
-      "longitude": -95.82423930626372,
-      "timezone": "America/Chicago"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-26T01:21:12+00:00",
-      "temperature_c": 22.69,
-      "temperature_f": 72.842,
-      "humidity": 85,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 190,
-      "description": "broken clouds"
-    },
-    "report_summary": "Evening settles over Katy with scattered clouds drifting like loose pages across a deepening sky. It...",
-    "color_code": "#2C3E50"
-  },
-  {
-    "timestamp": "2025-12-26 07:30:41",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.72344283976949,
-      "longitude": -95.83342996388517,
-      "timezone": "America/Chicago"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-26T13:30:41+00:00",
-      "temperature_c": 20.92,
-      "temperature_f": 69.656,
-      "humidity": 95,
-      "wind_speed_mph": 1.99093,
-      "wind_direction": 219,
-      "description": "overcast clouds"
-    },
-    "report_summary": "A gray quilt has been drawn over Katy this morning, and it looks content to linger. From midmorning ...",
-    "color_code": "#9AA1A8"
-  },
-  {
-    "timestamp": "2025-12-26 19:19:10",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.72344460018686,
-      "longitude": -95.83343280201389,
-      "timezone": "America/Chicago"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-27T01:19:10+00:00",
-      "temperature_c": 22.99,
-      "temperature_f": 73.382,
-      "humidity": 85,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 200,
-      "description": "clear sky"
-    },
-    "report_summary": "Evening settles over Katy with an easy quiet, the sky mostly open, only a few clouds loitering at th...",
-    "color_code": "#0B1D3A"
-  },
-  {
     "timestamp": "2025-12-27 07:26:18",
     "location": {
       "name": "Houston",
@@ -318,5 +198,25 @@
     },
     "report_summary": "Day breaks over Katy with a clean, uncomplicated sky and that cool January hush. As the sun climbs, ...",
     "color_code": "#A8D8FF"
+  },
+  {
+    "timestamp": "2026-01-02 19:18:26",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.72345760429008,
+      "longitude": -95.83340289284197,
+      "timezone": "America/Chicago"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-03T01:18:26+00:00",
+      "temperature_c": 22.9,
+      "temperature_f": 73.22,
+      "humidity": 67,
+      "wind_speed_mph": 5.99516,
+      "wind_direction": 214,
+      "description": "clear sky"
+    },
+    "report_summary": "Evening slides over Katy and the sky comes up clean, a pane of dark glass with a few careful stars. ...",
+    "color_code": "#0a1e3f"
   }
 ]
