@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Katy",
+            "name": "Richmond",
             "country": "US",
-            "latitude": 29.72348898514673,
-            "longitude": -95.8333574955459
+            "latitude": 29.65781417646827,
+            "longitude": -95.83446094342717
         },
         "current_conditions": {
-            "timestamp": "2026-01-04T01:39:56+00:00",
-            "temperature_c": 16.7,
-            "temperature_f": 62.059999999999995,
-            "humidity": 77,
-            "wind_speed_mph": 2.99758,
-            "wind_direction": 354,
-            "description": "clear sky"
+            "timestamp": "2026-01-04T13:27:36+00:00",
+            "temperature_c": 9.4,
+            "temperature_f": 48.92,
+            "humidity": 92,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 60,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-01-04T03:00:00+00:00",
-                "temperature": 16.7,
-                "windSpeed": 8.74667,
-                "windDirection": 351,
-                "shortForecast": "clear sky"
+                "startTime": "2026-01-04T15:00:00+00:00",
+                "temperature": 10.08,
+                "windSpeed": 6.88996,
+                "windDirection": 73,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-01-04T06:00:00+00:00",
-                "temperature": 16.17,
-                "windSpeed": 7.51632,
-                "windDirection": 9,
-                "shortForecast": "clear sky"
+                "startTime": "2026-01-04T18:00:00+00:00",
+                "temperature": 14.03,
+                "windSpeed": 7.00181,
+                "windDirection": 95,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Katy settles into evening under a swept-clean sky, clear now and expected to stay that way through the late hours. The air reads calm and uncomplicated, with stars sharpening as the night deepens. With the sun down, there\u2019s no sting from ultraviolet; the UV index is effectively nil, and the night carries that crisp, glassy clarity that makes distances feel closer and colors softer.\n\nIt\u2019s a pleasant, low-drama night\u2014cool enough for a light jacket or a favorite sweater, comfortable shoes for an easy loop around the block, or a few quiet minutes on the porch with a warm mug. Good weather for walking the dog, unhurried tidying in the garage, or fitting in a simple errand without the day\u2019s bustle. If you\u2019re up near first light, this clear stretch may grant a bright, gentle sunrise; sunglasses could be handy after dawn, but for now the calm, starry dark is the show.",
-    "color_code": "#0b1e3a",
-    "timestamp": "2026-01-03 19:39:57",
+    "weather_report": "Richmond wakes under a quilt of cloud, the morning light softened to a gentle pewter glow. The air feels crisp and clean, the kind that sharpens edges and keeps the world quiet for a beat. Visibility is good; rooftops and bare branches stand in fine relief against a mottled sky.\n\nAs the day stirs, the clouds should loosen, breaking into a friendlier patchwork with moments of honest sun by early afternoon. Expect a day that feels cool and steady, more companionable than dramatic. UV is low this time of year, though a pair of sunglasses will still be kind to the eyes when the sun slips through. Dress in easy layers\u2014a light or medium coat, a soft scarf if you run chilly, and shoes ready for unhurried steps. It\u2019s a good day for modest errands, a slow walk along a quiet block or river path, tidying a corner of the house, or reading by a window while the sky brightens and dims like someone thoughtfully adjusting a dimmer switch.",
+    "color_code": "#8FA7BC",
+    "timestamp": "2026-01-04 07:27:36",
     "location": {
-        "name": "Katy",
-        "latitude": 29.72348898514673,
-        "longitude": -95.8333574955459,
+        "name": "Richmond",
+        "latitude": 29.65781417646827,
+        "longitude": -95.83446094342717,
         "timezone": "America/Chicago"
     }
 }

@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-28 07:27:06",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.72344526291313,
-      "longitude": -95.83342899396818,
-      "timezone": "America/Chicago"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-28T13:27:06+00:00",
-      "temperature_c": 19.58,
-      "temperature_f": 67.244,
-      "humidity": 96,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 190,
-      "description": "fog"
-    },
-    "report_summary": "Dawn in Katy arrives under a quilt of broken clouds, the sky a soft gray-blue with hints of brightne...",
-    "color_code": "#9AAFC2"
-  },
-  {
     "timestamp": "2025-12-28 19:27:05",
     "location": {
       "name": "Katy",
@@ -218,5 +198,25 @@
     },
     "report_summary": "Katy settles into evening under a swept-clean sky, clear now and expected to stay that way through t...",
     "color_code": "#0b1e3a"
+  },
+  {
+    "timestamp": "2026-01-04 07:27:36",
+    "location": {
+      "name": "Richmond",
+      "latitude": 29.65781417646827,
+      "longitude": -95.83446094342717,
+      "timezone": "America/Chicago"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-04T13:27:36+00:00",
+      "temperature_c": 9.4,
+      "temperature_f": 48.92,
+      "humidity": 92,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 60,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Richmond wakes under a quilt of cloud, the morning light softened to a gentle pewter glow. The air f...",
+    "color_code": "#8FA7BC"
   }
 ]
