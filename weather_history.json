@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-27 19:38:50",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.72344525812541,
-      "longitude": -95.83342886513647,
-      "timezone": "America/Chicago"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-28T01:38:50+00:00",
-      "temperature_c": 22.5,
-      "temperature_f": 72.5,
-      "humidity": 86,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 190,
-      "description": "clear sky"
-    },
-    "report_summary": "Evening settles over Katy with a clean, unblemished sky, the kind of clarity that sharpens the edges...",
-    "color_code": "#0D1B2A"
-  },
-  {
     "timestamp": "2025-12-28 07:27:06",
     "location": {
       "name": "Katy",
@@ -218,5 +198,25 @@
     },
     "report_summary": "Daybreak in Katy arrives with a swept-clean sky and that quiet, golden clarity that makes the neighb...",
     "color_code": "#CFE8FF"
+  },
+  {
+    "timestamp": "2026-01-03 19:39:57",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.72348898514673,
+      "longitude": -95.8333574955459,
+      "timezone": "America/Chicago"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-04T01:39:56+00:00",
+      "temperature_c": 16.7,
+      "temperature_f": 62.059999999999995,
+      "humidity": 77,
+      "wind_speed_mph": 2.99758,
+      "wind_direction": 354,
+      "description": "clear sky"
+    },
+    "report_summary": "Katy settles into evening under a swept-clean sky, clear now and expected to stay that way through t...",
+    "color_code": "#0b1e3a"
   }
 ]

@@ -3,42 +3,42 @@
         "location": {
             "name": "Katy",
             "country": "US",
-            "latitude": 29.72345850757945,
-            "longitude": -95.83340272533455
+            "latitude": 29.72348898514673,
+            "longitude": -95.8333574955459
         },
         "current_conditions": {
-            "timestamp": "2026-01-03T13:26:42+00:00",
-            "temperature_c": 14.47,
-            "temperature_f": 58.04600000000001,
-            "humidity": 94,
-            "wind_speed_mph": 1.00665,
-            "wind_direction": 223,
+            "timestamp": "2026-01-04T01:39:56+00:00",
+            "temperature_c": 16.7,
+            "temperature_f": 62.059999999999995,
+            "humidity": 77,
+            "wind_speed_mph": 2.99758,
+            "wind_direction": 354,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-01-03T15:00:00+00:00",
-                "temperature": 15.46,
-                "windSpeed": 10.871820000000001,
-                "windDirection": 318,
+                "startTime": "2026-01-04T03:00:00+00:00",
+                "temperature": 16.7,
+                "windSpeed": 8.74667,
+                "windDirection": 351,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-01-03T18:00:00+00:00",
-                "temperature": 19.53,
-                "windSpeed": 14.898420000000002,
-                "windDirection": 348,
+                "startTime": "2026-01-04T06:00:00+00:00",
+                "temperature": 16.17,
+                "windSpeed": 7.51632,
+                "windDirection": 9,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Daybreak in Katy arrives with a swept-clean sky and that quiet, golden clarity that makes the neighborhood feel newly minted. The air starts on the cool side, but the sun will take the reins quickly; by midmorning to noon, expect bright, unobstructed sunshine and an open, cobalt dome. UV exposure will be modest at first, trending to moderate by late morning, so sunglasses and a dab of sunscreen are wise companions. Visibility looks crisp, the kind of clear day where edges are sharp and colors feel honest.\n\nIt\u2019s a light-layers morning: a sweater or thin jacket now, easy to peel to a comfortable shirt as the day warms. With the sky so faithful, it\u2019s a good time for a porch coffee, a meandering dog walk, or a calm loop around the block before errands. Wash the car without fear of surprise drizzle, tend to the porch plants, or browse a grocery aisle while the sun does its steady work. Pleasant, simple, and bright, the day invites unhurried tasks and a bit of sun on your face.",
-    "color_code": "#CFE8FF",
-    "timestamp": "2026-01-03 07:26:43",
+    "weather_report": "Katy settles into evening under a swept-clean sky, clear now and expected to stay that way through the late hours. The air reads calm and uncomplicated, with stars sharpening as the night deepens. With the sun down, there\u2019s no sting from ultraviolet; the UV index is effectively nil, and the night carries that crisp, glassy clarity that makes distances feel closer and colors softer.\n\nIt\u2019s a pleasant, low-drama night\u2014cool enough for a light jacket or a favorite sweater, comfortable shoes for an easy loop around the block, or a few quiet minutes on the porch with a warm mug. Good weather for walking the dog, unhurried tidying in the garage, or fitting in a simple errand without the day\u2019s bustle. If you\u2019re up near first light, this clear stretch may grant a bright, gentle sunrise; sunglasses could be handy after dawn, but for now the calm, starry dark is the show.",
+    "color_code": "#0b1e3a",
+    "timestamp": "2026-01-03 19:39:57",
     "location": {
         "name": "Katy",
-        "latitude": 29.72345850757945,
-        "longitude": -95.83340272533455,
+        "latitude": 29.72348898514673,
+        "longitude": -95.8333574955459,
         "timezone": "America/Chicago"
     }
 }
