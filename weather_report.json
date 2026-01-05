@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Richmond",
+            "name": "Katy",
             "country": "US",
-            "latitude": 29.65781417646827,
-            "longitude": -95.83446094342717
+            "latitude": 29.7276017257208,
+            "longitude": -95.8346677851816
         },
         "current_conditions": {
-            "timestamp": "2026-01-04T13:27:36+00:00",
-            "temperature_c": 9.4,
-            "temperature_f": 48.92,
-            "humidity": 92,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 60,
-            "description": "overcast clouds"
+            "timestamp": "2026-01-05T01:29:11+00:00",
+            "temperature_c": 14.52,
+            "temperature_f": 58.136,
+            "humidity": 76,
+            "wind_speed_mph": 3.44498,
+            "wind_direction": 170,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-01-04T15:00:00+00:00",
-                "temperature": 10.08,
-                "windSpeed": 6.88996,
-                "windDirection": 73,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-01-05T03:00:00+00:00",
+                "temperature": 14.11,
+                "windSpeed": 7.8295,
+                "windDirection": 150,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2026-01-04T18:00:00+00:00",
-                "temperature": 14.03,
-                "windSpeed": 7.00181,
-                "windDirection": 95,
+                "startTime": "2026-01-05T06:00:00+00:00",
+                "temperature": 12.52,
+                "windSpeed": 6.196490000000001,
+                "windDirection": 149,
                 "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Richmond wakes under a quilt of cloud, the morning light softened to a gentle pewter glow. The air feels crisp and clean, the kind that sharpens edges and keeps the world quiet for a beat. Visibility is good; rooftops and bare branches stand in fine relief against a mottled sky.\n\nAs the day stirs, the clouds should loosen, breaking into a friendlier patchwork with moments of honest sun by early afternoon. Expect a day that feels cool and steady, more companionable than dramatic. UV is low this time of year, though a pair of sunglasses will still be kind to the eyes when the sun slips through. Dress in easy layers\u2014a light or medium coat, a soft scarf if you run chilly, and shoes ready for unhurried steps. It\u2019s a good day for modest errands, a slow walk along a quiet block or river path, tidying a corner of the house, or reading by a window while the sky brightens and dims like someone thoughtfully adjusting a dimmer switch.",
-    "color_code": "#8FA7BC",
-    "timestamp": "2026-01-04 07:27:36",
+    "weather_report": "Evening settles over Katy with a clean, open sky and only a few clouds drifting like loose pages. It feels calm and clear, the kind of night where distant lights sharpen and the air has that tidy, unrushed quality. With the sun long gone, there\u2019s no real UV to worry about now, and \u201csunny\u201d is tomorrow\u2019s business; for the moment, the stars get their say between the scattered cloud bands.\n\nThrough late evening toward midnight, expect the sky to remain mostly polite and partly open, more scattered than solid. It should be pleasant if a touch cool, so a light jacket or a layered sweater suits the hour. A quiet walk with the dog, a quick errand run, or a porch sit with a warm cup would fit the mood. If you\u2019re planning for morning, anticipate a bright start if these clouds stay lazy; UV will be gentle at first and climb toward midday, so think sunglasses and a dab of sunscreen if you\u2019ll be out and about.",
+    "color_code": "#1B263B",
+    "timestamp": "2026-01-04 19:29:11",
     "location": {
-        "name": "Richmond",
-        "latitude": 29.65781417646827,
-        "longitude": -95.83446094342717,
+        "name": "Katy",
+        "latitude": 29.7276017257208,
+        "longitude": -95.8346677851816,
         "timezone": "America/Chicago"
     }
 }
