@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-29 07:35:19",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.72344593932709,
-      "longitude": -95.83342012772327,
-      "timezone": "America/Chicago"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-29T13:35:18+00:00",
-      "temperature_c": 9.79,
-      "temperature_f": 49.622,
-      "humidity": 32,
-      "wind_speed_mph": 18.410510000000002,
-      "wind_direction": 30,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Katy wakes under a smooth gray lid, the light already diffused and gentle, the kind that erases hard...",
-    "color_code": "#7E8795"
-  },
-  {
     "timestamp": "2025-12-29 19:21:34",
     "location": {
       "name": "Katy",
@@ -218,5 +198,25 @@
     },
     "report_summary": "Evening settles over Katy with a clean, open sky and only a few clouds drifting like loose pages. It...",
     "color_code": "#1B263B"
+  },
+  {
+    "timestamp": "2026-01-05 07:38:40",
+    "location": {
+      "name": "Katy",
+      "latitude": 29.72344423040681,
+      "longitude": -95.83334760630547,
+      "timezone": "America/Chicago"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-05T13:38:39+00:00",
+      "temperature_c": 10.26,
+      "temperature_f": 50.468,
+      "humidity": 95,
+      "wind_speed_mph": 1.00665,
+      "wind_direction": 288,
+      "description": "broken clouds"
+    },
+    "report_summary": "Day opens under a soft gray lid in Katy, the light filtered and calm after sunrise. The morning lean...",
+    "color_code": "#A9B0C3"
   }
 ]

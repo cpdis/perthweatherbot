@@ -3,42 +3,42 @@
         "location": {
             "name": "Katy",
             "country": "US",
-            "latitude": 29.7276017257208,
-            "longitude": -95.8346677851816
+            "latitude": 29.72344423040681,
+            "longitude": -95.83334760630547
         },
         "current_conditions": {
-            "timestamp": "2026-01-05T01:29:11+00:00",
-            "temperature_c": 14.52,
-            "temperature_f": 58.136,
-            "humidity": 76,
-            "wind_speed_mph": 3.44498,
-            "wind_direction": 170,
-            "description": "clear sky"
+            "timestamp": "2026-01-05T13:38:39+00:00",
+            "temperature_c": 10.26,
+            "temperature_f": 50.468,
+            "humidity": 95,
+            "wind_speed_mph": 1.00665,
+            "wind_direction": 288,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-01-05T03:00:00+00:00",
-                "temperature": 14.11,
-                "windSpeed": 7.8295,
-                "windDirection": 150,
-                "shortForecast": "few clouds"
+                "startTime": "2026-01-05T15:00:00+00:00",
+                "temperature": 10.26,
+                "windSpeed": 7.18077,
+                "windDirection": 160,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-01-05T06:00:00+00:00",
-                "temperature": 12.52,
-                "windSpeed": 6.196490000000001,
-                "windDirection": 149,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-01-05T18:00:00+00:00",
+                "temperature": 13.87,
+                "windSpeed": 10.066500000000001,
+                "windDirection": 185,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Evening settles over Katy with a clean, open sky and only a few clouds drifting like loose pages. It feels calm and clear, the kind of night where distant lights sharpen and the air has that tidy, unrushed quality. With the sun long gone, there\u2019s no real UV to worry about now, and \u201csunny\u201d is tomorrow\u2019s business; for the moment, the stars get their say between the scattered cloud bands.\n\nThrough late evening toward midnight, expect the sky to remain mostly polite and partly open, more scattered than solid. It should be pleasant if a touch cool, so a light jacket or a layered sweater suits the hour. A quiet walk with the dog, a quick errand run, or a porch sit with a warm cup would fit the mood. If you\u2019re planning for morning, anticipate a bright start if these clouds stay lazy; UV will be gentle at first and climb toward midday, so think sunglasses and a dab of sunscreen if you\u2019ll be out and about.",
-    "color_code": "#1B263B",
-    "timestamp": "2026-01-04 19:29:11",
+    "weather_report": "Day opens under a soft gray lid in Katy, the light filtered and calm after sunrise. The morning leans overcast, easing toward midday into broken clouds that allow brief, silvery sun to slip through. Expect a low-glare day with subdued UV early and only a gentle uptick around lunch if the sky fractures a bit; the world will look matte and hushed, more pewter than chrome. Pleasant in a quiet, winter-tinted way. Dress in easy layers\u2014a long-sleeve or light sweater with a thin jacket you can shed if a brighter patch finds you\u2014sunglasses only useful near noon. This is a good morning for small, ordinary victories: a grocery run before the rush, tending to houseplants, tidying the desk by a window, or a late-morning stroll when the light softens and color edges back into the day. Steady weather, unhurried plans.",
+    "color_code": "#A9B0C3",
+    "timestamp": "2026-01-05 07:38:40",
     "location": {
         "name": "Katy",
-        "latitude": 29.7276017257208,
-        "longitude": -95.8346677851816,
+        "latitude": 29.72344423040681,
+        "longitude": -95.83334760630547,
         "timezone": "America/Chicago"
     }
 }
