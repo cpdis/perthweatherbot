@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Katy",
+            "name": "San Francisco",
             "country": "US",
-            "latitude": 29.72344423040681,
-            "longitude": -95.83334760630547
+            "latitude": 37.62086296537498,
+            "longitude": -122.3897240437532
         },
         "current_conditions": {
-            "timestamp": "2026-01-05T13:38:39+00:00",
-            "temperature_c": 10.26,
-            "temperature_f": 50.468,
-            "humidity": 95,
-            "wind_speed_mph": 1.00665,
-            "wind_direction": 288,
-            "description": "broken clouds"
+            "timestamp": "2026-01-06T01:22:47+00:00",
+            "temperature_c": 11.51,
+            "temperature_f": 52.718,
+            "humidity": 90,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 160,
+            "description": "moderate rain"
         },
         "forecast": [
             {
-                "startTime": "2026-01-05T15:00:00+00:00",
-                "temperature": 10.26,
-                "windSpeed": 7.18077,
-                "windDirection": 160,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-01-06T03:00:00+00:00",
+                "temperature": 11.61,
+                "windSpeed": 10.64812,
+                "windDirection": 164,
+                "shortForecast": "moderate rain"
             },
             {
-                "startTime": "2026-01-05T18:00:00+00:00",
-                "temperature": 13.87,
-                "windSpeed": 10.066500000000001,
-                "windDirection": 185,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-01-06T06:00:00+00:00",
+                "temperature": 11.67,
+                "windSpeed": 8.88089,
+                "windDirection": 122,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Day opens under a soft gray lid in Katy, the light filtered and calm after sunrise. The morning leans overcast, easing toward midday into broken clouds that allow brief, silvery sun to slip through. Expect a low-glare day with subdued UV early and only a gentle uptick around lunch if the sky fractures a bit; the world will look matte and hushed, more pewter than chrome. Pleasant in a quiet, winter-tinted way. Dress in easy layers\u2014a long-sleeve or light sweater with a thin jacket you can shed if a brighter patch finds you\u2014sunglasses only useful near noon. This is a good morning for small, ordinary victories: a grocery run before the rush, tending to houseplants, tidying the desk by a window, or a late-morning stroll when the light softens and color edges back into the day. Steady weather, unhurried plans.",
-    "color_code": "#A9B0C3",
-    "timestamp": "2026-01-05 07:38:40",
+    "weather_report": "Dusk slips in early over San Francisco, the sky a padded gray that mutes the edges of hills and water. Sunshine is scarce now and done for the day; the UV is essentially asleep, leaving a gentle, pewter light that turns windows reflective and makes the first slicks on pavement glow. The air feels cool and damp, the sort that gathers in collars and along cuffs, with clarity softened to a watercolor wash rather than a crisp line.\n\nRain is due to settle in this evening, arriving with a steadier hand at nightfall before easing to a quieter patter later on. It won\u2019t be a bright night, but it will be a forgiving one if you lean into it: a hooded waterproof jacket, a warm layer underneath, shoes that won\u2019t skate on wet crosswalk paint, and perhaps a small umbrella for good measure. It looks more cozy than sparkling, the kind of weather that invites small errands nearby, a slow browse in a corner shop, or heading home to put a simple pot on the stove and let the windows mist while you read a few pages you\u2019ve been putting off. If you do step out, keep it brief and companionable with the rain; the city will be quieter, the streets reflective, and the night unhurried.",
+    "color_code": "#2F3D4A",
+    "timestamp": "2026-01-05 17:22:47",
     "location": {
-        "name": "Katy",
-        "latitude": 29.72344423040681,
-        "longitude": -95.83334760630547,
-        "timezone": "America/Chicago"
+        "name": "San Francisco",
+        "latitude": 37.62086296537498,
+        "longitude": -122.3897240437532,
+        "timezone": "America/Los_Angeles"
     }
 }

@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-29 19:21:34",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.72344091892656,
-      "longitude": -95.83342724397819,
-      "timezone": "America/Chicago"
-    },
-    "current_conditions": {
-      "timestamp": "2025-12-30T01:21:33+00:00",
-      "temperature_c": 6.03,
-      "temperature_f": 42.854,
-      "humidity": 47,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 360,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Katy settles under a low, unbroken lid of cloud this evening, the moon and stars politely excused. T...",
-    "color_code": "#3C4650"
-  },
-  {
     "timestamp": "2025-12-30 19:22:25",
     "location": {
       "name": "Katy",
@@ -218,5 +198,25 @@
     },
     "report_summary": "Day opens under a soft gray lid in Katy, the light filtered and calm after sunrise. The morning lean...",
     "color_code": "#A9B0C3"
+  },
+  {
+    "timestamp": "2026-01-05 17:22:47",
+    "location": {
+      "name": "San Francisco",
+      "latitude": 37.62086296537498,
+      "longitude": -122.3897240437532,
+      "timezone": "America/Los_Angeles"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-06T01:22:47+00:00",
+      "temperature_c": 11.51,
+      "temperature_f": 52.718,
+      "humidity": 90,
+      "wind_speed_mph": 17.26964,
+      "wind_direction": 160,
+      "description": "moderate rain"
+    },
+    "report_summary": "Dusk slips in early over San Francisco, the sky a padded gray that mutes the edges of hills and wate...",
+    "color_code": "#2F3D4A"
   }
 ]
