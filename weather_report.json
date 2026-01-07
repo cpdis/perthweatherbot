@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "San Francisco",
+            "name": "Bend",
             "country": "US",
-            "latitude": 37.62086296537498,
-            "longitude": -122.3897240437532
+            "latitude": 44.06826717610869,
+            "longitude": -121.3402245704324
         },
         "current_conditions": {
-            "timestamp": "2026-01-06T13:35:18+00:00",
-            "temperature_c": 10.64,
-            "temperature_f": 51.152,
-            "humidity": 91,
-            "wind_speed_mph": 7.00181,
-            "wind_direction": 88,
+            "timestamp": "2026-01-07T01:23:05+00:00",
+            "temperature_c": 3.57,
+            "temperature_f": 38.426,
+            "humidity": 72,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 190,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-01-06T15:00:00+00:00",
-                "temperature": 10.64,
-                "windSpeed": 4.138450000000001,
-                "windDirection": 23,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-01-07T03:00:00+00:00",
+                "temperature": 2.84,
+                "windSpeed": 12.639050000000001,
+                "windDirection": 208,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-01-06T18:00:00+00:00",
-                "temperature": 11.3,
-                "windSpeed": 5.90568,
-                "windDirection": 23,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-01-07T06:00:00+00:00",
+                "temperature": 2.3,
+                "windSpeed": 17.09068,
+                "windDirection": 210,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Before dawn, San Francisco sits under a soft, unbroken lid of cloud, the kind that mutes the streetlights and makes the pavement glow faintly. The morning looks set to stay overcast through the late breakfast hours, with little in the way of sun and a low UV index; visibility should be fine, but the light will be even and gray, shadows kept on a short leash. Expect a cool, reserved day rather than a dramatic one, the sort that invites unhurried plans and quiet errands.\n\nDress in layers you can live in: a light sweater under a windproof jacket, comfortable shoes, maybe a scarf for the damp edge. It\u2019s pleasant in a contemplative way\u2014good for a lingering coffee by a window, an early grocery run before the crowds, or a neighborhood walk where the sound of buses and bakery doors sets the tempo. If the ceiling holds, keep outdoor plans simple and close to home; if you root for brightness, watch for a brief brightening late morning, but don\u2019t count on it.",
-    "color_code": "#778899",
-    "timestamp": "2026-01-06 05:35:19",
+    "weather_report": "Dusk has already settled over Bend, the last color drained from the high desert and replaced by a soft, pewter sky. Clouds thicken and, as evening deepens, light rain drifts in and lingers through the late hours, turning sidewalks slick and the air resinous with wet pine. There will be no sun to speak of now, and the UV index is essentially nil; clarity is muted, edges blurred under streetlamps, a quiet hush hanging over the neighborhoods.\n\nIt\u2019s a gently gloomy, companionable kind of night. Dress for damp and chill\u2014a waterproof shell over a warm layer, a knit hat, shoes with decent grip. If you head out, keep it simple: a short walk between showers, a stop by a cozy caf\u00e9 or corner taproom, a quick grocery run before the racks empty. Indoors suits the mood just as well: sort a drawer, sketch out tomorrow\u2019s list, stretch on the living-room rug, or let a pot simmer while the rain does its patient work outside.",
+    "color_code": "#4B6372",
+    "timestamp": "2026-01-06 17:23:06",
     "location": {
-        "name": "San Francisco",
-        "latitude": 37.62086296537498,
-        "longitude": -122.3897240437532,
+        "name": "Bend",
+        "latitude": 44.06826717610869,
+        "longitude": -121.3402245704324,
         "timezone": "America/Los_Angeles"
     }
 }
