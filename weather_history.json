@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2025-12-31 19:29:29",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.72338510450822,
-      "longitude": -95.83337865801902,
-      "timezone": "America/Chicago"
-    },
-    "current_conditions": {
-      "timestamp": "2026-01-01T01:29:29+00:00",
-      "temperature_c": 12.45,
-      "temperature_f": 54.41,
-      "humidity": 42,
-      "wind_speed_mph": 1.99093,
-      "wind_direction": 209,
-      "description": "clear sky"
-    },
-    "report_summary": "Evening settles over Katy with a clean, starlit calm; the forecast keeps the sky clear through late ...",
-    "color_code": "#0d1b2a"
-  },
-  {
     "timestamp": "2026-01-01 07:31:17",
     "location": {
       "name": "Katy",
@@ -238,5 +218,25 @@
     },
     "report_summary": "Bend wakes to a quiet, pre-dawn hush, the air likely crisp and the sky largely untroubled. Through t...",
     "color_code": "#1F3B5C"
+  },
+  {
+    "timestamp": "2026-01-07 17:23:51",
+    "location": {
+      "name": "Bend",
+      "latitude": 44.0681987308893,
+      "longitude": -121.3403774069128,
+      "timezone": "America/Los_Angeles"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-08T01:23:51+00:00",
+      "temperature_c": -1.36,
+      "temperature_f": 29.552,
+      "humidity": 87,
+      "wind_speed_mph": 0.0,
+      "wind_direction": 0,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Dusk slips into Bend beneath a patchwork of broken clouds, the last light dim and silvery, with the ...",
+    "color_code": "#5A6B7C"
   }
 ]

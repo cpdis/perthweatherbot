@@ -3,42 +3,42 @@
         "location": {
             "name": "Bend",
             "country": "US",
-            "latitude": 44.06826717610869,
-            "longitude": -121.3402245704324
+            "latitude": 44.0681987308893,
+            "longitude": -121.3403774069128
         },
         "current_conditions": {
-            "timestamp": "2026-01-07T13:37:32+00:00",
-            "temperature_c": 0.12,
-            "temperature_f": 32.216,
-            "humidity": 83,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 80,
-            "description": "few clouds"
+            "timestamp": "2026-01-08T01:23:51+00:00",
+            "temperature_c": -1.36,
+            "temperature_f": 29.552,
+            "humidity": 87,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-01-07T15:00:00+00:00",
-                "temperature": 0.12,
-                "windSpeed": 10.98367,
-                "windDirection": 231,
-                "shortForecast": "few clouds"
+                "startTime": "2026-01-08T03:00:00+00:00",
+                "temperature": -2.04,
+                "windSpeed": 8.07557,
+                "windDirection": 223,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-01-07T18:00:00+00:00",
-                "temperature": -0.48,
-                "windSpeed": 12.571940000000001,
-                "windDirection": 227,
-                "shortForecast": "few clouds"
+                "startTime": "2026-01-08T06:00:00+00:00",
+                "temperature": -2.41,
+                "windSpeed": 7.22551,
+                "windDirection": 219,
+                "shortForecast": "light snow"
             }
         ]
     },
-    "weather_report": "Bend wakes to a quiet, pre-dawn hush, the air likely crisp and the sky largely untroubled. Through the morning, expect plenty of sun with a few light clouds drifting by, the light clean and far-seeing, shadows long and blue. The UV stays low in this winter angle, more a gentle gleam than a burn, but bright enough to warrant sunglasses once the sun clears the rooftops. It looks like a calm, pleasant day, especially in the first half: bundle up in layers with a warm coat, knit cap, and gloves now, then ease the scarf by late morning as the chill loosens. Good hours for modest errands, a slow walk after sunrise, a table by a bright window with coffee, or tending to small tasks in the garage with the door cracked to the clear air.",
-    "color_code": "#1F3B5C",
-    "timestamp": "2026-01-07 05:37:32",
+    "weather_report": "Dusk slips into Bend beneath a patchwork of broken clouds, the last light dim and silvery, with the sun largely absent and the UV index essentially nil. The evening looks contemplative rather than bright; visibility is decent now but softened around the edges, and by late evening a light snow is expected to drift in, muting the streets and lending the night a quiet hush. It\u2019s a chilly, workable evening outdoors for a little while, turning more wintry and slick underfoot as the flakes arrive.\n\nDress in warm, layered comfort: a cozy midlayer under a weatherproof coat, hat and gloves, and boots with some grip if you\u2019ll be out after dark. This is a good hour for a short neighborhood walk before the snow starts, a last errand, then home for ordinary comforts\u2014stir a pot of soup, sort a shelf, write a postcard, or cue up a calm record. If you\u2019ll be driving later, leave early and take it slow; a light dusting can make familiar roads feel new.",
+    "color_code": "#5A6B7C",
+    "timestamp": "2026-01-07 17:23:51",
     "location": {
         "name": "Bend",
-        "latitude": 44.06826717610869,
-        "longitude": -121.3402245704324,
+        "latitude": 44.0681987308893,
+        "longitude": -121.3403774069128,
         "timezone": "America/Los_Angeles"
     }
 }
