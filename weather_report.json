@@ -3,42 +3,42 @@
         "location": {
             "name": "Bend",
             "country": "US",
-            "latitude": 44.06818646718278,
-            "longitude": -121.3403736921269
+            "latitude": 44.06823575348402,
+            "longitude": -121.3402486271887
         },
         "current_conditions": {
-            "timestamp": "2026-01-09T13:35:52+00:00",
-            "temperature_c": -2.41,
-            "temperature_f": 27.662,
-            "humidity": 76,
-            "wind_speed_mph": 5.99516,
-            "wind_direction": 225,
-            "description": "overcast clouds"
+            "timestamp": "2026-01-10T01:21:14+00:00",
+            "temperature_c": 3.28,
+            "temperature_f": 37.903999999999996,
+            "humidity": 59,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 200,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-01-09T15:00:00+00:00",
-                "temperature": -2.41,
-                "windSpeed": 9.97702,
-                "windDirection": 217,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-01-10T03:00:00+00:00",
+                "temperature": 2.02,
+                "windSpeed": 10.20072,
+                "windDirection": 218,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2026-01-09T18:00:00+00:00",
-                "temperature": -1.6,
-                "windSpeed": 8.65719,
-                "windDirection": 204,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-01-10T06:00:00+00:00",
+                "temperature": 1.57,
+                "windSpeed": 9.8428,
+                "windDirection": 215,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Bend wakes under a quilt of overcast, the sky a quiet slab of pewter that mutes the edges of town. Early light will be slow to arrive and filtered when it does, with little in the way of sunshine and a very low UV bite. Expect the morning to stay gray and steady, the view soft around the margins, the kind of clarity that feels calm rather than bright. It\u2019s a gentle, contemplative start, not harsh, not hurried.\n\nDress in comfortable layers and a warm jacket; a beanie and light gloves won\u2019t go amiss against the January chill. With the day leaning subdued, this is fine weather for unhurried errands, a lingering cup at your favorite cafe, a quiet hour at the library, or a short walk along the river to watch the town wake in muted colors. Photographers might enjoy the flat, forgiving light; runners and dog-walkers will find the air agreeable if not sparkling. If you stay in, put on a record and tend to small projects\u2014the kind of morning that rewards patience more than ambition.",
-    "color_code": "#6E7B8B",
-    "timestamp": "2026-01-09 05:35:53",
+    "weather_report": "The late afternoon in Bend drifts toward evening under a speckled sky, a few clouds softening the light as the sun slips away. Any bite of sunshine is brief now, and the UV index has fallen to nearly nothing. Air feels clean and a touch dry, with decent clarity to the horizon; if you look up soon, you might find a few early stars before thicker patches of cloud wander in.\n\nTonight leans gently toward broken clouds, more textured than stormy, and the mood is calm rather than harsh. Expect a wintry chill once darkness settles; dress in warm layers with a proper coat, and add a hat or scarf if you\u2019re lingering outdoors. It\u2019s a good evening for a short, reflective walk around the block, picking up that last grocery item, or tending to simple comforts at home\u2014tidying a room, simmering something easy on the stove, putting pen to paper. With the sun down and the UV tame, the sky becomes a ceiling for unhurried errands and unhurried thoughts.",
+    "color_code": "#2C3E50",
+    "timestamp": "2026-01-09 17:21:14",
     "location": {
         "name": "Bend",
-        "latitude": 44.06818646718278,
-        "longitude": -121.3403736921269,
+        "latitude": 44.06823575348402,
+        "longitude": -121.3402486271887,
         "timezone": "America/Los_Angeles"
     }
 }
