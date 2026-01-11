@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-01-03 19:39:57",
-    "location": {
-      "name": "Katy",
-      "latitude": 29.72348898514673,
-      "longitude": -95.8333574955459,
-      "timezone": "America/Chicago"
-    },
-    "current_conditions": {
-      "timestamp": "2026-01-04T01:39:56+00:00",
-      "temperature_c": 16.7,
-      "temperature_f": 62.059999999999995,
-      "humidity": 77,
-      "wind_speed_mph": 2.99758,
-      "wind_direction": 354,
-      "description": "clear sky"
-    },
-    "report_summary": "Katy settles into evening under a swept-clean sky, clear now and expected to stay that way through t...",
-    "color_code": "#0b1e3a"
-  },
-  {
     "timestamp": "2026-01-04 07:27:36",
     "location": {
       "name": "Richmond",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Bend wakes under a hush of scattered cloud, the kind that lets dawn glow through in soft bands befor...",
     "color_code": "#7B8D9E"
+  },
+  {
+    "timestamp": "2026-01-10 17:39:47",
+    "location": {
+      "name": "Bend",
+      "latitude": 44.06826218265595,
+      "longitude": -121.3402343735289,
+      "timezone": "America/Los_Angeles"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-11T01:39:47+00:00",
+      "temperature_c": 6.14,
+      "temperature_f": 43.052,
+      "humidity": 45,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 170,
+      "description": "clear sky"
+    },
+    "report_summary": "Evening settles over Bend with a clean, open sky and the last light thinning along the ridges. The s...",
+    "color_code": "#1c2749"
   }
 ]

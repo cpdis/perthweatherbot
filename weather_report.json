@@ -3,42 +3,42 @@
         "location": {
             "name": "Bend",
             "country": "US",
-            "latitude": 44.06823575348402,
-            "longitude": -121.3402486271887
+            "latitude": 44.06826218265595,
+            "longitude": -121.3402343735289
         },
         "current_conditions": {
-            "timestamp": "2026-01-10T13:26:59+00:00",
-            "temperature_c": 1.57,
-            "temperature_f": 34.826,
-            "humidity": 59,
-            "wind_speed_mph": 13.802290000000001,
+            "timestamp": "2026-01-11T01:39:47+00:00",
+            "temperature_c": 6.14,
+            "temperature_f": 43.052,
+            "humidity": 45,
+            "wind_speed_mph": 5.74909,
             "wind_direction": 170,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-01-10T15:00:00+00:00",
-                "temperature": -0.63,
-                "windSpeed": 9.1717,
-                "windDirection": 212,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-01-11T03:00:00+00:00",
+                "temperature": 6.14,
+                "windSpeed": 8.59008,
+                "windDirection": 219,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-01-10T18:00:00+00:00",
-                "temperature": 2.14,
-                "windSpeed": 8.76904,
-                "windDirection": 205,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-01-11T06:00:00+00:00",
+                "temperature": 3.34,
+                "windSpeed": 8.54534,
+                "windDirection": 218,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Bend wakes under a hush of scattered cloud, the kind that lets dawn glow through in soft bands before the sky knits itself into a thicker, quilted gray by late morning. Expect a muted day more than a sunny one; light will be gentle, shadows shallow, and the UV sting low, especially with winter\u2019s low sun and that ceiling of cloud filtering it. The air should feel clean and clear, with distant ridgelines still crisp, just softened at the edges.\n\nIt looks like a day for quiet usefulness. Dress in easy layers with a warm coat, a beanie, and light gloves; sunglasses only if the sun sneaks out for a spell. Take a calm walk to a coffee counter, let the river path set your pace, then tend to ordinary errands that feel better in this matte light: a grocery run, a library pickup, a tune of the bike or skis in the garage. The weather isn\u2019t dramatic, just companionable\u2014good for getting small things done without the glare.",
-    "color_code": "#7B8D9E",
-    "timestamp": "2026-01-10 05:27:00",
+    "weather_report": "Evening settles over Bend with a clean, open sky and the last light thinning along the ridges. The sun is already low, so brightness fades quickly and the UV is essentially nil. It feels like one of those clear, easy nights where edges sharpen and distant lights seem closer. Expect the evening to stay mostly clear, with a few scattered clouds wandering in later, not enough to trouble the view or the mood.\n\nIt reads as a pleasant, quietly crisp night. Dress with a warm layer and a jacket you don\u2019t mind keeping on; a hat or light gloves won\u2019t feel out of place after dark. Good weather for unhurried, ordinary things: a short walk around the block before dinner, returning a book or two, a quick errand you\u2019ve been postponing, or stepping outside for a minute to let the stars collect themselves above the roofs.",
+    "color_code": "#1c2749",
+    "timestamp": "2026-01-10 17:39:47",
     "location": {
         "name": "Bend",
-        "latitude": 44.06823575348402,
-        "longitude": -121.3402486271887,
+        "latitude": 44.06826218265595,
+        "longitude": -121.3402343735289,
         "timezone": "America/Los_Angeles"
     }
 }
