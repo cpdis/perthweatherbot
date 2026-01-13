@@ -3,42 +3,42 @@
         "location": {
             "name": "Bend",
             "country": "US",
-            "latitude": 44.0681664829396,
-            "longitude": -121.3404188383531
+            "latitude": 44.06820152691876,
+            "longitude": -121.3402362850161
         },
         "current_conditions": {
-            "timestamp": "2026-01-12T13:39:52+00:00",
-            "temperature_c": 2.16,
-            "temperature_f": 35.888,
-            "humidity": 57,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 120,
-            "description": "clear sky"
+            "timestamp": "2026-01-13T01:20:06+00:00",
+            "temperature_c": 8.69,
+            "temperature_f": 47.641999999999996,
+            "humidity": 43,
+            "wind_speed_mph": 6.82285,
+            "wind_direction": 218,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-01-12T15:00:00+00:00",
-                "temperature": 2.16,
-                "windSpeed": 9.12696,
-                "windDirection": 219,
-                "shortForecast": "clear sky"
+                "startTime": "2026-01-13T03:00:00+00:00",
+                "temperature": 7.2,
+                "windSpeed": 7.404470000000001,
+                "windDirection": 230,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-01-12T18:00:00+00:00",
-                "temperature": 3.24,
-                "windSpeed": 5.8162,
-                "windDirection": 209,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-01-13T06:00:00+00:00",
+                "temperature": 4.68,
+                "windSpeed": 9.35066,
+                "windDirection": 221,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Before dawn in Bend, the sky reads like clean slate: quiet, cold, and star-pricked. Expect the morning to open clear with bright, uncomplicated sunshine, then gather a few polite, wandering clouds by late morning. It should feel crisp and high-desert bright, the kind of light that sharpens edges and makes distant ridgelines pop. UV stays low early and only nudges to modest levels by late morning, enough to warrant sunglasses if you\u2019re out. The day looks largely calm and dry, with good clarity and that winter hush that invites you to breathe a little deeper.\n\nDress in confident layers: a warm coat over a sweater, hat and gloves for the early hours, and sunglasses in a pocket for when the sun takes charge. A short walk to watch the town wake, a coffee on a bench where the light spills across the sidewalk, or a few errands while the streets are quiet would suit the mood. By mid-morning, a gentle spin to the market or a loop around a nearby park feels right\u2014nothing heroic, just small, steady pleasures in a bright, cool day.",
-    "color_code": "#1B365D",
-    "timestamp": "2026-01-12 05:39:53",
+    "weather_report": "Bend eases into evening under a quilt of broken cloud, the sun already muted and the UV all but gone. The light feels silvery and restrained, edges softened, with patches of sky opening and closing as the overcast drifts. Expect the same pattern through tonight: a changeable canopy, no great drama, just a quietly mottled sky that lets a few stars blink through and then hides them again. It\u2019s not a crystalline night, but it is a steady one.\n\nDress in simple, cozy layers\u2014a warm jacket and a hat if you plan to linger\u2014something you won\u2019t mind keeping on during a slow errand or a short neighborhood loop. This is weather for ordinary comforts: returning a library book before closing, an unhurried grocery run, tending a pot on the stove while you sort tomorrow\u2019s list, or a brief porch sit to watch the clouds shuffle by. If you need a stretch, a gentle walk is enough; the air invites a measured pace rather than a charge.",
+    "color_code": "#4C5D70",
+    "timestamp": "2026-01-12 17:20:06",
     "location": {
         "name": "Bend",
-        "latitude": 44.0681664829396,
-        "longitude": -121.3404188383531,
+        "latitude": 44.06820152691876,
+        "longitude": -121.3402362850161,
         "timezone": "America/Los_Angeles"
     }
 }

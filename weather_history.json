@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-01-05 17:22:47",
-    "location": {
-      "name": "San Francisco",
-      "latitude": 37.62086296537498,
-      "longitude": -122.3897240437532,
-      "timezone": "America/Los_Angeles"
-    },
-    "current_conditions": {
-      "timestamp": "2026-01-06T01:22:47+00:00",
-      "temperature_c": 11.51,
-      "temperature_f": 52.718,
-      "humidity": 90,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 160,
-      "description": "moderate rain"
-    },
-    "report_summary": "Dusk slips in early over San Francisco, the sky a padded gray that mutes the edges of hills and wate...",
-    "color_code": "#2F3D4A"
-  },
-  {
     "timestamp": "2026-01-06 05:35:19",
     "location": {
       "name": "San Francisco",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Before dawn in Bend, the sky reads like clean slate: quiet, cold, and star-pricked. Expect the morni...",
     "color_code": "#1B365D"
+  },
+  {
+    "timestamp": "2026-01-12 17:20:06",
+    "location": {
+      "name": "Bend",
+      "latitude": 44.06820152691876,
+      "longitude": -121.3402362850161,
+      "timezone": "America/Los_Angeles"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-13T01:20:06+00:00",
+      "temperature_c": 8.69,
+      "temperature_f": 47.641999999999996,
+      "humidity": 43,
+      "wind_speed_mph": 6.82285,
+      "wind_direction": 218,
+      "description": "broken clouds"
+    },
+    "report_summary": "Bend eases into evening under a quilt of broken cloud, the sun already muted and the UV all but gone...",
+    "color_code": "#4C5D70"
   }
 ]
