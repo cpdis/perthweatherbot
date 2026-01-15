@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-01-08 05:38:31",
-    "location": {
-      "name": "Bend",
-      "latitude": 44.0681987308893,
-      "longitude": -121.3403774069128,
-      "timezone": "America/Los_Angeles"
-    },
-    "current_conditions": {
-      "timestamp": "2026-01-08T13:38:31+00:00",
-      "temperature_c": -4.63,
-      "temperature_f": 23.666,
-      "humidity": 79,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 290,
-      "description": "few clouds"
-    },
-    "report_summary": "Before sunrise in Bend the town is hushed and cold, the sky edging toward a pale blue with only a fe...",
-    "color_code": "#4A6B8A"
-  },
-  {
     "timestamp": "2026-01-08 17:23:39",
     "location": {
       "name": "Bend",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Evening settles over Bend beneath a polished, cloudless sky. The last light fades to indigo and the ...",
     "color_code": "#1D3557"
+  },
+  {
+    "timestamp": "2026-01-15 05:37:41",
+    "location": {
+      "name": "Bend",
+      "latitude": 44.0681500884291,
+      "longitude": -121.3403683041952,
+      "timezone": "America/Los_Angeles"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-15T13:37:41+00:00",
+      "temperature_c": 4.68,
+      "temperature_f": 40.424,
+      "humidity": 47,
+      "wind_speed_mph": 4.60822,
+      "wind_direction": 160,
+      "description": "clear sky"
+    },
+    "report_summary": "Bend wakes under a quiet pre-dawn, the world pared down to silhouettes and a deep, breath-white chil...",
+    "color_code": "#9DCFFB"
   }
 ]
