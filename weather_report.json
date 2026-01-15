@@ -3,42 +3,42 @@
         "location": {
             "name": "Bend",
             "country": "US",
-            "latitude": 44.06814630055035,
-            "longitude": -121.340392212521
+            "latitude": 44.0681500884291,
+            "longitude": -121.3403683041952
         },
         "current_conditions": {
-            "timestamp": "2026-01-14T13:38:32+00:00",
-            "temperature_c": 2,
-            "temperature_f": 35.6,
-            "humidity": 62,
-            "wind_speed_mph": 6.91233,
-            "wind_direction": 160,
+            "timestamp": "2026-01-15T01:21:49+00:00",
+            "temperature_c": 8.98,
+            "temperature_f": 48.164,
+            "humidity": 47,
+            "wind_speed_mph": 1.00665,
+            "wind_direction": 94,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-01-14T15:00:00+00:00",
-                "temperature": 2,
-                "windSpeed": 8.187420000000001,
-                "windDirection": 228,
+                "startTime": "2026-01-15T03:00:00+00:00",
+                "temperature": 5.37,
+                "windSpeed": 7.762390000000001,
+                "windDirection": 233,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-01-14T18:00:00+00:00",
-                "temperature": 2.39,
-                "windSpeed": 6.06227,
-                "windDirection": 209,
+                "startTime": "2026-01-15T06:00:00+00:00",
+                "temperature": 0.98,
+                "windSpeed": 8.29927,
+                "windDirection": 233,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Bend wakes under a clear, hushed sky, the kind that turns the edges of roofs silver and makes the air feel clean enough to ring. The morning will brighten quickly into a crisp, blue day with excellent clarity; distant ridgelines should stand out like cut paper. Sunshine looks abundant, gentle at first and then assertive by late morning. The UV index will be low early and only modest around midday, but at this elevation the light can feel sharper than you expect.\n\nIt\u2019s a layers day: a warm jacket, hat, and gloves for the first couple of hours, then something you can unzip when the sun begins to lean in. Sunglasses are wise, and a touch of sunscreen if you\u2019ll linger outside around lunch. The mood suits quiet errands on foot, a short loop along the river trail, or a bike roll if the pavement is dry. Open the blinds, let the pale gold spill across the floor, and carry a warm mug on a slow walk to the corner\u2014nothing urgent, just the pleasant business of a clear winter morning.",
-    "color_code": "#2B4C7E",
-    "timestamp": "2026-01-14 05:38:32",
+    "weather_report": "Evening settles over Bend beneath a polished, cloudless sky. The last light fades to indigo and the air turns crisp, the kind that sharpens the silhouette of the Cascades. Sunshine is now a brief afterthought, slipping away with a negligible UV presence; what follows is gentle twilight and, soon, clean, starry dark.\n\nSkies stay clear through the evening and night, so visibility will be excellent while temperatures lean toward the cold side of comfortable. Dress in warm layers with a sturdy coat, plus a hat and gloves if you linger outdoors. Streets should feel uncomplicated, though a watchful step is wise in shaded corners. This is good weather for small, ordinary pleasures: an unhurried loop around the block, a quick grocery run before the day fully closes, or a quiet pause on the porch to let your eyes adjust and find the first bright points above. Indoors, let something simple simmer on the stove and sort tomorrow\u2019s list while the night settles, bright and uncomplicated.",
+    "color_code": "#1D3557",
+    "timestamp": "2026-01-14 17:21:49",
     "location": {
         "name": "Bend",
-        "latitude": 44.06814630055035,
-        "longitude": -121.340392212521,
+        "latitude": 44.0681500884291,
+        "longitude": -121.3403683041952,
         "timezone": "America/Los_Angeles"
     }
 }
