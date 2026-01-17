@@ -3,42 +3,42 @@
         "location": {
             "name": "Bend",
             "country": "US",
-            "latitude": 44.06344491490778,
-            "longitude": -121.338432577211
+            "latitude": 44.05394255663877,
+            "longitude": -121.3016018946352
         },
         "current_conditions": {
-            "timestamp": "2026-01-16T13:35:41+00:00",
-            "temperature_c": -0.42,
-            "temperature_f": 31.244,
-            "humidity": 93,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "clear sky"
+            "timestamp": "2026-01-17T01:20:12+00:00",
+            "temperature_c": -0.2,
+            "temperature_f": 31.64,
+            "humidity": 95,
+            "wind_speed_mph": 3.44498,
+            "wind_direction": 300,
+            "description": "fog"
         },
         "forecast": [
             {
-                "startTime": "2026-01-16T15:00:00+00:00",
-                "temperature": -0.42,
-                "windSpeed": 4.67533,
-                "windDirection": 265,
-                "shortForecast": "clear sky"
+                "startTime": "2026-01-17T03:00:00+00:00",
+                "temperature": -0.47,
+                "windSpeed": 3.84764,
+                "windDirection": 285,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-01-16T18:00:00+00:00",
-                "temperature": 0.24,
-                "windSpeed": 0.58162,
-                "windDirection": 234,
-                "shortForecast": "clear sky"
+                "startTime": "2026-01-17T06:00:00+00:00",
+                "temperature": -2.47,
+                "windSpeed": 3.19891,
+                "windDirection": 320,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Before sunrise in Bend, the sky is clear and the air holds its mountain bite; streets are quiet, frost clings to windshields, and the eastern horizon is already thinking about color. Forecasts keep the morning cloudless from after dawn through late morning, so expect a bright, transparent day with sun that feels gentle at first and a little more insistent by midday. UV is low at daybreak, edging toward moderate late morning if the blue holds, so sunglasses are wise and a dab of sunscreen won\u2019t be wasted. It will feel pleasant in the light but still winter-cool in the shade; dress in warm layers with a coat, beanie, and gloves, shedding a layer once the sun has some say. Good hours for letting light pour through the kitchen, a short dog walk, clearing the car and running a small errand after nine, or sitting by a bright window with a list and a pen while Bend wakes to a clear, honest sky.",
-    "color_code": "#274C77",
-    "timestamp": "2026-01-16 05:35:42",
+    "weather_report": "Late afternoon in Bend comes on with a soft, wintry hush; clouds drift in and break apart like pages turning, leaving pieces of sky between them. The sun is already falling out of the picture, so don\u2019t expect much brightness now, and the UV will be negligible\u2014more candlelight than spotlight. Early evening looks mostly broken with gray and blue mingling overhead, easing toward scattered clouds by late evening, which should lend the night a cleaner, crisper clarity and the occasional star.\n\nIt\u2019s a night for warmth you can trust: a heavier coat, a scarf that doesn\u2019t fuss, gloves you won\u2019t regret carrying. The air will feel bracing, but not unfriendly. A slow walk before dinner, a short errand across town, or a quiet loop through the neighborhood would suit the mood; later, when the sky loosens, step outside for a minute to breathe and look up. Indoors, think simple comforts\u2014soup on the stove, a letter half-finished, a stack of mail tamed at the kitchen table\u2014while the clouds mind their own business and move along.",
+    "color_code": "#5A6A7A",
+    "timestamp": "2026-01-16 17:20:13",
     "location": {
         "name": "Bend",
-        "latitude": 44.06344491490778,
-        "longitude": -121.338432577211,
+        "latitude": 44.05394255663877,
+        "longitude": -121.3016018946352,
         "timezone": "America/Los_Angeles"
     }
 }

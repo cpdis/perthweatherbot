@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-01-09 17:21:14",
-    "location": {
-      "name": "Bend",
-      "latitude": 44.06823575348402,
-      "longitude": -121.3402486271887,
-      "timezone": "America/Los_Angeles"
-    },
-    "current_conditions": {
-      "timestamp": "2026-01-10T01:21:14+00:00",
-      "temperature_c": 3.28,
-      "temperature_f": 37.903999999999996,
-      "humidity": 59,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 200,
-      "description": "clear sky"
-    },
-    "report_summary": "The late afternoon in Bend drifts toward evening under a speckled sky, a few clouds softening the li...",
-    "color_code": "#2C3E50"
-  },
-  {
     "timestamp": "2026-01-10 05:27:00",
     "location": {
       "name": "Bend",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Before sunrise in Bend, the sky is clear and the air holds its mountain bite; streets are quiet, fro...",
     "color_code": "#274C77"
+  },
+  {
+    "timestamp": "2026-01-16 17:20:13",
+    "location": {
+      "name": "Bend",
+      "latitude": 44.05394255663877,
+      "longitude": -121.3016018946352,
+      "timezone": "America/Los_Angeles"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-17T01:20:12+00:00",
+      "temperature_c": -0.2,
+      "temperature_f": 31.64,
+      "humidity": 95,
+      "wind_speed_mph": 3.44498,
+      "wind_direction": 300,
+      "description": "fog"
+    },
+    "report_summary": "Late afternoon in Bend comes on with a soft, wintry hush; clouds drift in and break apart like pages...",
+    "color_code": "#5A6A7A"
   }
 ]
