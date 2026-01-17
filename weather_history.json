@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-01-10 05:27:00",
-    "location": {
-      "name": "Bend",
-      "latitude": 44.06823575348402,
-      "longitude": -121.3402486271887,
-      "timezone": "America/Los_Angeles"
-    },
-    "current_conditions": {
-      "timestamp": "2026-01-10T13:26:59+00:00",
-      "temperature_c": 1.57,
-      "temperature_f": 34.826,
-      "humidity": 59,
-      "wind_speed_mph": 13.802290000000001,
-      "wind_direction": 170,
-      "description": "clear sky"
-    },
-    "report_summary": "Bend wakes under a hush of scattered cloud, the kind that lets dawn glow through in soft bands befor...",
-    "color_code": "#7B8D9E"
-  },
-  {
     "timestamp": "2026-01-10 17:39:47",
     "location": {
       "name": "Bend",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Late afternoon in Bend comes on with a soft, wintry hush; clouds drift in and break apart like pages...",
     "color_code": "#5A6A7A"
+  },
+  {
+    "timestamp": "2026-01-17 05:26:46",
+    "location": {
+      "name": "Bend",
+      "latitude": 44.05394255663877,
+      "longitude": -121.3016018946352,
+      "timezone": "America/Los_Angeles"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-17T13:26:45+00:00",
+      "temperature_c": -2.23,
+      "temperature_f": 27.986,
+      "humidity": 94,
+      "wind_speed_mph": 0.0,
+      "wind_direction": 0,
+      "description": "fog"
+    },
+    "report_summary": "Before sunrise in Bend, the sky wears a soft, ragged blanket; the town is quiet under a gentle gray ...",
+    "color_code": "#9BB3C7"
   }
 ]
