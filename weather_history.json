@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-01-11 05:28:01",
-    "location": {
-      "name": "Bend",
-      "latitude": 44.06826218265595,
-      "longitude": -121.3402343735289,
-      "timezone": "America/Los_Angeles"
-    },
-    "current_conditions": {
-      "timestamp": "2026-01-11T13:28:01+00:00",
-      "temperature_c": 2.49,
-      "temperature_f": 36.482,
-      "humidity": 54,
-      "wind_speed_mph": 19.57375,
-      "wind_direction": 180,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Before dawn in Bend, a low, unbroken ceiling of cloud mutes the town\u2019s edges and keeps the stars at ...",
-    "color_code": "#2C3440"
-  },
-  {
     "timestamp": "2026-01-11 17:26:59",
     "location": {
       "name": "Bend",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Late afternoon in San Francisco drifts toward evening under a mottled sky: scattered clouds at first...",
     "color_code": "#4A5F6D"
+  },
+  {
+    "timestamp": "2026-01-18 05:26:25",
+    "location": {
+      "name": "San Francisco",
+      "latitude": 37.61835693543867,
+      "longitude": -122.392507701933,
+      "timezone": "America/Los_Angeles"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-18T13:26:25+00:00",
+      "temperature_c": 10.71,
+      "temperature_f": 51.278000000000006,
+      "humidity": 81,
+      "wind_speed_mph": 9.99939,
+      "wind_direction": 87,
+      "description": "broken clouds"
+    },
+    "report_summary": "A quiet Sunday dawn settles over San Francisco with a low quilt of cloud, the kind that mutes the st...",
+    "color_code": "#778899"
   }
 ]
