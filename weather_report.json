@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Bend",
+            "name": "San Francisco",
             "country": "US",
-            "latitude": 44.05394255663877,
-            "longitude": -121.3016018946352
+            "latitude": 37.61835693543867,
+            "longitude": -122.392507701933
         },
         "current_conditions": {
-            "timestamp": "2026-01-17T13:26:45+00:00",
-            "temperature_c": -2.23,
-            "temperature_f": 27.986,
-            "humidity": 94,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "fog"
+            "timestamp": "2026-01-18T01:29:30+00:00",
+            "temperature_c": 16.54,
+            "temperature_f": 61.772,
+            "humidity": 61,
+            "wind_speed_mph": 11.00604,
+            "wind_direction": 151,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-01-17T15:00:00+00:00",
-                "temperature": -3.14,
-                "windSpeed": 2.55018,
-                "windDirection": 252,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-01-18T03:00:00+00:00",
+                "temperature": 15.86,
+                "windSpeed": 4.49637,
+                "windDirection": 54,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2026-01-17T18:00:00+00:00",
-                "temperature": -3.1,
-                "windSpeed": 0.85006,
-                "windDirection": 186,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-01-18T06:00:00+00:00",
+                "temperature": 14.6,
+                "windSpeed": 6.196490000000001,
+                "windDirection": 63,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Before sunrise in Bend, the sky wears a soft, ragged blanket; the town is quiet under a gentle gray that breaks and reforms. As the morning advances, that ceiling loosens into scattered clouds, letting silvery winter sun slip through. Expect a day that leans bright but never glaring, with open views when the blue widens and a clean, calm light on the high desert palette. The sun has a mild hand this time of year: UV stays low early and only nudges toward moderate around midday if the breaks hold.\n\nDress in comfortable layers\u2014a warm coat over a sweater, a knit hat or earband, and sunglasses in your pocket for sudden shafts of light. It\u2019s a good morning for small ambitions: an unhurried loop around the neighborhood with a warm cup, a midmorning grocery run while the sky clears, sorting a shelf in the garage with the door cracked to the fresh air, or settling by a bright window to read while the clouds idle past.",
-    "color_code": "#9BB3C7",
-    "timestamp": "2026-01-17 05:26:46",
+    "weather_report": "Late afternoon in San Francisco drifts toward evening under a mottled sky: scattered clouds at first, thickening to a more insistent blanket as night settles in. The light feels muted, colors softened; whatever sun remains will be brief and filtered, with the UV index essentially negligible now. Expect a calm, gray-tinged night with decent clarity, though edges of the view may seem a touch smudged by the cloud cover. It\u2019s more contemplative than dazzling, the kind of dusk where city lights take over the job of shining.\n\nLayers will serve you best: a comfortable sweater or long sleeves under a light jacket, something you can tug close if a cool, damp breath comes off the streets. This is an evening for small errands and easy rituals\u2014walk a quiet block before dinner, pick up a few groceries, linger with a warm cup and a notebook, straighten the week\u2019s loose corners at home. Let the night be simple, unhurried, and gently lit.",
+    "color_code": "#4A5F6D",
+    "timestamp": "2026-01-17 17:29:31",
     "location": {
-        "name": "Bend",
-        "latitude": 44.05394255663877,
-        "longitude": -121.3016018946352,
+        "name": "San Francisco",
+        "latitude": 37.61835693543867,
+        "longitude": -122.392507701933,
         "timezone": "America/Los_Angeles"
     }
 }

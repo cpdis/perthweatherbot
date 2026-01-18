@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-01-10 17:39:47",
-    "location": {
-      "name": "Bend",
-      "latitude": 44.06826218265595,
-      "longitude": -121.3402343735289,
-      "timezone": "America/Los_Angeles"
-    },
-    "current_conditions": {
-      "timestamp": "2026-01-11T01:39:47+00:00",
-      "temperature_c": 6.14,
-      "temperature_f": 43.052,
-      "humidity": 45,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 170,
-      "description": "clear sky"
-    },
-    "report_summary": "Evening settles over Bend with a clean, open sky and the last light thinning along the ridges. The s...",
-    "color_code": "#1c2749"
-  },
-  {
     "timestamp": "2026-01-11 05:28:01",
     "location": {
       "name": "Bend",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Before sunrise in Bend, the sky wears a soft, ragged blanket; the town is quiet under a gentle gray ...",
     "color_code": "#9BB3C7"
+  },
+  {
+    "timestamp": "2026-01-17 17:29:31",
+    "location": {
+      "name": "San Francisco",
+      "latitude": 37.61835693543867,
+      "longitude": -122.392507701933,
+      "timezone": "America/Los_Angeles"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-18T01:29:30+00:00",
+      "temperature_c": 16.54,
+      "temperature_f": 61.772,
+      "humidity": 61,
+      "wind_speed_mph": 11.00604,
+      "wind_direction": 151,
+      "description": "clear sky"
+    },
+    "report_summary": "Late afternoon in San Francisco drifts toward evening under a mottled sky: scattered clouds at first...",
+    "color_code": "#4A5F6D"
   }
 ]
