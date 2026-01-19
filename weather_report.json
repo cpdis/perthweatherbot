@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "San Francisco",
-            "country": "US",
-            "latitude": 37.61835693543867,
-            "longitude": -122.392507701933
+            "name": "Subiaco",
+            "country": "AU",
+            "latitude": -31.94970489820458,
+            "longitude": 115.8207240489915
         },
         "current_conditions": {
-            "timestamp": "2026-01-19T01:27:43+00:00",
-            "temperature_c": 16.3,
-            "temperature_f": 61.34,
-            "humidity": 66,
-            "wind_speed_mph": 3.44498,
-            "wind_direction": 70,
-            "description": "broken clouds"
+            "timestamp": "2026-01-19T13:42:40+00:00",
+            "temperature_c": 23.87,
+            "temperature_f": 74.96600000000001,
+            "humidity": 65,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 210,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-01-19T03:00:00+00:00",
-                "temperature": 15.8,
-                "windSpeed": 4.60822,
-                "windDirection": 52,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-01-19T15:00:00+00:00",
+                "temperature": 23.87,
+                "windSpeed": 10.2902,
+                "windDirection": 122,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-01-19T06:00:00+00:00",
-                "temperature": 14.61,
-                "windSpeed": 3.82527,
-                "windDirection": 63,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-01-19T18:00:00+00:00",
+                "temperature": 23.75,
+                "windSpeed": 17.336750000000002,
+                "windDirection": 95,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Twilight settles over San Francisco with a quilt of broken clouds, the last scraps of daylight dimming to steel-blue. Sunshine is largely spent now, with only brief, fickle hints slipping through the gaps; the UV index is negligible and falling to nothing with the night. The air feels reasonably clear, though the sky is mottled rather than crystalline, giving the city a subdued, reflective cast as evening takes hold and the cloud deck lingers into late night.\n\nIt looks quietly pleasant if a touch cool after dark. A light jacket or soft sweater will suit the hours ahead; add a scarf if you chill easily. This is weather for a practical, unrushed evening: a small grocery run, an amble around the block to stretch the day from your shoulders, tidying a desk while the radio murmurs, or lingering at a corner caf\u00e9 with something warm. If you\u2019re heading out later, think simple and nearby; the sky will be mostly veiled and the mood calm.",
-    "color_code": "#708090",
-    "timestamp": "2026-01-18 17:27:44",
+    "weather_report": "Night has settled over Subiaco and the sky is swept clean, cloudless and quietly confident. The forecast holds to that purity, so the stars feel nearer and the streetlights seem steadier, with no haze to blunt the edges. UV is effectively asleep at this hour; when the sun returns to such bare blue, expect a bright, unfiltered glare and a brisk climb in UV through late morning, the kind that asks for a little respect.\n\nIt\u2019s a simple, pleasant night for small things: a gentle stroll to the shop, an unhurried loop with the dog, or a window-cracked drive with the radio murmuring. Dress in easy layers\u2014breathable fabrics now, a light jacket if you run cool\u2014and keep tomorrow\u2019s kit ready with sunglasses, a hat, and sunscreen if you\u2019ll be out around midday. The day ahead looks clear and straightforward, the kind of weather that doesn\u2019t make a fuss and quietly invites you to get on with whatever you had in mind.",
+    "color_code": "#0b1e3a",
+    "timestamp": "2026-01-19 21:42:40",
     "location": {
-        "name": "San Francisco",
-        "latitude": 37.61835693543867,
-        "longitude": -122.392507701933,
-        "timezone": "America/Los_Angeles"
+        "name": "Subiaco",
+        "latitude": -31.94970489820458,
+        "longitude": 115.8207240489915,
+        "timezone": "Australia/Perth"
     }
 }
