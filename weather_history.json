@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-01-11 17:26:59",
-    "location": {
-      "name": "Bend",
-      "latitude": 44.0681664829396,
-      "longitude": -121.3404188383531,
-      "timezone": "America/Los_Angeles"
-    },
-    "current_conditions": {
-      "timestamp": "2026-01-12T01:26:59+00:00",
-      "temperature_c": 6.89,
-      "temperature_f": 44.402,
-      "humidity": 41,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 160,
-      "description": "clear sky"
-    },
-    "report_summary": "Bend eases into evening under a quilt of scattered clouds, the last light thinning at the edges whil...",
-    "color_code": "#2E4057"
-  },
-  {
     "timestamp": "2026-01-12 05:39:53",
     "location": {
       "name": "Bend",
@@ -278,5 +258,25 @@
     },
     "report_summary": "A quiet Sunday dawn settles over San Francisco with a low quilt of cloud, the kind that mutes the st...",
     "color_code": "#778899"
+  },
+  {
+    "timestamp": "2026-01-18 17:27:44",
+    "location": {
+      "name": "San Francisco",
+      "latitude": 37.61835693543867,
+      "longitude": -122.392507701933,
+      "timezone": "America/Los_Angeles"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-19T01:27:43+00:00",
+      "temperature_c": 16.3,
+      "temperature_f": 61.34,
+      "humidity": 66,
+      "wind_speed_mph": 3.44498,
+      "wind_direction": 70,
+      "description": "broken clouds"
+    },
+    "report_summary": "Twilight settles over San Francisco with a quilt of broken clouds, the last scraps of daylight dimmi...",
+    "color_code": "#708090"
   }
 ]
