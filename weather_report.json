@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Osborne Park",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.90810325945427,
-            "longitude": 115.8017984387277
+            "latitude": -31.94968215514172,
+            "longitude": 115.8208303237547
         },
         "current_conditions": {
-            "timestamp": "2026-01-21T01:25:57+00:00",
-            "temperature_c": 29.02,
-            "temperature_f": 84.236,
-            "humidity": 38,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 70,
+            "timestamp": "2026-01-21T13:42:42+00:00",
+            "temperature_c": 30.73,
+            "temperature_f": 87.314,
+            "humidity": 34,
+            "wind_speed_mph": 4.33978,
+            "wind_direction": 141,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-01-21T03:00:00+00:00",
-                "temperature": 30.61,
-                "windSpeed": 14.18258,
-                "windDirection": 61,
+                "startTime": "2026-01-21T15:00:00+00:00",
+                "temperature": 30.73,
+                "windSpeed": 3.26602,
+                "windDirection": 155,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-01-21T06:00:00+00:00",
-                "temperature": 36.63,
-                "windSpeed": 9.70858,
-                "windDirection": 60,
+                "startTime": "2026-01-21T18:00:00+00:00",
+                "temperature": 29.97,
+                "windSpeed": 6.10701,
+                "windDirection": 56,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Morning in Osborne Park opens under a bare blue dome, the sunlight already white and insistent at this hour. The forecast holds to clear skies through late morning and early afternoon, a day of clean horizons and sharp-edged shadows where colors look newly painted. Expect full, unfiltered sun with a UV index rising quickly and staying very high around midday, the sort of summer light that rewards shade and caution.\n\nIt will feel pleasant if you keep to the edges of the day. Wear light, breathable clothes, a wide-brimmed hat and sunglasses, lay on sunscreen, and keep water close. Good hours for hanging a wash, running brief errands on foot, or tending a small garden task before the glare settles in; later, choose a caf\u00e9 table under an awning or a short stroll on a shaded path, then let a quiet room and a book carry you through the brightest stretch.",
-    "color_code": "#87CEFA",
-    "timestamp": "2026-01-21 09:25:57",
+    "weather_report": "Subiaco slips into night under a flawless dome of sky, the sort that makes the streetlights feel gentle and distant. It\u2019s clear now and expected to stay that way through late evening into the small hours, dry and calm, with the day\u2019s warmth easing toward something softer. Sunshine is done for the night; UV is essentially nil until morning. If these clear conditions carry into dawn, first light will arrive sharp and bright, and the UV will climb quickly with the season.\n\nIt\u2019s a pleasant night to move unhurriedly: a quiet lap around the block, a small errand, a lazy chat on the veranda. Dress in light layers you can shed or gather as the air cools\u2014comfortable clothes, perhaps a cardigan in hand. No need for sunscreen or brim now; set them by the door for tomorrow just in case. The evening is all clarity and calm, made for finishing a book, airing the house a little, or watering the garden while the heat has loosened its grip.",
+    "color_code": "#0d1b2a",
+    "timestamp": "2026-01-21 21:42:43",
     "location": {
-        "name": "Osborne Park",
-        "latitude": -31.90810325945427,
-        "longitude": 115.8017984387277,
+        "name": "Subiaco",
+        "latitude": -31.94968215514172,
+        "longitude": 115.8208303237547,
         "timezone": "Australia/Perth"
     }
 }

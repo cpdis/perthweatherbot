@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-01-14 05:38:32",
-    "location": {
-      "name": "Bend",
-      "latitude": 44.06814630055035,
-      "longitude": -121.340392212521,
-      "timezone": "America/Los_Angeles"
-    },
-    "current_conditions": {
-      "timestamp": "2026-01-14T13:38:32+00:00",
-      "temperature_c": 2,
-      "temperature_f": 35.6,
-      "humidity": 62,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 160,
-      "description": "clear sky"
-    },
-    "report_summary": "Bend wakes under a clear, hushed sky, the kind that turns the edges of roofs silver and makes the ai...",
-    "color_code": "#2B4C7E"
-  },
-  {
     "timestamp": "2026-01-14 17:21:49",
     "location": {
       "name": "Bend",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Morning in Osborne Park opens under a bare blue dome, the sunlight already white and insistent at th...",
     "color_code": "#87CEFA"
+  },
+  {
+    "timestamp": "2026-01-21 21:42:43",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968215514172,
+      "longitude": 115.8208303237547,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-21T13:42:42+00:00",
+      "temperature_c": 30.73,
+      "temperature_f": 87.314,
+      "humidity": 34,
+      "wind_speed_mph": 4.33978,
+      "wind_direction": 141,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco slips into night under a flawless dome of sky, the sort that makes the streetlights feel gen...",
+    "color_code": "#0d1b2a"
   }
 ]
