@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-01-13 17:26:19",
-    "location": {
-      "name": "Bend",
-      "latitude": 44.06814630055035,
-      "longitude": -121.340392212521,
-      "timezone": "America/Los_Angeles"
-    },
-    "current_conditions": {
-      "timestamp": "2026-01-14T01:20:57+00:00",
-      "temperature_c": 8.67,
-      "temperature_f": 47.606,
-      "humidity": 46,
-      "wind_speed_mph": 4.60822,
-      "wind_direction": 140,
-      "description": "clear sky"
-    },
-    "report_summary": "Bend settles into evening with a clean, open sky: a few clouds now, drifting toward a scattered veil...",
-    "color_code": "#2b3a67"
-  },
-  {
     "timestamp": "2026-01-14 05:38:32",
     "location": {
       "name": "Bend",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Night has settled over Subiaco with a clean, open sky, the kind that makes the stars look like fresh...",
     "color_code": "#0d1b2a"
+  },
+  {
+    "timestamp": "2026-01-21 09:25:57",
+    "location": {
+      "name": "Osborne Park",
+      "latitude": -31.90810325945427,
+      "longitude": 115.8017984387277,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-21T01:25:57+00:00",
+      "temperature_c": 29.02,
+      "temperature_f": 84.236,
+      "humidity": 38,
+      "wind_speed_mph": 16.1064,
+      "wind_direction": 70,
+      "description": "clear sky"
+    },
+    "report_summary": "Morning in Osborne Park opens under a bare blue dome, the sunlight already white and insistent at th...",
+    "color_code": "#87CEFA"
   }
 ]

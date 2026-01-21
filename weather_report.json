@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Osborne Park",
             "country": "AU",
-            "latitude": -31.94962955600735,
-            "longitude": 115.8209575929616
+            "latitude": -31.90810325945427,
+            "longitude": 115.8017984387277
         },
         "current_conditions": {
-            "timestamp": "2026-01-20T13:43:55+00:00",
-            "temperature_c": 26.83,
-            "temperature_f": 80.294,
-            "humidity": 47,
-            "wind_speed_mph": 6.91233,
-            "wind_direction": 130,
+            "timestamp": "2026-01-21T01:25:57+00:00",
+            "temperature_c": 29.02,
+            "temperature_f": 84.236,
+            "humidity": 38,
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 70,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-01-20T15:00:00+00:00",
-                "temperature": 26.83,
-                "windSpeed": 9.93228,
-                "windDirection": 108,
+                "startTime": "2026-01-21T03:00:00+00:00",
+                "temperature": 30.61,
+                "windSpeed": 14.18258,
+                "windDirection": 61,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-01-20T18:00:00+00:00",
-                "temperature": 26.23,
-                "windSpeed": 19.03687,
-                "windDirection": 92,
+                "startTime": "2026-01-21T06:00:00+00:00",
+                "temperature": 36.63,
+                "windSpeed": 9.70858,
+                "windDirection": 60,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Night has settled over Subiaco with a clean, open sky, the kind that makes the stars look like fresh pinpricks on velvet. The air feels steady and uncomplicated, and with the sun long gone the UV is effectively nil. Forecasts keep it clear late this evening and into the small hours, so the night should remain calm and crisp to the eye, horizons neat and untroubled.\n\nIt\u2019s the sort of pleasant night that invites light layers\u2014a tee with a cardigan or a soft jumper if you linger outdoors. If these cloudless conditions hold, dawn should break bright, and once the sun lifts the UV will climb quickly, so plan shade and sunscreen for tomorrow\u2019s errands. For now, this is a good hour for small, ordinary pleasures: a slow lap around the block, watering the balcony herbs, or reading the last few pages on the back step while the house exhales the day. Let a window stay open and enjoy the quiet clarity.",
-    "color_code": "#0d1b2a",
-    "timestamp": "2026-01-20 21:43:55",
+    "weather_report": "Morning in Osborne Park opens under a bare blue dome, the sunlight already white and insistent at this hour. The forecast holds to clear skies through late morning and early afternoon, a day of clean horizons and sharp-edged shadows where colors look newly painted. Expect full, unfiltered sun with a UV index rising quickly and staying very high around midday, the sort of summer light that rewards shade and caution.\n\nIt will feel pleasant if you keep to the edges of the day. Wear light, breathable clothes, a wide-brimmed hat and sunglasses, lay on sunscreen, and keep water close. Good hours for hanging a wash, running brief errands on foot, or tending a small garden task before the glare settles in; later, choose a caf\u00e9 table under an awning or a short stroll on a shaded path, then let a quiet room and a book carry you through the brightest stretch.",
+    "color_code": "#87CEFA",
+    "timestamp": "2026-01-21 09:25:57",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94962955600735,
-        "longitude": 115.8209575929616,
+        "name": "Osborne Park",
+        "latitude": -31.90810325945427,
+        "longitude": 115.8017984387277,
         "timezone": "Australia/Perth"
     }
 }
