@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-01-14 17:21:49",
-    "location": {
-      "name": "Bend",
-      "latitude": 44.0681500884291,
-      "longitude": -121.3403683041952,
-      "timezone": "America/Los_Angeles"
-    },
-    "current_conditions": {
-      "timestamp": "2026-01-15T01:21:49+00:00",
-      "temperature_c": 8.98,
-      "temperature_f": 48.164,
-      "humidity": 47,
-      "wind_speed_mph": 1.00665,
-      "wind_direction": 94,
-      "description": "clear sky"
-    },
-    "report_summary": "Evening settles over Bend beneath a polished, cloudless sky. The last light fades to indigo and the ...",
-    "color_code": "#1D3557"
-  },
-  {
     "timestamp": "2026-01-15 05:37:41",
     "location": {
       "name": "Bend",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Subiaco slips into night under a flawless dome of sky, the sort that makes the streetlights feel gen...",
     "color_code": "#0d1b2a"
+  },
+  {
+    "timestamp": "2026-01-22 09:25:45",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968215514172,
+      "longitude": 115.8208303237547,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-22T01:25:44+00:00",
+      "temperature_c": 32.01,
+      "temperature_f": 89.618,
+      "humidity": 27,
+      "wind_speed_mph": 18.410510000000002,
+      "wind_direction": 350,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco wakes under a polished blue sky, the light already clean and insistent at mid\u2011morning. The d...",
+    "color_code": "#87CEFA"
   }
 ]
