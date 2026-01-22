@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "West Perth",
             "country": "AU",
-            "latitude": -31.94968215514172,
-            "longitude": 115.8208303237547
+            "latitude": -31.95258063899882,
+            "longitude": 115.8402132071126
         },
         "current_conditions": {
-            "timestamp": "2026-01-22T01:25:44+00:00",
-            "temperature_c": 32.01,
-            "temperature_f": 89.618,
-            "humidity": 27,
-            "wind_speed_mph": 18.410510000000002,
-            "wind_direction": 350,
-            "description": "clear sky"
+            "timestamp": "2026-01-22T13:43:24+00:00",
+            "temperature_c": 20.68,
+            "temperature_f": 69.224,
+            "humidity": 71,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 200,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-01-22T03:00:00+00:00",
-                "temperature": 31.68,
-                "windSpeed": 16.844610000000003,
-                "windDirection": 229,
-                "shortForecast": "clear sky"
+                "startTime": "2026-01-22T15:00:00+00:00",
+                "temperature": 20.68,
+                "windSpeed": 15.18923,
+                "windDirection": 201,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-01-22T06:00:00+00:00",
-                "temperature": 31.26,
-                "windSpeed": 17.09068,
-                "windDirection": 217,
-                "shortForecast": "clear sky"
+                "startTime": "2026-01-22T18:00:00+00:00",
+                "temperature": 20.62,
+                "windSpeed": 17.31438,
+                "windDirection": 193,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a polished blue sky, the light already clean and insistent at mid\u2011morning. The day ahead looks simple and bright: clear from late morning through mid\u2011afternoon, with the sun burning a steady path and little to interrupt it. Expect a very sunny stretch, the UV index rising quickly into the very high to extreme band around midday before softening later on. It\u2019s the sort of Perth summer day where edges look crisp and colors feel dialed up, with the air inviting but the sun a touch overzealous.\n\nDress light and breathable, with a brimmed hat, sunglasses, and sunscreen that doesn\u2019t blink. If you\u2019re out now, enjoy a shaded coffee along Rokeby Road or a brief wander through Kings Park before the noon glare takes charge; errands are best wrapped by late morning or saved for late afternoon when the light mellows. A short, unhurried lunch indoors, then a gentle circuit of the neighborhood after four, windows down and the day\u2019s heat easing off. Even with the clear serenity overhead, plan your time by the sun: savor the clarity, respect the UV, and let the day\u2019s bright calm set the tempo.",
-    "color_code": "#87CEFA",
-    "timestamp": "2026-01-22 09:25:45",
+    "weather_report": "West Perth slips into night under a quilt of broken cloud, the last ember of daylight gone and the UV all but extinguished until morning. The sky is mottled and quiet, moonlight snagging on the cloud edges, streetlamps haloed and distant hills a suggestion more than a line. Expect this patchwork to linger through late evening and after midnight, a gentle, muted night rather than a crystal-clear one; pleasant enough to be outside for a spell, though the stars will play shy.\n\nIf you\u2019re stepping out, think light layers: a tee with a soft cardigan or a breezy overshirt, nothing heavy, no sunhat needed. It\u2019s a good hour for a short amble to stretch the day from your legs, a quick errand for milk, or a few minutes on the balcony with a chapter and a cup cooling in your hand. Let the windows breathe if the air feels kind, make a small plan for tomorrow, and enjoy the city humming at half-volume.",
+    "color_code": "#2E3A4C",
+    "timestamp": "2026-01-22 21:43:25",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968215514172,
-        "longitude": 115.8208303237547,
+        "name": "West Perth",
+        "latitude": -31.95258063899882,
+        "longitude": 115.8402132071126,
         "timezone": "Australia/Perth"
     }
 }
