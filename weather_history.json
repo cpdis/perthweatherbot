@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-01-15 17:24:01",
-    "location": {
-      "name": "Bend",
-      "latitude": 44.06344491490778,
-      "longitude": -121.338432577211,
-      "timezone": "America/Los_Angeles"
-    },
-    "current_conditions": {
-      "timestamp": "2026-01-16T01:24:00+00:00",
-      "temperature_c": 5.79,
-      "temperature_f": 42.422,
-      "humidity": 58,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 320,
-      "description": "clear sky"
-    },
-    "report_summary": "Early evening in Bend arrives under a flawless, glass-clear sky; the sun has slipped below the ridge...",
-    "color_code": "#1E3A5F"
-  },
-  {
     "timestamp": "2026-01-16 05:35:42",
     "location": {
       "name": "Bend",
@@ -278,5 +258,25 @@
     },
     "report_summary": "West Perth slips into night under a quilt of broken cloud, the last ember of daylight gone and the U...",
     "color_code": "#2E3A4C"
+  },
+  {
+    "timestamp": "2026-01-23 09:23:19",
+    "location": {
+      "name": "Cottesloe",
+      "latitude": -31.99618809897241,
+      "longitude": 115.7531894794653,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-23T01:23:18+00:00",
+      "temperature_c": 21.66,
+      "temperature_f": 70.988,
+      "humidity": 65,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 210,
+      "description": "broken clouds"
+    },
+    "report_summary": "Cottesloe wakes under a quilt of broken cloud, the sun slipping in and out like a shy performer behi...",
+    "color_code": "#A9C8E3"
   }
 ]

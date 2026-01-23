@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "West Perth",
+            "name": "Cottesloe",
             "country": "AU",
-            "latitude": -31.95258063899882,
-            "longitude": 115.8402132071126
+            "latitude": -31.99618809897241,
+            "longitude": 115.7531894794653
         },
         "current_conditions": {
-            "timestamp": "2026-01-22T13:43:24+00:00",
-            "temperature_c": 20.68,
-            "temperature_f": 69.224,
-            "humidity": 71,
-            "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 200,
+            "timestamp": "2026-01-23T01:23:18+00:00",
+            "temperature_c": 21.66,
+            "temperature_f": 70.988,
+            "humidity": 65,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 210,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-01-22T15:00:00+00:00",
-                "temperature": 20.68,
-                "windSpeed": 15.18923,
-                "windDirection": 201,
+                "startTime": "2026-01-23T03:00:00+00:00",
+                "temperature": 21.28,
+                "windSpeed": 14.697090000000001,
+                "windDirection": 199,
                 "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-01-22T18:00:00+00:00",
-                "temperature": 20.62,
-                "windSpeed": 17.31438,
-                "windDirection": 193,
+                "startTime": "2026-01-23T06:00:00+00:00",
+                "temperature": 21.27,
+                "windSpeed": 17.896,
+                "windDirection": 220,
                 "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "West Perth slips into night under a quilt of broken cloud, the last ember of daylight gone and the UV all but extinguished until morning. The sky is mottled and quiet, moonlight snagging on the cloud edges, streetlamps haloed and distant hills a suggestion more than a line. Expect this patchwork to linger through late evening and after midnight, a gentle, muted night rather than a crystal-clear one; pleasant enough to be outside for a spell, though the stars will play shy.\n\nIf you\u2019re stepping out, think light layers: a tee with a soft cardigan or a breezy overshirt, nothing heavy, no sunhat needed. It\u2019s a good hour for a short amble to stretch the day from your legs, a quick errand for milk, or a few minutes on the balcony with a chapter and a cup cooling in your hand. Let the windows breathe if the air feels kind, make a small plan for tomorrow, and enjoy the city humming at half-volume.",
-    "color_code": "#2E3A4C",
-    "timestamp": "2026-01-22 21:43:25",
+    "weather_report": "Cottesloe wakes under a quilt of broken cloud, the sun slipping in and out like a shy performer behind the curtain. The light is soft but brightening, the air already warming, and the sea has that brushed-steel sheen that makes the horizon feel both near and far. Visibility is good, with the scene a touch muted by the shifting canopy above.\n\nExpect this patchwork sky to hold through the day, offering intermittent sunshine rather than a blaze. Even so, the UV will be unforgiving by late morning into early afternoon; think wide-brim hat, sunglasses, breathable fabrics, and generous sunscreen if you\u2019re out and about. It\u2019s a pleasant day for ordinary pleasures: a slow coffee on a shaded verandah, a stroll along the foreshore before the glare sharpens, hanging the washing where the breeze can find it, or a midmorning run of errands on foot. After lunch, seek the cooler side of the garden or a library chair by a window, letting the cloud-filtered light do the decorating.",
+    "color_code": "#A9C8E3",
+    "timestamp": "2026-01-23 09:23:19",
     "location": {
-        "name": "West Perth",
-        "latitude": -31.95258063899882,
-        "longitude": 115.8402132071126,
+        "name": "Cottesloe",
+        "latitude": -31.99618809897241,
+        "longitude": 115.7531894794653,
         "timezone": "Australia/Perth"
     }
 }
