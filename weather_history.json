@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-01-17 17:29:31",
-    "location": {
-      "name": "San Francisco",
-      "latitude": 37.61835693543867,
-      "longitude": -122.392507701933,
-      "timezone": "America/Los_Angeles"
-    },
-    "current_conditions": {
-      "timestamp": "2026-01-18T01:29:30+00:00",
-      "temperature_c": 16.54,
-      "temperature_f": 61.772,
-      "humidity": 61,
-      "wind_speed_mph": 11.00604,
-      "wind_direction": 151,
-      "description": "clear sky"
-    },
-    "report_summary": "Late afternoon in San Francisco drifts toward evening under a mottled sky: scattered clouds at first...",
-    "color_code": "#4A5F6D"
-  },
-  {
     "timestamp": "2026-01-18 05:26:25",
     "location": {
       "name": "San Francisco",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Subiaco settles into a gentle evening, the sky mostly open with only a few strays of cloud and a pro...",
     "color_code": "#0D1B2A"
+  },
+  {
+    "timestamp": "2026-01-25 09:41:25",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968878436102,
+      "longitude": 115.8209658484658,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-25T01:41:24+00:00",
+      "temperature_c": 23.07,
+      "temperature_f": 73.526,
+      "humidity": 60,
+      "wind_speed_mph": 14.965530000000001,
+      "wind_direction": 300,
+      "description": "broken clouds"
+    },
+    "report_summary": "Subiaco wakes under a softened light, the sun veiled by building cloud that makes colors look gentle...",
+    "color_code": "#7F8C9A"
   }
 ]
