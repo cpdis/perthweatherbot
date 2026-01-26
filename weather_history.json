@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-01-18 17:27:44",
-    "location": {
-      "name": "San Francisco",
-      "latitude": 37.61835693543867,
-      "longitude": -122.392507701933,
-      "timezone": "America/Los_Angeles"
-    },
-    "current_conditions": {
-      "timestamp": "2026-01-19T01:27:43+00:00",
-      "temperature_c": 16.3,
-      "temperature_f": 61.34,
-      "humidity": 66,
-      "wind_speed_mph": 3.44498,
-      "wind_direction": 70,
-      "description": "broken clouds"
-    },
-    "report_summary": "Twilight settles over San Francisco with a quilt of broken clouds, the last scraps of daylight dimmi...",
-    "color_code": "#708090"
-  },
-  {
     "timestamp": "2026-01-19 21:42:40",
     "location": {
       "name": "Subiaco",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Subiaco settles into night under a patchwork of cloud, the sky dim and a little secretive. Broken cl...",
     "color_code": "#2C3E50"
+  },
+  {
+    "timestamp": "2026-01-26 09:41:10",
+    "location": {
+      "name": "South Fremantle",
+      "latitude": -32.07132336747046,
+      "longitude": 115.7556742526399,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-26T01:41:09+00:00",
+      "temperature_c": 22.03,
+      "temperature_f": 71.654,
+      "humidity": 54,
+      "wind_speed_mph": 18.410510000000002,
+      "wind_direction": 240,
+      "description": "broken clouds"
+    },
+    "report_summary": "South Fremantle wakes under a low lid of cloud, the air salted and a little heavy. Light showers are...",
+    "color_code": "#6F7C86"
   }
 ]

@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "South Fremantle",
             "country": "AU",
-            "latitude": -31.94968263908215,
-            "longitude": 115.8207000525775
+            "latitude": -32.07132336747046,
+            "longitude": 115.7556742526399
         },
         "current_conditions": {
-            "timestamp": "2026-01-25T13:30:08+00:00",
-            "temperature_c": 21.41,
-            "temperature_f": 70.538,
-            "humidity": 65,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 260,
+            "timestamp": "2026-01-26T01:41:09+00:00",
+            "temperature_c": 22.03,
+            "temperature_f": 71.654,
+            "humidity": 54,
+            "wind_speed_mph": 18.410510000000002,
+            "wind_direction": 240,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-01-25T15:00:00+00:00",
-                "temperature": 21.41,
-                "windSpeed": 12.348239999999999,
-                "windDirection": 264,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-01-26T03:00:00+00:00",
+                "temperature": 22.03,
+                "windSpeed": 17.29201,
+                "windDirection": 241,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-01-25T18:00:00+00:00",
-                "temperature": 20.5,
-                "windSpeed": 12.61668,
-                "windDirection": 253,
+                "startTime": "2026-01-26T06:00:00+00:00",
+                "temperature": 21.69,
+                "windSpeed": 20.446180000000002,
+                "windDirection": 221,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Subiaco settles into night under a patchwork of cloud, the sky dim and a little secretive. Broken cloud is expected to thicken toward late evening, with a light, passing rain after midnight. Sunshine is no longer a concern; the UV is effectively nil now, and any early light at dawn will probably feel softened by leftover cloud and damp air. The night looks gently unsettled rather than harsh\u2014quiet streets, a faint sheen on the pavement, and the occasional whisper of drizzle.\n\nDress for calm and convenience: a light layer, something with a hood or a small umbrella in your bag if you\u2019ll be out late, and shoes that don\u2019t mind a wet footpath. It\u2019s good weather for a short, unhurried walk before the first drops arrive, for taking the bins out, setting out tomorrow\u2019s clothes, or letting a kettle come to the boil while you answer one last message and listen to the rain find its rhythm.",
-    "color_code": "#2C3E50",
-    "timestamp": "2026-01-25 21:30:09",
+    "weather_report": "South Fremantle wakes under a low lid of cloud, the air salted and a little heavy. Light showers are likely to slip in from late morning through early afternoon, more a passing peppering than a drenching. Sunshine will be scarce, arriving in thin, milky flashes between grey sheets; the day\u2019s clarity feels muted, the light flat, the horizon slightly smudged. Even so, it\u2019s midsummer, and when the cloud loosens the UV will bite more than the sky suggests.\n\nIt looks more gentle than grim. Wear breathable layers with a light rain shell, shoes you don\u2019t mind getting damp, and keep sunglasses and sunscreen handy for those sudden brightenings. Good weather for small errands, a slow lap of South Terrace between showers, a quiet caf\u00e9 and a paperback, or a brief seaside walk to breathe in the wind and watch the gulls argue with the squall. Save the long beach laze for another day; this one asks for unhurried plans and a flexible mood.",
+    "color_code": "#6F7C86",
+    "timestamp": "2026-01-26 09:41:10",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968263908215,
-        "longitude": 115.8207000525775,
+        "name": "South Fremantle",
+        "latitude": -32.07132336747046,
+        "longitude": 115.7556742526399,
         "timezone": "Australia/Perth"
     }
 }
