@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "South Fremantle",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -32.07132336747046,
-            "longitude": 115.7556742526399
+            "latitude": -31.94966990843768,
+            "longitude": 115.8209762143035
         },
         "current_conditions": {
-            "timestamp": "2026-01-26T01:41:09+00:00",
-            "temperature_c": 22.03,
-            "temperature_f": 71.654,
-            "humidity": 54,
-            "wind_speed_mph": 18.410510000000002,
-            "wind_direction": 240,
-            "description": "broken clouds"
+            "timestamp": "2026-01-26T13:41:45+00:00",
+            "temperature_c": 18.18,
+            "temperature_f": 64.724,
+            "humidity": 61,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 200,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-01-26T03:00:00+00:00",
-                "temperature": 22.03,
-                "windSpeed": 17.29201,
-                "windDirection": 241,
-                "shortForecast": "light rain"
+                "startTime": "2026-01-26T15:00:00+00:00",
+                "temperature": 18.18,
+                "windSpeed": 12.86275,
+                "windDirection": 180,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2026-01-26T06:00:00+00:00",
-                "temperature": 21.69,
-                "windSpeed": 20.446180000000002,
-                "windDirection": 221,
-                "shortForecast": "light rain"
+                "startTime": "2026-01-26T18:00:00+00:00",
+                "temperature": 17.71,
+                "windSpeed": 13.489110000000002,
+                "windDirection": 166,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "South Fremantle wakes under a low lid of cloud, the air salted and a little heavy. Light showers are likely to slip in from late morning through early afternoon, more a passing peppering than a drenching. Sunshine will be scarce, arriving in thin, milky flashes between grey sheets; the day\u2019s clarity feels muted, the light flat, the horizon slightly smudged. Even so, it\u2019s midsummer, and when the cloud loosens the UV will bite more than the sky suggests.\n\nIt looks more gentle than grim. Wear breathable layers with a light rain shell, shoes you don\u2019t mind getting damp, and keep sunglasses and sunscreen handy for those sudden brightenings. Good weather for small errands, a slow lap of South Terrace between showers, a quiet caf\u00e9 and a paperback, or a brief seaside walk to breathe in the wind and watch the gulls argue with the squall. Save the long beach laze for another day; this one asks for unhurried plans and a flexible mood.",
-    "color_code": "#6F7C86",
-    "timestamp": "2026-01-26 09:41:10",
+    "weather_report": "Subiaco settles into night with only a few small clouds idling overhead, the sort that leave the stars room to breathe and the streets a calm, silvery hush. The air feels uncomplicated and clear; the sun has long since slipped away, so UV is effectively nil until morning. If this gentle pattern holds, the first light should arrive to a mostly open sky, bright and clean, with UV rising quickly as the day gathers pace in midsummer.\n\nFor now it\u2019s a pleasant, low\u2011key evening. A light layer or soft cardigan will suit an amble around the block or a few quiet minutes on the balcony. Windows can be cracked to let in the mild air while you finish a chapter, water the herbs, or take the dog for an unhurried loop under the streetlamps. If you\u2019ll be out after sunrise, plan for brightness: sunglasses, a hat, and sunscreen will serve you well once the day wakes up fully.",
+    "color_code": "#0D1B2A",
+    "timestamp": "2026-01-26 21:41:46",
     "location": {
-        "name": "South Fremantle",
-        "latitude": -32.07132336747046,
-        "longitude": 115.7556742526399,
+        "name": "Subiaco",
+        "latitude": -31.94966990843768,
+        "longitude": 115.8209762143035,
         "timezone": "Australia/Perth"
     }
 }
