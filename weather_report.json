@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "West Perth",
+            "name": "Osborne Park",
             "country": "AU",
-            "latitude": -31.95332653024788,
-            "longitude": 115.8465582204514
+            "latitude": -31.90812334294628,
+            "longitude": 115.8017794130381
         },
         "current_conditions": {
-            "timestamp": "2026-01-27T13:43:35+00:00",
-            "temperature_c": 20.3,
-            "temperature_f": 68.54,
-            "humidity": 58,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 190,
+            "timestamp": "2026-01-28T01:25:39+00:00",
+            "temperature_c": 22.73,
+            "temperature_f": 72.914,
+            "humidity": 46,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 100,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-01-27T15:00:00+00:00",
-                "temperature": 20.15,
-                "windSpeed": 10.17835,
-                "windDirection": 153,
+                "startTime": "2026-01-28T03:00:00+00:00",
+                "temperature": 23.73,
+                "windSpeed": 5.8162,
+                "windDirection": 120,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-01-27T18:00:00+00:00",
-                "temperature": 19.52,
-                "windSpeed": 13.73518,
-                "windDirection": 115,
+                "startTime": "2026-01-28T06:00:00+00:00",
+                "temperature": 26.62,
+                "windSpeed": 15.68137,
+                "windDirection": 211,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "West Perth settles into a clear, unhurried night. The sky is scrubbed clean, stars showing like pins in velvet, and the air feels straightforward and honest. There\u2019s no sun now, of course, so the UV is essentially absent; clarity is the headline, with sharp visibility and no hint of haze. It reads as a calm, comfortable evening rather than a sultry one.\n\nThe forecast keeps the canvas cloudless through late evening and into the small hours, so expect a steady, quiet night and a bright, uncomplicated dawn to follow. A light layer will do if you\u2019re stepping out; otherwise, keep it simple and easy. Good conditions for a slow lap around the block, a few pages on the balcony, or watering the plants while the heat has gone out of the day. If you put off an errand, this is a decent window to tick it off without breaking a sweat.",
-    "color_code": "#0D1B2A",
-    "timestamp": "2026-01-27 21:43:37",
+    "weather_report": "Osborne Park wakes to a clear dome of sky and clean, bright light; shadows are already crisp at mid-morning, the air feeling open and uncomplicated. With the forecast calling for clear skies through late morning and into the afternoon, expect unfiltered sunshine and a very high UV punch as midday approaches. The day looks beautifully clear, colors saturated, edges sharp, the kind of clarity that makes everything feel lightly polished and a little exposed.\n\nDress for glare and warmth: light, breathable layers, a broad-brim hat, sunglasses, and diligent sunscreen; carry water if you\u2019re stepping out. This is a pleasant morning for a short errand on foot, hanging the wash to dry, or a quick circuit through the park before the sun turns brassy. If you\u2019re staying indoors, throw open a window and let the light in while you sort a drawer, water a stubborn plant, or flip through a book by the window; save a longer wander for late afternoon when the light softens and the edges blur.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-01-28 09:25:40",
     "location": {
-        "name": "West Perth",
-        "latitude": -31.95332653024788,
-        "longitude": 115.8465582204514,
+        "name": "Osborne Park",
+        "latitude": -31.90812334294628,
+        "longitude": 115.8017794130381,
         "timezone": "Australia/Perth"
     }
 }

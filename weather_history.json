@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-01-20 21:43:55",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94962955600735,
-      "longitude": 115.8209575929616,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-01-20T13:43:55+00:00",
-      "temperature_c": 26.83,
-      "temperature_f": 80.294,
-      "humidity": 47,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 130,
-      "description": "clear sky"
-    },
-    "report_summary": "Night has settled over Subiaco with a clean, open sky, the kind that makes the stars look like fresh...",
-    "color_code": "#0d1b2a"
-  },
-  {
     "timestamp": "2026-01-21 09:25:57",
     "location": {
       "name": "Osborne Park",
@@ -298,5 +278,25 @@
     },
     "report_summary": "West Perth settles into a clear, unhurried night. The sky is scrubbed clean, stars showing like pins...",
     "color_code": "#0D1B2A"
+  },
+  {
+    "timestamp": "2026-01-28 09:25:40",
+    "location": {
+      "name": "Osborne Park",
+      "latitude": -31.90812334294628,
+      "longitude": 115.8017794130381,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-28T01:25:39+00:00",
+      "temperature_c": 22.73,
+      "temperature_f": 72.914,
+      "humidity": 46,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 100,
+      "description": "clear sky"
+    },
+    "report_summary": "Osborne Park wakes to a clear dome of sky and clean, bright light; shadows are already crisp at mid-...",
+    "color_code": "#87CEEB"
   }
 ]
