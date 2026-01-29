@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2026-01-21 09:25:57",
-    "location": {
-      "name": "Osborne Park",
-      "latitude": -31.90810325945427,
-      "longitude": 115.8017984387277,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-01-21T01:25:57+00:00",
-      "temperature_c": 29.02,
-      "temperature_f": 84.236,
-      "humidity": 38,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 70,
-      "description": "clear sky"
-    },
-    "report_summary": "Morning in Osborne Park opens under a bare blue dome, the sunlight already white and insistent at th...",
-    "color_code": "#87CEFA"
-  },
-  {
-    "timestamp": "2026-01-21 21:42:43",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968215514172,
-      "longitude": 115.8208303237547,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-01-21T13:42:42+00:00",
-      "temperature_c": 30.73,
-      "temperature_f": 87.314,
-      "humidity": 34,
-      "wind_speed_mph": 4.33978,
-      "wind_direction": 141,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco slips into night under a flawless dome of sky, the sort that makes the streetlights feel gen...",
-    "color_code": "#0d1b2a"
-  },
-  {
     "timestamp": "2026-01-22 09:25:45",
     "location": {
       "name": "Subiaco",
@@ -298,5 +258,25 @@
     },
     "report_summary": "Osborne Park wakes to a clear dome of sky and clean, bright light; shadows are already crisp at mid-...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-01-29 09:46:27",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969759458225,
+      "longitude": 115.820859853148,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-01-29T01:46:26+00:00",
+      "temperature_c": 27.92,
+      "temperature_f": 82.256,
+      "humidity": 42,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 70,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco wakes to a clean, unblemished sky, the sun already drawing quick, sharp shadows along the ve...",
+    "color_code": "#87CEFA"
   }
 ]

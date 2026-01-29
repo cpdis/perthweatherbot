@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Osborne Park",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.90812334294628,
-            "longitude": 115.8017794130381
+            "latitude": -31.94969759458225,
+            "longitude": 115.820859853148
         },
         "current_conditions": {
-            "timestamp": "2026-01-28T01:25:39+00:00",
-            "temperature_c": 22.73,
-            "temperature_f": 72.914,
-            "humidity": 46,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 100,
+            "timestamp": "2026-01-29T01:46:26+00:00",
+            "temperature_c": 27.92,
+            "temperature_f": 82.256,
+            "humidity": 42,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 70,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-01-28T03:00:00+00:00",
-                "temperature": 23.73,
-                "windSpeed": 5.8162,
-                "windDirection": 120,
+                "startTime": "2026-01-29T03:00:00+00:00",
+                "temperature": 27.92,
+                "windSpeed": 0.29081,
+                "windDirection": 193,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-01-28T06:00:00+00:00",
-                "temperature": 26.62,
-                "windSpeed": 15.68137,
-                "windDirection": 211,
+                "startTime": "2026-01-29T06:00:00+00:00",
+                "temperature": 29.31,
+                "windSpeed": 15.077380000000002,
+                "windDirection": 217,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Osborne Park wakes to a clear dome of sky and clean, bright light; shadows are already crisp at mid-morning, the air feeling open and uncomplicated. With the forecast calling for clear skies through late morning and into the afternoon, expect unfiltered sunshine and a very high UV punch as midday approaches. The day looks beautifully clear, colors saturated, edges sharp, the kind of clarity that makes everything feel lightly polished and a little exposed.\n\nDress for glare and warmth: light, breathable layers, a broad-brim hat, sunglasses, and diligent sunscreen; carry water if you\u2019re stepping out. This is a pleasant morning for a short errand on foot, hanging the wash to dry, or a quick circuit through the park before the sun turns brassy. If you\u2019re staying indoors, throw open a window and let the light in while you sort a drawer, water a stubborn plant, or flip through a book by the window; save a longer wander for late afternoon when the light softens and the edges blur.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-01-28 09:25:40",
+    "weather_report": "Subiaco wakes to a clean, unblemished sky, the sun already drawing quick, sharp shadows along the verandas. The morning feels dry and lucid, colors a little brighter than usual, and the day is set to stay this way: clear, bright, and untroubled by cloud. Under such open sunlight the UV will climb fast and hard by late morning into early afternoon, so the beauty comes with bite.\n\nWear light, breathable layers, a broad-brimmed hat, sunglasses with conviction, and sunscreen you don\u2019t skimp on; carry water and look for shade when the glare hardens. It\u2019s a good day to run small errands on foot before lunch, to let a basket of washing drink the sun, or to tend the garden briefly and then retreat. When the heat gathers, slip into a quiet bookshop or a cool gallery, or settle in a shaded caf\u00e9 courtyard and watch the bright street go about its business.",
+    "color_code": "#87CEFA",
+    "timestamp": "2026-01-29 09:46:27",
     "location": {
-        "name": "Osborne Park",
-        "latitude": -31.90812334294628,
-        "longitude": 115.8017794130381,
+        "name": "Subiaco",
+        "latitude": -31.94969759458225,
+        "longitude": 115.820859853148,
         "timezone": "Australia/Perth"
     }
 }
