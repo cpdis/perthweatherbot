@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-01-26 09:41:10",
-    "location": {
-      "name": "South Fremantle",
-      "latitude": -32.07132336747046,
-      "longitude": 115.7556742526399,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-01-26T01:41:09+00:00",
-      "temperature_c": 22.03,
-      "temperature_f": 71.654,
-      "humidity": 54,
-      "wind_speed_mph": 18.410510000000002,
-      "wind_direction": 240,
-      "description": "broken clouds"
-    },
-    "report_summary": "South Fremantle wakes under a low lid of cloud, the air salted and a little heavy. Light showers are...",
-    "color_code": "#6F7C86"
-  },
-  {
     "timestamp": "2026-01-26 21:41:46",
     "location": {
       "name": "Subiaco",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Subiaco wakes under a polished blue, the sort of clear that makes edges sharp and colors honest. Thr...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-02-02 22:00:21",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.95041818793893,
+      "longitude": 115.8258311532206,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-02-02T14:00:21+00:00",
+      "temperature_c": 27.24,
+      "temperature_f": 81.032,
+      "humidity": 51,
+      "wind_speed_mph": 10.35731,
+      "wind_direction": 260,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco settles into a clear, velvety night, the kind that makes streetlights feel far away and the ...",
+    "color_code": "#0A2342"
   }
 ]

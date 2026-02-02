@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94969044512012,
-            "longitude": 115.820809446565
+            "latitude": -31.95041818793893,
+            "longitude": 115.8258311532206
         },
         "current_conditions": {
-            "timestamp": "2026-02-02T01:53:47+00:00",
-            "temperature_c": 34,
-            "temperature_f": 93.2,
-            "humidity": 28,
-            "wind_speed_mph": 20.71462,
-            "wind_direction": 50,
+            "timestamp": "2026-02-02T14:00:21+00:00",
+            "temperature_c": 27.24,
+            "temperature_f": 81.032,
+            "humidity": 51,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 260,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-02-02T03:00:00+00:00",
-                "temperature": 34,
-                "windSpeed": 12.32587,
-                "windDirection": 21,
+                "startTime": "2026-02-02T15:00:00+00:00",
+                "temperature": 27.24,
+                "windSpeed": 6.80048,
+                "windDirection": 267,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-02-02T06:00:00+00:00",
-                "temperature": 34.48,
-                "windSpeed": 15.2116,
-                "windDirection": 251,
+                "startTime": "2026-02-02T18:00:00+00:00",
+                "temperature": 26.37,
+                "windSpeed": 8.970369999999999,
+                "windDirection": 211,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a polished blue, the sort of clear that makes edges sharp and colors honest. Through late morning and into mid-afternoon, the sky looks set to stay untroubled, sunshine steady and unblinking, visibility crisp. Expect the day to warm quickly, the light turning a little fierce by lunchtime; the UV index will run high to very high around the middle of the day, so shade and a mindful pace are your friends.\n\nDress in light, breathable layers with a brimmed hat and sunglasses, and give sunscreen the same attention you\u2019d give your keys. A refillable bottle of water belongs in your bag. It\u2019s a fine morning for a quiet walk to a nearby caf\u00e9 before the glare peaks, a short loop of errands along the shadier side of the street, or watering the balcony herbs before settling inside with the blinds lowered. Later, if you step out again, keep it brief and unhurried; the afternoon will be bright, clear, and a touch insistent\u2014pleasant if you meet it early and mind the sun.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-02-02 09:53:47",
+    "weather_report": "Subiaco settles into a clear, velvety night, the kind that makes streetlights feel far away and the air a touch cooler on the skin. Visibility is crisp and unobstructed; the world looks freshly sketched. UV is effectively nil now, and the mood is gentle rather than bracing. Expect the sky to stay cloudless as the evening drifts into the small hours.\n\nWith skies this clean, daylight tends to arrive sharp and unapologetic, so when the sun returns it will feel frankly sunny and the UV will ramp up quickly toward late morning. Dress the evening with light layers or a soft cardigan; by day, think breathable fabrics, a hat, sunglasses, and a lick of sunscreen. Tonight suits a quiet neighbourhood amble, rinsing the heat from the day, or a simple hour on the balcony with a book. If you\u2019re up early, water the garden while the shadows are long, or take a quick coffee walk before the sun flexes.",
+    "color_code": "#0A2342",
+    "timestamp": "2026-02-02 22:00:21",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94969044512012,
-        "longitude": 115.820809446565,
+        "latitude": -31.95041818793893,
+        "longitude": 115.8258311532206,
         "timezone": "Australia/Perth"
     }
 }
