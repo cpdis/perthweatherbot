@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-01-27 21:43:37",
-    "location": {
-      "name": "West Perth",
-      "latitude": -31.95332653024788,
-      "longitude": 115.8465582204514,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-01-27T13:43:35+00:00",
-      "temperature_c": 20.3,
-      "temperature_f": 68.54,
-      "humidity": 58,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 190,
-      "description": "clear sky"
-    },
-    "report_summary": "West Perth settles into a clear, unhurried night. The sky is scrubbed clean, stars showing like pins...",
-    "color_code": "#0D1B2A"
-  },
-  {
     "timestamp": "2026-01-28 09:25:40",
     "location": {
       "name": "Osborne Park",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Perth settles into a clear, open night, the sky polished to a deep navy with stars pricked sharp as ...",
     "color_code": "#0B1D3A"
+  },
+  {
+    "timestamp": "2026-02-04 09:47:17",
+    "location": {
+      "name": "Herdsman",
+      "latitude": -31.92731497141406,
+      "longitude": 115.8113681371068,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-02-04T01:47:17+00:00",
+      "temperature_c": 23.34,
+      "temperature_f": 74.012,
+      "humidity": 46,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 110,
+      "description": "clear sky"
+    },
+    "report_summary": "Herdsman wakes to a hard, generous blue, the sun already keen on the skin and the edges of everythin...",
+    "color_code": "#87CEFA"
   }
 ]
