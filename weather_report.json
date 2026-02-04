@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Herdsman",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.92731497141406,
-            "longitude": 115.8113681371068
+            "latitude": -31.94967212465609,
+            "longitude": 115.8209455469728
         },
         "current_conditions": {
-            "timestamp": "2026-02-04T01:47:17+00:00",
-            "temperature_c": 23.34,
-            "temperature_f": 74.012,
-            "humidity": 46,
+            "timestamp": "2026-02-04T14:01:14+00:00",
+            "temperature_c": 25.25,
+            "temperature_f": 77.45,
+            "humidity": 31,
             "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 110,
+            "wind_direction": 130,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-02-04T03:00:00+00:00",
-                "temperature": 23.34,
-                "windSpeed": 8.67956,
-                "windDirection": 129,
+                "startTime": "2026-02-04T15:00:00+00:00",
+                "temperature": 25.25,
+                "windSpeed": 16.50906,
+                "windDirection": 119,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-02-04T06:00:00+00:00",
-                "temperature": 26.6,
-                "windSpeed": 12.549570000000001,
-                "windDirection": 209,
+                "startTime": "2026-02-04T18:00:00+00:00",
+                "temperature": 23.77,
+                "windSpeed": 15.8827,
+                "windDirection": 106,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Herdsman wakes to a hard, generous blue, the sun already keen on the skin and the edges of everything etched in crisp relief. The morning is clear and dry, with glare gathering as the hours climb; by late morning through mid-afternoon expect very high to extreme UV under an untroubled sky, the kind of pure light that flatters the lake and punishes bare shoulders. A faint breeze may stir later, but the day reads steady and cloudless, more brilliant than gentle.\n\nThis will feel pleasant in the shade and early, then austere in the open. Dress light and breathable; add a wide-brim hat, sunglasses with conviction, and sunscreen you actually reapply. Carry water, and if you\u2019ll be out for a while, consider long sleeves that float rather than cling. Good hours now for a quick lap around the wetlands, a quiet errand on foot, or hanging the wash where it will dry in no time; save yard work for later or move it indoors when the sun hardens. A coffee by a window works too, letting the radiance be scenery rather than taskmaster.",
-    "color_code": "#87CEFA",
-    "timestamp": "2026-02-04 09:47:17",
+    "weather_report": "Subiaco settles into a cloudless late evening, the sky clear as glass and quietly expansive. With the sun long gone, UV has slipped to near zero and the night looks clean and steady, the kind that carries sound down the street. The forecast keeps it clear through midnight and beyond, giving the hours a gentle, unhurried feel and making the air easy to be in.\n\nExpect a bright, untroubled start after sunrise if this clarity holds, with UV climbing quickly through the morning; plan shade and sunscreen once the day is underway. For now, it\u2019s pleasant and simple: a light layer or cardigan will suit a late errand, a short walk to unwind, or a few minutes on the verandah to let the house breathe. Water the pots, set out the recycling, tidy the bike for tomorrow\u2019s ride, and let the night do its quiet work.",
+    "color_code": "#0B2545",
+    "timestamp": "2026-02-04 22:01:14",
     "location": {
-        "name": "Herdsman",
-        "latitude": -31.92731497141406,
-        "longitude": 115.8113681371068,
+        "name": "Subiaco",
+        "latitude": -31.94967212465609,
+        "longitude": 115.8209455469728,
         "timezone": "Australia/Perth"
     }
 }
