@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94967212465609,
-            "longitude": 115.8209455469728
+            "latitude": -31.9496885154621,
+            "longitude": 115.820809821188
         },
         "current_conditions": {
-            "timestamp": "2026-02-04T14:01:14+00:00",
-            "temperature_c": 25.25,
-            "temperature_f": 77.45,
-            "humidity": 31,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 130,
+            "timestamp": "2026-02-05T01:48:53+00:00",
+            "temperature_c": 23.44,
+            "temperature_f": 74.19200000000001,
+            "humidity": 47,
+            "wind_speed_mph": 19.57375,
+            "wind_direction": 90,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-02-04T15:00:00+00:00",
-                "temperature": 25.25,
-                "windSpeed": 16.50906,
-                "windDirection": 119,
+                "startTime": "2026-02-05T03:00:00+00:00",
+                "temperature": 23.44,
+                "windSpeed": 8.7243,
+                "windDirection": 103,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-02-04T18:00:00+00:00",
-                "temperature": 23.77,
-                "windSpeed": 15.8827,
-                "windDirection": 106,
+                "startTime": "2026-02-05T06:00:00+00:00",
+                "temperature": 26.19,
+                "windSpeed": 12.99697,
+                "windDirection": 203,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a cloudless late evening, the sky clear as glass and quietly expansive. With the sun long gone, UV has slipped to near zero and the night looks clean and steady, the kind that carries sound down the street. The forecast keeps it clear through midnight and beyond, giving the hours a gentle, unhurried feel and making the air easy to be in.\n\nExpect a bright, untroubled start after sunrise if this clarity holds, with UV climbing quickly through the morning; plan shade and sunscreen once the day is underway. For now, it\u2019s pleasant and simple: a light layer or cardigan will suit a late errand, a short walk to unwind, or a few minutes on the verandah to let the house breathe. Water the pots, set out the recycling, tidy the bike for tomorrow\u2019s ride, and let the night do its quiet work.",
-    "color_code": "#0B2545",
-    "timestamp": "2026-02-04 22:01:14",
+    "weather_report": "Subiaco wakes beneath a polished sky, the light already clean and insistent this mid-morning. Forecasts keep the canvas clear through late morning into early afternoon, so expect a day of sharp shadows and unbroken blue. It will feel increasingly bright and dry, the kind of sunshine that looks kind but carries a firm hand; UV will climb quickly toward midday and stay assertive while the sky remains bare.\n\nDress for ease and reflection: breathable fabrics, a brimmed hat, sunglasses, and sunscreen you actually remember to reapply. This is a good morning to run a few errands on foot before the day really gathers heat, to hang the washing where the sun can have its way, or to claim a quiet table in the shade for a late coffee and a few pages of something you\u2019ve been meaning to finish. If you\u2019re headed out later, carry water and favor the side of the street with the trees; the day promises clarity and purpose, but it asks a little respect in return.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-02-05 09:48:54",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94967212465609,
-        "longitude": 115.8209455469728,
+        "latitude": -31.9496885154621,
+        "longitude": 115.820809821188,
         "timezone": "Australia/Perth"
     }
 }
