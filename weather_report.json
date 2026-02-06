@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Cottesloe",
             "country": "AU",
-            "latitude": -31.94968899749855,
-            "longitude": 115.8208096222234
+            "latitude": -31.99610152642468,
+            "longitude": 115.75332495877
         },
         "current_conditions": {
-            "timestamp": "2026-02-05T14:04:08+00:00",
-            "temperature_c": 23.39,
-            "temperature_f": 74.102,
-            "humidity": 62,
-            "wind_speed_mph": 4.60822,
-            "wind_direction": 160,
+            "timestamp": "2026-02-06T01:48:19+00:00",
+            "temperature_c": 26.16,
+            "temperature_f": 79.088,
+            "humidity": 49,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 120,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-02-05T15:00:00+00:00",
-                "temperature": 23.39,
-                "windSpeed": 10.424420000000001,
-                "windDirection": 133,
+                "startTime": "2026-02-06T03:00:00+00:00",
+                "temperature": 26.16,
+                "windSpeed": 9.05985,
+                "windDirection": 191,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-02-05T18:00:00+00:00",
-                "temperature": 23.02,
-                "windSpeed": 14.607610000000001,
-                "windDirection": 110,
+                "startTime": "2026-02-06T06:00:00+00:00",
+                "temperature": 26.86,
+                "windSpeed": 19.57375,
+                "windDirection": 214,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a clear, untroubled night. The sky is washed clean and quiet, stars stepping forward without a veil. Earlier, the sun had the stage to itself, unblinking and generous; shadows were knife\u2011edged and the UV would have felt insistent by midday. Now it has fallen to nothing, leaving a calm, glassy clarity in the air that makes the streets seem tidier and the trees more finely drawn.\n\nThe hours ahead promise the same open sky and a gentle ease into cooler comfort. It looks pleasant rather than sharp; a light layer or soft jumper will do if you slip outside. This is weather for modest rituals: a slow lap around the block, tending the balcony pots, or a quiet read by an open window while the night air drifts in. If you linger beneath the lamplight, you may notice how the moon paints the pavement and the town breathes a little slower.",
-    "color_code": "#0b1e3f",
-    "timestamp": "2026-02-05 22:04:08",
+    "weather_report": "Cottesloe wakes to a flawless, enamel-blue sky, the light already crisp and insistent by mid-morning. The forecast holds this clear stretch through the heart of the day, promising brilliant sunshine and sharp horizons with almost no cloud to soften the glare. Expect the UV to surge to very high, even extreme levels around midday; the kind of sun that looks beautiful and feels unforgiving if you linger in it. It\u2019s a day that will feel bright and buoyant in the shade, a touch harsh in the open.\n\nDress for ease and reflection: airy fabrics, a wide-brimmed hat, sunglasses, and proper sunscreen; carry water and don\u2019t be shy about the long shadow of a tree or awning. Run simple errands or take a gentle spin to the shops before the sun peaks; later, let the afternoon drift by with a book on a quiet veranda, a slow sort-through of the pantry, or a coffee in a cool corner. If a sea breeze stirs later, a short, unhurried walk will feel just right.",
+    "color_code": "#87CEFA",
+    "timestamp": "2026-02-06 09:48:20",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968899749855,
-        "longitude": 115.8208096222234,
+        "name": "Cottesloe",
+        "latitude": -31.99610152642468,
+        "longitude": 115.75332495877,
         "timezone": "Australia/Perth"
     }
 }
