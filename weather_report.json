@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "City Beach",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.92270260326719,
-            "longitude": 115.7572009416718
+            "latitude": -31.94965253215008,
+            "longitude": 115.8206745801471
         },
         "current_conditions": {
-            "timestamp": "2026-02-08T02:11:32+00:00",
-            "temperature_c": 28.97,
-            "temperature_f": 84.146,
-            "humidity": 39,
-            "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 90,
+            "timestamp": "2026-02-08T13:42:04+00:00",
+            "temperature_c": 25.43,
+            "temperature_f": 77.774,
+            "humidity": 68,
+            "wind_speed_mph": 6.91233,
+            "wind_direction": 210,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-02-08T03:00:00+00:00",
-                "temperature": 28.97,
-                "windSpeed": 6.06227,
-                "windDirection": 119,
+                "startTime": "2026-02-08T15:00:00+00:00",
+                "temperature": 25.43,
+                "windSpeed": 12.59431,
+                "windDirection": 130,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-02-08T06:00:00+00:00",
-                "temperature": 28.3,
-                "windSpeed": 20.267220000000002,
-                "windDirection": 210,
+                "startTime": "2026-02-08T18:00:00+00:00",
+                "temperature": 25.17,
+                "windSpeed": 14.070730000000001,
+                "windDirection": 109,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Late morning in City Beach arrives under a perfectly rinsed sky, the light already bright and unwavering, shadows trimmed sharp along sand and pavement. The forecast keeps the canvas clear through midday and into early afternoon, so expect abundant sunshine and a UV index that grows assertive as the sun climbs. The day looks wonderfully crisp and transparent, the kind that makes colors pop and horizons seem nearer, pleasant in the shade but fierce in direct light.\n\nDress for sparkle and glare: airy fabrics, a brimmed hat, good sunglasses, and generous sunscreen, with a bottle of water tucked under the arm. It\u2019s a fine time for a gentle walk before lunch, a coffee lingered over in a cool, shaded corner, or a quick loop to the shops on foot while the world feels bright and orderly. Hang a load of laundry, give the houseplants a drink, or read a few quiet pages by an open window. If you do slip down to the shore, keep it brief and seek shade between spells; the sun will be beautiful but insistent.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-02-08 10:11:32",
+    "weather_report": "Subiaco settles under a clear, polished sky tonight, the sort of blue-black that sharpens every edge and hushes the streets. The sun is long gone and with it any bite of UV; visibility is crisp and the air feels uncomplicated, the kind of night that makes colors look truer under a porch light.\n\nThe forecast keeps the heavens empty through late evening and into the small hours, a pleasant, uncomplicated stretch ahead. Dress in light layers, a soft jacket if you linger outdoors, and enjoy the ease of it: a gentle lap around the block, watering the pots, windows cracked to draw in the cool, or a quiet chapter on the veranda while the neighborhood unwinds. If these bare skies greet dawn the same way, expect a bright start and a quick rise in UV once the sun is up; set out your sunglasses and a brim for morning errands so you can step straight into the day without thinking twice.",
+    "color_code": "#0b1e3d",
+    "timestamp": "2026-02-08 21:42:04",
     "location": {
-        "name": "City Beach",
-        "latitude": -31.92270260326719,
-        "longitude": 115.7572009416718,
+        "name": "Subiaco",
+        "latitude": -31.94965253215008,
+        "longitude": 115.8206745801471,
         "timezone": "Australia/Perth"
     }
 }
