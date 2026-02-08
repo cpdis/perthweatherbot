@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-01-31 21:38:54",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94971812300072,
-      "longitude": 115.8207010351615,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-01-31T13:38:54+00:00",
-      "temperature_c": 26.14,
-      "temperature_f": 79.05199999999999,
-      "humidity": 49,
-      "wind_speed_mph": 27.62695,
-      "wind_direction": 110,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco slips into a clear, untroubled night: the sky polished to a dark sheen, stars with a crisp e...",
-    "color_code": "#0b1d3a"
-  },
-  {
     "timestamp": "2026-02-01 10:01:23",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco settles under a scrubbed, blue-black sky tonight; the forecast holds it clear through late e...",
     "color_code": "#0d1b2a"
+  },
+  {
+    "timestamp": "2026-02-08 10:11:32",
+    "location": {
+      "name": "City Beach",
+      "latitude": -31.92270260326719,
+      "longitude": 115.7572009416718,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-02-08T02:11:32+00:00",
+      "temperature_c": 28.97,
+      "temperature_f": 84.146,
+      "humidity": 39,
+      "wind_speed_mph": 13.802290000000001,
+      "wind_direction": 90,
+      "description": "clear sky"
+    },
+    "report_summary": "Late morning in City Beach arrives under a perfectly rinsed sky, the light already bright and unwave...",
+    "color_code": "#87CEEB"
   }
 ]
