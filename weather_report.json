@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94969752331034,
-            "longitude": 115.8207882692276
+            "latitude": -31.95736634177959,
+            "longitude": 115.8468155896564
         },
         "current_conditions": {
-            "timestamp": "2026-02-10T02:06:21+00:00",
-            "temperature_c": 23.15,
-            "temperature_f": 73.67,
-            "humidity": 73,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 140,
-            "description": "moderate rain"
+            "timestamp": "2026-02-10T14:20:24+00:00",
+            "temperature_c": 22.04,
+            "temperature_f": 71.672,
+            "humidity": 65,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 130,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-02-10T03:00:00+00:00",
-                "temperature": 23.15,
-                "windSpeed": 9.77569,
-                "windDirection": 136,
-                "shortForecast": "light rain"
+                "startTime": "2026-02-10T15:00:00+00:00",
+                "temperature": 22.04,
+                "windSpeed": 14.0931,
+                "windDirection": 126,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-02-10T06:00:00+00:00",
-                "temperature": 24.35,
-                "windSpeed": 12.95223,
-                "windDirection": 153,
-                "shortForecast": "light rain"
+                "startTime": "2026-02-10T18:00:00+00:00",
+                "temperature": 21.32,
+                "windSpeed": 13.287780000000001,
+                "windDirection": 128,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a dimmed sky, the light turned down to a pewter hush as showers gather on the late-morning horizon. Expect light rain to slide through around midday and linger into early afternoon, the sun mostly veiled behind a soft grey scrim. The day will feel quietly luminous rather than bright, edges blurred, roads glossed to a sheen. UV exposure should be muted by cloud, though a brief tear in the cover could still deliver a quick, sharp dose\u2014more a blink than a blaze.\n\nIt\u2019s a day for a light rain jacket and shoes that forgive puddles, a compact umbrella tucked at the ready. The air may feel a touch damp, pleasant enough for a gentle errand loop between showers or a slow walk to a caf\u00e9 window where the street can perform in reflections. Consider indoor errands, a browse through a bookshop, a midday train hop for a change of scene, or a late lunch under an awning listening to the softened patter. If the sky brightens for a moment, take it as a small invitation, not a promise.",
-    "color_code": "#8798a2",
-    "timestamp": "2026-02-10 10:06:21",
+    "weather_report": "Perth settles under a quilt of broken cloud tonight. The moon keeps slipping behind soft gray tatters, lending the streets a pale, travel-worn glow. The air feels steady, visibility is good, but the sky lacks that pin-sharp clarity; stars are smudged and the horizon is gentle. Sunlight has left the stage and with it the UV bite, which is effectively absent at this hour.\n\nThrough late night into the small hours the clouds keep their patchwork, more veil than menace. It\u2019s quietly pleasant: a night for an unhurried loop around the block, a short errand, or a sit by an open window. Dress in light layers and carry a thin top in case the breeze freshens under the cloud. If you\u2019re up at first light, expect a muted dawn with filtered brightness; UV will wake quickly after sunrise even with some cloud, so plan shade and sunscreen for later. For now, let the simple tasks have their turn\u2014rinse the cup, water the plants, lay out tomorrow\u2019s kit\u2014and let the house breathe before sleep.",
+    "color_code": "#2C3E50",
+    "timestamp": "2026-02-10 22:20:25",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94969752331034,
-        "longitude": 115.8207882692276,
+        "name": "Perth",
+        "latitude": -31.95736634177959,
+        "longitude": 115.8468155896564,
         "timezone": "Australia/Perth"
     }
 }
