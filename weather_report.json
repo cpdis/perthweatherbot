@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94967839174124,
-            "longitude": 115.8207155101558
+            "latitude": -31.94969752331034,
+            "longitude": 115.8207882692276
         },
         "current_conditions": {
-            "timestamp": "2026-02-09T14:13:33+00:00",
-            "temperature_c": 24.86,
-            "temperature_f": 76.748,
-            "humidity": 69,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 190,
-            "description": "light rain"
+            "timestamp": "2026-02-10T02:06:21+00:00",
+            "temperature_c": 23.15,
+            "temperature_f": 73.67,
+            "humidity": 73,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 140,
+            "description": "moderate rain"
         },
         "forecast": [
             {
-                "startTime": "2026-02-09T15:00:00+00:00",
-                "temperature": 24.86,
-                "windSpeed": 6.82285,
-                "windDirection": 190,
-                "shortForecast": "clear sky"
+                "startTime": "2026-02-10T03:00:00+00:00",
+                "temperature": 23.15,
+                "windSpeed": 9.77569,
+                "windDirection": 136,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-02-09T18:00:00+00:00",
-                "temperature": 24.79,
-                "windSpeed": 4.9214,
-                "windDirection": 178,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-02-10T06:00:00+00:00",
+                "temperature": 24.35,
+                "windSpeed": 12.95223,
+                "windDirection": 153,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Night has settled over Subiaco with a glassy, open sky; the evening feels unhurried and dry, the kind that lets you hear your own footsteps. Sunshine is off the stage now, and with it the UV has ebbed to essentially nothing, while the air holds the last of the day\u2019s warmth without any bite, giving the scene a crisp, lucid clarity.\n\nThrough late evening the sky stays clear before a light quilt of scattered cloud drifts in after midnight. It reads as a pleasant night rather than a demanding one; think light layers or a soft cardigan if you step out. A gentle neighborhood walk, a few quiet minutes tending balcony herbs, or simply sitting by an open window to let the calm settle in would suit the mood and the hour.",
-    "color_code": "#0b1e3a",
-    "timestamp": "2026-02-09 22:13:34",
+    "weather_report": "Subiaco wakes under a dimmed sky, the light turned down to a pewter hush as showers gather on the late-morning horizon. Expect light rain to slide through around midday and linger into early afternoon, the sun mostly veiled behind a soft grey scrim. The day will feel quietly luminous rather than bright, edges blurred, roads glossed to a sheen. UV exposure should be muted by cloud, though a brief tear in the cover could still deliver a quick, sharp dose\u2014more a blink than a blaze.\n\nIt\u2019s a day for a light rain jacket and shoes that forgive puddles, a compact umbrella tucked at the ready. The air may feel a touch damp, pleasant enough for a gentle errand loop between showers or a slow walk to a caf\u00e9 window where the street can perform in reflections. Consider indoor errands, a browse through a bookshop, a midday train hop for a change of scene, or a late lunch under an awning listening to the softened patter. If the sky brightens for a moment, take it as a small invitation, not a promise.",
+    "color_code": "#8798a2",
+    "timestamp": "2026-02-10 10:06:21",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94967839174124,
-        "longitude": 115.8207155101558,
+        "latitude": -31.94969752331034,
+        "longitude": 115.8207882692276,
         "timezone": "Australia/Perth"
     }
 }
