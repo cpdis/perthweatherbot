@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Osborne Park",
             "country": "AU",
-            "latitude": -31.95736634177959,
-            "longitude": 115.8468155896564
+            "latitude": -31.90801842148347,
+            "longitude": 115.8018822213122
         },
         "current_conditions": {
-            "timestamp": "2026-02-10T14:20:24+00:00",
-            "temperature_c": 22.04,
-            "temperature_f": 71.672,
-            "humidity": 65,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 130,
-            "description": "broken clouds"
+            "timestamp": "2026-02-11T02:01:49+00:00",
+            "temperature_c": 22.94,
+            "temperature_f": 73.292,
+            "humidity": 49,
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 100,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-02-10T15:00:00+00:00",
-                "temperature": 22.04,
-                "windSpeed": 14.0931,
-                "windDirection": 126,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-02-11T03:00:00+00:00",
+                "temperature": 22.94,
+                "windSpeed": 9.50725,
+                "windDirection": 120,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-02-10T18:00:00+00:00",
-                "temperature": 21.32,
-                "windSpeed": 13.287780000000001,
-                "windDirection": 128,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-02-11T06:00:00+00:00",
+                "temperature": 24.74,
+                "windSpeed": 8.970369999999999,
+                "windDirection": 201,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Perth settles under a quilt of broken cloud tonight. The moon keeps slipping behind soft gray tatters, lending the streets a pale, travel-worn glow. The air feels steady, visibility is good, but the sky lacks that pin-sharp clarity; stars are smudged and the horizon is gentle. Sunlight has left the stage and with it the UV bite, which is effectively absent at this hour.\n\nThrough late night into the small hours the clouds keep their patchwork, more veil than menace. It\u2019s quietly pleasant: a night for an unhurried loop around the block, a short errand, or a sit by an open window. Dress in light layers and carry a thin top in case the breeze freshens under the cloud. If you\u2019re up at first light, expect a muted dawn with filtered brightness; UV will wake quickly after sunrise even with some cloud, so plan shade and sunscreen for later. For now, let the simple tasks have their turn\u2014rinse the cup, water the plants, lay out tomorrow\u2019s kit\u2014and let the house breathe before sleep.",
-    "color_code": "#2C3E50",
-    "timestamp": "2026-02-10 22:20:25",
+    "weather_report": "Osborne Park wakes under an open, lacquer-blue sky, the sun already bright and intent. The air has that hard-edged clarity that makes colors pop and shadows go inky, a promise that the rest of the day will stay clean and cloudless. Expect the UV to surge from very high toward extreme through late morning into early afternoon; the light will be beautiful but insistent, the sort that warms your shoulders and reminds you to respect it.\n\nPlan for a warm, likely hot afternoon of steady sunshine. It\u2019s a day for breathable fabrics, a brimmed hat, sunglasses that earn their keep, and a good layer of sunscreen; carry water and chase shade where you can. Run quick errands before lunch, let a load of washing meet the breeze, or take a brief, unhurried walk along a leafy street. After midday, retreat into a quiet caf\u00e9 or the cool hush of a library, sort a drawer, sketch a small plan, then step back out as the light softens toward evening.",
+    "color_code": "#87CEFA",
+    "timestamp": "2026-02-11 10:01:50",
     "location": {
-        "name": "Perth",
-        "latitude": -31.95736634177959,
-        "longitude": 115.8468155896564,
+        "name": "Osborne Park",
+        "latitude": -31.90801842148347,
+        "longitude": 115.8018822213122,
         "timezone": "Australia/Perth"
     }
 }
