@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-02-04 09:47:17",
-    "location": {
-      "name": "Herdsman",
-      "latitude": -31.92731497141406,
-      "longitude": 115.8113681371068,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-02-04T01:47:17+00:00",
-      "temperature_c": 23.34,
-      "temperature_f": 74.012,
-      "humidity": 46,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 110,
-      "description": "clear sky"
-    },
-    "report_summary": "Herdsman wakes to a hard, generous blue, the sun already keen on the skin and the edges of everythin...",
-    "color_code": "#87CEFA"
-  },
-  {
     "timestamp": "2026-02-04 22:01:14",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Osborne Park wakes under an open, lacquer-blue sky, the sun already bright and intent. The air has t...",
     "color_code": "#87CEFA"
+  },
+  {
+    "timestamp": "2026-02-11 22:14:31",
+    "location": {
+      "name": "Floreat",
+      "latitude": -31.93926634519171,
+      "longitude": 115.7848106179559,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-02-11T14:14:31+00:00",
+      "temperature_c": 23.06,
+      "temperature_f": 73.508,
+      "humidity": 42,
+      "wind_speed_mph": 19.57375,
+      "wind_direction": 110,
+      "description": "clear sky"
+    },
+    "report_summary": "Floreat settles into a clean, ink-blue night, the sky swept bare of cloud and the heat of day slippi...",
+    "color_code": "#0b1b3a"
   }
 ]

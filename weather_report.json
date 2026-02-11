@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Osborne Park",
+            "name": "Floreat",
             "country": "AU",
-            "latitude": -31.90801842148347,
-            "longitude": 115.8018822213122
+            "latitude": -31.93926634519171,
+            "longitude": 115.7848106179559
         },
         "current_conditions": {
-            "timestamp": "2026-02-11T02:01:49+00:00",
-            "temperature_c": 22.94,
-            "temperature_f": 73.292,
-            "humidity": 49,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 100,
+            "timestamp": "2026-02-11T14:14:31+00:00",
+            "temperature_c": 23.06,
+            "temperature_f": 73.508,
+            "humidity": 42,
+            "wind_speed_mph": 19.57375,
+            "wind_direction": 110,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-02-11T03:00:00+00:00",
-                "temperature": 22.94,
-                "windSpeed": 9.50725,
-                "windDirection": 120,
+                "startTime": "2026-02-11T15:00:00+00:00",
+                "temperature": 23.06,
+                "windSpeed": 18.925020000000004,
+                "windDirection": 100,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-02-11T06:00:00+00:00",
-                "temperature": 24.74,
-                "windSpeed": 8.970369999999999,
-                "windDirection": 201,
+                "startTime": "2026-02-11T18:00:00+00:00",
+                "temperature": 21.71,
+                "windSpeed": 17.31438,
+                "windDirection": 98,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Osborne Park wakes under an open, lacquer-blue sky, the sun already bright and intent. The air has that hard-edged clarity that makes colors pop and shadows go inky, a promise that the rest of the day will stay clean and cloudless. Expect the UV to surge from very high toward extreme through late morning into early afternoon; the light will be beautiful but insistent, the sort that warms your shoulders and reminds you to respect it.\n\nPlan for a warm, likely hot afternoon of steady sunshine. It\u2019s a day for breathable fabrics, a brimmed hat, sunglasses that earn their keep, and a good layer of sunscreen; carry water and chase shade where you can. Run quick errands before lunch, let a load of washing meet the breeze, or take a brief, unhurried walk along a leafy street. After midday, retreat into a quiet caf\u00e9 or the cool hush of a library, sort a drawer, sketch a small plan, then step back out as the light softens toward evening.",
-    "color_code": "#87CEFA",
-    "timestamp": "2026-02-11 10:01:50",
+    "weather_report": "Floreat settles into a clean, ink-blue night, the sky swept bare of cloud and the heat of day slipping quietly out the door. The sun is long gone, so UV is essentially nil now; what you have instead is clarity, the kind that sharpens edges and invites unhurried breaths. It feels calm and politely pleasant, the sort of evening where footsteps sound softer and time loosens its tie.\n\nThe forecast keeps the canvas clear through late night and into the small hours, so expect an easy, restful stretch. Dress for a gentle cooldown: a light tee with a soft layer at hand if you linger outdoors. If you\u2019re up for it, take a slow walk around the block, let the house air out, or finish those last easy chores with a window open. If you\u2019re planning an early start, set out sunscreen and a hat; under clear skies here, morning light tends to arrive bright and the UV climbs quickly once the sun is up.",
+    "color_code": "#0b1b3a",
+    "timestamp": "2026-02-11 22:14:31",
     "location": {
-        "name": "Osborne Park",
-        "latitude": -31.90801842148347,
-        "longitude": 115.8018822213122,
+        "name": "Floreat",
+        "latitude": -31.93926634519171,
+        "longitude": 115.7848106179559,
         "timezone": "Australia/Perth"
     }
 }
