@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-02-05 22:04:08",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968899749855,
-      "longitude": 115.8208096222234,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-02-05T14:04:08+00:00",
-      "temperature_c": 23.39,
-      "temperature_f": 74.102,
-      "humidity": 62,
-      "wind_speed_mph": 4.60822,
-      "wind_direction": 160,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco settles into a clear, untroubled night. The sky is washed clean and quiet, stars stepping fo...",
-    "color_code": "#0b1e3f"
-  },
-  {
     "timestamp": "2026-02-06 09:48:20",
     "location": {
       "name": "Cottesloe",
@@ -298,5 +278,25 @@
     },
     "report_summary": "A clear, inky sky has settled over West Perth, the kind that sharpens edges and lets the stars breat...",
     "color_code": "#0B1D3A"
+  },
+  {
+    "timestamp": "2026-02-13 09:57:28",
+    "location": {
+      "name": "West Perth",
+      "latitude": -31.95454766359756,
+      "longitude": 115.8465367430585,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-02-13T01:57:26+00:00",
+      "temperature_c": 24.43,
+      "temperature_f": 75.974,
+      "humidity": 46,
+      "wind_speed_mph": 17.26964,
+      "wind_direction": 70,
+      "description": "clear sky"
+    },
+    "report_summary": "West Perth wakes under a rinsed-blue sky, the sun already keen and insistent by late morning. The ai...",
+    "color_code": "#87CEEB"
   }
 ]

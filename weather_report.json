@@ -3,42 +3,42 @@
         "location": {
             "name": "West Perth",
             "country": "AU",
-            "latitude": -31.95346110112919,
-            "longitude": 115.846293280228
+            "latitude": -31.95454766359756,
+            "longitude": 115.8465367430585
         },
         "current_conditions": {
-            "timestamp": "2026-02-12T14:09:42+00:00",
-            "temperature_c": 22.28,
-            "temperature_f": 72.104,
-            "humidity": 40,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 110,
+            "timestamp": "2026-02-13T01:57:26+00:00",
+            "temperature_c": 24.43,
+            "temperature_f": 75.974,
+            "humidity": 46,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 70,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-02-12T15:00:00+00:00",
-                "temperature": 22.15,
-                "windSpeed": 12.840380000000001,
-                "windDirection": 95,
+                "startTime": "2026-02-13T03:00:00+00:00",
+                "temperature": 24.25,
+                "windSpeed": 7.1584,
+                "windDirection": 56,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-02-12T18:00:00+00:00",
-                "temperature": 21.28,
-                "windSpeed": 13.578590000000002,
-                "windDirection": 101,
+                "startTime": "2026-02-13T06:00:00+00:00",
+                "temperature": 26.33,
+                "windSpeed": 2.19226,
+                "windDirection": 181,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "A clear, inky sky has settled over West Perth, the kind that sharpens edges and lets the stars breathe. The air feels calm and kindly, neither heavy nor biting, and the night has that tidy, transparent quality that makes the city seem newly washed. It\u2019s not sunny now, of course; under a sky like this the UV is asleep, and the darkness feels companionable rather than stern.\n\nThe forecast keeps the heavens open through the late hours, and sunrise should arrive untroubled by cloud, promising a bright, unfiltered day ahead. Expect the UV to wake fast after first light and grow assertive by late morning; sunglasses, a brim, and a dab of sunscreen will earn their keep. For now, light layers are enough\u2014something breathable, maybe a soft cardigan for the small hours. This is good weather for simple, quiet tasks: a slow lap around the block, watering the pots, sorting tomorrow\u2019s bag by an open window, or a few pages of a book on the balcony. If you\u2019re up early, take your coffee outside before the sun gathers its full intent.",
-    "color_code": "#0B1D3A",
-    "timestamp": "2026-02-12 22:09:44",
+    "weather_report": "West Perth wakes under a rinsed-blue sky, the sun already keen and insistent by late morning. The air is dry and bright, the sort of clarity that sharpens edges and sends shadows skittering under awnings. Expect the blue to hold through the heart of the day, with the sun turning fierce; UV will rocket to very high, likely extreme at midday, so shade becomes an ally and concrete throws back a hard glare.\n\nIt\u2019s a day for light, breathable fabrics and an easy brimmed hat, sunglasses that don\u2019t slip, a quiet film of sunscreen and a bottle of water that never quite leaves your hand. Run small errands or take a calm coffee outdoors before the sun peaks, then slip indoors for a spell\u2014library stacks, a gallery room, a cool desk where work hums more softly. As the afternoon begins to ease, a gentle loop through a nearby park or a meander to the shops will feel kind again, the light turning honeyed and forgiving.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-02-13 09:57:28",
     "location": {
         "name": "West Perth",
-        "latitude": -31.95346110112919,
-        "longitude": 115.846293280228,
+        "latitude": -31.95454766359756,
+        "longitude": 115.8465367430585,
         "timezone": "Australia/Perth"
     }
 }
