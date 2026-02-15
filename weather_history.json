@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-02-07 21:40:59",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968704185099,
-      "longitude": 115.8206997060006,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-02-07T13:40:59+00:00",
-      "temperature_c": 24.83,
-      "temperature_f": 76.69399999999999,
-      "humidity": 60,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 200,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco settles under a scrubbed, blue-black sky tonight; the forecast holds it clear through late e...",
-    "color_code": "#0d1b2a"
-  },
-  {
     "timestamp": "2026-02-08 10:11:32",
     "location": {
       "name": "City Beach",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Night has settled over Subiaco with a quilt of scattered clouds gliding past, letting a few shy star...",
     "color_code": "#2C3E50"
+  },
+  {
+    "timestamp": "2026-02-15 09:57:07",
+    "location": {
+      "name": "Nedlands",
+      "latitude": -31.99093006081245,
+      "longitude": 115.8158448213389,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-02-15T01:57:06+00:00",
+      "temperature_c": 23.58,
+      "temperature_f": 74.44399999999999,
+      "humidity": 62,
+      "wind_speed_mph": 17.26964,
+      "wind_direction": 240,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Mid-morning in Nedlands arrives with a softened light and a sky knitting itself into thicker cloud, ...",
+    "color_code": "#B0C4DE"
   }
 ]
