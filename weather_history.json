@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-02-08 10:11:32",
-    "location": {
-      "name": "City Beach",
-      "latitude": -31.92270260326719,
-      "longitude": 115.7572009416718,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-02-08T02:11:32+00:00",
-      "temperature_c": 28.97,
-      "temperature_f": 84.146,
-      "humidity": 39,
-      "wind_speed_mph": 13.802290000000001,
-      "wind_direction": 90,
-      "description": "clear sky"
-    },
-    "report_summary": "Late morning in City Beach arrives under a perfectly rinsed sky, the light already bright and unwave...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-02-08 21:42:04",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Mid-morning in Nedlands arrives with a softened light and a sky knitting itself into thicker cloud, ...",
     "color_code": "#B0C4DE"
+  },
+  {
+    "timestamp": "2026-02-15 21:42:26",
+    "location": {
+      "name": "City Beach",
+      "latitude": -31.94314147751448,
+      "longitude": 115.7553324683239,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-02-15T13:42:26+00:00",
+      "temperature_c": 21.11,
+      "temperature_f": 69.998,
+      "humidity": 74,
+      "wind_speed_mph": 14.965530000000001,
+      "wind_direction": 210,
+      "description": "few clouds"
+    },
+    "report_summary": "City Beach eases into night under a mostly open sky, just a few thin clouds idling by. The afternoon...",
+    "color_code": "#0A1F44"
   }
 ]
