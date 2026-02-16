@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "City Beach",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94314147751448,
-            "longitude": 115.7553324683239
+            "latitude": -31.9496977638382,
+            "longitude": 115.8207998544494
         },
         "current_conditions": {
-            "timestamp": "2026-02-15T13:42:26+00:00",
-            "temperature_c": 21.11,
-            "temperature_f": 69.998,
-            "humidity": 74,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 210,
-            "description": "few clouds"
+            "timestamp": "2026-02-16T01:52:41+00:00",
+            "temperature_c": 23.42,
+            "temperature_f": 74.156,
+            "humidity": 57,
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 170,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-02-15T15:00:00+00:00",
-                "temperature": 21.11,
-                "windSpeed": 18.1197,
-                "windDirection": 197,
-                "shortForecast": "few clouds"
+                "startTime": "2026-02-16T03:00:00+00:00",
+                "temperature": 23.42,
+                "windSpeed": 17.336750000000002,
+                "windDirection": 210,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2026-02-15T18:00:00+00:00",
-                "temperature": 20.8,
-                "windSpeed": 14.495760000000002,
-                "windDirection": 176,
-                "shortForecast": "few clouds"
+                "startTime": "2026-02-16T06:00:00+00:00",
+                "temperature": 24.08,
+                "windSpeed": 17.73941,
+                "windDirection": 217,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "City Beach eases into night under a mostly open sky, just a few thin clouds idling by. The afternoon kept a gentle sun that slipped between those light veils, so the day felt bright without glare and the horizon stayed crisp. Now the UV has ebbed to nothing and the light turns velvet, the air easy on the skin and clear enough to make details pop in the half-dark. It has been a clean, well-lit sort of day, unhurried and kind.\n\nThe rest of the night looks steady and quiet with only passing cloud, pleasant for small, ordinary rituals. Wear a light layer or a windbreaker if you linger by the water, soft shoes for an unhurried stroll, and pockets for cool hands. Consider a slow walk to hear the surf\u2019s soft metronome, a gentle spin on the bike path, or an open window while you sort a drawer and let the salt air do its work. Sunscreen can wait until morning; tonight belongs to cotton, calm, and the simple company of the breeze.",
-    "color_code": "#0A1F44",
-    "timestamp": "2026-02-15 21:42:26",
+    "weather_report": "Morning in Subiaco opens clear and lively, the sun already shouldering through a handful of roaming clouds. The day looks bright with long stretches of sunshine, only briefly softened by passing puffs of white; visibility feels clean and crisp. Expect the UV to sharpen quickly through the late morning and crest around midday, the kind of light that warms the pavement and asks for a brimmed hat. Air will feel dry and gently warm, growing more assertive as early afternoon arrives.\n\nDress light and breathable, add sunglasses and a good layer of sunscreen, and keep a bottle of water within reach. It\u2019s a pleasant day for small errands on foot, a quiet browse along Rokeby Road, or a mid-morning coffee under an awning where sun and shade trade places. If you\u2019ve laundry to dry, this is perfect; if you\u2019ve a leafy street nearby, take a short amble before the light turns fierce, then retreat to a cool, shaded corner for an unhurried lunch.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-02-16 09:52:41",
     "location": {
-        "name": "City Beach",
-        "latitude": -31.94314147751448,
-        "longitude": 115.7553324683239,
+        "name": "Subiaco",
+        "latitude": -31.9496977638382,
+        "longitude": 115.8207998544494,
         "timezone": "Australia/Perth"
     }
 }
