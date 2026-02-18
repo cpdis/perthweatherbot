@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-17T14:05:30.285736",
+  "timestamp": "2026-02-18T01:54:50.852026",
   "overall_status": "healthy",
   "summary": {
     "total_checks": 5,
@@ -14,7 +14,7 @@
       "details": [
         "OpenWeather API key configured",
         "OpenAI API key configured",
-        "Location: West Perth"
+        "Location: Osborne Park"
       ]
     },
     {
@@ -41,7 +41,7 @@
     {
       "name": "OpenWeather API",
       "status": "healthy",
-      "response_time_ms": 160.185,
+      "response_time_ms": 83.218,
       "details": "HTTP 200"
     }
   ]
