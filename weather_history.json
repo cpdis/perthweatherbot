@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-02-11 10:01:50",
-    "location": {
-      "name": "Osborne Park",
-      "latitude": -31.90801842148347,
-      "longitude": 115.8018822213122,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-02-11T02:01:49+00:00",
-      "temperature_c": 22.94,
-      "temperature_f": 73.292,
-      "humidity": 49,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 100,
-      "description": "clear sky"
-    },
-    "report_summary": "Osborne Park wakes under an open, lacquer-blue sky, the sun already bright and intent. The air has t...",
-    "color_code": "#87CEFA"
-  },
-  {
     "timestamp": "2026-02-11 22:14:31",
     "location": {
       "name": "Floreat",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Osborne Park wakes to a polished blue canopy, the kind of lucid morning that makes edges sharp and c...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-02-18 22:05:50",
+    "location": {
+      "name": "Floreat",
+      "latitude": -31.93931647842054,
+      "longitude": 115.7848400643648,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-02-18T14:05:49+00:00",
+      "temperature_c": 24.35,
+      "temperature_f": 75.83,
+      "humidity": 45,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 200,
+      "description": "clear sky"
+    },
+    "report_summary": "Floreat settles under a clean, untroubled sky tonight; the last heat of the day has ebbed, leaving a...",
+    "color_code": "#0B1D3A"
   }
 ]
