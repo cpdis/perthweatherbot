@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Floreat",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.93931647842054,
-            "longitude": 115.7848400643648
+            "latitude": -31.94969618168793,
+            "longitude": 115.8207987012748
         },
         "current_conditions": {
-            "timestamp": "2026-02-18T14:05:49+00:00",
-            "temperature_c": 24.35,
-            "temperature_f": 75.83,
-            "humidity": 45,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 200,
+            "timestamp": "2026-02-19T01:53:44+00:00",
+            "temperature_c": 32.98,
+            "temperature_f": 91.364,
+            "humidity": 25,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 30,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-02-18T15:00:00+00:00",
-                "temperature": 24.35,
-                "windSpeed": 8.99274,
-                "windDirection": 166,
+                "startTime": "2026-02-19T03:00:00+00:00",
+                "temperature": 32.98,
+                "windSpeed": 3.84764,
+                "windDirection": 3,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-02-18T18:00:00+00:00",
-                "temperature": 23.38,
-                "windSpeed": 6.375450000000001,
-                "windDirection": 137,
+                "startTime": "2026-02-19T06:00:00+00:00",
+                "temperature": 33.6,
+                "windSpeed": 15.92744,
+                "windDirection": 234,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Floreat settles under a clean, untroubled sky tonight; the last heat of the day has ebbed, leaving a quiet, transparent darkness. With the sun long gone, there\u2019s no UV to fret over and no glare to squint against, just crisp, dry air and starlight laid out like polished glass.\n\nThe forecast keeps it cloudless through midnight and into the small hours, so expect a pleasant, gentle cool-down. Short sleeves will suit a late wander to the letterbox or a circuit with the dog; bring a light layer if you plan to linger. It\u2019s a good night to water the pots, air the house, or sit on the veranda and let the mind unspool a little. If this clarity rolls into morning, the sun will be sharp and the UV quick to rise, but for now the evening feels kind, simple, and unhurried.",
-    "color_code": "#0B1D3A",
-    "timestamp": "2026-02-18 22:05:50",
+    "weather_report": "Subiaco wakes to a rinsed-blue morning, the kind of lucid sky that makes edges sparkle and shadows sharpen. It\u2019s already bright and growing bolder, with the sun taking an unblinking stance; expect a very sunny, crystal-clear day with UV running high to extreme around late morning into mid-afternoon. The air feels open and uncomplicated, the horizon clean, a day made for simple purpose rather than drama.\n\nThrough midday and early afternoon the sky should stay cloudless and candid. Dress for radiance: light, breathable fabrics, a brimmed hat, sunglasses with real grit, and sunscreen you actually reapply; carry water and favor shade when you can. This is a good hour for a quiet coffee beneath an awning, a short errand along tree-lined streets, or hanging the wash to let the sun do honest work. If the glare grows overbearing, retreat to a cool gallery or library, then slip back out later for an unhurried stroll through a small park, letting the late light soften the day\u2019s hard shine.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-02-19 09:53:45",
     "location": {
-        "name": "Floreat",
-        "latitude": -31.93931647842054,
-        "longitude": 115.7848400643648,
+        "name": "Subiaco",
+        "latitude": -31.94969618168793,
+        "longitude": 115.8207987012748,
         "timezone": "Australia/Perth"
     }
 }
