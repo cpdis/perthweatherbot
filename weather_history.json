@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-02-12 22:09:44",
-    "location": {
-      "name": "West Perth",
-      "latitude": -31.95346110112919,
-      "longitude": 115.846293280228,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-02-12T14:09:42+00:00",
-      "temperature_c": 22.28,
-      "temperature_f": 72.104,
-      "humidity": 40,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 110,
-      "description": "clear sky"
-    },
-    "report_summary": "A clear, inky sky has settled over West Perth, the kind that sharpens edges and lets the stars breat...",
-    "color_code": "#0B1D3A"
-  },
-  {
     "timestamp": "2026-02-13 09:57:28",
     "location": {
       "name": "West Perth",
@@ -298,5 +278,25 @@
     },
     "report_summary": "West Perth settles under a polished, sapphire night, the sky emptied of cloud and the day\u2019s heat fol...",
     "color_code": "#0d1b2a"
+  },
+  {
+    "timestamp": "2026-02-20 09:49:40",
+    "location": {
+      "name": "Floreat",
+      "latitude": -31.94040975765066,
+      "longitude": 115.7829505713961,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-02-20T01:49:40+00:00",
+      "temperature_c": 29.45,
+      "temperature_f": 85.01,
+      "humidity": 40,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 130,
+      "description": "clear sky"
+    },
+    "report_summary": "Morning in Floreat arrives polished and bright, the sky a clean pane of blue with not a cloud to sof...",
+    "color_code": "#87CEFA"
   }
 ]

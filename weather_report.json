@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "West Perth",
+            "name": "Floreat",
             "country": "AU",
-            "latitude": -31.95081261126291,
-            "longitude": 115.8344814802188
+            "latitude": -31.94040975765066,
+            "longitude": 115.7829505713961
         },
         "current_conditions": {
-            "timestamp": "2026-02-19T14:07:31+00:00",
-            "temperature_c": 23.31,
-            "temperature_f": 73.958,
-            "humidity": 72,
+            "timestamp": "2026-02-20T01:49:40+00:00",
+            "temperature_c": 29.45,
+            "temperature_f": 85.01,
+            "humidity": 40,
             "wind_speed_mph": 8.0532,
-            "wind_direction": 210,
+            "wind_direction": 130,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-02-19T15:00:00+00:00",
-                "temperature": 23.31,
-                "windSpeed": 10.223090000000001,
-                "windDirection": 190,
+                "startTime": "2026-02-20T03:00:00+00:00",
+                "temperature": 29.45,
+                "windSpeed": 10.603380000000001,
+                "windDirection": 215,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-02-19T18:00:00+00:00",
-                "temperature": 22.63,
-                "windSpeed": 8.16505,
-                "windDirection": 167,
+                "startTime": "2026-02-20T06:00:00+00:00",
+                "temperature": 30.58,
+                "windSpeed": 17.09068,
+                "windDirection": 215,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "West Perth settles under a polished, sapphire night, the sky emptied of cloud and the day\u2019s heat folded away. It is serene and crystal clear, the sort of evening where distant lights feel sharper and the stars look freshly pinned. There\u2019s no sun now, of course, and the UV risk is negligible; what you feel is the easy cool that follows a bright day. The forecast holds the line through midnight, with the heavens staying clean and untroubled. If this clarity carries into morning, expect a sunny start and a quick return of bite in the UV, but for now the night is gentle and kind.\n\nIt\u2019s pleasant-to-cool, the kind of weather that favors a light layer over your shoulders and comfortable shoes for a quiet circuit of the block. You might step out to post that letter you\u2019ve been meaning to send, let the dog nose the air, or sit on the balcony and finish a chapter without the hum of heat. Windows can be opened for a brief airing; plans for tomorrow can be penciled to begin early, while the light is soft and the day not yet demanding.",
-    "color_code": "#0d1b2a",
-    "timestamp": "2026-02-19 22:07:31",
+    "weather_report": "Morning in Floreat arrives polished and bright, the sky a clean pane of blue with not a cloud to soften the light. Expect the day to stay sun-drenched into early afternoon, with brilliant visibility and crisp horizons. The sun will be fierce; the UV index will surge to very high levels around midday under these clear skies, so the light will feel sharp and relentless in the open, softer and pleasant where there is shade.\n\nDress for radiance: light, breathable fabrics, a wide-brim hat, strong sunglasses, and a faithful coat of sunscreen; carry water and favor the shady side of the street. This is a good window to finish outdoor errands, hang the washing, or take a short, unhurried ride through tree-lined streets before the heat gathers. By lunchtime, let the day slow: a quiet table at a cafe or an hour in the library suits the glare, then perhaps a gentle check of the garden from the porch rather than toiling in it. As the afternoon wears on, keep to cool rooms and patient tasks; later, when the edge softens, a brief stroll will feel like a small reward.",
+    "color_code": "#87CEFA",
+    "timestamp": "2026-02-20 09:49:40",
     "location": {
-        "name": "West Perth",
-        "latitude": -31.95081261126291,
-        "longitude": 115.8344814802188,
+        "name": "Floreat",
+        "latitude": -31.94040975765066,
+        "longitude": 115.7829505713961,
         "timezone": "Australia/Perth"
     }
 }
