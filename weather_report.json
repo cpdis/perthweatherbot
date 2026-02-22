@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Edgewater",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.76208135292675,
-            "longitude": 115.7893898679279
+            "latitude": -31.95085343805273,
+            "longitude": 115.8223337039986
         },
         "current_conditions": {
-            "timestamp": "2026-02-22T01:52:19+00:00",
-            "temperature_c": 21.73,
-            "temperature_f": 71.114,
-            "humidity": 44,
-            "wind_speed_mph": 5.010880000000001,
-            "wind_direction": 150,
+            "timestamp": "2026-02-22T13:41:06+00:00",
+            "temperature_c": 20.36,
+            "temperature_f": 68.648,
+            "humidity": 66,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 190,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-02-22T03:00:00+00:00",
-                "temperature": 21.73,
-                "windSpeed": 7.717650000000001,
-                "windDirection": 143,
+                "startTime": "2026-02-22T15:00:00+00:00",
+                "temperature": 20.36,
+                "windSpeed": 7.22551,
+                "windDirection": 160,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-02-22T06:00:00+00:00",
-                "temperature": 23.42,
-                "windSpeed": 15.636630000000002,
-                "windDirection": 207,
+                "startTime": "2026-02-22T18:00:00+00:00",
+                "temperature": 20.36,
+                "windSpeed": 5.41354,
+                "windDirection": 137,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Edgewater wakes under a spotless sky, the light already clean and generous, sharpening edges and lending puddles a bit of sparkle. Visibility is excellent, the sort of morning where distant rooftops feel a step closer. With clear skies at dawn and after, expect abundant sunshine through the morning; if this holds, the afternoon should stay mostly bright as well. UV will build as the sun climbs \u2014 not fierce in late winter, but enough to warrant sunglasses and a touch of sunscreen if you linger outdoors.\n\nIt reads as a pleasant day: crisp in the shade, comfortable in the sun. Dress in easy layers \u2014 a light sweater or jacket you can shrug off, comfortable shoes for unhurried errands. Good hours for a riverside amble, a bicycle spin to the post office, or washing the windows while the sun warms the glass. Bring a book to a sunny bench, check on the houseplants, let the dog choose the longer route; the air invites unhurried, useful movement.",
-    "color_code": "#9CCFF0",
-    "timestamp": "2026-02-22 09:52:20",
+    "weather_report": "Subiaco settles into a clear, untroubled night after a day that faded without a cloud to snag the light. The air feels clean and uncomplicated, visibility sharp, the kind of clarity that makes streetlights seem crisp and far-off sounds travel. UV is essentially absent now, of course; earlier, under that open sky, it would have been assertive, the sort that asks for shade and a hat.\n\nThe forecast holds to simplicity: clear this evening and on into the small hours, which hints at a bright, honest sunrise if the pattern continues. It looks pleasant rather than harsh, the sort of weather that rewards small rituals. Step out for a gentle circuit of the block, unhurried, or crack a window and let the cooler air drift through while you make a quiet list for tomorrow. Dress in light layers\u2014a soft tee with a cardigan or light jacket is enough\u2014and keep the sunscreen by the door for morning, when the sun will get its voice back quickly. If you\u2019re up early, a coffee on the porch and a short walk before the day gathers pace would suit this sky.",
+    "color_code": "#0b2545",
+    "timestamp": "2026-02-22 21:41:07",
     "location": {
-        "name": "Edgewater",
-        "latitude": -31.76208135292675,
-        "longitude": 115.7893898679279,
+        "name": "Subiaco",
+        "latitude": -31.95085343805273,
+        "longitude": 115.8223337039986,
         "timezone": "Australia/Perth"
     }
 }
