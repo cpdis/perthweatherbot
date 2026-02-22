@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Edgewater",
             "country": "AU",
-            "latitude": -31.94971324806379,
-            "longitude": 115.8206852090743
+            "latitude": -31.76208135292675,
+            "longitude": 115.7893898679279
         },
         "current_conditions": {
-            "timestamp": "2026-02-21T13:39:50+00:00",
-            "temperature_c": 20.07,
-            "temperature_f": 68.126,
-            "humidity": 60,
-            "wind_speed_mph": 20.71462,
-            "wind_direction": 200,
+            "timestamp": "2026-02-22T01:52:19+00:00",
+            "temperature_c": 21.73,
+            "temperature_f": 71.114,
+            "humidity": 44,
+            "wind_speed_mph": 5.010880000000001,
+            "wind_direction": 150,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-02-21T15:00:00+00:00",
-                "temperature": 20.07,
-                "windSpeed": 18.947390000000002,
-                "windDirection": 173,
+                "startTime": "2026-02-22T03:00:00+00:00",
+                "temperature": 21.73,
+                "windSpeed": 7.717650000000001,
+                "windDirection": 143,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-02-21T18:00:00+00:00",
-                "temperature": 18.93,
-                "windSpeed": 14.02599,
-                "windDirection": 146,
+                "startTime": "2026-02-22T06:00:00+00:00",
+                "temperature": 23.42,
+                "windSpeed": 15.636630000000002,
+                "windDirection": 207,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco settles under a flawless, inky sky; the last warmth has slipped away and the air feels tidy and unbothered. The forecast keeps the night clear through late evening and into the small hours, so there\u2019s no sun to speak of now and the UV is essentially asleep. It\u2019s a good night for unhurried breaths and unhurried steps, for stars that feel close and the hush of backyards.\n\nExpect the clarity to hold overnight; if these bare skies persist, dawn should break clean and bright, with UV rising quickly once the sun takes command. For now, a light layer will do for a short stroll or a quiet sit on the veranda, windows cracked if it\u2019s safe. In the morning, think breathable fabrics, a hat, and sunscreen if you\u2019ll be out and about. Tonight invites simple chores and small pleasures: take the dog around the block, water the pots, sort tomorrow\u2019s list, or savor a chapter before bed.",
-    "color_code": "#0B1D3A",
-    "timestamp": "2026-02-21 21:39:51",
+    "weather_report": "Edgewater wakes under a spotless sky, the light already clean and generous, sharpening edges and lending puddles a bit of sparkle. Visibility is excellent, the sort of morning where distant rooftops feel a step closer. With clear skies at dawn and after, expect abundant sunshine through the morning; if this holds, the afternoon should stay mostly bright as well. UV will build as the sun climbs \u2014 not fierce in late winter, but enough to warrant sunglasses and a touch of sunscreen if you linger outdoors.\n\nIt reads as a pleasant day: crisp in the shade, comfortable in the sun. Dress in easy layers \u2014 a light sweater or jacket you can shrug off, comfortable shoes for unhurried errands. Good hours for a riverside amble, a bicycle spin to the post office, or washing the windows while the sun warms the glass. Bring a book to a sunny bench, check on the houseplants, let the dog choose the longer route; the air invites unhurried, useful movement.",
+    "color_code": "#9CCFF0",
+    "timestamp": "2026-02-22 09:52:20",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94971324806379,
-        "longitude": 115.8206852090743,
+        "name": "Edgewater",
+        "latitude": -31.76208135292675,
+        "longitude": 115.7893898679279,
         "timezone": "Australia/Perth"
     }
 }

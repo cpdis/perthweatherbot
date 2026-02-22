@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-02-14 21:41:46",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.95043216666666,
-      "longitude": 115.828217,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-02-14T13:41:45+00:00",
-      "temperature_c": 22.12,
-      "temperature_f": 71.816,
-      "humidity": 74,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 220,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Night has settled over Subiaco with a quilt of scattered clouds gliding past, letting a few shy star...",
-    "color_code": "#2C3E50"
-  },
-  {
     "timestamp": "2026-02-15 09:57:07",
     "location": {
       "name": "Nedlands",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco settles under a flawless, inky sky; the last warmth has slipped away and the air feels tidy ...",
     "color_code": "#0B1D3A"
+  },
+  {
+    "timestamp": "2026-02-22 09:52:20",
+    "location": {
+      "name": "Edgewater",
+      "latitude": -31.76208135292675,
+      "longitude": 115.7893898679279,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-02-22T01:52:19+00:00",
+      "temperature_c": 21.73,
+      "temperature_f": 71.114,
+      "humidity": 44,
+      "wind_speed_mph": 5.010880000000001,
+      "wind_direction": 150,
+      "description": "clear sky"
+    },
+    "report_summary": "Edgewater wakes under a spotless sky, the light already clean and generous, sharpening edges and len...",
+    "color_code": "#9CCFF0"
   }
 ]
