@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-02-17 22:05:32",
-    "location": {
-      "name": "West Perth",
-      "latitude": -31.95423269946618,
-      "longitude": 115.8442993336092,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-02-17T14:05:32+00:00",
-      "temperature_c": 20.27,
-      "temperature_f": 68.486,
-      "humidity": 69,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 190,
-      "description": "clear sky"
-    },
-    "report_summary": "West Perth settles under a clear, quiet sky tonight, the kind that sharpens edges and lets the stars...",
-    "color_code": "#0b1e3e"
-  },
-  {
     "timestamp": "2026-02-18 09:54:53",
     "location": {
       "name": "Osborne Park",
@@ -298,5 +278,25 @@
     },
     "report_summary": "West Perth slips into a clean-lined night, the sky polished to a deep blue-black with nothing but th...",
     "color_code": "#0b1e3c"
+  },
+  {
+    "timestamp": "2026-02-25 09:53:23",
+    "location": {
+      "name": "Osborne Park",
+      "latitude": -31.90813468697002,
+      "longitude": 115.8017722150204,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-02-25T01:53:23+00:00",
+      "temperature_c": 33.96,
+      "temperature_f": 93.128,
+      "humidity": 25,
+      "wind_speed_mph": 17.26964,
+      "wind_direction": 20,
+      "description": "clear sky"
+    },
+    "report_summary": "Osborne Park wakes under a clean, cloudless blue, the kind of clear that sharpens edges and throws c...",
+    "color_code": "#87CEEB"
   }
 ]

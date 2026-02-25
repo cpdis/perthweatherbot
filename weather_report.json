@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "West Perth",
+            "name": "Osborne Park",
             "country": "AU",
-            "latitude": -31.95155047703385,
-            "longitude": 115.8361295582264
+            "latitude": -31.90813468697002,
+            "longitude": 115.8017722150204
         },
         "current_conditions": {
-            "timestamp": "2026-02-24T14:09:35+00:00",
-            "temperature_c": 25.39,
-            "temperature_f": 77.702,
-            "humidity": 55,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 200,
+            "timestamp": "2026-02-25T01:53:23+00:00",
+            "temperature_c": 33.96,
+            "temperature_f": 93.128,
+            "humidity": 25,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 20,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-02-24T15:00:00+00:00",
-                "temperature": 25.39,
-                "windSpeed": 8.79141,
-                "windDirection": 121,
+                "startTime": "2026-02-25T03:00:00+00:00",
+                "temperature": 33.96,
+                "windSpeed": 10.581010000000001,
+                "windDirection": 314,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-02-24T18:00:00+00:00",
-                "temperature": 25.68,
-                "windSpeed": 14.719460000000002,
-                "windDirection": 89,
+                "startTime": "2026-02-25T06:00:00+00:00",
+                "temperature": 34.57,
+                "windSpeed": 12.05743,
+                "windDirection": 276,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "West Perth slips into a clean-lined night, the sky polished to a deep blue-black with nothing but the hush of late traffic and a few crickets to disturb it. The forecast stays crystal clear through late evening and into the small hours, so expect stars to hold their ground. There\u2019s no sun at this hour and the UV index is essentially nil; the air reads as honest and uncomplicated, the kind that lets distant lights look nearer than they are.\n\nIt\u2019s a pleasant night to keep it simple: short sleeves will do for most, with a light layer in your pocket if you linger past midnight. An unhurried walk, a quiet stretch on the balcony, or finishing that chapter by an open window would suit the mood. If this streak of clarity carries into dawn, expect a bright start and a quick climb in glare; plan for shade, a hat, and sunscreen if you\u2019re out later in the morning. Early risers might steal a calm coffee outside before the day sharpens.",
-    "color_code": "#0b1e3c",
-    "timestamp": "2026-02-24 22:09:35",
+    "weather_report": "Osborne Park wakes under a clean, cloudless blue, the kind of clear that sharpens edges and throws confident shadows. The forecast holds that line through late morning and early afternoon, so expect a bright, uncomplicated day, warming quickly. UV will be very high as the sun climbs, the light turning insistent by midday; the air feels dry and visibility is crisp, with only the promise of a modest sea breeze later to soften it. It\u2019s pleasant now, edging toward fierce around lunchtime.\n\nDress lightly and sensibly: breathable fabrics, a brimmed hat, sunglasses, and a generous sweep of sunscreen; carry water if you\u2019re on the move. This morning is made for small, contented things\u2014hanging a wash that will dry in no time, a coffee on the shaded side of the veranda, a quick errand on foot while the light is still kind. Around lunch, choose the cool side of the street or a seat beneath a tree in a nearby park. Save the unhurried stroll by Lake Monger or a quiet bit of balcony gardening for when the breeze begins to whisper in the afternoon.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-02-25 09:53:23",
     "location": {
-        "name": "West Perth",
-        "latitude": -31.95155047703385,
-        "longitude": 115.8361295582264,
+        "name": "Osborne Park",
+        "latitude": -31.90813468697002,
+        "longitude": 115.8017722150204,
         "timezone": "Australia/Perth"
     }
 }
