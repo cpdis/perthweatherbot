@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-02-18 09:54:53",
-    "location": {
-      "name": "Osborne Park",
-      "latitude": -31.90814021667782,
-      "longitude": 115.8018307199377,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-02-18T01:54:52+00:00",
-      "temperature_c": 27.55,
-      "temperature_f": 81.59,
-      "humidity": 37,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 80,
-      "description": "clear sky"
-    },
-    "report_summary": "Osborne Park wakes to a polished blue canopy, the kind of lucid morning that makes edges sharp and c...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-02-18 22:05:50",
     "location": {
       "name": "Floreat",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Osborne Park wakes under a clean, cloudless blue, the kind of clear that sharpens edges and throws c...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-02-25 22:08:24",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.9496850076082,
+      "longitude": 115.8209259091807,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-02-25T14:08:24+00:00",
+      "temperature_c": 23.13,
+      "temperature_f": 73.634,
+      "humidity": 74,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 250,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco settles into a mild, damp night; pavement shines under streetlamps and a light shower brushe...",
+    "color_code": "#1f2a44"
   }
 ]
