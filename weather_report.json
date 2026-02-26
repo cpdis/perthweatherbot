@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9496850076082,
-            "longitude": 115.8209259091807
+            "latitude": -31.94967766009182,
+            "longitude": 115.8208413930756
         },
         "current_conditions": {
-            "timestamp": "2026-02-25T14:08:24+00:00",
-            "temperature_c": 23.13,
-            "temperature_f": 73.634,
-            "humidity": 74,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 250,
-            "description": "clear sky"
+            "timestamp": "2026-02-26T01:48:37+00:00",
+            "temperature_c": 21.89,
+            "temperature_f": 71.402,
+            "humidity": 88,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 340,
+            "description": "thunderstorm with light rain"
         },
         "forecast": [
             {
-                "startTime": "2026-02-25T15:00:00+00:00",
-                "temperature": 23.13,
-                "windSpeed": 4.38452,
-                "windDirection": 223,
-                "shortForecast": "light rain"
+                "startTime": "2026-02-26T03:00:00+00:00",
+                "temperature": 21.89,
+                "windSpeed": 10.89419,
+                "windDirection": 219,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-02-25T18:00:00+00:00",
-                "temperature": 23.18,
-                "windSpeed": 1.09613,
-                "windDirection": 181,
-                "shortForecast": "few clouds"
+                "startTime": "2026-02-26T06:00:00+00:00",
+                "temperature": 23.79,
+                "windSpeed": 16.53143,
+                "windDirection": 209,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a mild, damp night; pavement shines under streetlamps and a light shower brushes through around late evening before the sky loosens to a few scattered clouds after midnight. Sunshine is a memory now, the UV all but asleep; if the clearing holds toward dawn, first light should arrive clean and bright, with the day quick to sharpen and the UV waking briskly soon after sunrise. The air will feel washed and clear once the rain slips away, the night quietly lucid.\n\nIf you\u2019re stepping out, a light waterproof layer or a small umbrella will serve for the passing sprinkle; later, an easy cardigan or shirt is enough as clouds thin. It\u2019s a night for modest tasks and gentle pacing: a short stroll between showers to let the wet eucalyptus speak, tidying the last dishes with the window cracked to the cool, laying out tomorrow\u2019s hat and sunscreen by the door. By the time most alarms stir, the sky should be mostly open, the day ready to get on with itself.",
-    "color_code": "#1f2a44",
-    "timestamp": "2026-02-25 22:08:24",
+    "weather_report": "Subiaco wakes under a patchwork sky, the sun slipping in and out of broken cloud like a shy performer behind the curtain. Through late morning into early afternoon those clouds will linger, letting through generous, dappled light without the furnace glare; the air should feel clean and open, colors a touch muted, edges of buildings and jacaranda branches nicely defined. Even with the softened sunshine, midday UV in late summer can bite, so expect a day that looks gentle but still asks for respect.\n\nIt feels like a pleasant, workable day: warm enough for comfort, tempered by cloud, better for ambling than basking. Choose breathable layers, a hat and sunglasses, with a quiet film of sunscreen on the skin. This is a good morning for errands on foot, a slow coffee in a shaded courtyard, or a visit to the library where the light at the windows turns pages a paler gold. If you\u2019ve time, thread a short walk through nearby streets or a garden before the noon brightness hardens, then keep the afternoon light\u2014laundry on the line, a careful prune of the herbs, or a gentle loop to the shops while the sky continues its on-and-off conversation with the sun.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-02-26 09:48:38",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.9496850076082,
-        "longitude": 115.8209259091807,
+        "latitude": -31.94967766009182,
+        "longitude": 115.8208413930756,
         "timezone": "Australia/Perth"
     }
 }
