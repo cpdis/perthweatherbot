@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94969872515511,
-            "longitude": 115.8207848977864
+            "latitude": -31.95397223972767,
+            "longitude": 115.8528404338656
         },
         "current_conditions": {
-            "timestamp": "2026-03-03T01:52:38+00:00",
-            "temperature_c": 25.61,
-            "temperature_f": 78.098,
+            "timestamp": "2026-03-03T13:57:45+00:00",
+            "temperature_c": 26.05,
+            "temperature_f": 78.89,
             "humidity": 43,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 110,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 170,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-03-03T03:00:00+00:00",
-                "temperature": 25.61,
-                "windSpeed": 4.67533,
-                "windDirection": 136,
+                "startTime": "2026-03-03T15:00:00+00:00",
+                "temperature": 26.05,
+                "windSpeed": 10.312570000000001,
+                "windDirection": 131,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-03-03T06:00:00+00:00",
-                "temperature": 27.92,
-                "windSpeed": 13.422,
-                "windDirection": 208,
+                "startTime": "2026-03-03T18:00:00+00:00",
+                "temperature": 25.33,
+                "windSpeed": 15.345820000000002,
+                "windDirection": 105,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco wakes to a clean, brilliant blue, the kind of morning where shadows are sharp and the light has a confident stride. Skies are set to stay clear through late morning and into the early afternoon, so sunshine will be generous and unfiltered; expect the UV to surge to very high levels around midday under this spotless dome. The air looks honest and dry, lending the day a clear-edged clarity that makes colors pop and thoughts feel tidy.\n\nIt\u2019s a pleasant morning if you keep the sun on a short leash. Dress in light, breathable layers, add a brimmed hat and good sunglasses, and make sunscreen non-negotiable. A short walk to fetch a coffee or a loop through your neighborhood before lunch will feel easy; errands are best ticked off before the sun turns stern. Open the windows to air the house, hang the washing while the light is keen, or settle on a shaded balcony with a book. If you\u2019re heading out later, carry water and linger in patches of shade; the afternoon will stay bright and uncomplicated.",
-    "color_code": "#87CEFA",
-    "timestamp": "2026-03-03 09:52:38",
+    "weather_report": "Perth slips into a serene, crystal-clear night, the sky pared back to its essentials. Stars look pin-sharp and the horizon feels neatly drawn; the air has that clean, uncomplicated quiet of dry weather. Sunshine is off the stage for now and the UV index has fallen to nothing, while the forecast holds the skies clear through the late hours and into the small morning. If this calm persists, first light should arrive without fuss, a gentle, cloudless start.\n\nDress for a mild-to-cool evening: a light jacket or soft sweater over comfortable layers, something you won\u2019t mind wearing on a slow stroll. It\u2019s an easy night for small, unhurried errands\u2014step out to post a letter, stretch the legs under the stars, or sit on the veranda with a book and a glass of water, letting the night breeze tidy the day\u2019s thoughts. If you\u2019re staying in, crack a window for a few minutes and enjoy the clarity; the world feels orderly when the sky is this clear.",
+    "color_code": "#0a1e3a",
+    "timestamp": "2026-03-03 21:57:47",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94969872515511,
-        "longitude": 115.8207848977864,
+        "name": "Perth",
+        "latitude": -31.95397223972767,
+        "longitude": 115.8528404338656,
         "timezone": "Australia/Perth"
     }
 }
