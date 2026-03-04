@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Osborne Park",
             "country": "AU",
-            "latitude": -31.95397223972767,
-            "longitude": 115.8528404338656
+            "latitude": -31.908115367888,
+            "longitude": 115.8017860364336
         },
         "current_conditions": {
-            "timestamp": "2026-03-03T13:57:45+00:00",
-            "temperature_c": 26.05,
-            "temperature_f": 78.89,
-            "humidity": 43,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 170,
+            "timestamp": "2026-03-04T01:46:54+00:00",
+            "temperature_c": 28.68,
+            "temperature_f": 83.624,
+            "humidity": 38,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 80,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-03-03T15:00:00+00:00",
-                "temperature": 26.05,
-                "windSpeed": 10.312570000000001,
-                "windDirection": 131,
+                "startTime": "2026-03-04T03:00:00+00:00",
+                "temperature": 28.68,
+                "windSpeed": 6.82285,
+                "windDirection": 60,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-03-03T18:00:00+00:00",
-                "temperature": 25.33,
-                "windSpeed": 15.345820000000002,
-                "windDirection": 105,
+                "startTime": "2026-03-04T06:00:00+00:00",
+                "temperature": 30.57,
+                "windSpeed": 12.14691,
+                "windDirection": 208,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Perth slips into a serene, crystal-clear night, the sky pared back to its essentials. Stars look pin-sharp and the horizon feels neatly drawn; the air has that clean, uncomplicated quiet of dry weather. Sunshine is off the stage for now and the UV index has fallen to nothing, while the forecast holds the skies clear through the late hours and into the small morning. If this calm persists, first light should arrive without fuss, a gentle, cloudless start.\n\nDress for a mild-to-cool evening: a light jacket or soft sweater over comfortable layers, something you won\u2019t mind wearing on a slow stroll. It\u2019s an easy night for small, unhurried errands\u2014step out to post a letter, stretch the legs under the stars, or sit on the veranda with a book and a glass of water, letting the night breeze tidy the day\u2019s thoughts. If you\u2019re staying in, crack a window for a few minutes and enjoy the clarity; the world feels orderly when the sky is this clear.",
-    "color_code": "#0a1e3a",
-    "timestamp": "2026-03-03 21:57:47",
+    "weather_report": "Morning in Osborne Park opens under a polished blue, the kind of sky that makes edges look crisp and colors ring true. The sun is already assertive, warming pavements and garden beds, with the air feeling clean and uncomplicated. It\u2019s the sort of clear spell that invites windows open and coffee on the step, while the day gathers itself for a steady rise in heat.\n\nThrough late morning into the afternoon the pattern holds: bright, unbroken sunshine, excellent visibility, and a UV bite that grows sharp around midday. It will feel pleasantly dry unless you stand too long in full glare, so dress light in breathable fabrics, add sunglasses and a brimmed hat, and lay on sunscreen as routine. Carry water. Do the outdoor bits early\u2014hang a wash, pick up a small errand on foot, give the herbs a drink\u2014then drift toward shade after lunch, perhaps a quiet hour at the library or a table near a window where the light can do the talking. The day is simple, lucid, and best enjoyed with brief forays into sun and unhurried retreats to cool.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-03-04 09:46:55",
     "location": {
-        "name": "Perth",
-        "latitude": -31.95397223972767,
-        "longitude": 115.8528404338656,
+        "name": "Osborne Park",
+        "latitude": -31.908115367888,
+        "longitude": 115.8017860364336,
         "timezone": "Australia/Perth"
     }
 }
