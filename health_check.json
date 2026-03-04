@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-04T01:46:52.776188",
+  "timestamp": "2026-03-04T13:55:47.593266",
   "overall_status": "healthy",
   "summary": {
     "total_checks": 5,
@@ -14,7 +14,7 @@
       "details": [
         "OpenWeather API key configured",
         "OpenAI API key configured",
-        "Location: Osborne Park"
+        "Location: Subiaco"
       ]
     },
     {
@@ -41,7 +41,7 @@
     {
       "name": "OpenWeather API",
       "status": "healthy",
-      "response_time_ms": 168.236,
+      "response_time_ms": 84.98400000000001,
       "details": "HTTP 200"
     }
   ]
