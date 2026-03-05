@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94969015314446,
-            "longitude": 115.8206892179312
+            "latitude": -31.94967384193433,
+            "longitude": 115.8207895906749
         },
         "current_conditions": {
-            "timestamp": "2026-03-04T13:55:49+00:00",
-            "temperature_c": 26.3,
-            "temperature_f": 79.34,
-            "humidity": 45,
+            "timestamp": "2026-03-05T01:49:47+00:00",
+            "temperature_c": 30.08,
+            "temperature_f": 86.14399999999999,
+            "humidity": 35,
             "wind_speed_mph": 9.21644,
-            "wind_direction": 180,
+            "wind_direction": 80,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-03-04T15:00:00+00:00",
-                "temperature": 26.3,
-                "windSpeed": 8.41112,
-                "windDirection": 164,
+                "startTime": "2026-03-05T03:00:00+00:00",
+                "temperature": 30.08,
+                "windSpeed": 7.51632,
+                "windDirection": 208,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-03-04T18:00:00+00:00",
-                "temperature": 25.67,
-                "windSpeed": 6.599150000000001,
-                "windDirection": 139,
+                "startTime": "2026-03-05T06:00:00+00:00",
+                "temperature": 31.77,
+                "windSpeed": 17.06831,
+                "windDirection": 218,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco ends the day under a lucid, glassy blue that slipped into night without a ripple. Afternoon brought an open, generous sun; around midday the UV had a bit of bite but leaned more toward sunglasses than strategy, and by now it has fallen to nothing. The sky stays pristine, the air feels untroubled, and the night invites ordinary comforts: an unhurried walk, a small grocery top\u2011up, or finishing a chapter with the window slightly ajar. Dress in simple layers with a jacket for after dark, and expect the calm, cloudless spell to hold, visibility crisp and thoughts unhurried.",
-    "color_code": "#0b1e3a",
-    "timestamp": "2026-03-04 21:55:50",
+    "weather_report": "Subiaco wakes to a polished, cloudless blue, the kind of clear morning that sharpens edges and brightens every surface. The forecast stays this way through early afternoon, so expect unbroken sunshine and a day that feels open and crystalline. As the sun rises higher the light will turn insistent; the UV index is likely to climb quickly into the high range by midday, and the air itself will look scrubbed and transparent.\n\nIt\u2019s pleasant now, the sort of morning for light, breathable clothes, a brimmed hat, sunglasses and a quiet habit of sunscreen. Carry water. Take a gentle walk to the shops, wheel a short bike loop before lunch, or linger with a coffee under an awning while the streets settle into their midday glare. Save the longer errands or reading for a shaded corner later on, when the day\u2019s brilliance becomes something best admired from the cool.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-03-05 09:49:47",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94969015314446,
-        "longitude": 115.8206892179312,
+        "latitude": -31.94967384193433,
+        "longitude": 115.8207895906749,
         "timezone": "Australia/Perth"
     }
 }
