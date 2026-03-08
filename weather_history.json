@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-03-01 09:59:18",
-    "location": {
-      "name": "South Perth",
-      "latitude": -31.97854932665608,
-      "longitude": 115.8606193932711,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-03-01T01:59:18+00:00",
-      "temperature_c": 21.11,
-      "temperature_f": 69.998,
-      "humidity": 39,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 150,
-      "description": "clear sky"
-    },
-    "report_summary": "South Perth wakes under a spotless sky, the river and rooftops already taking on that late-summer gl...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-03-01 21:36:42",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Dalkeith wakes to a soft, milky brightness: the night\u2019s clear sky giving way to a scatter of driftin...",
     "color_code": "#B0C4DE"
+  },
+  {
+    "timestamp": "2026-03-08 21:37:36",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94970670127487,
+      "longitude": 115.8206787999666,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-03-08T13:37:36+00:00",
+      "temperature_c": 23.87,
+      "temperature_f": 74.96600000000001,
+      "humidity": 73,
+      "wind_speed_mph": 9.21644,
+      "wind_direction": 210,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco settles into night with a clean, open sky and a calmness that makes streetlights feel almost...",
+    "color_code": "#0d1b2a"
   }
 ]
