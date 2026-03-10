@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94969884089509,
-            "longitude": 115.8209016687328
+            "latitude": -31.94968034236699,
+            "longitude": 115.8207984177019
         },
         "current_conditions": {
-            "timestamp": "2026-03-09T14:04:23+00:00",
-            "temperature_c": 21.89,
-            "temperature_f": 71.402,
-            "humidity": 73,
-            "wind_speed_mph": 16.17351,
-            "wind_direction": 206,
-            "description": "scattered clouds"
+            "timestamp": "2026-03-10T01:45:01+00:00",
+            "temperature_c": 22,
+            "temperature_f": 71.6,
+            "humidity": 56,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 190,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-03-09T15:00:00+00:00",
-                "temperature": 21.4,
-                "windSpeed": 17.91837,
-                "windDirection": 196,
+                "startTime": "2026-03-10T03:00:00+00:00",
+                "temperature": 22,
+                "windSpeed": 19.86456,
+                "windDirection": 204,
                 "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-03-09T18:00:00+00:00",
-                "temperature": 21.07,
-                "windSpeed": 19.41716,
-                "windDirection": 193,
+                "startTime": "2026-03-10T06:00:00+00:00",
+                "temperature": 23.03,
+                "windSpeed": 24.13723,
+                "windDirection": 210,
                 "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a muted night under broken clouds, the moon slipping in and out like a lamp behind a gauze curtain. It isn\u2019t a night for stargazing: the sky is dappled, the distances soft, and the world feels comfortably hushed. UV is effectively nil now, and there\u2019s no real glare; just a cool, steady dimness that invites a gentle walk around the block or a quiet sit by an open window to breathe the evening air.\n\nThrough the late hours and into the small morning, the cloud cover looks set to loiter, so first light may arrive filtered rather than bold. Sunshine, when it returns, will likely be softened at first; UV will stay low at dawn and only climb if the clouds thin toward late morning, so bring sunglasses and a dab of sunscreen if you\u2019ll be out later. Dress in a light layer or soft jumper for comfort, and keep it unhurried: tidy tomorrow\u2019s bag, prep breakfast, or take a short, reflective stroll before turning in. If the sky breaks after sunrise, consider a coffee on a veranda; if it doesn\u2019t, let the day begin in a quieter key.",
-    "color_code": "#2C3E50",
-    "timestamp": "2026-03-09 22:04:23",
+    "weather_report": "Subiaco wakes to a quilt of broken cloud, the sun slipping in and out, turning the streets a muted silver rather than a hard white. Through late morning into midafternoon those gaps should widen and close like a slow-breathing lung, offering bright patches without the relentlessness of a clear sky. It won\u2019t be a day of unbroken blue, but light will still feel lively; even with cloud the midday UV can be sneaky, so a touch of sunscreen is wise, as are sunglasses. The air reads as clean, the view crisp, with soft-edged shadows and no heavy threat of rain suggested by the pattern.\n\nDress in easy layers: a breathable shirt with a light top you can peel off when the sun finds you, hat at the ready. It\u2019s a good morning for an unhurried coffee run and a lap of the shops, a brisk errand on foot, or hanging the washing to take advantage of the flashing sun. If you\u2019re indoors, crack a window and let the tempered daylight do its gentle work.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-03-10 09:45:02",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94969884089509,
-        "longitude": 115.8209016687328,
+        "latitude": -31.94968034236699,
+        "longitude": 115.8207984177019,
         "timezone": "Australia/Perth"
     }
 }
