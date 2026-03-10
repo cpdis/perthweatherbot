@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94968034236699,
-            "longitude": 115.8207984177019
+            "latitude": -31.94969870780195,
+            "longitude": 115.8209012577239
         },
         "current_conditions": {
-            "timestamp": "2026-03-10T01:45:01+00:00",
-            "temperature_c": 22,
-            "temperature_f": 71.6,
-            "humidity": 56,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 190,
-            "description": "broken clouds"
+            "timestamp": "2026-03-10T13:59:43+00:00",
+            "temperature_c": 20.01,
+            "temperature_f": 68.018,
+            "humidity": 45,
+            "wind_speed_mph": 13.712810000000001,
+            "wind_direction": 142,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-03-10T03:00:00+00:00",
-                "temperature": 22,
-                "windSpeed": 19.86456,
-                "windDirection": 204,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-03-10T15:00:00+00:00",
+                "temperature": 19.41,
+                "windSpeed": 15.524780000000002,
+                "windDirection": 153,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-03-10T06:00:00+00:00",
-                "temperature": 23.03,
-                "windSpeed": 24.13723,
-                "windDirection": 210,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-03-10T18:00:00+00:00",
+                "temperature": 18.73,
+                "windSpeed": 14.898420000000002,
+                "windDirection": 140,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco wakes to a quilt of broken cloud, the sun slipping in and out, turning the streets a muted silver rather than a hard white. Through late morning into midafternoon those gaps should widen and close like a slow-breathing lung, offering bright patches without the relentlessness of a clear sky. It won\u2019t be a day of unbroken blue, but light will still feel lively; even with cloud the midday UV can be sneaky, so a touch of sunscreen is wise, as are sunglasses. The air reads as clean, the view crisp, with soft-edged shadows and no heavy threat of rain suggested by the pattern.\n\nDress in easy layers: a breathable shirt with a light top you can peel off when the sun finds you, hat at the ready. It\u2019s a good morning for an unhurried coffee run and a lap of the shops, a brisk errand on foot, or hanging the washing to take advantage of the flashing sun. If you\u2019re indoors, crack a window and let the tempered daylight do its gentle work.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-03-10 09:45:02",
+    "weather_report": "Subiaco settles into a quiet, lucid night beneath a cloudless sky. The day ran clear from midafternoon to early evening, sunlit but not searing; ultraviolet strength would have been moderate earlier and gently faded to low as the light thinned. Now the stars feel close, the air tidy and calm, with the kind of clarity that sharpens edges on rooftops and lets distant sounds travel a little farther than usual.\n\nIt looks pleasantly simple rather than dramatic. If you step out, a light jacket or soft sweater will be enough, with comfortable shoes for an unhurried loop around the block or a last stroll to stretch the day from your legs. Indoors, crack a window and let the cool, dry air freshen the room while you unwind, or sort tomorrow\u2019s bag by the lamplight. If you\u2019ll be out in the early afternoon tomorrow under similar clear skies, pack sunglasses and a touch of sunscreen; for tonight, enjoy the clean, starry hush.",
+    "color_code": "#0b1e3b",
+    "timestamp": "2026-03-10 21:59:44",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94968034236699,
-        "longitude": 115.8207984177019,
+        "latitude": -31.94969870780195,
+        "longitude": 115.8209012577239,
         "timezone": "Australia/Perth"
     }
 }
