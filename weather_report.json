@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Osborne Park",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.90812721654126,
-            "longitude": 115.801792869958
+            "latitude": -31.94969515815319,
+            "longitude": 115.8206862837818
         },
         "current_conditions": {
-            "timestamp": "2026-03-11T01:45:05+00:00",
-            "temperature_c": 19.67,
-            "temperature_f": 67.406,
-            "humidity": 52,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 100,
-            "description": "scattered clouds"
+            "timestamp": "2026-03-11T14:04:00+00:00",
+            "temperature_c": 20.85,
+            "temperature_f": 69.53,
+            "humidity": 45,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 130,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-03-11T03:00:00+00:00",
-                "temperature": 19.67,
-                "windSpeed": 14.518130000000001,
-                "windDirection": 120,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-03-11T15:00:00+00:00",
+                "temperature": 20.85,
+                "windSpeed": 17.06831,
+                "windDirection": 109,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-03-11T06:00:00+00:00",
-                "temperature": 21.7,
-                "windSpeed": 13.489110000000002,
-                "windDirection": 136,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-03-11T18:00:00+00:00",
+                "temperature": 19.91,
+                "windSpeed": 14.987900000000002,
+                "windDirection": 116,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Osborne Park wakes under a pale, pleasing sky, the sun threading between scattered clouds and brightening verandas and shopfronts without the hard glare of midsummer. The day looks clear and open, with good light for seeing the small details\u2014the jacaranda leaves rattling, the chalkboard outside the caf\u00e9, the quiet glint on windscreens. Even with the cloud, the midday sun will carry some bite; expect a reasonably sunny feel as the morning leans toward noon, and mind the UV, which in this corner of the world tends to gather strength quickly.\n\nThrough late morning into early afternoon, those clouds drift but don\u2019t dominate, keeping the day agreeable and likely dry. Dress for comfort and movement: light layers, breathable fabrics, sunglasses, and a hat; a dab of sunscreen will earn its keep. It\u2019s the sort of weather that invites small, unhurried plans\u2014hang the washing, walk a letter to the postbox, linger over a second coffee at a shaded table, or take a gentle loop through the park before lunch. If you\u2019ve errands, this is a good window to tick them off while the light is kind and the air still easy.",
-    "color_code": "#A3C7E6",
-    "timestamp": "2026-03-11 09:45:06",
+    "weather_report": "Subiaco settles into a polished, crystal night: the sky is bare of cloud, the air dry and clean, and the stars feel near enough to pocket. It isn\u2019t sunny now, of course, and the UV is effectively asleep with the streetlights, but the clarity says a lot\u2014no haze, no threat on the horizon, just quiet air and easy breathing.\n\nExpect this calm to hold through midnight and into the small hours, which often sets the table for a bright, blue-tinged morning; check again at breakfast, but prospects for sunshine look kind. It\u2019s a gentle, slightly cool night\u2014pleasant rather than sharp\u2014so a light sweater or denim jacket will do, the sort you forget you\u2019re wearing. If you\u2019re up, take an unhurried loop beneath the plane trees, or linger on the veranda with a cup of something warm and the night\u2019s hush for company. If you\u2019ll be out after sunrise, plan on sunglasses and a dab of sunscreen once the light gathers strength.",
+    "color_code": "#0b1e3c",
+    "timestamp": "2026-03-11 22:04:01",
     "location": {
-        "name": "Osborne Park",
-        "latitude": -31.90812721654126,
-        "longitude": 115.801792869958,
+        "name": "Subiaco",
+        "latitude": -31.94969515815319,
+        "longitude": 115.8206862837818,
         "timezone": "Australia/Perth"
     }
 }
