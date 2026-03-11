@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-03-03 21:57:47",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95397223972767,
-      "longitude": 115.8528404338656,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-03-03T13:57:45+00:00",
-      "temperature_c": 26.05,
-      "temperature_f": 78.89,
-      "humidity": 43,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 170,
-      "description": "clear sky"
-    },
-    "report_summary": "Perth slips into a serene, crystal-clear night, the sky pared back to its essentials. Stars look pin...",
-    "color_code": "#0a1e3a"
-  },
-  {
     "timestamp": "2026-03-04 09:46:55",
     "location": {
       "name": "Osborne Park",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco settles into a quiet, lucid night beneath a cloudless sky. The day ran clear from midafterno...",
     "color_code": "#0b1e3b"
+  },
+  {
+    "timestamp": "2026-03-11 09:45:06",
+    "location": {
+      "name": "Osborne Park",
+      "latitude": -31.90812721654126,
+      "longitude": 115.801792869958,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-03-11T01:45:05+00:00",
+      "temperature_c": 19.67,
+      "temperature_f": 67.406,
+      "humidity": 52,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 100,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Osborne Park wakes under a pale, pleasing sky, the sun threading between scattered clouds and bright...",
+    "color_code": "#A3C7E6"
   }
 ]

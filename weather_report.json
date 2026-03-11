@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Osborne Park",
             "country": "AU",
-            "latitude": -31.94969870780195,
-            "longitude": 115.8209012577239
+            "latitude": -31.90812721654126,
+            "longitude": 115.801792869958
         },
         "current_conditions": {
-            "timestamp": "2026-03-10T13:59:43+00:00",
-            "temperature_c": 20.01,
-            "temperature_f": 68.018,
-            "humidity": 45,
-            "wind_speed_mph": 13.712810000000001,
-            "wind_direction": 142,
-            "description": "clear sky"
+            "timestamp": "2026-03-11T01:45:05+00:00",
+            "temperature_c": 19.67,
+            "temperature_f": 67.406,
+            "humidity": 52,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 100,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-03-10T15:00:00+00:00",
-                "temperature": 19.41,
-                "windSpeed": 15.524780000000002,
-                "windDirection": 153,
-                "shortForecast": "clear sky"
+                "startTime": "2026-03-11T03:00:00+00:00",
+                "temperature": 19.67,
+                "windSpeed": 14.518130000000001,
+                "windDirection": 120,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2026-03-10T18:00:00+00:00",
-                "temperature": 18.73,
-                "windSpeed": 14.898420000000002,
-                "windDirection": 140,
-                "shortForecast": "clear sky"
+                "startTime": "2026-03-11T06:00:00+00:00",
+                "temperature": 21.7,
+                "windSpeed": 13.489110000000002,
+                "windDirection": 136,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a quiet, lucid night beneath a cloudless sky. The day ran clear from midafternoon to early evening, sunlit but not searing; ultraviolet strength would have been moderate earlier and gently faded to low as the light thinned. Now the stars feel close, the air tidy and calm, with the kind of clarity that sharpens edges on rooftops and lets distant sounds travel a little farther than usual.\n\nIt looks pleasantly simple rather than dramatic. If you step out, a light jacket or soft sweater will be enough, with comfortable shoes for an unhurried loop around the block or a last stroll to stretch the day from your legs. Indoors, crack a window and let the cool, dry air freshen the room while you unwind, or sort tomorrow\u2019s bag by the lamplight. If you\u2019ll be out in the early afternoon tomorrow under similar clear skies, pack sunglasses and a touch of sunscreen; for tonight, enjoy the clean, starry hush.",
-    "color_code": "#0b1e3b",
-    "timestamp": "2026-03-10 21:59:44",
+    "weather_report": "Osborne Park wakes under a pale, pleasing sky, the sun threading between scattered clouds and brightening verandas and shopfronts without the hard glare of midsummer. The day looks clear and open, with good light for seeing the small details\u2014the jacaranda leaves rattling, the chalkboard outside the caf\u00e9, the quiet glint on windscreens. Even with the cloud, the midday sun will carry some bite; expect a reasonably sunny feel as the morning leans toward noon, and mind the UV, which in this corner of the world tends to gather strength quickly.\n\nThrough late morning into early afternoon, those clouds drift but don\u2019t dominate, keeping the day agreeable and likely dry. Dress for comfort and movement: light layers, breathable fabrics, sunglasses, and a hat; a dab of sunscreen will earn its keep. It\u2019s the sort of weather that invites small, unhurried plans\u2014hang the washing, walk a letter to the postbox, linger over a second coffee at a shaded table, or take a gentle loop through the park before lunch. If you\u2019ve errands, this is a good window to tick them off while the light is kind and the air still easy.",
+    "color_code": "#A3C7E6",
+    "timestamp": "2026-03-11 09:45:06",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94969870780195,
-        "longitude": 115.8209012577239,
+        "name": "Osborne Park",
+        "latitude": -31.90812721654126,
+        "longitude": 115.801792869958,
         "timezone": "Australia/Perth"
     }
 }
