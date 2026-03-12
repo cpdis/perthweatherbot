@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "West Perth",
             "country": "AU",
-            "latitude": -31.94967869340785,
-            "longitude": 115.8207876804086
+            "latitude": -31.94391215219333,
+            "longitude": 115.8424733779253
         },
         "current_conditions": {
-            "timestamp": "2026-03-12T01:47:23+00:00",
-            "temperature_c": 20.72,
-            "temperature_f": 69.29599999999999,
-            "humidity": 51,
-            "wind_speed_mph": 20.71462,
-            "wind_direction": 110,
-            "description": "scattered clouds"
+            "timestamp": "2026-03-12T14:01:24+00:00",
+            "temperature_c": 21.6,
+            "temperature_f": 70.88,
+            "humidity": 48,
+            "wind_speed_mph": 16.3301,
+            "wind_direction": 109,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-03-12T03:00:00+00:00",
-                "temperature": 20.72,
-                "windSpeed": 15.48004,
-                "windDirection": 103,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-03-12T15:00:00+00:00",
+                "temperature": 20.68,
+                "windSpeed": 16.53143,
+                "windDirection": 106,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-03-12T06:00:00+00:00",
-                "temperature": 22.62,
-                "windSpeed": 10.692860000000001,
-                "windDirection": 103,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-03-12T18:00:00+00:00",
+                "temperature": 20.22,
+                "windSpeed": 12.03506,
+                "windDirection": 109,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Mid-morning in Subiaco arrives with scattered clouds drifting like torn silk across a bright blue sky, letting generous light pour through. The air looks clean and views feel crisp; it\u2019s a pleasant, open sort of day. Expect sunshine to win more often than not, with cloud streaks offering passing shade. Even with the cloud, the sun will have some bite as the day leans toward midday, so the UV will run strong; it\u2019s the kind of light that rewards sunglasses, a hat, and a touch of sunscreen.\n\nThe hours ahead look kindly balanced: mostly bright, dry in feel, and easy to be out in. Light layers will serve you well\u2014something you can unbutton in the sun and keep on in the shade. It\u2019s a fine moment to walk to the bakery, linger at a small outdoor table, or wander to the shops and let the morning do its gentle work. If you\u2019re staying in, throw open a window, water the plants, or settle with a book in the sunlit corner; if you\u2019re heading out, a short ride or an unhurried errand on foot will pair nicely with the clear light and soft cloud.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-03-12 09:47:24",
+    "weather_report": "West Perth settles under a clear, uncomplicated night, the sky rinsed clean and star-pricked. It feels quiet and unhurried, with UV all but absent now and visibility crisp, the kind of clarity that makes streetlights seem sharper and colors a shade truer. If you\u2019re stepping out, a light layer will do; it\u2019s the sort of evening suited to a gentle walk around the block, watering the patio plants, or finishing a chapter by an open window.\n\nThe forecast keeps the sky clear through the small hours, so daybreak should arrive bright and unfiltered. That means a sunny start once the sun climbs, with UV ramping quickly after breakfast; plan a hat, sunglasses, and sunscreen if you\u2019re heading out. Expect a pleasant feel early, growing more glary as the morning matures. Consider simple comforts: an early coffee run, a brief spin to the shops before the sun gets bossy, or a tidy of the balcony while the air is still kind.",
+    "color_code": "#0D1B2A",
+    "timestamp": "2026-03-12 22:01:25",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94967869340785,
-        "longitude": 115.8207876804086,
+        "name": "West Perth",
+        "latitude": -31.94391215219333,
+        "longitude": 115.8424733779253,
         "timezone": "Australia/Perth"
     }
 }
