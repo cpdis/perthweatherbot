@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "West Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9549127,
-            "longitude": 115.8457522666667
+            "latitude": -31.94970436540339,
+            "longitude": 115.8206868723246
         },
         "current_conditions": {
-            "timestamp": "2026-03-13T01:49:06+00:00",
-            "temperature_c": 21.04,
-            "temperature_f": 69.872,
-            "humidity": 58,
-            "wind_speed_mph": 18.410510000000002,
-            "wind_direction": 120,
-            "description": "scattered clouds"
+            "timestamp": "2026-03-13T13:58:40+00:00",
+            "temperature_c": 21.03,
+            "temperature_f": 69.854,
+            "humidity": 61,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 105,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-03-13T03:00:00+00:00",
-                "temperature": 20.86,
-                "windSpeed": 15.74848,
-                "windDirection": 101,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-03-13T15:00:00+00:00",
+                "temperature": 20.41,
+                "windSpeed": 13.287780000000001,
+                "windDirection": 108,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-03-13T06:00:00+00:00",
-                "temperature": 21.87,
-                "windSpeed": 16.93409,
-                "windDirection": 99,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-03-13T18:00:00+00:00",
+                "temperature": 19.64,
+                "windSpeed": 12.750900000000001,
+                "windDirection": 122,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "West Perth wakes under a friendly, mottled sky, the sun stepping in and out from behind scattered clouds as morning stretches its limbs. Light spills over the streets with a gentle brightness that never quite flattens, the kind of clarity that sharpens edges and keeps the day feeling open and breathable. Through the late morning into early afternoon, expect the same rhythm: generous sun tempered by passing cottony veils, more blue than cloud, the air reading as clean and easy. UV information isn\u2019t provided, but this time of year the sun tends to bite by midday; treat it with respect and you\u2019ll be fine.\n\nDress for comfort and motion: a light shirt, breezy trousers or a skirt, good sunglasses, a hat you won\u2019t mind carrying when the wind takes a polite tug, and sunscreen as habit rather than afterthought. It\u2019s a day for modest plans that make the hours feel longer: a slow walk to a favorite cafe, a lap through the market for something crisp and green, hanging fresh laundry where it can drink the sun, or a quiet seat by the window to read while the light drifts across the page. If you\u2019re heading out later, aim for shade at lunch and let the afternoon roll past like clouds on a soft blue reel.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-03-13 09:49:09",
+    "weather_report": "Subiaco has slipped into a clear, quiet night, the sky rinsed of cloud and polished to a dark sheen. The air feels clean and unhurried, with distant sounds carrying a little farther than usual. Sunshine will wait until morning; for now the UV index has dropped to nothing and the clarity is lovely, the kind that makes constellations seem nearer than they are.\n\nThe forecast keeps the heavens open for the next stretch, so expect a gentle, pleasant evening and a calm late night. Dress in light layers\u2014a soft shirt and a cardigan will suit the cool that settles after dinner\u2014and shoes you don\u2019t mind strolling in. It\u2019s a good night to air out a room, take the slow way home, water the balcony herbs, or step outside for a short, reflective lap around the block. If the clear pattern lingers into morning, daylight will be bright and the sun assertive; line up shade and sunscreen for any errands after breakfast, but for now, enjoy the untroubled simplicity of a cloudless night.",
+    "color_code": "#0a1e3f",
+    "timestamp": "2026-03-13 21:58:40",
     "location": {
-        "name": "West Perth",
-        "latitude": -31.9549127,
-        "longitude": 115.8457522666667,
+        "name": "Subiaco",
+        "latitude": -31.94970436540339,
+        "longitude": 115.8206868723246,
         "timezone": "Australia/Perth"
     }
 }
