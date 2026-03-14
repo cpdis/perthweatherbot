@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94968143764304,
-            "longitude": 115.8208378769521
+            "latitude": -31.94967805942407,
+            "longitude": 115.8206320102664
         },
         "current_conditions": {
-            "timestamp": "2026-03-14T01:46:55+00:00",
-            "temperature_c": 22.21,
-            "temperature_f": 71.97800000000001,
-            "humidity": 61,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 110,
-            "description": "broken clouds"
+            "timestamp": "2026-03-14T13:42:25+00:00",
+            "temperature_c": 22.32,
+            "temperature_f": 72.176,
+            "humidity": 63,
+            "wind_speed_mph": 18.410510000000002,
+            "wind_direction": 120,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-03-14T03:00:00+00:00",
-                "temperature": 22.21,
-                "windSpeed": 9.23881,
-                "windDirection": 114,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-03-14T15:00:00+00:00",
+                "temperature": 22.32,
+                "windSpeed": 15.09975,
+                "windDirection": 128,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-03-14T06:00:00+00:00",
-                "temperature": 23.91,
-                "windSpeed": 10.581010000000001,
-                "windDirection": 112,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-03-14T18:00:00+00:00",
+                "temperature": 21.67,
+                "windSpeed": 13.24304,
+                "windDirection": 119,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a quilt of broken cloud, the sun shouldering through in warm flashes that turn the footpaths silver, then soft again. The air feels easy just now, and though the sky keeps its veils, the light grows steadier toward late morning. Expect the afternoon to keep that on\u2011again, off\u2011again brightness: intervals of gentle blue patched by drifting cloud. UV will be keen around midday despite the cover, so think sunscreen, sunglasses, and a brim. The day\u2019s clarity is serviceable rather than sparkling; edges are a touch muted, shadows come and go.\n\nIt\u2019s a day for light layers and easy shoes, for walking the small errands\u2014return a library book, pick up fruit, linger over a coffee by a window where the light dapples the table. If you\u2019re cycling, take the shady streets and a water bottle; if you\u2019re at home, throw open the windows and let the breeze sift through while you tend the balcony plants. Later, a quiet lap around the oval or a slow wander through a nearby park will suit the mood, watching the sky open and close like a thoughtful eye.",
-    "color_code": "#b0c4de",
-    "timestamp": "2026-03-14 09:46:56",
+    "weather_report": "Subiaco settles into a clear, quiet night, the sky rinsed clean and studded with patient stars. The air feels simple and dry, with that late-evening hush that makes sounds travel a little farther. There\u2019s no sunshine now and the UV index is effectively asleep, leaving the night gentle on the skin and kind to unhurried walkers. Visibility is crisp; the world feels neatly outlined.\n\nThe forecast holds this clarity through the small hours, so expect a stable, pleasant night that cools enough to invite a light layer or a soft cardigan. It\u2019s good weather for a slow stroll around the block, a few minutes on the balcony with a cup of tea, or watering the herbs while the pavement radiates the day\u2019s last warmth. If you\u2019re heading out, choose comfortable layers you can shrug on and off; if you\u2019re staying in, crack a window and let the clean air drift through. Come morning, clear skies usually bring a quick rise in brightness and UV, so plan shade and sunscreen for the daytime, but for now the night is yours and untroubled.",
+    "color_code": "#0a1f44",
+    "timestamp": "2026-03-14 21:42:26",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94968143764304,
-        "longitude": 115.8208378769521,
+        "latitude": -31.94967805942407,
+        "longitude": 115.8206320102664,
         "timezone": "Australia/Perth"
     }
 }
