@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94970436540339,
-            "longitude": 115.8206868723246
+            "latitude": -31.94968143764304,
+            "longitude": 115.8208378769521
         },
         "current_conditions": {
-            "timestamp": "2026-03-13T13:58:40+00:00",
-            "temperature_c": 21.03,
-            "temperature_f": 69.854,
+            "timestamp": "2026-03-14T01:46:55+00:00",
+            "temperature_c": 22.21,
+            "temperature_f": 71.97800000000001,
             "humidity": 61,
-            "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 105,
-            "description": "clear sky"
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 110,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-03-13T15:00:00+00:00",
-                "temperature": 20.41,
-                "windSpeed": 13.287780000000001,
-                "windDirection": 108,
-                "shortForecast": "clear sky"
+                "startTime": "2026-03-14T03:00:00+00:00",
+                "temperature": 22.21,
+                "windSpeed": 9.23881,
+                "windDirection": 114,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-03-13T18:00:00+00:00",
-                "temperature": 19.64,
-                "windSpeed": 12.750900000000001,
-                "windDirection": 122,
-                "shortForecast": "clear sky"
+                "startTime": "2026-03-14T06:00:00+00:00",
+                "temperature": 23.91,
+                "windSpeed": 10.581010000000001,
+                "windDirection": 112,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco has slipped into a clear, quiet night, the sky rinsed of cloud and polished to a dark sheen. The air feels clean and unhurried, with distant sounds carrying a little farther than usual. Sunshine will wait until morning; for now the UV index has dropped to nothing and the clarity is lovely, the kind that makes constellations seem nearer than they are.\n\nThe forecast keeps the heavens open for the next stretch, so expect a gentle, pleasant evening and a calm late night. Dress in light layers\u2014a soft shirt and a cardigan will suit the cool that settles after dinner\u2014and shoes you don\u2019t mind strolling in. It\u2019s a good night to air out a room, take the slow way home, water the balcony herbs, or step outside for a short, reflective lap around the block. If the clear pattern lingers into morning, daylight will be bright and the sun assertive; line up shade and sunscreen for any errands after breakfast, but for now, enjoy the untroubled simplicity of a cloudless night.",
-    "color_code": "#0a1e3f",
-    "timestamp": "2026-03-13 21:58:40",
+    "weather_report": "Subiaco wakes under a quilt of broken cloud, the sun shouldering through in warm flashes that turn the footpaths silver, then soft again. The air feels easy just now, and though the sky keeps its veils, the light grows steadier toward late morning. Expect the afternoon to keep that on\u2011again, off\u2011again brightness: intervals of gentle blue patched by drifting cloud. UV will be keen around midday despite the cover, so think sunscreen, sunglasses, and a brim. The day\u2019s clarity is serviceable rather than sparkling; edges are a touch muted, shadows come and go.\n\nIt\u2019s a day for light layers and easy shoes, for walking the small errands\u2014return a library book, pick up fruit, linger over a coffee by a window where the light dapples the table. If you\u2019re cycling, take the shady streets and a water bottle; if you\u2019re at home, throw open the windows and let the breeze sift through while you tend the balcony plants. Later, a quiet lap around the oval or a slow wander through a nearby park will suit the mood, watching the sky open and close like a thoughtful eye.",
+    "color_code": "#b0c4de",
+    "timestamp": "2026-03-14 09:46:56",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94970436540339,
-        "longitude": 115.8206868723246,
+        "latitude": -31.94968143764304,
+        "longitude": 115.8208378769521,
         "timezone": "Australia/Perth"
     }
 }
