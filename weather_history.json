@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-03-08 09:50:49",
-    "location": {
-      "name": "Dalkeith",
-      "latitude": -31.99158819875863,
-      "longitude": 115.7986841222686,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-03-08T01:50:49+00:00",
-      "temperature_c": 27.43,
-      "temperature_f": 81.374,
-      "humidity": 62,
-      "wind_speed_mph": 3.44498,
-      "wind_direction": 240,
-      "description": "clear sky"
-    },
-    "report_summary": "Dalkeith wakes to a soft, milky brightness: the night\u2019s clear sky giving way to a scatter of driftin...",
-    "color_code": "#B0C4DE"
-  },
-  {
     "timestamp": "2026-03-08 21:37:36",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Como wakes to a clean, generous light. The sky is untroubled, the air crisp enough to make your firs...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-03-15 21:43:56",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94967804917145,
+      "longitude": 115.820829039538,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-03-15T13:43:55+00:00",
+      "temperature_c": 23.35,
+      "temperature_f": 74.03,
+      "humidity": 56,
+      "wind_speed_mph": 10.35731,
+      "wind_direction": 160,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco settles into a clear, quiet night: the sky looks polished, stars pricked sharp, and the air ...",
+    "color_code": "#0b1e3a"
   }
 ]

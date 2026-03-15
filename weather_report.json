@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Como",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -32.00878580019624,
-            "longitude": 115.8550053477338
+            "latitude": -31.94967804917145,
+            "longitude": 115.820829039538
         },
         "current_conditions": {
-            "timestamp": "2026-03-15T02:02:22+00:00",
-            "temperature_c": 23.67,
-            "temperature_f": 74.60600000000001,
+            "timestamp": "2026-03-15T13:43:55+00:00",
+            "temperature_c": 23.35,
+            "temperature_f": 74.03,
             "humidity": 56,
-            "wind_speed_mph": 7.449210000000001,
-            "wind_direction": 119,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 160,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-03-15T03:00:00+00:00",
-                "temperature": 24.75,
-                "windSpeed": 6.285970000000001,
-                "windDirection": 137,
+                "startTime": "2026-03-15T15:00:00+00:00",
+                "temperature": 23.35,
+                "windSpeed": 9.12696,
+                "windDirection": 113,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-03-15T06:00:00+00:00",
-                "temperature": 25.43,
-                "windSpeed": 10.782340000000001,
-                "windDirection": 190,
+                "startTime": "2026-03-15T18:00:00+00:00",
+                "temperature": 22.61,
+                "windSpeed": 7.85187,
+                "windDirection": 117,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Como wakes to a clean, generous light. The sky is untroubled, the air crisp enough to make your first breath feel new, and the lake throws back a polished blue. With the morning already bright and growing brighter, expect sunshine to hold steady through late morning and likely the afternoon; the UV will climb to a moderate bite around midday, the sort that asks for sunglasses and a touch of sunscreen. The day looks vividly clear, edges sharpened, shadows neat.\n\nDress in easy layers: a soft sweater or light jacket for the shade, sleeves you can push up in the sun. It\u2019s a fine morning for simple errands on foot, a quiet coffee at an outdoor table, a slow loop along the waterfront, or airing out the apartment while you read a few pages by an open window. If you\u2019ve a bike, a short spin before lunch would suit the mood, unhurried and bright.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-03-15 10:02:23",
+    "weather_report": "Subiaco settles into a clear, quiet night: the sky looks polished, stars pricked sharp, and the air easing cooler as evening deepens. There\u2019s no sun left to speak of and the UV has fallen away to nothing, leaving a feeling of clarity more than glare, a clean-edged sort of calm. It\u2019s the kind of weather that makes streetlights look warmer and the sound of distant trains feel closer.\n\nForecasts keep the heavens open and cloudless through late evening and into the small hours, a pleasant run of serenity rather than spectacle. A light layer or soft sweater will suit the slow drop in temperature, with closed shoes if you linger. This is good weather for a measured stroll to clear the head, a quiet sit on the balcony with tea, watering the herbs before bed, or a tidy lap around the block with the dog. If you\u2019re turning in, crack a window to let the night breathe through; if you\u2019re up, let the stillness do its work.",
+    "color_code": "#0b1e3a",
+    "timestamp": "2026-03-15 21:43:56",
     "location": {
-        "name": "Como",
-        "latitude": -32.00878580019624,
-        "longitude": 115.8550053477338,
+        "name": "Subiaco",
+        "latitude": -31.94967804917145,
+        "longitude": 115.820829039538,
         "timezone": "Australia/Perth"
     }
 }
