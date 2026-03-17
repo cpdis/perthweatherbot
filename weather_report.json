@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "West Perth",
             "country": "AU",
-            "latitude": -31.94967526603702,
-            "longitude": 115.8207914963985
+            "latitude": -31.94690845,
+            "longitude": 115.8377455666667
         },
         "current_conditions": {
-            "timestamp": "2026-03-17T01:51:12+00:00",
-            "temperature_c": 28.3,
-            "temperature_f": 82.94,
-            "humidity": 45,
-            "wind_speed_mph": 12.03506,
-            "wind_direction": 51,
-            "description": "few clouds"
+            "timestamp": "2026-03-17T14:17:18+00:00",
+            "temperature_c": 25.57,
+            "temperature_f": 78.026,
+            "humidity": 44,
+            "wind_speed_mph": 7.09129,
+            "wind_direction": 111,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-03-17T03:00:00+00:00",
-                "temperature": 29.46,
-                "windSpeed": 8.16505,
-                "windDirection": 48,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-03-17T15:00:00+00:00",
+                "temperature": 25.32,
+                "windSpeed": 7.1584,
+                "windDirection": 101,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2026-03-17T06:00:00+00:00",
-                "temperature": 30.91,
-                "windSpeed": 6.4873,
-                "windDirection": 209,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-03-17T18:00:00+00:00",
+                "temperature": 25.47,
+                "windSpeed": 9.79806,
+                "windDirection": 66,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a quilt of broken cloud, the sun slipping through in pearly sheets that cast soft, forgiving shadows across verandas and shopfronts. The air feels comfortable rather than stern, the view clear, with that crisp mid-morning definition that makes colors behave. Through late morning into early afternoon the sky keeps its dappled rhythm, brightness arriving in generous spells before a veil drifts back across it. Expect a mostly dry, pleasantly tempered day; the UV, however, will gather strength toward midday even with the cloud, so treat it with respect.\n\nDress for ease: light fabrics, sleeves you can roll, sunglasses, a brimmed hat, and a calm swipe of sunscreen. It\u2019s the sort of day for an unhurried circuit of Rokeby Road to pick up a loaf and something green, a coffee tucked beneath an awning, or a quiet hour at the library before a lunch break walk when the light goes soft again. If home beckons, throw the windows open and tend to balcony plants while the sun plays hide-and-seek, letting the day move around you rather than through you.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-03-17 09:51:13",
+    "weather_report": "West Perth settles into a gentle late evening under scattered clouds, the sky broken into soft, shifting panes that let a few stars breathe through. Sunshine is done for the day and the UV sting is gone; this is a low-glare, low-drama night with fair visibility and only occasional patches of haze as the clouds meander. The forecast carries this pattern onward through the small hours, a calm, partly veiled sky that feels companionable rather than brooding.\n\nDress with easy comfort in mind: a light layer over a tee, something you can shrug on if a breeze finds you on the balcony or footpath. It\u2019s a good night for unrushed things\u2014an amble around the block, washing the dishes to the rhythm of a favorite album, or finishing the chapter you meant to finish at lunch. If you\u2019re up late, look up now and then; the clouds don\u2019t own the whole sky, and the night keeps offering clearings.",
+    "color_code": "#1a2238",
+    "timestamp": "2026-03-17 22:17:19",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94967526603702,
-        "longitude": 115.8207914963985,
+        "name": "West Perth",
+        "latitude": -31.94690845,
+        "longitude": 115.8377455666667,
         "timezone": "Australia/Perth"
     }
 }
