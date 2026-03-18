@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "West Perth",
+            "name": "Wembley",
             "country": "AU",
-            "latitude": -31.94690845,
-            "longitude": 115.8377455666667
+            "latitude": -31.93066986511194,
+            "longitude": 115.8118833389715
         },
         "current_conditions": {
-            "timestamp": "2026-03-17T14:17:18+00:00",
-            "temperature_c": 25.57,
-            "temperature_f": 78.026,
-            "humidity": 44,
-            "wind_speed_mph": 7.09129,
-            "wind_direction": 111,
-            "description": "broken clouds"
+            "timestamp": "2026-03-18T01:55:42+00:00",
+            "temperature_c": 31,
+            "temperature_f": 87.8,
+            "humidity": 34,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 30,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-03-17T15:00:00+00:00",
-                "temperature": 25.32,
-                "windSpeed": 7.1584,
-                "windDirection": 101,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-03-18T03:00:00+00:00",
+                "temperature": 31,
+                "windSpeed": 8.59008,
+                "windDirection": 8,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-03-17T18:00:00+00:00",
-                "temperature": 25.47,
-                "windSpeed": 9.79806,
-                "windDirection": 66,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-03-18T06:00:00+00:00",
+                "temperature": 32.11,
+                "windSpeed": 12.012690000000001,
+                "windDirection": 235,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "West Perth settles into a gentle late evening under scattered clouds, the sky broken into soft, shifting panes that let a few stars breathe through. Sunshine is done for the day and the UV sting is gone; this is a low-glare, low-drama night with fair visibility and only occasional patches of haze as the clouds meander. The forecast carries this pattern onward through the small hours, a calm, partly veiled sky that feels companionable rather than brooding.\n\nDress with easy comfort in mind: a light layer over a tee, something you can shrug on if a breeze finds you on the balcony or footpath. It\u2019s a good night for unrushed things\u2014an amble around the block, washing the dishes to the rhythm of a favorite album, or finishing the chapter you meant to finish at lunch. If you\u2019re up late, look up now and then; the clouds don\u2019t own the whole sky, and the night keeps offering clearings.",
-    "color_code": "#1a2238",
-    "timestamp": "2026-03-17 22:17:19",
+    "weather_report": "Wembley wakes under a rinsed-blue morning, the kind of clear sky that makes rooftops look freshly edged and the air feel honest. After a cloudless dawn, the light is already confident, likely to hold for a bright, open day. UV is gentle now and should lift to a modest midday pulse if the blue stays put, more a quiet warmth on your face than heat in the air. The view feels long and clean, with little haze; if a veil of high cloud wanders by later, it will be a cameo, not a plot twist.\n\nIt reads as a pleasant day of simple pleasures: cool in the shade, friendly in the sun. Dress in light layers with a comfortable jacket, sunglasses at the ready, and a dab of sunscreen if you linger outdoors. This is good weather for walking the errand loop instead of driving, hanging the washing to catch a dry breeze, taking coffee on a doorstep, or giving the houseplants a sunny turn on the sill before a late-morning stroll to the bakery.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-03-18 09:55:42",
     "location": {
-        "name": "West Perth",
-        "latitude": -31.94690845,
-        "longitude": 115.8377455666667,
+        "name": "Wembley",
+        "latitude": -31.93066986511194,
+        "longitude": 115.8118833389715,
         "timezone": "Australia/Perth"
     }
 }
