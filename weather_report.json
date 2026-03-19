@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94970921853774,
-            "longitude": 115.8206591043726
+            "latitude": -31.9496826359846,
+            "longitude": 115.820788571093
         },
         "current_conditions": {
-            "timestamp": "2026-03-18T14:20:10+00:00",
-            "temperature_c": 26.86,
-            "temperature_f": 80.348,
-            "humidity": 42,
-            "wind_speed_mph": 6.91233,
-            "wind_direction": 180,
+            "timestamp": "2026-03-19T01:56:28+00:00",
+            "temperature_c": 33.51,
+            "temperature_f": 92.318,
+            "humidity": 24,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 10,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-03-18T15:00:00+00:00",
-                "temperature": 26.86,
-                "windSpeed": 6.15175,
-                "windDirection": 123,
+                "startTime": "2026-03-19T03:00:00+00:00",
+                "temperature": 33.51,
+                "windSpeed": 10.44679,
+                "windDirection": 320,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-03-18T18:00:00+00:00",
-                "temperature": 26.53,
-                "windSpeed": 6.241230000000001,
-                "windDirection": 47,
+                "startTime": "2026-03-19T06:00:00+00:00",
+                "temperature": 34.01,
+                "windSpeed": 12.03506,
+                "windDirection": 267,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a clear, crystalline night; the heat and dazzle of daylight have drained away, leaving a sky polished to a quiet shine. There\u2019s no veil of cloud to blunt the stars, and the air feels uncomplicated, steady, and kind to the lungs. Sunshine is done for the day and the UV is effectively asleep, so there\u2019s nothing harsh out there now, only a gentle darkness and honest visibility. Skies are set to stay open and cloudless through the late hours, a serene stretch that often ushers in a clean, bright dawn.\n\nIt looks like an inviting night to move unhurriedly. A light layer or soft sweater will be plenty; keep it simple and comfortable. Take a slow walk to let the mind unspool, sit in the courtyard and listen to the neighborhood breathe, or run that small errand you\u2019ve been putting off while the streets are calm. If you\u2019re indoors, crack a window and read a few pages by the lamplight, letting the clear air drift in. With the heavens so bare, even a brief look up is its own small luxury, and tomorrow\u2019s first light is poised to arrive with an uncomplicated smile.",
-    "color_code": "#0b1a3a",
-    "timestamp": "2026-03-18 22:20:11",
+    "weather_report": "Subiaco wakes under a polished blue sky, the sun already purposeful and clean-edged, lighting up verandas and gum leaves with a gentle glare. Forecasts hold that same clarity through late morning into early afternoon, so expect unbroken sunshine and that sharp, glassy visibility that makes colors snap. The UV will climb quickly toward very high around midday; shade will matter as much as comfort.\n\nIt looks like one of those straightforward, good-natured days: warming as the hours stretch on, dry air and no hint of change. Dress light and breathable, with a brimmed hat, sunglasses, and generous sunscreen; carry water if you\u2019re out past lunchtime. This is a fine morning for unhurried errands on foot, a coffee at a quiet table beneath an awning, or getting the washing on the line to drink in the sun. Around noon, slip indoors for a spell\u2014browse a bookshop, visit a gallery, or catch up at the library\u2014and then, when the light softens, take a short wander through the neighborhood\u2019s leafy streets.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-03-19 09:56:29",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94970921853774,
-        "longitude": 115.8206591043726,
+        "latitude": -31.9496826359846,
+        "longitude": 115.820788571093,
         "timezone": "Australia/Perth"
     }
 }
