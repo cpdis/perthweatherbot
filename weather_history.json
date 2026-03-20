@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-03-12 22:01:25",
-    "location": {
-      "name": "West Perth",
-      "latitude": -31.94391215219333,
-      "longitude": 115.8424733779253,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-03-12T14:01:24+00:00",
-      "temperature_c": 21.6,
-      "temperature_f": 70.88,
-      "humidity": 48,
-      "wind_speed_mph": 16.3301,
-      "wind_direction": 109,
-      "description": "clear sky"
-    },
-    "report_summary": "West Perth settles under a clear, uncomplicated night, the sky rinsed clean and star-pricked. It fee...",
-    "color_code": "#0D1B2A"
-  },
-  {
     "timestamp": "2026-03-13 09:49:09",
     "location": {
       "name": "West Perth",
@@ -298,5 +278,25 @@
     },
     "report_summary": "It\u2019s a quiet Subiaco evening under a clean, inky sky, with only a slow drift of cloud promised later...",
     "color_code": "#0b1e3b"
+  },
+  {
+    "timestamp": "2026-03-20 09:51:02",
+    "location": {
+      "name": "Cottesloe",
+      "latitude": -31.99601940968276,
+      "longitude": 115.7524677508616,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-03-20T01:51:02+00:00",
+      "temperature_c": 28.2,
+      "temperature_f": 82.75999999999999,
+      "humidity": 55,
+      "wind_speed_mph": 0.0,
+      "wind_direction": 0,
+      "description": "broken clouds"
+    },
+    "report_summary": "Mid-morning in Cottesloe feels open and clear, the kind of day where the light drifts through scatte...",
+    "color_code": "#87CEEB"
   }
 ]
