@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-03-15 10:02:23",
-    "location": {
-      "name": "Como",
-      "latitude": -32.00878580019624,
-      "longitude": 115.8550053477338,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-03-15T02:02:22+00:00",
-      "temperature_c": 23.67,
-      "temperature_f": 74.60600000000001,
-      "humidity": 56,
-      "wind_speed_mph": 7.449210000000001,
-      "wind_direction": 119,
-      "description": "clear sky"
-    },
-    "report_summary": "Como wakes to a clean, generous light. The sky is untroubled, the air crisp enough to make your firs...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-03-15 21:43:56",
     "location": {
       "name": "Subiaco",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Subiaco wakes under a patchwork sky, broken cloud letting through generous panes of soft sunlight. T...",
     "color_code": "#AFC8E0"
+  },
+  {
+    "timestamp": "2026-03-22 21:41:24",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.9496982797849,
+      "longitude": 115.820926824828,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-03-22T13:41:24+00:00",
+      "temperature_c": 22.55,
+      "temperature_f": 72.59,
+      "humidity": 56,
+      "wind_speed_mph": 17.26964,
+      "wind_direction": 130,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco settles into a clear, untroubled night. The sky reads like clean glass and will remain that ...",
+    "color_code": "#0a1a4f"
   }
 ]
