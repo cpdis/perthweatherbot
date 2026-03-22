@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2026-03-14 09:46:56",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968143764304,
-      "longitude": 115.8208378769521,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-03-14T01:46:55+00:00",
-      "temperature_c": 22.21,
-      "temperature_f": 71.97800000000001,
-      "humidity": 61,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 110,
-      "description": "broken clouds"
-    },
-    "report_summary": "Subiaco wakes under a quilt of broken cloud, the sun shouldering through in warm flashes that turn t...",
-    "color_code": "#b0c4de"
-  },
-  {
-    "timestamp": "2026-03-14 21:42:26",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967805942407,
-      "longitude": 115.8206320102664,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-03-14T13:42:25+00:00",
-      "temperature_c": 22.32,
-      "temperature_f": 72.176,
-      "humidity": 63,
-      "wind_speed_mph": 18.410510000000002,
-      "wind_direction": 120,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco settles into a clear, quiet night, the sky rinsed clean and studded with patient stars. The ...",
-    "color_code": "#0a1f44"
-  },
-  {
     "timestamp": "2026-03-15 10:02:23",
     "location": {
       "name": "Como",
@@ -298,5 +258,25 @@
     },
     "report_summary": "Morning in Subiaco arrives with a polished, cloudless sky and sunlight that sharpens edges on verand...",
     "color_code": "#87CEFA"
+  },
+  {
+    "timestamp": "2026-03-22 09:56:09",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94967655393723,
+      "longitude": 115.820782450573,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-03-22T01:56:08+00:00",
+      "temperature_c": 23.35,
+      "temperature_f": 74.03,
+      "humidity": 60,
+      "wind_speed_mph": 6.15175,
+      "wind_direction": 153,
+      "description": "broken clouds"
+    },
+    "report_summary": "Subiaco wakes under a patchwork sky, broken cloud letting through generous panes of soft sunlight. T...",
+    "color_code": "#AFC8E0"
   }
 ]
