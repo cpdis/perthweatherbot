@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94967996821607,
-            "longitude": 115.8207846285543
+            "latitude": -31.95039205929755,
+            "longitude": 115.826408993984
         },
         "current_conditions": {
-            "timestamp": "2026-03-23T01:57:40+00:00",
-            "temperature_c": 20.96,
-            "temperature_f": 69.72800000000001,
-            "humidity": 54,
-            "wind_speed_mph": 15.27871,
-            "wind_direction": 116,
-            "description": "clear sky"
+            "timestamp": "2026-03-23T14:14:18+00:00",
+            "temperature_c": 20.78,
+            "temperature_f": 69.404,
+            "humidity": 58,
+            "wind_speed_mph": 19.57375,
+            "wind_direction": 110,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-03-23T03:00:00+00:00",
-                "temperature": 21.91,
-                "windSpeed": 14.40628,
-                "windDirection": 113,
-                "shortForecast": "clear sky"
+                "startTime": "2026-03-23T15:00:00+00:00",
+                "temperature": 20.78,
+                "windSpeed": 13.802290000000001,
+                "windDirection": 111,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-03-23T06:00:00+00:00",
-                "temperature": 22.79,
-                "windSpeed": 11.923210000000001,
-                "windDirection": 125,
-                "shortForecast": "clear sky"
+                "startTime": "2026-03-23T18:00:00+00:00",
+                "temperature": 19.74,
+                "windSpeed": 12.482460000000001,
+                "windDirection": 111,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a lucid, lacquer-blue sky, the sun already sharpening edges and coaxing a soft glare from shopfront glass. The air feels clean and dry, with long views and little in the way of haze. Through late morning into midafternoon the day looks settled and sunny, the sort that makes colors ring true. Expect the UV to climb quickly toward midday; the light will be generous, and unshielded skin will notice it.\n\nDress for warmth that builds: light, breathable fabrics, a hat that earns its keep, sunglasses, and a touch of sunscreen. It\u2019s a good day to move at an easy pace\u2014walk your errands along Rokeby Road before lunch, let the washing take the sun, tend a few pots on the balcony, or sit in the dappled shade with a book and a cool drink. If you\u2019re heading out later, favor shade and water over bravado, then ride the afternoon sea breeze home when it stirs.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-03-23 09:57:41",
+    "weather_report": "Late evening drapes Subiaco in a quilt of broken cloud, the night sky parting now and then to spill a few shy stars. The sun has long since slipped away and with it any bite of UV; the world feels muted and soft, visibility decent but tempered by those passing veils.\n\nAs the hours deepen, the clouds ease to scattered, pointing to a cleaner, gentler dawn rather than a harsh glare. It reads as a pleasant stretch overall. Keep it simple: a light layer or an easy shirt you can pocket if the air holds some warmth; sunscreen can wait until after sunrise. These are good, ordinary hours\u2014an unhurried loop around the block, a rinse for the balcony plants, tidying a patient corner of the kitchen, or finishing a chapter by an open window while the cooler air slips in.",
+    "color_code": "#2b3a55",
+    "timestamp": "2026-03-23 22:14:18",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94967996821607,
-        "longitude": 115.8207846285543,
+        "latitude": -31.95039205929755,
+        "longitude": 115.826408993984,
         "timezone": "Australia/Perth"
     }
 }
