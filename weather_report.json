@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9496982797849,
-            "longitude": 115.820926824828
+            "latitude": -31.94967996821607,
+            "longitude": 115.8207846285543
         },
         "current_conditions": {
-            "timestamp": "2026-03-22T13:41:24+00:00",
-            "temperature_c": 22.55,
-            "temperature_f": 72.59,
-            "humidity": 56,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 130,
+            "timestamp": "2026-03-23T01:57:40+00:00",
+            "temperature_c": 20.96,
+            "temperature_f": 69.72800000000001,
+            "humidity": 54,
+            "wind_speed_mph": 15.27871,
+            "wind_direction": 116,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-03-22T15:00:00+00:00",
-                "temperature": 22.55,
-                "windSpeed": 15.39056,
-                "windDirection": 133,
+                "startTime": "2026-03-23T03:00:00+00:00",
+                "temperature": 21.91,
+                "windSpeed": 14.40628,
+                "windDirection": 113,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-03-22T18:00:00+00:00",
-                "temperature": 21.43,
-                "windSpeed": 14.27206,
-                "windDirection": 132,
+                "startTime": "2026-03-23T06:00:00+00:00",
+                "temperature": 22.79,
+                "windSpeed": 11.923210000000001,
+                "windDirection": 125,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a clear, untroubled night. The sky reads like clean glass and will remain that way, which means when the sun is up it will be full-strength and unfiltered, the UV brisk and insistent; for now, it has ebbed to nothing. Visibility feels pristine, edges sharp, a pleasant stillness in the air that makes the evening inviting rather than stern. Dress simply: comfortable shoes and a light layer over short sleeves for the late errand or a gentle wander; keep a brimmed hat and sunscreen by the door for the next bout of daylight. This is the kind of night for ordinary, satisfying things\u2014airing the rooms, hanging a small load of washing to catch the dry air, wiping down the bicycle, or taking the long way to the corner shop and letting the stars chaperone you home.",
-    "color_code": "#0a1a4f",
-    "timestamp": "2026-03-22 21:41:24",
+    "weather_report": "Subiaco wakes under a lucid, lacquer-blue sky, the sun already sharpening edges and coaxing a soft glare from shopfront glass. The air feels clean and dry, with long views and little in the way of haze. Through late morning into midafternoon the day looks settled and sunny, the sort that makes colors ring true. Expect the UV to climb quickly toward midday; the light will be generous, and unshielded skin will notice it.\n\nDress for warmth that builds: light, breathable fabrics, a hat that earns its keep, sunglasses, and a touch of sunscreen. It\u2019s a good day to move at an easy pace\u2014walk your errands along Rokeby Road before lunch, let the washing take the sun, tend a few pots on the balcony, or sit in the dappled shade with a book and a cool drink. If you\u2019re heading out later, favor shade and water over bravado, then ride the afternoon sea breeze home when it stirs.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-03-23 09:57:41",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.9496982797849,
-        "longitude": 115.820926824828,
+        "latitude": -31.94967996821607,
+        "longitude": 115.8207846285543,
         "timezone": "Australia/Perth"
     }
 }
