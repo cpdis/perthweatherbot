@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Herdsman",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.92780215532246,
-            "longitude": 115.8113308829296
+            "latitude": -31.9496850596336,
+            "longitude": 115.8209188995123
         },
         "current_conditions": {
-            "timestamp": "2026-03-25T01:48:55+00:00",
-            "temperature_c": 20.9,
-            "temperature_f": 69.62,
-            "humidity": 60,
-            "wind_speed_mph": 18.1197,
-            "wind_direction": 107,
-            "description": "broken clouds"
+            "timestamp": "2026-03-25T14:16:44+00:00",
+            "temperature_c": 21.13,
+            "temperature_f": 70.03399999999999,
+            "humidity": 61,
+            "wind_speed_mph": 17.96311,
+            "wind_direction": 103,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-03-25T03:00:00+00:00",
-                "temperature": 21.84,
-                "windSpeed": 18.29866,
-                "windDirection": 104,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-03-25T15:00:00+00:00",
+                "temperature": 20.85,
+                "windSpeed": 18.67895,
+                "windDirection": 106,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-03-25T06:00:00+00:00",
-                "temperature": 23.15,
-                "windSpeed": 17.4486,
-                "windDirection": 100,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-03-25T18:00:00+00:00",
+                "temperature": 20.56,
+                "windSpeed": 19.37242,
+                "windDirection": 97,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Herdsman wakes under a restless quilt of broken cloud, the sun slipping in and out like a shy accomplice. The light is soft but bright enough to cast pale shadows, with good clarity across the lake reeds and rooftops. Even with the patchwork sky, UV will lift toward midday; the sun has teeth behind the veil, so a hat, sunscreen, and sunglasses are sensible companions. The air feels tempered rather than sharp, the kind of morning that invites you out without insisting.\n\nThrough the late morning into the afternoon, expect the clouds to keep drifting in loose ranks, offering intervals of warm brightness and quieter, muted spells. It looks like a dry, pleasant day for ordinary pursuits: a lap around the paths by the water, a short cycle to the shops, pottering in the garden, or sitting by an open window with errands spread across a table. Dress in light layers and breathable fabrics, keep a spare cover for a stray cool patch, and mind the midday sun during the sunnier breaks. The day won\u2019t dazzle, but it will soothe, and that might be exactly right.",
-    "color_code": "#9FB6C6",
-    "timestamp": "2026-03-25 09:54:58",
+    "weather_report": "Subiaco settles into a clear, quietly luminous night, the kind that sharpens edges and hushes the streets. The air feels kind and dry, the sky open and uncomplicated for now; UV is effectively absent, and there\u2019s no glare, only a soft, steady darkness. It is a pleasant evening to exhale the day, with good visibility and a sense of calm that makes walking home feel unhurried.\n\nToward the small hours, light rain is likely to drift in, brushing the roofs and tempering the stillness without much bluster. It won\u2019t be sunny tonight, of course, and the UV will stay negligible until after dawn; clarity will give way to a light, gauzy sheen when the showers arrive. Dress in a light layer for the evening, and if you\u2019ll be out past midnight, fold a compact rain jacket or umbrella into your bag. This is a good time for a short stroll to clear the head, a quiet tram ride with a book, putting the kettle on and sifting tomorrow\u2019s to\u2011dos, or stepping onto the balcony to feel the first drops before turning in.",
+    "color_code": "#1E2A38",
+    "timestamp": "2026-03-25 22:16:44",
     "location": {
-        "name": "Herdsman",
-        "latitude": -31.92780215532246,
-        "longitude": 115.8113308829296,
+        "name": "Subiaco",
+        "latitude": -31.9496850596336,
+        "longitude": 115.8209188995123,
         "timezone": "Australia/Perth"
     }
 }
