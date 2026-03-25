@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Herdsman",
             "country": "AU",
-            "latitude": -31.94970103226514,
-            "longitude": 115.8206808588848
+            "latitude": -31.92780215532246,
+            "longitude": 115.8113308829296
         },
         "current_conditions": {
-            "timestamp": "2026-03-24T14:17:31+00:00",
-            "temperature_c": 20.1,
-            "temperature_f": 68.18,
+            "timestamp": "2026-03-25T01:48:55+00:00",
+            "temperature_c": 20.9,
+            "temperature_f": 69.62,
             "humidity": 60,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 130,
-            "description": "few clouds"
+            "wind_speed_mph": 18.1197,
+            "wind_direction": 107,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-03-24T15:00:00+00:00",
-                "temperature": 20.1,
-                "windSpeed": 14.04836,
-                "windDirection": 123,
-                "shortForecast": "few clouds"
+                "startTime": "2026-03-25T03:00:00+00:00",
+                "temperature": 21.84,
+                "windSpeed": 18.29866,
+                "windDirection": 104,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-03-24T18:00:00+00:00",
-                "temperature": 19.35,
-                "windSpeed": 13.46674,
-                "windDirection": 134,
-                "shortForecast": "few clouds"
+                "startTime": "2026-03-25T06:00:00+00:00",
+                "temperature": 23.15,
+                "windSpeed": 17.4486,
+                "windDirection": 100,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a gentle night, the sky mostly clear with a scatter of quiet cloud, streetlights humming and a soft breeze smoothing the edges of things. Visibility is clean, the air untroubled, and the UV has put its tools away for the evening. This clarity lingers toward midnight and beyond; if it holds, morning is likely to open bright with only a few harmless tufts drifting by, a day shaped for sunshine rather than shade.\n\nIt feels pleasantly calm rather than cold, the kind of evening for a light layer or an easy cardigan, comfortable shoes if you\u2019re stepping out. A short walk to clear the head, a balcony chat with the night air, or tidying the desk for an early start would all suit the mood. Windows can be cracked to invite the faint cool in, and if you\u2019re up a bit later, a look skyward may reward you with a handful of steady stars. Plan tomorrow as if the sun will be generous, but tonight belongs to the soft blue hush and the steady comfort of few clouds and uncomplicated weather.",
-    "color_code": "#0D1B2A",
-    "timestamp": "2026-03-24 22:17:31",
+    "weather_report": "Herdsman wakes under a restless quilt of broken cloud, the sun slipping in and out like a shy accomplice. The light is soft but bright enough to cast pale shadows, with good clarity across the lake reeds and rooftops. Even with the patchwork sky, UV will lift toward midday; the sun has teeth behind the veil, so a hat, sunscreen, and sunglasses are sensible companions. The air feels tempered rather than sharp, the kind of morning that invites you out without insisting.\n\nThrough the late morning into the afternoon, expect the clouds to keep drifting in loose ranks, offering intervals of warm brightness and quieter, muted spells. It looks like a dry, pleasant day for ordinary pursuits: a lap around the paths by the water, a short cycle to the shops, pottering in the garden, or sitting by an open window with errands spread across a table. Dress in light layers and breathable fabrics, keep a spare cover for a stray cool patch, and mind the midday sun during the sunnier breaks. The day won\u2019t dazzle, but it will soothe, and that might be exactly right.",
+    "color_code": "#9FB6C6",
+    "timestamp": "2026-03-25 09:54:58",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94970103226514,
-        "longitude": 115.8206808588848,
+        "name": "Herdsman",
+        "latitude": -31.92780215532246,
+        "longitude": 115.8113308829296,
         "timezone": "Australia/Perth"
     }
 }
