@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Cottesloe",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.99607495,
-            "longitude": 115.7525343666667
+            "latitude": -31.94971222121609,
+            "longitude": 115.8207497482007
         },
         "current_conditions": {
-            "timestamp": "2026-03-27T02:01:48+00:00",
-            "temperature_c": 18.61,
-            "temperature_f": 65.498,
-            "humidity": 89,
-            "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 60,
-            "description": "heavy intensity rain"
+            "timestamp": "2026-03-27T14:09:51+00:00",
+            "temperature_c": 17.77,
+            "temperature_f": 63.986000000000004,
+            "humidity": 79,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 70,
+            "description": "light intensity shower rain"
         },
         "forecast": [
             {
-                "startTime": "2026-03-27T03:00:00+00:00",
-                "temperature": 18.61,
-                "windSpeed": 20.69225,
-                "windDirection": 78,
-                "shortForecast": "moderate rain"
+                "startTime": "2026-03-27T15:00:00+00:00",
+                "temperature": 17.77,
+                "windSpeed": 16.53143,
+                "windDirection": 99,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-03-27T06:00:00+00:00",
-                "temperature": 18.67,
-                "windSpeed": 17.851260000000003,
-                "windDirection": 79,
-                "shortForecast": "moderate rain"
+                "startTime": "2026-03-27T18:00:00+00:00",
+                "temperature": 18.09,
+                "windSpeed": 15.905070000000002,
+                "windDirection": 72,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Cottesloe wakes under a brooding sky, the sea turned to pewter and the air carrying that quiet, rain-scented hush. It feels mild and a touch humid, with the light flattened so that colors lean toward slate and blue. Sunshine will be scarce, more a pale glow behind cloud than a companion; the UV is mostly muted, though a passing tear in the overcast near midday could still nip at exposed skin.\n\nShowers gather through late morning and settle into steady, moderate rain into the early afternoon, softening the horizon and smudging the view down the coast. It\u2019s not an unkind day, just a contemplative one. A light waterproof over breathable layers will feel right, with comfortable closed shoes and a small umbrella to negotiate the slick footpaths. Think small pleasures: a window seat for a slow coffee, a quiet browse at the local shops between squalls, or a brief walk along the beach path when the rain slackens, watching the surf thicken and the gulls work the wind. Sunscreen can stay in the bag most of the time, but keep a dab handy in case the clouds briefly thin.",
-    "color_code": "#6E7F9A",
-    "timestamp": "2026-03-27 10:01:48",
+    "weather_report": "Subiaco settles under a soft, persistent veil of light rain, the streets glazed and reflective, the air smelling faintly of dust turned to clay. Clouds keep the night close and hushed, lending the scene a dim, pewter glow with little in the way of sky or stars. With showers drifting through late this evening and again toward the small hours, the world feels muffled and slow. Sunshine is off the stage for now and the UV burden is essentially none; clarity is more watercolor than line drawing, edges softened by drizzle but visibility steady.\n\nIt\u2019s a night for a light waterproof and sensible shoes, perhaps a hood rather than the theatre of an umbrella in narrow lanes. If you\u2019re headed out, move at the pace of the weather; if you\u2019re staying in, let the rain be your metronome for quiet chores, a letter half-written, or tomorrow\u2019s list. A gentle stroll beneath the awnings suits the mood; otherwise, warm light, a cup of something steady, and the consolation of being indoors while the world is rinsed clean.",
+    "color_code": "#2E3B4E",
+    "timestamp": "2026-03-27 22:09:52",
     "location": {
-        "name": "Cottesloe",
-        "latitude": -31.99607495,
-        "longitude": 115.7525343666667,
+        "name": "Subiaco",
+        "latitude": -31.94971222121609,
+        "longitude": 115.8207497482007,
         "timezone": "Australia/Perth"
     }
 }
