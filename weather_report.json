@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Cottesloe",
             "country": "AU",
-            "latitude": -31.94968778248104,
-            "longitude": 115.8209259448573
+            "latitude": -31.99607495,
+            "longitude": 115.7525343666667
         },
         "current_conditions": {
-            "timestamp": "2026-03-26T14:23:26+00:00",
-            "temperature_c": 26.63,
-            "temperature_f": 79.934,
-            "humidity": 52,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 70,
-            "description": "clear sky"
+            "timestamp": "2026-03-27T02:01:48+00:00",
+            "temperature_c": 18.61,
+            "temperature_f": 65.498,
+            "humidity": 89,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 60,
+            "description": "heavy intensity rain"
         },
         "forecast": [
             {
-                "startTime": "2026-03-26T15:00:00+00:00",
-                "temperature": 26.63,
-                "windSpeed": 10.71523,
-                "windDirection": 56,
-                "shortForecast": "clear sky"
+                "startTime": "2026-03-27T03:00:00+00:00",
+                "temperature": 18.61,
+                "windSpeed": 20.69225,
+                "windDirection": 78,
+                "shortForecast": "moderate rain"
             },
             {
-                "startTime": "2026-03-26T18:00:00+00:00",
-                "temperature": 26.52,
-                "windSpeed": 12.929860000000001,
-                "windDirection": 65,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-03-27T06:00:00+00:00",
+                "temperature": 18.67,
+                "windSpeed": 17.851260000000003,
+                "windDirection": 79,
+                "shortForecast": "moderate rain"
             }
         ]
     },
-    "weather_report": "Subiaco has settled into a quiet, crystalline night. The sky is clearing toward late evening, with only thin company of scattered cloud drifting in after midnight. There\u2019s no sun to speak of now and the UV is essentially asleep; clarity is the story instead, the kind that sharpens edges and carries sound a little farther down the street. If you\u2019re up before dawn, expect a few veils of cloud, but nothing heavy enough to smother the calm.\n\nDress lightly but bring a soft layer for the late-night cool. It\u2019s a good time for a gentle loop around the block, to stretch the day out just a touch, or to sit by an open window with a glass of water and the last pages of something half-finished. Skip the sunscreen tonight and stash it by the door for tomorrow; for now, let the air do the work, water a plant, set the kettle, and let the evening close itself.",
-    "color_code": "#0D1B2A",
-    "timestamp": "2026-03-26 22:23:27",
+    "weather_report": "Cottesloe wakes under a brooding sky, the sea turned to pewter and the air carrying that quiet, rain-scented hush. It feels mild and a touch humid, with the light flattened so that colors lean toward slate and blue. Sunshine will be scarce, more a pale glow behind cloud than a companion; the UV is mostly muted, though a passing tear in the overcast near midday could still nip at exposed skin.\n\nShowers gather through late morning and settle into steady, moderate rain into the early afternoon, softening the horizon and smudging the view down the coast. It\u2019s not an unkind day, just a contemplative one. A light waterproof over breathable layers will feel right, with comfortable closed shoes and a small umbrella to negotiate the slick footpaths. Think small pleasures: a window seat for a slow coffee, a quiet browse at the local shops between squalls, or a brief walk along the beach path when the rain slackens, watching the surf thicken and the gulls work the wind. Sunscreen can stay in the bag most of the time, but keep a dab handy in case the clouds briefly thin.",
+    "color_code": "#6E7F9A",
+    "timestamp": "2026-03-27 10:01:48",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968778248104,
-        "longitude": 115.8209259448573,
+        "name": "Cottesloe",
+        "latitude": -31.99607495,
+        "longitude": 115.7525343666667,
         "timezone": "Australia/Perth"
     }
 }
