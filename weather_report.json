@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94971222121609,
-            "longitude": 115.8207497482007
+            "latitude": -31.94968229493867,
+            "longitude": 115.8208145764921
         },
         "current_conditions": {
-            "timestamp": "2026-03-27T14:09:51+00:00",
-            "temperature_c": 17.77,
-            "temperature_f": 63.986000000000004,
-            "humidity": 79,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 70,
-            "description": "light intensity shower rain"
+            "timestamp": "2026-03-28T01:53:08+00:00",
+            "temperature_c": 17.67,
+            "temperature_f": 63.806000000000004,
+            "humidity": 91,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 150,
+            "description": "drizzle"
         },
         "forecast": [
             {
-                "startTime": "2026-03-27T15:00:00+00:00",
-                "temperature": 17.77,
-                "windSpeed": 16.53143,
-                "windDirection": 99,
-                "shortForecast": "light rain"
+                "startTime": "2026-03-28T03:00:00+00:00",
+                "temperature": 17.67,
+                "windSpeed": 5.79383,
+                "windDirection": 83,
+                "shortForecast": "moderate rain"
             },
             {
-                "startTime": "2026-03-27T18:00:00+00:00",
-                "temperature": 18.09,
-                "windSpeed": 15.905070000000002,
-                "windDirection": 72,
+                "startTime": "2026-03-28T06:00:00+00:00",
+                "temperature": 18.03,
+                "windSpeed": 12.370610000000001,
+                "windDirection": 307,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Subiaco settles under a soft, persistent veil of light rain, the streets glazed and reflective, the air smelling faintly of dust turned to clay. Clouds keep the night close and hushed, lending the scene a dim, pewter glow with little in the way of sky or stars. With showers drifting through late this evening and again toward the small hours, the world feels muffled and slow. Sunshine is off the stage for now and the UV burden is essentially none; clarity is more watercolor than line drawing, edges softened by drizzle but visibility steady.\n\nIt\u2019s a night for a light waterproof and sensible shoes, perhaps a hood rather than the theatre of an umbrella in narrow lanes. If you\u2019re headed out, move at the pace of the weather; if you\u2019re staying in, let the rain be your metronome for quiet chores, a letter half-written, or tomorrow\u2019s list. A gentle stroll beneath the awnings suits the mood; otherwise, warm light, a cup of something steady, and the consolation of being indoors while the world is rinsed clean.",
-    "color_code": "#2E3B4E",
-    "timestamp": "2026-03-27 22:09:52",
+    "weather_report": "Subiaco wakes under a quilt of grey, the light soft and a little sullen, with showers mustering offshore. Expect a heavier burst of rain to sweep through late morning, easing to a gentler, on\u2011and\u2011off drizzle through the afternoon. Sunshine will stay mostly veiled, arriving only in brief, silvery breaks; the UV should be subdued, likely only moderate around midday, though any sudden bright patch can still nip at exposed skin. The air will feel clean and a touch humid, the day\u2019s edges blurred by rain, more cozy than sparkling.\n\nDress for damp ambles: a light waterproof layer, comfortable closed shoes, and an umbrella you don\u2019t mind carrying. This is a day for a window seat and a steady cup of coffee, a quick errand run before the midday band arrives, or a meander through a bookshop or gallery while the streets glisten. If you\u2019re staying in, let the weather set a quiet rhythm: sort a drawer, tend to the houseplants, and step onto the veranda when the patter softens to breathe in that rain\u2011washed scent.",
+    "color_code": "#778899",
+    "timestamp": "2026-03-28 09:53:08",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94971222121609,
-        "longitude": 115.8207497482007,
+        "latitude": -31.94968229493867,
+        "longitude": 115.8208145764921,
         "timezone": "Australia/Perth"
     }
 }
