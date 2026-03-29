@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Wembley",
+            "name": "Cottesloe",
             "country": "AU",
-            "latitude": -31.93335957037407,
-            "longitude": 115.8244356692591
+            "latitude": -32.00562082884406,
+            "longitude": 115.7518979503361
         },
         "current_conditions": {
-            "timestamp": "2026-03-29T02:04:25+00:00",
-            "temperature_c": 22.28,
-            "temperature_f": 72.104,
-            "humidity": 75,
-            "wind_speed_mph": 11.162630000000002,
-            "wind_direction": 254,
-            "description": "overcast clouds"
+            "timestamp": "2026-03-29T13:50:55+00:00",
+            "temperature_c": 20.65,
+            "temperature_f": 69.17,
+            "humidity": 78,
+            "wind_speed_mph": 8.56771,
+            "wind_direction": 236,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-03-29T03:00:00+00:00",
-                "temperature": 23.03,
-                "windSpeed": 11.050780000000001,
-                "windDirection": 254,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-03-29T15:00:00+00:00",
+                "temperature": 20.44,
+                "windSpeed": 11.49818,
+                "windDirection": 245,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-03-29T06:00:00+00:00",
-                "temperature": 23.83,
-                "windSpeed": 10.37968,
-                "windDirection": 256,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-03-29T18:00:00+00:00",
+                "temperature": 19.99,
+                "windSpeed": 10.17835,
+                "windDirection": 259,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Morning in Wembley arrives under a smooth grey lid, the sun reduced to a pale suggestion behind it. Expect the overcast to linger through the day, perhaps thinning for a shy brightening but rarely breaking open; it will not be a sunny one. UV stays low, rising only slightly toward midday but kept in check by the blanket of cloud. The light is soft and forgiving, with smudged horizons and few true shadows, the sort of day that flattens colors and quiets the eye.\n\nDress in easy layers and a light jacket, something that keeps out a cool edge without feeling heavy. A scarf wouldn\u2019t be out of place; sunglasses can rest at home. Shoes for long pavements will suit a slow errand loop or a measured walk to the shops, and if you\u2019re cautious, tuck a compact umbrella in your bag though the sky mainly broods rather than acts. It\u2019s a gentle day for unhurried tasks: a late coffee by a window, a tidy of the desk, a library run, or a steady lap of the park where the diffused light simplifies everything.",
-    "color_code": "#9AA1A8",
-    "timestamp": "2026-03-29 10:04:26",
+    "weather_report": "Night has settled over Cottesloe with the sea breathing quietly and a dampness building in the breeze. Light rain drifts in near late evening, a passing veil that leaves the streets glossed and the air smelling of salt and wet stone; by the small hours, the cloud looks to break, offering a few shy stars. There\u2019s no sun to speak of now and the UV rests at zero; visibility feels soft around the lamps, then a shade clearer toward dawn as the sky loosens.\n\nDress for a gentle soak: a light waterproof or hooded layer, something easy over the shoulders, and shoes you don\u2019t mind speckled by drizzle. If you\u2019re up with first light, expect a muted sunrise through torn cloud and the usual climb in UV once the day gets going, so sunglasses and a dab of sunscreen won\u2019t go astray. It\u2019s a good evening to tie up small chores, write a quiet note, or take a brief, unhurried walk between showers; early risers might linger over a coffee on the veranda and watch the morning make up its mind.",
+    "color_code": "#2F4156",
+    "timestamp": "2026-03-29 21:50:56",
     "location": {
-        "name": "Wembley",
-        "latitude": -31.93335957037407,
-        "longitude": 115.8244356692591,
+        "name": "Cottesloe",
+        "latitude": -32.00562082884406,
+        "longitude": 115.7518979503361,
         "timezone": "Australia/Perth"
     }
 }
