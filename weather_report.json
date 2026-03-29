@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Wembley",
             "country": "AU",
-            "latitude": -31.94698916666667,
-            "longitude": 115.8198806
+            "latitude": -31.93335957037407,
+            "longitude": 115.8244356692591
         },
         "current_conditions": {
-            "timestamp": "2026-03-28T13:48:45+00:00",
-            "temperature_c": 20.87,
-            "temperature_f": 69.566,
-            "humidity": 89,
-            "wind_speed_mph": 11.54292,
-            "wind_direction": 295,
+            "timestamp": "2026-03-29T02:04:25+00:00",
+            "temperature_c": 22.28,
+            "temperature_f": 72.104,
+            "humidity": 75,
+            "wind_speed_mph": 11.162630000000002,
+            "wind_direction": 254,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-03-28T15:00:00+00:00",
-                "temperature": 20.68,
-                "windSpeed": 12.14691,
-                "windDirection": 299,
-                "shortForecast": "light rain"
+                "startTime": "2026-03-29T03:00:00+00:00",
+                "temperature": 23.03,
+                "windSpeed": 11.050780000000001,
+                "windDirection": 254,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-03-28T18:00:00+00:00",
-                "temperature": 21.14,
-                "windSpeed": 11.341590000000002,
-                "windDirection": 293,
-                "shortForecast": "light rain"
+                "startTime": "2026-03-29T06:00:00+00:00",
+                "temperature": 23.83,
+                "windSpeed": 10.37968,
+                "windDirection": 256,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Night has settled over Subiaco with a soft, persistent patter; light rain is moving through now and another, quieter pulse is likely later in the night. The sky is sealed in charcoal cloud, streetlights smeared to a gentle halo, and the air feels kind. There will be no sunshine to speak of until morning; the UV is negligible, and the world is reduced to wet pavement, reflected neon, and the hush that follows steady showers. Clarity is muted rather than murky\u2014edges blurred, colors deepened, the sort of damp that invites a slower pace.\n\nDress for a mild soak: a light waterproof or a hooded jacket, something you won\u2019t mind speckled with drizzle, and shoes that grip on slick tiles. It\u2019s a good night for small, ordinary comforts\u2014fetching a loaf from the corner shop between showers, finishing the washing up while the rain keeps time on the eaves, or reading a few unrushed pages under a covered porch. If you\u2019re headed out later or rising early, expect glistening footpaths and an easy, reflective mood to the streets.",
-    "color_code": "#2c3e50",
-    "timestamp": "2026-03-28 21:48:45",
+    "weather_report": "Morning in Wembley arrives under a smooth grey lid, the sun reduced to a pale suggestion behind it. Expect the overcast to linger through the day, perhaps thinning for a shy brightening but rarely breaking open; it will not be a sunny one. UV stays low, rising only slightly toward midday but kept in check by the blanket of cloud. The light is soft and forgiving, with smudged horizons and few true shadows, the sort of day that flattens colors and quiets the eye.\n\nDress in easy layers and a light jacket, something that keeps out a cool edge without feeling heavy. A scarf wouldn\u2019t be out of place; sunglasses can rest at home. Shoes for long pavements will suit a slow errand loop or a measured walk to the shops, and if you\u2019re cautious, tuck a compact umbrella in your bag though the sky mainly broods rather than acts. It\u2019s a gentle day for unhurried tasks: a late coffee by a window, a tidy of the desk, a library run, or a steady lap of the park where the diffused light simplifies everything.",
+    "color_code": "#9AA1A8",
+    "timestamp": "2026-03-29 10:04:26",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94698916666667,
-        "longitude": 115.8198806,
+        "name": "Wembley",
+        "latitude": -31.93335957037407,
+        "longitude": 115.8244356692591,
         "timezone": "Australia/Perth"
     }
 }
