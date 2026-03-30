@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Cottesloe",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -32.00562082884406,
-            "longitude": 115.7518979503361
+            "latitude": -31.94966104043597,
+            "longitude": 115.8208142420592
         },
         "current_conditions": {
-            "timestamp": "2026-03-29T13:50:55+00:00",
-            "temperature_c": 20.65,
-            "temperature_f": 69.17,
-            "humidity": 78,
-            "wind_speed_mph": 8.56771,
-            "wind_direction": 236,
+            "timestamp": "2026-03-30T02:06:58+00:00",
+            "temperature_c": 20.93,
+            "temperature_f": 69.674,
+            "humidity": 63,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 250,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-03-29T15:00:00+00:00",
-                "temperature": 20.44,
-                "windSpeed": 11.49818,
-                "windDirection": 245,
+                "startTime": "2026-03-30T03:00:00+00:00",
+                "temperature": 20.93,
+                "windSpeed": 12.50483,
+                "windDirection": 253,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-03-29T18:00:00+00:00",
-                "temperature": 19.99,
-                "windSpeed": 10.17835,
-                "windDirection": 259,
+                "startTime": "2026-03-30T06:00:00+00:00",
+                "temperature": 21.41,
+                "windSpeed": 15.905070000000002,
+                "windDirection": 256,
                 "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Night has settled over Cottesloe with the sea breathing quietly and a dampness building in the breeze. Light rain drifts in near late evening, a passing veil that leaves the streets glossed and the air smelling of salt and wet stone; by the small hours, the cloud looks to break, offering a few shy stars. There\u2019s no sun to speak of now and the UV rests at zero; visibility feels soft around the lamps, then a shade clearer toward dawn as the sky loosens.\n\nDress for a gentle soak: a light waterproof or hooded layer, something easy over the shoulders, and shoes you don\u2019t mind speckled by drizzle. If you\u2019re up with first light, expect a muted sunrise through torn cloud and the usual climb in UV once the day gets going, so sunglasses and a dab of sunscreen won\u2019t go astray. It\u2019s a good evening to tie up small chores, write a quiet note, or take a brief, unhurried walk between showers; early risers might linger over a coffee on the veranda and watch the morning make up its mind.",
-    "color_code": "#2F4156",
-    "timestamp": "2026-03-29 21:50:56",
+    "weather_report": "The morning in Subiaco feels washed and quiet, cloud-draped with a promise of light rain drifting through before noon. Pavements take on a soft sheen, colors deepen, and the air tastes faintly of wet stone. It\u2019s not a sunlit start; the sky sits low and textured, the horizon a little softened, but the breeze is kind and steady, more gentle than stern.\n\nThrough the day the rain should ease to a ceiling of broken cloud, with the sun pushing through in brief, silvery intervals. It won\u2019t be a particularly sunny day, yet when those brighter spells arrive the UV can still nip at exposed skin, especially around early afternoon, so a touch of sunscreen and a brim won\u2019t be wasted. Dress in light layers with a packable rain shell and shoes you don\u2019t mind finding puddles; the air is mild rather than cold. Good moments today: a midmorning coffee under an awning while the shower passes, a tidy of the desk or pantry, a quick loop of the block after lunch when the clouds part, or a quiet browse in the bookshop where umbrellas rest in a vase by the door.",
+    "color_code": "#8FA3B8",
+    "timestamp": "2026-03-30 10:06:58",
     "location": {
-        "name": "Cottesloe",
-        "latitude": -32.00562082884406,
-        "longitude": 115.7518979503361,
+        "name": "Subiaco",
+        "latitude": -31.94966104043597,
+        "longitude": 115.8208142420592,
         "timezone": "Australia/Perth"
     }
 }
