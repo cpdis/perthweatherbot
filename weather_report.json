@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94966104043597,
-            "longitude": 115.8208142420592
+            "latitude": -31.94968894250145,
+            "longitude": 115.8209097102045
         },
         "current_conditions": {
-            "timestamp": "2026-03-30T02:06:58+00:00",
-            "temperature_c": 20.93,
-            "temperature_f": 69.674,
-            "humidity": 63,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 250,
-            "description": "broken clouds"
+            "timestamp": "2026-03-30T14:24:42+00:00",
+            "temperature_c": 18.73,
+            "temperature_f": 65.714,
+            "humidity": 73,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 230,
+            "description": "light intensity shower rain"
         },
         "forecast": [
             {
-                "startTime": "2026-03-30T03:00:00+00:00",
-                "temperature": 20.93,
-                "windSpeed": 12.50483,
-                "windDirection": 253,
+                "startTime": "2026-03-30T15:00:00+00:00",
+                "temperature": 18.73,
+                "windSpeed": 16.88935,
+                "windDirection": 234,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-03-30T06:00:00+00:00",
-                "temperature": 21.41,
-                "windSpeed": 15.905070000000002,
-                "windDirection": 256,
+                "startTime": "2026-03-30T18:00:00+00:00",
+                "temperature": 18.13,
+                "windSpeed": 14.02599,
+                "windDirection": 234,
                 "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "The morning in Subiaco feels washed and quiet, cloud-draped with a promise of light rain drifting through before noon. Pavements take on a soft sheen, colors deepen, and the air tastes faintly of wet stone. It\u2019s not a sunlit start; the sky sits low and textured, the horizon a little softened, but the breeze is kind and steady, more gentle than stern.\n\nThrough the day the rain should ease to a ceiling of broken cloud, with the sun pushing through in brief, silvery intervals. It won\u2019t be a particularly sunny day, yet when those brighter spells arrive the UV can still nip at exposed skin, especially around early afternoon, so a touch of sunscreen and a brim won\u2019t be wasted. Dress in light layers with a packable rain shell and shoes you don\u2019t mind finding puddles; the air is mild rather than cold. Good moments today: a midmorning coffee under an awning while the shower passes, a tidy of the desk or pantry, a quick loop of the block after lunch when the clouds part, or a quiet browse in the bookshop where umbrellas rest in a vase by the door.",
-    "color_code": "#8FA3B8",
-    "timestamp": "2026-03-30 10:06:58",
+    "weather_report": "Night has settled over Subiaco with the streets darkened to a soft sheen; a light rain is due around 11, tapering toward the small hours as the sky breaks into ragged pieces of cloud. It won\u2019t be sunny tonight, of course, and the UV index is effectively asleep; even toward dawn any light will be filtered and gentle, with clarity improving only in fits between the clouds. The mood is calm and faintly reflective, the sort of weather that hushes traffic and sharpens the scent of wet leaves.\n\nIt\u2019s a pleasant evening if you\u2019re dressed for the damp: a light waterproof layer, closed shoes with some grip, and a compact umbrella if you\u2019re wandering. If you\u2019re staying in, finish that half-read paperback, set out tomorrow\u2019s essentials, or step outside between showers to feel the cool air on your face. Early risers should expect a mottled sky rather than a blazing sunrise; plan sun protection later in the day if you\u2019ll be out once the sun gathers strength.",
+    "color_code": "#2f3e4e",
+    "timestamp": "2026-03-30 22:24:43",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94966104043597,
-        "longitude": 115.8208142420592,
+        "latitude": -31.94968894250145,
+        "longitude": 115.8209097102045,
         "timezone": "Australia/Perth"
     }
 }
