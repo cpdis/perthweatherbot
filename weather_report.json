@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Herdsman",
             "country": "AU",
-            "latitude": -31.94965677143434,
-            "longitude": 115.8208187219039
+            "latitude": -31.92721339067973,
+            "longitude": 115.8096690447455
         },
         "current_conditions": {
-            "timestamp": "2026-03-31T02:02:56+00:00",
-            "temperature_c": 19.67,
-            "temperature_f": 67.406,
-            "humidity": 57,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 220,
-            "description": "broken clouds"
+            "timestamp": "2026-04-01T02:11:25+00:00",
+            "temperature_c": 21.23,
+            "temperature_f": 70.214,
+            "humidity": 58,
+            "wind_speed_mph": 1.99093,
+            "wind_direction": 76,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-03-31T03:00:00+00:00",
-                "temperature": 19.67,
-                "windSpeed": 11.67714,
-                "windDirection": 234,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-04-01T03:00:00+00:00",
+                "temperature": 21.23,
+                "windSpeed": 2.57255,
+                "windDirection": 216,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-03-31T06:00:00+00:00",
-                "temperature": 20.73,
-                "windSpeed": 13.13119,
-                "windDirection": 238,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-04-01T06:00:00+00:00",
+                "temperature": 22.04,
+                "windSpeed": 11.050780000000001,
+                "windDirection": 226,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Late morning in Subiaco arrives under a quilt of broken cloud, sunlight slipping between seams and brightening the streets in irregular waves. The pattern looks set to hold into the afternoon: alternating warmth and shade, a softened, silvery light, and clear views down the avenues without haze. It\u2019s not a glaring day, but when the sun finds the gaps it will still have a little bite; even with cloud about, midday UV can be deceptively strong, so bring a hat, sunglasses, and a touch of sunscreen.\n\nAltogether it feels quietly pleasant, the sort of day that rewards unhurried routines. Dress in light layers you can shrug on and off as the light shifts. Good hours for a stroll to the shops, a coffee on a terrace, tidying the balcony plants, or cycling a short errand before lunch. If you\u2019re staying in, set up by a window and let the intermittent brightness pace your work, like a metronome of sun and shade.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-03-31 10:02:56",
+    "weather_report": "Herdsman wakes under a soft grey lid this late morning; the sun is a rumor behind an even light, and shadows barely form. The air feels settled more than cold, with that hushed, matte clarity you get when clouds smooth the edges of things. Expect little sparkle or glare; UV should stay on the low to moderate side under this blanket, still worth a light touch of protection if you plan to linger outdoors.\n\nThe overcast is set to hold through midday and into the afternoon, keeping the day gentle, muted, and perfectly serviceable for ordinary business. Dress in easy layers\u2014a breathable long sleeve or light cardigan over a tee\u2014and skip the heavy sunhat; sunglasses may still help with the flat light. It\u2019s a good window for a steady walk along the lake paths, a quiet loop to the shops for those small errands you\u2019ve been postponing, or a bit of unhurried tidying in the garden without breaking a sweat; indoors, a corner table by a window and a warm drink will suit the soft, even daylight.",
+    "color_code": "#9BA3AB",
+    "timestamp": "2026-04-01 10:11:26",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94965677143434,
-        "longitude": 115.8208187219039,
+        "name": "Herdsman",
+        "latitude": -31.92721339067973,
+        "longitude": 115.8096690447455,
         "timezone": "Australia/Perth"
     }
 }

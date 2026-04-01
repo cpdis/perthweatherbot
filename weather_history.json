@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 09:49:26",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.95039205929755,
-      "longitude": 115.826408993984,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-03-24T01:49:26+00:00",
-      "temperature_c": 21.99,
-      "temperature_f": 71.582,
-      "humidity": 58,
-      "wind_speed_mph": 6.86759,
-      "wind_direction": 123,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes bright and uncomplicated this morning, the sky rinsed clean and blue, edges of buildin...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2026-03-24 22:17:31",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970103226514,
-      "longitude": 115.8206808588848,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-03-24T14:17:31+00:00",
-      "temperature_c": 20.1,
-      "temperature_f": 68.18,
-      "humidity": 60,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 130,
-      "description": "few clouds"
-    },
-    "report_summary": "Subiaco settles into a gentle night, the sky mostly clear with a scatter of quiet cloud, streetlight...",
-    "color_code": "#0D1B2A"
-  },
-  {
     "timestamp": "2026-03-25 09:54:58",
     "location": {
       "name": "Herdsman",
@@ -298,5 +258,25 @@
     },
     "report_summary": "Late morning in Subiaco arrives under a quilt of broken cloud, sunlight slipping between seams and b...",
     "color_code": "#B0C4DE"
+  },
+  {
+    "timestamp": "2026-04-01 10:11:26",
+    "location": {
+      "name": "Herdsman",
+      "latitude": -31.92721339067973,
+      "longitude": 115.8096690447455,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-04-01T02:11:25+00:00",
+      "temperature_c": 21.23,
+      "temperature_f": 70.214,
+      "humidity": 58,
+      "wind_speed_mph": 1.99093,
+      "wind_direction": 76,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Herdsman wakes under a soft grey lid this late morning; the sun is a rumor behind an even light, and...",
+    "color_code": "#9BA3AB"
   }
 ]
