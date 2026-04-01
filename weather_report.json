@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Herdsman",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.92721339067973,
-            "longitude": 115.8096690447455
+            "latitude": -31.94969672041634,
+            "longitude": 115.8209274377005
         },
         "current_conditions": {
-            "timestamp": "2026-04-01T02:11:25+00:00",
-            "temperature_c": 21.23,
-            "temperature_f": 70.214,
-            "humidity": 58,
-            "wind_speed_mph": 1.99093,
-            "wind_direction": 76,
-            "description": "overcast clouds"
+            "timestamp": "2026-04-01T14:27:01+00:00",
+            "temperature_c": 16.94,
+            "temperature_f": 62.492000000000004,
+            "humidity": 76,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 180,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-04-01T03:00:00+00:00",
-                "temperature": 21.23,
-                "windSpeed": 2.57255,
-                "windDirection": 216,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-04-01T15:00:00+00:00",
+                "temperature": 16.94,
+                "windSpeed": 11.386330000000001,
+                "windDirection": 162,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-04-01T06:00:00+00:00",
-                "temperature": 22.04,
-                "windSpeed": 11.050780000000001,
-                "windDirection": 226,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-04-01T18:00:00+00:00",
+                "temperature": 16.24,
+                "windSpeed": 9.08222,
+                "windDirection": 158,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Herdsman wakes under a soft grey lid this late morning; the sun is a rumor behind an even light, and shadows barely form. The air feels settled more than cold, with that hushed, matte clarity you get when clouds smooth the edges of things. Expect little sparkle or glare; UV should stay on the low to moderate side under this blanket, still worth a light touch of protection if you plan to linger outdoors.\n\nThe overcast is set to hold through midday and into the afternoon, keeping the day gentle, muted, and perfectly serviceable for ordinary business. Dress in easy layers\u2014a breathable long sleeve or light cardigan over a tee\u2014and skip the heavy sunhat; sunglasses may still help with the flat light. It\u2019s a good window for a steady walk along the lake paths, a quiet loop to the shops for those small errands you\u2019ve been postponing, or a bit of unhurried tidying in the garden without breaking a sweat; indoors, a corner table by a window and a warm drink will suit the soft, even daylight.",
-    "color_code": "#9BA3AB",
-    "timestamp": "2026-04-01 10:11:26",
+    "weather_report": "Subiaco settles into a quiet, cloudless night. The sky is rinsed clean, stars sharp as pinpricks, and the air feels unhurried. With no sun on the stage, the UV sits at near-nothing, and the clarity holds steady through the small hours. It\u2019s the kind of evening that invites a slower stride and a softer voice.\n\nExpect the calm to linger overnight, pleasant in a simple, unassuming way. A light layer will be enough if you linger outdoors; long sleeves, easy shoes, nothing fussy. Good moments now: a gentle loop around the block, watering the balcony pots, putting tomorrow\u2019s bag by the door, a chapter or two with the windows cracked. If you\u2019re up with first light, a bright, unblinking morning is likely under the same clear spell; UV will wake quickly, so think sunglasses, hat, and a touch of sunscreen if you step out after breakfast.",
+    "color_code": "#0b1a3a",
+    "timestamp": "2026-04-01 22:27:01",
     "location": {
-        "name": "Herdsman",
-        "latitude": -31.92721339067973,
-        "longitude": 115.8096690447455,
+        "name": "Subiaco",
+        "latitude": -31.94969672041634,
+        "longitude": 115.8209274377005,
         "timezone": "Australia/Perth"
     }
 }
