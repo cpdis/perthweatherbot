@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "North Beach",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.86662527656604,
-            "longitude": 115.7580713099883
+            "latitude": -31.95420305230262,
+            "longitude": 115.8524828108314
         },
         "current_conditions": {
-            "timestamp": "2026-04-03T02:00:34+00:00",
-            "temperature_c": 24.41,
-            "temperature_f": 75.938,
-            "humidity": 55,
-            "wind_speed_mph": 5.99516,
-            "wind_direction": 106,
+            "timestamp": "2026-04-03T14:01:22+00:00",
+            "temperature_c": 20.62,
+            "temperature_f": 69.116,
+            "humidity": 76,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 190,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-04-03T03:00:00+00:00",
-                "temperature": 24.41,
-                "windSpeed": 3.8029,
-                "windDirection": 126,
+                "startTime": "2026-04-03T15:00:00+00:00",
+                "temperature": 20.62,
+                "windSpeed": 6.35308,
+                "windDirection": 159,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-04-03T06:00:00+00:00",
-                "temperature": 24.23,
-                "windSpeed": 11.94558,
-                "windDirection": 206,
+                "startTime": "2026-04-03T18:00:00+00:00",
+                "temperature": 20.75,
+                "windSpeed": 3.89238,
+                "windDirection": 112,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Midmorning in North Beach arrives under a polished blue dome, the light already clear and decisive, shadows etched cleanly along the sidewalks. With skies staying cloudless, the sun will feel confident through the day, and the UV index will climb quickly toward midday; sunglasses, a brimmed hat, and a sweep of sunscreen will serve you well. The air reads as easy and bright rather than harsh, the kind of clarity that makes colors ring true and the horizon look newly drawn.\n\nExpect the day to remain dry and sunlit, more pleasant than punishing if you pace yourself with shade and water. Light layers and breathable fabrics fit the mood. It\u2019s a fine morning for small errands on foot, a quiet coffee carried to a bench, or a gentle spin to the market before the noon glare settles in. Later, let the afternoon stretch while you read by a window and let the room fill with slow light.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-04-03 10:00:34",
+    "weather_report": "Perth settles into a clean, untroubled night, the sky rinsed clear and star-pricked, the air edging cooler with a kind of glassy clarity. With no sun at this hour, the UV index is essentially absent, and the world feels sharpened at the edges, the suburbs quieting as if the city has lowered its voice.\n\nThe forecast keeps the heavens cloudless through late evening and past midnight, which hints at a bright, unfiltered dawn and a quick climb in UV once the sun lifts. Expect a pleasant start if the pattern holds. Dress lightly tonight with a soft layer for the chill; tomorrow, think sunglasses, a brim, and a touch of sunscreen if you\u2019ll be out after breakfast. It\u2019s a good evening for a slow loop around the block, a window cracked to invite the crisp air, or a few unhurried pages on the balcony. Set out your morning kit, plan a brisk early errand, and let the first coffee meet the clear light.",
+    "color_code": "#0b1e3a",
+    "timestamp": "2026-04-03 22:01:24",
     "location": {
-        "name": "North Beach",
-        "latitude": -31.86662527656604,
-        "longitude": 115.7580713099883,
+        "name": "Perth",
+        "latitude": -31.95420305230262,
+        "longitude": 115.8524828108314,
         "timezone": "Australia/Perth"
     }
 }

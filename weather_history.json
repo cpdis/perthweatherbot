@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-03-27 10:01:48",
-    "location": {
-      "name": "Cottesloe",
-      "latitude": -31.99607495,
-      "longitude": 115.7525343666667,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-03-27T02:01:48+00:00",
-      "temperature_c": 18.61,
-      "temperature_f": 65.498,
-      "humidity": 89,
-      "wind_speed_mph": 13.802290000000001,
-      "wind_direction": 60,
-      "description": "heavy intensity rain"
-    },
-    "report_summary": "Cottesloe wakes under a brooding sky, the sea turned to pewter and the air carrying that quiet, rain...",
-    "color_code": "#6E7F9A"
-  },
-  {
     "timestamp": "2026-03-27 22:09:52",
     "location": {
       "name": "Subiaco",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Midmorning in North Beach arrives under a polished blue dome, the light already clear and decisive, ...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-04-03 22:01:24",
+    "location": {
+      "name": "Perth",
+      "latitude": -31.95420305230262,
+      "longitude": 115.8524828108314,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-04-03T14:01:22+00:00",
+      "temperature_c": 20.62,
+      "temperature_f": 69.116,
+      "humidity": 76,
+      "wind_speed_mph": 9.21644,
+      "wind_direction": 190,
+      "description": "clear sky"
+    },
+    "report_summary": "Perth settles into a clean, untroubled night, the sky rinsed clear and star-pricked, the air edging ...",
+    "color_code": "#0b1e3a"
   }
 ]
