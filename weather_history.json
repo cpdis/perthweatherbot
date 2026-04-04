@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-03-27 22:09:52",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94971222121609,
-      "longitude": 115.8207497482007,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-03-27T14:09:51+00:00",
-      "temperature_c": 17.77,
-      "temperature_f": 63.986000000000004,
-      "humidity": 79,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 70,
-      "description": "light intensity shower rain"
-    },
-    "report_summary": "Subiaco settles under a soft, persistent veil of light rain, the streets glazed and reflective, the ...",
-    "color_code": "#2E3B4E"
-  },
-  {
     "timestamp": "2026-03-28 09:53:08",
     "location": {
       "name": "Subiaco",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Perth settles into a clean, untroubled night, the sky rinsed clear and star-pricked, the air edging ...",
     "color_code": "#0b1e3a"
+  },
+  {
+    "timestamp": "2026-04-04 09:53:27",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94970102908738,
+      "longitude": 115.8207823240488,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-04-04T01:53:27+00:00",
+      "temperature_c": 25.63,
+      "temperature_f": 78.134,
+      "humidity": 53,
+      "wind_speed_mph": 3.44498,
+      "wind_direction": 270,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco wakes to a rinsed-blue morning, the light already clean and insistent, shadows slimming on t...",
+    "color_code": "#87CEEB"
   }
 ]
