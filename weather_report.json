@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Bicton",
             "country": "AU",
-            "latitude": -31.94971276254071,
-            "longitude": 115.8206393728628
+            "latitude": -32.02664797490534,
+            "longitude": 115.7788021436649
         },
         "current_conditions": {
-            "timestamp": "2026-04-04T13:51:04+00:00",
-            "temperature_c": 19.82,
-            "temperature_f": 67.676,
-            "humidity": 80,
-            "wind_speed_mph": 6.91233,
-            "wind_direction": 200,
-            "description": "few clouds"
+            "timestamp": "2026-04-05T02:06:22+00:00",
+            "temperature_c": 22.74,
+            "temperature_f": 72.932,
+            "humidity": 69,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 180,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-04-04T15:00:00+00:00",
-                "temperature": 19.82,
-                "windSpeed": 10.782340000000001,
-                "windDirection": 201,
-                "shortForecast": "few clouds"
+                "startTime": "2026-04-05T03:00:00+00:00",
+                "temperature": 22.74,
+                "windSpeed": 12.012690000000001,
+                "windDirection": 209,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-04-04T18:00:00+00:00",
-                "temperature": 19.11,
-                "windSpeed": 11.00604,
-                "windDirection": 202,
-                "shortForecast": "few clouds"
+                "startTime": "2026-04-05T06:00:00+00:00",
+                "temperature": 23.17,
+                "windSpeed": 15.166860000000002,
+                "windDirection": 217,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a calm night under a mostly clear sky, a few gentle clouds drifting like afterthoughts above the rooftops. The afternoon carried bright, honest sunshine with just a veil of cloud, and by early evening the light softened without much haze; UV eased quickly with the sinking sun and is now practically absent. The air feels clean and still, the kind that sharpens distant sounds and gives the streets a quiet clarity.\n\nFor the rest of tonight, expect the calm to hold with clear views and a touch of cool. A light jacket or soft sweater will do; comfortable shoes if you fancy a slow loop around the block. It\u2019s a good night to sit on the balcony with a cup of tea, to wander to the corner shop for something simple, or to read by an open window while the last warmth of the day slips away. If you\u2019re up early, anticipate a bright start with the same tidy sky and gentle sun before the day gathers pace.",
-    "color_code": "#0b1e3a",
-    "timestamp": "2026-04-04 21:51:04",
+    "weather_report": "A quiet, pearly morning settles over Bicton, the air holding a faint sheen as light showers flirt with the late morning before loosening their grip. By early afternoon the sky should fracture into broken cloud, letting pale sunlight sift through; not a sun-drenched day, but bright enough to lift the mood. Expect a soft-focus clarity rather than crisp vistas, with the sun peeking in intervals. Even with cloud, midday UV can still be nippy for autumn here, so a touch of sunscreen is sensible if you\u2019re out and about.\n\nDress in light layers with a packable rain shell, and shoes that don\u2019t mind damp pavements. It\u2019s a day for unhurried errands, a riverside amble timed between showers, or a lingering coffee by a window while the rain stipples the glass, then a short wander when the light turns kinder after lunch. The weather feels companionable rather than harsh, a gentle shuffle from drizzle to brighter patches, inviting small plans rather than grand ones.",
+    "color_code": "#8FA9C3",
+    "timestamp": "2026-04-05 10:06:22",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94971276254071,
-        "longitude": 115.8206393728628,
+        "name": "Bicton",
+        "latitude": -32.02664797490534,
+        "longitude": 115.7788021436649,
         "timezone": "Australia/Perth"
     }
 }

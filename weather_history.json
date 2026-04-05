@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-03-28 21:48:45",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94698916666667,
-      "longitude": 115.8198806,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-03-28T13:48:45+00:00",
-      "temperature_c": 20.87,
-      "temperature_f": 69.566,
-      "humidity": 89,
-      "wind_speed_mph": 11.54292,
-      "wind_direction": 295,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Night has settled over Subiaco with a soft, persistent patter; light rain is moving through now and ...",
-    "color_code": "#2c3e50"
-  },
-  {
     "timestamp": "2026-03-29 10:04:26",
     "location": {
       "name": "Wembley",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Subiaco settles into a calm night under a mostly clear sky, a few gentle clouds drifting like aftert...",
     "color_code": "#0b1e3a"
+  },
+  {
+    "timestamp": "2026-04-05 10:06:22",
+    "location": {
+      "name": "Bicton",
+      "latitude": -32.02664797490534,
+      "longitude": 115.7788021436649,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-04-05T02:06:22+00:00",
+      "temperature_c": 22.74,
+      "temperature_f": 72.932,
+      "humidity": 69,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 180,
+      "description": "broken clouds"
+    },
+    "report_summary": "A quiet, pearly morning settles over Bicton, the air holding a faint sheen as light showers flirt wi...",
+    "color_code": "#8FA9C3"
   }
 ]
