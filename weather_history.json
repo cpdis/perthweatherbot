@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-03-29 10:04:26",
-    "location": {
-      "name": "Wembley",
-      "latitude": -31.93335957037407,
-      "longitude": 115.8244356692591,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-03-29T02:04:25+00:00",
-      "temperature_c": 22.28,
-      "temperature_f": 72.104,
-      "humidity": 75,
-      "wind_speed_mph": 11.162630000000002,
-      "wind_direction": 254,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Morning in Wembley arrives under a smooth grey lid, the sun reduced to a pale suggestion behind it. ...",
-    "color_code": "#9AA1A8"
-  },
-  {
     "timestamp": "2026-03-29 21:50:56",
     "location": {
       "name": "Cottesloe",
@@ -278,5 +258,25 @@
     },
     "report_summary": "A quiet, pearly morning settles over Bicton, the air holding a faint sheen as light showers flirt wi...",
     "color_code": "#8FA9C3"
+  },
+  {
+    "timestamp": "2026-04-05 21:52:14",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.95138159282488,
+      "longitude": 115.8205240674724,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-04-05T13:52:14+00:00",
+      "temperature_c": 18.32,
+      "temperature_f": 64.976,
+      "humidity": 72,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 190,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco slips into a velvet evening around you, the sky largely clean and unbothered. Toward late ev...",
+    "color_code": "#0B1D3A"
   }
 ]

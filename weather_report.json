@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Bicton",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -32.02664797490534,
-            "longitude": 115.7788021436649
+            "latitude": -31.95138159282488,
+            "longitude": 115.8205240674724
         },
         "current_conditions": {
-            "timestamp": "2026-04-05T02:06:22+00:00",
-            "temperature_c": 22.74,
-            "temperature_f": 72.932,
-            "humidity": 69,
+            "timestamp": "2026-04-05T13:52:14+00:00",
+            "temperature_c": 18.32,
+            "temperature_f": 64.976,
+            "humidity": 72,
             "wind_speed_mph": 11.49818,
-            "wind_direction": 180,
-            "description": "broken clouds"
+            "wind_direction": 190,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-04-05T03:00:00+00:00",
-                "temperature": 22.74,
-                "windSpeed": 12.012690000000001,
-                "windDirection": 209,
-                "shortForecast": "light rain"
+                "startTime": "2026-04-05T15:00:00+00:00",
+                "temperature": 18.32,
+                "windSpeed": 10.20072,
+                "windDirection": 146,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-04-05T06:00:00+00:00",
-                "temperature": 23.17,
-                "windSpeed": 15.166860000000002,
-                "windDirection": 217,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-04-05T18:00:00+00:00",
+                "temperature": 17.49,
+                "windSpeed": 9.015110000000002,
+                "windDirection": 137,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "A quiet, pearly morning settles over Bicton, the air holding a faint sheen as light showers flirt with the late morning before loosening their grip. By early afternoon the sky should fracture into broken cloud, letting pale sunlight sift through; not a sun-drenched day, but bright enough to lift the mood. Expect a soft-focus clarity rather than crisp vistas, with the sun peeking in intervals. Even with cloud, midday UV can still be nippy for autumn here, so a touch of sunscreen is sensible if you\u2019re out and about.\n\nDress in light layers with a packable rain shell, and shoes that don\u2019t mind damp pavements. It\u2019s a day for unhurried errands, a riverside amble timed between showers, or a lingering coffee by a window while the rain stipples the glass, then a short wander when the light turns kinder after lunch. The weather feels companionable rather than harsh, a gentle shuffle from drizzle to brighter patches, inviting small plans rather than grand ones.",
-    "color_code": "#8FA9C3",
-    "timestamp": "2026-04-05 10:06:22",
+    "weather_report": "Subiaco slips into a velvet evening around you, the sky largely clean and unbothered. Toward late evening it stays clear and star-salted; after midnight, a light shawl of scattered cloud is likely to wander through. Sunshine has bowed out, of course, so the UV burden is essentially nil, and the night feels lucid and open, the kind that sharpens rooflines and quiets the streets.\n\nIt\u2019s pleasant in a gentle, unshowy way. A light layer or breezy cardigan will do if you step out, with comfortable shoes for an unhurried lap of the block. You might water the garden, bring in the last of the washing, or take the bins out and linger a moment under the hush. If you\u2019re staying in, crack a window and let the air sift through while you sort the mail or finish that chapter you\u2019ve been nursing; later clouds won\u2019t trouble the mood, just soften the stars.",
+    "color_code": "#0B1D3A",
+    "timestamp": "2026-04-05 21:52:14",
     "location": {
-        "name": "Bicton",
-        "latitude": -32.02664797490534,
-        "longitude": 115.7788021436649,
+        "name": "Subiaco",
+        "latitude": -31.95138159282488,
+        "longitude": 115.8205240674724,
         "timezone": "Australia/Perth"
     }
 }
