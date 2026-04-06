@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-03-29 21:50:56",
-    "location": {
-      "name": "Cottesloe",
-      "latitude": -32.00562082884406,
-      "longitude": 115.7518979503361,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-03-29T13:50:55+00:00",
-      "temperature_c": 20.65,
-      "temperature_f": 69.17,
-      "humidity": 78,
-      "wind_speed_mph": 8.56771,
-      "wind_direction": 236,
-      "description": "broken clouds"
-    },
-    "report_summary": "Night has settled over Cottesloe with the sea breathing quietly and a dampness building in the breez...",
-    "color_code": "#2F4156"
-  },
-  {
     "timestamp": "2026-03-30 10:06:58",
     "location": {
       "name": "Subiaco",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Subiaco slips into a velvet evening around you, the sky largely clean and unbothered. Toward late ev...",
     "color_code": "#0B1D3A"
+  },
+  {
+    "timestamp": "2026-04-06 10:07:38",
+    "location": {
+      "name": "Trigg",
+      "latitude": -31.87645673667028,
+      "longitude": 115.7521856078715,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-04-06T02:07:38+00:00",
+      "temperature_c": 17.77,
+      "temperature_f": 63.986000000000004,
+      "humidity": 66,
+      "wind_speed_mph": 5.010880000000001,
+      "wind_direction": 141,
+      "description": "light rain"
+    },
+    "report_summary": "Mid-morning in Trigg sits under a soft, pewter sky; the sun is a rumor behind thick cloud, lending t...",
+    "color_code": "#B0B7C1"
   }
 ]

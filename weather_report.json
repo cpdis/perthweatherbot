@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Trigg",
             "country": "AU",
-            "latitude": -31.95138159282488,
-            "longitude": 115.8205240674724
+            "latitude": -31.87645673667028,
+            "longitude": 115.7521856078715
         },
         "current_conditions": {
-            "timestamp": "2026-04-05T13:52:14+00:00",
-            "temperature_c": 18.32,
-            "temperature_f": 64.976,
-            "humidity": 72,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 190,
-            "description": "clear sky"
+            "timestamp": "2026-04-06T02:07:38+00:00",
+            "temperature_c": 17.77,
+            "temperature_f": 63.986000000000004,
+            "humidity": 66,
+            "wind_speed_mph": 5.010880000000001,
+            "wind_direction": 141,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2026-04-05T15:00:00+00:00",
-                "temperature": 18.32,
-                "windSpeed": 10.20072,
-                "windDirection": 146,
-                "shortForecast": "clear sky"
+                "startTime": "2026-04-06T03:00:00+00:00",
+                "temperature": 17.77,
+                "windSpeed": 10.17835,
+                "windDirection": 111,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-04-05T18:00:00+00:00",
-                "temperature": 17.49,
-                "windSpeed": 9.015110000000002,
-                "windDirection": 137,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-04-06T06:00:00+00:00",
+                "temperature": 18.91,
+                "windSpeed": 10.26783,
+                "windDirection": 158,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Subiaco slips into a velvet evening around you, the sky largely clean and unbothered. Toward late evening it stays clear and star-salted; after midnight, a light shawl of scattered cloud is likely to wander through. Sunshine has bowed out, of course, so the UV burden is essentially nil, and the night feels lucid and open, the kind that sharpens rooflines and quiets the streets.\n\nIt\u2019s pleasant in a gentle, unshowy way. A light layer or breezy cardigan will do if you step out, with comfortable shoes for an unhurried lap of the block. You might water the garden, bring in the last of the washing, or take the bins out and linger a moment under the hush. If you\u2019re staying in, crack a window and let the air sift through while you sort the mail or finish that chapter you\u2019ve been nursing; later clouds won\u2019t trouble the mood, just soften the stars.",
-    "color_code": "#0B1D3A",
-    "timestamp": "2026-04-05 21:52:14",
+    "weather_report": "Mid-morning in Trigg sits under a soft, pewter sky; the sun is a rumor behind thick cloud, lending the day a calm, even light that smooths the edges of sea and street alike. It isn\u2019t bright by any means, and the UV is tempered by the overcast, though around midday it can still sneak through\u2014gentle rather than fierce\u2014so a touch of sunscreen won\u2019t go astray. Visibility is steady, the day clear in a muted way, more graphite than chrome.\n\nThe forecast keeps the lid on through the afternoon, so expect a steady, gray companion rather than theatrics. It reads as a pleasantly subdued day: comfortable for moving about without the glare, good for errands or a quiet wander. Dress in light layers and long sleeves you can push up, something you won\u2019t mind catching a hint of breeze; sunglasses are optional, a hat useful but not essential. This is a day for a coastal amble and an unhurried coffee, for photographing textures and lines in the kindly, shadowless light, for a library visit or a tidy in the garden beds. If you head beachside, think strolling and watching the sets roll in, not chasing sun.",
+    "color_code": "#B0B7C1",
+    "timestamp": "2026-04-06 10:07:38",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.95138159282488,
-        "longitude": 115.8205240674724,
+        "name": "Trigg",
+        "latitude": -31.87645673667028,
+        "longitude": 115.7521856078715,
         "timezone": "Australia/Perth"
     }
 }
