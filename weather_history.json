@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-03-30 10:06:58",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94966104043597,
-      "longitude": 115.8208142420592,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-03-30T02:06:58+00:00",
-      "temperature_c": 20.93,
-      "temperature_f": 69.674,
-      "humidity": 63,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 250,
-      "description": "broken clouds"
-    },
-    "report_summary": "The morning in Subiaco feels washed and quiet, cloud-draped with a promise of light rain drifting th...",
-    "color_code": "#8FA3B8"
-  },
-  {
     "timestamp": "2026-03-30 22:24:43",
     "location": {
       "name": "Subiaco",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Mid-morning in Trigg sits under a soft, pewter sky; the sun is a rumor behind thick cloud, lending t...",
     "color_code": "#B0B7C1"
+  },
+  {
+    "timestamp": "2026-04-06 22:09:19",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.95167764707985,
+      "longitude": 115.8206048940972,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-04-06T14:09:18+00:00",
+      "temperature_c": 16.87,
+      "temperature_f": 62.366,
+      "humidity": 81,
+      "wind_speed_mph": 9.93228,
+      "wind_direction": 149,
+      "description": "few clouds"
+    },
+    "report_summary": "Subiaco settles into a clear, unhurried night, the sky mostly open with only a few clouds idling by....",
+    "color_code": "#0B1E3C"
   }
 ]
