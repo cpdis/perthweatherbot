@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth Airport",
             "country": "AU",
-            "latitude": -31.94969766122439,
-            "longitude": 115.8207974757268
+            "latitude": -31.93322725997372,
+            "longitude": 115.961649045462
         },
         "current_conditions": {
-            "timestamp": "2026-04-09T01:56:28+00:00",
-            "temperature_c": 21.47,
-            "temperature_f": 70.646,
-            "humidity": 57,
-            "wind_speed_mph": 8.12031,
-            "wind_direction": 174,
-            "description": "clear sky"
+            "timestamp": "2026-04-09T14:52:24+00:00",
+            "temperature_c": 15.48,
+            "temperature_f": 59.864,
+            "humidity": 64,
+            "wind_speed_mph": 4.98851,
+            "wind_direction": 126,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-04-09T03:00:00+00:00",
-                "temperature": 22.64,
-                "windSpeed": 10.17835,
-                "windDirection": 188,
-                "shortForecast": "few clouds"
+                "startTime": "2026-04-09T15:00:00+00:00",
+                "temperature": 15.48,
+                "windSpeed": 4.98851,
+                "windDirection": 126,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-04-09T06:00:00+00:00",
-                "temperature": 23.05,
-                "windSpeed": 14.786570000000001,
-                "windDirection": 213,
-                "shortForecast": "few clouds"
+                "startTime": "2026-04-09T18:00:00+00:00",
+                "temperature": 15.12,
+                "windSpeed": 12.32587,
+                "windDirection": 103,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a rinsed-blue sky, a few mothwing clouds drifting without urgency. The light is already clear and generous, sharpening eaves and leaf-edges; late morning into early afternoon looks much the same\u2014mostly sunny with only passing wisps. UV will climb quickly toward midday and feel assertive despite the season, so shade will matter. The air leans mild to comfortably warm, with good visibility and that clean, glassy clarity that makes colors pop.\n\nDress for ease: light layers, a brimmed hat, sunglasses, and a touch of sunscreen; carry water if you\u2019ll be out around lunch. It\u2019s a fine morning for a quiet loop to the bakery, a sit-down coffee beneath an awning, or letting laundry take the sun on the line. If errands call, go now while the light is friendly; if not, crack a window, let the day breeze in, then take a short, leafy stroll before the sun turns insistent.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-04-09 09:56:28",
+    "weather_report": "Perth Airport settles into a late evening wrapped in unbroken cloud, the moon dimmed, runway lights haloed and soft. The air has that cool, autumn restraint; visibility is fine but the sky feels closed and muted. Sunshine is off the stage for the night and the UV index is essentially nil.\n\nThe overcast looks set to linger through the small hours, so expect a subdued start to Thursday, with any sunshine filtered at best and UV staying low unless the cloud thins. It\u2019s a gentle, slightly somber setup that invites calm rather than spectacle. Dress for comfort: a light jumper or windbreaker, nothing fussy, and shoes you don\u2019t mind padding across long corridors. It\u2019s a good night for ordinary tasks done well\u2014organizing a travel bag, catching up on a quiet chapter in the lounge, sorting tomorrow\u2019s errands, or taking an unhurried stroll between car park and concourse, watching the diffuse glow slide across the dark tarmac.",
+    "color_code": "#2F3A4A",
+    "timestamp": "2026-04-09 22:52:25",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94969766122439,
-        "longitude": 115.8207974757268,
+        "name": "Perth Airport",
+        "latitude": -31.93322725997372,
+        "longitude": 115.961649045462,
         "timezone": "Australia/Perth"
     }
 }

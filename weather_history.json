@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 09:59:02",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9496488087163,
-      "longitude": 115.8208437086505,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-02T01:59:01+00:00",
-      "temperature_c": 21.9,
-      "temperature_f": 71.42,
-      "humidity": 53,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 100,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes under an open, unblemished sky, the morning light already brightening to a steady glea...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-04-02 22:20:38",
     "location": {
       "name": "Subiaco",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Subiaco wakes under a rinsed-blue sky, a few mothwing clouds drifting without urgency. The light is ...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-04-09 22:52:25",
+    "location": {
+      "name": "Perth Airport",
+      "latitude": -31.93322725997372,
+      "longitude": 115.961649045462,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-04-09T14:52:24+00:00",
+      "temperature_c": 15.48,
+      "temperature_f": 59.864,
+      "humidity": 64,
+      "wind_speed_mph": 4.98851,
+      "wind_direction": 126,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Perth Airport settles into a late evening wrapped in unbroken cloud, the moon dimmed, runway lights ...",
+    "color_code": "#2F3A4A"
   }
 ]
