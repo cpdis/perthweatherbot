@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94968950407553,
-            "longitude": 115.8207877336308
+            "latitude": -31.94969766122439,
+            "longitude": 115.8207974757268
         },
         "current_conditions": {
-            "timestamp": "2026-04-08T14:44:16+00:00",
-            "temperature_c": 16.95,
-            "temperature_f": 62.51,
-            "humidity": 66,
-            "wind_speed_mph": 7.85187,
-            "wind_direction": 205,
-            "description": "broken clouds"
+            "timestamp": "2026-04-09T01:56:28+00:00",
+            "temperature_c": 21.47,
+            "temperature_f": 70.646,
+            "humidity": 57,
+            "wind_speed_mph": 8.12031,
+            "wind_direction": 174,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-04-08T15:00:00+00:00",
-                "temperature": 16.95,
-                "windSpeed": 7.85187,
-                "windDirection": 205,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-04-09T03:00:00+00:00",
+                "temperature": 22.64,
+                "windSpeed": 10.17835,
+                "windDirection": 188,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2026-04-08T18:00:00+00:00",
-                "temperature": 16.79,
-                "windSpeed": 4.56348,
-                "windDirection": 177,
-                "shortForecast": "light rain"
+                "startTime": "2026-04-09T06:00:00+00:00",
+                "temperature": 23.05,
+                "windSpeed": 14.786570000000001,
+                "windDirection": 213,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Night has folded over Subiaco, the last of the evening slipping beneath a ceiling of broken cloud. There\u2019s no sunlight to be had now and the UV is essentially asleep; the sky is muted, streetlights blurring at the edges. As the night deepens, a light rain looks set to wander in, the sort that hushes the roads and paints a gentle sheen on garden leaves. Expect a dim, slightly hazy feel rather than crisp clarity, with the world reduced to soft outlines and small sounds.\n\nDress for a cool, damp wander if you\u2019re heading out: a light waterproof layer, closed shoes, and an easy umbrella tucked under the arm. It\u2019s the kind of night suited to modest errands, a short, reflective walk between showers, or tidying the desk while a kettle murmurs. If you\u2019re driving late, unhurried is wiser; the rain may arrive quietly, and the streets will gleam.",
-    "color_code": "#2C3E50",
-    "timestamp": "2026-04-08 22:44:16",
+    "weather_report": "Subiaco wakes under a rinsed-blue sky, a few mothwing clouds drifting without urgency. The light is already clear and generous, sharpening eaves and leaf-edges; late morning into early afternoon looks much the same\u2014mostly sunny with only passing wisps. UV will climb quickly toward midday and feel assertive despite the season, so shade will matter. The air leans mild to comfortably warm, with good visibility and that clean, glassy clarity that makes colors pop.\n\nDress for ease: light layers, a brimmed hat, sunglasses, and a touch of sunscreen; carry water if you\u2019ll be out around lunch. It\u2019s a fine morning for a quiet loop to the bakery, a sit-down coffee beneath an awning, or letting laundry take the sun on the line. If errands call, go now while the light is friendly; if not, crack a window, let the day breeze in, then take a short, leafy stroll before the sun turns insistent.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-04-09 09:56:28",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94968950407553,
-        "longitude": 115.8207877336308,
+        "latitude": -31.94969766122439,
+        "longitude": 115.8207974757268,
         "timezone": "Australia/Perth"
     }
 }
