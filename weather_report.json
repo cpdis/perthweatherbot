@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Vale Park",
+            "name": "Adelaide",
             "country": "AU",
-            "latitude": -34.88877120288359,
-            "longitude": 138.6283587374639
+            "latitude": -34.92269866918399,
+            "longitude": 138.6047902428902
         },
         "current_conditions": {
-            "timestamp": "2026-04-10T02:09:20+00:00",
-            "temperature_c": 15.9,
-            "temperature_f": 60.62,
-            "humidity": 66,
-            "wind_speed_mph": 17.18016,
-            "wind_direction": 257,
-            "description": "light rain"
+            "timestamp": "2026-04-10T14:15:05+00:00",
+            "temperature_c": 13.66,
+            "temperature_f": 56.588,
+            "humidity": 78,
+            "wind_speed_mph": 14.898420000000002,
+            "wind_direction": 223,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-04-10T03:00:00+00:00",
-                "temperature": 14.49,
-                "windSpeed": 17.18016,
-                "windDirection": 257,
+                "startTime": "2026-04-10T15:00:00+00:00",
+                "temperature": 13.46,
+                "windSpeed": 14.27206,
+                "windDirection": 220,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-04-10T06:00:00+00:00",
-                "temperature": 14.67,
-                "windSpeed": 17.38149,
-                "windDirection": 258,
+                "startTime": "2026-04-10T18:00:00+00:00",
+                "temperature": 13.44,
+                "windSpeed": 13.6457,
+                "windDirection": 224,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late morning over Vale Park feels muted and contemplative, the sky a gentle slate preparing to spill. Light rain is set to slip in around lunchtime and dapple the afternoon, keeping sunshine scarce and the UV tempered; a day of soft edges and shorter horizons rather than glare and sparkle. Expect a mild, damp coolness, the kind that brings out the clean scent of gum leaves and darkens the bark along the river.\n\nIt looks more soothing than sprightly. Dress for drizzle and pauses: a light waterproof jacket, comfortable layers you can shed if a break appears, shoes that don\u2019t mind puddles, and a small umbrella in the pocket. Step out early for an easy errand or a quiet loop by the Torrens between showers, then retreat to a window seat with something warm, answer a neglected note, tidy a drawer, or plan the weekend with unrushed attention. If the clouds thin briefly, let the gray light be your soundtrack; the sun will mostly stay shy and UV stays subdued.",
-    "color_code": "#7F8C99",
-    "timestamp": "2026-04-10 11:39:21",
+    "weather_report": "Late tonight in Adelaide the sky feels like a sealed lid, the air tasting faintly of drizzle. Light rain is set to drift through after midnight and into the small hours, soft but steady, smudging the edges of the night. Clarity is poor; streetlights halo, and the stars have slipped behind a quiet, unbroken ceiling of cloud. There\u2019s no sunshine to speak of now and the UV is essentially nil; early daylight, if it arrives between showers, will be muted, with only a gentle lift in UV unless the cloud breaks later.\n\nIf you\u2019re stepping out, choose a light waterproof layer, closed shoes with some grip, and a small umbrella; it\u2019s a damp, cool-feeling night. Indoors suits the mood: a last chapter before sleep, a quick tidy for tomorrow, or the kettle murmuring while the rain taps the windows. If you\u2019re up before dawn, a slow coffee by the glass while showers stipple the footpaths is honest company, and when the rain eases, a short, unhurried walk will feel clean and calm.",
+    "color_code": "#2F4F4F",
+    "timestamp": "2026-04-10 23:45:05",
     "location": {
-        "name": "Vale Park",
-        "latitude": -34.88877120288359,
-        "longitude": 138.6283587374639,
+        "name": "Adelaide",
+        "latitude": -34.92269866918399,
+        "longitude": 138.6047902428902,
         "timezone": "Australia/Adelaide"
     }
 }

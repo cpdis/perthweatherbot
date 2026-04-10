@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-10T02:09:18.832470",
+  "timestamp": "2026-04-10T14:15:03.144743",
   "overall_status": "healthy",
   "summary": {
     "total_checks": 5,
@@ -14,7 +14,7 @@
       "details": [
         "OpenWeather API key configured",
         "OpenAI API key configured",
-        "Location: Vale Park"
+        "Location: Adelaide"
       ]
     },
     {
@@ -41,7 +41,7 @@
     {
       "name": "OpenWeather API",
       "status": "healthy",
-      "response_time_ms": 277.03299999999996,
+      "response_time_ms": 78.151,
       "details": "HTTP 200"
     }
   ]

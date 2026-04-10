@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 10:00:34",
-    "location": {
-      "name": "North Beach",
-      "latitude": -31.86662527656604,
-      "longitude": 115.7580713099883,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-03T02:00:34+00:00",
-      "temperature_c": 24.41,
-      "temperature_f": 75.938,
-      "humidity": 55,
-      "wind_speed_mph": 5.99516,
-      "wind_direction": 106,
-      "description": "clear sky"
-    },
-    "report_summary": "Midmorning in North Beach arrives under a polished blue dome, the light already clear and decisive, ...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-04-03 22:01:24",
     "location": {
       "name": "Perth",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Late morning over Vale Park feels muted and contemplative, the sky a gentle slate preparing to spill...",
     "color_code": "#7F8C99"
+  },
+  {
+    "timestamp": "2026-04-10 23:45:05",
+    "location": {
+      "name": "Adelaide",
+      "latitude": -34.92269866918399,
+      "longitude": 138.6047902428902,
+      "timezone": "Australia/Adelaide"
+    },
+    "current_conditions": {
+      "timestamp": "2026-04-10T14:15:05+00:00",
+      "temperature_c": 13.66,
+      "temperature_f": 56.588,
+      "humidity": 78,
+      "wind_speed_mph": 14.898420000000002,
+      "wind_direction": 223,
+      "description": "broken clouds"
+    },
+    "report_summary": "Late tonight in Adelaide the sky feels like a sealed lid, the air tasting faintly of drizzle. Light ...",
+    "color_code": "#2F4F4F"
   }
 ]
