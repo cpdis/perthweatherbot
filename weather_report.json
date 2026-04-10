@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth Airport",
+            "name": "Vale Park",
             "country": "AU",
-            "latitude": -31.93322725997372,
-            "longitude": 115.961649045462
+            "latitude": -34.88877120288359,
+            "longitude": 138.6283587374639
         },
         "current_conditions": {
-            "timestamp": "2026-04-09T14:52:24+00:00",
-            "temperature_c": 15.48,
-            "temperature_f": 59.864,
-            "humidity": 64,
-            "wind_speed_mph": 4.98851,
-            "wind_direction": 126,
-            "description": "overcast clouds"
+            "timestamp": "2026-04-10T02:09:20+00:00",
+            "temperature_c": 15.9,
+            "temperature_f": 60.62,
+            "humidity": 66,
+            "wind_speed_mph": 17.18016,
+            "wind_direction": 257,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2026-04-09T15:00:00+00:00",
-                "temperature": 15.48,
-                "windSpeed": 4.98851,
-                "windDirection": 126,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-04-10T03:00:00+00:00",
+                "temperature": 14.49,
+                "windSpeed": 17.18016,
+                "windDirection": 257,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-04-09T18:00:00+00:00",
-                "temperature": 15.12,
-                "windSpeed": 12.32587,
-                "windDirection": 103,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-04-10T06:00:00+00:00",
+                "temperature": 14.67,
+                "windSpeed": 17.38149,
+                "windDirection": 258,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Perth Airport settles into a late evening wrapped in unbroken cloud, the moon dimmed, runway lights haloed and soft. The air has that cool, autumn restraint; visibility is fine but the sky feels closed and muted. Sunshine is off the stage for the night and the UV index is essentially nil.\n\nThe overcast looks set to linger through the small hours, so expect a subdued start to Thursday, with any sunshine filtered at best and UV staying low unless the cloud thins. It\u2019s a gentle, slightly somber setup that invites calm rather than spectacle. Dress for comfort: a light jumper or windbreaker, nothing fussy, and shoes you don\u2019t mind padding across long corridors. It\u2019s a good night for ordinary tasks done well\u2014organizing a travel bag, catching up on a quiet chapter in the lounge, sorting tomorrow\u2019s errands, or taking an unhurried stroll between car park and concourse, watching the diffuse glow slide across the dark tarmac.",
-    "color_code": "#2F3A4A",
-    "timestamp": "2026-04-09 22:52:25",
+    "weather_report": "Late morning over Vale Park feels muted and contemplative, the sky a gentle slate preparing to spill. Light rain is set to slip in around lunchtime and dapple the afternoon, keeping sunshine scarce and the UV tempered; a day of soft edges and shorter horizons rather than glare and sparkle. Expect a mild, damp coolness, the kind that brings out the clean scent of gum leaves and darkens the bark along the river.\n\nIt looks more soothing than sprightly. Dress for drizzle and pauses: a light waterproof jacket, comfortable layers you can shed if a break appears, shoes that don\u2019t mind puddles, and a small umbrella in the pocket. Step out early for an easy errand or a quiet loop by the Torrens between showers, then retreat to a window seat with something warm, answer a neglected note, tidy a drawer, or plan the weekend with unrushed attention. If the clouds thin briefly, let the gray light be your soundtrack; the sun will mostly stay shy and UV stays subdued.",
+    "color_code": "#7F8C99",
+    "timestamp": "2026-04-10 11:39:21",
     "location": {
-        "name": "Perth Airport",
-        "latitude": -31.93322725997372,
-        "longitude": 115.961649045462,
-        "timezone": "Australia/Perth"
+        "name": "Vale Park",
+        "latitude": -34.88877120288359,
+        "longitude": 138.6283587374639,
+        "timezone": "Australia/Adelaide"
     }
 }

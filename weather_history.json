@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 22:20:38",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968382625274,
-      "longitude": 115.8207105691317,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-02T14:20:37+00:00",
-      "temperature_c": 21.67,
-      "temperature_f": 71.006,
-      "humidity": 57,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 120,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco settles under a clean, cloudless night, the kind that sharpens the edges of rooftops and let...",
-    "color_code": "#0d1b2a"
-  },
-  {
     "timestamp": "2026-04-03 10:00:34",
     "location": {
       "name": "North Beach",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Perth Airport settles into a late evening wrapped in unbroken cloud, the moon dimmed, runway lights ...",
     "color_code": "#2F3A4A"
+  },
+  {
+    "timestamp": "2026-04-10 11:39:21",
+    "location": {
+      "name": "Vale Park",
+      "latitude": -34.88877120288359,
+      "longitude": 138.6283587374639,
+      "timezone": "Australia/Adelaide"
+    },
+    "current_conditions": {
+      "timestamp": "2026-04-10T02:09:20+00:00",
+      "temperature_c": 15.9,
+      "temperature_f": 60.62,
+      "humidity": 66,
+      "wind_speed_mph": 17.18016,
+      "wind_direction": 257,
+      "description": "light rain"
+    },
+    "report_summary": "Late morning over Vale Park feels muted and contemplative, the sky a gentle slate preparing to spill...",
+    "color_code": "#7F8C99"
   }
 ]
