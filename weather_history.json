@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 22:01:24",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95420305230262,
-      "longitude": 115.8524828108314,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-03T14:01:22+00:00",
-      "temperature_c": 20.62,
-      "temperature_f": 69.116,
-      "humidity": 76,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 190,
-      "description": "clear sky"
-    },
-    "report_summary": "Perth settles into a clean, untroubled night, the sky rinsed clear and star-pricked, the air edging ...",
-    "color_code": "#0b1e3a"
-  },
-  {
     "timestamp": "2026-04-04 09:53:27",
     "location": {
       "name": "Subiaco",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Late tonight in Adelaide the sky feels like a sealed lid, the air tasting faintly of drizzle. Light ...",
     "color_code": "#2F4F4F"
+  },
+  {
+    "timestamp": "2026-04-11 11:27:49",
+    "location": {
+      "name": "Adelaide",
+      "latitude": -34.92206860541257,
+      "longitude": 138.6051591164974,
+      "timezone": "Australia/Adelaide"
+    },
+    "current_conditions": {
+      "timestamp": "2026-04-11T01:57:48+00:00",
+      "temperature_c": 16.68,
+      "temperature_f": 62.024,
+      "humidity": 58,
+      "wind_speed_mph": 20.71462,
+      "wind_direction": 250,
+      "description": "broken clouds"
+    },
+    "report_summary": "Late morning in Adelaide wears a soft, pewter light, the kind that flattens shadows and makes the ai...",
+    "color_code": "#7A8896"
   }
 ]

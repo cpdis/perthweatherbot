@@ -3,42 +3,42 @@
         "location": {
             "name": "Adelaide",
             "country": "AU",
-            "latitude": -34.92269866918399,
-            "longitude": 138.6047902428902
+            "latitude": -34.92206860541257,
+            "longitude": 138.6051591164974
         },
         "current_conditions": {
-            "timestamp": "2026-04-10T14:15:05+00:00",
-            "temperature_c": 13.66,
-            "temperature_f": 56.588,
-            "humidity": 78,
-            "wind_speed_mph": 14.898420000000002,
-            "wind_direction": 223,
+            "timestamp": "2026-04-11T01:57:48+00:00",
+            "temperature_c": 16.68,
+            "temperature_f": 62.024,
+            "humidity": 58,
+            "wind_speed_mph": 20.71462,
+            "wind_direction": 250,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-04-10T15:00:00+00:00",
-                "temperature": 13.46,
-                "windSpeed": 14.27206,
-                "windDirection": 220,
+                "startTime": "2026-04-11T03:00:00+00:00",
+                "temperature": 16.68,
+                "windSpeed": 14.38391,
+                "windDirection": 245,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-04-10T18:00:00+00:00",
-                "temperature": 13.44,
-                "windSpeed": 13.6457,
-                "windDirection": 224,
+                "startTime": "2026-04-11T06:00:00+00:00",
+                "temperature": 16.56,
+                "windSpeed": 14.629980000000002,
+                "windDirection": 244,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late tonight in Adelaide the sky feels like a sealed lid, the air tasting faintly of drizzle. Light rain is set to drift through after midnight and into the small hours, soft but steady, smudging the edges of the night. Clarity is poor; streetlights halo, and the stars have slipped behind a quiet, unbroken ceiling of cloud. There\u2019s no sunshine to speak of now and the UV is essentially nil; early daylight, if it arrives between showers, will be muted, with only a gentle lift in UV unless the cloud breaks later.\n\nIf you\u2019re stepping out, choose a light waterproof layer, closed shoes with some grip, and a small umbrella; it\u2019s a damp, cool-feeling night. Indoors suits the mood: a last chapter before sleep, a quick tidy for tomorrow, or the kettle murmuring while the rain taps the windows. If you\u2019re up before dawn, a slow coffee by the glass while showers stipple the footpaths is honest company, and when the rain eases, a short, unhurried walk will feel clean and calm.",
-    "color_code": "#2F4F4F",
-    "timestamp": "2026-04-10 23:45:05",
+    "weather_report": "Late morning in Adelaide wears a soft, pewter light, the kind that flattens shadows and makes the air smell faintly of wet stone. Skies are thickening and, from around lunchtime into mid-afternoon, light rain is likely to pass through in gentle pulses. Sunshine will be a rare, teasing visitor at best; any brief cracks in the cloud could still carry a modest bite of UV for an autumn day, though the blanket of grey will keep it mostly subdued. The view is muted and a touch hazy, edges rounded by drizzle and low cloud, which lends the city a calm, reflective mood rather than a bleak one.\n\nIt should feel mild but damp, so a light waterproof layer, comfortable closed shoes, and a small umbrella will serve you well; add a sweater if you run cool, and a dab of sunscreen if you\u2019ll be out around midday between showers. This is weather for unhurried errands and small pleasures: a slow wander through the arcades, a detour into a bookshop, a quiet hour at a neighborhood caf\u00e9 by the window, or a brief amble along the river when the rain eases. Gardeners might welcome the moisture to settle newly potted herbs, and cyclists may prefer a rain shell and the long way home. The day isn\u2019t sparkling, but it is kind.",
+    "color_code": "#7A8896",
+    "timestamp": "2026-04-11 11:27:49",
     "location": {
         "name": "Adelaide",
-        "latitude": -34.92269866918399,
-        "longitude": 138.6047902428902,
+        "latitude": -34.92206860541257,
+        "longitude": 138.6051591164974,
         "timezone": "Australia/Adelaide"
     }
 }
