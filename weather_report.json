@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Wembley",
             "country": "AU",
-            "latitude": -31.94969058111025,
-            "longitude": 115.8207811213037
+            "latitude": -31.92980006251575,
+            "longitude": 115.8136774657225
         },
         "current_conditions": {
-            "timestamp": "2026-04-14T14:48:15+00:00",
-            "temperature_c": 20.59,
-            "temperature_f": 69.062,
-            "humidity": 71,
-            "wind_speed_mph": 2.30411,
-            "wind_direction": 90,
-            "description": "clear sky"
+            "timestamp": "2026-04-15T02:07:08+00:00",
+            "temperature_c": 19.71,
+            "temperature_f": 67.47800000000001,
+            "humidity": 82,
+            "wind_speed_mph": 6.21886,
+            "wind_direction": 190,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2026-04-14T15:00:00+00:00",
-                "temperature": 20.59,
-                "windSpeed": 6.0399,
-                "windDirection": 175,
-                "shortForecast": "clear sky"
+                "startTime": "2026-04-15T03:00:00+00:00",
+                "temperature": 20.61,
+                "windSpeed": 9.41777,
+                "windDirection": 198,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-04-14T18:00:00+00:00",
-                "temperature": 20.9,
-                "windSpeed": 7.87424,
-                "windDirection": 171,
-                "shortForecast": "few clouds"
+                "startTime": "2026-04-15T06:00:00+00:00",
+                "temperature": 22.01,
+                "windSpeed": 16.06166,
+                "windDirection": 207,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a velveted night, the sky pared back to a clean, inky blue with stars showing their edges. The forecast keeps it simple: clear through late evening, only a few strays of cloud wandering in toward the small hours. Air and visibility are crisp; it feels quietly pleasant rather than raw. The sun is long gone and the UV is at rest, essentially nil now; come dawn, if this pared-back sky holds, the light will arrive quickly and feel generous.\n\nDress for a gentle, possibly cool night: a light layer or cardigan if you step out, nothing fussy. It\u2019s a fine time to take a slow stroll, let fresh air wash through the house, water the pots on the balcony, or finish that small task you\u2019ve been meaning to do at the kitchen table. If you\u2019re planning an early start, set out your hat and sunscreen before bed; morning could open bright under these spare skies.",
-    "color_code": "#0B1E3A",
-    "timestamp": "2026-04-14 22:48:16",
+    "weather_report": "Wembley wakes under a quilt of low cloud, the early drizzle having brushed the pavements and moved on, leaving a dim, pewtery light. The sun is more rumor than presence today; any brightness will be fleeting behind the overcast, and the UV stays low beneath this soft, stubborn ceiling. Views will feel muted and close, sound carrying a little farther in the damp air, the day tilting toward cool and contemplative rather than sparkling.\n\nDress for a grey hour: layered comfort, a light waterproof or umbrella at hand, shoes that won\u2019t mind a leftover puddle. It\u2019s a good morning for unhurried errands, a quiet coffee by the window, or a saunter through the market where colors glow against the dull sky. If you\u2019re working, open the blinds and let the gentle light do its steadying work; if you\u2019re free, a museum stop or a library browse suits the mood. Save the sunglasses for another day, and keep expectations of sunshine modest; this one belongs to the calm, slate tones of April.",
+    "color_code": "#7F8C8D",
+    "timestamp": "2026-04-15 10:07:08",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94969058111025,
-        "longitude": 115.8207811213037,
+        "name": "Wembley",
+        "latitude": -31.92980006251575,
+        "longitude": 115.8136774657225,
         "timezone": "Australia/Perth"
     }
 }
