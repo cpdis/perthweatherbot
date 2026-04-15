@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Wembley",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.92980006251575,
-            "longitude": 115.8136774657225
+            "latitude": -31.94970618267621,
+            "longitude": 115.8207871915179
         },
         "current_conditions": {
-            "timestamp": "2026-04-15T02:07:08+00:00",
-            "temperature_c": 19.71,
-            "temperature_f": 67.47800000000001,
-            "humidity": 82,
-            "wind_speed_mph": 6.21886,
-            "wind_direction": 190,
-            "description": "light rain"
+            "timestamp": "2026-04-15T14:28:17+00:00",
+            "temperature_c": 18.03,
+            "temperature_f": 64.45400000000001,
+            "humidity": 88,
+            "wind_speed_mph": 7.270250000000001,
+            "wind_direction": 186,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-04-15T03:00:00+00:00",
-                "temperature": 20.61,
-                "windSpeed": 9.41777,
-                "windDirection": 198,
-                "shortForecast": "light rain"
+                "startTime": "2026-04-15T15:00:00+00:00",
+                "temperature": 17.97,
+                "windSpeed": 3.3555,
+                "windDirection": 167,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-04-15T06:00:00+00:00",
-                "temperature": 22.01,
-                "windSpeed": 16.06166,
-                "windDirection": 207,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-04-15T18:00:00+00:00",
+                "temperature": 17.3,
+                "windSpeed": 6.57678,
+                "windDirection": 84,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Wembley wakes under a quilt of low cloud, the early drizzle having brushed the pavements and moved on, leaving a dim, pewtery light. The sun is more rumor than presence today; any brightness will be fleeting behind the overcast, and the UV stays low beneath this soft, stubborn ceiling. Views will feel muted and close, sound carrying a little farther in the damp air, the day tilting toward cool and contemplative rather than sparkling.\n\nDress for a grey hour: layered comfort, a light waterproof or umbrella at hand, shoes that won\u2019t mind a leftover puddle. It\u2019s a good morning for unhurried errands, a quiet coffee by the window, or a saunter through the market where colors glow against the dull sky. If you\u2019re working, open the blinds and let the gentle light do its steadying work; if you\u2019re free, a museum stop or a library browse suits the mood. Save the sunglasses for another day, and keep expectations of sunshine modest; this one belongs to the calm, slate tones of April.",
-    "color_code": "#7F8C8D",
-    "timestamp": "2026-04-15 10:07:08",
+    "weather_report": "Subiaco is tucked under a cloudless night, the sky rinsed clean and glassy, the kind that makes streetlights look modest and the stars feel close. The forecast holds this clarity through late evening into the small hours, so the air should stay calm and dry, with good visibility and a quiet, unhurried feel.\n\nOvernight UV is essentially nil; once the sun returns, expect unfiltered brightness and a UV that will climb quickly after sunrise, so a hat, sunscreen, and sunglasses will be wise if you linger outdoors. It looks like a pleasant, uncomplicated stretch of weather: lucid skies, no drama. Dress lightly now with a comfortable extra layer for an amble or a pause on the veranda; in the morning, shift to breathable clothes and easy shoes. Good choices tonight are unassuming ones: a gentle stroll to clear the head, a few pages of a book by an open window, watering the plants. If you\u2019re inclined, set the kettle for an early start and enjoy a quiet coffee walk before the day sharpens.",
+    "color_code": "#0B1D3A",
+    "timestamp": "2026-04-15 22:28:17",
     "location": {
-        "name": "Wembley",
-        "latitude": -31.92980006251575,
-        "longitude": 115.8136774657225,
+        "name": "Subiaco",
+        "latitude": -31.94970618267621,
+        "longitude": 115.8207871915179,
         "timezone": "Australia/Perth"
     }
 }
