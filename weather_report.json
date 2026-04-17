@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Cottesloe",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.99606335618902,
-            "longitude": 115.7536324018056
+            "latitude": -31.94970353659466,
+            "longitude": 115.8209552204815
         },
         "current_conditions": {
-            "timestamp": "2026-04-17T02:10:58+00:00",
-            "temperature_c": 21.68,
-            "temperature_f": 71.024,
-            "humidity": 78,
-            "wind_speed_mph": 7.00181,
-            "wind_direction": 270,
-            "description": "broken clouds"
+            "timestamp": "2026-04-17T14:19:43+00:00",
+            "temperature_c": 19.84,
+            "temperature_f": 67.712,
+            "humidity": 77,
+            "wind_speed_mph": 20.71462,
+            "wind_direction": 260,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2026-04-17T03:00:00+00:00",
-                "temperature": 21.68,
-                "windSpeed": 10.82708,
-                "windDirection": 283,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-04-17T15:00:00+00:00",
+                "temperature": 19.84,
+                "windSpeed": 18.36577,
+                "windDirection": 266,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-04-17T06:00:00+00:00",
-                "temperature": 21.39,
-                "windSpeed": 17.31438,
-                "windDirection": 287,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-04-17T18:00:00+00:00",
+                "temperature": 18.57,
+                "windSpeed": 17.35912,
+                "windDirection": 222,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late morning in Cottesloe arrives under a dappled sky, the sun slipping through torn fields of cloud and laying a cool sheen across the water. The air feels amiable and salt-clean, with visibility crisp despite the gauze above; when the sun punches through, it has some sting to it, so expect a moderate-to-high UV bite through the middle of the day even with the cloud fracturing the light. The pattern looks steady into afternoon: broken cloud, bright intervals, no great threat of rain, and a light sea breeze likely gathering its thoughts after lunch. Altogether, a gentle, good-tempered autumn day.\n\nDress in easy layers: a breathable shirt, shorts or light trousers, a hat and sunglasses, and a touch of sunscreen if you\u2019ll be out through midday; keep a light jumper handy in case the breeze freshens later. It\u2019s a day for ordinary pleasures done unrushed: a walk along the foreshore while the light is soft, coffee on Napoleon Street with the paper, a small grocery run on foot, or a quiet hour hanging washing that will dry in fits of sun. If the water looks inviting, a brief swim or wade between sunny breaks suits the mood; otherwise, a slow roll on the bike toward Fremantle and back before the afternoon glare asserts itself.",
-    "color_code": "#AFC8E5",
-    "timestamp": "2026-04-17 10:10:59",
+    "weather_report": "Night has drawn a soft curtain over Subiaco, the streets glossed with scattered showers that drift in and out with a light touch. Skies are a low slate, stars erased, and the view down the block feels a little blurred at the edges. Expect the damp to linger through the late evening into the small hours; sunshine is finished for today and the UV is essentially nil. It\u2019s a gentle, gray mood rather than a harsh one\u2014quiet, reflective, and faintly cool\u2014likely to leave the pavements rinsed and the morning, if the pattern holds, beginning on the muted side.\n\nDress for drizzle and comfort: a light waterproof or trench, shoes that won\u2019t sulk at puddles, and an umbrella you trust. It\u2019s a good night for small, ordinary tasks\u2014a slow walk under awnings to fetch bread or a paperback, tidying the kitchen while the radio murmurs, or answering that message you\u2019ve been ignoring. If you\u2019re out late, take it easy; the city feels calmer after rain, and there\u2019s a particular pleasure in the hush of wet roads and soft reflections.",
+    "color_code": "#2c3e50",
+    "timestamp": "2026-04-17 22:19:43",
     "location": {
-        "name": "Cottesloe",
-        "latitude": -31.99606335618902,
-        "longitude": 115.7536324018056,
+        "name": "Subiaco",
+        "latitude": -31.94970353659466,
+        "longitude": 115.8209552204815,
         "timezone": "Australia/Perth"
     }
 }

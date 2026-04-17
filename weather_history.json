@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10 11:39:21",
-    "location": {
-      "name": "Vale Park",
-      "latitude": -34.88877120288359,
-      "longitude": 138.6283587374639,
-      "timezone": "Australia/Adelaide"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-10T02:09:20+00:00",
-      "temperature_c": 15.9,
-      "temperature_f": 60.62,
-      "humidity": 66,
-      "wind_speed_mph": 17.18016,
-      "wind_direction": 257,
-      "description": "light rain"
-    },
-    "report_summary": "Late morning over Vale Park feels muted and contemplative, the sky a gentle slate preparing to spill...",
-    "color_code": "#7F8C99"
-  },
-  {
     "timestamp": "2026-04-10 23:45:05",
     "location": {
       "name": "Adelaide",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Late morning in Cottesloe arrives under a dappled sky, the sun slipping through torn fields of cloud...",
     "color_code": "#AFC8E5"
+  },
+  {
+    "timestamp": "2026-04-17 22:19:43",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94970353659466,
+      "longitude": 115.8209552204815,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-04-17T14:19:43+00:00",
+      "temperature_c": 19.84,
+      "temperature_f": 67.712,
+      "humidity": 77,
+      "wind_speed_mph": 20.71462,
+      "wind_direction": 260,
+      "description": "light rain"
+    },
+    "report_summary": "Night has drawn a soft curtain over Subiaco, the streets glossed with scattered showers that drift i...",
+    "color_code": "#2c3e50"
   }
 ]
