@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09 22:52:25",
-    "location": {
-      "name": "Perth Airport",
-      "latitude": -31.93322725997372,
-      "longitude": 115.961649045462,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-09T14:52:24+00:00",
-      "temperature_c": 15.48,
-      "temperature_f": 59.864,
-      "humidity": 64,
-      "wind_speed_mph": 4.98851,
-      "wind_direction": 126,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Perth Airport settles into a late evening wrapped in unbroken cloud, the moon dimmed, runway lights ...",
-    "color_code": "#2F3A4A"
-  },
-  {
     "timestamp": "2026-04-10 11:39:21",
     "location": {
       "name": "Vale Park",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco settles into a quiet, clear-leaning night. The sky carries only a scatter of cloud, stars sl...",
     "color_code": "#0B1E3C"
+  },
+  {
+    "timestamp": "2026-04-17 10:10:59",
+    "location": {
+      "name": "Cottesloe",
+      "latitude": -31.99606335618902,
+      "longitude": 115.7536324018056,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-04-17T02:10:58+00:00",
+      "temperature_c": 21.68,
+      "temperature_f": 71.024,
+      "humidity": 78,
+      "wind_speed_mph": 7.00181,
+      "wind_direction": 270,
+      "description": "broken clouds"
+    },
+    "report_summary": "Late morning in Cottesloe arrives under a dappled sky, the sun slipping through torn fields of cloud...",
+    "color_code": "#AFC8E5"
   }
 ]

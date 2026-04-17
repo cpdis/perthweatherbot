@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Cottesloe",
             "country": "AU",
-            "latitude": -31.94944032266869,
-            "longitude": 115.820579845013
+            "latitude": -31.99606335618902,
+            "longitude": 115.7536324018056
         },
         "current_conditions": {
-            "timestamp": "2026-04-16T14:51:35+00:00",
-            "temperature_c": 17.65,
-            "temperature_f": 63.769999999999996,
-            "humidity": 77,
-            "wind_speed_mph": 6.21886,
-            "wind_direction": 158,
-            "description": "few clouds"
+            "timestamp": "2026-04-17T02:10:58+00:00",
+            "temperature_c": 21.68,
+            "temperature_f": 71.024,
+            "humidity": 78,
+            "wind_speed_mph": 7.00181,
+            "wind_direction": 270,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-04-16T15:00:00+00:00",
-                "temperature": 17.65,
-                "windSpeed": 6.21886,
-                "windDirection": 158,
-                "shortForecast": "few clouds"
+                "startTime": "2026-04-17T03:00:00+00:00",
+                "temperature": 21.68,
+                "windSpeed": 10.82708,
+                "windDirection": 283,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-04-16T18:00:00+00:00",
-                "temperature": 17.57,
-                "windSpeed": 2.28174,
-                "windDirection": 141,
-                "shortForecast": "few clouds"
+                "startTime": "2026-04-17T06:00:00+00:00",
+                "temperature": 21.39,
+                "windSpeed": 17.31438,
+                "windDirection": 287,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a quiet, clear-leaning night. The sky carries only a scatter of cloud, stars slipping between them, and the UV is asleep at zero. It\u2019s a clean, uncomplicated scene that stays this way through the small hours, the kind of clarity that makes streetlights feel sharper and footsteps sound close. By first light, with only a thin veil still about, the morning should open bright and straightforward.\n\nIt feels pleasant more than cold; take a light jacket or soft cardigan if you plan to linger. This is a good night for a slow lap around the block, a last watering of pots, or sorting tomorrow\u2019s list with the window cracked and the crickets doing their work. Early risers can expect a gentle, bright start before the day shakes itself awake.",
-    "color_code": "#0B1E3C",
-    "timestamp": "2026-04-16 22:51:36",
+    "weather_report": "Late morning in Cottesloe arrives under a dappled sky, the sun slipping through torn fields of cloud and laying a cool sheen across the water. The air feels amiable and salt-clean, with visibility crisp despite the gauze above; when the sun punches through, it has some sting to it, so expect a moderate-to-high UV bite through the middle of the day even with the cloud fracturing the light. The pattern looks steady into afternoon: broken cloud, bright intervals, no great threat of rain, and a light sea breeze likely gathering its thoughts after lunch. Altogether, a gentle, good-tempered autumn day.\n\nDress in easy layers: a breathable shirt, shorts or light trousers, a hat and sunglasses, and a touch of sunscreen if you\u2019ll be out through midday; keep a light jumper handy in case the breeze freshens later. It\u2019s a day for ordinary pleasures done unrushed: a walk along the foreshore while the light is soft, coffee on Napoleon Street with the paper, a small grocery run on foot, or a quiet hour hanging washing that will dry in fits of sun. If the water looks inviting, a brief swim or wade between sunny breaks suits the mood; otherwise, a slow roll on the bike toward Fremantle and back before the afternoon glare asserts itself.",
+    "color_code": "#AFC8E5",
+    "timestamp": "2026-04-17 10:10:59",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94944032266869,
-        "longitude": 115.820579845013,
+        "name": "Cottesloe",
+        "latitude": -31.99606335618902,
+        "longitude": 115.7536324018056,
         "timezone": "Australia/Perth"
     }
 }
