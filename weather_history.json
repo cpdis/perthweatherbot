@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 11:27:49",
-    "location": {
-      "name": "Adelaide",
-      "latitude": -34.92206860541257,
-      "longitude": 138.6051591164974,
-      "timezone": "Australia/Adelaide"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-11T01:57:48+00:00",
-      "temperature_c": 16.68,
-      "temperature_f": 62.024,
-      "humidity": 58,
-      "wind_speed_mph": 20.71462,
-      "wind_direction": 250,
-      "description": "broken clouds"
-    },
-    "report_summary": "Late morning in Adelaide wears a soft, pewter light, the kind that flattens shadows and makes the ai...",
-    "color_code": "#7A8896"
-  },
-  {
     "timestamp": "2026-04-11 21:53:41",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco wakes under a quilt of broken cloud, the sun sliding through in soft, polished bands that br...",
     "color_code": "#9BB5C8"
+  },
+  {
+    "timestamp": "2026-04-18 21:59:47",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94970258471007,
+      "longitude": 115.8207093065787,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-04-18T13:59:46+00:00",
+      "temperature_c": 16.36,
+      "temperature_f": 61.448,
+      "humidity": 67,
+      "wind_speed_mph": 6.91233,
+      "wind_direction": 170,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco eases into night under a spotless dome, the sky rinsed clear and the stars sharp as pinprick...",
+    "color_code": "#0b1e3d"
   }
 ]
