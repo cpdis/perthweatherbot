@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-04-12 10:11:13",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970613506484,
-      "longitude": 115.8207883318309,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-12T02:11:12+00:00",
-      "temperature_c": 25.89,
-      "temperature_f": 78.602,
-      "humidity": 44,
-      "wind_speed_mph": 4.45163,
-      "wind_direction": 50,
-      "description": "clear sky"
-    },
-    "report_summary": "A clear, uncomplicated morning has settled over Subiaco, the kind of blue that feels freshly polishe...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-04-12 21:58:23",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco wakes under a flawless blue, the kind of clear sky that sharpens edges and invites longer st...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-04-19 21:58:27",
+    "location": {
+      "name": "Cottesloe",
+      "latitude": -31.98538853496926,
+      "longitude": 115.7525478076724,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-04-19T13:58:26+00:00",
+      "temperature_c": 16.46,
+      "temperature_f": 61.628,
+      "humidity": 64,
+      "wind_speed_mph": 6.62152,
+      "wind_direction": 182,
+      "description": "clear sky"
+    },
+    "report_summary": "Cottesloe settles into a serene, clear night; the sky is polished glass and the stars feel close eno...",
+    "color_code": "#0b1d3a"
   }
 ]
