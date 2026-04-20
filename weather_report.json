@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94968951705432,
-            "longitude": 115.8207756267005
+            "latitude": -31.95044012589572,
+            "longitude": 115.8212699519412
         },
         "current_conditions": {
-            "timestamp": "2026-04-20T02:24:01+00:00",
-            "temperature_c": 20.96,
-            "temperature_f": 69.72800000000001,
-            "humidity": 54,
-            "wind_speed_mph": 8.276900000000001,
-            "wind_direction": 329,
-            "description": "clear sky"
+            "timestamp": "2026-04-20T14:45:54+00:00",
+            "temperature_c": 15.22,
+            "temperature_f": 59.396,
+            "humidity": 86,
+            "wind_speed_mph": 23.399020000000004,
+            "wind_direction": 251,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2026-04-20T03:00:00+00:00",
-                "temperature": 21.39,
-                "windSpeed": 11.431070000000002,
-                "windDirection": 310,
-                "shortForecast": "clear sky"
+                "startTime": "2026-04-20T15:00:00+00:00",
+                "temperature": 15.22,
+                "windSpeed": 23.399020000000004,
+                "windDirection": 251,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-04-20T06:00:00+00:00",
-                "temperature": 21.86,
-                "windSpeed": 17.60519,
-                "windDirection": 309,
-                "shortForecast": "few clouds"
+                "startTime": "2026-04-20T18:00:00+00:00",
+                "temperature": 14.69,
+                "windSpeed": 26.1729,
+                "windDirection": 246,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Subiaco wakes to a clear, generous sky, the light already bright and clean, sharpening edges on verandas and jacaranda bark. Late morning leans sunny and uncomplicated; by early afternoon a few stray clouds may wander through, softening the glare without stealing the day. Expect strong sunshine for much of the midday window, with UV that can still bite in autumn\u2014shade, sunscreen, and good sunglasses will serve you well. The air reads as clear and dry, a day for long views and simple plans.\n\nIt looks like a pleasant, gently warm stretch best met in light layers, breathable fabrics, and a brimmed hat; carry water and you\u2019re set. Consider a slow walk to the shops, a coffee under an awning where you can watch the light move along the footpath, a quick visit to the library by bike, or tending balcony herbs while the sun is kind. Windows open at home will freshen rooms, and laundry will dry gladly on the line. Later, when a few clouds arrive, the light will mellow enough for a comfortable pause on a park bench with a book.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-04-20 10:24:01",
+    "weather_report": "Night has settled over Subiaco with a fine, unhurried rain beginning to tap at roofs and leaves. The sky is sealed in cloud, streetlights bloom with soft halos, and edges blur to a gentle hush. There\u2019s no sunshine left to give the evening any gleam, and the UV index lies essentially asleep until morning. Expect light showers on and off through late evening and into the small hours, more a silky veil than a downpour, leaving pavements slick and reflective.\n\nIt\u2019s a night for a light waterproof layer and closed shoes, nothing bulky, just enough to keep the drizzle polite. If you must head out, walk under awnings and take your time; if you\u2019re staying in, tend to the small things that like rain\u2019s company: rinse a few dishes, set up tomorrow\u2019s bag, leaf through a chapter, or give the balcony plants a brief look while the air smells rinsed and clean. The weather isn\u2019t harsh, only quietly insistent, and with a little care it makes an ordinary late night feel considered and calm.",
+    "color_code": "#3b4e5e",
+    "timestamp": "2026-04-20 22:45:54",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94968951705432,
-        "longitude": 115.8207756267005,
+        "latitude": -31.95044012589572,
+        "longitude": 115.8212699519412,
         "timezone": "Australia/Perth"
     }
 }
