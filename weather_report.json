@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Cottesloe",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.98538853496926,
-            "longitude": 115.7525478076724
+            "latitude": -31.94968951705432,
+            "longitude": 115.8207756267005
         },
         "current_conditions": {
-            "timestamp": "2026-04-19T13:58:26+00:00",
-            "temperature_c": 16.46,
-            "temperature_f": 61.628,
-            "humidity": 64,
-            "wind_speed_mph": 6.62152,
-            "wind_direction": 182,
+            "timestamp": "2026-04-20T02:24:01+00:00",
+            "temperature_c": 20.96,
+            "temperature_f": 69.72800000000001,
+            "humidity": 54,
+            "wind_speed_mph": 8.276900000000001,
+            "wind_direction": 329,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-04-19T15:00:00+00:00",
-                "temperature": 15.92,
-                "windSpeed": 5.8162,
-                "windDirection": 186,
+                "startTime": "2026-04-20T03:00:00+00:00",
+                "temperature": 21.39,
+                "windSpeed": 11.431070000000002,
+                "windDirection": 310,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-04-19T18:00:00+00:00",
-                "temperature": 15.51,
-                "windSpeed": 5.077990000000001,
-                "windDirection": 174,
-                "shortForecast": "clear sky"
+                "startTime": "2026-04-20T06:00:00+00:00",
+                "temperature": 21.86,
+                "windSpeed": 17.60519,
+                "windDirection": 309,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Cottesloe settles into a serene, clear night; the sky is polished glass and the stars feel close enough to pocket. With no cloud to soften it, the air carries a clean edge and the sea holds its breath between slow pulses. Sunshine is offstage for now and the UV is effectively nil, but these lucid hours hint at a bright, uncomplicated start after dawn if the pattern holds. It looks like a pleasing spell: high clarity, no threat of drizzle, the sort of weather that makes streetlights seem almost unnecessary.\n\nDress lightly but bring a soft layer\u2014something you don\u2019t mind slipping off your shoulders on a calm stroll or pulling a bit tighter if the breeze freshens near the water. Tonight suits small, unrushed things: a wander along the foreshore, a quiet sit on the verandah with a cup cooling in your hands, a few pages of a book by an open window. If the clear run carries into morning, ease into the day with a walk before the sun sharpens; UV will start gentle and climb, so plan shade and sunscreen once the light gathers strength.",
-    "color_code": "#0b1d3a",
-    "timestamp": "2026-04-19 21:58:27",
+    "weather_report": "Subiaco wakes to a clear, generous sky, the light already bright and clean, sharpening edges on verandas and jacaranda bark. Late morning leans sunny and uncomplicated; by early afternoon a few stray clouds may wander through, softening the glare without stealing the day. Expect strong sunshine for much of the midday window, with UV that can still bite in autumn\u2014shade, sunscreen, and good sunglasses will serve you well. The air reads as clear and dry, a day for long views and simple plans.\n\nIt looks like a pleasant, gently warm stretch best met in light layers, breathable fabrics, and a brimmed hat; carry water and you\u2019re set. Consider a slow walk to the shops, a coffee under an awning where you can watch the light move along the footpath, a quick visit to the library by bike, or tending balcony herbs while the sun is kind. Windows open at home will freshen rooms, and laundry will dry gladly on the line. Later, when a few clouds arrive, the light will mellow enough for a comfortable pause on a park bench with a book.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-04-20 10:24:01",
     "location": {
-        "name": "Cottesloe",
-        "latitude": -31.98538853496926,
-        "longitude": 115.7525478076724,
+        "name": "Subiaco",
+        "latitude": -31.94968951705432,
+        "longitude": 115.8207756267005,
         "timezone": "Australia/Perth"
     }
 }
