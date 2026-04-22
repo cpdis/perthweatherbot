@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14 22:48:16",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969058111025,
-      "longitude": 115.8207811213037,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-14T14:48:15+00:00",
-      "temperature_c": 20.59,
-      "temperature_f": 69.062,
-      "humidity": 71,
-      "wind_speed_mph": 2.30411,
-      "wind_direction": 90,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco settles into a velveted night, the sky pared back to a clean, inky blue with stars showing t...",
-    "color_code": "#0B1E3A"
-  },
-  {
     "timestamp": "2026-04-15 10:07:08",
     "location": {
       "name": "Wembley",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco settles into a clean, moonlit hush tonight; the sky is swept bare and visibility feels almos...",
     "color_code": "#0b1a3a"
+  },
+  {
+    "timestamp": "2026-04-22 10:10:06",
+    "location": {
+      "name": "Osborne Park",
+      "latitude": -31.90812174573464,
+      "longitude": 115.801704038774,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-04-22T02:10:05+00:00",
+      "temperature_c": 19.35,
+      "temperature_f": 66.83,
+      "humidity": 43,
+      "wind_speed_mph": 9.21644,
+      "wind_direction": 40,
+      "description": "clear sky"
+    },
+    "report_summary": "Morning in Osborne Park arrives under a polished blue, the sort of clear sky that sharpens edges and...",
+    "color_code": "#87CEEB"
   }
 ]
