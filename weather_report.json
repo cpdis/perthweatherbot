@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94966687013219,
-            "longitude": 115.8207996829835
+            "latitude": -31.9486240723867,
+            "longitude": 115.8219976277637
         },
         "current_conditions": {
-            "timestamp": "2026-04-23T02:13:57+00:00",
-            "temperature_c": 18.63,
-            "temperature_f": 65.53399999999999,
-            "humidity": 65,
-            "wind_speed_mph": 19.57375,
-            "wind_direction": 260,
+            "timestamp": "2026-04-23T15:10:37+00:00",
+            "temperature_c": 15.21,
+            "temperature_f": 59.378,
+            "humidity": 71,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-04-23T03:00:00+00:00",
-                "temperature": 18.63,
-                "windSpeed": 21.34098,
-                "windDirection": 248,
+                "startTime": "2026-04-23T18:00:00+00:00",
+                "temperature": 15.54,
+                "windSpeed": 7.09129,
+                "windDirection": 274,
                 "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-04-23T06:00:00+00:00",
-                "temperature": 19.48,
-                "windSpeed": 14.719460000000002,
-                "windDirection": 248,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-04-23T21:00:00+00:00",
+                "temperature": 17.13,
+                "windSpeed": 6.196490000000001,
+                "windDirection": 285,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a quilt of broken cloud, the sun slipping through in generous intervals that brighten pavements and garden walls before softening again. Through late morning into early afternoon the sky should keep this mottled pattern, offering a pleasant, tempered light rather than a hard glare. Despite the interruptions, the UV around midday will still carry some bite for autumn here, moderated but not meek, so a dab of sunscreen and a brimmed hat are wise companions. The air reads as mild and comfortable, neither dour nor sweltering, the kind of day that invites you out without demanding effort.\n\nDress in easy layers\u2014light cotton or linen with a cardigan you can shrug off when the sun takes its turn. It looks like a good time to walk to a caf\u00e9, sit under an awning with a book, or run a few errands on foot while the streets feel calm. If you\u2019re homebound, open a window and let the softened daylight spill in; if you\u2019re out, a gentle loop through the leafy blocks will do nicely before the afternoon\u2019s brighter breaks return. Keep sunglasses close, pace yourself, and let the sky\u2019s shifting temperament set an unhurried rhythm.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-04-23 10:13:57",
+    "weather_report": "Subiaco settles into a quiet, cloud-draped night, the kind where streetlights blur at the edges and the air feels close to the skin. Sunshine is a memory for now; UV is negligible at this hour, and with broken cloud thickening toward dawn and light rain arriving near first light, the early morning will be a muted gray. Expect a soft, pearly sky rather than brilliance; any sun that slips through later will be shy, keeping the UV on the subdued side for the morning. The air will feel gentle but damp, the day\u2019s clarity softened by low cloud and wet pavements.\n\nDress for comfort against drizzle and cool air: a light rain jacket, breathable layers, and shoes that won\u2019t mind slick sidewalks. Keep an umbrella by the door and a dry pair of socks in your bag. It\u2019s a good night for small rituals at home, a chapter or two while the kettle hums, or a short, sheltered stroll to let the day loosen its grip. Around dawn, slip into a cafe nook, unhurried, or take the early train and watch the rain bead and race along the window. If you\u2019re cycling, lights on and an easy cadence; if you\u2019re walking, pockets deep and collar up.",
+    "color_code": "#2E3B49",
+    "timestamp": "2026-04-23 23:10:38",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94966687013219,
-        "longitude": 115.8207996829835,
+        "latitude": -31.9486240723867,
+        "longitude": 115.8219976277637,
         "timezone": "Australia/Perth"
     }
 }
