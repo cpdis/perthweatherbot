@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94970929183988,
-            "longitude": 115.8209041066613
+            "latitude": -31.94966687013219,
+            "longitude": 115.8207996829835
         },
         "current_conditions": {
-            "timestamp": "2026-04-22T14:44:51+00:00",
-            "temperature_c": 14.77,
-            "temperature_f": 58.586,
-            "humidity": 72,
-            "wind_speed_mph": 9.50725,
-            "wind_direction": 279,
-            "description": "overcast clouds"
+            "timestamp": "2026-04-23T02:13:57+00:00",
+            "temperature_c": 18.63,
+            "temperature_f": 65.53399999999999,
+            "humidity": 65,
+            "wind_speed_mph": 19.57375,
+            "wind_direction": 260,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-04-22T15:00:00+00:00",
-                "temperature": 14.77,
-                "windSpeed": 9.50725,
-                "windDirection": 279,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-04-23T03:00:00+00:00",
+                "temperature": 18.63,
+                "windSpeed": 21.34098,
+                "windDirection": 248,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-04-22T18:00:00+00:00",
-                "temperature": 15.1,
-                "windSpeed": 17.80652,
-                "windDirection": 306,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-04-23T06:00:00+00:00",
+                "temperature": 19.48,
+                "windSpeed": 14.719460000000002,
+                "windDirection": 248,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco settles under a low, unbroken ceiling of cloud. At this late hour the sky is ash-gray, the stars smudged out and the moon, if it\u2019s there, kept quiet. Sunshine won\u2019t figure again tonight, and the UV index is essentially nil. The air feels even and unhurried; clarity is softened rather than sharp, with streetlights throwing small halos that fade at the edges.\n\nCloud is set to linger through midnight and the early hours, keeping the mood muted and making dawn likely to arrive in a gentle, grey key if the blanket holds. It\u2019s a night for long sleeves and a light jacket if you slip outside, comfortable shoes for a slow loop around the block, then home to a warm drink and a quiet page or two while you set out tomorrow\u2019s bag. If you\u2019re up early, expect low glare and subdued light; dress in easy layers you can peel back if the day decides to brighten.",
-    "color_code": "#2F3A44",
-    "timestamp": "2026-04-22 22:44:51",
+    "weather_report": "Subiaco wakes under a quilt of broken cloud, the sun slipping through in generous intervals that brighten pavements and garden walls before softening again. Through late morning into early afternoon the sky should keep this mottled pattern, offering a pleasant, tempered light rather than a hard glare. Despite the interruptions, the UV around midday will still carry some bite for autumn here, moderated but not meek, so a dab of sunscreen and a brimmed hat are wise companions. The air reads as mild and comfortable, neither dour nor sweltering, the kind of day that invites you out without demanding effort.\n\nDress in easy layers\u2014light cotton or linen with a cardigan you can shrug off when the sun takes its turn. It looks like a good time to walk to a caf\u00e9, sit under an awning with a book, or run a few errands on foot while the streets feel calm. If you\u2019re homebound, open a window and let the softened daylight spill in; if you\u2019re out, a gentle loop through the leafy blocks will do nicely before the afternoon\u2019s brighter breaks return. Keep sunglasses close, pace yourself, and let the sky\u2019s shifting temperament set an unhurried rhythm.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-04-23 10:13:57",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94970929183988,
-        "longitude": 115.8209041066613,
+        "latitude": -31.94966687013219,
+        "longitude": 115.8207996829835,
         "timezone": "Australia/Perth"
     }
 }
