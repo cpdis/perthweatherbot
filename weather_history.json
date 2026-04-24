@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17 10:10:59",
-    "location": {
-      "name": "Cottesloe",
-      "latitude": -31.99606335618902,
-      "longitude": 115.7536324018056,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-17T02:10:58+00:00",
-      "temperature_c": 21.68,
-      "temperature_f": 71.024,
-      "humidity": 78,
-      "wind_speed_mph": 7.00181,
-      "wind_direction": 270,
-      "description": "broken clouds"
-    },
-    "report_summary": "Late morning in Cottesloe arrives under a dappled sky, the sun slipping through torn fields of cloud...",
-    "color_code": "#AFC8E5"
-  },
-  {
     "timestamp": "2026-04-17 22:19:43",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Cottesloe wakes under a pewter sky, the ocean a slate sheet with a soft hiss at the shore. Light rai...",
     "color_code": "#708090"
+  },
+  {
+    "timestamp": "2026-04-24 22:43:43",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94970903340786,
+      "longitude": 115.8209061546429,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-04-24T14:43:42+00:00",
+      "temperature_c": 13.82,
+      "temperature_f": 56.876,
+      "humidity": 77,
+      "wind_speed_mph": 4.56348,
+      "wind_direction": 96,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Subiaco settles into a late evening with a loose patchwork of scattered clouds, moonlight slipping b...",
+    "color_code": "#1A2740"
   }
 ]
