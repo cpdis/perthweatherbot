@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Cottesloe",
             "country": "AU",
-            "latitude": -31.9486240723867,
-            "longitude": 115.8219976277637
+            "latitude": -31.99607381754693,
+            "longitude": 115.7524742567481
         },
         "current_conditions": {
-            "timestamp": "2026-04-23T15:10:37+00:00",
-            "temperature_c": 15.21,
-            "temperature_f": 59.378,
-            "humidity": 71,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "broken clouds"
+            "timestamp": "2026-04-24T02:14:16+00:00",
+            "temperature_c": 17.04,
+            "temperature_f": 62.672,
+            "humidity": 85,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 30,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-04-23T18:00:00+00:00",
-                "temperature": 15.54,
-                "windSpeed": 7.09129,
-                "windDirection": 274,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-04-24T03:00:00+00:00",
+                "temperature": 17.04,
+                "windSpeed": 6.86759,
+                "windDirection": 260,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-04-23T21:00:00+00:00",
-                "temperature": 17.13,
-                "windSpeed": 6.196490000000001,
-                "windDirection": 285,
+                "startTime": "2026-04-24T06:00:00+00:00",
+                "temperature": 17.75,
+                "windSpeed": 11.341590000000002,
+                "windDirection": 228,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a quiet, cloud-draped night, the kind where streetlights blur at the edges and the air feels close to the skin. Sunshine is a memory for now; UV is negligible at this hour, and with broken cloud thickening toward dawn and light rain arriving near first light, the early morning will be a muted gray. Expect a soft, pearly sky rather than brilliance; any sun that slips through later will be shy, keeping the UV on the subdued side for the morning. The air will feel gentle but damp, the day\u2019s clarity softened by low cloud and wet pavements.\n\nDress for comfort against drizzle and cool air: a light rain jacket, breathable layers, and shoes that won\u2019t mind slick sidewalks. Keep an umbrella by the door and a dry pair of socks in your bag. It\u2019s a good night for small rituals at home, a chapter or two while the kettle hums, or a short, sheltered stroll to let the day loosen its grip. Around dawn, slip into a cafe nook, unhurried, or take the early train and watch the rain bead and race along the window. If you\u2019re cycling, lights on and an easy cadence; if you\u2019re walking, pockets deep and collar up.",
-    "color_code": "#2E3B49",
-    "timestamp": "2026-04-23 23:10:38",
+    "weather_report": "Cottesloe wakes under a pewter sky, the ocean a slate sheet with a soft hiss at the shore. Light rain is drifting in from late morning into the afternoon, the sun a pale coin behind cloud and only rarely breaking through. Expect a muted day rather than a bright one; the air will feel clean, visibility decent, but the horizon smudged by showers. UV will still be moderate around midday despite the overcast, the quiet kind that threads through cloud and asks for a little sunscreen if you linger outside.\n\nIt\u2019s a gentle, slightly wistful day\u2014pleasant for wandering if you don\u2019t mind a sprinkle, less kind to towels on the sand. Dress in breathable layers with a light waterproof or umbrella, and choose sturdy shoes over sandals. A midmorning coffee under an awning suits the hour; run a few errands between bands of rain, or take a short coastal stroll to watch the sea rearrange its patterns. Later, duck into a small gallery in Fremantle, pick up bread and something briny for lunch, or settle by a window to sort the week while the rain keeps a soft metronome.",
+    "color_code": "#708090",
+    "timestamp": "2026-04-24 10:14:16",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.9486240723867,
-        "longitude": 115.8219976277637,
+        "name": "Cottesloe",
+        "latitude": -31.99607381754693,
+        "longitude": 115.7524742567481,
         "timezone": "Australia/Perth"
     }
 }
