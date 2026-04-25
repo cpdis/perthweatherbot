@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17 22:19:43",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970353659466,
-      "longitude": 115.8209552204815,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-17T14:19:43+00:00",
-      "temperature_c": 19.84,
-      "temperature_f": 67.712,
-      "humidity": 77,
-      "wind_speed_mph": 20.71462,
-      "wind_direction": 260,
-      "description": "light rain"
-    },
-    "report_summary": "Night has drawn a soft curtain over Subiaco, the streets glossed with scattered showers that drift i...",
-    "color_code": "#2c3e50"
-  },
-  {
     "timestamp": "2026-04-18 10:02:05",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco settles into a late evening with a loose patchwork of scattered clouds, moonlight slipping b...",
     "color_code": "#1A2740"
+  },
+  {
+    "timestamp": "2026-04-25 10:04:02",
+    "location": {
+      "name": "West Perth",
+      "latitude": -31.95031668568027,
+      "longitude": 115.8415287010832,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-04-25T02:04:02+00:00",
+      "temperature_c": 19.1,
+      "temperature_f": 66.38,
+      "humidity": 67,
+      "wind_speed_mph": 1.00665,
+      "wind_direction": 19,
+      "description": "scattered clouds"
+    },
+    "report_summary": "West Perth leans into late morning under a pale, generous blue, with only a few light clouds idling ...",
+    "color_code": "#87CEEB"
   }
 ]
