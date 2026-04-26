@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94967898263941,
-            "longitude": 115.820791355184
+            "latitude": -31.9497064401125,
+            "longitude": 115.8209082280473
         },
         "current_conditions": {
-            "timestamp": "2026-04-26T02:26:33+00:00",
-            "temperature_c": 20.92,
-            "temperature_f": 69.656,
-            "humidity": 50,
-            "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 80,
-            "description": "clear sky"
+            "timestamp": "2026-04-26T14:02:52+00:00",
+            "temperature_c": 18.79,
+            "temperature_f": 65.822,
+            "humidity": 66,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 170,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-04-26T03:00:00+00:00",
-                "temperature": 20.92,
-                "windSpeed": 5.54776,
-                "windDirection": 84,
-                "shortForecast": "clear sky"
+                "startTime": "2026-04-26T15:00:00+00:00",
+                "temperature": 18.79,
+                "windSpeed": 5.033250000000001,
+                "windDirection": 117,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-04-26T06:00:00+00:00",
-                "temperature": 22.69,
-                "windSpeed": 1.92382,
-                "windDirection": 167,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-04-26T18:00:00+00:00",
+                "temperature": 18.09,
+                "windSpeed": 6.241230000000001,
+                "windDirection": 46,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late morning in Subiaco opens clean and bright, the kind of blue that sharpens edges and makes every leaf look freshly cut. The sun has an eager bite as it climbs, and even in late April the UV can nip at bare skin, so a hat and sunscreen earn their keep. Air clarity is good\u2014crisp sightlines, little haze\u2014so the day feels honest and tidy, the sort that invites unhurried plans without asking much in return.\n\nExpect the shine to hold through lunchtime before a brush of scattered clouds softens the glare in the afternoon, more glossy than gloomy. It looks pleasantly mild rather than sweltering. Dress in light layers\u2014short sleeves with a throw-on for shade or a breeze\u2014plus sunglasses for the hard white light. Good hours for small rituals: a stroll to a caf\u00e9 veranda, a leisurely loop through Kings Park\u2019s paths, tending balcony herbs, or running errands by bike while the streets are calm. If you\u2019ll be out through midday, chase the patches of shade and reapply sunscreen; the sun will feel friendly, but it is not shy.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-04-26 10:26:34",
+    "weather_report": "Subiaco settles into a quiet, dim evening, the sky drawn tight with overcast that softens streetlights into halos and hides any hint of moon. It isn\u2019t a night for sunshine; the UV index is effectively nil, and the air feels calmly cool rather than sharp. Expect the cloud to hold and thicken through late evening, with light rain wandering in after midnight, the sort that dapples pavements and leaves a hush in the trees. The scene is muted and low-contrast, not murky so much as subdued, a night that invites slow steps and small thoughts.\n\nDress in easy layers with a light waterproof close at hand, closed shoes that won\u2019t mind a wet footpath, and a compact umbrella if you\u2019re out late. It\u2019s a pleasant-enough night if you keep it brief: a short walk to clear the day, a cup of tea waiting at home, a glance at tomorrow\u2019s bag and keys by the door. If you\u2019re driving after midnight, the roads may turn slick; unhurried suits the weather. Come morning, check back for any break in the cloud, but for now the city moves in soft focus, content to keep its shine for another time.",
+    "color_code": "#334155",
+    "timestamp": "2026-04-26 22:02:53",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94967898263941,
-        "longitude": 115.820791355184,
+        "latitude": -31.9497064401125,
+        "longitude": 115.8209082280473,
         "timezone": "Australia/Perth"
     }
 }
