@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Scarborough",
             "country": "AU",
-            "latitude": -31.9497064401125,
-            "longitude": 115.8209082280473
+            "latitude": -31.89967254121702,
+            "longitude": 115.7682143688004
         },
         "current_conditions": {
-            "timestamp": "2026-04-26T14:02:52+00:00",
-            "temperature_c": 18.79,
-            "temperature_f": 65.822,
-            "humidity": 66,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 170,
-            "description": "overcast clouds"
+            "timestamp": "2026-04-27T02:28:46+00:00",
+            "temperature_c": 16.96,
+            "temperature_f": 62.528000000000006,
+            "humidity": 79,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 250,
+            "description": "moderate rain"
         },
         "forecast": [
             {
-                "startTime": "2026-04-26T15:00:00+00:00",
-                "temperature": 18.79,
-                "windSpeed": 5.033250000000001,
-                "windDirection": 117,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-04-27T03:00:00+00:00",
+                "temperature": 16.96,
+                "windSpeed": 16.06166,
+                "windDirection": 210,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-04-26T18:00:00+00:00",
-                "temperature": 18.09,
-                "windSpeed": 6.241230000000001,
-                "windDirection": 46,
+                "startTime": "2026-04-27T06:00:00+00:00",
+                "temperature": 16.7,
+                "windSpeed": 9.194070000000002,
+                "windDirection": 151,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a quiet, dim evening, the sky drawn tight with overcast that softens streetlights into halos and hides any hint of moon. It isn\u2019t a night for sunshine; the UV index is effectively nil, and the air feels calmly cool rather than sharp. Expect the cloud to hold and thicken through late evening, with light rain wandering in after midnight, the sort that dapples pavements and leaves a hush in the trees. The scene is muted and low-contrast, not murky so much as subdued, a night that invites slow steps and small thoughts.\n\nDress in easy layers with a light waterproof close at hand, closed shoes that won\u2019t mind a wet footpath, and a compact umbrella if you\u2019re out late. It\u2019s a pleasant-enough night if you keep it brief: a short walk to clear the day, a cup of tea waiting at home, a glance at tomorrow\u2019s bag and keys by the door. If you\u2019re driving after midnight, the roads may turn slick; unhurried suits the weather. Come morning, check back for any break in the cloud, but for now the city moves in soft focus, content to keep its shine for another time.",
-    "color_code": "#334155",
-    "timestamp": "2026-04-26 22:02:53",
+    "weather_report": "Mid-morning in Scarborough feels rinsed and reflective; the early hours brought light rain, and the streets still hold a gentle sheen. A low pewter sky keeps the sunshine shy, more a pale wash than a beam, so the UV stays low, perhaps nudging modest only if the cloud thins. The day looks soft around the edges, distance a little muted but serviceable, the kind of clarity that makes colors quieter and footsteps sound close.\n\nExpect on-and-off light showers to linger through the late morning, with only brief, hesitant bright spells later. It\u2019s a day for comfort: a light waterproof, breathable layers, and shoes content to meet wet pavements; a small umbrella or hood will spare you the fine drizzle. Let the weather set an unhurried pace\u2014run a couple of errands, claim a cafe window and watch rivulets trace the glass, browse the library stacks, or take a short, mindful walk between showers to enjoy the rain\u2019s cool hush. It\u2019s not unpleasant, just subdued, a day that asks less of you and gives back a little calm in return.",
+    "color_code": "#8DA0AE",
+    "timestamp": "2026-04-27 10:28:47",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.9497064401125,
-        "longitude": 115.8209082280473,
+        "name": "Scarborough",
+        "latitude": -31.89967254121702,
+        "longitude": 115.7682143688004,
         "timezone": "Australia/Perth"
     }
 }

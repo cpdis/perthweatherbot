@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19 21:58:27",
-    "location": {
-      "name": "Cottesloe",
-      "latitude": -31.98538853496926,
-      "longitude": 115.7525478076724,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-19T13:58:26+00:00",
-      "temperature_c": 16.46,
-      "temperature_f": 61.628,
-      "humidity": 64,
-      "wind_speed_mph": 6.62152,
-      "wind_direction": 182,
-      "description": "clear sky"
-    },
-    "report_summary": "Cottesloe settles into a serene, clear night; the sky is polished glass and the stars feel close eno...",
-    "color_code": "#0b1d3a"
-  },
-  {
     "timestamp": "2026-04-20 10:24:01",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco settles into a quiet, dim evening, the sky drawn tight with overcast that softens streetligh...",
     "color_code": "#334155"
+  },
+  {
+    "timestamp": "2026-04-27 10:28:47",
+    "location": {
+      "name": "Scarborough",
+      "latitude": -31.89967254121702,
+      "longitude": 115.7682143688004,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-04-27T02:28:46+00:00",
+      "temperature_c": 16.96,
+      "temperature_f": 62.528000000000006,
+      "humidity": 79,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 250,
+      "description": "moderate rain"
+    },
+    "report_summary": "Mid-morning in Scarborough feels rinsed and reflective; the early hours brought light rain, and the ...",
+    "color_code": "#8DA0AE"
   }
 ]
