@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "West Perth",
+            "name": "Herdsman",
             "country": "AU",
-            "latitude": -31.95317974591668,
-            "longitude": 115.8468114574274
+            "latitude": -31.92942749630149,
+            "longitude": 115.8041453190284
         },
         "current_conditions": {
-            "timestamp": "2026-04-28T15:25:08+00:00",
-            "temperature_c": 17,
-            "temperature_f": 62.6,
-            "humidity": 87,
-            "wind_speed_mph": 4.60822,
-            "wind_direction": 60,
+            "timestamp": "2026-04-29T02:36:10+00:00",
+            "temperature_c": 20.7,
+            "temperature_f": 69.25999999999999,
+            "humidity": 78,
+            "wind_speed_mph": 1.99093,
+            "wind_direction": 175,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-04-28T18:00:00+00:00",
-                "temperature": 16.51,
-                "windSpeed": 4.45163,
-                "windDirection": 84,
+                "startTime": "2026-04-29T03:00:00+00:00",
+                "temperature": 20.7,
+                "windSpeed": 1.83434,
+                "windDirection": 251,
                 "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-04-28T21:00:00+00:00",
-                "temperature": 16.82,
-                "windSpeed": 4.38452,
-                "windDirection": 111,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-04-29T06:00:00+00:00",
+                "temperature": 21.5,
+                "windSpeed": 9.32829,
+                "windDirection": 233,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "West Perth settles into a quiet late evening beneath a worn quilt of cloud, the sky breathing in broken patches with the moon occasionally slipping through. The night carries a muted glow and an easy pace; UV exposure is essentially nil now, with no sun until morning. Toward the early hours those clouds thin to scattered tufts, promising a clearer first light and a gentler, more open sky at dawn. Expect a day that begins soft rather than blazing, with sunshine filtered at first before it gathers itself.\n\nIt\u2019s the kind of night for light layers and an easy jacket, something you can shrug off when the morning brightens. If you\u2019re awake, brew a calming tea, sort tomorrow\u2019s bag, or finish that lingering chapter; if you rise with the magpies, a brief walk to greet the early blue would suit the mood. Sunglasses and a dab of sunscreen will be wise once the day wakes, but for now the world is quiet, clear enough to hear your own thoughts.",
-    "color_code": "#223A5E",
-    "timestamp": "2026-04-28 23:25:10",
+    "weather_report": "Late morning in Herdsman arrives with a sky in pieces: broken clouds drifting like loose pages, letting sunlight spill and fade in a gentle rhythm. The light is soft but honest, visibility clean, the air easy on the lungs. Expect the sun to wink through often, especially as midday gathers, with UV in the moderate range despite the patchwork cover; a hat, sunglasses, and a touch of sunscreen will make the day kinder.\n\nThis pattern should hold through the afternoon, a pleasant seesaw of brightness and shade with little hint of mischief from rain. Dress in light layers\u2014a breathable shirt, something you can shrug on if a cooler puff slips from a cloud\u2019s shadow. It\u2019s a good day to take the loop around Herdsman Lake, listen to the reeds fuss, or run a few simple errands by foot or bike while the air stays forgiving. You could string laundry and let the breeze finish the work, or settle on a verandah with a quiet page. If you\u2019re sun-sensitive, tilt your plans toward the gentler hours, and let the dappled light do the rest.",
+    "color_code": "#A7BCCF",
+    "timestamp": "2026-04-29 10:36:10",
     "location": {
-        "name": "West Perth",
-        "latitude": -31.95317974591668,
-        "longitude": 115.8468114574274,
+        "name": "Herdsman",
+        "latitude": -31.92942749630149,
+        "longitude": 115.8041453190284,
         "timezone": "Australia/Perth"
     }
 }

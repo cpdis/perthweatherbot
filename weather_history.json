@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21 22:45:30",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.95037995818612,
-      "longitude": 115.8242506876359,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-21T14:45:30+00:00",
-      "temperature_c": 14.45,
-      "temperature_f": 58.01,
-      "humidity": 70,
-      "wind_speed_mph": 7.672910000000001,
-      "wind_direction": 125,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco settles into a clean, moonlit hush tonight; the sky is swept bare and visibility feels almos...",
-    "color_code": "#0b1a3a"
-  },
-  {
     "timestamp": "2026-04-22 10:10:06",
     "location": {
       "name": "Osborne Park",
@@ -298,5 +278,25 @@
     },
     "report_summary": "West Perth settles into a quiet late evening beneath a worn quilt of cloud, the sky breathing in bro...",
     "color_code": "#223A5E"
+  },
+  {
+    "timestamp": "2026-04-29 10:36:10",
+    "location": {
+      "name": "Herdsman",
+      "latitude": -31.92942749630149,
+      "longitude": 115.8041453190284,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-04-29T02:36:10+00:00",
+      "temperature_c": 20.7,
+      "temperature_f": 69.25999999999999,
+      "humidity": 78,
+      "wind_speed_mph": 1.99093,
+      "wind_direction": 175,
+      "description": "broken clouds"
+    },
+    "report_summary": "Late morning in Herdsman arrives with a sky in pieces: broken clouds drifting like loose pages, lett...",
+    "color_code": "#A7BCCF"
   }
 ]
