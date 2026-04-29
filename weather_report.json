@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Herdsman",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.92942749630149,
-            "longitude": 115.8041453190284
+            "latitude": -31.94969920384204,
+            "longitude": 115.8206577373432
         },
         "current_conditions": {
-            "timestamp": "2026-04-29T02:36:10+00:00",
-            "temperature_c": 20.7,
-            "temperature_f": 69.25999999999999,
-            "humidity": 78,
-            "wind_speed_mph": 1.99093,
-            "wind_direction": 175,
-            "description": "broken clouds"
+            "timestamp": "2026-04-29T15:09:33+00:00",
+            "temperature_c": 16.34,
+            "temperature_f": 61.412,
+            "humidity": 88,
+            "wind_speed_mph": 6.35308,
+            "wind_direction": 167,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-04-29T03:00:00+00:00",
-                "temperature": 20.7,
-                "windSpeed": 1.83434,
-                "windDirection": 251,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-04-29T18:00:00+00:00",
+                "temperature": 16.18,
+                "windSpeed": 3.31076,
+                "windDirection": 123,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2026-04-29T06:00:00+00:00",
-                "temperature": 21.5,
-                "windSpeed": 9.32829,
-                "windDirection": 233,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-04-29T21:00:00+00:00",
+                "temperature": 15.91,
+                "windSpeed": 4.07134,
+                "windDirection": 142,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Late morning in Herdsman arrives with a sky in pieces: broken clouds drifting like loose pages, letting sunlight spill and fade in a gentle rhythm. The light is soft but honest, visibility clean, the air easy on the lungs. Expect the sun to wink through often, especially as midday gathers, with UV in the moderate range despite the patchwork cover; a hat, sunglasses, and a touch of sunscreen will make the day kinder.\n\nThis pattern should hold through the afternoon, a pleasant seesaw of brightness and shade with little hint of mischief from rain. Dress in light layers\u2014a breathable shirt, something you can shrug on if a cooler puff slips from a cloud\u2019s shadow. It\u2019s a good day to take the loop around Herdsman Lake, listen to the reeds fuss, or run a few simple errands by foot or bike while the air stays forgiving. You could string laundry and let the breeze finish the work, or settle on a verandah with a quiet page. If you\u2019re sun-sensitive, tilt your plans toward the gentler hours, and let the dappled light do the rest.",
-    "color_code": "#A7BCCF",
-    "timestamp": "2026-04-29 10:36:10",
+    "weather_report": "Subiaco settles into a clear, quiet night; the few evening clouds have slipped away, leaving a deep, glassy sky and a calm, breathable cool. UV is negligible now, of course, and the clarity is striking, the kind that sharpens sounds and draws out the scent of stone after a mild day. If you\u2019re awake, a light jacket and an unhurried stroll around the block would suit; otherwise, a window cracked open, a kettle humming, and a few pages before bed. Come dawn, if these lucid skies hold, the day should open bright and clean, with the sun quick to take charge and the UV climbing swiftly after breakfast.\n\nExpect a pleasant start that invites small errands on foot and a coffee in a sunlit corner. Dress in layers you can shed easily: a sweater for the early chill, then sunglasses, a brim, and a touch of sunscreen once the light strengthens. It looks like a day for hanging laundry early, watering the balcony pots before the sun bites, or taking the long way to the market, letting the morning\u2019s clear air do its gentle work.",
+    "color_code": "#0b1d3a",
+    "timestamp": "2026-04-29 23:09:33",
     "location": {
-        "name": "Herdsman",
-        "latitude": -31.92942749630149,
-        "longitude": 115.8041453190284,
+        "name": "Subiaco",
+        "latitude": -31.94969920384204,
+        "longitude": 115.8206577373432,
         "timezone": "Australia/Perth"
     }
 }
