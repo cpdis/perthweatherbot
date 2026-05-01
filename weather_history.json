@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 10:14:16",
-    "location": {
-      "name": "Cottesloe",
-      "latitude": -31.99607381754693,
-      "longitude": 115.7524742567481,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-24T02:14:16+00:00",
-      "temperature_c": 17.04,
-      "temperature_f": 62.672,
-      "humidity": 85,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 30,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Cottesloe wakes under a pewter sky, the ocean a slate sheet with a soft hiss at the shore. Light rai...",
-    "color_code": "#708090"
-  },
-  {
     "timestamp": "2026-04-24 22:43:43",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Cottesloe wakes under a pewter sky this late morning, the light thinned to a gentle glaze. A light s...",
     "color_code": "#8FA3B3"
+  },
+  {
+    "timestamp": "2026-05-01 22:15:42",
+    "location": {
+      "name": "Swanbourne",
+      "latitude": -31.98285138927216,
+      "longitude": 115.7693392977751,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-05-01T14:15:41+00:00",
+      "temperature_c": 10.67,
+      "temperature_f": 51.206,
+      "humidity": 72,
+      "wind_speed_mph": 2.99758,
+      "wind_direction": 149,
+      "description": "clear sky"
+    },
+    "report_summary": "Swanbourne settles under a clean, untroubled sky tonight, the day folded neatly into a quiet, glassy...",
+    "color_code": "#0d1b2a"
   }
 ]

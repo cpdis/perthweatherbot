@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Cottesloe",
+            "name": "Swanbourne",
             "country": "AU",
-            "latitude": -31.99608133333334,
-            "longitude": 115.7535365666667
+            "latitude": -31.98285138927216,
+            "longitude": 115.7693392977751
         },
         "current_conditions": {
-            "timestamp": "2026-05-01T02:43:25+00:00",
-            "temperature_c": 15.11,
-            "temperature_f": 59.198,
-            "humidity": 58,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 180,
-            "description": "scattered clouds"
+            "timestamp": "2026-05-01T14:15:41+00:00",
+            "temperature_c": 10.67,
+            "temperature_f": 51.206,
+            "humidity": 72,
+            "wind_speed_mph": 2.99758,
+            "wind_direction": 149,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-05-01T03:00:00+00:00",
-                "temperature": 15.11,
-                "windSpeed": 17.53808,
-                "windDirection": 171,
-                "shortForecast": "light rain"
+                "startTime": "2026-05-01T15:00:00+00:00",
+                "temperature": 10.67,
+                "windSpeed": 11.90084,
+                "windDirection": 154,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-05-01T06:00:00+00:00",
-                "temperature": 15.34,
-                "windSpeed": 21.29624,
-                "windDirection": 187,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-05-01T18:00:00+00:00",
+                "temperature": 9.79,
+                "windSpeed": 10.424420000000001,
+                "windDirection": 151,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Cottesloe wakes under a pewter sky this late morning, the light thinned to a gentle glaze. A light shower is due around now, enough to bead the leaves and salt the air, with visibility still clean and the ocean taking on a subdued blue-grey. Sunshine is scarce for the moment, the sun more rumor than presence, and the UV stays low beneath this blanket.\n\nBy early afternoon the cloud should fracture into broken patches, letting through shy shafts of brightness; when those arrive, the UV will lift to something moderate, the scene clearer though still soft at the edges. It\u2019s a quietly pleasant day if you dress for the damp: a light waterproof or compact umbrella, breathable layers, and shoes that don\u2019t mind puddles; keep sunglasses and a touch of sunscreen handy for the brighter interludes. Good weather for ordinary comforts\u2014an errand loop and a coffee by a window, a brief stroll along the paths when the rain eases, a quiet hour at the library, or pottering at home with the radio murmuring while the afternoon light flickers in and out.",
-    "color_code": "#8FA3B3",
-    "timestamp": "2026-05-01 10:43:26",
+    "weather_report": "Swanbourne settles under a clean, untroubled sky tonight, the day folded neatly into a quiet, glassy dark. Stars feel nearer than usual, streetlights with no halo, the air spare and honest. The sun\u2019s bite is long gone and with it the UV; what remains is a calm clarity that makes you pause on the step and listen to the hush of the lane.\n\nThe afternoon and early evening were bright and unblemished, a blue dome from end to end, the sun confident and UV lively while it rode high; now it has eased to nothing and that spotless feel carries into the night. Expect it to stay clear. It\u2019s pleasant more than warm, so a light jacket or soft jumper will suit a brief wander. Good time to take a gentle loop around the block, linger by the gate while the dog investigates the hedgerow, or step into the garden to check the seedlings and let the sky rinse the day from your head before turning in. Crack a window for a thread of fresh air; let the stillness do the rest.",
+    "color_code": "#0d1b2a",
+    "timestamp": "2026-05-01 22:15:42",
     "location": {
-        "name": "Cottesloe",
-        "latitude": -31.99608133333334,
-        "longitude": 115.7535365666667,
+        "name": "Swanbourne",
+        "latitude": -31.98285138927216,
+        "longitude": 115.7693392977751,
         "timezone": "Australia/Perth"
     }
 }
