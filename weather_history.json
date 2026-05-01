@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23 23:10:38",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9486240723867,
-      "longitude": 115.8219976277637,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-23T15:10:37+00:00",
-      "temperature_c": 15.21,
-      "temperature_f": 59.378,
-      "humidity": 71,
-      "wind_speed_mph": 0.0,
-      "wind_direction": 0,
-      "description": "broken clouds"
-    },
-    "report_summary": "Subiaco settles into a quiet, cloud-draped night, the kind where streetlights blur at the edges and ...",
-    "color_code": "#2E3B49"
-  },
-  {
     "timestamp": "2026-04-24 10:14:16",
     "location": {
       "name": "Cottesloe",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Night has folded over Jolimont with a quiet, pewter sky, and the air hints at rain on the way. Showe...",
     "color_code": "#2E3A4D"
+  },
+  {
+    "timestamp": "2026-05-01 10:43:26",
+    "location": {
+      "name": "Cottesloe",
+      "latitude": -31.99608133333334,
+      "longitude": 115.7535365666667,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-05-01T02:43:25+00:00",
+      "temperature_c": 15.11,
+      "temperature_f": 59.198,
+      "humidity": 58,
+      "wind_speed_mph": 17.26964,
+      "wind_direction": 180,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Cottesloe wakes under a pewter sky this late morning, the light thinned to a gentle glaze. A light s...",
+    "color_code": "#8FA3B3"
   }
 ]
