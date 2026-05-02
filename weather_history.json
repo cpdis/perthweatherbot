@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 22:43:43",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970903340786,
-      "longitude": 115.8209061546429,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-24T14:43:42+00:00",
-      "temperature_c": 13.82,
-      "temperature_f": 56.876,
-      "humidity": 77,
-      "wind_speed_mph": 4.56348,
-      "wind_direction": 96,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Subiaco settles into a late evening with a loose patchwork of scattered clouds, moonlight slipping b...",
-    "color_code": "#1A2740"
-  },
-  {
     "timestamp": "2026-04-25 10:04:02",
     "location": {
       "name": "West Perth",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Swanbourne settles under a clean, untroubled sky tonight, the day folded neatly into a quiet, glassy...",
     "color_code": "#0d1b2a"
+  },
+  {
+    "timestamp": "2026-05-02 10:26:10",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969661488577,
+      "longitude": 115.8207866828154,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-05-02T02:26:10+00:00",
+      "temperature_c": 15.68,
+      "temperature_f": 60.224000000000004,
+      "humidity": 56,
+      "wind_speed_mph": 10.35731,
+      "wind_direction": 170,
+      "description": "few clouds"
+    },
+    "report_summary": "Morning in Subiaco opens bright and clean, the sky mostly open with only a few tufted clouds driftin...",
+    "color_code": "#87CEEB"
   }
 ]
