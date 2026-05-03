@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25 22:02:04",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970538085748,
-      "longitude": 115.8206529554352,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-25T14:02:04+00:00",
-      "temperature_c": 15.22,
-      "temperature_f": 59.396,
-      "humidity": 75,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 170,
-      "description": "clear sky"
-    },
-    "report_summary": "Late evening settles over Subiaco with a clean, unruffled sky, the day\u2019s bright clarity tapering int...",
-    "color_code": "#0B1E3B"
-  },
-  {
     "timestamp": "2026-04-26 10:26:34",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco settles into late evening under a quilt of broken cloud, the moon slipping in and out like a...",
     "color_code": "#2C3E50"
+  },
+  {
+    "timestamp": "2026-05-03 10:34:45",
+    "location": {
+      "name": "Churchlands",
+      "latitude": -31.92263626083535,
+      "longitude": 115.7839152709276,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-05-03T02:34:44+00:00",
+      "temperature_c": 16.61,
+      "temperature_f": 61.898,
+      "humidity": 69,
+      "wind_speed_mph": 2.99758,
+      "wind_direction": 113,
+      "description": "few clouds"
+    },
+    "report_summary": "Late morning in Churchlands opens clear and honest, a blue bowl with only a few idle clouds drifting...",
+    "color_code": "#87CEEB"
   }
 ]

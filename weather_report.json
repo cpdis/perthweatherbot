@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Churchlands",
             "country": "AU",
-            "latitude": -31.9496947416799,
-            "longitude": 115.8206677224209
+            "latitude": -31.92263626083535,
+            "longitude": 115.7839152709276
         },
         "current_conditions": {
-            "timestamp": "2026-05-02T14:09:05+00:00",
-            "temperature_c": 12.7,
-            "temperature_f": 54.86,
-            "humidity": 75,
-            "wind_speed_mph": 6.62152,
-            "wind_direction": 145,
-            "description": "broken clouds"
+            "timestamp": "2026-05-03T02:34:44+00:00",
+            "temperature_c": 16.61,
+            "temperature_f": 61.898,
+            "humidity": 69,
+            "wind_speed_mph": 2.99758,
+            "wind_direction": 113,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-05-02T15:00:00+00:00",
-                "temperature": 12.7,
-                "windSpeed": 6.10701,
-                "windDirection": 141,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-05-03T03:00:00+00:00",
+                "temperature": 16.61,
+                "windSpeed": 5.10036,
+                "windDirection": 136,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2026-05-02T18:00:00+00:00",
-                "temperature": 13.38,
-                "windSpeed": 4.183190000000001,
-                "windDirection": 128,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-05-03T06:00:00+00:00",
+                "temperature": 18.27,
+                "windSpeed": 6.688630000000001,
+                "windDirection": 197,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Subiaco settles into late evening under a quilt of broken cloud, the moon slipping in and out like a shy performer. The air feels clear and unhurried, visibility steady, the sky\u2019s patchwork softening edges rather than closing them in. There\u2019s no real sun left to speak of now, and the UV is essentially asleep; when daylight returns, expect a start\u2011stop kind of brightness with the sun filtered through gaps, more gentle than glaring.\n\nOvernight should stay partly cloudy and calm, an easy sort of in\u2011between. A light sweater or unassuming jacket will be enough, comfortable shoes if you step out. It\u2019s a good hour for a quiet errand, a slow lap of the block, or a book by an open window while the clouds drift like stage curtains; stargazers may get brief, rewarding openings if they linger.",
-    "color_code": "#2C3E50",
-    "timestamp": "2026-05-02 22:09:06",
+    "weather_report": "Late morning in Churchlands opens clear and honest, a blue bowl with only a few idle clouds drifting by. The light has that autumn softness but still gleams off leaves and windows, with crisp visibility and no hint of haze. Expect the sun to keep the reins through early afternoon, just a fingertip of cloud now and then, staying dry and bright. UV will peak around midday in the moderate range, gentle by winter\u2019s standards yet still worth a hat, sunglasses, and a dab of sunscreen if you linger.\n\nIt\u2019s a pleasant, ease-into-the-day sort of weather. Think light layers: a breathable shirt, a cardigan for shade or breeze, comfortable shoes. This is a fine time to loop around Herdsman Lake, air the house, hang the washing, or stroll to the shops and back with an unhurried stride. A coffee on a sunny verandah would pair well with the sky, and a quiet hour with a book outdoors before the afternoon edges cooler would feel just right.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-05-03 10:34:45",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.9496947416799,
-        "longitude": 115.8206677224209,
+        "name": "Churchlands",
+        "latitude": -31.92263626083535,
+        "longitude": 115.7839152709276,
         "timezone": "Australia/Perth"
     }
 }
