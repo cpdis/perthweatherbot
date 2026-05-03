@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26 10:26:34",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967898263941,
-      "longitude": 115.820791355184,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-26T02:26:33+00:00",
-      "temperature_c": 20.92,
-      "temperature_f": 69.656,
-      "humidity": 50,
-      "wind_speed_mph": 13.802290000000001,
-      "wind_direction": 80,
-      "description": "clear sky"
-    },
-    "report_summary": "Late morning in Subiaco opens clean and bright, the kind of blue that sharpens edges and makes every...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-04-26 22:02:53",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Late morning in Churchlands opens clear and honest, a blue bowl with only a few idle clouds drifting...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-05-03 22:09:49",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94963640744517,
+      "longitude": 115.820697204303,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-05-03T14:09:48+00:00",
+      "temperature_c": 13.67,
+      "temperature_f": 56.606,
+      "humidity": 76,
+      "wind_speed_mph": 1.00665,
+      "wind_direction": 249,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco settles into a lucid night: the sky is clear now and set to stay that way through the small ...",
+    "color_code": "#0a1a3f"
   }
 ]

@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Churchlands",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.92263626083535,
-            "longitude": 115.7839152709276
+            "latitude": -31.94963640744517,
+            "longitude": 115.820697204303
         },
         "current_conditions": {
-            "timestamp": "2026-05-03T02:34:44+00:00",
-            "temperature_c": 16.61,
-            "temperature_f": 61.898,
-            "humidity": 69,
-            "wind_speed_mph": 2.99758,
-            "wind_direction": 113,
-            "description": "few clouds"
+            "timestamp": "2026-05-03T14:09:48+00:00",
+            "temperature_c": 13.67,
+            "temperature_f": 56.606,
+            "humidity": 76,
+            "wind_speed_mph": 1.00665,
+            "wind_direction": 249,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-05-03T03:00:00+00:00",
-                "temperature": 16.61,
-                "windSpeed": 5.10036,
-                "windDirection": 136,
-                "shortForecast": "few clouds"
+                "startTime": "2026-05-03T15:00:00+00:00",
+                "temperature": 13.67,
+                "windSpeed": 11.296850000000001,
+                "windDirection": 103,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-05-03T06:00:00+00:00",
-                "temperature": 18.27,
-                "windSpeed": 6.688630000000001,
-                "windDirection": 197,
-                "shortForecast": "few clouds"
+                "startTime": "2026-05-03T18:00:00+00:00",
+                "temperature": 13.64,
+                "windSpeed": 5.97279,
+                "windDirection": 96,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Late morning in Churchlands opens clear and honest, a blue bowl with only a few idle clouds drifting by. The light has that autumn softness but still gleams off leaves and windows, with crisp visibility and no hint of haze. Expect the sun to keep the reins through early afternoon, just a fingertip of cloud now and then, staying dry and bright. UV will peak around midday in the moderate range, gentle by winter\u2019s standards yet still worth a hat, sunglasses, and a dab of sunscreen if you linger.\n\nIt\u2019s a pleasant, ease-into-the-day sort of weather. Think light layers: a breathable shirt, a cardigan for shade or breeze, comfortable shoes. This is a fine time to loop around Herdsman Lake, air the house, hang the washing, or stroll to the shops and back with an unhurried stride. A coffee on a sunny verandah would pair well with the sky, and a quiet hour with a book outdoors before the afternoon edges cooler would feel just right.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-05-03 10:34:45",
+    "weather_report": "Subiaco settles into a lucid night: the sky is clear now and set to stay that way through the small hours, a clean, inky dome with sharp stars and no haze to soften the edges. It feels like a night that pares things back and quiets them down. With no sun, UV is essentially absent; if this clarity lingers into morning, expect a bright, unfiltered start and a quick rise in UV once the sun climbs, so plan a little shade and protection for the late morning and midday.\n\nFor now, a light layer or soft sweater suits a short step outside, a slow circuit of the block, or a few minutes on the balcony letting the rooms breathe. It\u2019s a good time to water the plants, sort the bag for tomorrow, or take the dog for a last, unhurried walk. If you\u2019re up early and the blue holds, an easy stroll to pick up bread or a quiet coffee outdoors will feel crisp and kind; bring sunglasses and a hat if you\u2019ll linger.",
+    "color_code": "#0a1a3f",
+    "timestamp": "2026-05-03 22:09:49",
     "location": {
-        "name": "Churchlands",
-        "latitude": -31.92263626083535,
-        "longitude": 115.7839152709276,
+        "name": "Subiaco",
+        "latitude": -31.94963640744517,
+        "longitude": 115.820697204303,
         "timezone": "Australia/Perth"
     }
 }
