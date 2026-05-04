@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26 22:02:53",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9497064401125,
-      "longitude": 115.8209082280473,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-26T14:02:52+00:00",
-      "temperature_c": 18.79,
-      "temperature_f": 65.822,
-      "humidity": 66,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 170,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Subiaco settles into a quiet, dim evening, the sky drawn tight with overcast that softens streetligh...",
-    "color_code": "#334155"
-  },
-  {
     "timestamp": "2026-04-27 10:28:47",
     "location": {
       "name": "Scarborough",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco settles into a lucid night: the sky is clear now and set to stay that way through the small ...",
     "color_code": "#0a1a3f"
+  },
+  {
+    "timestamp": "2026-05-04 10:32:58",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94967174363511,
+      "longitude": 115.8207956890086,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-05-04T02:32:58+00:00",
+      "temperature_c": 18.28,
+      "temperature_f": 64.904,
+      "humidity": 57,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 50,
+      "description": "few clouds"
+    },
+    "report_summary": "Late morning in Subiaco is washed in calm, a generous blue stretched over a few rakish, fair-weather...",
+    "color_code": "#87CEEB"
   }
 ]
