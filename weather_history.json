@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2026-04-28 10:36:16",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94966637543448,
-      "longitude": 115.8208275005446,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-28T02:36:16+00:00",
-      "temperature_c": 18.63,
-      "temperature_f": 65.53399999999999,
-      "humidity": 77,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 110,
-      "description": "broken clouds"
-    },
-    "report_summary": "Late morning in Subiaco arrives under a sky in pieces, broken clouds wandering while the sun slips b...",
-    "color_code": "#A6BFD0"
-  },
-  {
-    "timestamp": "2026-04-28 23:25:10",
-    "location": {
-      "name": "West Perth",
-      "latitude": -31.95317974591668,
-      "longitude": 115.8468114574274,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-28T15:25:08+00:00",
-      "temperature_c": 17,
-      "temperature_f": 62.6,
-      "humidity": 87,
-      "wind_speed_mph": 4.60822,
-      "wind_direction": 60,
-      "description": "broken clouds"
-    },
-    "report_summary": "West Perth settles into a quiet late evening beneath a worn quilt of cloud, the sky breathing in bro...",
-    "color_code": "#223A5E"
-  },
-  {
     "timestamp": "2026-04-29 10:36:10",
     "location": {
       "name": "Herdsman",
@@ -297,6 +257,26 @@
       "description": "clear sky"
     },
     "report_summary": "Subiaco wakes to a clean, bright late morning, the sky mostly untroubled and the light sharpening ed...",
+    "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-05-06 10:31:52",
+    "location": {
+      "name": "Herdsman",
+      "latitude": -31.91199204078114,
+      "longitude": 115.8039203734874,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-05-06T02:31:52+00:00",
+      "temperature_c": 19.28,
+      "temperature_f": 66.70400000000001,
+      "humidity": 54,
+      "wind_speed_mph": 16.1064,
+      "wind_direction": 80,
+      "description": "clear sky"
+    },
+    "report_summary": "Herdsman wakes under a rinsed-blue sky, the sun already sketching crisp shadows at midmorning and pr...",
     "color_code": "#87CEEB"
   }
 ]

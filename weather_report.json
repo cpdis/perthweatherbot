@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Herdsman",
             "country": "AU",
-            "latitude": -31.94969238449095,
-            "longitude": 115.8207799383587
+            "latitude": -31.91199204078114,
+            "longitude": 115.8039203734874
         },
         "current_conditions": {
-            "timestamp": "2026-05-05T02:27:34+00:00",
-            "temperature_c": 19.27,
-            "temperature_f": 66.686,
-            "humidity": 58,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 60,
+            "timestamp": "2026-05-06T02:31:52+00:00",
+            "temperature_c": 19.28,
+            "temperature_f": 66.70400000000001,
+            "humidity": 54,
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 80,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-05-05T03:00:00+00:00",
-                "temperature": 19.27,
-                "windSpeed": 5.88331,
-                "windDirection": 44,
+                "startTime": "2026-05-06T03:00:00+00:00",
+                "temperature": 19.28,
+                "windSpeed": 12.348239999999999,
+                "windDirection": 75,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-05-05T06:00:00+00:00",
-                "temperature": 20.31,
-                "windSpeed": 5.90568,
-                "windDirection": 202,
-                "shortForecast": "few clouds"
+                "startTime": "2026-05-06T06:00:00+00:00",
+                "temperature": 20.54,
+                "windSpeed": 8.29927,
+                "windDirection": 87,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco wakes to a clean, bright late morning, the sky mostly untroubled and the light sharpening edges on verandas and plane trees. Sun strength is climbing toward the midday peak, likely a moderate to high UV spell, so a hat, sunglasses, and a brush of sunscreen will serve you well; a light layer for the shade and short sleeves for the sun strike a good balance. The air feels clear and uncomplicated, the sort of clarity that makes colors ring true.\n\nThrough the afternoon, expect the blue to soften with a few idle clouds while the day stays dry, bright, and pleasant rather than pushy. It looks like a day for ordinary pleasures: ambling to a neighborhood caf\u00e9, airing the house and letting the rooms brighten, hanging a small wash to dry, or taking the long way to pick up groceries. If work calls, a window seat will do; if not, a short, unhurried walk after lunch will. As the sun eases, the UV bite will fade and the light will grow kinder, inviting a quiet errand or a page or two on a park bench.",
+    "weather_report": "Herdsman wakes under a rinsed-blue sky, the sun already sketching crisp shadows at midmorning and promising a day that stays clean and bright. The air feels lean and clear, with that gentle May warmth edging in as the hours move toward noon. Expect a steady run of sunshine through the early afternoon; UV will nudge to moderate, the sort that doesn\u2019t shout but still leaves its mark, so a hat, sunglasses, and a brush of sunscreen are wise. It\u2019s the kind of clarity that sharpens colors and invites long glances at distant lines, a day without haze or fuss.\n\nDress in light layers you can shed by lunch: breathable shirt, easy trousers, something you won\u2019t mind rolling at the sleeves. It\u2019s a pleasant day to walk your errands instead of driving, air out the house, or take your coffee to a quiet bench and let the light do its quiet work. If you\u2019re at a desk, steal a sunlit corner for a call; if you\u2019re at home, hang the wash and let the breeze finish the job. By late afternoon, expect the warmth to ease back politely, leaving the evening soft and unhurried.",
     "color_code": "#87CEEB",
-    "timestamp": "2026-05-05 10:27:35",
+    "timestamp": "2026-05-06 10:31:52",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94969238449095,
-        "longitude": 115.8207799383587,
+        "name": "Herdsman",
+        "latitude": -31.91199204078114,
+        "longitude": 115.8039203734874,
         "timezone": "Australia/Perth"
     }
 }
