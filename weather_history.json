@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30 10:37:15",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969329088944,
-      "longitude": 115.8207799415954,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-30T02:37:15+00:00",
-      "temperature_c": 20.43,
-      "temperature_f": 68.774,
-      "humidity": 75,
-      "wind_speed_mph": 4.60822,
-      "wind_direction": 180,
-      "description": "few clouds"
-    },
-    "report_summary": "Subiaco wakes under a gentle, broken sky; light drifts between a few clouds, giving the streets a cl...",
-    "color_code": "#8FAEC1"
-  },
-  {
     "timestamp": "2026-04-30 23:06:03",
     "location": {
       "name": "Jolimont",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Subiaco wakes under a polished, uncomplicated blue, the sun already steady and clean on late-morning...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-05-07 23:26:29",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94972916359204,
+      "longitude": 115.8207663272025,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-05-07T15:26:28+00:00",
+      "temperature_c": 17.13,
+      "temperature_f": 62.833999999999996,
+      "humidity": 53,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 80,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco settles under a clear, ink-blue sky tonight; stars are crisp, the air a touch cool, and the ...",
+    "color_code": "#0A2342"
   }
 ]
