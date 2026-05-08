@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30 23:06:03",
-    "location": {
-      "name": "Jolimont",
-      "latitude": -31.94267688232123,
-      "longitude": 115.8057296876506,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-04-30T15:06:02+00:00",
-      "temperature_c": 16.54,
-      "temperature_f": 61.772,
-      "humidity": 69,
-      "wind_speed_mph": 7.00181,
-      "wind_direction": 202,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Night has folded over Jolimont with a quiet, pewter sky, and the air hints at rain on the way. Showe...",
-    "color_code": "#2E3A4D"
-  },
-  {
     "timestamp": "2026-05-01 10:43:26",
     "location": {
       "name": "Cottesloe",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Subiaco settles under a clear, ink-blue sky tonight; stars are crisp, the air a touch cool, and the ...",
     "color_code": "#0A2342"
+  },
+  {
+    "timestamp": "2026-05-08 10:40:05",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94970550788488,
+      "longitude": 115.8207772990437,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-05-08T02:40:04+00:00",
+      "temperature_c": 19.78,
+      "temperature_f": 67.604,
+      "humidity": 51,
+      "wind_speed_mph": 19.57375,
+      "wind_direction": 50,
+      "description": "few clouds"
+    },
+    "report_summary": "Subiaco wakes to a clean blue canopy brushed with a few lazy clouds, the sort that drift without int...",
+    "color_code": "#87CEEB"
   }
 ]

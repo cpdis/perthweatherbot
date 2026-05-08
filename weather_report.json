@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94972916359204,
-            "longitude": 115.8207663272025
+            "latitude": -31.94970550788488,
+            "longitude": 115.8207772990437
         },
         "current_conditions": {
-            "timestamp": "2026-05-07T15:26:28+00:00",
-            "temperature_c": 17.13,
-            "temperature_f": 62.833999999999996,
-            "humidity": 53,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 80,
-            "description": "clear sky"
+            "timestamp": "2026-05-08T02:40:04+00:00",
+            "temperature_c": 19.78,
+            "temperature_f": 67.604,
+            "humidity": 51,
+            "wind_speed_mph": 19.57375,
+            "wind_direction": 50,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-05-07T18:00:00+00:00",
-                "temperature": 16.52,
-                "windSpeed": 15.03264,
-                "windDirection": 72,
-                "shortForecast": "clear sky"
+                "startTime": "2026-05-08T03:00:00+00:00",
+                "temperature": 19.78,
+                "windSpeed": 16.195880000000002,
+                "windDirection": 58,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2026-05-07T21:00:00+00:00",
-                "temperature": 14.56,
-                "windSpeed": 14.965530000000001,
-                "windDirection": 71,
-                "shortForecast": "clear sky"
+                "startTime": "2026-05-08T06:00:00+00:00",
+                "temperature": 20.88,
+                "windSpeed": 13.757550000000002,
+                "windDirection": 64,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Subiaco settles under a clear, ink-blue sky tonight; stars are crisp, the air a touch cool, and the streets feel tidied by quiet. It is not a night of sun but of clean visibility and easy breathing, the sort of clarity that makes distant bells sound closer. UV is essentially asleep now, and with these cloudless hours, dawn is likely to arrive bright and unfiltered, the kind of sunshine that sharpens edges and warms stone quickly.\n\nExpect a pleasant, dry-feeling start if the clear spell lingers. A light jacket or soft sweater suits the late night and the first hours after sunrise; trade it for sleeves you can roll when the day wakes up. If you\u2019re out late, a gentle stroll or a slow lap around the piazza fits the mood; if you\u2019re up early, a coffee on a quiet terrace or a quick errand before the town stirs will feel just right. Plan on sunglasses and a touch of sunscreen later in the morning, when the sun begins to show its intent under an open sky.",
-    "color_code": "#0A2342",
-    "timestamp": "2026-05-07 23:26:29",
+    "weather_report": "Subiaco wakes to a clean blue canopy brushed with a few lazy clouds, the sort that drift without intention. Late morning light has a soft gleam, promising a day that stays mostly clear and bright into the afternoon. Visibility looks crisp, the air uncomplicated; even in autumn the sun has a confident hand, so the UV is likely moderate around midday\u2014gentle to the eye but still worth a touch of sunscreen and a hat. It feels like a day made for light layers: a breathable shirt, maybe a cardigan pocketed just in case, sunglasses you won\u2019t regret carrying.\n\nPleasant, yes, in that unhurried way that helps small plans bloom. Take a slow stroll along Rokeby Road for a late coffee and a newspaper, or walk your errands instead of driving and let the sky do the talking. If you\u2019re staying in, throw the windows open and let the rooms air; the light is good for tending a windowsill herb pot, mending a button, or finishing a chapter in a quiet corner. By afternoon, with only a few clouds for company, it should remain bright and amiable\u2014clear enough to notice the shape of shadows and the welcome pause between tasks.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-05-08 10:40:05",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94972916359204,
-        "longitude": 115.8207663272025,
+        "latitude": -31.94970550788488,
+        "longitude": 115.8207772990437,
         "timezone": "Australia/Perth"
     }
 }
