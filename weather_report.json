@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Burnside",
             "country": "AU",
-            "latitude": -31.94970550788488,
-            "longitude": 115.8207772990437
+            "latitude": -33.91720171666667,
+            "longitude": 115.03915355
         },
         "current_conditions": {
-            "timestamp": "2026-05-08T02:40:04+00:00",
-            "temperature_c": 19.78,
-            "temperature_f": 67.604,
-            "humidity": 51,
-            "wind_speed_mph": 19.57375,
-            "wind_direction": 50,
-            "description": "few clouds"
+            "timestamp": "2026-05-08T14:48:28+00:00",
+            "temperature_c": 14.74,
+            "temperature_f": 58.532,
+            "humidity": 54,
+            "wind_speed_mph": 11.58766,
+            "wind_direction": 65,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-05-08T03:00:00+00:00",
-                "temperature": 19.78,
-                "windSpeed": 16.195880000000002,
-                "windDirection": 58,
-                "shortForecast": "few clouds"
+                "startTime": "2026-05-08T15:00:00+00:00",
+                "temperature": 14.74,
+                "windSpeed": 11.58766,
+                "windDirection": 65,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-05-08T06:00:00+00:00",
-                "temperature": 20.88,
-                "windSpeed": 13.757550000000002,
-                "windDirection": 64,
-                "shortForecast": "few clouds"
+                "startTime": "2026-05-08T18:00:00+00:00",
+                "temperature": 14.79,
+                "windSpeed": 15.905070000000002,
+                "windDirection": 55,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco wakes to a clean blue canopy brushed with a few lazy clouds, the sort that drift without intention. Late morning light has a soft gleam, promising a day that stays mostly clear and bright into the afternoon. Visibility looks crisp, the air uncomplicated; even in autumn the sun has a confident hand, so the UV is likely moderate around midday\u2014gentle to the eye but still worth a touch of sunscreen and a hat. It feels like a day made for light layers: a breathable shirt, maybe a cardigan pocketed just in case, sunglasses you won\u2019t regret carrying.\n\nPleasant, yes, in that unhurried way that helps small plans bloom. Take a slow stroll along Rokeby Road for a late coffee and a newspaper, or walk your errands instead of driving and let the sky do the talking. If you\u2019re staying in, throw the windows open and let the rooms air; the light is good for tending a windowsill herb pot, mending a button, or finishing a chapter in a quiet corner. By afternoon, with only a few clouds for company, it should remain bright and amiable\u2014clear enough to notice the shape of shadows and the welcome pause between tasks.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-05-08 10:40:05",
+    "weather_report": "Night has settled gently over Burnside, and the sky is rinsed clear, the kind of dark that makes every star feel newly minted. The afternoon and early evening were sunlit and untroubled by clouds, bright enough that the UV would have had some bite; now it has slipped to nothing, leaving a calm, transparent night that feels clean on the lungs and kind to the eyes.\n\nThe rest of the night looks to stay cloudless and quiet. If you step out, a light jacket or soft sweater will suit the cool, and there\u2019s no need to fuss with rain gear. It\u2019s pleasant in that unshowy way: good for an unhurried stroll around the block, a few minutes of stargazing at the curb, or finishing the day by an open window with a book while the house settles. Earlier called for sunglasses and a touch of sunscreen; now it asks only for leisure and small, tidy plans.",
+    "color_code": "#0B1D3A",
+    "timestamp": "2026-05-08 22:48:28",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94970550788488,
-        "longitude": 115.8207772990437,
+        "name": "Burnside",
+        "latitude": -33.91720171666667,
+        "longitude": 115.03915355,
         "timezone": "Australia/Perth"
     }
 }

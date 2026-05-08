@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01 10:43:26",
-    "location": {
-      "name": "Cottesloe",
-      "latitude": -31.99608133333334,
-      "longitude": 115.7535365666667,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-05-01T02:43:25+00:00",
-      "temperature_c": 15.11,
-      "temperature_f": 59.198,
-      "humidity": 58,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 180,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Cottesloe wakes under a pewter sky this late morning, the light thinned to a gentle glaze. A light s...",
-    "color_code": "#8FA3B3"
-  },
-  {
     "timestamp": "2026-05-01 22:15:42",
     "location": {
       "name": "Swanbourne",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Subiaco wakes to a clean blue canopy brushed with a few lazy clouds, the sort that drift without int...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-05-08 22:48:28",
+    "location": {
+      "name": "Burnside",
+      "latitude": -33.91720171666667,
+      "longitude": 115.03915355,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-05-08T14:48:28+00:00",
+      "temperature_c": 14.74,
+      "temperature_f": 58.532,
+      "humidity": 54,
+      "wind_speed_mph": 11.58766,
+      "wind_direction": 65,
+      "description": "clear sky"
+    },
+    "report_summary": "Night has settled gently over Burnside, and the sky is rinsed clear, the kind of dark that makes eve...",
+    "color_code": "#0B1D3A"
   }
 ]
