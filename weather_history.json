@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02 10:26:10",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969661488577,
-      "longitude": 115.8207866828154,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-05-02T02:26:10+00:00",
-      "temperature_c": 15.68,
-      "temperature_f": 60.224000000000004,
-      "humidity": 56,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 170,
-      "description": "few clouds"
-    },
-    "report_summary": "Morning in Subiaco opens bright and clean, the sky mostly open with only a few tufted clouds driftin...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-05-02 22:09:06",
     "location": {
       "name": "Subiaco",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Morning in Burnside arrives polished and uncomplicated: a clear, generous sky and clean light that s...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-05-09 22:15:34",
+    "location": {
+      "name": "Gnarabup",
+      "latitude": -33.99641819940546,
+      "longitude": 114.9970019272794,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-05-09T14:15:34+00:00",
+      "temperature_c": 15,
+      "temperature_f": 59.0,
+      "humidity": 57,
+      "wind_speed_mph": 10.17835,
+      "wind_direction": 63,
+      "description": "clear sky"
+    },
+    "report_summary": "A clear, salt-tinged night has settled over Gnarabup, the sky rinsed clean and starry, the air with ...",
+    "color_code": "#0b1e3b"
   }
 ]

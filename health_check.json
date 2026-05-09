@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-09T02:33:44.314248",
+  "timestamp": "2026-05-09T14:15:32.024354",
   "overall_status": "healthy",
   "summary": {
     "total_checks": 5,
@@ -14,7 +14,7 @@
       "details": [
         "OpenWeather API key configured",
         "OpenAI API key configured",
-        "Location: Burnside"
+        "Location: Gnarabup"
       ]
     },
     {
@@ -41,7 +41,7 @@
     {
       "name": "OpenWeather API",
       "status": "healthy",
-      "response_time_ms": 236.067,
+      "response_time_ms": 311.41799999999995,
       "details": "HTTP 200"
     }
   ]

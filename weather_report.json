@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Burnside",
+            "name": "Gnarabup",
             "country": "AU",
-            "latitude": -33.91720171666667,
-            "longitude": 115.03915355
+            "latitude": -33.99641819940546,
+            "longitude": 114.9970019272794
         },
         "current_conditions": {
-            "timestamp": "2026-05-09T02:33:46+00:00",
-            "temperature_c": 17.92,
-            "temperature_f": 64.256,
-            "humidity": 49,
-            "wind_speed_mph": 16.15114,
-            "wind_direction": 29,
+            "timestamp": "2026-05-09T14:15:34+00:00",
+            "temperature_c": 15,
+            "temperature_f": 59.0,
+            "humidity": 57,
+            "wind_speed_mph": 10.17835,
+            "wind_direction": 63,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-05-09T03:00:00+00:00",
-                "temperature": 17.92,
-                "windSpeed": 16.15114,
-                "windDirection": 29,
+                "startTime": "2026-05-09T15:00:00+00:00",
+                "temperature": 14.91,
+                "windSpeed": 12.348239999999999,
+                "windDirection": 54,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-05-09T06:00:00+00:00",
-                "temperature": 18.48,
-                "windSpeed": 14.36154,
-                "windDirection": 8,
+                "startTime": "2026-05-09T18:00:00+00:00",
+                "temperature": 14.86,
+                "windSpeed": 14.22732,
+                "windDirection": 39,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Morning in Burnside arrives polished and uncomplicated: a clear, generous sky and clean light that sharpens the edges of rooftops and trees. The air reads as steady and transparent, with long sightlines and no hint of murk. As the sun climbs, expect a day written in bright ink\u2014sunny through the afternoon\u2014with the UV gentler now but turning assertive around midday, the sort that rewards a brimmed hat, sunglasses, and a dab of sunscreen.\n\nIt looks like a pleasant, get-things-done Saturday\u2014good for walking your errands instead of driving, hanging the wash to dry, or giving the garden a quiet once-over before the sun gets insistent. Light layers will suit the morning; switch to something breezier by lunch, and keep water close at hand. Later, as the light softens, a small loop around the neighborhood or a bench with a book will feel just right, the day ending as clearly as it began.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-05-09 10:33:46",
+    "weather_report": "A clear, salt-tinged night has settled over Gnarabup, the sky rinsed clean and starry, the air with that tidy, see-through quality that makes distant lights feel closer. UV is essentially absent now; it is a night for unhurried steps and easy breathing. The forecast keeps the canvas cloudless through late evening and into the small hours, so expect a calm, transparent night and, if this clarity holds into morning, a quick brightening after sunrise with UV rising from low to something worth respecting by late morning.\n\nIt looks pleasantly simple rather than showy. Dress in light layers: a soft jumper or windbreaker over a tee will suit the coastal cool, and something you can slip off once you\u2019re moving. For tonight, think small rituals: a quiet stroll to stretch the day out a touch longer, a chair by an open window to read a few pages, or stepping out to learn a new handful of constellations. Early risers might lay out a hat and sunglasses by the door for a brisk morning walk, letting the first clean light do its work while the town is still quiet.",
+    "color_code": "#0b1e3b",
+    "timestamp": "2026-05-09 22:15:34",
     "location": {
-        "name": "Burnside",
-        "latitude": -33.91720171666667,
-        "longitude": 115.03915355,
+        "name": "Gnarabup",
+        "latitude": -33.99641819940546,
+        "longitude": 114.9970019272794,
         "timezone": "Australia/Perth"
     }
 }
