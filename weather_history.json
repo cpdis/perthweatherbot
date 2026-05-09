@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01 22:15:42",
-    "location": {
-      "name": "Swanbourne",
-      "latitude": -31.98285138927216,
-      "longitude": 115.7693392977751,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-05-01T14:15:41+00:00",
-      "temperature_c": 10.67,
-      "temperature_f": 51.206,
-      "humidity": 72,
-      "wind_speed_mph": 2.99758,
-      "wind_direction": 149,
-      "description": "clear sky"
-    },
-    "report_summary": "Swanbourne settles under a clean, untroubled sky tonight, the day folded neatly into a quiet, glassy...",
-    "color_code": "#0d1b2a"
-  },
-  {
     "timestamp": "2026-05-02 10:26:10",
     "location": {
       "name": "Subiaco",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Night has settled gently over Burnside, and the sky is rinsed clear, the kind of dark that makes eve...",
     "color_code": "#0B1D3A"
+  },
+  {
+    "timestamp": "2026-05-09 10:33:46",
+    "location": {
+      "name": "Burnside",
+      "latitude": -33.91720171666667,
+      "longitude": 115.03915355,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-05-09T02:33:46+00:00",
+      "temperature_c": 17.92,
+      "temperature_f": 64.256,
+      "humidity": 49,
+      "wind_speed_mph": 16.15114,
+      "wind_direction": 29,
+      "description": "clear sky"
+    },
+    "report_summary": "Morning in Burnside arrives polished and uncomplicated: a clear, generous sky and clean light that s...",
+    "color_code": "#87CEEB"
   }
 ]
