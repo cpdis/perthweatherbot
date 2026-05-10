@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02 22:09:06",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9496947416799,
-      "longitude": 115.8206677224209,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-05-02T14:09:05+00:00",
-      "temperature_c": 12.7,
-      "temperature_f": 54.86,
-      "humidity": 75,
-      "wind_speed_mph": 6.62152,
-      "wind_direction": 145,
-      "description": "broken clouds"
-    },
-    "report_summary": "Subiaco settles into late evening under a quilt of broken cloud, the moon slipping in and out like a...",
-    "color_code": "#2C3E50"
-  },
-  {
     "timestamp": "2026-05-03 10:34:45",
     "location": {
       "name": "Churchlands",
@@ -278,5 +258,25 @@
     },
     "report_summary": "A clear, salt-tinged night has settled over Gnarabup, the sky rinsed clean and starry, the air with ...",
     "color_code": "#0b1e3b"
+  },
+  {
+    "timestamp": "2026-05-10 10:37:28",
+    "location": {
+      "name": "Gnarabup",
+      "latitude": -33.99649951110801,
+      "longitude": 114.9970184962855,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-05-10T02:37:27+00:00",
+      "temperature_c": 20.27,
+      "temperature_f": 68.486,
+      "humidity": 53,
+      "wind_speed_mph": 17.2249,
+      "wind_direction": 12,
+      "description": "clear sky"
+    },
+    "report_summary": "Late Sunday morning in Gnarabup opens under an unmarred blue, the kind of clear sky that sharpens ev...",
+    "color_code": "#87CEEB"
   }
 ]
