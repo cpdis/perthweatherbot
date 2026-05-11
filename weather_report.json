@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Prevelly",
+            "name": "Gnarabup",
             "country": "AU",
-            "latitude": -33.97208640112341,
-            "longitude": 114.9863319704686
+            "latitude": -33.99650753111924,
+            "longitude": 114.9975554434592
         },
         "current_conditions": {
-            "timestamp": "2026-05-10T14:18:52+00:00",
-            "temperature_c": 15.45,
-            "temperature_f": 59.809999999999995,
-            "humidity": 75,
-            "wind_speed_mph": 12.16928,
-            "wind_direction": 47,
+            "timestamp": "2026-05-11T02:47:05+00:00",
+            "temperature_c": 21.6,
+            "temperature_f": 70.88,
+            "humidity": 58,
+            "wind_speed_mph": 22.75029,
+            "wind_direction": 1,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-05-10T15:00:00+00:00",
-                "temperature": 15.73,
-                "windSpeed": 12.728530000000001,
-                "windDirection": 41,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-05-11T03:00:00+00:00",
+                "temperature": 21.6,
+                "windSpeed": 22.75029,
+                "windDirection": 1,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-05-10T18:00:00+00:00",
-                "temperature": 15.91,
-                "windSpeed": 15.09975,
-                "windDirection": 28,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-05-11T06:00:00+00:00",
+                "temperature": 21.67,
+                "windSpeed": 21.49757,
+                "windDirection": 351,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Prevelly slips into a quiet night with scattered clouds wandering the sky, letting stars breathe through in places. It feels clear more often than not, the sort of gentle transparency that softens edges without smudging them. Sunshine is gone for now and the UV index is effectively nil; through the late hours and into the small morning, expect the same patchy cloud cover. After dawn, breaks are likely to offer spells of mellow light, with UV starting low and building as the sun lifts, so plan shade and a hat if you\u2019ll be out for long.\n\nIt\u2019s a pleasant, slightly cool night by the coast. A light jumper or windproof layer will suit a slow stroll, and closed shoes if you\u2019re wandering the dune paths. Good hours for small, human-sized things: a short walk to hear the hush of the surf between clouds, a tidy of tomorrow\u2019s kit, a page or two of the book you keep meaning to finish. At first light, consider a brief beach wander or a grocery dash before the sun gets intent, then let the day unfold with easy errands and a pocket of time outdoors when the sky opens.",
-    "color_code": "#1a2740",
-    "timestamp": "2026-05-10 22:18:53",
+    "weather_report": "Late morning in Gnarabup arrives under broken cloud, sunlight slipping through in soft, polished shards that brighten the reef and then withdraw. The day looks clean and calm rather than sparkling, with a gentle haze at the horizon and a silvery cast to the ocean. Expect the pattern to hold through the afternoon: stretches of cloud, then a warm glance of sun. It won\u2019t be harsh, but when the sun does find you the UV will be moderate around midday despite the cover, so a hat, sunglasses, and a touch of sunscreen are wise.\n\nIt feels like a day for easy errands and small pleasures. Dress in light layers that breathe, with something to take the edge off an onshore nip if it stirs. A quiet walk along the coastal path, a coffee on a verandah with the pages of a book lifting in the breeze, or a meander to the grocer for tonight\u2019s dinner would suit the mood. If you head to the beach, think in terms of tide pools and shoreline wandering rather than basking; the light is gentle, the colors cool and forgiving, and the hours promise more comfort than spectacle.",
+    "color_code": "#9CB3C4",
+    "timestamp": "2026-05-11 10:47:05",
     "location": {
-        "name": "Prevelly",
-        "latitude": -33.97208640112341,
-        "longitude": 114.9863319704686,
+        "name": "Gnarabup",
+        "latitude": -33.99650753111924,
+        "longitude": 114.9975554434592,
         "timezone": "Australia/Perth"
     }
 }
