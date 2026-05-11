@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Gnarabup",
+            "name": "Mandogalup",
             "country": "AU",
-            "latitude": -33.99650753111924,
-            "longitude": 114.9975554434592
+            "latitude": -32.18604693333334,
+            "longitude": 115.8570830666667
         },
         "current_conditions": {
-            "timestamp": "2026-05-11T02:47:05+00:00",
-            "temperature_c": 21.6,
-            "temperature_f": 70.88,
-            "humidity": 58,
-            "wind_speed_mph": 22.75029,
-            "wind_direction": 1,
-            "description": "broken clouds"
+            "timestamp": "2026-05-11T15:53:59+00:00",
+            "temperature_c": 15.98,
+            "temperature_f": 60.763999999999996,
+            "humidity": 46,
+            "wind_speed_mph": 7.22551,
+            "wind_direction": 46,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-05-11T03:00:00+00:00",
-                "temperature": 21.6,
-                "windSpeed": 22.75029,
-                "windDirection": 1,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-05-11T18:00:00+00:00",
+                "temperature": 15.52,
+                "windSpeed": 7.69528,
+                "windDirection": 53,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2026-05-11T06:00:00+00:00",
-                "temperature": 21.67,
-                "windSpeed": 21.49757,
-                "windDirection": 351,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-05-11T21:00:00+00:00",
+                "temperature": 14.53,
+                "windSpeed": 8.008460000000001,
+                "windDirection": 46,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Late morning in Gnarabup arrives under broken cloud, sunlight slipping through in soft, polished shards that brighten the reef and then withdraw. The day looks clean and calm rather than sparkling, with a gentle haze at the horizon and a silvery cast to the ocean. Expect the pattern to hold through the afternoon: stretches of cloud, then a warm glance of sun. It won\u2019t be harsh, but when the sun does find you the UV will be moderate around midday despite the cover, so a hat, sunglasses, and a touch of sunscreen are wise.\n\nIt feels like a day for easy errands and small pleasures. Dress in light layers that breathe, with something to take the edge off an onshore nip if it stirs. A quiet walk along the coastal path, a coffee on a verandah with the pages of a book lifting in the breeze, or a meander to the grocer for tonight\u2019s dinner would suit the mood. If you head to the beach, think in terms of tide pools and shoreline wandering rather than basking; the light is gentle, the colors cool and forgiving, and the hours promise more comfort than spectacle.",
-    "color_code": "#9CB3C4",
-    "timestamp": "2026-05-11 10:47:05",
+    "weather_report": "Mandogalup settles into a quiet late night under a mostly clear sky, the last torn wisps of cloud drifting off and the stars coming through with a steady, reassuring glow. The air feels clean and a touch cool, the kind that makes footsteps sound softer and thoughts a little slower.\n\nToward dawn the sky should open fully, promising a clear, bright morning and crisp visibility. If the sun holds court through the day, it will feel cheerful rather than harsh at first, though the UV will rise quickly by late morning even in autumn, so a hat, sunglasses, and a dab of sunscreen are wise if you\u2019ll be out for a while. Start with light layers for the chill, then pare back to something simple and breathable. This is the sort of weather that suits unhurried errands and homely pleasures: a short walk before breakfast, hanging the wash early to catch the sun, a bike to the shops, a little weeding before the light sharpens, windows cracked to let the rooms breathe.",
+    "color_code": "#0b2545",
+    "timestamp": "2026-05-11 23:53:59",
     "location": {
-        "name": "Gnarabup",
-        "latitude": -33.99650753111924,
-        "longitude": 114.9975554434592,
+        "name": "Mandogalup",
+        "latitude": -32.18604693333334,
+        "longitude": 115.8570830666667,
         "timezone": "Australia/Perth"
     }
 }
