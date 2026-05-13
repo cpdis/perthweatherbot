@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Osborne Park",
             "country": "AU",
-            "latitude": -31.94971208124288,
-            "longitude": 115.820736505483
+            "latitude": -31.90809645651193,
+            "longitude": 115.8017305197505
         },
         "current_conditions": {
-            "timestamp": "2026-05-12T15:37:56+00:00",
-            "temperature_c": 16.41,
-            "temperature_f": 61.538,
-            "humidity": 50,
-            "wind_speed_mph": 5.86094,
-            "wind_direction": 46,
-            "description": "clear sky"
+            "timestamp": "2026-05-13T02:45:36+00:00",
+            "temperature_c": 22.1,
+            "temperature_f": 71.78,
+            "humidity": 33,
+            "wind_speed_mph": 7.00181,
+            "wind_direction": 177,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-05-12T18:00:00+00:00",
-                "temperature": 15.64,
-                "windSpeed": 7.3821,
-                "windDirection": 38,
-                "shortForecast": "clear sky"
+                "startTime": "2026-05-13T03:00:00+00:00",
+                "temperature": 22.1,
+                "windSpeed": 9.73095,
+                "windDirection": 330,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-05-12T21:00:00+00:00",
-                "temperature": 14.39,
-                "windSpeed": 7.87424,
-                "windDirection": 31,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-05-13T06:00:00+00:00",
+                "temperature": 22.98,
+                "windSpeed": 10.066500000000001,
+                "windDirection": 303,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a quiet, ink-blue night: clear now, with only a thin drift of cloud expected toward the small hours. The air feels gentle rather than sharp, and the sky has that polished clarity that makes streetlights seem farther apart. UV is effectively asleep at this hour; after sunrise it will wake and climb with whatever sun breaks through, but for now the night is kind to skin and eyes. Expect a clean, soft dawn if the scattered cloud keeps its manners, a morning that leans bright rather than brooding.\n\nDress in an easy layer\u2014a light jumper or jacket for a late errand or a quick step onto the porch\u2014and set out something breathable for morning you can shed as the light strengthens. It\u2019s a pleasant night for small, ordinary tasks: rinsing the day from the dishes, laying out tomorrow\u2019s bag, a brief walk around the block to unknot the mind before sleep. If you\u2019re up early, a calm coffee on the veranda will pair well with the first light filtering through high cloud, the sort of start that makes the rest of the day feel possible.",
-    "color_code": "#0d1b2a",
-    "timestamp": "2026-05-12 23:37:57",
+    "weather_report": "Osborne Park wakes under a quiet lid of cloud, the light soft and silvery, edges of buildings smudged as if drawn in charcoal. Through late morning into early afternoon the overcast holds steady, the sun a shy conspirator behind gauze. Expect a dim, even brightness rather than sparkle; the UV is muted by the cloud, gentler than a clear Perth day, though around midday it can still nip unguarded skin.\n\nIt\u2019s a day for light layers and long sleeves, the sort you forget you\u2019re wearing until the breeze reminds you why. Sunglasses are optional; a touch of sunscreen is prudent if you\u2019ll be out a while. The mood suits unhurried errands, a library stop, a coffee by a window, or a short walk where the flat light turns colors into calm pastels. If you\u2019re working from home, crack a window and let the cool drift in; if you\u2019re commuting, the ride will feel mercifully glare-free. Nothing dramatic is expected, just a gentle, gray companion to your Wednesday.",
+    "color_code": "#A3A9B1",
+    "timestamp": "2026-05-13 10:45:37",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94971208124288,
-        "longitude": 115.820736505483,
+        "name": "Osborne Park",
+        "latitude": -31.90809645651193,
+        "longitude": 115.8017305197505,
         "timezone": "Australia/Perth"
     }
 }
