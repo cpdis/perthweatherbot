@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-05-08 10:40:05",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970550788488,
-      "longitude": 115.8207772990437,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-05-08T02:40:04+00:00",
-      "temperature_c": 19.78,
-      "temperature_f": 67.604,
-      "humidity": 51,
-      "wind_speed_mph": 19.57375,
-      "wind_direction": 50,
-      "description": "few clouds"
-    },
-    "report_summary": "Subiaco wakes to a clean blue canopy brushed with a few lazy clouds, the sort that drift without int...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-05-08 22:48:28",
     "location": {
       "name": "Burnside",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Cottesloe wakes under a soft, pewter sky, the sea breathing a cool salt breeze across town. Light ra...",
     "color_code": "#7e8e9b"
+  },
+  {
+    "timestamp": "2026-05-15 23:10:49",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969534678621,
+      "longitude": 115.8209436447956,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-05-15T15:10:49+00:00",
+      "temperature_c": 12.49,
+      "temperature_f": 54.482,
+      "humidity": 77,
+      "wind_speed_mph": 0.0,
+      "wind_direction": 0,
+      "description": "broken clouds"
+    },
+    "report_summary": "Subiaco settles into a late hour under a patchwork sky, the clouds torn but not hostile, letting a r...",
+    "color_code": "#2c3e50"
   }
 ]
