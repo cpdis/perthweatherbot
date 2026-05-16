@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.949687260911,
-            "longitude": 115.820760571105
+            "latitude": -31.94967944554739,
+            "longitude": 115.8207188733912
         },
         "current_conditions": {
-            "timestamp": "2026-05-16T02:36:30+00:00",
-            "temperature_c": 17.49,
-            "temperature_f": 63.482,
-            "humidity": 58,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 60,
+            "timestamp": "2026-05-16T14:20:22+00:00",
+            "temperature_c": 14.28,
+            "temperature_f": 57.70399999999999,
+            "humidity": 74,
+            "wind_speed_mph": 4.60822,
+            "wind_direction": 200,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-05-16T03:00:00+00:00",
-                "temperature": 17.49,
-                "windSpeed": 2.0133,
-                "windDirection": 98,
+                "startTime": "2026-05-16T15:00:00+00:00",
+                "temperature": 14.28,
+                "windSpeed": 4.80955,
+                "windDirection": 111,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-05-16T06:00:00+00:00",
-                "temperature": 18.26,
-                "windSpeed": 5.3688,
-                "windDirection": 231,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-05-16T18:00:00+00:00",
+                "temperature": 12.85,
+                "windSpeed": 4.22793,
+                "windDirection": 91,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Midmorning in Subiaco arrives with clean, decisive light and a sky rinsed almost clear. The air feels tidy and transparent, the sort that makes colors pop and edges seem freshly drawn. Sunshine is in charge for now, and even in late autumn the UV will stir toward midday; sunglasses and a touch of sunscreen are sensible companions.\n\nExpect this bright spell to carry through the late morning, with a loose drift of scattered clouds slipping in after lunch to soften the shine without threatening rain. It looks like a well-mannered day\u2014inviting, unhurried, and easy to like. Dress in light layers: a breathable shirt, a cardigan for shade or a breeze, and a brim if you plan to linger. The weather suits ordinary pleasures done well: errands on foot, a coffee savored outdoors, hanging the washing to drink the light, a quiet circuit to the shops, a page or two read on a bench, or a trim of the balcony herbs before the afternoon gentles.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-05-16 10:36:31",
+    "weather_report": "Subiaco settles under a polished, cloudless sky tonight; the kind of clear that sharpens edges and leaves the air a touch cooler on the skin. At this late hour the sun is long gone, the UV index essentially asleep, and the night feels clean and unhurried, lit only by streetlamps and whatever the moon cares to share.\n\nThe forecast keeps the heavens clear through the small hours, so expect a still, transparent night and, should this hold into morning, a frank, bright sun and a quick climb in UV once it\u2019s up. For now, light layers are your friend: a soft jumper or a thin jacket if you\u2019re stepping out, comfortable shoes over bare toes. It\u2019s a good time for a short, unhurried walk, taking the long way to the letterbox or circling the block to unknot the day; or simply crack a window, make tea, and lay out tomorrow\u2019s errands. If dawn arrives under the same empty blue, plan shade and sunscreen for any late-morning outings, but let the quiet of this clear night do the talking.",
+    "color_code": "#0B1E3B",
+    "timestamp": "2026-05-16 22:20:22",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.949687260911,
-        "longitude": 115.820760571105,
+        "latitude": -31.94967944554739,
+        "longitude": 115.8207188733912,
         "timezone": "Australia/Perth"
     }
 }
