@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10 22:18:53",
-    "location": {
-      "name": "Prevelly",
-      "latitude": -33.97208640112341,
-      "longitude": 114.9863319704686,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-05-10T14:18:52+00:00",
-      "temperature_c": 15.45,
-      "temperature_f": 59.809999999999995,
-      "humidity": 75,
-      "wind_speed_mph": 12.16928,
-      "wind_direction": 47,
-      "description": "broken clouds"
-    },
-    "report_summary": "Prevelly slips into a quiet night with scattered clouds wandering the sky, letting stars breathe thr...",
-    "color_code": "#1a2740"
-  },
-  {
     "timestamp": "2026-05-11 10:47:05",
     "location": {
       "name": "Gnarabup",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Night settles over Subiaco beneath a clean, lacquered sky. The day has closed out cloudless, lending...",
     "color_code": "#0b1e3f"
+  },
+  {
+    "timestamp": "2026-05-18 10:55:05",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968323934193,
+      "longitude": 115.820773641571,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-05-18T02:55:05+00:00",
+      "temperature_c": 18.16,
+      "temperature_f": 64.688,
+      "humidity": 78,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 190,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Subiaco wakes under a soft lid of cloud, the light gentle and even, shadows barely a whisper. It isn...",
+    "color_code": "#9CA8B3"
   }
 ]
