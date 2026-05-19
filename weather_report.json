@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94971387986944,
-            "longitude": 115.8207444987293
+            "latitude": -31.94968398090441,
+            "longitude": 115.8207704657633
         },
         "current_conditions": {
-            "timestamp": "2026-05-18T16:19:58+00:00",
-            "temperature_c": 13.46,
-            "temperature_f": 56.228,
-            "humidity": 87,
-            "wind_speed_mph": 5.1451,
-            "wind_direction": 121,
+            "timestamp": "2026-05-19T02:51:34+00:00",
+            "temperature_c": 21.34,
+            "temperature_f": 70.412,
+            "humidity": 54,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 70,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-05-18T18:00:00+00:00",
-                "temperature": 13.05,
-                "windSpeed": 5.3688,
-                "windDirection": 71,
+                "startTime": "2026-05-19T03:00:00+00:00",
+                "temperature": 21.34,
+                "windSpeed": 6.77811,
+                "windDirection": 31,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-05-18T21:00:00+00:00",
-                "temperature": 11.73,
-                "windSpeed": 5.79383,
-                "windDirection": 74,
+                "startTime": "2026-05-19T06:00:00+00:00",
+                "temperature": 22.13,
+                "windSpeed": 5.72672,
+                "windDirection": 272,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Just past midnight in Subiaco, the sky is scrubbed clean and still, a clear bowl with stars set sharply in it. The air has that gentle, cooling edge that makes the street sound hushed and close, a night made for unhurried breaths and the soft click of a latch as you step out for one last look.\n\nThe forecast holds clear through the small hours toward dawn, pointing to a bright, glassy morning and a day that should lean sunny. UV is next to nothing now, but once the sun lifts it will gather pace on a blue-sky track; sunglasses and a touch of sunscreen will be worth having. Dress in easy layers: a light jumper or jacket now, something you can shed by late morning. It\u2019s good weather for simple errands and small rituals\u2014airing the rooms, an early walk before the city stirs, cycling out for fresh bread, or taking your coffee outdoors when the first warmth finds the verandah. The day ahead looks crisp, clear, and quietly encouraging.",
-    "color_code": "#0A1F44",
-    "timestamp": "2026-05-19 00:19:58",
+    "weather_report": "Late morning in Subiaco arrives rinsed in blue, the sky clean and uncomplicated, the light crisp enough to make edges sparkle. It will stay sunny through the early afternoon, with that gentle late\u2011autumn warmth that flatters rather than scalds; even so, the midday sun still carries some bite, so think of the UV as moderate and worth respecting. The air reads as clear and dry, visibility long and honest, a day for seeing far and feeling unhurried.\n\nDress in easy layers: a light shirt you can roll at the sleeves, comfortable trousers, sunglasses, and a hat if you linger in the open. It\u2019s a pleasant day for modest errands on foot, a slow loop to a favorite bakery, or a sit\u2011down at an outdoor table to let the sun do its quiet work while you read a few pages. Open the windows at home, let the rooms breathe, put a small wash on the line, and, if you\u2019ll be out toward dusk, tuck a soft jumper into your bag as the warmth loosens its grip.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-05-19 10:51:35",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94971387986944,
-        "longitude": 115.8207444987293,
+        "latitude": -31.94968398090441,
+        "longitude": 115.8207704657633,
         "timezone": "Australia/Perth"
     }
 }
