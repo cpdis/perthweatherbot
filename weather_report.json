@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Herdsman",
             "country": "AU",
-            "latitude": -31.95396182708042,
-            "longitude": 115.8528578254657
+            "latitude": -31.92687034323614,
+            "longitude": 115.813332259102
         },
         "current_conditions": {
-            "timestamp": "2026-05-19T16:15:42+00:00",
-            "temperature_c": 14.62,
-            "temperature_f": 58.315999999999995,
-            "humidity": 57,
+            "timestamp": "2026-05-20T02:51:57+00:00",
+            "temperature_c": 20.96,
+            "temperature_f": 69.72800000000001,
+            "humidity": 42,
             "wind_speed_mph": 4.60822,
-            "wind_direction": 50,
+            "wind_direction": 330,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-05-19T18:00:00+00:00",
-                "temperature": 14.34,
-                "windSpeed": 8.59008,
-                "windDirection": 35,
+                "startTime": "2026-05-20T03:00:00+00:00",
+                "temperature": 20.96,
+                "windSpeed": 5.391170000000001,
+                "windDirection": 359,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-05-19T21:00:00+00:00",
-                "temperature": 13.8,
-                "windSpeed": 7.404470000000001,
-                "windDirection": 24,
+                "startTime": "2026-05-20T06:00:00+00:00",
+                "temperature": 22.15,
+                "windSpeed": 3.89238,
+                "windDirection": 292,
                 "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Just after midnight in Perth, the air feels hushed and honest, the sky largely clear with a few shy clouds wandering in before dawn. The night is crisp and seeing is clean; UV is essentially nil until the sun returns, when it will climb with the morning. Expect a gentle, bright start filtered by scattered cloud, the kind that lets sunlight pour through in warm sheets rather than a blaze. It looks like a pleasant, open day ahead, more clear than not, the sort that invites unhurried plans and an easy pace.\n\nWear a light layer now, something soft at the collar, and be ready to trade it for breathable clothes once the day loosens. Sunglasses and a touch of sunscreen will earn their keep after breakfast. At this hour, a quiet mug on the balcony or a slow stretch by an open window suits the mood; early risers might take a calm loop along the river while the city yawns awake, then slip into the day with small errands, a book in a patch of sun, or a visit to the markets before the afternoon stirs.",
-    "color_code": "#0d1b2a",
-    "timestamp": "2026-05-20 00:15:44",
+    "weather_report": "Late morning in Herdsman opens under a bright, uncomplicated sky, the light crisp enough to make edges feel newly sharpened. The air reads as mild and clean, the day largely sunny now with a few friendly clouds likely to wander in after lunch, muting the brightness without stealing it. Expect decent clarity all day and a tempered, autumn sort of sun; the UV will still bite a little around midday, then back off as the afternoon ambles on.\n\nDress in easy layers: a breathable shirt with a light cardigan or jacket you can peel away, sunglasses for the glare, and a hat if you\u2019ll linger outdoors. It\u2019s the sort of weather that suits ordinary pleasures\u2014hang the washing and let it drink the light, take an unhurried lap around the lake path, step out for a coffee and sit by a window, or tend to the garden\u2019s small negotiations. If you\u2019re running errands, go on foot where you can; the sky is doing its level best to make the day feel kindly.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-05-20 10:51:58",
     "location": {
-        "name": "Perth",
-        "latitude": -31.95396182708042,
-        "longitude": 115.8528578254657,
+        "name": "Herdsman",
+        "latitude": -31.92687034323614,
+        "longitude": 115.813332259102,
         "timezone": "Australia/Perth"
     }
 }
