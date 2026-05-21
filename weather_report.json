@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Jolimont",
             "country": "AU",
-            "latitude": -31.94968988750393,
-            "longitude": 115.8207773928871
+            "latitude": -31.9423432490215,
+            "longitude": 115.8051232946508
         },
         "current_conditions": {
-            "timestamp": "2026-05-21T02:55:29+00:00",
-            "temperature_c": 22.2,
-            "temperature_f": 71.96,
-            "humidity": 58,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 160,
-            "description": "scattered clouds"
+            "timestamp": "2026-05-21T16:14:11+00:00",
+            "temperature_c": 14.01,
+            "temperature_f": 57.218,
+            "humidity": 74,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 190,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-05-21T03:00:00+00:00",
-                "temperature": 22.2,
-                "windSpeed": 7.247880000000001,
-                "windDirection": 211,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-05-21T18:00:00+00:00",
+                "temperature": 12.85,
+                "windSpeed": 10.603380000000001,
+                "windDirection": 160,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2026-05-21T06:00:00+00:00",
-                "temperature": 22.76,
-                "windSpeed": 15.2116,
-                "windDirection": 215,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-05-21T21:00:00+00:00",
+                "temperature": 9.7,
+                "windSpeed": 9.462510000000002,
+                "windDirection": 158,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Late morning in Subiaco finds the sky a bright patchwork, the sun stepping out between scattered clouds and slipping back again with easy grace. The light is friendly rather than fierce, giving clean edges to shadows and a clear view down the street. Through early afternoon, expect more of this gentle rhythm: drifting cloud, frequent sunshine, nothing brooding on the horizon. UV should be moderate for the season\u2014softened by late autumn\u2019s angle, yet still worth a hat and a touch of sunscreen if you linger.\n\nComfort calls for light layers: a breathable shirt, a cardigan tucked in your bag, sunglasses for the sudden bursts of glare. It\u2019s a good day for small, ordinary pleasures\u2014walking your errands, dropping by the library, or tending balcony plants while the sun peeks in and out. Settle at a caf\u00e9 table by the window, unspool a to-do list without hurry, or take a quiet lap around the block to clear the head before lunch. The day isn\u2019t shouting; it\u2019s inviting.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-05-21 10:55:30",
+    "weather_report": "Just past midnight in Jolimont, the air feels clean-edged and quietly cool, with only a few shreds of cloud drifting across an otherwise open sky. The night has good clarity and a calm, unrushed mood, the sort that carries sound gently and makes lights seem a touch sharper.\n\nToward dawn, the forecast keeps only a few clouds, so expect a bright, largely sunny start once the sun lifts; UV will be low before sunrise, then climb quickly through the morning if the sky stays mostly clear. Dress in easy layers\u2014a light knit or jacket for the early chill, something you can shed as the light gathers warmth. It looks like a pleasant, no-drama day: a short walk for bread and coffee, airing out the house, tending a small errand on foot, or watering the balcony plants while the streets are still soft with morning. By late morning, sunglasses and a little sunscreen won\u2019t go astray, and a quiet bench in a sunlit pocket could be the day\u2019s best appointment.",
+    "color_code": "#0B2545",
+    "timestamp": "2026-05-22 00:14:11",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968988750393,
-        "longitude": 115.8207773928871,
+        "name": "Jolimont",
+        "latitude": -31.9423432490215,
+        "longitude": 115.8051232946508,
         "timezone": "Australia/Perth"
     }
 }
