@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-21T16:14:09.213099",
+  "timestamp": "2026-05-22T02:55:22.990291",
   "overall_status": "healthy",
   "summary": {
     "total_checks": 5,
@@ -14,7 +14,7 @@
       "details": [
         "OpenWeather API key configured",
         "OpenAI API key configured",
-        "Location: Jolimont"
+        "Location: West Perth"
       ]
     },
     {
@@ -41,7 +41,7 @@
     {
       "name": "OpenWeather API",
       "status": "healthy",
-      "response_time_ms": 113.188,
+      "response_time_ms": 214.118,
       "details": "HTTP 200"
     }
   ]

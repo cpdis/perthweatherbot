@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-05-14 23:16:06",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9496984712172,
-      "longitude": 115.8207612226463,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-05-14T15:16:05+00:00",
-      "temperature_c": 15.01,
-      "temperature_f": 59.018,
-      "humidity": 62,
-      "wind_speed_mph": 9.194070000000002,
-      "wind_direction": 227,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Subiaco settles into the late hour under a light, unhurried rain, the streets lacquered and the hill...",
-    "color_code": "#2C3E50"
-  },
-  {
     "timestamp": "2026-05-15 10:47:50",
     "location": {
       "name": "Cottesloe",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Just past midnight in Jolimont, the air feels clean-edged and quietly cool, with only a few shreds o...",
     "color_code": "#0B2545"
+  },
+  {
+    "timestamp": "2026-05-22 10:55:25",
+    "location": {
+      "name": "West Perth",
+      "latitude": -31.95430873347433,
+      "longitude": 115.8472759046343,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-05-22T02:55:22+00:00",
+      "temperature_c": 17.31,
+      "temperature_f": 63.158,
+      "humidity": 57,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 150,
+      "description": "few clouds"
+    },
+    "report_summary": "Late morning in West Perth arrives under a clean blue dome with a few small clouds drifting lazily b...",
+    "color_code": "#87CEEB"
   }
 ]

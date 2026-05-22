@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Jolimont",
+            "name": "West Perth",
             "country": "AU",
-            "latitude": -31.9423432490215,
-            "longitude": 115.8051232946508
+            "latitude": -31.95430873347433,
+            "longitude": 115.8472759046343
         },
         "current_conditions": {
-            "timestamp": "2026-05-21T16:14:11+00:00",
-            "temperature_c": 14.01,
-            "temperature_f": 57.218,
-            "humidity": 74,
+            "timestamp": "2026-05-22T02:55:22+00:00",
+            "temperature_c": 17.31,
+            "temperature_f": 63.158,
+            "humidity": 57,
             "wind_speed_mph": 11.49818,
-            "wind_direction": 190,
-            "description": "clear sky"
+            "wind_direction": 150,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-05-21T18:00:00+00:00",
-                "temperature": 12.85,
-                "windSpeed": 10.603380000000001,
-                "windDirection": 160,
+                "startTime": "2026-05-22T03:00:00+00:00",
+                "temperature": 17.12,
+                "windSpeed": 10.82708,
+                "windDirection": 180,
                 "shortForecast": "few clouds"
             },
             {
-                "startTime": "2026-05-21T21:00:00+00:00",
-                "temperature": 9.7,
-                "windSpeed": 9.462510000000002,
-                "windDirection": 158,
+                "startTime": "2026-05-22T06:00:00+00:00",
+                "temperature": 17.95,
+                "windSpeed": 12.3035,
+                "windDirection": 207,
                 "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Just past midnight in Jolimont, the air feels clean-edged and quietly cool, with only a few shreds of cloud drifting across an otherwise open sky. The night has good clarity and a calm, unrushed mood, the sort that carries sound gently and makes lights seem a touch sharper.\n\nToward dawn, the forecast keeps only a few clouds, so expect a bright, largely sunny start once the sun lifts; UV will be low before sunrise, then climb quickly through the morning if the sky stays mostly clear. Dress in easy layers\u2014a light knit or jacket for the early chill, something you can shed as the light gathers warmth. It looks like a pleasant, no-drama day: a short walk for bread and coffee, airing out the house, tending a small errand on foot, or watering the balcony plants while the streets are still soft with morning. By late morning, sunglasses and a little sunscreen won\u2019t go astray, and a quiet bench in a sunlit pocket could be the day\u2019s best appointment.",
-    "color_code": "#0B2545",
-    "timestamp": "2026-05-22 00:14:11",
+    "weather_report": "Late morning in West Perth arrives under a clean blue dome with a few small clouds drifting lazily by. The light is honest and bright, giving the day a crisp, well-defined edge; visibility looks excellent and the sky should stay mostly open through early afternoon. As the sun climbs, expect it to feel sunnier than the season suggests, with UV likely moving from moderate toward the higher side around midday\u2014enough to warrant sunscreen, a hat, and sunglasses if you\u2019ll be out for a while.\n\nDress in light layers: a breathable shirt with something you can shrug on if shade or a breeze cools you. It\u2019s a pleasant day for unhurried errands on foot, an early lunch outdoors, watering the balcony plants, or letting a load of washing dry in the clear air. If you\u2019ve time, take a slow loop through quiet streets or sit by a window with a book; the day rewards simple, sunlit minutes before the afternoon settles.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-05-22 10:55:25",
     "location": {
-        "name": "Jolimont",
-        "latitude": -31.9423432490215,
-        "longitude": 115.8051232946508,
+        "name": "West Perth",
+        "latitude": -31.95430873347433,
+        "longitude": 115.8472759046343,
         "timezone": "Australia/Perth"
     }
 }
