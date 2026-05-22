@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "West Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95430873347433,
-            "longitude": 115.8472759046343
+            "latitude": -31.94968674521016,
+            "longitude": 115.8207073203541
         },
         "current_conditions": {
-            "timestamp": "2026-05-22T02:55:22+00:00",
-            "temperature_c": 17.31,
-            "temperature_f": 63.158,
-            "humidity": 57,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 150,
-            "description": "few clouds"
+            "timestamp": "2026-05-22T15:46:27+00:00",
+            "temperature_c": 10.74,
+            "temperature_f": 51.332,
+            "humidity": 70,
+            "wind_speed_mph": 7.89661,
+            "wind_direction": 107,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-05-22T03:00:00+00:00",
-                "temperature": 17.12,
-                "windSpeed": 10.82708,
-                "windDirection": 180,
-                "shortForecast": "few clouds"
+                "startTime": "2026-05-22T18:00:00+00:00",
+                "temperature": 10.01,
+                "windSpeed": 6.375450000000001,
+                "windDirection": 95,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-05-22T06:00:00+00:00",
-                "temperature": 17.95,
-                "windSpeed": 12.3035,
-                "windDirection": 207,
-                "shortForecast": "few clouds"
+                "startTime": "2026-05-22T21:00:00+00:00",
+                "temperature": 8.65,
+                "windSpeed": 5.61487,
+                "windDirection": 102,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Late morning in West Perth arrives under a clean blue dome with a few small clouds drifting lazily by. The light is honest and bright, giving the day a crisp, well-defined edge; visibility looks excellent and the sky should stay mostly open through early afternoon. As the sun climbs, expect it to feel sunnier than the season suggests, with UV likely moving from moderate toward the higher side around midday\u2014enough to warrant sunscreen, a hat, and sunglasses if you\u2019ll be out for a while.\n\nDress in light layers: a breathable shirt with something you can shrug on if shade or a breeze cools you. It\u2019s a pleasant day for unhurried errands on foot, an early lunch outdoors, watering the balcony plants, or letting a load of washing dry in the clear air. If you\u2019ve time, take a slow loop through quiet streets or sit by a window with a book; the day rewards simple, sunlit minutes before the afternoon settles.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-05-22 10:55:25",
+    "weather_report": "Near midnight in Subiaco, the sky is a polished pane: clear, quiet, and generous with stars. The air feels settled and mild rather than biting, the kind that asks for a light layer if you step outside. UV is effectively absent now, and the night has that lucid, glassy clarity that makes distant lights seem close at hand and thoughts a touch more orderly.\n\nThis clear stretch is expected to hold through the small hours, so the early morning should break bright and unfiltered; once the sun is up, UV will climb quickly under an open sky. Plan shade and sunscreen for any early errands. For now, it\u2019s pleasantly simple weather: comfortable clothes, a cardigan or light jacket if you wander out. It\u2019s a good time to take a quiet circuit of the block, crack a window to freshen the room, or sort tomorrow\u2019s bag so the morning feels easy. If you\u2019re up at first light, a short walk for coffee or a calm start in the garden would suit the clarity.",
+    "color_code": "#0B1E3D",
+    "timestamp": "2026-05-22 23:46:27",
     "location": {
-        "name": "West Perth",
-        "latitude": -31.95430873347433,
-        "longitude": 115.8472759046343,
+        "name": "Subiaco",
+        "latitude": -31.94968674521016,
+        "longitude": 115.8207073203541,
         "timezone": "Australia/Perth"
     }
 }
