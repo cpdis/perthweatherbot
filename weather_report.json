@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94969054742142,
-            "longitude": 115.8207870833561
+            "latitude": -31.94966831370919,
+            "longitude": 115.8209572878713
         },
         "current_conditions": {
-            "timestamp": "2026-05-23T02:40:28+00:00",
-            "temperature_c": 15.68,
-            "temperature_f": 60.224000000000004,
-            "humidity": 52,
-            "wind_speed_mph": 4.60822,
-            "wind_direction": 50,
-            "description": "overcast clouds"
+            "timestamp": "2026-05-23T14:27:25+00:00",
+            "temperature_c": 10.86,
+            "temperature_f": 51.548,
+            "humidity": 71,
+            "wind_speed_mph": 6.2636,
+            "wind_direction": 124,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-05-23T03:00:00+00:00",
-                "temperature": 15.68,
-                "windSpeed": 1.45405,
-                "windDirection": 117,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-05-23T15:00:00+00:00",
+                "temperature": 10.86,
+                "windSpeed": 5.83857,
+                "windDirection": 109,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-05-23T06:00:00+00:00",
-                "temperature": 16.18,
-                "windSpeed": 4.60822,
-                "windDirection": 242,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-05-23T18:00:00+00:00",
+                "temperature": 10.4,
+                "windSpeed": 5.97279,
+                "windDirection": 72,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Late morning in Subiaco arrives under a soft, unbroken ceiling of grey, the sun only a rumor behind the cloud. The light is even and gentle, colors a shade quieter, edges softened, shadows mostly erased. It feels mild, perhaps a touch cool if you linger in the breeze, and the day has that muted clarity that makes everything look tidy and calm. With the sky staying overcast through the afternoon, don\u2019t expect much sparkle; UV will be toned down by the cloud, though around lunchtime it can still find you. If you\u2019re out for a while, a hat and a small dab of sunscreen won\u2019t go astray.\n\nDress for comfort in light layers: a breathable long-sleeve or a thin jacket you can shrug off if you start moving. This is an errand-running sort of day, good for a steady walk to the shops, a quiet lap around the neighborhood paths, or a lingering coffee while you clear a few notes or emails. Browse a bookstore, sort the week\u2019s groceries, give the houseplants a trim, or take the bike for a lazy circuit where the roads are calm and the light is kind.",
-    "color_code": "#b0bcc7",
-    "timestamp": "2026-05-23 10:40:29",
+    "weather_report": "Subiaco settles into a clear, quiet night, the sky scrubbed clean and studded with steady stars. The air feels calm and a touch brisk on the cheeks, the sort of evening where sound carries and thoughts do too. With the sun long gone, UV is essentially absent; it\u2019s a gentle, unhurried darkness.\n\nThe forecast keeps the heavens clear through midnight and beyond, setting the stage for a bright, uncomplicated morning and a day that should open blue and lucid. It looks pleasant rather than harsh: cool at first, then mild with a kindly sun. UV will rise from low after sunrise to something worth respecting by late morning; a hat, sunglasses, and a dab of sunscreen will serve you well if you linger outdoors. Dress in easy layers\u2014a light jacket or knit now, a breathable shirt beneath for the warm-up later. Tonight suits a short, ambling walk or a few quiet minutes on the porch, windows cracked to let the cool in; early tomorrow, fetch a coffee on foot, water the pot plants, or pedal a small errand before the day gathers pace.",
+    "color_code": "#0b1d3a",
+    "timestamp": "2026-05-23 22:27:26",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94969054742142,
-        "longitude": 115.8207870833561,
+        "latitude": -31.94966831370919,
+        "longitude": 115.8209572878713,
         "timezone": "Australia/Perth"
     }
 }
