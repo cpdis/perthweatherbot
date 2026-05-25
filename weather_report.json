@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94970701367029,
-            "longitude": 115.8209425594056
+            "latitude": -31.9496807526997,
+            "longitude": 115.8207612684154
         },
         "current_conditions": {
-            "timestamp": "2026-05-24T14:22:15+00:00",
-            "temperature_c": 12.56,
-            "temperature_f": 54.608000000000004,
-            "humidity": 57,
-            "wind_speed_mph": 6.62152,
-            "wind_direction": 69,
-            "description": "few clouds"
+            "timestamp": "2026-05-25T03:28:07+00:00",
+            "temperature_c": 20.24,
+            "temperature_f": 68.432,
+            "humidity": 34,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 40,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-05-24T15:00:00+00:00",
-                "temperature": 12.56,
-                "windSpeed": 8.097940000000001,
-                "windDirection": 65,
+                "startTime": "2026-05-25T06:00:00+00:00",
+                "temperature": 21.16,
+                "windSpeed": 8.99274,
+                "windDirection": 5,
                 "shortForecast": "few clouds"
             },
             {
-                "startTime": "2026-05-24T18:00:00+00:00",
-                "temperature": 12.85,
-                "windSpeed": 8.61245,
-                "windDirection": 67,
-                "shortForecast": "few clouds"
+                "startTime": "2026-05-25T09:00:00+00:00",
+                "temperature": 20.26,
+                "windSpeed": 2.19226,
+                "windDirection": 314,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a calm, clear night, the sky mostly open with a few quiet clouds gliding past the stars. Air and visibility feel clean, outlines crisp, and the UV now is all but absent. This pattern of only sparse cloud cover points to bright, generous sunshine in the daylight hours, with UV gentle at the bookends of the day and more assertive around midday; for now, it is a soft, companionable darkness rather than a demanding sky.\n\nIt looks like a pleasant stretch for simple comforts: step out for a short, unrushed walk, or open a window and let the cool air move through the rooms while you finish a chapter or sort tomorrow\u2019s list. A light layer or easy cardigan suits the evening; by day, sunglasses and a touch of shade for longer sits will do. The day reads as clear and untroubled, the kind that makes colors pop and turns ordinary errands into small, satisfying scenes.",
-    "color_code": "#0A1F35",
-    "timestamp": "2026-05-24 22:22:15",
+    "weather_report": "Late morning in Subiaco feels open and bright, the sun generous and the sky wide with only a passing veil of cloud. Through the afternoon the blue holds, shifting from a few flecks of cloud to a more scattered pattern toward late day, but the light remains warm and companionable rather than harsh. The air reads clean and clear, edges crisp enough to make small details pop. The UV, softened by the season, can still nip around midday, so sunglasses and a light touch of sunscreen are wise if you plan to linger outdoors.\n\nDress easy: breathable layers with a light cardigan or jacket in reserve for the later hours, plus a hat if you\u2019ll be walking between stops. It\u2019s a day for modest pleasures\u2014hang a load on the line, step out for a late-morning coffee, meander through a bookshop, or take the slow route home along the quieter streets while the sky keeps its bright, companionable tone.",
+    "color_code": "#87CEFA",
+    "timestamp": "2026-05-25 11:28:07",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94970701367029,
-        "longitude": 115.8209425594056,
+        "latitude": -31.9496807526997,
+        "longitude": 115.8207612684154,
         "timezone": "Australia/Perth"
     }
 }
