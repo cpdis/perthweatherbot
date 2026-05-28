@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94969264795678,
-            "longitude": 115.8207786541708
+            "latitude": -31.94900198563259,
+            "longitude": 115.8204596940628
         },
         "current_conditions": {
-            "timestamp": "2026-05-28T02:47:12+00:00",
-            "temperature_c": 20.31,
-            "temperature_f": 68.55799999999999,
-            "humidity": 58,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 250,
-            "description": "scattered clouds"
+            "timestamp": "2026-05-28T16:51:48+00:00",
+            "temperature_c": 14.52,
+            "temperature_f": 58.136,
+            "humidity": 73,
+            "wind_speed_mph": 8.47823,
+            "wind_direction": 231,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-05-28T03:00:00+00:00",
-                "temperature": 20.31,
-                "windSpeed": 16.1064,
-                "windDirection": 250,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-05-28T18:00:00+00:00",
+                "temperature": 14.52,
+                "windSpeed": 7.762390000000001,
+                "windDirection": 233,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-05-28T06:00:00+00:00",
-                "temperature": 19.88,
-                "windSpeed": 16.12877,
-                "windDirection": 236,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-05-28T21:00:00+00:00",
+                "temperature": 14.27,
+                "windSpeed": 6.688630000000001,
+                "windDirection": 228,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late morning in Subiaco arrives with a gentle, dappled light: scattered clouds drifting across a bright, honest sky, the sun slipping through often enough to warm your shoulders. Visibility feels clean and open, the kind of clarity that sharpens edges on roofs and gum leaves without the glare of high summer. UV looks moderate for the season, rising around midday; brief bursts of sunshine will still find bare skin, so a hat and a touch of sunscreen won\u2019t go astray.\n\nExpect the afternoon to keep this pattern of passing cloud and easy brightness, pleasant for lingering outdoors without breaking a sweat. Dress in light layers\u2014a breathable shirt with a thin sweater in the bag if a breeze picks up\u2014and comfortable shoes. It\u2019s good weather for unhurried errands on foot, a quiet coffee by the window where the sun finds you, or a quick wander through Rankin Gardens with a book. If you\u2019re at home, it\u2019s a fine day to air the house, tend a few plants, or hang the wash and let the sky do the work.",
-    "color_code": "#86BCEB",
-    "timestamp": "2026-05-28 10:47:13",
+    "weather_report": "Subiaco settles into a damp, whispering night. Clouds have moved in and the first light rain is due in the small hours, with another passing shower near dawn. The air feels rinsed and cool; streetlights smudge into soft haloes and the edges of things blur a little, a quiet reminder that clarity will be limited before sunrise. Early brightness will be scarce, the sun tucked behind a gauze of grey.\n\nThrough the morning expect a mostly muted day, with showers lingering and only brief, gentle breaks if they come at all. UV will be low before sunrise and only modest later compared with summer, though a touch of sunscreen is still sensible if you\u2019ll be out by late morning. It\u2019s a light-raincoat, closed-shoes, and small umbrella sort of day; add a layer you can peel off if the clouds thin. For now, let the rain keep you company while you finish a small task, put the kettle on, or sort tomorrow\u2019s list. After first light, plan the unhurried errands, a sheltered coffee, or a short walk between showers, letting the softened sky set the pace.",
+    "color_code": "#2C3E50",
+    "timestamp": "2026-05-29 00:51:48",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94969264795678,
-        "longitude": 115.8207786541708,
+        "latitude": -31.94900198563259,
+        "longitude": 115.8204596940628,
         "timezone": "Australia/Perth"
     }
 }

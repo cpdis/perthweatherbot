@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-05-21 10:55:30",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968988750393,
-      "longitude": 115.8207773928871,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-05-21T02:55:29+00:00",
-      "temperature_c": 22.2,
-      "temperature_f": 71.96,
-      "humidity": 58,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 160,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Late morning in Subiaco finds the sky a bright patchwork, the sun stepping out between scattered clo...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-05-22 00:14:11",
     "location": {
       "name": "Jolimont",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Late morning in Subiaco arrives with a gentle, dappled light: scattered clouds drifting across a bri...",
     "color_code": "#86BCEB"
+  },
+  {
+    "timestamp": "2026-05-29 00:51:48",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94900198563259,
+      "longitude": 115.8204596940628,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-05-28T16:51:48+00:00",
+      "temperature_c": 14.52,
+      "temperature_f": 58.136,
+      "humidity": 73,
+      "wind_speed_mph": 8.47823,
+      "wind_direction": 231,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Subiaco settles into a damp, whispering night. Clouds have moved in and the first light rain is due ...",
+    "color_code": "#2C3E50"
   }
 ]
