@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22 00:14:11",
-    "location": {
-      "name": "Jolimont",
-      "latitude": -31.9423432490215,
-      "longitude": 115.8051232946508,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-05-21T16:14:11+00:00",
-      "temperature_c": 14.01,
-      "temperature_f": 57.218,
-      "humidity": 74,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 190,
-      "description": "clear sky"
-    },
-    "report_summary": "Just past midnight in Jolimont, the air feels clean-edged and quietly cool, with only a few shreds o...",
-    "color_code": "#0B2545"
-  },
-  {
     "timestamp": "2026-05-22 10:55:25",
     "location": {
       "name": "West Perth",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco settles into a damp, whispering night. Clouds have moved in and the first light rain is due ...",
     "color_code": "#2C3E50"
+  },
+  {
+    "timestamp": "2026-05-29 10:50:43",
+    "location": {
+      "name": "Swanbourne",
+      "latitude": -31.97854823333333,
+      "longitude": 115.7667417666667,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-05-29T02:50:42+00:00",
+      "temperature_c": 15.14,
+      "temperature_f": 59.251999999999995,
+      "humidity": 92,
+      "wind_speed_mph": 6.91233,
+      "wind_direction": 10,
+      "description": "broken clouds"
+    },
+    "report_summary": "Late morning in Swanbourne arrives under a patchwork sky, the sun slipping in and out of broken clou...",
+    "color_code": "#A3B8CC"
   }
 ]

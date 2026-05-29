@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Swanbourne",
             "country": "AU",
-            "latitude": -31.94900198563259,
-            "longitude": 115.8204596940628
+            "latitude": -31.97854823333333,
+            "longitude": 115.7667417666667
         },
         "current_conditions": {
-            "timestamp": "2026-05-28T16:51:48+00:00",
-            "temperature_c": 14.52,
-            "temperature_f": 58.136,
-            "humidity": 73,
-            "wind_speed_mph": 8.47823,
-            "wind_direction": 231,
-            "description": "overcast clouds"
+            "timestamp": "2026-05-29T02:50:42+00:00",
+            "temperature_c": 15.14,
+            "temperature_f": 59.251999999999995,
+            "humidity": 92,
+            "wind_speed_mph": 6.91233,
+            "wind_direction": 10,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-05-28T18:00:00+00:00",
-                "temperature": 14.52,
-                "windSpeed": 7.762390000000001,
-                "windDirection": 233,
-                "shortForecast": "light rain"
+                "startTime": "2026-05-29T03:00:00+00:00",
+                "temperature": 15.14,
+                "windSpeed": 8.16505,
+                "windDirection": 221,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-05-28T21:00:00+00:00",
-                "temperature": 14.27,
-                "windSpeed": 6.688630000000001,
-                "windDirection": 228,
-                "shortForecast": "light rain"
+                "startTime": "2026-05-29T06:00:00+00:00",
+                "temperature": 16.26,
+                "windSpeed": 7.51632,
+                "windDirection": 232,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a damp, whispering night. Clouds have moved in and the first light rain is due in the small hours, with another passing shower near dawn. The air feels rinsed and cool; streetlights smudge into soft haloes and the edges of things blur a little, a quiet reminder that clarity will be limited before sunrise. Early brightness will be scarce, the sun tucked behind a gauze of grey.\n\nThrough the morning expect a mostly muted day, with showers lingering and only brief, gentle breaks if they come at all. UV will be low before sunrise and only modest later compared with summer, though a touch of sunscreen is still sensible if you\u2019ll be out by late morning. It\u2019s a light-raincoat, closed-shoes, and small umbrella sort of day; add a layer you can peel off if the clouds thin. For now, let the rain keep you company while you finish a small task, put the kettle on, or sort tomorrow\u2019s list. After first light, plan the unhurried errands, a sheltered coffee, or a short walk between showers, letting the softened sky set the pace.",
-    "color_code": "#2C3E50",
-    "timestamp": "2026-05-29 00:51:48",
+    "weather_report": "Late morning in Swanbourne arrives under a patchwork sky, the sun slipping in and out of broken clouds like a shy performer behind a curtain. Light feels gentle rather than fierce, and the air is clear enough to make edges crisp when the sun appears, softer when it doesn\u2019t. There\u2019s no great threat in the clouds today, just a shifting canopy and the sense of a day taking its time.\n\nExpect this pattern to carry on through the afternoon: intervals of bright, pleasant sunshine tempered by cloud. UV will be moderate when the sun breaks through and milder under cover, so sunglasses and a light dab of sunscreen are sensible around lunch. Dress in easy layers\u2014a breathable shirt with a light jacket you can pocket. It\u2019s good weather for modest ambitions: a walk to the shops, a slow loop through the nearest park, pottering with houseplants by an open window, or a quiet errand on foot while the light comes and goes.",
+    "color_code": "#A3B8CC",
+    "timestamp": "2026-05-29 10:50:43",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94900198563259,
-        "longitude": 115.8204596940628,
+        "name": "Swanbourne",
+        "latitude": -31.97854823333333,
+        "longitude": 115.7667417666667,
         "timezone": "Australia/Perth"
     }
 }
