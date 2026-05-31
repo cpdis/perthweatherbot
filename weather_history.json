@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-05-24 10:52:38",
-    "location": {
-      "name": "West Perth",
-      "latitude": -31.95082566108155,
-      "longitude": 115.8348576032328,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-05-24T02:52:37+00:00",
-      "temperature_c": 15.82,
-      "temperature_f": 60.476,
-      "humidity": 50,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 10,
-      "description": "clear sky"
-    },
-    "report_summary": "West Perth lifts into late morning under a lucid, painterly blue, the sun bright and uncomplicated. ...",
-    "color_code": "#87CEFA"
-  },
-  {
     "timestamp": "2026-05-24 22:22:15",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "A soft, persistent rain has washed Wembley this morning, leaving the pavements gleaming and the air ...",
     "color_code": "#708090"
+  },
+  {
+    "timestamp": "2026-05-31 22:29:35",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968428421264,
+      "longitude": 115.8206898256607,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-05-31T14:29:34+00:00",
+      "temperature_c": 15.99,
+      "temperature_f": 60.782,
+      "humidity": 87,
+      "wind_speed_mph": 31.071930000000002,
+      "wind_direction": 290,
+      "description": "shower rain"
+    },
+    "report_summary": "Subiaco settles into a damp, reflective night. Light rain has been padding the streets and is likely...",
+    "color_code": "#3b4d5a"
   }
 ]

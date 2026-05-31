@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Wembley",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.92476910015383,
-            "longitude": 115.8201134255359
+            "latitude": -31.94968428421264,
+            "longitude": 115.8206898256607
         },
         "current_conditions": {
-            "timestamp": "2026-05-31T03:25:51+00:00",
-            "temperature_c": 15.5,
-            "temperature_f": 59.9,
-            "humidity": 74,
-            "wind_speed_mph": 25.99394,
-            "wind_direction": 220,
+            "timestamp": "2026-05-31T14:29:34+00:00",
+            "temperature_c": 15.99,
+            "temperature_f": 60.782,
+            "humidity": 87,
+            "wind_speed_mph": 31.071930000000002,
+            "wind_direction": 290,
             "description": "shower rain"
         },
         "forecast": [
             {
-                "startTime": "2026-05-31T06:00:00+00:00",
-                "temperature": 14.79,
-                "windSpeed": 37.894780000000004,
-                "windDirection": 283,
+                "startTime": "2026-05-31T15:00:00+00:00",
+                "temperature": 15.99,
+                "windSpeed": 34.830090000000006,
+                "windDirection": 250,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-05-31T09:00:00+00:00",
-                "temperature": 16.22,
-                "windSpeed": 40.623920000000005,
-                "windDirection": 280,
+                "startTime": "2026-05-31T18:00:00+00:00",
+                "temperature": 16.24,
+                "windSpeed": 27.7388,
+                "windDirection": 233,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "A soft, persistent rain has washed Wembley this morning, leaving the pavements gleaming and the air smelling faintly of stone and green. Clouds sit low and even, muting the edges of buildings; the sun is a rumor behind the gauze, so the UV stays modest. It\u2019s the sort of late morning that quiets a street, the light cool and pewter, visibility fine but gently blurred by drizzle.\n\nExpect the light rain and on-and-off showers to linger into the early afternoon, perhaps loosening later with a few hesitant brighter spells. Sunshine will be brief when it comes, and the day never quite dazzles. Dress for damp comfort: a light waterproof or trench over easy layers, shoes that don\u2019t mind puddles, an umbrella you actually like carrying. Good weather for ordinary pleasures\u2014picking up a few errands, a slow wander to a caf\u00e9 window seat, clearing a drawer, paging through a bookshop, or a short walk between showers to feel the hush of the day. If you\u2019re out long, think of a hat or hood; if you linger indoors, a warm cup will do the rest.",
-    "color_code": "#708090",
-    "timestamp": "2026-05-31 11:25:52",
+    "weather_report": "Subiaco settles into a damp, reflective night. Light rain has been padding the streets and is likely to linger through late evening into the small hours, the sky a soft ash-gray curtain without a real break. Sunshine was scarce today and will be rarer still now; the UV index has been modest under the cloud and drops to nearly nothing at this hour. The air feels rinsed but not clear, with low clouds muting the horizon and turning the town\u2019s lights into small halos on wet pavement.\n\nIt\u2019s a night for a light waterproof layer, an umbrella you don\u2019t mind carrying, and shoes that won\u2019t mind a puddle. The weather is gentle rather than harsh, more sigh than storm, but it will sneak into your cuffs if you let it. If you\u2019re out, a slow walk between awnings, a late cinema showing, or a quiet caf\u00e9 with steamed windows suits the mood; if you\u2019re in, it\u2019s a good time to unspool tomorrow\u2019s plans while the rain keeps time against the glass.",
+    "color_code": "#3b4d5a",
+    "timestamp": "2026-05-31 22:29:35",
     "location": {
-        "name": "Wembley",
-        "latitude": -31.92476910015383,
-        "longitude": 115.8201134255359,
+        "name": "Subiaco",
+        "latitude": -31.94968428421264,
+        "longitude": 115.8206898256607,
         "timezone": "Australia/Perth"
     }
 }
