@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "North Beach",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.86417892747787,
-            "longitude": 115.7524385746318
+            "latitude": -31.94969731265706,
+            "longitude": 115.8206759282515
         },
         "current_conditions": {
-            "timestamp": "2026-06-01T03:38:41+00:00",
-            "temperature_c": 19.08,
-            "temperature_f": 66.344,
-            "humidity": 58,
-            "wind_speed_mph": 8.99274,
-            "wind_direction": 160,
-            "description": "overcast clouds"
+            "timestamp": "2026-06-01T18:35:04+00:00",
+            "temperature_c": 14.56,
+            "temperature_f": 58.208,
+            "humidity": 73,
+            "wind_speed_mph": 6.91233,
+            "wind_direction": 20,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-06-01T06:00:00+00:00",
-                "temperature": 18.77,
-                "windSpeed": 16.41958,
-                "windDirection": 228,
+                "startTime": "2026-06-01T21:00:00+00:00",
+                "temperature": 15.14,
+                "windSpeed": 18.09733,
+                "windDirection": 256,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-06-01T09:00:00+00:00",
-                "temperature": 18.37,
-                "windSpeed": 15.09975,
-                "windDirection": 233,
+                "startTime": "2026-06-02T00:00:00+00:00",
+                "temperature": 16.31,
+                "windSpeed": 17.873630000000002,
+                "windDirection": 226,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late morning in North Beach arrives with streets still glazed from earlier light rain, the sky a soft quilt of gray that keeps the sun shy and filtered. The day feels hushed and a touch marine, with visibility muted rather than murky, edges softened as if by charcoal. With the cloud deck holding, sunshine will be brief when it appears, and the UV stays gentle, nudging toward moderate only if the ceiling thins around midday.\n\nExpect the rest of the day to drift between sprinkles and long, dry pauses. It looks pleasant in a quiet, reflective way, better suited to unhurried errands than grand plans. A light waterproof jacket and comfortable shoes that don\u2019t mind damp pavement will serve you well; tuck a compact umbrella in a bag, and perhaps a cap if a brighter interval breaks through. Consider a slow meander to the market, a lingering coffee with a book, or tidying a corner of home you keep meaning to. If the clouds lift for a spell, take a brief loop outside to breathe the clean, rain-scrubbed air before the next soft shower returns.",
-    "color_code": "#7B8C99",
-    "timestamp": "2026-06-01 11:38:41",
+    "weather_report": "Subiaco wakes in the small hours to a hush and the promise of damp streets; light rain drifts in around dawn and lingers into the early morning, the kind that polishes the pavement and keeps the sun at arm\u2019s length. Expect a muted, slate-gray start with soft edges rather than sharp clarity; visibility stays fine, but the world will look gently smudged by drizzle. Sunshine will be scarce at first, and the UV low through the morning, nudging upward only if a few shy breaks appear later, which seems possible but not eager.\n\nIt looks like a day for easy layers and a light waterproof, with shoes that don\u2019t mind puddles and a small umbrella tucked in your bag. If you\u2019re up early, let the rain set the tempo: a quiet coffee at a window seat, a short amble beneath shopfront awnings, or a start on errands between passing showers. Save the longer outdoor plans for a clearer spell later; otherwise, lean indoors\u2014a browse at a bookstore, a tidy-up at home, a gym session\u2014and let the weather play its soft percussion outside.",
+    "color_code": "#6b7886",
+    "timestamp": "2026-06-02 02:35:05",
     "location": {
-        "name": "North Beach",
-        "latitude": -31.86417892747787,
-        "longitude": 115.7524385746318,
+        "name": "Subiaco",
+        "latitude": -31.94969731265706,
+        "longitude": 115.8206759282515,
         "timezone": "Australia/Perth"
     }
 }
