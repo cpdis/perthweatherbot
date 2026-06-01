@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "North Beach",
             "country": "AU",
-            "latitude": -31.94968428421264,
-            "longitude": 115.8206898256607
+            "latitude": -31.86417892747787,
+            "longitude": 115.7524385746318
         },
         "current_conditions": {
-            "timestamp": "2026-05-31T14:29:34+00:00",
-            "temperature_c": 15.99,
-            "temperature_f": 60.782,
-            "humidity": 87,
-            "wind_speed_mph": 31.071930000000002,
-            "wind_direction": 290,
-            "description": "shower rain"
+            "timestamp": "2026-06-01T03:38:41+00:00",
+            "temperature_c": 19.08,
+            "temperature_f": 66.344,
+            "humidity": 58,
+            "wind_speed_mph": 8.99274,
+            "wind_direction": 160,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-05-31T15:00:00+00:00",
-                "temperature": 15.99,
-                "windSpeed": 34.830090000000006,
-                "windDirection": 250,
+                "startTime": "2026-06-01T06:00:00+00:00",
+                "temperature": 18.77,
+                "windSpeed": 16.41958,
+                "windDirection": 228,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-05-31T18:00:00+00:00",
-                "temperature": 16.24,
-                "windSpeed": 27.7388,
+                "startTime": "2026-06-01T09:00:00+00:00",
+                "temperature": 18.37,
+                "windSpeed": 15.09975,
                 "windDirection": 233,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a damp, reflective night. Light rain has been padding the streets and is likely to linger through late evening into the small hours, the sky a soft ash-gray curtain without a real break. Sunshine was scarce today and will be rarer still now; the UV index has been modest under the cloud and drops to nearly nothing at this hour. The air feels rinsed but not clear, with low clouds muting the horizon and turning the town\u2019s lights into small halos on wet pavement.\n\nIt\u2019s a night for a light waterproof layer, an umbrella you don\u2019t mind carrying, and shoes that won\u2019t mind a puddle. The weather is gentle rather than harsh, more sigh than storm, but it will sneak into your cuffs if you let it. If you\u2019re out, a slow walk between awnings, a late cinema showing, or a quiet caf\u00e9 with steamed windows suits the mood; if you\u2019re in, it\u2019s a good time to unspool tomorrow\u2019s plans while the rain keeps time against the glass.",
-    "color_code": "#3b4d5a",
-    "timestamp": "2026-05-31 22:29:35",
+    "weather_report": "Late morning in North Beach arrives with streets still glazed from earlier light rain, the sky a soft quilt of gray that keeps the sun shy and filtered. The day feels hushed and a touch marine, with visibility muted rather than murky, edges softened as if by charcoal. With the cloud deck holding, sunshine will be brief when it appears, and the UV stays gentle, nudging toward moderate only if the ceiling thins around midday.\n\nExpect the rest of the day to drift between sprinkles and long, dry pauses. It looks pleasant in a quiet, reflective way, better suited to unhurried errands than grand plans. A light waterproof jacket and comfortable shoes that don\u2019t mind damp pavement will serve you well; tuck a compact umbrella in a bag, and perhaps a cap if a brighter interval breaks through. Consider a slow meander to the market, a lingering coffee with a book, or tidying a corner of home you keep meaning to. If the clouds lift for a spell, take a brief loop outside to breathe the clean, rain-scrubbed air before the next soft shower returns.",
+    "color_code": "#7B8C99",
+    "timestamp": "2026-06-01 11:38:41",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968428421264,
-        "longitude": 115.8206898256607,
+        "name": "North Beach",
+        "latitude": -31.86417892747787,
+        "longitude": 115.7524385746318,
         "timezone": "Australia/Perth"
     }
 }
