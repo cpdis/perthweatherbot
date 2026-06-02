@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Osborne Park",
             "country": "AU",
-            "latitude": -31.94970258847311,
-            "longitude": 115.8207840380171
+            "latitude": -31.90343892847297,
+            "longitude": 115.8183920777866
         },
         "current_conditions": {
-            "timestamp": "2026-06-02T03:35:31+00:00",
-            "temperature_c": 18.77,
-            "temperature_f": 65.786,
-            "humidity": 54,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 230,
-            "description": "broken clouds"
+            "timestamp": "2026-06-02T17:18:29+00:00",
+            "temperature_c": 13.01,
+            "temperature_f": 55.418,
+            "humidity": 71,
+            "wind_speed_mph": 1.00665,
+            "wind_direction": 318,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-06-02T06:00:00+00:00",
-                "temperature": 18.47,
-                "windSpeed": 14.339170000000001,
-                "windDirection": 231,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-06-02T18:00:00+00:00",
+                "temperature": 13.01,
+                "windSpeed": 9.41777,
+                "windDirection": 205,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-06-02T09:00:00+00:00",
-                "temperature": 17.21,
-                "windSpeed": 14.47339,
-                "windDirection": 217,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-06-02T21:00:00+00:00",
+                "temperature": 13.68,
+                "windSpeed": 6.688630000000001,
+                "windDirection": 184,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late morning in Subiaco wears a shawl of broken cloud, the sun slipping in and out, painting pavements in soft silver. The air feels calm and usable rather than dramatic; visibility is decent, with the sky mottled instead of pure. Through the afternoon expect the same rhythm of light and shade, bright spells opening like brief curtains and then drawing closed again. UV should be moderate when the sun breaks through, gentle otherwise, so sunglasses are wise and a dab of sunscreen at midday is not overcautious.\n\nThis is the sort of day that flatters light layers: a breathable shirt with a cardigan or easy jacket, comfortable shoes for unhurried errands, and a hat if you linger outdoors. It\u2019s pleasant in a low-key way, good for a window seat at a caf\u00e9, a tidy-up run to the shops, or a meandering walk where the patchy sunlight keeps you company. If you\u2019re staying in, throw open a curtain and let the shifting daylight do the decorating.",
-    "color_code": "#9EB2C7",
-    "timestamp": "2026-06-02 11:35:32",
+    "weather_report": "Osborne Park settles into the small hours with a soft, persistent rain, the sort that hushes the streets and paints the bitumen in shy reflections. The sky is a close, woolly grey, so the sun is nowhere to be found yet and the UV is essentially asleep; dawn looks to arrive muted, with edges of buildings blurred by drizzle and a gentle mist that steals the sparkle from distant lights. It\u2019s cool and damp rather than cold, the kind of night that narrows the world to what\u2019s under your umbrella and the glow of a nearby window.\n\nExpect showers to loiter through the early morning before easing toward a blanket of cloud; any sunshine later will likely be filtered and brief, keeping the UV on the mild side, though a dab of sunscreen won\u2019t go astray if you\u2019re outdoors past midmorning. Pleasant, in its quiet way\u2014more contemplative than bright. Dress in a light waterproof layer with breathable fabrics underneath, long pants, and shoes that won\u2019t mind a puddle; tuck a compact umbrella in your bag. This is a good morning for an unhurried coffee at a local spot, sorting the week\u2019s to\u2011dos, or a calm commute with a podcast. If the rain slackens, take a short, mindful walk to enjoy the clean, rain-washed air and the scent of wet leaves before the day fully wakes.",
+    "color_code": "#2c3e50",
+    "timestamp": "2026-06-03 01:18:30",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94970258847311,
-        "longitude": 115.8207840380171,
+        "name": "Osborne Park",
+        "latitude": -31.90343892847297,
+        "longitude": 115.8183920777866,
         "timezone": "Australia/Perth"
     }
 }
