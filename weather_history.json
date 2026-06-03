@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27 11:25:43",
-    "location": {
-      "name": "Herdsman",
-      "latitude": -31.92838545183861,
-      "longitude": 115.8109470291488,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-05-27T03:25:43+00:00",
-      "temperature_c": 19.35,
-      "temperature_f": 66.83,
-      "humidity": 51,
-      "wind_speed_mph": 13.802290000000001,
-      "wind_direction": 10,
-      "description": "light rain"
-    },
-    "report_summary": "Late morning in Herdsman arrives in a pewter wash, the sun a shy rumor behind high cloud. The UV wil...",
-    "color_code": "#7A8796"
-  },
-  {
     "timestamp": "2026-05-28 00:34:14",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Late morning in Wembley comes under a quilt of broken cloud: soft light, silvered edges, and sudden,...",
     "color_code": "#A6B8C8"
+  },
+  {
+    "timestamp": "2026-06-04 01:58:05",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.9496898558747,
+      "longitude": 115.8209265275803,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-06-03T17:58:05+00:00",
+      "temperature_c": 11.21,
+      "temperature_f": 52.178000000000004,
+      "humidity": 79,
+      "wind_speed_mph": 5.570130000000001,
+      "wind_direction": 90,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco sits under a clean, star-pinned sky at this quiet hour, the air crisp enough to sharpen ever...",
+    "color_code": "#0B1D3A"
   }
 ]

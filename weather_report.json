@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Wembley",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9287505248873,
-            "longitude": 115.8113718747047
+            "latitude": -31.9496898558747,
+            "longitude": 115.8209265275803
         },
         "current_conditions": {
-            "timestamp": "2026-06-03T03:42:04+00:00",
-            "temperature_c": 17.81,
-            "temperature_f": 64.05799999999999,
-            "humidity": 59,
-            "wind_speed_mph": 1.99093,
-            "wind_direction": 349,
-            "description": "broken clouds"
+            "timestamp": "2026-06-03T17:58:05+00:00",
+            "temperature_c": 11.21,
+            "temperature_f": 52.178000000000004,
+            "humidity": 79,
+            "wind_speed_mph": 5.570130000000001,
+            "wind_direction": 90,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-06-03T06:00:00+00:00",
-                "temperature": 17.51,
-                "windSpeed": 6.82285,
-                "windDirection": 230,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-06-03T18:00:00+00:00",
+                "temperature": 11.21,
+                "windSpeed": 5.570130000000001,
+                "windDirection": 90,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-06-03T09:00:00+00:00",
-                "temperature": 16.93,
-                "windSpeed": 7.583430000000001,
-                "windDirection": 191,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-06-03T21:00:00+00:00",
+                "temperature": 9.72,
+                "windSpeed": 6.241230000000001,
+                "windDirection": 81,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Late morning in Wembley comes under a quilt of broken cloud: soft light, silvered edges, and sudden, welcome gleams of sun. It looks mostly dry and gently bright rather than blazing; the sun will come and go, with a moderate midday UV bite when it finds the gaps, so sunglasses are worth keeping handy. The air feels clear enough for distant outlines to stay sharp, though the day carries that pale, slightly milky cast that softens colors. Expect the sky to keep this on-and-off rhythm through the afternoon.\n\nDress for changeability: light layers, a breathable shirt with a cardigan or thin jacket you can pocket when the sun warms your shoulders. Good weather for ordinary pleasures\u2014an errand loop on foot, a slow stroll through Wembley Park, a bench break with a book when the light opens, or tending to the balcony plants between sunbreaks. If you\u2019re out near midday, aim for the bright intervals but mind the UV; shade will still feel cool when the clouds drift back.",
-    "color_code": "#A6B8C8",
-    "timestamp": "2026-06-03 11:42:04",
+    "weather_report": "Subiaco sits under a clean, star-pinned sky at this quiet hour, the air crisp enough to sharpen every edge of street and leaf. It\u2019s a still, glassy night that invites deep breaths and unhurried steps, the kind that makes distant sounds travel and the horizon feel closer than usual.\n\nThe forecast carries this clarity through the small hours into dawn, likely breaking to a bright, uncomplicated day with long, handsome shadows and high visibility. Sunshine should be generous but, in winter\u2019s register, gentle; the UV index looks modest early, rising toward midday enough to justify sunglasses and a light touch of sunscreen if you plan to linger outdoors. Expect something more invigorating than balmy. Dress in layers: a soft jumper or light jacket now, an easy extra you can shed as the sun warms the pavements. These are good conditions for ordinary pleasures\u2014an amble to the bakery before the rush, hanging washing so it drinks the light, a quiet session of pruning or sweeping, a mid-morning coffee on a sheltered stoop, or cycling a few errands while the air feels honest and the streets unhurried.",
+    "color_code": "#0B1D3A",
+    "timestamp": "2026-06-04 01:58:05",
     "location": {
-        "name": "Wembley",
-        "latitude": -31.9287505248873,
-        "longitude": 115.8113718747047,
+        "name": "Subiaco",
+        "latitude": -31.9496898558747,
+        "longitude": 115.8209265275803,
         "timezone": "Australia/Perth"
     }
 }
