@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Osborne Park",
+            "name": "Wembley",
             "country": "AU",
-            "latitude": -31.90343892847297,
-            "longitude": 115.8183920777866
+            "latitude": -31.9287505248873,
+            "longitude": 115.8113718747047
         },
         "current_conditions": {
-            "timestamp": "2026-06-02T17:18:29+00:00",
-            "temperature_c": 13.01,
-            "temperature_f": 55.418,
-            "humidity": 71,
-            "wind_speed_mph": 1.00665,
-            "wind_direction": 318,
-            "description": "overcast clouds"
+            "timestamp": "2026-06-03T03:42:04+00:00",
+            "temperature_c": 17.81,
+            "temperature_f": 64.05799999999999,
+            "humidity": 59,
+            "wind_speed_mph": 1.99093,
+            "wind_direction": 349,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-06-02T18:00:00+00:00",
-                "temperature": 13.01,
-                "windSpeed": 9.41777,
-                "windDirection": 205,
-                "shortForecast": "light rain"
+                "startTime": "2026-06-03T06:00:00+00:00",
+                "temperature": 17.51,
+                "windSpeed": 6.82285,
+                "windDirection": 230,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-06-02T21:00:00+00:00",
-                "temperature": 13.68,
-                "windSpeed": 6.688630000000001,
-                "windDirection": 184,
-                "shortForecast": "light rain"
+                "startTime": "2026-06-03T09:00:00+00:00",
+                "temperature": 16.93,
+                "windSpeed": 7.583430000000001,
+                "windDirection": 191,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Osborne Park settles into the small hours with a soft, persistent rain, the sort that hushes the streets and paints the bitumen in shy reflections. The sky is a close, woolly grey, so the sun is nowhere to be found yet and the UV is essentially asleep; dawn looks to arrive muted, with edges of buildings blurred by drizzle and a gentle mist that steals the sparkle from distant lights. It\u2019s cool and damp rather than cold, the kind of night that narrows the world to what\u2019s under your umbrella and the glow of a nearby window.\n\nExpect showers to loiter through the early morning before easing toward a blanket of cloud; any sunshine later will likely be filtered and brief, keeping the UV on the mild side, though a dab of sunscreen won\u2019t go astray if you\u2019re outdoors past midmorning. Pleasant, in its quiet way\u2014more contemplative than bright. Dress in a light waterproof layer with breathable fabrics underneath, long pants, and shoes that won\u2019t mind a puddle; tuck a compact umbrella in your bag. This is a good morning for an unhurried coffee at a local spot, sorting the week\u2019s to\u2011dos, or a calm commute with a podcast. If the rain slackens, take a short, mindful walk to enjoy the clean, rain-washed air and the scent of wet leaves before the day fully wakes.",
-    "color_code": "#2c3e50",
-    "timestamp": "2026-06-03 01:18:30",
+    "weather_report": "Late morning in Wembley comes under a quilt of broken cloud: soft light, silvered edges, and sudden, welcome gleams of sun. It looks mostly dry and gently bright rather than blazing; the sun will come and go, with a moderate midday UV bite when it finds the gaps, so sunglasses are worth keeping handy. The air feels clear enough for distant outlines to stay sharp, though the day carries that pale, slightly milky cast that softens colors. Expect the sky to keep this on-and-off rhythm through the afternoon.\n\nDress for changeability: light layers, a breathable shirt with a cardigan or thin jacket you can pocket when the sun warms your shoulders. Good weather for ordinary pleasures\u2014an errand loop on foot, a slow stroll through Wembley Park, a bench break with a book when the light opens, or tending to the balcony plants between sunbreaks. If you\u2019re out near midday, aim for the bright intervals but mind the UV; shade will still feel cool when the clouds drift back.",
+    "color_code": "#A6B8C8",
+    "timestamp": "2026-06-03 11:42:04",
     "location": {
-        "name": "Osborne Park",
-        "latitude": -31.90343892847297,
-        "longitude": 115.8183920777866,
+        "name": "Wembley",
+        "latitude": -31.9287505248873,
+        "longitude": 115.8113718747047,
         "timezone": "Australia/Perth"
     }
 }
