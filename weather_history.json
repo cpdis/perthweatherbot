@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-05-28 10:47:13",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969264795678,
-      "longitude": 115.8207786541708,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-05-28T02:47:12+00:00",
-      "temperature_c": 20.31,
-      "temperature_f": 68.55799999999999,
-      "humidity": 58,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 250,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Late morning in Subiaco arrives with a gentle, dappled light: scattered clouds drifting across a bri...",
-    "color_code": "#86BCEB"
-  },
-  {
     "timestamp": "2026-05-29 00:51:48",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Late morning in Subiaco arrives clear and honest, a polished blue sky laid gently over the rooftops....",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-06-05 00:18:36",
+    "location": {
+      "name": "Wembley",
+      "latitude": -31.94194014876197,
+      "longitude": 115.8047271618852,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-06-04T16:18:35+00:00",
+      "temperature_c": 10.87,
+      "temperature_f": 51.566,
+      "humidity": 68,
+      "wind_speed_mph": 1.00665,
+      "wind_direction": 103,
+      "description": "clear sky"
+    },
+    "report_summary": "Just past midnight in Wembley, the sky has the uncomplicated calm of a late show\u2019s closing notes\u2014mos...",
+    "color_code": "#0d1b2a"
   }
 ]

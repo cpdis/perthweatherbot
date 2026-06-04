@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Wembley",
             "country": "AU",
-            "latitude": -31.94959192101529,
-            "longitude": 115.8208434020449
+            "latitude": -31.94194014876197,
+            "longitude": 115.8047271618852
         },
         "current_conditions": {
-            "timestamp": "2026-06-04T03:38:07+00:00",
-            "temperature_c": 17.67,
-            "temperature_f": 63.806000000000004,
-            "humidity": 47,
-            "wind_speed_mph": 4.004230000000001,
-            "wind_direction": 67,
+            "timestamp": "2026-06-04T16:18:35+00:00",
+            "temperature_c": 10.87,
+            "temperature_f": 51.566,
+            "humidity": 68,
+            "wind_speed_mph": 1.00665,
+            "wind_direction": 103,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-06-04T06:00:00+00:00",
-                "temperature": 17.9,
-                "windSpeed": 2.39359,
-                "windDirection": 60,
+                "startTime": "2026-06-04T18:00:00+00:00",
+                "temperature": 10.84,
+                "windSpeed": 9.88754,
+                "windDirection": 82,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-06-04T09:00:00+00:00",
-                "temperature": 17.24,
-                "windSpeed": 5.90568,
-                "windDirection": 78,
-                "shortForecast": "clear sky"
+                "startTime": "2026-06-04T21:00:00+00:00",
+                "temperature": 9.96,
+                "windSpeed": 8.925630000000002,
+                "windDirection": 84,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Late morning in Subiaco arrives clear and honest, a polished blue sky laid gently over the rooftops. The light is bright but softened by winter, the air clean and dry, with far-off details standing out as if freshly drawn. Expect the day to stay open and sunny into the afternoon, shadows lengthening neatly toward evening. UV looks modest to moderate around midday before easing, the sort that invites sunglasses and a dab of sunscreen if you linger outdoors.\n\nIt\u2019s a day for comfortable layers: a light sweater or denim jacket, something you can shrug off in the sun and pull close in the shade, with a brimmed hat if you\u2019re strolling. Take advantage of the clarity\u2014walk your errands instead of driving, sit outside a quiet caf\u00e9 for lunch, hang the washing where the breeze can find it, or find a sunlit bench near the oval and read a few unhurried pages. Late afternoon will stay serene and pleasant, the kind of blue-sky steadiness that makes small plans feel perfectly sufficient.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-06-04 11:38:08",
+    "weather_report": "Just past midnight in Wembley, the sky has the uncomplicated calm of a late show\u2019s closing notes\u2014mostly clear earlier, now gently speckled with drifting cloud, the stars stepping in and out like shy performers. The air feels clean and unhurried; no glare, no fuss, only the soft hush of a night coasting toward dawn. UV is a non-issue at this hour, and the city lights sit under a quietly transparent canopy.\n\nGiven the evening\u2019s clarity, the morning is likely to open bright with a few friendly clouds. Sunshine should find its way through, so expect a day that feels open and well-lit rather than harsh. UV will build after breakfast if the sky holds, so think light layers for the early start\u2014a cardigan or jogger\u2014and something you can peel back as the sun gains its voice. It\u2019s a good morning to put the kettle on, water the plants, or slip out early for bread while the pavements are still empty; later, bring sunglasses for errands, a book by the window, or a gentle walk between chores, letting the light do its quiet work.",
+    "color_code": "#0d1b2a",
+    "timestamp": "2026-06-05 00:18:36",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94959192101529,
-        "longitude": 115.8208434020449,
+        "name": "Wembley",
+        "latitude": -31.94194014876197,
+        "longitude": 115.8047271618852,
         "timezone": "Australia/Perth"
     }
 }
