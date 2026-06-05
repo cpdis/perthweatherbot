@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-05-29 10:50:43",
-    "location": {
-      "name": "Swanbourne",
-      "latitude": -31.97854823333333,
-      "longitude": 115.7667417666667,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-05-29T02:50:42+00:00",
-      "temperature_c": 15.14,
-      "temperature_f": 59.251999999999995,
-      "humidity": 92,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 10,
-      "description": "broken clouds"
-    },
-    "report_summary": "Late morning in Swanbourne arrives under a patchwork sky, the sun slipping in and out of broken clou...",
-    "color_code": "#A3B8CC"
-  },
-  {
     "timestamp": "2026-05-30 00:40:09",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Late morning in West Perth arrives with a gentle light and a veil of high cloud, softening edges and...",
     "color_code": "#9CA6AF"
+  },
+  {
+    "timestamp": "2026-06-05 23:50:04",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969598996553,
+      "longitude": 115.8209115966542,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-06-05T15:50:03+00:00",
+      "temperature_c": 13.32,
+      "temperature_f": 55.976,
+      "humidity": 71,
+      "wind_speed_mph": 4.83192,
+      "wind_direction": 70,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco settles into a quiet, starlit hush, the kind of clear night where rooftops look etched and t...",
+    "color_code": "#0b1e3b"
   }
 ]
