@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-05-29 00:51:48",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94900198563259,
-      "longitude": 115.8204596940628,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-05-28T16:51:48+00:00",
-      "temperature_c": 14.52,
-      "temperature_f": 58.136,
-      "humidity": 73,
-      "wind_speed_mph": 8.47823,
-      "wind_direction": 231,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Subiaco settles into a damp, whispering night. Clouds have moved in and the first light rain is due ...",
-    "color_code": "#2C3E50"
-  },
-  {
     "timestamp": "2026-05-29 10:50:43",
     "location": {
       "name": "Swanbourne",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Just past midnight in Wembley, the sky has the uncomplicated calm of a late show\u2019s closing notes\u2014mos...",
     "color_code": "#0d1b2a"
+  },
+  {
+    "timestamp": "2026-06-05 11:24:57",
+    "location": {
+      "name": "West Perth",
+      "latitude": -31.95450836666667,
+      "longitude": 115.84718155,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-06-05T03:24:54+00:00",
+      "temperature_c": 18.1,
+      "temperature_f": 64.58,
+      "humidity": 48,
+      "wind_speed_mph": 4.004230000000001,
+      "wind_direction": 90,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Late morning in West Perth arrives with a gentle light and a veil of high cloud, softening edges and...",
+    "color_code": "#9CA6AF"
   }
 ]

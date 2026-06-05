@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Wembley",
+            "name": "West Perth",
             "country": "AU",
-            "latitude": -31.94194014876197,
-            "longitude": 115.8047271618852
+            "latitude": -31.95450836666667,
+            "longitude": 115.84718155
         },
         "current_conditions": {
-            "timestamp": "2026-06-04T16:18:35+00:00",
-            "temperature_c": 10.87,
-            "temperature_f": 51.566,
-            "humidity": 68,
-            "wind_speed_mph": 1.00665,
-            "wind_direction": 103,
-            "description": "clear sky"
+            "timestamp": "2026-06-05T03:24:54+00:00",
+            "temperature_c": 18.1,
+            "temperature_f": 64.58,
+            "humidity": 48,
+            "wind_speed_mph": 4.004230000000001,
+            "wind_direction": 90,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-06-04T18:00:00+00:00",
-                "temperature": 10.84,
-                "windSpeed": 9.88754,
-                "windDirection": 82,
-                "shortForecast": "clear sky"
+                "startTime": "2026-06-05T06:00:00+00:00",
+                "temperature": 19.06,
+                "windSpeed": 3.91475,
+                "windDirection": 65,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-06-04T21:00:00+00:00",
-                "temperature": 9.96,
-                "windSpeed": 8.925630000000002,
-                "windDirection": 84,
+                "startTime": "2026-06-05T09:00:00+00:00",
+                "temperature": 18.29,
+                "windSpeed": 4.20556,
+                "windDirection": 150,
                 "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Just past midnight in Wembley, the sky has the uncomplicated calm of a late show\u2019s closing notes\u2014mostly clear earlier, now gently speckled with drifting cloud, the stars stepping in and out like shy performers. The air feels clean and unhurried; no glare, no fuss, only the soft hush of a night coasting toward dawn. UV is a non-issue at this hour, and the city lights sit under a quietly transparent canopy.\n\nGiven the evening\u2019s clarity, the morning is likely to open bright with a few friendly clouds. Sunshine should find its way through, so expect a day that feels open and well-lit rather than harsh. UV will build after breakfast if the sky holds, so think light layers for the early start\u2014a cardigan or jogger\u2014and something you can peel back as the sun gains its voice. It\u2019s a good morning to put the kettle on, water the plants, or slip out early for bread while the pavements are still empty; later, bring sunglasses for errands, a book by the window, or a gentle walk between chores, letting the light do its quiet work.",
-    "color_code": "#0d1b2a",
-    "timestamp": "2026-06-05 00:18:36",
+    "weather_report": "Late morning in West Perth arrives with a gentle light and a veil of high cloud, softening edges and muting the glare. The sun feels courteous rather than insistent; the UV index will peak at a modest-to-moderate level around midday, then ease as the cloud thickens. Air clarity is good, the sky a cool wash rather than a hard blue, the kind of day that invites a quieter pace.\n\nBy mid\u2011afternoon an overcast lid is likely to settle in, then break open to scattered clouds toward late afternoon, offering a few clean, silvery moments before dusk. It looks pleasantly subdued rather than dreary. Dress in light layers\u2014long sleeves or a soft jacket\u2014and keep sunglasses handy for those brief, brighter breaks. Good weather for unhurried errands on foot, a small loop through Kings Park, leafing through a bookshop without a rush, or tidying the balcony plants. If you\u2019re lingering outdoors toward late afternoon, the softened sun will make a short spin on the bike or a stroll to the corner cafe feel just right.",
+    "color_code": "#9CA6AF",
+    "timestamp": "2026-06-05 11:24:57",
     "location": {
-        "name": "Wembley",
-        "latitude": -31.94194014876197,
-        "longitude": 115.8047271618852,
+        "name": "West Perth",
+        "latitude": -31.95450836666667,
+        "longitude": 115.84718155,
         "timezone": "Australia/Perth"
     }
 }
