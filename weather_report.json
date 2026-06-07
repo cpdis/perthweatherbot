@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "South Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.96576949855866,
-            "longitude": 115.8477647657092
+            "latitude": -31.94969363707957,
+            "longitude": 115.820685623232
         },
         "current_conditions": {
-            "timestamp": "2026-06-07T03:30:27+00:00",
-            "temperature_c": 20.08,
-            "temperature_f": 68.14399999999999,
-            "humidity": 69,
-            "wind_speed_mph": 7.717650000000001,
-            "wind_direction": 321,
-            "description": "clear sky"
+            "timestamp": "2026-06-07T14:49:33+00:00",
+            "temperature_c": 15.95,
+            "temperature_f": 60.709999999999994,
+            "humidity": 84,
+            "wind_speed_mph": 1.00665,
+            "wind_direction": 314,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-06-07T06:00:00+00:00",
-                "temperature": 20.52,
-                "windSpeed": 11.162630000000002,
-                "windDirection": 308,
-                "shortForecast": "clear sky"
+                "startTime": "2026-06-07T15:00:00+00:00",
+                "temperature": 15.95,
+                "windSpeed": 14.27206,
+                "windDirection": 298,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-06-07T09:00:00+00:00",
-                "temperature": 19.27,
-                "windSpeed": 11.49818,
-                "windDirection": 307,
-                "shortForecast": "clear sky"
+                "startTime": "2026-06-07T18:00:00+00:00",
+                "temperature": 15.35,
+                "windSpeed": 14.20495,
+                "windDirection": 317,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Late morning in South Perth arrives with a clean, crystalline light and a sky without a blemish. The day looks set to stay this way through the afternoon, bright and dry, the river likely to glitter under that steady winter sun. Sunshine will be generous rather than harsh; the UV is moderate for the season, at its most insistent in the early afternoon before softening toward evening. Visibility is excellent, edges sharp, colors true.\n\nIt\u2019s a day for light layers: a long-sleeve and a mild jacket you can shrug off when the sun settles on your shoulders, sunglasses at the ready, and a touch of sunscreen if you plan to linger. Consider a slow stroll along the foreshore on your lunch break, a quiet coffee taken outdoors where you can watch the light move, or a simple amble to run errands on foot. If you\u2019re at home, throw open a window, let the rooms air, or step into the yard to tend a plant and bask for a few unhurried minutes before the late sun stretches the shadows long.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-06-07 11:30:28",
+    "weather_report": "Subiaco settles into a quiet, slate-toned night: cloud thick as felt and a light rain brushing in near midnight, the streetlights haloed and the air smelling faintly of wet stone. Sunshine is spent; the UV index is effectively nil, and even the stars are veiled. The view is softened at the edges, more silhouette than scene, with sound carrying farther than light.\n\nExpect the rest of the night to stay overcast, the rain light but insistent before giving way to a heavier blanket of cloud toward the small hours. It\u2019s a gently gloomy sort of pleasant, better for unhurried steps. Dress for damp: a light jacket with a hood or a small umbrella, and shoes that won\u2019t sulk at puddles. Good night to fetch a simple supper, file a few lingering thoughts at the kitchen table, or walk the long way home under verandas, letting the town\u2019s hush be the entertainment.",
+    "color_code": "#2C3E50",
+    "timestamp": "2026-06-07 22:49:34",
     "location": {
-        "name": "South Perth",
-        "latitude": -31.96576949855866,
-        "longitude": 115.8477647657092,
+        "name": "Subiaco",
+        "latitude": -31.94969363707957,
+        "longitude": 115.820685623232,
         "timezone": "Australia/Perth"
     }
 }
