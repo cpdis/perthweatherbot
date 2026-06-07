@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-05-30 22:26:17",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970278515758,
-      "longitude": 115.8207848005569,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-05-30T14:26:16+00:00",
-      "temperature_c": 19.42,
-      "temperature_f": 66.956,
-      "humidity": 86,
-      "wind_speed_mph": 24.1596,
-      "wind_direction": 10,
-      "description": "broken clouds"
-    },
-    "report_summary": "Late evening in Subiaco feels hushed and damp, the air brushed with the first notes of rain. Light s...",
-    "color_code": "#2C3E50"
-  },
-  {
     "timestamp": "2026-05-31 11:25:52",
     "location": {
       "name": "Wembley",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco settles under a clear, quietly luminous sky tonight; the forecast stays cloudless through la...",
     "color_code": "#0B1E3A"
+  },
+  {
+    "timestamp": "2026-06-07 11:30:28",
+    "location": {
+      "name": "South Perth",
+      "latitude": -31.96576949855866,
+      "longitude": 115.8477647657092,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-06-07T03:30:27+00:00",
+      "temperature_c": 20.08,
+      "temperature_f": 68.14399999999999,
+      "humidity": 69,
+      "wind_speed_mph": 7.717650000000001,
+      "wind_direction": 321,
+      "description": "clear sky"
+    },
+    "report_summary": "Late morning in South Perth arrives with a clean, crystalline light and a sky without a blemish. The...",
+    "color_code": "#87CEEB"
   }
 ]
