@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94969804584159,
-            "longitude": 115.8207803703995
+            "latitude": -31.94969369769103,
+            "longitude": 115.8206875987929
         },
         "current_conditions": {
-            "timestamp": "2026-06-08T03:36:13+00:00",
-            "temperature_c": 20.61,
-            "temperature_f": 69.098,
-            "humidity": 60,
-            "wind_speed_mph": 7.00181,
-            "wind_direction": 290,
-            "description": "overcast clouds"
+            "timestamp": "2026-06-08T16:45:58+00:00",
+            "temperature_c": 16.04,
+            "temperature_f": 60.872,
+            "humidity": 78,
+            "wind_speed_mph": 1.99093,
+            "wind_direction": 215,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-06-08T06:00:00+00:00",
-                "temperature": 20.56,
-                "windSpeed": 26.59793,
-                "windDirection": 298,
+                "startTime": "2026-06-08T18:00:00+00:00",
+                "temperature": 16.04,
+                "windSpeed": 27.336140000000004,
+                "windDirection": 258,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-06-08T09:00:00+00:00",
-                "temperature": 18.84,
-                "windSpeed": 24.920180000000002,
-                "windDirection": 284,
-                "shortForecast": "moderate rain"
+                "startTime": "2026-06-08T21:00:00+00:00",
+                "temperature": 15.1,
+                "windSpeed": 23.15295,
+                "windDirection": 229,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late morning in Subiaco arrives under a deep grey sky, the kind that hushes the streets and polishes the trees a darker green. The morning\u2019s light sprinkle has strengthened into a steadier rain, softening edges and lending the day a muted, reflective cast. Sunshine will be rare, perhaps a fleeting silver through breaks in the cloud, and the UV stays subdued under this heavy lid except for a brief uptick if a gap opens. The air feels clean but a touch raw, with visibility dulled rather than misty, and the day seems to ask for unhurried steps and a bit of patience.\n\nExpect showers to continue into the afternoon, at times moderate, easing only in short lulls. Dress in light layers with a waterproof shell and shoes that don\u2019t mind puddles; a hood serves better than a fussy umbrella when the wind noses in. This is good weather for modest ambitions: duck out to pick up a loaf and a few staples between bands of rain, then take your time over coffee by a window, or clear a quiet corner of the day\u2019s admin while the gutters chatter. If you need the outdoors, keep it brief and deliberate, then enjoy the small relief of coming back in from the wet.",
-    "color_code": "#708090",
-    "timestamp": "2026-06-08 11:36:14",
+    "weather_report": "Subiaco dozes under a soft patter, streets lacquered with rain and the night air smelling faintly of eucalyptus and bitumen. Clouds are thick and close, so there is no hint of sun; the UV is essentially asleep too. Clarity is gentle rather than sharp, with drizzle smudging the edges of streetlights and headlights. It feels cool and a little damp, the sort of hour when the house is quiet and the kettle sounds louder than usual.\n\nToward the small hours and into dawn, more light rain drifts through, keeping the morning subdued. Sunshine will be stingy early, and the UV stays low until well after sunrise; if the cloud loosens later, it may rouse a little, but don\u2019t count on any blaze. Dress for a walk between showers: a light waterproof, closed shoes, and an umbrella you won\u2019t mind carrying. It\u2019s pleasant weather for unhurried tasks\u2014replying to the message you put off, folding laundry, or, once the rain eases, a short stroll to admire rain-polished jacarandas and pick up bread while the world is still hushed.",
+    "color_code": "#6b7a8f",
+    "timestamp": "2026-06-09 00:45:58",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94969804584159,
-        "longitude": 115.8207803703995,
+        "latitude": -31.94969369769103,
+        "longitude": 115.8206875987929,
         "timezone": "Australia/Perth"
     }
 }
