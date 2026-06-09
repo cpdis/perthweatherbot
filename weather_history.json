@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-06-02 11:35:32",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970258847311,
-      "longitude": 115.8207840380171,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-06-02T03:35:31+00:00",
-      "temperature_c": 18.77,
-      "temperature_f": 65.786,
-      "humidity": 54,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 230,
-      "description": "broken clouds"
-    },
-    "report_summary": "Late morning in Subiaco wears a shawl of broken cloud, the sun slipping in and out, painting pavemen...",
-    "color_code": "#9EB2C7"
-  },
-  {
     "timestamp": "2026-06-03 01:18:30",
     "location": {
       "name": "Osborne Park",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Late morning settles over Subiaco under a pewter sky, the kind that mutes the edges of buildings and...",
     "color_code": "#7C8892"
+  },
+  {
+    "timestamp": "2026-06-09 23:51:43",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.9497063181649,
+      "longitude": 115.820697259277,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-06-09T15:51:42+00:00",
+      "temperature_c": 10.96,
+      "temperature_f": 51.728,
+      "humidity": 77,
+      "wind_speed_mph": 5.27932,
+      "wind_direction": 57,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Near midnight in Subiaco the sky is a patchwork of broken cloud, the night light softened and a litt...",
+    "color_code": "#2C3E50"
   }
 ]
