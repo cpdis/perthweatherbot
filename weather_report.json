@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94969369769103,
-            "longitude": 115.8206875987929
+            "latitude": -31.94967810421558,
+            "longitude": 115.8208186632444
         },
         "current_conditions": {
-            "timestamp": "2026-06-08T16:45:58+00:00",
-            "temperature_c": 16.04,
-            "temperature_f": 60.872,
-            "humidity": 78,
-            "wind_speed_mph": 1.99093,
-            "wind_direction": 215,
-            "description": "broken clouds"
+            "timestamp": "2026-06-09T02:45:57+00:00",
+            "temperature_c": 14.39,
+            "temperature_f": 57.902,
+            "humidity": 73,
+            "wind_speed_mph": 14.56287,
+            "wind_direction": 212,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-06-08T18:00:00+00:00",
-                "temperature": 16.04,
-                "windSpeed": 27.336140000000004,
-                "windDirection": 258,
+                "startTime": "2026-06-09T03:00:00+00:00",
+                "temperature": 14.39,
+                "windSpeed": 14.56287,
+                "windDirection": 212,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-06-08T21:00:00+00:00",
-                "temperature": 15.1,
-                "windSpeed": 23.15295,
-                "windDirection": 229,
+                "startTime": "2026-06-09T06:00:00+00:00",
+                "temperature": 14.71,
+                "windSpeed": 12.03506,
+                "windDirection": 190,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Subiaco dozes under a soft patter, streets lacquered with rain and the night air smelling faintly of eucalyptus and bitumen. Clouds are thick and close, so there is no hint of sun; the UV is essentially asleep too. Clarity is gentle rather than sharp, with drizzle smudging the edges of streetlights and headlights. It feels cool and a little damp, the sort of hour when the house is quiet and the kettle sounds louder than usual.\n\nToward the small hours and into dawn, more light rain drifts through, keeping the morning subdued. Sunshine will be stingy early, and the UV stays low until well after sunrise; if the cloud loosens later, it may rouse a little, but don\u2019t count on any blaze. Dress for a walk between showers: a light waterproof, closed shoes, and an umbrella you won\u2019t mind carrying. It\u2019s pleasant weather for unhurried tasks\u2014replying to the message you put off, folding laundry, or, once the rain eases, a short stroll to admire rain-polished jacarandas and pick up bread while the world is still hushed.",
-    "color_code": "#6b7a8f",
-    "timestamp": "2026-06-09 00:45:58",
+    "weather_report": "Late morning settles over Subiaco under a pewter sky, the kind that mutes the edges of buildings and turns the streets to soft graphite. Light showers look set to wander through around midday and again as the afternoon unfurls, more a passing veil than a downpour. Sunshine will be fleeting at best, a pale cameo behind clouds, so the UV should stay on the low side for winter; clarity will ebb and flow with each misty pass, but visibility otherwise remains steady and calm.\n\nDress for a gentle damp: light layers with a waterproof shell, comfortable closed shoes, and a small umbrella you won\u2019t mind carrying. Sunglasses can likely stay behind, though a brief brightening may ask for them. It\u2019s a day for unhurried errands between showers, a quiet table at the neighborhood cafe, a thoughtful browse in a bookshop, or a matinee that lets the rain do its tapping while you rest in the dark. If you\u2019re staying in, the light is perfect for letters, sorting a drawer, or coaxing a simple soup to life on the stove as the windows collect a pleasant silver sheen.",
+    "color_code": "#7C8892",
+    "timestamp": "2026-06-09 10:45:57",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94969369769103,
-        "longitude": 115.8206875987929,
+        "latitude": -31.94967810421558,
+        "longitude": 115.8208186632444,
         "timezone": "Australia/Perth"
     }
 }
