@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-06-03 01:18:30",
-    "location": {
-      "name": "Osborne Park",
-      "latitude": -31.90343892847297,
-      "longitude": 115.8183920777866,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-06-02T17:18:29+00:00",
-      "temperature_c": 13.01,
-      "temperature_f": 55.418,
-      "humidity": 71,
-      "wind_speed_mph": 1.00665,
-      "wind_direction": 318,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Osborne Park settles into the small hours with a soft, persistent rain, the sort that hushes the str...",
-    "color_code": "#2c3e50"
-  },
-  {
     "timestamp": "2026-06-03 11:42:04",
     "location": {
       "name": "Wembley",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Near midnight in Subiaco the sky is a patchwork of broken cloud, the night light softened and a litt...",
     "color_code": "#2C3E50"
+  },
+  {
+    "timestamp": "2026-06-10 10:58:42",
+    "location": {
+      "name": "Osborne Park",
+      "latitude": -31.90813067868533,
+      "longitude": 115.8017804037556,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-06-10T02:58:42+00:00",
+      "temperature_c": 15.26,
+      "temperature_f": 59.468,
+      "humidity": 65,
+      "wind_speed_mph": 5.99516,
+      "wind_direction": 34,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Late morning in Osborne Park settles under a soft, uniform ceiling of cloud, the sun diluted to a pa...",
+    "color_code": "#A0A6AE"
   }
 ]
