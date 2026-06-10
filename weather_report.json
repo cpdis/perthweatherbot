@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Osborne Park",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.90813067868533,
-            "longitude": 115.8017804037556
+            "latitude": -31.9496955074604,
+            "longitude": 115.8206810336429
         },
         "current_conditions": {
-            "timestamp": "2026-06-10T02:58:42+00:00",
-            "temperature_c": 15.26,
-            "temperature_f": 59.468,
-            "humidity": 65,
-            "wind_speed_mph": 5.99516,
-            "wind_direction": 34,
+            "timestamp": "2026-06-10T16:32:40+00:00",
+            "temperature_c": 14.29,
+            "temperature_f": 57.721999999999994,
+            "humidity": 80,
+            "wind_speed_mph": 4.78718,
+            "wind_direction": 354,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-06-10T03:00:00+00:00",
-                "temperature": 15.26,
-                "windSpeed": 10.64812,
-                "windDirection": 31,
+                "startTime": "2026-06-10T18:00:00+00:00",
+                "temperature": 14.29,
+                "windSpeed": 5.27932,
+                "windDirection": 352,
                 "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-06-10T06:00:00+00:00",
-                "temperature": 15.99,
-                "windSpeed": 10.155980000000001,
-                "windDirection": 353,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-06-10T21:00:00+00:00",
+                "temperature": 13.81,
+                "windSpeed": 5.90568,
+                "windDirection": 14,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late morning in Osborne Park settles under a soft, uniform ceiling of cloud, the sun diluted to a pale coin behind gauze. Light is even and low-contrast, a day without hard edges; distance looks a touch softened, not hazy so much as quieted. Sunshine will be scarce, but midday UV can still nip through the overcast, muted rather than menacing. Expect the grey to linger into the afternoon, dry for the most part, the air feeling like early winter should: gentle, a little cool, agreeable if you keep moving.\n\nDress for an unhurried, temperate day\u2014long sleeves, a light jacket, maybe a scarf if you run cold; a dab of sunscreen if you\u2019re out around lunch. It\u2019s good weather for errands done on foot, for a late coffee and a newspaper in a window seat, for a small project at the workbench or a tidy of the study. If you step outside, the even light flatters details: the texture of brick, the green of verge grass, the simple pleasure of a quiet loop around the block.",
-    "color_code": "#A0A6AE",
-    "timestamp": "2026-06-10 10:58:42",
+    "weather_report": "Subiaco settles into a muted midnight, the sky a heavy quilt of cloud that dims the streetlamps to soft halos. Toward the small hours the ceiling thickens, and by the pre-dawn a light rain is likely to tap quietly at awnings and windshields. Sunshine will be scarce at first, with little to no UV to trouble you overnight; even after sunrise, the day looks slow to brighten, its edges softened and colors washed in pewter unless the cover thins.\n\nDress for a cool, damp start: a light waterproof layer, closed shoes that won\u2019t mind a few puddles, and an umbrella that opens without complaint. This is weather for unhurried tasks\u2014a tidy of the kitchen counter, a brief stretch, laying out tomorrow\u2019s clothes\u2014then, if you\u2019re up early, a gentle walk between showers or a quick grocery run before the city properly stirs. Expect a calm, somewhat introspective morning; plan outdoor chores only if the clouds blink, and keep your plans flexible, like a bookmark left where you can find it again.",
+    "color_code": "#4B5563",
+    "timestamp": "2026-06-11 00:32:40",
     "location": {
-        "name": "Osborne Park",
-        "latitude": -31.90813067868533,
-        "longitude": 115.8017804037556,
+        "name": "Subiaco",
+        "latitude": -31.9496955074604,
+        "longitude": 115.8206810336429,
         "timezone": "Australia/Perth"
     }
 }
