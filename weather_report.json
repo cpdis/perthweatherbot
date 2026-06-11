@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Jolimont",
             "country": "AU",
-            "latitude": -31.94969439964722,
-            "longitude": 115.8207802623315
+            "latitude": -31.94231484817237,
+            "longitude": 115.8049716976887
         },
         "current_conditions": {
-            "timestamp": "2026-06-11T03:33:58+00:00",
-            "temperature_c": 14.78,
-            "temperature_f": 58.604,
-            "humidity": 87,
-            "wind_speed_mph": 1.00665,
-            "wind_direction": 0,
-            "description": "moderate rain"
+            "timestamp": "2026-06-11T16:51:02+00:00",
+            "temperature_c": 14.23,
+            "temperature_f": 57.614,
+            "humidity": 84,
+            "wind_speed_mph": 16.06166,
+            "wind_direction": 245,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-06-11T06:00:00+00:00",
-                "temperature": 15.18,
-                "windSpeed": 8.74667,
-                "windDirection": 262,
-                "shortForecast": "moderate rain"
+                "startTime": "2026-06-11T18:00:00+00:00",
+                "temperature": 14.23,
+                "windSpeed": 19.32768,
+                "windDirection": 238,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-06-11T09:00:00+00:00",
-                "temperature": 14.79,
-                "windSpeed": 8.970369999999999,
-                "windDirection": 249,
-                "shortForecast": "moderate rain"
+                "startTime": "2026-06-11T21:00:00+00:00",
+                "temperature": 14.73,
+                "windSpeed": 21.184390000000004,
+                "windDirection": 233,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Subiaco\u2019s late morning wears a pewter sheen, the sun a pale coin pressed behind thickening cloud. The air feels calm and a little heavy, as if holding its breath before the first proper showers sweep in from midafternoon into early evening, when the rain should settle into a steady rhythm. Expect a muted day with soft edges and low contrast, more grey than glow; UV is gentle rather than biting, with only brief, filtered breaks of light.\n\nIt\u2019s a day for a light waterproof, layers you won\u2019t mind catching a sprinkle, and shoes that won\u2019t slip on damp pavements; tuck a compact umbrella in your bag and you\u2019re set. If you\u2019ve errands to run along Rokeby Road, do them before the rain beds in, then reward yourself with an unhurried hour at the library or a quiet browse of a gallery, the windows laced with rain. Later, let the showers drum while you batch-cook something simple, polish off the small tasks that never make the list, or take the train into the city for an early matinee and step back out to streets rinsed clean and reflective.",
-    "color_code": "#6E7B8B",
-    "timestamp": "2026-06-11 11:33:59",
+    "weather_report": "Just after midnight in Jolimont, the streets feel rinsed and quiet, the sky a dull lid. Light rain is due to drift in toward the pre-dawn hours and linger into breakfast, the kind that softens edges and hushes colour. Expect a dim, grey morning with the sun mostly muffled; UV will be negligible overnight and very low around dawn, only nudging up if the ceiling breaks later. Visibility should be serviceable but softened, the day likely more muted than bright.\n\nIt will feel cool and damp rather than harsh. A light waterproof, a comfortable layer beneath, and shoes that won\u2019t mind slick pavement will suit the mood; pocket an umbrella rather than a coat of armor. If you\u2019re awake now, it\u2019s a good hour to straighten a desk, set tomorrow\u2019s list, or let the kettle work. Around first light, think of an unhurried tram to the market, a library drop-off, or a short walk between showers; cyclists should use lights and mind the painted lines. If clouds thin later, it may turn gently workable, but for the morning at least, plan for softness and keep outdoor plans flexible.",
+    "color_code": "#2C3E50",
+    "timestamp": "2026-06-12 00:51:03",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94969439964722,
-        "longitude": 115.8207802623315,
+        "name": "Jolimont",
+        "latitude": -31.94231484817237,
+        "longitude": 115.8049716976887,
         "timezone": "Australia/Perth"
     }
 }
