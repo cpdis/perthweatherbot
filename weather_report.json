@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9496955074604,
-            "longitude": 115.8206810336429
+            "latitude": -31.94969439964722,
+            "longitude": 115.8207802623315
         },
         "current_conditions": {
-            "timestamp": "2026-06-10T16:32:40+00:00",
-            "temperature_c": 14.29,
-            "temperature_f": 57.721999999999994,
-            "humidity": 80,
-            "wind_speed_mph": 4.78718,
-            "wind_direction": 354,
-            "description": "overcast clouds"
+            "timestamp": "2026-06-11T03:33:58+00:00",
+            "temperature_c": 14.78,
+            "temperature_f": 58.604,
+            "humidity": 87,
+            "wind_speed_mph": 1.00665,
+            "wind_direction": 0,
+            "description": "moderate rain"
         },
         "forecast": [
             {
-                "startTime": "2026-06-10T18:00:00+00:00",
-                "temperature": 14.29,
-                "windSpeed": 5.27932,
-                "windDirection": 352,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-06-11T06:00:00+00:00",
+                "temperature": 15.18,
+                "windSpeed": 8.74667,
+                "windDirection": 262,
+                "shortForecast": "moderate rain"
             },
             {
-                "startTime": "2026-06-10T21:00:00+00:00",
-                "temperature": 13.81,
-                "windSpeed": 5.90568,
-                "windDirection": 14,
-                "shortForecast": "light rain"
+                "startTime": "2026-06-11T09:00:00+00:00",
+                "temperature": 14.79,
+                "windSpeed": 8.970369999999999,
+                "windDirection": 249,
+                "shortForecast": "moderate rain"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a muted midnight, the sky a heavy quilt of cloud that dims the streetlamps to soft halos. Toward the small hours the ceiling thickens, and by the pre-dawn a light rain is likely to tap quietly at awnings and windshields. Sunshine will be scarce at first, with little to no UV to trouble you overnight; even after sunrise, the day looks slow to brighten, its edges softened and colors washed in pewter unless the cover thins.\n\nDress for a cool, damp start: a light waterproof layer, closed shoes that won\u2019t mind a few puddles, and an umbrella that opens without complaint. This is weather for unhurried tasks\u2014a tidy of the kitchen counter, a brief stretch, laying out tomorrow\u2019s clothes\u2014then, if you\u2019re up early, a gentle walk between showers or a quick grocery run before the city properly stirs. Expect a calm, somewhat introspective morning; plan outdoor chores only if the clouds blink, and keep your plans flexible, like a bookmark left where you can find it again.",
-    "color_code": "#4B5563",
-    "timestamp": "2026-06-11 00:32:40",
+    "weather_report": "Subiaco\u2019s late morning wears a pewter sheen, the sun a pale coin pressed behind thickening cloud. The air feels calm and a little heavy, as if holding its breath before the first proper showers sweep in from midafternoon into early evening, when the rain should settle into a steady rhythm. Expect a muted day with soft edges and low contrast, more grey than glow; UV is gentle rather than biting, with only brief, filtered breaks of light.\n\nIt\u2019s a day for a light waterproof, layers you won\u2019t mind catching a sprinkle, and shoes that won\u2019t slip on damp pavements; tuck a compact umbrella in your bag and you\u2019re set. If you\u2019ve errands to run along Rokeby Road, do them before the rain beds in, then reward yourself with an unhurried hour at the library or a quiet browse of a gallery, the windows laced with rain. Later, let the showers drum while you batch-cook something simple, polish off the small tasks that never make the list, or take the train into the city for an early matinee and step back out to streets rinsed clean and reflective.",
+    "color_code": "#6E7B8B",
+    "timestamp": "2026-06-11 11:33:59",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.9496955074604,
-        "longitude": 115.8206810336429,
+        "latitude": -31.94969439964722,
+        "longitude": 115.8207802623315,
         "timezone": "Australia/Perth"
     }
 }
