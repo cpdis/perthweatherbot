@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Jolimont",
+            "name": "Cottesloe",
             "country": "AU",
-            "latitude": -31.94231484817237,
-            "longitude": 115.8049716976887
+            "latitude": -31.98381356666666,
+            "longitude": 115.7665723666667
         },
         "current_conditions": {
-            "timestamp": "2026-06-11T16:51:02+00:00",
-            "temperature_c": 14.23,
-            "temperature_f": 57.614,
-            "humidity": 84,
-            "wind_speed_mph": 16.06166,
-            "wind_direction": 245,
+            "timestamp": "2026-06-12T03:33:47+00:00",
+            "temperature_c": 13.58,
+            "temperature_f": 56.444,
+            "humidity": 83,
+            "wind_speed_mph": 4.004230000000001,
+            "wind_direction": 182,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-06-11T18:00:00+00:00",
-                "temperature": 14.23,
-                "windSpeed": 19.32768,
-                "windDirection": 238,
+                "startTime": "2026-06-12T06:00:00+00:00",
+                "temperature": 13.83,
+                "windSpeed": 11.58766,
+                "windDirection": 175,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-06-11T21:00:00+00:00",
-                "temperature": 14.73,
-                "windSpeed": 21.184390000000004,
-                "windDirection": 233,
+                "startTime": "2026-06-12T09:00:00+00:00",
+                "temperature": 13.13,
+                "windSpeed": 10.62575,
+                "windDirection": 167,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Just after midnight in Jolimont, the streets feel rinsed and quiet, the sky a dull lid. Light rain is due to drift in toward the pre-dawn hours and linger into breakfast, the kind that softens edges and hushes colour. Expect a dim, grey morning with the sun mostly muffled; UV will be negligible overnight and very low around dawn, only nudging up if the ceiling breaks later. Visibility should be serviceable but softened, the day likely more muted than bright.\n\nIt will feel cool and damp rather than harsh. A light waterproof, a comfortable layer beneath, and shoes that won\u2019t mind slick pavement will suit the mood; pocket an umbrella rather than a coat of armor. If you\u2019re awake now, it\u2019s a good hour to straighten a desk, set tomorrow\u2019s list, or let the kettle work. Around first light, think of an unhurried tram to the market, a library drop-off, or a short walk between showers; cyclists should use lights and mind the painted lines. If clouds thin later, it may turn gently workable, but for the morning at least, plan for softness and keep outdoor plans flexible.",
-    "color_code": "#2C3E50",
-    "timestamp": "2026-06-12 00:51:03",
+    "weather_report": "Late morning in Cottesloe arrives under a quiet ceiling of cloud, the light rinsed thin and silver, the air smelling of salt and damp pavement. Gentle showers are set to drift in this afternoon and linger toward evening, so sunshine will be scarce\u2014more a pale suggestion than a beam. The UV will stay low for winter, softened further by the overcast, and the day\u2019s clarity is muted: ocean a slate wash, horizon a smudge, everything slightly softened at the edges.\n\nDress for a cool, damp ease: a light rain jacket or trench, layers you can shed indoors, shoes that won\u2019t mind slick footpaths, and an umbrella for the soft, persistent drizzle. It\u2019s a day for modest comforts\u2014pick up groceries or a library hold between showers, nurse a coffee beneath an awning, or wander a block or two along Marine Parade if you like the hush of rain on the sea. If you\u2019re staying in, crack a window for the sea-breeze murmur and let the grey afternoon coax you into steady, unhurried work.",
+    "color_code": "#708090",
+    "timestamp": "2026-06-12 11:33:47",
     "location": {
-        "name": "Jolimont",
-        "latitude": -31.94231484817237,
-        "longitude": 115.8049716976887,
+        "name": "Cottesloe",
+        "latitude": -31.98381356666666,
+        "longitude": 115.7665723666667,
         "timezone": "Australia/Perth"
     }
 }

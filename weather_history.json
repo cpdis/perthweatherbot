@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-06-05 00:18:36",
-    "location": {
-      "name": "Wembley",
-      "latitude": -31.94194014876197,
-      "longitude": 115.8047271618852,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-06-04T16:18:35+00:00",
-      "temperature_c": 10.87,
-      "temperature_f": 51.566,
-      "humidity": 68,
-      "wind_speed_mph": 1.00665,
-      "wind_direction": 103,
-      "description": "clear sky"
-    },
-    "report_summary": "Just past midnight in Wembley, the sky has the uncomplicated calm of a late show\u2019s closing notes\u2014mos...",
-    "color_code": "#0d1b2a"
-  },
-  {
     "timestamp": "2026-06-05 11:24:57",
     "location": {
       "name": "West Perth",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Just after midnight in Jolimont, the streets feel rinsed and quiet, the sky a dull lid. Light rain i...",
     "color_code": "#2C3E50"
+  },
+  {
+    "timestamp": "2026-06-12 11:33:47",
+    "location": {
+      "name": "Cottesloe",
+      "latitude": -31.98381356666666,
+      "longitude": 115.7665723666667,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-06-12T03:33:47+00:00",
+      "temperature_c": 13.58,
+      "temperature_f": 56.444,
+      "humidity": 83,
+      "wind_speed_mph": 4.004230000000001,
+      "wind_direction": 182,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Late morning in Cottesloe arrives under a quiet ceiling of cloud, the light rinsed thin and silver, ...",
+    "color_code": "#708090"
   }
 ]
