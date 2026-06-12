@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Cottesloe",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.98381356666666,
-            "longitude": 115.7665723666667
+            "latitude": -31.94966691802723,
+            "longitude": 115.820926966246
         },
         "current_conditions": {
-            "timestamp": "2026-06-12T03:33:47+00:00",
-            "temperature_c": 13.58,
-            "temperature_f": 56.444,
-            "humidity": 83,
-            "wind_speed_mph": 4.004230000000001,
-            "wind_direction": 182,
-            "description": "overcast clouds"
+            "timestamp": "2026-06-12T16:14:22+00:00",
+            "temperature_c": 9.6,
+            "temperature_f": 49.28,
+            "humidity": 81,
+            "wind_speed_mph": 4.49637,
+            "wind_direction": 103,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-06-12T06:00:00+00:00",
-                "temperature": 13.83,
-                "windSpeed": 11.58766,
-                "windDirection": 175,
-                "shortForecast": "light rain"
+                "startTime": "2026-06-12T18:00:00+00:00",
+                "temperature": 9.38,
+                "windSpeed": 5.63724,
+                "windDirection": 71,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2026-06-12T09:00:00+00:00",
-                "temperature": 13.13,
-                "windSpeed": 10.62575,
-                "windDirection": 167,
-                "shortForecast": "light rain"
+                "startTime": "2026-06-12T21:00:00+00:00",
+                "temperature": 8.75,
+                "windSpeed": 7.06892,
+                "windDirection": 63,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Late morning in Cottesloe arrives under a quiet ceiling of cloud, the light rinsed thin and silver, the air smelling of salt and damp pavement. Gentle showers are set to drift in this afternoon and linger toward evening, so sunshine will be scarce\u2014more a pale suggestion than a beam. The UV will stay low for winter, softened further by the overcast, and the day\u2019s clarity is muted: ocean a slate wash, horizon a smudge, everything slightly softened at the edges.\n\nDress for a cool, damp ease: a light rain jacket or trench, layers you can shed indoors, shoes that won\u2019t mind slick footpaths, and an umbrella for the soft, persistent drizzle. It\u2019s a day for modest comforts\u2014pick up groceries or a library hold between showers, nurse a coffee beneath an awning, or wander a block or two along Marine Parade if you like the hush of rain on the sea. If you\u2019re staying in, crack a window for the sea-breeze murmur and let the grey afternoon coax you into steady, unhurried work.",
-    "color_code": "#708090",
-    "timestamp": "2026-06-12 11:33:47",
+    "weather_report": "Just past midnight in Subiaco, the sky is thinning to a quiet glaze, a few lingering tufts of cloud drifting off as the small hours invite a clear, uncomplicated night. By the time the kookaburras consider their first chuckle, the heavens should be mostly open and clean, promising a bright, honest morning. Sunshine looks set to arrive without fuss; UV is low now and should only climb to modest levels later, enough to warrant a dab of sunscreen or a pair of sunglasses if the clear spell holds. The air feels crisp rather than biting, with a clarity that makes streetlights look closer than they are.\n\nDress in light layers\u2014a warm jumper or jacket for the early steps, with something easily shed once the sun leans over the rooftops. This is pleasant weather for small errands and gentle routines: a pre-dawn amble to clear the head, coffee on the veranda as the light strengthens, a tidy-up by an open window, perhaps watering the herbs when the chill lifts. If the sky stays this clear, the day invites simple, unhurried work and a short walk after breakfast to let the new light do its quiet work.",
+    "color_code": "#0B1D3A",
+    "timestamp": "2026-06-13 00:14:23",
     "location": {
-        "name": "Cottesloe",
-        "latitude": -31.98381356666666,
-        "longitude": 115.7665723666667,
+        "name": "Subiaco",
+        "latitude": -31.94966691802723,
+        "longitude": 115.820926966246,
         "timezone": "Australia/Perth"
     }
 }

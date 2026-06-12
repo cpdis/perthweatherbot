@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-06-05 11:24:57",
-    "location": {
-      "name": "West Perth",
-      "latitude": -31.95450836666667,
-      "longitude": 115.84718155,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-06-05T03:24:54+00:00",
-      "temperature_c": 18.1,
-      "temperature_f": 64.58,
-      "humidity": 48,
-      "wind_speed_mph": 4.004230000000001,
-      "wind_direction": 90,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Late morning in West Perth arrives with a gentle light and a veil of high cloud, softening edges and...",
-    "color_code": "#9CA6AF"
-  },
-  {
     "timestamp": "2026-06-05 23:50:04",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Late morning in Cottesloe arrives under a quiet ceiling of cloud, the light rinsed thin and silver, ...",
     "color_code": "#708090"
+  },
+  {
+    "timestamp": "2026-06-13 00:14:23",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94966691802723,
+      "longitude": 115.820926966246,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-06-12T16:14:22+00:00",
+      "temperature_c": 9.6,
+      "temperature_f": 49.28,
+      "humidity": 81,
+      "wind_speed_mph": 4.49637,
+      "wind_direction": 103,
+      "description": "few clouds"
+    },
+    "report_summary": "Just past midnight in Subiaco, the sky is thinning to a quiet glaze, a few lingering tufts of cloud ...",
+    "color_code": "#0B1D3A"
   }
 ]
