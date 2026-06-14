@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94969132895213,
-            "longitude": 115.8208913846654
+            "latitude": -31.94969306574362,
+            "longitude": 115.8206636965912
         },
         "current_conditions": {
-            "timestamp": "2026-06-14T03:37:09+00:00",
-            "temperature_c": 18.94,
-            "temperature_f": 66.092,
-            "humidity": 57,
-            "wind_speed_mph": 5.010880000000001,
-            "wind_direction": 327,
-            "description": "broken clouds"
+            "timestamp": "2026-06-14T15:06:01+00:00",
+            "temperature_c": 12.05,
+            "temperature_f": 53.69,
+            "humidity": 93,
+            "wind_speed_mph": 5.3688,
+            "wind_direction": 147,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-06-14T06:00:00+00:00",
-                "temperature": 18.97,
-                "windSpeed": 15.68137,
-                "windDirection": 319,
+                "startTime": "2026-06-14T18:00:00+00:00",
+                "temperature": 12.57,
+                "windSpeed": 8.41112,
+                "windDirection": 156,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-06-14T09:00:00+00:00",
-                "temperature": 16,
-                "windSpeed": 16.195880000000002,
-                "windDirection": 214,
-                "shortForecast": "moderate rain"
+                "startTime": "2026-06-14T21:00:00+00:00",
+                "temperature": 11.84,
+                "windSpeed": 10.93893,
+                "windDirection": 154,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late morning in Subiaco arrives under a soft iron sky, rain steady enough to stitch the streets into a quiet sheen. The light is subdued, sun kept politely out of sight, and the UV stays low beneath the thick quilt of cloud. Air feels clean but hazy at the edges, the kind of gray that hushes traffic and turns footsteps reflective. It isn\u2019t dramatic weather, just a patient soaking that slows the pulse of the day.\n\nExpect showers to carry on through midday, wavering from light to moderate with only brief, doubtful pauses; any bright breaks seem unlikely. It\u2019s a day for easy layers and a light waterproof, shoes that won\u2019t mind puddles, and an umbrella you don\u2019t have to fight. Let the weather set the tempo: finish the errands that keep you under awnings, linger over a late coffee by the window, browse a bookshop or the market between showers, then head home to put the kettle on and sort the week\u2019s loose ends. If the rain softens, take a short, hood-up stroll and enjoy the glimmering pavements without chasing the sun.",
-    "color_code": "#708090",
-    "timestamp": "2026-06-14 11:37:10",
+    "weather_report": "Near midnight in Subiaco, the streets carry a soft sheen and the air smells faintly of wet limestone. Light rain is set to wander in during the small hours and linger toward dawn, keeping the sky low and the edges of things a little blurred. Sunshine will be scarce at first; if it peeks through later it will be muted, and the UV stays tame in this winter spell, especially under cloud. The day ahead looks gentle and grey rather than bright, with occasional sprinkles and slick pavements but decent visibility.\n\nDress for quiet weather: a light waterproof or hooded jacket, comfortable closed shoes that don\u2019t mind puddles, and a small umbrella you won\u2019t regret carrying. Tonight suits small, unhurried tasks\u2014clear the bench, set tomorrow\u2019s bag by the door, put on a record and let the rain patter keep time. In the morning, leave a few extra minutes for travel, and thread errands between showers: a quick bakery stop, a gallery browse, or a grocery top-up close to home. If the clouds part briefly, take a short walk under the plane trees, then retreat before the next passing sprinkle.",
+    "color_code": "#2F3E4F",
+    "timestamp": "2026-06-14 23:06:01",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94969132895213,
-        "longitude": 115.8208913846654,
+        "latitude": -31.94969306574362,
+        "longitude": 115.8206636965912,
         "timezone": "Australia/Perth"
     }
 }
