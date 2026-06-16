@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94974038550248,
-            "longitude": 115.8207641193034
+            "latitude": -31.94969686214669,
+            "longitude": 115.820789456432
         },
         "current_conditions": {
-            "timestamp": "2026-06-15T17:50:52+00:00",
-            "temperature_c": 6.55,
-            "temperature_f": 43.79,
-            "humidity": 86,
-            "wind_speed_mph": 10.62575,
-            "wind_direction": 163,
+            "timestamp": "2026-06-16T03:40:31+00:00",
+            "temperature_c": 13.65,
+            "temperature_f": 56.57,
+            "humidity": 67,
+            "wind_speed_mph": 2.99758,
+            "wind_direction": 177,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-06-15T18:00:00+00:00",
-                "temperature": 6.55,
-                "windSpeed": 10.62575,
-                "windDirection": 163,
+                "startTime": "2026-06-16T06:00:00+00:00",
+                "temperature": 14.1,
+                "windSpeed": 13.46674,
+                "windDirection": 182,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-06-15T21:00:00+00:00",
-                "temperature": 6.67,
-                "windSpeed": 10.20072,
-                "windDirection": 159,
+                "startTime": "2026-06-16T09:00:00+00:00",
+                "temperature": 13.04,
+                "windSpeed": 15.23397,
+                "windDirection": 178,
                 "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Subiaco rests under a calm, glassy sky at this late hour, the stars unblinking and the air tasting clean. The forecast tips from clear toward a light scatter of cloud near dawn, a hint that the day should open bright and well-defined rather than hazy. Sunshine looks generous but gentle in midwinter, the UV nearly absent overnight and likely only modest once the sun climbs, more a polite glow than a sting.\n\nDress for the cool start in easy layers: a soft sweater or light jacket before sunrise, then pare back as the light strengthens. Sunglasses will suit the clear, pale sky; a touch of sunscreen is sensible if you linger outdoors later. It\u2019s a good morning for small, unhurried rituals: boil the kettle and watch the horizon lift, take a quiet stroll as the birds find their voices, cycle to the shops after breakfast, or sit by a sun-flecked window to read while the day gathers itself.",
-    "color_code": "#0B1E3B",
-    "timestamp": "2026-06-16 01:50:53",
+    "weather_report": "Late morning in Subiaco feels bright and lucid, the sky largely clear with a few idle clouds gathering toward noon. Sunlight falls clean and unfiltered, giving the streets that crisp, high-contrast look; visibility is excellent and the day reads like a fresh page. Expect the afternoon to remain mostly sunny with passing cloud for texture rather than trouble, and the UV to rise assertively through midday.\n\nDress simply and protect the skin: light layers, sunglasses, a brim or a touch of sunscreen. It\u2019s a good time for a short errand on foot, a quiet coffee under an awning, or hanging the wash while you read a few pages indoors. Save the longer wander for later when the glare eases; for now, enjoy the clear light from the comfort of shade and let the day proceed at an easy tempo.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-06-16 11:40:32",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94974038550248,
-        "longitude": 115.8207641193034,
+        "latitude": -31.94969686214669,
+        "longitude": 115.820789456432,
         "timezone": "Australia/Perth"
     }
 }
