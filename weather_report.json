@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Osborne Park",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.90817500386725,
-            "longitude": 115.8017808390968
+            "latitude": -31.94969763665715,
+            "longitude": 115.8208951228269
         },
         "current_conditions": {
-            "timestamp": "2026-06-17T03:41:07+00:00",
-            "temperature_c": 16.41,
-            "temperature_f": 61.538,
-            "humidity": 65,
-            "wind_speed_mph": 5.010880000000001,
-            "wind_direction": 360,
-            "description": "broken clouds"
+            "timestamp": "2026-06-17T16:36:27+00:00",
+            "temperature_c": 9.65,
+            "temperature_f": 49.370000000000005,
+            "humidity": 89,
+            "wind_speed_mph": 6.688630000000001,
+            "wind_direction": 138,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-06-17T06:00:00+00:00",
-                "temperature": 16.6,
-                "windSpeed": 12.258760000000002,
-                "windDirection": 196,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-06-17T18:00:00+00:00",
+                "temperature": 9.65,
+                "windSpeed": 6.2636,
+                "windDirection": 138,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-06-17T09:00:00+00:00",
-                "temperature": 15.55,
-                "windSpeed": 13.287780000000001,
-                "windDirection": 180,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-06-17T21:00:00+00:00",
+                "temperature": 9.85,
+                "windSpeed": 6.711,
+                "windDirection": 125,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Late morning in Osborne Park feels gently lit, the sun softened by a quilt of broken cloud that drifts without hurry. The day has a clear, open look, not dazzling but easy on the eyes, with the winter UV on the low side, nudging toward moderate around midday if you linger outdoors. Air clarity is good; colors look true, edges clean, the sort of light that flatters old brick and eucalyptus leaves.\n\nThrough the afternoon those broken clouds hang around, letting through warm splashes of sunshine between cooler, shaded spells. It reads as a pleasant, mild day rather than a brisk one: comfortable in light layers, a soft sweater or a casual jacket, sunglasses handy, and a touch of sunscreen if you\u2019ll be out a while. Good weather for ordinary pleasures\u2014walking to pick up a few groceries, a slow lap around the oval, pottering with a small repair in the courtyard, or taking a late coffee by a window to watch the sky trade pieces of blue for gray and back again.",
-    "color_code": "#9BB3C7",
-    "timestamp": "2026-06-17 11:41:07",
+    "weather_report": "Just past midnight in Subiaco and the sky is scrubbed clear, the air a little sharp, sounds carrying farther than usual. It\u2019s the kind of night that makes stars feel close and streetlights seem patient. UV is negligible now, of course, and the clarity is exquisite; you could trace constellations on the walk home or stand a minute on the veranda with a slow breath and let the cool settle on your sleeves.\n\nThe forecast holds that clarity into the small hours and toward dawn, so expect a clean, sunny start once the light arrives. Winter keeps the sun gentler here, so UV should stay low early and only modest around midday; a touch of sunscreen if you linger outside, sunglasses if you\u2019re facing the morning glare. Dress in light layers\u2014soft jumper or a simple jacket, maybe a scarf for the first hour\u2014and shed as the day warms a little. This looks like a pleasant, unhurried morning for small errands: an early train into the city, a quiet lap around the oval, or a coffee at the corner caf\u00e9 with a book while the first light paints the shopfronts.",
+    "color_code": "#0b1e3a",
+    "timestamp": "2026-06-18 00:36:28",
     "location": {
-        "name": "Osborne Park",
-        "latitude": -31.90817500386725,
-        "longitude": 115.8017808390968,
+        "name": "Subiaco",
+        "latitude": -31.94969763665715,
+        "longitude": 115.8208951228269,
         "timezone": "Australia/Perth"
     }
 }
