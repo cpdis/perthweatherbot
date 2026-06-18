@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94969763665715,
-            "longitude": 115.8208951228269
+            "latitude": -31.9496972788082,
+            "longitude": 115.8207888278933
         },
         "current_conditions": {
-            "timestamp": "2026-06-17T16:36:27+00:00",
-            "temperature_c": 9.65,
-            "temperature_f": 49.370000000000005,
-            "humidity": 89,
-            "wind_speed_mph": 6.688630000000001,
-            "wind_direction": 138,
+            "timestamp": "2026-06-18T03:33:17+00:00",
+            "temperature_c": 14.34,
+            "temperature_f": 57.812,
+            "humidity": 61,
+            "wind_speed_mph": 1.99093,
+            "wind_direction": 201,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-06-17T18:00:00+00:00",
-                "temperature": 9.65,
-                "windSpeed": 6.2636,
-                "windDirection": 138,
+                "startTime": "2026-06-18T06:00:00+00:00",
+                "temperature": 15.05,
+                "windSpeed": 6.62152,
+                "windDirection": 214,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-06-17T21:00:00+00:00",
-                "temperature": 9.85,
-                "windSpeed": 6.711,
-                "windDirection": 125,
+                "startTime": "2026-06-18T09:00:00+00:00",
+                "temperature": 13.77,
+                "windSpeed": 8.67956,
+                "windDirection": 197,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Just past midnight in Subiaco and the sky is scrubbed clear, the air a little sharp, sounds carrying farther than usual. It\u2019s the kind of night that makes stars feel close and streetlights seem patient. UV is negligible now, of course, and the clarity is exquisite; you could trace constellations on the walk home or stand a minute on the veranda with a slow breath and let the cool settle on your sleeves.\n\nThe forecast holds that clarity into the small hours and toward dawn, so expect a clean, sunny start once the light arrives. Winter keeps the sun gentler here, so UV should stay low early and only modest around midday; a touch of sunscreen if you linger outside, sunglasses if you\u2019re facing the morning glare. Dress in light layers\u2014soft jumper or a simple jacket, maybe a scarf for the first hour\u2014and shed as the day warms a little. This looks like a pleasant, unhurried morning for small errands: an early train into the city, a quiet lap around the oval, or a coffee at the corner caf\u00e9 with a book while the first light paints the shopfronts.",
-    "color_code": "#0b1e3a",
-    "timestamp": "2026-06-18 00:36:28",
+    "weather_report": "Subiaco moves through late morning under a rinsed-blue sky, the sun already sure of itself and the air clean and clear. It feels like a day drawn with a fine pen: hard shadows, bright stone, leaves lit from within. With full sunshine and a high midday UV, it is a day that invites you out while reminding you to treat the light with respect.\n\nExpect the clarity to hold into the early afternoon. Dress lightly in breathable fabrics, add a brimmed hat and dark glasses, and give your skin a thoughtful layer of sunscreen. This is good weather for unhurried errands along the shaded side of the street, for a coffee savored beneath an awning, or for a quiet hour with a book on a balcony where the breeze can find you. Save longer walks for later, when the sun softens and the town\u2019s colors take on that gentle, late-day glow.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-06-18 11:33:18",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94969763665715,
-        "longitude": 115.8208951228269,
+        "latitude": -31.9496972788082,
+        "longitude": 115.8207888278933,
         "timezone": "Australia/Perth"
     }
 }
