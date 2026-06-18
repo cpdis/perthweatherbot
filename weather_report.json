@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Jolimont",
             "country": "AU",
-            "latitude": -31.9496972788082,
-            "longitude": 115.8207888278933
+            "latitude": -31.94225477059236,
+            "longitude": 115.8044808417595
         },
         "current_conditions": {
-            "timestamp": "2026-06-18T03:33:17+00:00",
-            "temperature_c": 14.34,
-            "temperature_f": 57.812,
-            "humidity": 61,
-            "wind_speed_mph": 1.99093,
-            "wind_direction": 201,
+            "timestamp": "2026-06-18T16:26:21+00:00",
+            "temperature_c": 8.49,
+            "temperature_f": 47.282,
+            "humidity": 85,
+            "wind_speed_mph": 6.4873,
+            "wind_direction": 83,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-06-18T06:00:00+00:00",
-                "temperature": 15.05,
-                "windSpeed": 6.62152,
-                "windDirection": 214,
+                "startTime": "2026-06-18T18:00:00+00:00",
+                "temperature": 9.36,
+                "windSpeed": 5.70435,
+                "windDirection": 80,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-06-18T09:00:00+00:00",
-                "temperature": 13.77,
-                "windSpeed": 8.67956,
-                "windDirection": 197,
+                "startTime": "2026-06-18T21:00:00+00:00",
+                "temperature": 9.92,
+                "windSpeed": 6.77811,
+                "windDirection": 57,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco moves through late morning under a rinsed-blue sky, the sun already sure of itself and the air clean and clear. It feels like a day drawn with a fine pen: hard shadows, bright stone, leaves lit from within. With full sunshine and a high midday UV, it is a day that invites you out while reminding you to treat the light with respect.\n\nExpect the clarity to hold into the early afternoon. Dress lightly in breathable fabrics, add a brimmed hat and dark glasses, and give your skin a thoughtful layer of sunscreen. This is good weather for unhurried errands along the shaded side of the street, for a coffee savored beneath an awning, or for a quiet hour with a book on a balcony where the breeze can find you. Save longer walks for later, when the sun softens and the town\u2019s colors take on that gentle, late-day glow.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-06-18 11:33:18",
+    "weather_report": "Midnight settles soft over Jolimont, the air crisp and the sky untroubled, a dark bowl rinsed clear. The forecast keeps faith with this calm: toward dawn and into the morning, clear sky again, a blue you can hear before you see it. Expect bright, honest sunshine and clean lines to the day, the sort that sharpens rooftops and trees. UV is quiet now and will wake with the sun; even in winter it can nibble at exposed skin by late morning, though it won\u2019t feel harsh.\n\nDress in easy layers: a warm jacket before first light, a light sweater or long sleeves once the sun takes the edge off, sunglasses in your pocket and a touch of sunscreen if you plan to linger. It looks like a gentle, good-natured day ahead\u2014pleasant for small rituals. When the light returns, brew coffee by an open window, walk an errand instead of driving, air out the linens, or take a slow lap through the gardens and let the shadows grow shorter as you go. It\u2019s a day for unhurried tasks done well, with the sky doing its quiet part.",
+    "color_code": "#0A1F44",
+    "timestamp": "2026-06-19 00:26:22",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.9496972788082,
-        "longitude": 115.8207888278933,
+        "name": "Jolimont",
+        "latitude": -31.94225477059236,
+        "longitude": 115.8044808417595,
         "timezone": "Australia/Perth"
     }
 }
