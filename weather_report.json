@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Jolimont",
+            "name": "West Perth",
             "country": "AU",
-            "latitude": -31.94225477059236,
-            "longitude": 115.8044808417595
+            "latitude": -31.95472235302076,
+            "longitude": 115.8462154398978
         },
         "current_conditions": {
-            "timestamp": "2026-06-18T16:26:21+00:00",
-            "temperature_c": 8.49,
-            "temperature_f": 47.282,
-            "humidity": 85,
-            "wind_speed_mph": 6.4873,
-            "wind_direction": 83,
-            "description": "clear sky"
+            "timestamp": "2026-06-19T03:55:00+00:00",
+            "temperature_c": 15.87,
+            "temperature_f": 60.565999999999995,
+            "humidity": 63,
+            "wind_speed_mph": 1.99093,
+            "wind_direction": 76,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-06-18T18:00:00+00:00",
-                "temperature": 9.36,
-                "windSpeed": 5.70435,
-                "windDirection": 80,
-                "shortForecast": "clear sky"
+                "startTime": "2026-06-19T06:00:00+00:00",
+                "temperature": 16.23,
+                "windSpeed": 3.87001,
+                "windDirection": 60,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-06-18T21:00:00+00:00",
-                "temperature": 9.92,
-                "windSpeed": 6.77811,
-                "windDirection": 57,
-                "shortForecast": "clear sky"
+                "startTime": "2026-06-19T09:00:00+00:00",
+                "temperature": 15.43,
+                "windSpeed": 7.6058,
+                "windDirection": 60,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Midnight settles soft over Jolimont, the air crisp and the sky untroubled, a dark bowl rinsed clear. The forecast keeps faith with this calm: toward dawn and into the morning, clear sky again, a blue you can hear before you see it. Expect bright, honest sunshine and clean lines to the day, the sort that sharpens rooftops and trees. UV is quiet now and will wake with the sun; even in winter it can nibble at exposed skin by late morning, though it won\u2019t feel harsh.\n\nDress in easy layers: a warm jacket before first light, a light sweater or long sleeves once the sun takes the edge off, sunglasses in your pocket and a touch of sunscreen if you plan to linger. It looks like a gentle, good-natured day ahead\u2014pleasant for small rituals. When the light returns, brew coffee by an open window, walk an errand instead of driving, air out the linens, or take a slow lap through the gardens and let the shadows grow shorter as you go. It\u2019s a day for unhurried tasks done well, with the sky doing its quiet part.",
-    "color_code": "#0A1F44",
-    "timestamp": "2026-06-19 00:26:22",
+    "weather_report": "West Perth drifts toward noon under a settled grey, the sun more rumor than presence, lending a gentle brightness without sting. Expect the cloud deck to hold through the afternoon into early evening, a lid of overcast that keeps shadows soft and the horizon a little smudged. UV is modest for a winter day; clouds mute it but don\u2019t erase it, so fair skin might still appreciate a light touch of protection around lunchtime. The air reads cool rather than cold, the day quiet and serviceable rather than showy, with visibility fine but the light decidedly flat.\n\nDress in easy layers: long sleeves, a thin sweater or light jacket, with a pocketable shell if you\u2019re cautious. Sunglasses are optional; comfort takes precedence. It\u2019s a good day for small, useful pleasures\u2014an amble around Harold Boas Gardens, a late window seat for lunch, a slow browse at the bookshop, or tidying a few errands on foot while the sky holds steady. If you cycle or walk later, plan for dusk to arrive early under the blanket of cloud, and let the muted afternoon set an unhurried pace.",
+    "color_code": "#8E959C",
+    "timestamp": "2026-06-19 11:55:03",
     "location": {
-        "name": "Jolimont",
-        "latitude": -31.94225477059236,
-        "longitude": 115.8044808417595,
+        "name": "West Perth",
+        "latitude": -31.95472235302076,
+        "longitude": 115.8462154398978,
         "timezone": "Australia/Perth"
     }
 }

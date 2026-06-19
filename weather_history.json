@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-06-12 00:51:03",
-    "location": {
-      "name": "Jolimont",
-      "latitude": -31.94231484817237,
-      "longitude": 115.8049716976887,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-06-11T16:51:02+00:00",
-      "temperature_c": 14.23,
-      "temperature_f": 57.614,
-      "humidity": 84,
-      "wind_speed_mph": 16.06166,
-      "wind_direction": 245,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Just after midnight in Jolimont, the streets feel rinsed and quiet, the sky a dull lid. Light rain i...",
-    "color_code": "#2C3E50"
-  },
-  {
     "timestamp": "2026-06-12 11:33:47",
     "location": {
       "name": "Cottesloe",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Midnight settles soft over Jolimont, the air crisp and the sky untroubled, a dark bowl rinsed clear....",
     "color_code": "#0A1F44"
+  },
+  {
+    "timestamp": "2026-06-19 11:55:03",
+    "location": {
+      "name": "West Perth",
+      "latitude": -31.95472235302076,
+      "longitude": 115.8462154398978,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-06-19T03:55:00+00:00",
+      "temperature_c": 15.87,
+      "temperature_f": 60.565999999999995,
+      "humidity": 63,
+      "wind_speed_mph": 1.99093,
+      "wind_direction": 76,
+      "description": "overcast clouds"
+    },
+    "report_summary": "West Perth drifts toward noon under a settled grey, the sun more rumor than presence, lending a gent...",
+    "color_code": "#8E959C"
   }
 ]
