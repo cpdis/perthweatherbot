@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "West Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95472235302076,
-            "longitude": 115.8462154398978
+            "latitude": -31.95236133333334,
+            "longitude": 115.8189156333333
         },
         "current_conditions": {
-            "timestamp": "2026-06-19T03:55:00+00:00",
-            "temperature_c": 15.87,
-            "temperature_f": 60.565999999999995,
-            "humidity": 63,
-            "wind_speed_mph": 1.99093,
-            "wind_direction": 76,
+            "timestamp": "2026-06-19T15:57:46+00:00",
+            "temperature_c": 10.7,
+            "temperature_f": 51.26,
+            "humidity": 79,
+            "wind_speed_mph": 8.43349,
+            "wind_direction": 63,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-06-19T06:00:00+00:00",
-                "temperature": 16.23,
-                "windSpeed": 3.87001,
-                "windDirection": 60,
+                "startTime": "2026-06-19T18:00:00+00:00",
+                "temperature": 11.24,
+                "windSpeed": 9.21644,
+                "windDirection": 53,
                 "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-06-19T09:00:00+00:00",
-                "temperature": 15.43,
-                "windSpeed": 7.6058,
-                "windDirection": 60,
+                "startTime": "2026-06-19T21:00:00+00:00",
+                "temperature": 11.84,
+                "windSpeed": 8.41112,
+                "windDirection": 57,
                 "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "West Perth drifts toward noon under a settled grey, the sun more rumor than presence, lending a gentle brightness without sting. Expect the cloud deck to hold through the afternoon into early evening, a lid of overcast that keeps shadows soft and the horizon a little smudged. UV is modest for a winter day; clouds mute it but don\u2019t erase it, so fair skin might still appreciate a light touch of protection around lunchtime. The air reads cool rather than cold, the day quiet and serviceable rather than showy, with visibility fine but the light decidedly flat.\n\nDress in easy layers: long sleeves, a thin sweater or light jacket, with a pocketable shell if you\u2019re cautious. Sunglasses are optional; comfort takes precedence. It\u2019s a good day for small, useful pleasures\u2014an amble around Harold Boas Gardens, a late window seat for lunch, a slow browse at the bookshop, or tidying a few errands on foot while the sky holds steady. If you cycle or walk later, plan for dusk to arrive early under the blanket of cloud, and let the muted afternoon set an unhurried pace.",
-    "color_code": "#8E959C",
-    "timestamp": "2026-06-19 11:55:03",
+    "weather_report": "Near midnight in Subiaco, the sky is buttoned tight with overcast cloud, a quiet lid that softens the edges of everything. There\u2019s no sparkle to the night, just a steady, muted glow from the streetlamps and a hush that suits unhurried thoughts. Sunshine is absent now and will be shy at first light; the UV is effectively asleep, and early morning should keep it subdued beneath the cloud deck. Expect a matte, even light rather than clarity and contrast, the kind that makes colors honest but shadows scarce.\n\nToward dawn, the overcast looks likely to linger, with only hesitant hints of brightness if the ceiling breaks. Dress in easy layers: a light jacket or cardigan over something comfortable, with no urgent need for a brimmed hat at sunrise; sunglasses can stay pocketed unless the sky surprises you. Sunscreen will matter later only if the clouds thin. The mood suits modest plans: wrap the night by setting out tomorrow\u2019s essentials, or let the morning greet you with a simple walk to fetch coffee, a slow tour of the grocer, or a tidy of the desk while the world stretches awake. Even light makes it a fine time for a few photographs or a calm errand on foot.",
+    "color_code": "#2E3440",
+    "timestamp": "2026-06-19 23:57:46",
     "location": {
-        "name": "West Perth",
-        "latitude": -31.95472235302076,
-        "longitude": 115.8462154398978,
+        "name": "Subiaco",
+        "latitude": -31.95236133333334,
+        "longitude": 115.8189156333333,
         "timezone": "Australia/Perth"
     }
 }
