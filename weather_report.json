@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "South Perth",
+            "name": "Jolimont",
             "country": "AU",
-            "latitude": -31.97266135538608,
-            "longitude": 115.857164355271
+            "latitude": -31.94253372385946,
+            "longitude": 115.8086603586506
         },
         "current_conditions": {
-            "timestamp": "2026-06-20T02:56:37+00:00",
-            "temperature_c": 13.82,
-            "temperature_f": 56.876,
-            "humidity": 65,
+            "timestamp": "2026-06-20T15:01:28+00:00",
+            "temperature_c": 13.45,
+            "temperature_f": 56.21,
+            "humidity": 73,
             "wind_speed_mph": 5.010880000000001,
-            "wind_direction": 29,
+            "wind_direction": 350,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-06-20T03:00:00+00:00",
-                "temperature": 13.82,
-                "windSpeed": 11.162630000000002,
-                "windDirection": 32,
+                "startTime": "2026-06-20T18:00:00+00:00",
+                "temperature": 13.36,
+                "windSpeed": 9.68621,
+                "windDirection": 40,
                 "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-06-20T06:00:00+00:00",
-                "temperature": 14.87,
-                "windSpeed": 10.491530000000001,
-                "windDirection": 22,
+                "startTime": "2026-06-20T21:00:00+00:00",
+                "temperature": 12.89,
+                "windSpeed": 5.86094,
+                "windDirection": 45,
                 "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "South Perth wakes under a quilt of steady grey, the sun smudged into a soft glow and shadows largely erased. Through late morning into early afternoon the cloud blanket holds, keeping the light even and the air feeling cool and faintly damp, more cardigan than coat weather. UV looks subdued for winter, low to at most modest around midday, so glare will be kind and the day a touch muted rather than bright. The scene is calm and practical: good visibility but not sparkling, the river likely a sheet of pewter with a breeze that can nip if you linger.\n\nDress in comfortable layers\u2014long sleeves, a light jacket, and shoes you don\u2019t mind taking across dewy grass. If you\u2019ll be out around noon, a small nod to sunscreen is sensible, but you won\u2019t be squinting. It\u2019s a day for unhurried errands and creature comforts: a late-morning stroll along the foreshore, coffee by a window while the sky thinks things over, a quick visit to the grocer, or a tidy-up of that small project waiting on the kitchen table. Save sun-chasing for another day; this one is made for steady steps and quiet plans.",
-    "color_code": "#B0B8C2",
-    "timestamp": "2026-06-20 10:56:38",
+    "weather_report": "Jolimont settles under an unbroken ceiling of cloud tonight, the sky a seamless slate that swallows the stars and smooths the edges of the streets. At this late hour it feels quiet and enclosed rather than stark; light pools softly beneath the lamps and the night keeps its voice down. There\u2019s no sun to speak of and, with overcast lingering, the UV is effectively nil; clarity is muted, the world rendered in calm, patient shades.\n\nThat same blanket looks set to carry into the early hours, so dawn should arrive subdued, with little sparkle and only a shy chance of brighter breaks later on. Expect flat, even light through the morning; UV should stay low at first, nudging up only if the ceiling thins toward midday. Dress in uncomplicated layers with a light jacket; sunglasses can wait in the pocket. At this hour, a quiet stretch or laying out tomorrow\u2019s kit suits the mood; come morning, a slow walk for bread, a simple errand, or a window seat with coffee feels just right.",
+    "color_code": "#4B5563",
+    "timestamp": "2026-06-20 23:01:29",
     "location": {
-        "name": "South Perth",
-        "latitude": -31.97266135538608,
-        "longitude": 115.857164355271,
+        "name": "Jolimont",
+        "latitude": -31.94253372385946,
+        "longitude": 115.8086603586506,
         "timezone": "Australia/Perth"
     }
 }
