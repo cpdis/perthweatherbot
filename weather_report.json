@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Jolimont",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94253372385946,
-            "longitude": 115.8086603586506
+            "latitude": -31.94970143178907,
+            "longitude": 115.8207928745746
         },
         "current_conditions": {
-            "timestamp": "2026-06-20T15:01:28+00:00",
-            "temperature_c": 13.45,
-            "temperature_f": 56.21,
-            "humidity": 73,
-            "wind_speed_mph": 5.010880000000001,
-            "wind_direction": 350,
+            "timestamp": "2026-06-21T03:43:48+00:00",
+            "temperature_c": 16.84,
+            "temperature_f": 62.312,
+            "humidity": 62,
+            "wind_speed_mph": 1.99093,
+            "wind_direction": 34,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-06-20T18:00:00+00:00",
-                "temperature": 13.36,
-                "windSpeed": 9.68621,
-                "windDirection": 40,
+                "startTime": "2026-06-21T06:00:00+00:00",
+                "temperature": 16.86,
+                "windSpeed": 7.87424,
+                "windDirection": 358,
                 "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-06-20T21:00:00+00:00",
-                "temperature": 12.89,
-                "windSpeed": 5.86094,
-                "windDirection": 45,
+                "startTime": "2026-06-21T09:00:00+00:00",
+                "temperature": 16.29,
+                "windSpeed": 3.82527,
+                "windDirection": 334,
                 "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Jolimont settles under an unbroken ceiling of cloud tonight, the sky a seamless slate that swallows the stars and smooths the edges of the streets. At this late hour it feels quiet and enclosed rather than stark; light pools softly beneath the lamps and the night keeps its voice down. There\u2019s no sun to speak of and, with overcast lingering, the UV is effectively nil; clarity is muted, the world rendered in calm, patient shades.\n\nThat same blanket looks set to carry into the early hours, so dawn should arrive subdued, with little sparkle and only a shy chance of brighter breaks later on. Expect flat, even light through the morning; UV should stay low at first, nudging up only if the ceiling thins toward midday. Dress in uncomplicated layers with a light jacket; sunglasses can wait in the pocket. At this hour, a quiet stretch or laying out tomorrow\u2019s kit suits the mood; come morning, a slow walk for bread, a simple errand, or a window seat with coffee feels just right.",
-    "color_code": "#4B5563",
-    "timestamp": "2026-06-20 23:01:29",
+    "weather_report": "Subiaco wakes under a soft, unbroken ceiling of cloud; the light is gentle, colors desaturated, shadows barely there. Through late morning and into the afternoon, the overcast looks set to linger, keeping the sun tucked away and the UV on the low side. The day feels quiet and even-tempered, clear enough to see your way but with a muted, pearly cast that flatters brick and jacaranda alike. No theatrics, just a cool, steady gray that asks you to slow your pace a notch.\n\nDress for mild coolness: light layers, long sleeves, a comfortable jacket you can shrug on and off, closed shoes for ambling about. Sunglasses can rest in the pocket; a touch of sunscreen only if you plan to stay out a while. It\u2019s a good day for unhurried errands and small pleasures\u2014an unassuming coffee by a window, a deliberate browse through a bookshop, a quiet lap around the oval, or tending to houseplants while the sky holds its calm. Let the diffused light be your companion; it\u2019s not a day for glare or rush, but for clean lines and easy steps.",
+    "color_code": "#A3A7AD",
+    "timestamp": "2026-06-21 11:43:48",
     "location": {
-        "name": "Jolimont",
-        "latitude": -31.94253372385946,
-        "longitude": 115.8086603586506,
+        "name": "Subiaco",
+        "latitude": -31.94970143178907,
+        "longitude": 115.8207928745746,
         "timezone": "Australia/Perth"
     }
 }

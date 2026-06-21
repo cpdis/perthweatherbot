@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-06-13 22:57:07",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969098915924,
-      "longitude": 115.8206630703258,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-06-13T14:57:06+00:00",
-      "temperature_c": 13.81,
-      "temperature_f": 56.858000000000004,
-      "humidity": 67,
-      "wind_speed_mph": 2.99758,
-      "wind_direction": 36,
-      "description": "broken clouds"
-    },
-    "report_summary": "Subiaco settles into a quiet late evening under a patchwork of cloud, the moon showing itself now an...",
-    "color_code": "#1F2A44"
-  },
-  {
     "timestamp": "2026-06-14 11:37:10",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Jolimont settles under an unbroken ceiling of cloud tonight, the sky a seamless slate that swallows ...",
     "color_code": "#4B5563"
+  },
+  {
+    "timestamp": "2026-06-21 11:43:48",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94970143178907,
+      "longitude": 115.8207928745746,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-06-21T03:43:48+00:00",
+      "temperature_c": 16.84,
+      "temperature_f": 62.312,
+      "humidity": 62,
+      "wind_speed_mph": 1.99093,
+      "wind_direction": 34,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Subiaco wakes under a soft, unbroken ceiling of cloud; the light is gentle, colors desaturated, shad...",
+    "color_code": "#A3A7AD"
   }
 ]
