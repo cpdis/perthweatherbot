@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Osborne Park",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.90842970214309,
-            "longitude": 115.8020652004046
+            "latitude": -31.94969393313753,
+            "longitude": 115.8208812174864
         },
         "current_conditions": {
-            "timestamp": "2026-06-24T02:51:35+00:00",
-            "temperature_c": 17.77,
-            "temperature_f": 63.986000000000004,
-            "humidity": 62,
-            "wind_speed_mph": 4.004230000000001,
-            "wind_direction": 25,
+            "timestamp": "2026-06-24T15:31:40+00:00",
+            "temperature_c": 12.71,
+            "temperature_f": 54.878,
+            "humidity": 73,
+            "wind_speed_mph": 1.00665,
+            "wind_direction": 38,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-06-24T03:00:00+00:00",
-                "temperature": 17.77,
-                "windSpeed": 12.3035,
-                "windDirection": 53,
+                "startTime": "2026-06-24T18:00:00+00:00",
+                "temperature": 12.71,
+                "windSpeed": 12.23639,
+                "windDirection": 46,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-06-24T06:00:00+00:00",
-                "temperature": 18.72,
-                "windSpeed": 9.03748,
-                "windDirection": 37,
+                "startTime": "2026-06-24T21:00:00+00:00",
+                "temperature": 12.9,
+                "windSpeed": 14.3168,
+                "windDirection": 39,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Osborne Park wakes under a lucid blue bowl of sky, the sun already clean and uncomplicated by late morning. The air looks sharp, shadows are defined, and the light has that winter brilliance that flatters every surface. Expect the afternoon to hold steady with the same untroubled clarity; plenty of sunshine and strong midday glare. Even in June, the UV will be modest-to-moderate, enough to warrant sunglasses and a touch of sunscreen if you linger outside.\n\nIt reads as a pleasant day: cool in the shade, gently warm where the sun finds you. Dress in light layers, a breathable long sleeve or a soft jacket you can shrug off, plus a hat if you\u2019re out around lunch. Good hours for ordinary comforts\u2014walk to pick up a sandwich, let the house breathe with the windows ajar, hang a load of washing, water the herbs, or take a short spin on the bike path. The kind of clear day that rewards unhurried errands and a quiet seat in the sun.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-06-24 10:51:36",
+    "weather_report": "Subiaco settles into a clear, lucid night: the sky swept clean to a velvet dark, stars crisp at the edges, the air unhurried. It isn\u2019t sunny now, of course; the UV is effectively absent, and the clarity is the sort that makes distant rooftops look freshly cut. The evening forecast held to pure blue right into late night, and the mood outdoors is calm and uncomplicated.\n\nDress lightly but with a nod to the hour: a soft sweater or light jacket, something you can tuck under your arm if you warm up on a short stroll. If you\u2019re up early, this same clarity will likely flip at dawn into brisk, bright sunshine, with the UV climbing quickly; sunglasses, a hat, and a touch of sunscreen will serve you well. For now, it\u2019s a good time to walk the quieter streets, sort tomorrow\u2019s list at the kitchen table, or set coffee things out so morning can start gently before the sun gets earnest.",
+    "color_code": "#0a1e3f",
+    "timestamp": "2026-06-24 23:31:40",
     "location": {
-        "name": "Osborne Park",
-        "latitude": -31.90842970214309,
-        "longitude": 115.8020652004046,
+        "name": "Subiaco",
+        "latitude": -31.94969393313753,
+        "longitude": 115.8208812174864,
         "timezone": "Australia/Perth"
     }
 }
