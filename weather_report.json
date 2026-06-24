@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Osborne Park",
             "country": "AU",
-            "latitude": -31.94970770675215,
-            "longitude": 115.8206808376132
+            "latitude": -31.90842970214309,
+            "longitude": 115.8020652004046
         },
         "current_conditions": {
-            "timestamp": "2026-06-23T15:44:39+00:00",
-            "temperature_c": 13.45,
-            "temperature_f": 56.21,
-            "humidity": 78,
-            "wind_speed_mph": 7.762390000000001,
-            "wind_direction": 74,
+            "timestamp": "2026-06-24T02:51:35+00:00",
+            "temperature_c": 17.77,
+            "temperature_f": 63.986000000000004,
+            "humidity": 62,
+            "wind_speed_mph": 4.004230000000001,
+            "wind_direction": 25,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-06-23T18:00:00+00:00",
-                "temperature": 12.75,
-                "windSpeed": 9.05985,
-                "windDirection": 73,
+                "startTime": "2026-06-24T03:00:00+00:00",
+                "temperature": 17.77,
+                "windSpeed": 12.3035,
+                "windDirection": 53,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-06-23T21:00:00+00:00",
-                "temperature": 10.78,
-                "windSpeed": 10.044130000000001,
-                "windDirection": 70,
+                "startTime": "2026-06-24T06:00:00+00:00",
+                "temperature": 18.72,
+                "windSpeed": 9.03748,
+                "windDirection": 37,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco winds down beneath a faultless, inky sky, the kind of clarity that sharpens the stars and hushes the streets. The night is gentle and a little cool, and with the sky staying clear toward midnight and beyond, there\u2019s no bite from UV now, only the soft spill of moonlight and the clean breath of darkness.\n\nIf this serenity holds into morning, expect a bright, unfiltered sun and a day that feels lucid and cheerful, with UV climbing quickly once the light strengthens. It should be comfortable in the shade and a touch prickly in full sun. Dress in easy layers and airy fabrics; add sunglasses, a hat, and a smear of sunscreen if you\u2019ll linger outdoors. It\u2019s a good morning to step out early\u2014water the balcony plants, hang a wash to drink the first light, pick up bread while the streets are still yawning, or take a quiet spin to run a simple errand before the day gathers pace.",
-    "color_code": "#0b1e3a",
-    "timestamp": "2026-06-23 23:44:40",
+    "weather_report": "Osborne Park wakes under a lucid blue bowl of sky, the sun already clean and uncomplicated by late morning. The air looks sharp, shadows are defined, and the light has that winter brilliance that flatters every surface. Expect the afternoon to hold steady with the same untroubled clarity; plenty of sunshine and strong midday glare. Even in June, the UV will be modest-to-moderate, enough to warrant sunglasses and a touch of sunscreen if you linger outside.\n\nIt reads as a pleasant day: cool in the shade, gently warm where the sun finds you. Dress in light layers, a breathable long sleeve or a soft jacket you can shrug off, plus a hat if you\u2019re out around lunch. Good hours for ordinary comforts\u2014walk to pick up a sandwich, let the house breathe with the windows ajar, hang a load of washing, water the herbs, or take a short spin on the bike path. The kind of clear day that rewards unhurried errands and a quiet seat in the sun.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-06-24 10:51:36",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94970770675215,
-        "longitude": 115.8206808376132,
+        "name": "Osborne Park",
+        "latitude": -31.90842970214309,
+        "longitude": 115.8020652004046,
         "timezone": "Australia/Perth"
     }
 }

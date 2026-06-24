@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-06-17 02:01:31",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.95038331610096,
-      "longitude": 115.8243581076049,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-06-16T18:01:30+00:00",
-      "temperature_c": 8.73,
-      "temperature_f": 47.714,
-      "humidity": 74,
-      "wind_speed_mph": 9.64147,
-      "wind_direction": 165,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Subiaco dozes under a ragged lid of cloud, the hour quiet and cool, streetlights painting small isla...",
-    "color_code": "#2F3B52"
-  },
-  {
     "timestamp": "2026-06-17 11:41:07",
     "location": {
       "name": "Osborne Park",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco winds down beneath a faultless, inky sky, the kind of clarity that sharpens the stars and hu...",
     "color_code": "#0b1e3a"
+  },
+  {
+    "timestamp": "2026-06-24 10:51:36",
+    "location": {
+      "name": "Osborne Park",
+      "latitude": -31.90842970214309,
+      "longitude": 115.8020652004046,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-06-24T02:51:35+00:00",
+      "temperature_c": 17.77,
+      "temperature_f": 63.986000000000004,
+      "humidity": 62,
+      "wind_speed_mph": 4.004230000000001,
+      "wind_direction": 25,
+      "description": "clear sky"
+    },
+    "report_summary": "Osborne Park wakes under a lucid blue bowl of sky, the sun already clean and uncomplicated by late m...",
+    "color_code": "#87CEEB"
   }
 ]
