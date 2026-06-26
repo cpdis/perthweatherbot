@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Cottesloe",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.98936916666667,
-            "longitude": 115.7632691166666
+            "latitude": -31.94968359742442,
+            "longitude": 115.8208521613988
         },
         "current_conditions": {
-            "timestamp": "2026-06-26T02:56:35+00:00",
-            "temperature_c": 15.18,
-            "temperature_f": 59.324,
-            "humidity": 90,
-            "wind_speed_mph": 14.00362,
-            "wind_direction": 286,
-            "description": "light rain"
+            "timestamp": "2026-06-26T15:21:32+00:00",
+            "temperature_c": 15.11,
+            "temperature_f": 59.198,
+            "humidity": 69,
+            "wind_speed_mph": 5.010880000000001,
+            "wind_direction": 256,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-06-26T03:00:00+00:00",
-                "temperature": 15.18,
-                "windSpeed": 21.87786,
-                "windDirection": 274,
+                "startTime": "2026-06-26T18:00:00+00:00",
+                "temperature": 15.41,
+                "windSpeed": 26.6203,
+                "windDirection": 300,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-06-26T06:00:00+00:00",
-                "temperature": 16.11,
-                "windSpeed": 24.204340000000002,
-                "windDirection": 284,
+                "startTime": "2026-06-26T21:00:00+00:00",
+                "temperature": 17.42,
+                "windSpeed": 28.72308,
+                "windDirection": 292,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late morning in Cottesloe arrives under a pewter lid, the light softened and silvery, the air tasting faintly of rain. Showers are due to pass through around midday and again early afternoon, more a steady patter than a downpour, keeping the sun shy behind a gauze of cloud. Expect little in the way of sparkle; UV will stay low, and the day will feel muted rather than bright. Between the passing veils of rain the air may briefly clear to a rinsed, crisp view, but the horizon will spend much of the day smudged and reflective.\n\nDress for a gentle soaking: a light waterproof, layers you can shed indoors, and shoes that don\u2019t sulk at puddles; an umbrella is handy if the wind behaves. It\u2019s a good day to linger under an awning with a coffee, to wander the foreshore between showers, to duck into the library or a small gallery, to tick off quiet errands, or to put on a pot and let the house warm itself. The weather isn\u2019t hostile so much as subdued, inviting a slower pace and a bit of shelter-seeking curiosity.",
-    "color_code": "#7f8c99",
-    "timestamp": "2026-06-26 10:56:35",
+    "weather_report": "Late tonight in Subiaco the air feels damp and unhurried, the streets glazed in a quiet sheen as light showers edge closer toward the small hours. Expect the first half of the morning to arrive under a soft grey lid with passing light rain around dawn, the sun held at arm\u2019s length and the UV all but negligible until the clouds loosen their grip. Clarity will be muted early, outlines smudged and colours subdued, though there may be brief, gentle brightening as the day finds its rhythm.\n\nDress for a cool, moist start: a light waterproof, comfortable shoes that won\u2019t mind wet pavements, and a compact umbrella for the in\u2011between moments. Tonight suits unshowy tasks\u2014sorting the week\u2019s papers, prepping tomorrow\u2019s list, a slow kettle and a quiet track before sleep. In the morning, let the rain choose your pace: linger over coffee while showers drift through, then step out for errands or a short walk once the drizzle eases and the streets give off that clean, rain-washed scent. Sunshine, if it appears, will likely be filtered and shy, keeping the day gentle rather than blazing.",
+    "color_code": "#2C3E50",
+    "timestamp": "2026-06-26 23:21:33",
     "location": {
-        "name": "Cottesloe",
-        "latitude": -31.98936916666667,
-        "longitude": 115.7632691166666,
+        "name": "Subiaco",
+        "latitude": -31.94968359742442,
+        "longitude": 115.8208521613988,
         "timezone": "Australia/Perth"
     }
 }

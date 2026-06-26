@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-06-19 11:55:03",
-    "location": {
-      "name": "West Perth",
-      "latitude": -31.95472235302076,
-      "longitude": 115.8462154398978,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-06-19T03:55:00+00:00",
-      "temperature_c": 15.87,
-      "temperature_f": 60.565999999999995,
-      "humidity": 63,
-      "wind_speed_mph": 1.99093,
-      "wind_direction": 76,
-      "description": "overcast clouds"
-    },
-    "report_summary": "West Perth drifts toward noon under a settled grey, the sun more rumor than presence, lending a gent...",
-    "color_code": "#8E959C"
-  },
-  {
     "timestamp": "2026-06-19 23:57:46",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Late morning in Cottesloe arrives under a pewter lid, the light softened and silvery, the air tastin...",
     "color_code": "#7f8c99"
+  },
+  {
+    "timestamp": "2026-06-26 23:21:33",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968359742442,
+      "longitude": 115.8208521613988,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-06-26T15:21:32+00:00",
+      "temperature_c": 15.11,
+      "temperature_f": 59.198,
+      "humidity": 69,
+      "wind_speed_mph": 5.010880000000001,
+      "wind_direction": 256,
+      "description": "broken clouds"
+    },
+    "report_summary": "Late tonight in Subiaco the air feels damp and unhurried, the streets glazed in a quiet sheen as lig...",
+    "color_code": "#2C3E50"
   }
 ]
