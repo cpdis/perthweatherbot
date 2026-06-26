@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Cottesloe",
             "country": "AU",
-            "latitude": -31.949862799289,
-            "longitude": 115.8207767838799
+            "latitude": -31.98936916666667,
+            "longitude": 115.7632691166666
         },
         "current_conditions": {
-            "timestamp": "2026-06-25T15:41:17+00:00",
-            "temperature_c": 15.42,
-            "temperature_f": 59.756,
-            "humidity": 54,
-            "wind_speed_mph": 4.004230000000001,
-            "wind_direction": 53,
-            "description": "broken clouds"
+            "timestamp": "2026-06-26T02:56:35+00:00",
+            "temperature_c": 15.18,
+            "temperature_f": 59.324,
+            "humidity": 90,
+            "wind_speed_mph": 14.00362,
+            "wind_direction": 286,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2026-06-25T18:00:00+00:00",
-                "temperature": 15.3,
-                "windSpeed": 18.7908,
-                "windDirection": 19,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-06-26T03:00:00+00:00",
+                "temperature": 15.18,
+                "windSpeed": 21.87786,
+                "windDirection": 274,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-06-25T21:00:00+00:00",
-                "temperature": 12.98,
-                "windSpeed": 21.90023,
-                "windDirection": 29,
-                "shortForecast": "moderate rain"
+                "startTime": "2026-06-26T06:00:00+00:00",
+                "temperature": 16.11,
+                "windSpeed": 24.204340000000002,
+                "windDirection": 284,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a cool, muted night with clouds knitting themselves across the sky, the stars mostly erased. It isn\u2019t a night for sunshine; UV is negligible now and will stay subdued at dawn beneath thickening cloud. Expect the small hours to hold to broken cloud, then a modest rain to find the streets around first light, softening edges and glazing the pavement. The day ahead looks gentle in light and low in contrast, more pewter than silver, with clarity tempered by passing showers.\n\nDress for quiet weather that gets wetter: a light waterproof or hooded jacket, closed shoes with a bit of grip, and a layer you can shed if the air turns mild. Keep an umbrella handy for the commute. At this late hour, it\u2019s a good time to let the evening taper off\u2014finish that chapter, queue tomorrow\u2019s playlist, set out what you\u2019ll need for a damp morning. Early errands can be simple and close to home: a warm loaf from the corner bakery, a library return, a tidy-up before the day gathers. The sun won\u2019t make much of an entrance, and the UV will remain low, but the rain gives the town its quiet sheen.",
-    "color_code": "#2F3B52",
-    "timestamp": "2026-06-25 23:41:17",
+    "weather_report": "Late morning in Cottesloe arrives under a pewter lid, the light softened and silvery, the air tasting faintly of rain. Showers are due to pass through around midday and again early afternoon, more a steady patter than a downpour, keeping the sun shy behind a gauze of cloud. Expect little in the way of sparkle; UV will stay low, and the day will feel muted rather than bright. Between the passing veils of rain the air may briefly clear to a rinsed, crisp view, but the horizon will spend much of the day smudged and reflective.\n\nDress for a gentle soaking: a light waterproof, layers you can shed indoors, and shoes that don\u2019t sulk at puddles; an umbrella is handy if the wind behaves. It\u2019s a good day to linger under an awning with a coffee, to wander the foreshore between showers, to duck into the library or a small gallery, to tick off quiet errands, or to put on a pot and let the house warm itself. The weather isn\u2019t hostile so much as subdued, inviting a slower pace and a bit of shelter-seeking curiosity.",
+    "color_code": "#7f8c99",
+    "timestamp": "2026-06-26 10:56:35",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.949862799289,
-        "longitude": 115.8207767838799,
+        "name": "Cottesloe",
+        "latitude": -31.98936916666667,
+        "longitude": 115.7632691166666,
         "timezone": "Australia/Perth"
     }
 }
