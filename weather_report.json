@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94968359742442,
-            "longitude": 115.8208521613988
+            "latitude": -31.94967285076665,
+            "longitude": 115.8208350439187
         },
         "current_conditions": {
-            "timestamp": "2026-06-26T15:21:32+00:00",
-            "temperature_c": 15.11,
-            "temperature_f": 59.198,
-            "humidity": 69,
-            "wind_speed_mph": 5.010880000000001,
+            "timestamp": "2026-06-27T02:46:19+00:00",
+            "temperature_c": 17.14,
+            "temperature_f": 62.852,
+            "humidity": 66,
+            "wind_speed_mph": 2.99758,
             "wind_direction": 256,
-            "description": "broken clouds"
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-06-26T18:00:00+00:00",
-                "temperature": 15.41,
-                "windSpeed": 26.6203,
-                "windDirection": 300,
+                "startTime": "2026-06-27T03:00:00+00:00",
+                "temperature": 17.14,
+                "windSpeed": 21.13965,
+                "windDirection": 266,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-06-26T21:00:00+00:00",
-                "temperature": 17.42,
-                "windSpeed": 28.72308,
-                "windDirection": 292,
+                "startTime": "2026-06-27T06:00:00+00:00",
+                "temperature": 17.26,
+                "windSpeed": 23.600350000000002,
+                "windDirection": 270,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late tonight in Subiaco the air feels damp and unhurried, the streets glazed in a quiet sheen as light showers edge closer toward the small hours. Expect the first half of the morning to arrive under a soft grey lid with passing light rain around dawn, the sun held at arm\u2019s length and the UV all but negligible until the clouds loosen their grip. Clarity will be muted early, outlines smudged and colours subdued, though there may be brief, gentle brightening as the day finds its rhythm.\n\nDress for a cool, moist start: a light waterproof, comfortable shoes that won\u2019t mind wet pavements, and a compact umbrella for the in\u2011between moments. Tonight suits unshowy tasks\u2014sorting the week\u2019s papers, prepping tomorrow\u2019s list, a slow kettle and a quiet track before sleep. In the morning, let the rain choose your pace: linger over coffee while showers drift through, then step out for errands or a short walk once the drizzle eases and the streets give off that clean, rain-washed scent. Sunshine, if it appears, will likely be filtered and shy, keeping the day gentle rather than blazing.",
-    "color_code": "#2C3E50",
-    "timestamp": "2026-06-26 23:21:33",
+    "weather_report": "Subiaco wakes under a pewter sky, the light gentled and cool, the air smelling faintly of wet stone. Clouds are thickening and, toward late morning and early afternoon, light rain looks set to drift through in soft sheets. Sunshine will be scarce today, more a pale suggestion behind the overcast, and while the cloud keeps the glare down, midday UV can still nibble at the edges, so a dab of sunscreen won\u2019t go astray. The day feels calm rather than bleak: clear enough between showers to see the day get on with itself, streets rinsed, leaves lacquered, everything a notch quieter.\n\nDress for a mild, damp winter turn: a light waterproof jacket, layers you can peel, closed shoes that don\u2019t mind a puddle, and a small umbrella for the fickle bursts. It\u2019s a good time to run a short errand on foot before the rain settles in, linger over a late-morning coffee by a window, or take a brief stroll through a park when the drizzle slackens, listening to the softened world. If you\u2019re staying in, open a window just enough for the fresh, rain-bright air and tend to something unhurried\u2014sorting a shelf, sketching, writing a note you\u2019ve meant to send\u2014while the day hums along in a gentle grey.",
+    "color_code": "#778899",
+    "timestamp": "2026-06-27 10:46:20",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94968359742442,
-        "longitude": 115.8208521613988,
+        "latitude": -31.94967285076665,
+        "longitude": 115.8208350439187,
         "timezone": "Australia/Perth"
     }
 }

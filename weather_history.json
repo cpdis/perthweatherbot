@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-06-19 23:57:46",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.95236133333334,
-      "longitude": 115.8189156333333,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-06-19T15:57:46+00:00",
-      "temperature_c": 10.7,
-      "temperature_f": 51.26,
-      "humidity": 79,
-      "wind_speed_mph": 8.43349,
-      "wind_direction": 63,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Near midnight in Subiaco, the sky is buttoned tight with overcast cloud, a quiet lid that softens th...",
-    "color_code": "#2E3440"
-  },
-  {
     "timestamp": "2026-06-20 10:56:38",
     "location": {
       "name": "South Perth",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Late tonight in Subiaco the air feels damp and unhurried, the streets glazed in a quiet sheen as lig...",
     "color_code": "#2C3E50"
+  },
+  {
+    "timestamp": "2026-06-27 10:46:20",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94967285076665,
+      "longitude": 115.8208350439187,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-06-27T02:46:19+00:00",
+      "temperature_c": 17.14,
+      "temperature_f": 62.852,
+      "humidity": 66,
+      "wind_speed_mph": 2.99758,
+      "wind_direction": 256,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Subiaco wakes under a pewter sky, the light gentled and cool, the air smelling faintly of wet stone....",
+    "color_code": "#778899"
   }
 ]
