@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-06-21 11:43:48",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970143178907,
-      "longitude": 115.8207928745746,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-06-21T03:43:48+00:00",
-      "temperature_c": 16.84,
-      "temperature_f": 62.312,
-      "humidity": 62,
-      "wind_speed_mph": 1.99093,
-      "wind_direction": 34,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Subiaco wakes under a soft, unbroken ceiling of cloud; the light is gentle, colors desaturated, shad...",
-    "color_code": "#A3A7AD"
-  },
-  {
     "timestamp": "2026-06-21 23:09:24",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco wakes under a gentle, persistent rain, the streets rinsed and quiet, the hills smudged in a ...",
     "color_code": "#7f8fa3"
+  },
+  {
+    "timestamp": "2026-06-28 22:46:21",
+    "location": {
+      "name": "Karrakatta",
+      "latitude": -31.96524803333333,
+      "longitude": 115.80056035,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-06-28T14:46:21+00:00",
+      "temperature_c": 14.49,
+      "temperature_f": 58.082,
+      "humidity": 89,
+      "wind_speed_mph": 13.55622,
+      "wind_direction": 242,
+      "description": "light rain"
+    },
+    "report_summary": "Night has settled over Karrakatta with a quiet stipple of light rain, the kind that turns footpaths ...",
+    "color_code": "#2E3B4E"
   }
 ]
