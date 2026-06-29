@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Karrakatta",
+            "name": "Scarborough",
             "country": "AU",
-            "latitude": -31.96524803333333,
-            "longitude": 115.80056035
+            "latitude": -31.89973276759391,
+            "longitude": 115.7682047775171
         },
         "current_conditions": {
-            "timestamp": "2026-06-28T14:46:21+00:00",
-            "temperature_c": 14.49,
-            "temperature_f": 58.082,
-            "humidity": 89,
-            "wind_speed_mph": 13.55622,
-            "wind_direction": 242,
-            "description": "light rain"
+            "timestamp": "2026-06-29T03:31:11+00:00",
+            "temperature_c": 15.48,
+            "temperature_f": 59.864,
+            "humidity": 85,
+            "wind_speed_mph": 5.99516,
+            "wind_direction": 360,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-06-28T15:00:00+00:00",
-                "temperature": 14.49,
-                "windSpeed": 13.55622,
-                "windDirection": 242,
+                "startTime": "2026-06-29T06:00:00+00:00",
+                "temperature": 16.5,
+                "windSpeed": 18.1197,
+                "windDirection": 281,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-06-28T18:00:00+00:00",
-                "temperature": 13.94,
-                "windSpeed": 12.258760000000002,
-                "windDirection": 249,
+                "startTime": "2026-06-29T09:00:00+00:00",
+                "temperature": 15.32,
+                "windSpeed": 19.4619,
+                "windDirection": 280,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Night has settled over Karrakatta with a quiet stipple of light rain, the kind that turns footpaths to satin and lifts the scent of damp earth. Clouds are thick and low, softening streetlights to halos and erasing the stars; clarity is muted, edges blurred. There\u2019s no sunshine to speak of now and the UV index is negligible, a whisper rather than a warning.\n\nShowers look set to loiter through the late hours and may linger toward dawn, keeping the morning grey and subdued. Any sunny breaks will be brief at best, so expect a low UV day, tempered and unhurried. It feels like a night for practical comforts: a light waterproof, a warm layer, shoes you don\u2019t mind in puddles, and a hood or umbrella as escort. Keep plans simple and close to home\u2014tidy the desk you\u2019ve been ignoring, take a short, reflective loop of the block between showers, or settle into a slow task that matches the rhythm of the rain.",
-    "color_code": "#2E3B4E",
-    "timestamp": "2026-06-28 22:46:21",
+    "weather_report": "Late morning finds Scarborough rinsed and reflective: pavements dark as slate, windows pearled with leftover showers, the sea-light a muted silver. The sun is mostly a rumor behind thick cloud, so brightness stays subdued and the UV remains low, the kind that barely nudges the skin. Visibility is serviceable but softened at the edges, the town drawn in charcoal rather than ink, with the day carrying that quiet, cool-damp feel that slows footsteps and lowers voices.\n\nExpect on-and-off light showers to loiter through the day, with only hesitant hints of brightness trying their luck later. Dress for interruptions: a light waterproof or trench, a soft layer beneath, shoes that don\u2019t mind puddles, and a compact brolly for good measure. This is weather for everyday comforts and small errands\u2014picking up fruit from the market between showers, a lingering browse at the library, a window seat in a calm cafe to watch the street glisten, or a tidy-at-home hour that leaves a drawer lighter and the mind clearer.",
+    "color_code": "#6b7c8b",
+    "timestamp": "2026-06-29 11:31:11",
     "location": {
-        "name": "Karrakatta",
-        "latitude": -31.96524803333333,
-        "longitude": 115.80056035,
+        "name": "Scarborough",
+        "latitude": -31.89973276759391,
+        "longitude": 115.7682047775171,
         "timezone": "Australia/Perth"
     }
 }
