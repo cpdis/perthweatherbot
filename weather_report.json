@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94969436696787,
-            "longitude": 115.8208892193801
+            "latitude": -31.94967256494802,
+            "longitude": 115.8207936124537
         },
         "current_conditions": {
-            "timestamp": "2026-06-29T16:36:43+00:00",
-            "temperature_c": 14.21,
-            "temperature_f": 57.578,
-            "humidity": 82,
-            "wind_speed_mph": 4.004230000000001,
-            "wind_direction": 259,
+            "timestamp": "2026-06-30T02:55:24+00:00",
+            "temperature_c": 14.47,
+            "temperature_f": 58.04600000000001,
+            "humidity": 71,
+            "wind_speed_mph": 2.99758,
+            "wind_direction": 239,
             "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2026-06-29T18:00:00+00:00",
-                "temperature": 14.21,
-                "windSpeed": 26.754520000000003,
-                "windDirection": 249,
-                "shortForecast": "moderate rain"
+                "startTime": "2026-06-30T03:00:00+00:00",
+                "temperature": 14.47,
+                "windSpeed": 24.58463,
+                "windDirection": 207,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-06-29T21:00:00+00:00",
-                "temperature": 13.49,
-                "windSpeed": 28.029609999999998,
-                "windDirection": 247,
+                "startTime": "2026-06-30T06:00:00+00:00",
+                "temperature": 14.53,
+                "windSpeed": 20.669880000000003,
+                "windDirection": 203,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Subiaco settles under a damp hush tonight; the streets are dark-lacquered and the air smells of wet leaves. Moderate rain is due through the small hours, easing to a gentler patter toward dawn, so the morning is likely to begin cloud-heavy and grey. Sunshine will be scarce early; any breaks may not arrive until later, and even then they\u2019ll be tentative. The UV index is negligible overnight and should stay low through the early morning, nudging upward only if the cloud lid loosens by late morning. Expect a softened horizon and muted contrasts, a day more smudged charcoal than bright pastel.\n\nDress for a cool, damp start: a light waterproof, closed shoes you don\u2019t mind getting speckled, and a small umbrella for the walk between doorways. It\u2019s a good morning to linger over coffee at home, answer a few stray emails, then venture out once the rain slackens for a slow lap of the shops or a quiet library visit. If you\u2019re up before dawn, let the rain be your metronome\u2014stretch, plan the day, keep it unhurried. Later, if the clouds lift a touch, a brief stroll under the plane trees will feel earned; if they don\u2019t, a gallery, a grocer\u2019s run, or a tidy-up at home suits the mood just as well.",
-    "color_code": "#2F3D4A",
-    "timestamp": "2026-06-30 00:36:44",
+    "weather_report": "Late morning in Subiaco arrives soft and grey, the kind of light rain that freckles shop windows and settles the dust. The sky is a uniform pewter, sun mostly withheld, so the UV sits low and gentle; even at midday it will stay more suggestion than glare. Showers look set to linger into the early afternoon, keeping the day muted and a touch cool, with edges blurred and streets quietly reflective. It\u2019s not unpleasant so much as subdued, a day that asks for unhurried steps and a bit of care at the crossings. A light waterproof jacket and comfortable closed shoes will be your allies, with a small umbrella tucked away for the fickle moments. Consider a lingering coffee while the rain chatters on the awnings, a quick browse along Rokeby Road between breaks, or a tidy errand run that ends at the library or a matinee. If the drizzle pauses, take a brief, thoughtful walk beneath the trees and breathe in the clean, rain-smoothed air.",
+    "color_code": "#708090",
+    "timestamp": "2026-06-30 10:55:24",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94969436696787,
-        "longitude": 115.8208892193801,
+        "latitude": -31.94967256494802,
+        "longitude": 115.8207936124537,
         "timezone": "Australia/Perth"
     }
 }
