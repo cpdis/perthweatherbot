@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Osborne Park",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.90815912744526,
-            "longitude": 115.8017959316954
+            "latitude": -31.94970039733845,
+            "longitude": 115.8207592639593
         },
         "current_conditions": {
-            "timestamp": "2026-07-01T03:26:34+00:00",
-            "temperature_c": 17.36,
-            "temperature_f": 63.248000000000005,
-            "humidity": 76,
-            "wind_speed_mph": 15.994550000000002,
-            "wind_direction": 360,
+            "timestamp": "2026-07-01T15:38:20+00:00",
+            "temperature_c": 14.33,
+            "temperature_f": 57.794,
+            "humidity": 91,
+            "wind_speed_mph": 10.066500000000001,
+            "wind_direction": 160,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-07-01T06:00:00+00:00",
-                "temperature": 17.3,
-                "windSpeed": 18.00785,
-                "windDirection": 243,
+                "startTime": "2026-07-01T18:00:00+00:00",
+                "temperature": 13.34,
+                "windSpeed": 10.17835,
+                "windDirection": 167,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-07-01T09:00:00+00:00",
-                "temperature": 16.74,
-                "windSpeed": 15.166860000000002,
-                "windDirection": 249,
-                "shortForecast": "light rain"
+                "startTime": "2026-07-01T21:00:00+00:00",
+                "temperature": 10.74,
+                "windSpeed": 10.7376,
+                "windDirection": 152,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Late morning finds Osborne Park under a sullen sky. The sun keeps its distance, thinned to a pewter glow behind steady cloud; UV remains low for midwinter, and there\u2019s almost no glare. The air is cool and clean, the view a little softened at the edges, as if the day has been washed in watercolor and left to dry too soon.\n\nLight rain is expected through the early and then late afternoon, the lingering, fine sort that freckles pavements and makes the roads shine. Pleasant in a quiet, reflective way, more subdued than bleak. Dress in layers with a light rain jacket and shoes that won\u2019t mind wet crossings; tuck a small umbrella in your bag if you like unhurried walks between showers. Good hours for modest errands, a calm coffee by a window, a library drop-off, or neatening a drawer that\u2019s been dodging your attention. If you\u2019re out, aim to finish by midafternoon before the next band drifts through; if you\u2019re in, let the soft patter set the afternoon\u2019s tempo.",
-    "color_code": "#6D7A88",
-    "timestamp": "2026-07-01 11:26:34",
+    "weather_report": "Subiaco settles into a damp hush this late evening, the sky thickening like charcoal felt. Pavements hold a faint sheen, and the air carries that clean, metallic promise of rain. Stars are mostly gone behind the lid of cloud, so there\u2019s little glow to the night; expect no real sunshine and effectively no UV to worry about until well after dawn.\n\nToward the small hours a light rain is likely to drift through, easing to a quilt of overcast by early morning. The day ahead looks muted and soft-edged, with the sun shy behind a steady ceiling of cloud and UV staying modest unless the sky surprises with a brief tear in the gray. Dress for damp: a light rain jacket, comfortable layers, shoes that don\u2019t mind puddles, and an umbrella if you like unhurried walks. It\u2019s weather for quiet, useful things: tidy the last corners of the day, set out tomorrow\u2019s bag, brew something warm, then sleep to the patter. At first light, a short tram or bus ride beats the bike; drop by the bakery or the library when they open, and let the muted light set a slower, steadier tempo.",
+    "color_code": "#3E4A59",
+    "timestamp": "2026-07-01 23:38:20",
     "location": {
-        "name": "Osborne Park",
-        "latitude": -31.90815912744526,
-        "longitude": 115.8017959316954,
+        "name": "Subiaco",
+        "latitude": -31.94970039733845,
+        "longitude": 115.8207592639593,
         "timezone": "Australia/Perth"
     }
 }
