@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "West Perth",
+            "name": "Osborne Park",
             "country": "AU",
-            "latitude": -31.95235822591434,
-            "longitude": 115.8482648889174
+            "latitude": -31.90815912744526,
+            "longitude": 115.8017959316954
         },
         "current_conditions": {
-            "timestamp": "2026-06-30T15:21:43+00:00",
-            "temperature_c": 12.08,
-            "temperature_f": 53.744,
-            "humidity": 74,
-            "wind_speed_mph": 8.970369999999999,
-            "wind_direction": 194,
+            "timestamp": "2026-07-01T03:26:34+00:00",
+            "temperature_c": 17.36,
+            "temperature_f": 63.248000000000005,
+            "humidity": 76,
+            "wind_speed_mph": 15.994550000000002,
+            "wind_direction": 360,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-06-30T18:00:00+00:00",
-                "temperature": 12.78,
-                "windSpeed": 10.424420000000001,
-                "windDirection": 244,
+                "startTime": "2026-07-01T06:00:00+00:00",
+                "temperature": 17.3,
+                "windSpeed": 18.00785,
+                "windDirection": 243,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-06-30T21:00:00+00:00",
-                "temperature": 14.92,
-                "windSpeed": 15.994550000000002,
-                "windDirection": 239,
+                "startTime": "2026-07-01T09:00:00+00:00",
+                "temperature": 16.74,
+                "windSpeed": 15.166860000000002,
+                "windDirection": 249,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "West Perth settles into a quiet, damp hush near midnight, the sky drawn over with a thick woolen cloud that hides the stars and softens the streetlights. The air feels cool and a touch salty, and the night has that gentle promise of rain that makes footsteps sound closer to the ground. Expect light showers to arrive in the small hours and loiter toward dawn, so the morning will open grey and slightly blurred at the edges, more watercolor than line drawing. Sunshine will be scarce early, with UV essentially nil until after sunrise and likely low through the first part of the day, only nudging higher if the cloud thins.\n\nIt\u2019s a night for a light waterproof layer on the hook by the door and closed shoes ready for puddles; tomorrow, a compact umbrella and a soft mid-layer will serve you better than bravado. The day may not feel bright, but it will be gentle: good for a slow tram to work with a warm cup in hand, a quiet lap around the neighborhood between showers, or a tidy of the desk while the windows bead with rain. If the clouds do fracture later, take a brief stroll to catch that rare, silvery sun, but don\u2019t count on it.",
-    "color_code": "#2E3A47",
-    "timestamp": "2026-06-30 23:23:44",
+    "weather_report": "Late morning finds Osborne Park under a sullen sky. The sun keeps its distance, thinned to a pewter glow behind steady cloud; UV remains low for midwinter, and there\u2019s almost no glare. The air is cool and clean, the view a little softened at the edges, as if the day has been washed in watercolor and left to dry too soon.\n\nLight rain is expected through the early and then late afternoon, the lingering, fine sort that freckles pavements and makes the roads shine. Pleasant in a quiet, reflective way, more subdued than bleak. Dress in layers with a light rain jacket and shoes that won\u2019t mind wet crossings; tuck a small umbrella in your bag if you like unhurried walks between showers. Good hours for modest errands, a calm coffee by a window, a library drop-off, or neatening a drawer that\u2019s been dodging your attention. If you\u2019re out, aim to finish by midafternoon before the next band drifts through; if you\u2019re in, let the soft patter set the afternoon\u2019s tempo.",
+    "color_code": "#6D7A88",
+    "timestamp": "2026-07-01 11:26:34",
     "location": {
-        "name": "West Perth",
-        "latitude": -31.95235822591434,
-        "longitude": 115.8482648889174,
+        "name": "Osborne Park",
+        "latitude": -31.90815912744526,
+        "longitude": 115.8017959316954,
         "timezone": "Australia/Perth"
     }
 }
