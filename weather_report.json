@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "West Perth",
             "country": "AU",
-            "latitude": -31.94968292472658,
-            "longitude": 115.8208466519423
+            "latitude": -31.9546337453639,
+            "longitude": 115.8468803363726
         },
         "current_conditions": {
-            "timestamp": "2026-07-02T15:11:39+00:00",
-            "temperature_c": 13.65,
-            "temperature_f": 56.57,
-            "humidity": 71,
-            "wind_speed_mph": 1.99093,
-            "wind_direction": 150,
+            "timestamp": "2026-07-03T02:35:18+00:00",
+            "temperature_c": 14.52,
+            "temperature_f": 58.136,
+            "humidity": 69,
+            "wind_speed_mph": 2.99758,
+            "wind_direction": 102,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-07-02T18:00:00+00:00",
-                "temperature": 13.26,
-                "windSpeed": 5.122730000000001,
-                "windDirection": 122,
+                "startTime": "2026-07-03T03:00:00+00:00",
+                "temperature": 14.36,
+                "windSpeed": 9.44014,
+                "windDirection": 77,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-07-02T21:00:00+00:00",
-                "temperature": 12.92,
-                "windSpeed": 5.90568,
-                "windDirection": 100,
-                "shortForecast": "few clouds"
+                "startTime": "2026-07-03T06:00:00+00:00",
+                "temperature": 15.48,
+                "windSpeed": 8.45586,
+                "windDirection": 64,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a clear, ink-blue night. Earlier the sky stood open and clean; now a few unhurried clouds wander across it, leaving the stars mostly unbothered. Sunshine is a memory and the UV bite has slipped to nothing, so the darkness feels gentle and uncomplicated, the air clear enough to read the quiet geometry of rooftops and streetlights.\n\nThrough the rest of tonight, expect the same easy clarity: calm skies, no theatrics. It reads as a pleasant night rather than a bold one; take a light layer if you step out, something comfortable for an unhurried loop around the block or a pause on the balcony. Good hours for a short walk to unspool the day, to set out tomorrow\u2019s bag by the door, or to let some cool air drift through the rooms while the town softens to a hush.",
-    "color_code": "#0b1e3a",
-    "timestamp": "2026-07-02 23:11:40",
+    "weather_report": "West Perth wakes to a clean, high-blue morning; the kind of winter sun that sharpens edges and coaxes warmth out of cool air. By mid-morning the sky is unmarked, light pours across verandas and sandstone, and the breeze feels brisk only in the shade. The day looks lucid and dry, with bright, unbroken sunshine into early afternoon; UV will be modest for winter but it still pricks at midday, worth a touch of sunscreen and a brim.\n\nDress in easy layers: a soft sweater or light jacket you can shrug off when the sun settles on your shoulders, sunglasses for the glare, and a hat if you linger outdoors. It\u2019s a fine day for ordinary pleasures done slowly\u2014an amble through Kings Park, a coffee on a sunny stoop, errands on foot, a short ride to the market, or tending balcony plants while the light is kind. If you\u2019d rather be indoors, slip into a quiet gallery, then step back into the crystalline air and let the afternoon carry you home.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-07-03 10:35:21",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968292472658,
-        "longitude": 115.8208466519423,
+        "name": "West Perth",
+        "latitude": -31.9546337453639,
+        "longitude": 115.8468803363726,
         "timezone": "Australia/Perth"
     }
 }
