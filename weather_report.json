@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "West Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9546337453639,
-            "longitude": 115.8468803363726
+            "latitude": -31.94969281175325,
+            "longitude": 115.820630950763
         },
         "current_conditions": {
-            "timestamp": "2026-07-03T02:35:18+00:00",
-            "temperature_c": 14.52,
-            "temperature_f": 58.136,
-            "humidity": 69,
-            "wind_speed_mph": 2.99758,
-            "wind_direction": 102,
+            "timestamp": "2026-07-03T15:07:21+00:00",
+            "temperature_c": 11.4,
+            "temperature_f": 52.52,
+            "humidity": 78,
+            "wind_speed_mph": 1.00665,
+            "wind_direction": 97,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-07-03T03:00:00+00:00",
-                "temperature": 14.36,
-                "windSpeed": 9.44014,
-                "windDirection": 77,
+                "startTime": "2026-07-03T18:00:00+00:00",
+                "temperature": 11.69,
+                "windSpeed": 11.87847,
+                "windDirection": 64,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-07-03T06:00:00+00:00",
-                "temperature": 15.48,
-                "windSpeed": 8.45586,
-                "windDirection": 64,
+                "startTime": "2026-07-03T21:00:00+00:00",
+                "temperature": 11.72,
+                "windSpeed": 12.79564,
+                "windDirection": 60,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "West Perth wakes to a clean, high-blue morning; the kind of winter sun that sharpens edges and coaxes warmth out of cool air. By mid-morning the sky is unmarked, light pours across verandas and sandstone, and the breeze feels brisk only in the shade. The day looks lucid and dry, with bright, unbroken sunshine into early afternoon; UV will be modest for winter but it still pricks at midday, worth a touch of sunscreen and a brim.\n\nDress in easy layers: a soft sweater or light jacket you can shrug off when the sun settles on your shoulders, sunglasses for the glare, and a hat if you linger outdoors. It\u2019s a fine day for ordinary pleasures done slowly\u2014an amble through Kings Park, a coffee on a sunny stoop, errands on foot, a short ride to the market, or tending balcony plants while the light is kind. If you\u2019d rather be indoors, slip into a quiet gallery, then step back into the crystalline air and let the afternoon carry you home.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-07-03 10:35:21",
+    "weather_report": "Subiaco settles under a clean, untroubled sky tonight, the kind that sharpens stars and quiets the streets. The air leans cool and dry, and the horizon feels far away and well-defined. Toward dawn the clarity holds, and the day should open bright and largely cloudless; sunshine will be steady rather than fierce, with UV low early and only climbing to a modest bite around midday, the sort of midwinter light that flatters color and edges. It looks like a pleasant, uncomplicated day.\n\nDress in calm layers: a soft jumper for the cool start, a light jacket if you\u2019re out before the birds, and sunglasses for the crisp glare by late morning; a hat helps if you linger outdoors at midday. Tonight invites a short, unhurried walk or a breath on the balcony. After sunrise, think small and satisfying: a stroll to the bakery, a bike ride for early errands, washing the car while the light is kind, tending to the garden or a book by a bright window. The air\u2019s clarity makes everything feel a bit more precise, and the day seems made for getting ordinary things done without hurry.",
+    "color_code": "#0B1D3A",
+    "timestamp": "2026-07-03 23:07:22",
     "location": {
-        "name": "West Perth",
-        "latitude": -31.9546337453639,
-        "longitude": 115.8468803363726,
+        "name": "Subiaco",
+        "latitude": -31.94969281175325,
+        "longitude": 115.820630950763,
         "timezone": "Australia/Perth"
     }
 }
