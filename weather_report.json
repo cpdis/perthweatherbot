@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Fremantle",
             "country": "AU",
-            "latitude": -31.94969755894506,
-            "longitude": 115.8207869995924
+            "latitude": -32.05312685738758,
+            "longitude": 115.7418881121487
         },
         "current_conditions": {
-            "timestamp": "2026-07-04T02:32:25+00:00",
-            "temperature_c": 15.49,
-            "temperature_f": 59.882,
-            "humidity": 62,
+            "timestamp": "2026-07-04T14:25:56+00:00",
+            "temperature_c": 13.77,
+            "temperature_f": 56.786,
+            "humidity": 75,
             "wind_speed_mph": 5.99516,
-            "wind_direction": 73,
+            "wind_direction": 51,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-07-04T03:00:00+00:00",
-                "temperature": 15.49,
-                "windSpeed": 14.876050000000001,
-                "windDirection": 39,
+                "startTime": "2026-07-04T15:00:00+00:00",
+                "temperature": 13.77,
+                "windSpeed": 12.95223,
+                "windDirection": 42,
                 "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-07-04T06:00:00+00:00",
-                "temperature": 16.26,
-                "windSpeed": 13.377260000000001,
-                "windDirection": 24,
+                "startTime": "2026-07-04T18:00:00+00:00",
+                "temperature": 14.15,
+                "windSpeed": 15.077380000000002,
+                "windDirection": 33,
                 "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a pewter lid of cloud, the light gentle and even, shadows washed away. The sun keeps to itself and the UV stays subdued, likely only nudging up a little around midday despite the cover. Visibility is fine but softened at the edges, the kind of gray that hushes the streets and makes colors look like they\u2019ve been rinsed in cool water. It feels calm rather than bleak, a day for easy pacing rather than urgency.\n\nExpect the blanket of cloud to linger through the day, with little chance of bright breaks. Dress in light layers and a soft jacket; you won\u2019t need sunglasses, though a dab of sunscreen never hurts if you\u2019ll be out around lunch. It\u2019s pleasant in a muted way: good for a slow wander to the bakery, a browse through a bookshop, ticking off a few errands, or a quiet loop through a nearby park where the paths feel contemplative and the air smells clean.",
-    "color_code": "#A3ABB5",
-    "timestamp": "2026-07-04 10:32:26",
+    "weather_report": "Fremantle settles under a seamless lid of cloud tonight, the harbor lights smudged and patient, the air cool with a salt edge. There\u2019s no sun to be found now and the UV risk is essentially nil; clarity is muted, objects softened at the margins as if sketched in graphite. Expect the overcast to loiter through the late hours, a quiet ceiling that evens out the light and hushes the mood.\n\nDress for a gentle chill: a light jacket or warm layer, closed shoes, maybe a beanie if you linger outside. With the sky sealed, brightness will be scarce until morning; if the cloud holds after dawn, daylight should stay soft and low-glare, though a brief break could still let July sun nip at exposed skin, so check again at first light. These are good hours for unhurried things: a slow wander past the sleeping boats to watch the cranes wink, a last cup from a corner cafe if the lights are still on, or simply clearing a surface and lining up tomorrow\u2019s small tasks before turning in.",
+    "color_code": "#2B303A",
+    "timestamp": "2026-07-04 22:25:56",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94969755894506,
-        "longitude": 115.8207869995924,
+        "name": "Fremantle",
+        "latitude": -32.05312685738758,
+        "longitude": 115.7418881121487,
         "timezone": "Australia/Perth"
     }
 }

@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-06-27 10:46:20",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967285076665,
-      "longitude": 115.8208350439187,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-06-27T02:46:19+00:00",
-      "temperature_c": 17.14,
-      "temperature_f": 62.852,
-      "humidity": 66,
-      "wind_speed_mph": 2.99758,
-      "wind_direction": 256,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Subiaco wakes under a pewter sky, the light gentled and cool, the air smelling faintly of wet stone....",
-    "color_code": "#778899"
-  },
-  {
     "timestamp": "2026-06-27 22:26:25",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco wakes under a pewter lid of cloud, the light gentle and even, shadows washed away. The sun k...",
     "color_code": "#A3ABB5"
+  },
+  {
+    "timestamp": "2026-07-04 22:25:56",
+    "location": {
+      "name": "Fremantle",
+      "latitude": -32.05312685738758,
+      "longitude": 115.7418881121487,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-07-04T14:25:56+00:00",
+      "temperature_c": 13.77,
+      "temperature_f": 56.786,
+      "humidity": 75,
+      "wind_speed_mph": 5.99516,
+      "wind_direction": 51,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Fremantle settles under a seamless lid of cloud tonight, the harbor lights smudged and patient, the ...",
+    "color_code": "#2B303A"
   }
 ]
