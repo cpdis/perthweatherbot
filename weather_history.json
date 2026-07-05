@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-06-27 22:26:25",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9497150335437,
-      "longitude": 115.8207341685603,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-06-27T14:26:24+00:00",
-      "temperature_c": 15.13,
-      "temperature_f": 59.234,
-      "humidity": 84,
-      "wind_speed_mph": 23.041100000000004,
-      "wind_direction": 244,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Subiaco settles into a damp hush tonight, streets shining like wet slate as light rain drifts in and...",
-    "color_code": "#2B3A4A"
-  },
-  {
     "timestamp": "2026-06-28 11:26:11",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Fremantle settles under a seamless lid of cloud tonight, the harbor lights smudged and patient, the ...",
     "color_code": "#2B303A"
+  },
+  {
+    "timestamp": "2026-07-05 10:42:34",
+    "location": {
+      "name": "West Leederville",
+      "latitude": -31.93159741081808,
+      "longitude": 115.83459554648,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-07-05T02:42:33+00:00",
+      "temperature_c": 16.31,
+      "temperature_f": 61.358,
+      "humidity": 59,
+      "wind_speed_mph": 7.00181,
+      "wind_direction": 23,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Late morning in West Leederville rests under a solid, pewter lid of cloud, the light milk-washed and...",
+    "color_code": "#a6adb5"
   }
 ]

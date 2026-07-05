@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Fremantle",
+            "name": "West Leederville",
             "country": "AU",
-            "latitude": -32.05312685738758,
-            "longitude": 115.7418881121487
+            "latitude": -31.93159741081808,
+            "longitude": 115.83459554648
         },
         "current_conditions": {
-            "timestamp": "2026-07-04T14:25:56+00:00",
-            "temperature_c": 13.77,
-            "temperature_f": 56.786,
-            "humidity": 75,
-            "wind_speed_mph": 5.99516,
-            "wind_direction": 51,
+            "timestamp": "2026-07-05T02:42:33+00:00",
+            "temperature_c": 16.31,
+            "temperature_f": 61.358,
+            "humidity": 59,
+            "wind_speed_mph": 7.00181,
+            "wind_direction": 23,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-07-04T15:00:00+00:00",
-                "temperature": 13.77,
-                "windSpeed": 12.95223,
-                "windDirection": 42,
+                "startTime": "2026-07-05T03:00:00+00:00",
+                "temperature": 16.31,
+                "windSpeed": 11.565290000000001,
+                "windDirection": 350,
                 "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-07-04T18:00:00+00:00",
-                "temperature": 14.15,
-                "windSpeed": 15.077380000000002,
-                "windDirection": 33,
+                "startTime": "2026-07-05T06:00:00+00:00",
+                "temperature": 16.79,
+                "windSpeed": 11.8561,
+                "windDirection": 349,
                 "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Fremantle settles under a seamless lid of cloud tonight, the harbor lights smudged and patient, the air cool with a salt edge. There\u2019s no sun to be found now and the UV risk is essentially nil; clarity is muted, objects softened at the margins as if sketched in graphite. Expect the overcast to loiter through the late hours, a quiet ceiling that evens out the light and hushes the mood.\n\nDress for a gentle chill: a light jacket or warm layer, closed shoes, maybe a beanie if you linger outside. With the sky sealed, brightness will be scarce until morning; if the cloud holds after dawn, daylight should stay soft and low-glare, though a brief break could still let July sun nip at exposed skin, so check again at first light. These are good hours for unhurried things: a slow wander past the sleeping boats to watch the cranes wink, a last cup from a corner cafe if the lights are still on, or simply clearing a surface and lining up tomorrow\u2019s small tasks before turning in.",
-    "color_code": "#2B303A",
-    "timestamp": "2026-07-04 22:25:56",
+    "weather_report": "Late morning in West Leederville rests under a solid, pewter lid of cloud, the light milk-washed and gentle, shadows erased. Expect the gray to linger into the afternoon, keeping the day cool and even-tempered rather than dour. Sunshine will be largely withheld; UV stays on the low side for winter thanks to the blanket above, so only a modest dab of sunscreen is needed if you\u2019re out around midday. The air is clear but the world looks softened at the edges, as if seen through fine muslin\u2014good visibility without the sparkle. It\u2019s quietly agreeable weather for unhurried errands and small pleasures: a loop by Lake Monger to stretch the legs, a late coffee with a notebook, a tidy of the week\u2019s paperwork, or a train into the city for an hour of browsing. Dress in light layers\u2014a long-sleeve and a soft jacket you can unbutton\u2014comfortable shoes, and perhaps a thin windbreaker if you\u2019re cycling. Leave the umbrella; the clouds feel contemplative rather than ominous.",
+    "color_code": "#a6adb5",
+    "timestamp": "2026-07-05 10:42:34",
     "location": {
-        "name": "Fremantle",
-        "latitude": -32.05312685738758,
-        "longitude": 115.7418881121487,
+        "name": "West Leederville",
+        "latitude": -31.93159741081808,
+        "longitude": 115.83459554648,
         "timezone": "Australia/Perth"
     }
 }
