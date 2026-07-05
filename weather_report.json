@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "West Leederville",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.93159741081808,
-            "longitude": 115.83459554648
+            "latitude": -31.94968659283067,
+            "longitude": 115.8206393550411
         },
         "current_conditions": {
-            "timestamp": "2026-07-05T02:42:33+00:00",
-            "temperature_c": 16.31,
-            "temperature_f": 61.358,
-            "humidity": 59,
-            "wind_speed_mph": 7.00181,
-            "wind_direction": 23,
-            "description": "overcast clouds"
+            "timestamp": "2026-07-05T14:38:15+00:00",
+            "temperature_c": 14.04,
+            "temperature_f": 57.272,
+            "humidity": 94,
+            "wind_speed_mph": 1.00665,
+            "wind_direction": 111,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-07-05T03:00:00+00:00",
-                "temperature": 16.31,
-                "windSpeed": 11.565290000000001,
-                "windDirection": 350,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-07-05T15:00:00+00:00",
+                "temperature": 14.04,
+                "windSpeed": 7.78476,
+                "windDirection": 25,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-07-05T06:00:00+00:00",
-                "temperature": 16.79,
-                "windSpeed": 11.8561,
-                "windDirection": 349,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-07-05T18:00:00+00:00",
+                "temperature": 13.88,
+                "windSpeed": 6.84522,
+                "windDirection": 30,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late morning in West Leederville rests under a solid, pewter lid of cloud, the light milk-washed and gentle, shadows erased. Expect the gray to linger into the afternoon, keeping the day cool and even-tempered rather than dour. Sunshine will be largely withheld; UV stays on the low side for winter thanks to the blanket above, so only a modest dab of sunscreen is needed if you\u2019re out around midday. The air is clear but the world looks softened at the edges, as if seen through fine muslin\u2014good visibility without the sparkle. It\u2019s quietly agreeable weather for unhurried errands and small pleasures: a loop by Lake Monger to stretch the legs, a late coffee with a notebook, a tidy of the week\u2019s paperwork, or a train into the city for an hour of browsing. Dress in light layers\u2014a long-sleeve and a soft jacket you can unbutton\u2014comfortable shoes, and perhaps a thin windbreaker if you\u2019re cycling. Leave the umbrella; the clouds feel contemplative rather than ominous.",
-    "color_code": "#a6adb5",
-    "timestamp": "2026-07-05 10:42:34",
+    "weather_report": "Subiaco settles into a damp, low-lit hush; clouds have rolled in and the first light rain is edging closer to town. Streetlights turn the wet bitumen into small rivers of pewter, and the air feels soft and cool. There will be no sunshine to speak of tonight, and the UV index is all but asleep; visibility is trimmed by drizzle and murk, a quiet curtain that makes everything feel nearer and slower. Showers look set to pass through around midnight and into the small hours, never fierce, just persistent enough to gloss the leaves and drum a gentle tempo on awnings.\n\nDress for a mild soak rather than a storm: a light rain jacket or hooded coat, shoes with grip you don\u2019t mind wetting, and an umbrella if you prefer to keep your spectacles dry. It\u2019s a night for small, companionable tasks\u2014wipe the bike chain, sort tomorrow\u2019s bag, brew something warm, or take a short, reflective stroll under the shopfront eaves if you need fresh air. Roads will be slick, so unhurried steps suit the mood best.",
+    "color_code": "#2C3E50",
+    "timestamp": "2026-07-05 22:38:16",
     "location": {
-        "name": "West Leederville",
-        "latitude": -31.93159741081808,
-        "longitude": 115.83459554648,
+        "name": "Subiaco",
+        "latitude": -31.94968659283067,
+        "longitude": 115.8206393550411,
         "timezone": "Australia/Perth"
     }
 }

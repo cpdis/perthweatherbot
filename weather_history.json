@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28 11:26:11",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969746492194,
-      "longitude": 115.8207686772262,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-06-28T03:26:11+00:00",
-      "temperature_c": 18.74,
-      "temperature_f": 65.732,
-      "humidity": 69,
-      "wind_speed_mph": 5.99516,
-      "wind_direction": 254,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Subiaco wakes under a gentle, persistent rain, the streets rinsed and quiet, the hills smudged in a ...",
-    "color_code": "#7f8fa3"
-  },
-  {
     "timestamp": "2026-06-28 22:46:21",
     "location": {
       "name": "Karrakatta",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Late morning in West Leederville rests under a solid, pewter lid of cloud, the light milk-washed and...",
     "color_code": "#a6adb5"
+  },
+  {
+    "timestamp": "2026-07-05 22:38:16",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968659283067,
+      "longitude": 115.8206393550411,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-07-05T14:38:15+00:00",
+      "temperature_c": 14.04,
+      "temperature_f": 57.272,
+      "humidity": 94,
+      "wind_speed_mph": 1.00665,
+      "wind_direction": 111,
+      "description": "broken clouds"
+    },
+    "report_summary": "Subiaco settles into a damp, low-lit hush; clouds have rolled in and the first light rain is edging ...",
+    "color_code": "#2C3E50"
   }
 ]
