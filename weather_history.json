@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28 22:46:21",
-    "location": {
-      "name": "Karrakatta",
-      "latitude": -31.96524803333333,
-      "longitude": 115.80056035,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-06-28T14:46:21+00:00",
-      "temperature_c": 14.49,
-      "temperature_f": 58.082,
-      "humidity": 89,
-      "wind_speed_mph": 13.55622,
-      "wind_direction": 242,
-      "description": "light rain"
-    },
-    "report_summary": "Night has settled over Karrakatta with a quiet stipple of light rain, the kind that turns footpaths ...",
-    "color_code": "#2E3B4E"
-  },
-  {
     "timestamp": "2026-06-29 11:31:11",
     "location": {
       "name": "Scarborough",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco settles into a damp, low-lit hush; clouds have rolled in and the first light rain is edging ...",
     "color_code": "#2C3E50"
+  },
+  {
+    "timestamp": "2026-07-06 10:48:05",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969399905832,
+      "longitude": 115.8207909720642,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-07-06T02:48:05+00:00",
+      "temperature_c": 15.77,
+      "temperature_f": 60.386,
+      "humidity": 86,
+      "wind_speed_mph": 2.99758,
+      "wind_direction": 92,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Subiaco wakes under a quiet lid of cloud, the light softened to a gentle pewter that flatters brick ...",
+    "color_code": "#A9B3C1"
   }
 ]
