@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-06-29 11:31:11",
-    "location": {
-      "name": "Scarborough",
-      "latitude": -31.89973276759391,
-      "longitude": 115.7682047775171,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-06-29T03:31:11+00:00",
-      "temperature_c": 15.48,
-      "temperature_f": 59.864,
-      "humidity": 85,
-      "wind_speed_mph": 5.99516,
-      "wind_direction": 360,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Late morning finds Scarborough rinsed and reflective: pavements dark as slate, windows pearled with ...",
-    "color_code": "#6b7c8b"
-  },
-  {
     "timestamp": "2026-06-30 00:36:44",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco wakes under a quiet lid of cloud, the light softened to a gentle pewter that flatters brick ...",
     "color_code": "#A9B3C1"
+  },
+  {
+    "timestamp": "2026-07-07 00:16:48",
+    "location": {
+      "name": "East Perth",
+      "latitude": -31.96380628956294,
+      "longitude": 115.8776185864668,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-07-06T16:16:48+00:00",
+      "temperature_c": 12.53,
+      "temperature_f": 54.554,
+      "humidity": 88,
+      "wind_speed_mph": 5.32406,
+      "wind_direction": 104,
+      "description": "clear sky"
+    },
+    "report_summary": "Just past midnight in East Perth, the sky is an ink-blue window, clear and unwavering, with starligh...",
+    "color_code": "#0d1b2a"
   }
 ]
