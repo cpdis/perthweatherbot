@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "East Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.96380628956294,
-            "longitude": 115.8776185864668
+            "latitude": -31.94969029866112,
+            "longitude": 115.8207929191018
         },
         "current_conditions": {
-            "timestamp": "2026-07-06T16:16:48+00:00",
-            "temperature_c": 12.53,
-            "temperature_f": 54.554,
-            "humidity": 88,
-            "wind_speed_mph": 5.32406,
-            "wind_direction": 104,
+            "timestamp": "2026-07-07T02:43:09+00:00",
+            "temperature_c": 16.07,
+            "temperature_f": 60.926,
+            "humidity": 75,
+            "wind_speed_mph": 1.00665,
+            "wind_direction": 111,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-07-06T18:00:00+00:00",
-                "temperature": 12.44,
-                "windSpeed": 5.88331,
-                "windDirection": 99,
+                "startTime": "2026-07-07T03:00:00+00:00",
+                "temperature": 16.07,
+                "windSpeed": 3.60157,
+                "windDirection": 91,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-07-06T21:00:00+00:00",
-                "temperature": 12.7,
-                "windSpeed": 4.72007,
-                "windDirection": 94,
+                "startTime": "2026-07-07T06:00:00+00:00",
+                "temperature": 18.46,
+                "windSpeed": 1.20798,
+                "windDirection": 245,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Just past midnight in East Perth, the sky is an ink-blue window, clear and unwavering, with starlight sharp enough to feel like frost. The air is cool and uncomplicated; visibility is excellent, and the UV is asleep. Forecasts keep the heavens clear through the small hours, promising a neat, untroubled lead-in to dawn.\n\nExpect a lucid sunrise and a sun that steps in quietly, brightening the morning without drama. UV will start low and rise steadily after the first hour of light, so pack sunglasses and a touch of sunscreen if you\u2019ll linger outdoors later in the morning. Dress in calm layers: a warm jumper or light jacket now, something you can loosen to a long-sleeve as the day shakes off the chill. It looks pleasantly crisp rather than balmy\u2014good for a brief star-peek on the porch, setting tomorrow\u2019s list over tea, or an early walk along the river to catch the first gleam on the water; cyclists and walkers will find the air clean and kind to lungs, if a little nippy around the ears.",
-    "color_code": "#0d1b2a",
-    "timestamp": "2026-07-07 00:16:48",
+    "weather_report": "Late morning in Subiaco arrives clean and bright, the sky rinsed to a calm, glassy blue. The air feels crisp in the shade but genial where the sun finds you, and visibility is sharp enough to read the day\u2019s small print on distant rooftops. Forecasts keep the canvas clear through early afternoon, so light pours steadily rather than flaring and fading. UV should be modest for winter yet not trivial near midday; sunglasses and a dab of sunscreen won\u2019t be out of place. It\u2019s pleasant in a quiet, purposeful way\u2014sun-warmed footpaths, cool pockets under verandahs, a breeze that edits rather than rewrites the scene.\n\nDress in easy layers: a soft sweater or light jacket over a tee, with something you can unbutton when the sun leans in. This is a day for unhurried errands on foot, a coffee taken outside, airing linens, or a short wander to a patch of green to let the mind unspool. If you have a small task that needs daylight\u2014a bike tune-up, a pot of herbs to rehome\u2014the sky grants permission. By afternoon the light will stay honest and clear, good for getting things done without rushing.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-07-07 10:43:09",
     "location": {
-        "name": "East Perth",
-        "latitude": -31.96380628956294,
-        "longitude": 115.8776185864668,
+        "name": "Subiaco",
+        "latitude": -31.94969029866112,
+        "longitude": 115.8207929191018,
         "timezone": "Australia/Perth"
     }
 }
