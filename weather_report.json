@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94969029866112,
-            "longitude": 115.8207929191018
+            "latitude": -31.95847387211326,
+            "longitude": 115.8581620404021
         },
         "current_conditions": {
-            "timestamp": "2026-07-07T02:43:09+00:00",
-            "temperature_c": 16.07,
-            "temperature_f": 60.926,
-            "humidity": 75,
-            "wind_speed_mph": 1.00665,
-            "wind_direction": 111,
-            "description": "clear sky"
+            "timestamp": "2026-07-07T15:34:33+00:00",
+            "temperature_c": 12.29,
+            "temperature_f": 54.122,
+            "humidity": 87,
+            "wind_speed_mph": 4.78718,
+            "wind_direction": 78,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-07-07T03:00:00+00:00",
-                "temperature": 16.07,
-                "windSpeed": 3.60157,
-                "windDirection": 91,
-                "shortForecast": "clear sky"
+                "startTime": "2026-07-07T18:00:00+00:00",
+                "temperature": 12.06,
+                "windSpeed": 5.54776,
+                "windDirection": 55,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2026-07-07T06:00:00+00:00",
-                "temperature": 18.46,
-                "windSpeed": 1.20798,
-                "windDirection": 245,
-                "shortForecast": "clear sky"
+                "startTime": "2026-07-07T21:00:00+00:00",
+                "temperature": 11.5,
+                "windSpeed": 5.055619999999999,
+                "windDirection": 58,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Late morning in Subiaco arrives clean and bright, the sky rinsed to a calm, glassy blue. The air feels crisp in the shade but genial where the sun finds you, and visibility is sharp enough to read the day\u2019s small print on distant rooftops. Forecasts keep the canvas clear through early afternoon, so light pours steadily rather than flaring and fading. UV should be modest for winter yet not trivial near midday; sunglasses and a dab of sunscreen won\u2019t be out of place. It\u2019s pleasant in a quiet, purposeful way\u2014sun-warmed footpaths, cool pockets under verandahs, a breeze that edits rather than rewrites the scene.\n\nDress in easy layers: a soft sweater or light jacket over a tee, with something you can unbutton when the sun leans in. This is a day for unhurried errands on foot, a coffee taken outside, airing linens, or a short wander to a patch of green to let the mind unspool. If you have a small task that needs daylight\u2014a bike tune-up, a pot of herbs to rehome\u2014the sky grants permission. By afternoon the light will stay honest and clear, good for getting things done without rushing.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-07-07 10:43:09",
+    "weather_report": "Perth settles into a quiet, crystalline night, the sky mostly open with just a few clouds wandering past the stars. It feels clean and unhurried out there, the kind of late hour that makes the streetlights seem gentler and the air a touch sharper. Through the small hours and toward dawn, the pattern holds: a largely clear sky, no real fuss, just a calm prelude to morning.\n\nOnce the sun lifts, expect a bright, mostly sunny day with only thin patches of cloud and good, honest visibility. The light should feel kind rather than fierce; the UV index will stay low early and build to a modest bite by midday, enough to justify sunglasses and a little sunscreen if you linger outdoors. It looks pleasantly crisp, cooler in the shade, so dress in easy layers\u2014a light jacket to start, something you can shrug off when the sun warms the pavements. For now, a quiet cup by the window or a short stroll is just right; come morning, a gentle ride to the shops, a tidy in the garden, or reading in a sunny corner will match the day\u2019s clear, unhurried mood.",
+    "color_code": "#0D2A4E",
+    "timestamp": "2026-07-07 23:41:36",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94969029866112,
-        "longitude": 115.8207929191018,
+        "name": "Perth",
+        "latitude": -31.95847387211326,
+        "longitude": 115.8581620404021,
         "timezone": "Australia/Perth"
     }
 }
