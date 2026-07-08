@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Wembley",
             "country": "AU",
-            "latitude": -31.95847387211326,
-            "longitude": 115.8581620404021
+            "latitude": -31.93089783454064,
+            "longitude": 115.811413571823
         },
         "current_conditions": {
-            "timestamp": "2026-07-07T15:34:33+00:00",
-            "temperature_c": 12.29,
-            "temperature_f": 54.122,
-            "humidity": 87,
-            "wind_speed_mph": 4.78718,
-            "wind_direction": 78,
-            "description": "few clouds"
+            "timestamp": "2026-07-08T02:21:59+00:00",
+            "temperature_c": 17.35,
+            "temperature_f": 63.230000000000004,
+            "humidity": 67,
+            "wind_speed_mph": 7.359730000000001,
+            "wind_direction": 23,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-07-07T18:00:00+00:00",
-                "temperature": 12.06,
-                "windSpeed": 5.54776,
-                "windDirection": 55,
-                "shortForecast": "few clouds"
+                "startTime": "2026-07-08T03:00:00+00:00",
+                "temperature": 17.35,
+                "windSpeed": 6.82285,
+                "windDirection": 7,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2026-07-07T21:00:00+00:00",
-                "temperature": 11.5,
-                "windSpeed": 5.055619999999999,
-                "windDirection": 58,
-                "shortForecast": "few clouds"
+                "startTime": "2026-07-08T06:00:00+00:00",
+                "temperature": 18.45,
+                "windSpeed": 7.18077,
+                "windDirection": 302,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Perth settles into a quiet, crystalline night, the sky mostly open with just a few clouds wandering past the stars. It feels clean and unhurried out there, the kind of late hour that makes the streetlights seem gentler and the air a touch sharper. Through the small hours and toward dawn, the pattern holds: a largely clear sky, no real fuss, just a calm prelude to morning.\n\nOnce the sun lifts, expect a bright, mostly sunny day with only thin patches of cloud and good, honest visibility. The light should feel kind rather than fierce; the UV index will stay low early and build to a modest bite by midday, enough to justify sunglasses and a little sunscreen if you linger outdoors. It looks pleasantly crisp, cooler in the shade, so dress in easy layers\u2014a light jacket to start, something you can shrug off when the sun warms the pavements. For now, a quiet cup by the window or a short stroll is just right; come morning, a gentle ride to the shops, a tidy in the garden, or reading in a sunny corner will match the day\u2019s clear, unhurried mood.",
-    "color_code": "#0D2A4E",
-    "timestamp": "2026-07-07 23:41:36",
+    "weather_report": "Late morning in Wembley arrives with a shy sun pressing through scattered clouds, the light clean and gentle, edges on buildings drawn in crisp relief. The day looks clear and settled, the sort where shadows come and go as the sky rearranges itself. UV will build toward the middle of the day, not fierce but persuasive enough to ask for sunglasses and a quick brush of sunscreen if you linger. It feels like a day made for ease.\n\nExpect the afternoon to keep this rhythm of bright spells and passing cloud, pleasant for moving about without breaking a sweat. Dress in light layers\u2014breathable shirt, a cardigan or thin jacket you can forget on the back of a chair\u2014and comfortable shoes for unhurried errands. A short walk to pick up fruit, a quiet lap around the park, or tending to balcony plants would fit the mood; later, a window-side lunch or a book on a bench while the sun winks in and out. The sort of weather that doesn\u2019t demand attention, only rewards it.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-07-08 10:22:00",
     "location": {
-        "name": "Perth",
-        "latitude": -31.95847387211326,
-        "longitude": 115.8581620404021,
+        "name": "Wembley",
+        "latitude": -31.93089783454064,
+        "longitude": 115.811413571823,
         "timezone": "Australia/Perth"
     }
 }
