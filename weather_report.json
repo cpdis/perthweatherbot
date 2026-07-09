@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94968783467989,
-            "longitude": 115.8207974929185
+            "latitude": -31.9541671361005,
+            "longitude": 115.8524853130079
         },
         "current_conditions": {
-            "timestamp": "2026-07-09T02:35:12+00:00",
-            "temperature_c": 17.04,
-            "temperature_f": 62.672,
-            "humidity": 64,
-            "wind_speed_mph": 7.628170000000001,
-            "wind_direction": 11,
+            "timestamp": "2026-07-09T15:54:06+00:00",
+            "temperature_c": 15.26,
+            "temperature_f": 59.468,
+            "humidity": 89,
+            "wind_speed_mph": 6.241230000000001,
+            "wind_direction": 234,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-07-09T03:00:00+00:00",
-                "temperature": 17.04,
-                "windSpeed": 7.628170000000001,
-                "windDirection": 11,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-07-09T18:00:00+00:00",
+                "temperature": 14.37,
+                "windSpeed": 5.010880000000001,
+                "windDirection": 208,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-07-09T06:00:00+00:00",
-                "temperature": 18.81,
-                "windSpeed": 8.79141,
-                "windDirection": 322,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-07-09T21:00:00+00:00",
+                "temperature": 12.77,
+                "windSpeed": 4.6977,
+                "windDirection": 174,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a quiet lid of cloud, the light soft and forgiving, shadows barely mustering the courage to appear. It feels like a gentle winter morning: cool on the cheeks, muted in tone, easy on the eyes. The sun stays veiled for now, so brightness will be limited and the UV index subdued\u2014likely low, though if you loiter outdoors around midday, a little sunscreen still makes sense. The air has that clean, silvery clarity where edges blur and colors become tasteful, understated versions of themselves.\n\nExpect the overcast mood to hold through the afternoon, with only a modest chance of the ceiling thinning for a brief, brighter episode. It\u2019s a pleasant day if you dress with simple intention: a light sweater and a jacket, maybe a scarf for comfort, nothing too heavy. This is good weather for ordinary luxuries\u2014walking to pick up fresh bread, a slow browse in the bookshop, a quiet corner at a caf\u00e9, or a relaxed loop through Kings Park where the flat light flatters every leaf. Photographers will enjoy the even tone; runners and errand\u2011doers will appreciate the calm. Plans need no bravado, just a steady cadence.",
-    "color_code": "#7f8a94",
-    "timestamp": "2026-07-09 10:35:12",
+    "weather_report": "Perth settles into a damp, whispering night. Light rain drifts through the small hours, softening streetlights and dulling the edges of things; the sky feels low, a pocket of charcoal and pewter. Sunshine is absent now and will be shy at first light, with the UV essentially asleep until any breaks appear later. Expect a muted, hazy dawn with the patter easing at times, the air smelling clean and a little sea-salted, clarity restrained by lingering cloud.\n\nIt looks gently unpleasant for lingering outdoors yet oddly comforting for small, ordinary rituals. A light waterproof, closed shoes, and a compact umbrella will suit the early start; swap to a breathable layer if the clouds thin later, when the UV may rise from low to something modest. Good hours for unhurried tasks: queue a podcast while tidying the kitchen, write an overdue note, prep tomorrow\u2019s lunch, or take a short, reflective walk between showers if you don\u2019t mind the drizzle. Commuters should leave a touch early; cyclists, check the lights and fenders.",
+    "color_code": "#3B4C5A",
+    "timestamp": "2026-07-09 23:54:09",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968783467989,
-        "longitude": 115.8207974929185,
+        "name": "Perth",
+        "latitude": -31.9541671361005,
+        "longitude": 115.8524853130079,
         "timezone": "Australia/Perth"
     }
 }
