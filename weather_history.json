@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2026-07-01 11:26:34",
-    "location": {
-      "name": "Osborne Park",
-      "latitude": -31.90815912744526,
-      "longitude": 115.8017959316954,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-07-01T03:26:34+00:00",
-      "temperature_c": 17.36,
-      "temperature_f": 63.248000000000005,
-      "humidity": 76,
-      "wind_speed_mph": 15.994550000000002,
-      "wind_direction": 360,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Late morning finds Osborne Park under a sullen sky. The sun keeps its distance, thinned to a pewter ...",
-    "color_code": "#6D7A88"
-  },
-  {
-    "timestamp": "2026-07-01 23:38:20",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970039733845,
-      "longitude": 115.8207592639593,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-07-01T15:38:20+00:00",
-      "temperature_c": 14.33,
-      "temperature_f": 57.794,
-      "humidity": 91,
-      "wind_speed_mph": 10.066500000000001,
-      "wind_direction": 160,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Subiaco settles into a damp hush this late evening, the sky thickening like charcoal felt. Pavements...",
-    "color_code": "#3E4A59"
-  },
-  {
     "timestamp": "2026-07-02 10:52:20",
     "location": {
       "name": "Subiaco",
@@ -298,5 +258,25 @@
     },
     "report_summary": "Late morning in Wembley arrives with a shy sun pressing through scattered clouds, the light clean an...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-07-09 10:35:12",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968783467989,
+      "longitude": 115.8207974929185,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-07-09T02:35:12+00:00",
+      "temperature_c": 17.04,
+      "temperature_f": 62.672,
+      "humidity": 64,
+      "wind_speed_mph": 7.628170000000001,
+      "wind_direction": 11,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Subiaco wakes under a quiet lid of cloud, the light soft and forgiving, shadows barely mustering the...",
+    "color_code": "#7f8a94"
   }
 ]
