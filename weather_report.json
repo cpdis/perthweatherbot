@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Wembley",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.92563337278144,
-            "longitude": 115.8146315035336
+            "latitude": -31.95215528253916,
+            "longitude": 115.8532964217285
         },
         "current_conditions": {
-            "timestamp": "2026-07-15T02:02:27+00:00",
-            "temperature_c": 18.92,
-            "temperature_f": 66.05600000000001,
-            "humidity": 46,
-            "wind_speed_mph": 5.010880000000001,
-            "wind_direction": 18,
+            "timestamp": "2026-07-15T14:44:59+00:00",
+            "temperature_c": 17.22,
+            "temperature_f": 62.995999999999995,
+            "humidity": 59,
+            "wind_speed_mph": 1.00665,
+            "wind_direction": 30,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-07-15T03:00:00+00:00",
-                "temperature": 18.92,
-                "windSpeed": 14.47339,
-                "windDirection": 21,
+                "startTime": "2026-07-15T15:00:00+00:00",
+                "temperature": 17.22,
+                "windSpeed": 9.12696,
+                "windDirection": 22,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-07-15T06:00:00+00:00",
-                "temperature": 20.35,
-                "windSpeed": 14.29443,
-                "windDirection": 1,
-                "shortForecast": "clear sky"
+                "startTime": "2026-07-15T18:00:00+00:00",
+                "temperature": 16.76,
+                "windSpeed": 11.31922,
+                "windDirection": 17,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "A cloudless dawn has ripened into a clean, open morning over Wembley; by now the sky is a calm, unbroken blue and the light draws crisp edges on rooftops. It feels dry and uncomplicated, visibility long and clear. The sun already has some bite, and with midsummer angles it will sharpen toward midday, so the UV will climb quickly even if the breeze feels gentle.\n\nExpect a bright, straightforward day, especially through the late morning, with plenty of sunshine and a pleasantly warm touch that flatters short sleeves and light fabrics. Sunglasses and a dab of sunscreen will serve you well; bring a hat if you plan to linger. It\u2019s a fine window for watering balcony plants, hanging fresh laundry, walking to the shops, or taking a late-morning coffee on a quiet bench in speckled shade. If you\u2019re deskbound, crack a window and let the blue drift in, then steal a short stroll at lunch when the light is at its boldest.",
-    "color_code": "#87CEFA",
-    "timestamp": "2026-07-15 10:02:28",
+    "weather_report": "Perth settles into a clear, quiet night, the sky mostly untroubled and the air feeling clean around the edges. Stars have the stage now, with only a few clouds expected to drift in after midnight; visibility should be crisp and the world sharply outlined under streetlamps. With the sun long gone, UV is essentially nil, and the night reads as pleasant rather than punishing\u2014calm, dry, and a touch wintry.\n\nDress for an easy chill: a light jacket or warm jumper for a late errand or a gentle stroll, something you can pocket if you quicken your pace. It\u2019s a good night to walk the dog around the block, tend to the balcony herbs, or linger on the porch with a cup of tea and a notebook while the city softens. Toward dawn, the few clouds may haze the horizon, but the morning should still arrive bright enough; expect sunshine after sunrise and plan the sunscreen once the day gathers itself.",
+    "color_code": "#0a1e3a",
+    "timestamp": "2026-07-15 22:45:01",
     "location": {
-        "name": "Wembley",
-        "latitude": -31.92563337278144,
-        "longitude": 115.8146315035336,
+        "name": "Perth",
+        "latitude": -31.95215528253916,
+        "longitude": 115.8532964217285,
         "timezone": "Australia/Perth"
     }
 }
