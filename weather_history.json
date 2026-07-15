@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-07-07 23:41:36",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95847387211326,
-      "longitude": 115.8581620404021,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-07-07T15:34:33+00:00",
-      "temperature_c": 12.29,
-      "temperature_f": 54.122,
-      "humidity": 87,
-      "wind_speed_mph": 4.78718,
-      "wind_direction": 78,
-      "description": "few clouds"
-    },
-    "report_summary": "Perth settles into a quiet, crystalline night, the sky mostly open with just a few clouds wandering ...",
-    "color_code": "#0D2A4E"
-  },
-  {
     "timestamp": "2026-07-08 10:22:00",
     "location": {
       "name": "Wembley",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Subiaco settles under a clean, uncomplicated sky tonight, the sort of clear that sharpens the silhou...",
     "color_code": "#0A2140"
+  },
+  {
+    "timestamp": "2026-07-15 10:02:28",
+    "location": {
+      "name": "Wembley",
+      "latitude": -31.92563337278144,
+      "longitude": 115.8146315035336,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-07-15T02:02:27+00:00",
+      "temperature_c": 18.92,
+      "temperature_f": 66.05600000000001,
+      "humidity": 46,
+      "wind_speed_mph": 5.010880000000001,
+      "wind_direction": 18,
+      "description": "clear sky"
+    },
+    "report_summary": "A cloudless dawn has ripened into a clean, open morning over Wembley; by now the sky is a calm, unbr...",
+    "color_code": "#87CEFA"
   }
 ]
