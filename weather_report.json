@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94968771810728,
-            "longitude": 115.8207919215501
+            "latitude": -31.94969402012024,
+            "longitude": 115.8206717657428
         },
         "current_conditions": {
-            "timestamp": "2026-07-16T02:11:25+00:00",
-            "temperature_c": 21,
-            "temperature_f": 69.8,
-            "humidity": 53,
-            "wind_speed_mph": 4.004230000000001,
-            "wind_direction": 13,
-            "description": "overcast clouds"
+            "timestamp": "2026-07-16T14:57:25+00:00",
+            "temperature_c": 17.32,
+            "temperature_f": 63.176,
+            "humidity": 92,
+            "wind_speed_mph": 6.39782,
+            "wind_direction": 233,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-07-16T03:00:00+00:00",
-                "temperature": 21,
-                "windSpeed": 14.00362,
-                "windDirection": 354,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-07-16T15:00:00+00:00",
+                "temperature": 17.32,
+                "windSpeed": 6.39782,
+                "windDirection": 233,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-07-16T06:00:00+00:00",
-                "temperature": 21.87,
-                "windSpeed": 19.73034,
-                "windDirection": 327,
+                "startTime": "2026-07-16T18:00:00+00:00",
+                "temperature": 17.32,
+                "windSpeed": 4.98851,
+                "windDirection": 233,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Mid-morning in Subiaco feels hushed, the light pressed flat beneath a soft, unbroken lid of cloud. The sun is mostly absent, a pale rumor at best, and the UV stays low under this winter blanket. The day has that diffused, pewter clarity where edges soften and colors turn thoughtful; expect the overcast to hold through late morning, with a light, needling rain likely to arrive in the early afternoon.\n\nIt\u2019s a day for patience and small comforts. Dress in easy layers with a light rain jacket, shoes that won\u2019t mind damp pavements, and a compact umbrella for the midday drift of showers. Good weather for unhurried errands, a quiet hour at the library, or a caf\u00e9 window seat to watch the street gloss over. Take a short, contemplative walk between sprinkles if you like, then let the afternoon taper into something gentle and indoors.",
-    "color_code": "#7A8691",
-    "timestamp": "2026-07-16 10:11:26",
+    "weather_report": "Late evening settles over Subiaco with a hush and the light tap of rain on roofs. Showers drift through now and again toward the small hours, muting the streets and giving the air that clean, rain-washed scent. Sunshine has bowed out for the night; UV is negligible until after sunrise, and any early brightness will have to push through leftover cloud. The scene is soft-focus rather than clear-cut: puddles mirror the lamps, edges blur, and the world feels closer, quieter, a touch melancholy but gentle.\n\nIt\u2019s a night for a light waterproof and sturdy shoes, maybe a hood instead of the umbrella if you prefer hands free. Keep plans modest: a quick dash for milk under the shop awnings, a short saunter to enjoy the patter, or head home to simmer something unhurried while you sort tomorrow\u2019s list. If you\u2019re out late, expect the rain to keep you company; if you\u2019re in, let it score the evening like a calm, steady drumbeat.",
+    "color_code": "#2E3B4E",
+    "timestamp": "2026-07-16 22:57:26",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94968771810728,
-        "longitude": 115.8207919215501,
+        "latitude": -31.94969402012024,
+        "longitude": 115.8206717657428,
         "timezone": "Australia/Perth"
     }
 }
