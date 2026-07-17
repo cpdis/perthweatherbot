@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "West Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95431711563263,
-            "longitude": 115.8472556186128
+            "latitude": -31.94969651932084,
+            "longitude": 115.8208819058131
         },
         "current_conditions": {
-            "timestamp": "2026-07-17T02:14:55+00:00",
-            "temperature_c": 17.28,
-            "temperature_f": 63.104,
-            "humidity": 93,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 45,
-            "description": "broken clouds"
+            "timestamp": "2026-07-17T14:39:25+00:00",
+            "temperature_c": 17.12,
+            "temperature_f": 62.816,
+            "humidity": 74,
+            "wind_speed_mph": 2.99758,
+            "wind_direction": 297,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-07-17T03:00:00+00:00",
-                "temperature": 17.13,
-                "windSpeed": 7.314990000000001,
-                "windDirection": 24,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-07-17T15:00:00+00:00",
+                "temperature": 17.12,
+                "windSpeed": 14.13784,
+                "windDirection": 310,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-07-17T06:00:00+00:00",
-                "temperature": 18.73,
-                "windSpeed": 11.00604,
-                "windDirection": 352,
+                "startTime": "2026-07-17T18:00:00+00:00",
+                "temperature": 16.81,
+                "windSpeed": 16.57617,
+                "windDirection": 318,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late morning settles over West Perth with a sky of broken porcelain, the sun showing its face in brief, gentle shards. The air feels cool and clean, visibility good but with softened edges, and the UV stays modest for winter, further tamed by the cloud. It\u2019s a day of quiet light rather than sparkle, the kind where shadows are slow and the city moves without hurry.\n\nToward midday the clouds thicken, and by early afternoon a light, obliging rain is likely to arrive, the kind that beads on sleeves and hushes the traffic. It looks pleasantly workable, if not exactly bright. Dress in light layers with a rain shell at the ready; shoes that don\u2019t mind wet pavements will be appreciated, and sunglasses can rest the day out. Enjoy a late-morning loop through Harold Boas Gardens or a quick dash for groceries before the showers, then trade to indoor comforts after lunch: a chapter at the library, a quiet hour sorting the week\u2019s papers, a simple simmering soup. If you must be out, an umbrella will make the city feel smaller and kinder.",
-    "color_code": "#6E7F91",
-    "timestamp": "2026-07-17 10:14:58",
+    "weather_report": "Subiaco settles under a damp hush tonight, the sky sealed by low cloud and the air carrying that rain-on-pavement scent. Light showers are edging in before midnight and likely to linger into the small hours, softening the glow of streetlights and blurring the edges of the evening. There\u2019s no sunshine to speak of now and the UV index is essentially nil; even come dawn, the day will likely wake muted rather than bright. Clarity is gentle rather than crisp, with the world reduced to closer distances and the pleasant patter of rain.\n\nIt\u2019s a quietly comfortable sort of weather if you dress for it: a light waterproof with a hood, closed shoes, and a warm layer for the coolness. A compact umbrella wouldn\u2019t go astray, and cyclists will appreciate lights and a splash guard. This is a night for unhurried, ordinary comforts\u2014straighten the desk, set out tomorrow\u2019s kit, water the plants, or take a short stroll under the shop awnings and listen to the gutters talk. If you\u2019re heading home late, give the slick pavements their due respect and let the rain set the tempo.",
+    "color_code": "#2C3E50",
+    "timestamp": "2026-07-17 22:39:26",
     "location": {
-        "name": "West Perth",
-        "latitude": -31.95431711563263,
-        "longitude": 115.8472556186128,
+        "name": "Subiaco",
+        "latitude": -31.94969651932084,
+        "longitude": 115.8208819058131,
         "timezone": "Australia/Perth"
     }
 }
