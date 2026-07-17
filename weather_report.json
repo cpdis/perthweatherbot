@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "West Perth",
             "country": "AU",
-            "latitude": -31.94969402012024,
-            "longitude": 115.8206717657428
+            "latitude": -31.95431711563263,
+            "longitude": 115.8472556186128
         },
         "current_conditions": {
-            "timestamp": "2026-07-16T14:57:25+00:00",
-            "temperature_c": 17.32,
-            "temperature_f": 63.176,
-            "humidity": 92,
-            "wind_speed_mph": 6.39782,
-            "wind_direction": 233,
+            "timestamp": "2026-07-17T02:14:55+00:00",
+            "temperature_c": 17.28,
+            "temperature_f": 63.104,
+            "humidity": 93,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 45,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-07-16T15:00:00+00:00",
-                "temperature": 17.32,
-                "windSpeed": 6.39782,
-                "windDirection": 233,
-                "shortForecast": "light rain"
+                "startTime": "2026-07-17T03:00:00+00:00",
+                "temperature": 17.13,
+                "windSpeed": 7.314990000000001,
+                "windDirection": 24,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-07-16T18:00:00+00:00",
-                "temperature": 17.32,
-                "windSpeed": 4.98851,
-                "windDirection": 233,
+                "startTime": "2026-07-17T06:00:00+00:00",
+                "temperature": 18.73,
+                "windSpeed": 11.00604,
+                "windDirection": 352,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late evening settles over Subiaco with a hush and the light tap of rain on roofs. Showers drift through now and again toward the small hours, muting the streets and giving the air that clean, rain-washed scent. Sunshine has bowed out for the night; UV is negligible until after sunrise, and any early brightness will have to push through leftover cloud. The scene is soft-focus rather than clear-cut: puddles mirror the lamps, edges blur, and the world feels closer, quieter, a touch melancholy but gentle.\n\nIt\u2019s a night for a light waterproof and sturdy shoes, maybe a hood instead of the umbrella if you prefer hands free. Keep plans modest: a quick dash for milk under the shop awnings, a short saunter to enjoy the patter, or head home to simmer something unhurried while you sort tomorrow\u2019s list. If you\u2019re out late, expect the rain to keep you company; if you\u2019re in, let it score the evening like a calm, steady drumbeat.",
-    "color_code": "#2E3B4E",
-    "timestamp": "2026-07-16 22:57:26",
+    "weather_report": "Late morning settles over West Perth with a sky of broken porcelain, the sun showing its face in brief, gentle shards. The air feels cool and clean, visibility good but with softened edges, and the UV stays modest for winter, further tamed by the cloud. It\u2019s a day of quiet light rather than sparkle, the kind where shadows are slow and the city moves without hurry.\n\nToward midday the clouds thicken, and by early afternoon a light, obliging rain is likely to arrive, the kind that beads on sleeves and hushes the traffic. It looks pleasantly workable, if not exactly bright. Dress in light layers with a rain shell at the ready; shoes that don\u2019t mind wet pavements will be appreciated, and sunglasses can rest the day out. Enjoy a late-morning loop through Harold Boas Gardens or a quick dash for groceries before the showers, then trade to indoor comforts after lunch: a chapter at the library, a quiet hour sorting the week\u2019s papers, a simple simmering soup. If you must be out, an umbrella will make the city feel smaller and kinder.",
+    "color_code": "#6E7F91",
+    "timestamp": "2026-07-17 10:14:58",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94969402012024,
-        "longitude": 115.8206717657428,
+        "name": "West Perth",
+        "latitude": -31.95431711563263,
+        "longitude": 115.8472556186128,
         "timezone": "Australia/Perth"
     }
 }
