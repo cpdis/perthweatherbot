@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Mount Hawthorn",
             "country": "AU",
-            "latitude": -31.94970026495468,
-            "longitude": 115.820754061553
+            "latitude": -31.92364254260423,
+            "longitude": 115.841128434989
         },
         "current_conditions": {
-            "timestamp": "2026-07-18T02:04:07+00:00",
-            "temperature_c": 17.27,
-            "temperature_f": 63.086,
-            "humidity": 66,
-            "wind_speed_mph": 2.99758,
-            "wind_direction": 252,
+            "timestamp": "2026-07-18T14:18:27+00:00",
+            "temperature_c": 12.94,
+            "temperature_f": 55.292,
+            "humidity": 80,
+            "wind_speed_mph": 7.3821,
+            "wind_direction": 260,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-07-18T03:00:00+00:00",
-                "temperature": 17.27,
-                "windSpeed": 16.48669,
+                "startTime": "2026-07-18T15:00:00+00:00",
+                "temperature": 12.94,
+                "windSpeed": 6.77811,
                 "windDirection": 263,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-07-18T06:00:00+00:00",
-                "temperature": 17.12,
-                "windSpeed": 13.847030000000002,
-                "windDirection": 276,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-07-18T18:00:00+00:00",
+                "temperature": 13.4,
+                "windSpeed": 5.70435,
+                "windDirection": 253,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late morning in Subiaco arrives under a low, pewter sky, the kind that turns edges soft and quiets the streets. A light rain tiptoed through before dawn, leaving the air damp and the day gently dim; the sun stays veiled behind overcast, offering brightness without glare. UV should be muted for winter beneath this blanket, though the midday hours can still carry a small sting if you linger outdoors. It feels more contemplative than crisp, clear enough to see your errands through, but with colors washed to a calm palette.\n\nExpect the grey to hold through the day with only brief hints of brightening; a stray sprinkle wouldn\u2019t be a surprise given the mood. Dress in comfortable layers and a light, rain-friendly jacket, closed shoes that forgive puddles, and keep a compact umbrella tucked away; a dab of sunscreen at lunch won\u2019t go astray. Good weather for unhurried plans: a window seat and a warm cup while you read a few pages, a browse through a quiet shop, or a measured stroll down familiar streets to clear the mind before the afternoon settles in.",
-    "color_code": "#8c9aa3",
-    "timestamp": "2026-07-18 10:04:08",
+    "weather_report": "Mount Hawthorn settles into a cool, damp hush tonight, the sky sealed with low cloud and that clean scent that comes just before rain. Light showers are due to arrive around late evening and drift on into the small hours, more a soft patter than a performance. Sunshine is finished for the day and the UV sits near zero; streetlights glaze the footpaths, and edges blur into a gentle haloed world. It\u2019s not a dramatic night, but a quietly persuasive one.\n\nExpect a mostly grey, lightly showery stretch rather than downpours. It will feel decent enough for a brief stroll if you\u2019ve a hooded jacket and shoes that don\u2019t mind puddles; a thin layer beneath will keep the chill from sneaking in. If you\u2019re out on a bike, bring lights and a spray shell. Otherwise, it\u2019s a night for small, unhurried things: steep some tea, put on a slow record, sort tomorrow\u2019s bag, or read a few pages while the rain ticks at the eaves. If you need an errand, slip to the corner shop before the showers thicken, then let the weather do the talking.",
+    "color_code": "#2E3B4E",
+    "timestamp": "2026-07-18 22:18:28",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94970026495468,
-        "longitude": 115.820754061553,
+        "name": "Mount Hawthorn",
+        "latitude": -31.92364254260423,
+        "longitude": 115.841128434989,
         "timezone": "Australia/Perth"
     }
 }
