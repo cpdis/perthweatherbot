@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "South Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9660997152224,
-            "longitude": 115.8458134053731
+            "latitude": -31.94966016160206,
+            "longitude": 115.8207337953388
         },
         "current_conditions": {
-            "timestamp": "2026-07-19T02:20:45+00:00",
-            "temperature_c": 14.73,
-            "temperature_f": 58.513999999999996,
-            "humidity": 84,
-            "wind_speed_mph": 1.99093,
-            "wind_direction": 62,
-            "description": "overcast clouds"
+            "timestamp": "2026-07-19T14:22:01+00:00",
+            "temperature_c": 11.36,
+            "temperature_f": 52.448,
+            "humidity": 86,
+            "wind_speed_mph": 4.6977,
+            "wind_direction": 134,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-07-19T03:00:00+00:00",
-                "temperature": 14.73,
-                "windSpeed": 3.24365,
-                "windDirection": 201,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-07-19T15:00:00+00:00",
+                "temperature": 11.36,
+                "windSpeed": 4.29504,
+                "windDirection": 128,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-07-19T06:00:00+00:00",
-                "temperature": 15.11,
-                "windSpeed": 3.8029,
-                "windDirection": 250,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-07-19T18:00:00+00:00",
+                "temperature": 11.66,
+                "windSpeed": 3.60157,
+                "windDirection": 109,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "South Perth wakes under a single quilt of cloud, the light soft and silvery, the river a sheet of brushed steel. The sun will be a rumor more than a presence today, with the UV index staying low beneath the overcast, and the clarity of the air steady but muted, shadows barely forming. Expect the blanket to linger from late morning through the afternoon; it\u2019s a quietly pleasant day if you like your colors desaturated and your thoughts unhurried.\n\nDress for a mild winter chill: a light sweater or layered shirt under a windproof jacket, comfortable shoes, and perhaps a scarf if you linger by the water. With the sun hiding, a hat is optional, sunscreen mostly unnecessary unless you\u2019re particularly sensitive. It\u2019s a good time for an unhurried lap along the foreshore, a coffee on Mends Street while watching the ferry stitch its patient route, or a quick visit to pick up fresh bread and fruit for later. Indoors, a museum browse or a tidy of the balcony plants suits the mood. The day won\u2019t sparkle, but it carries a gentle hush that makes small tasks feel quietly noble.",
-    "color_code": "#A3A9B0",
-    "timestamp": "2026-07-19 10:20:46",
+    "weather_report": "Subiaco settles into a quiet, cloudless night; the kind of clean sky that makes the streetlights feel almost ceremonial. The air reads as crisp and untroubled, edges sharp, no haze, no threat, just a violet stillness above. With clear conditions holding, visibility is excellent and the world seems neatly outlined.\n\nThe forecast keeps it clear through late evening and after midnight. Sunshine, when it returns, should be unfiltered and bright; UV is negligible now but will rise once the sun is high, so consider sunglasses and a touch of sunscreen if you\u2019ll linger outdoors at midday. For the moment, a light jacket or soft knit will serve; by day, comfortable layers and breathable fabrics suit the clarity. This is good weather for small, ordinary pleasures: a gentle stroll to loosen the day from your shoulders, a few minutes of stargazing at the edge of the driveway, finishing a chapter on the porch, or tidying tomorrow\u2019s list with a calm mind.",
+    "color_code": "#0B1E3B",
+    "timestamp": "2026-07-19 22:22:02",
     "location": {
-        "name": "South Perth",
-        "latitude": -31.9660997152224,
-        "longitude": 115.8458134053731,
+        "name": "Subiaco",
+        "latitude": -31.94966016160206,
+        "longitude": 115.8207337953388,
         "timezone": "Australia/Perth"
     }
 }
