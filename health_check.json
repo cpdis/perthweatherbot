@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-18T14:18:24.883716",
+  "timestamp": "2026-07-19T02:20:42.955374",
   "overall_status": "healthy",
   "summary": {
     "total_checks": 5,
@@ -14,7 +14,7 @@
       "details": [
         "OpenWeather API key configured",
         "OpenAI API key configured",
-        "Location: Mount Hawthorn"
+        "Location: South Perth"
       ]
     },
     {
@@ -41,7 +41,7 @@
     {
       "name": "OpenWeather API",
       "status": "healthy",
-      "response_time_ms": 240.126,
+      "response_time_ms": 68.72,
       "details": "HTTP 200"
     }
   ]

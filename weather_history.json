@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-07-11 22:19:49",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94971066704214,
-      "longitude": 115.8206685295651,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-07-11T14:19:48+00:00",
-      "temperature_c": 11.45,
-      "temperature_f": 52.61,
-      "humidity": 81,
-      "wind_speed_mph": 6.39782,
-      "wind_direction": 151,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco settles under a clear, uncomplicated sky tonight, the kind of crystalline darkness that shar...",
-    "color_code": "#0B1E3B"
-  },
-  {
     "timestamp": "2026-07-12 10:23:40",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Mount Hawthorn settles into a cool, damp hush tonight, the sky sealed with low cloud and that clean ...",
     "color_code": "#2E3B4E"
+  },
+  {
+    "timestamp": "2026-07-19 10:20:46",
+    "location": {
+      "name": "South Perth",
+      "latitude": -31.9660997152224,
+      "longitude": 115.8458134053731,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-07-19T02:20:45+00:00",
+      "temperature_c": 14.73,
+      "temperature_f": 58.513999999999996,
+      "humidity": 84,
+      "wind_speed_mph": 1.99093,
+      "wind_direction": 62,
+      "description": "overcast clouds"
+    },
+    "report_summary": "South Perth wakes under a single quilt of cloud, the light soft and silvery, the river a sheet of br...",
+    "color_code": "#A3A9B0"
   }
 ]

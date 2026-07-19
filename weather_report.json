@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Mount Hawthorn",
+            "name": "South Perth",
             "country": "AU",
-            "latitude": -31.92364254260423,
-            "longitude": 115.841128434989
+            "latitude": -31.9660997152224,
+            "longitude": 115.8458134053731
         },
         "current_conditions": {
-            "timestamp": "2026-07-18T14:18:27+00:00",
-            "temperature_c": 12.94,
-            "temperature_f": 55.292,
-            "humidity": 80,
-            "wind_speed_mph": 7.3821,
-            "wind_direction": 260,
+            "timestamp": "2026-07-19T02:20:45+00:00",
+            "temperature_c": 14.73,
+            "temperature_f": 58.513999999999996,
+            "humidity": 84,
+            "wind_speed_mph": 1.99093,
+            "wind_direction": 62,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-07-18T15:00:00+00:00",
-                "temperature": 12.94,
-                "windSpeed": 6.77811,
-                "windDirection": 263,
-                "shortForecast": "light rain"
+                "startTime": "2026-07-19T03:00:00+00:00",
+                "temperature": 14.73,
+                "windSpeed": 3.24365,
+                "windDirection": 201,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-07-18T18:00:00+00:00",
-                "temperature": 13.4,
-                "windSpeed": 5.70435,
-                "windDirection": 253,
-                "shortForecast": "light rain"
+                "startTime": "2026-07-19T06:00:00+00:00",
+                "temperature": 15.11,
+                "windSpeed": 3.8029,
+                "windDirection": 250,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Mount Hawthorn settles into a cool, damp hush tonight, the sky sealed with low cloud and that clean scent that comes just before rain. Light showers are due to arrive around late evening and drift on into the small hours, more a soft patter than a performance. Sunshine is finished for the day and the UV sits near zero; streetlights glaze the footpaths, and edges blur into a gentle haloed world. It\u2019s not a dramatic night, but a quietly persuasive one.\n\nExpect a mostly grey, lightly showery stretch rather than downpours. It will feel decent enough for a brief stroll if you\u2019ve a hooded jacket and shoes that don\u2019t mind puddles; a thin layer beneath will keep the chill from sneaking in. If you\u2019re out on a bike, bring lights and a spray shell. Otherwise, it\u2019s a night for small, unhurried things: steep some tea, put on a slow record, sort tomorrow\u2019s bag, or read a few pages while the rain ticks at the eaves. If you need an errand, slip to the corner shop before the showers thicken, then let the weather do the talking.",
-    "color_code": "#2E3B4E",
-    "timestamp": "2026-07-18 22:18:28",
+    "weather_report": "South Perth wakes under a single quilt of cloud, the light soft and silvery, the river a sheet of brushed steel. The sun will be a rumor more than a presence today, with the UV index staying low beneath the overcast, and the clarity of the air steady but muted, shadows barely forming. Expect the blanket to linger from late morning through the afternoon; it\u2019s a quietly pleasant day if you like your colors desaturated and your thoughts unhurried.\n\nDress for a mild winter chill: a light sweater or layered shirt under a windproof jacket, comfortable shoes, and perhaps a scarf if you linger by the water. With the sun hiding, a hat is optional, sunscreen mostly unnecessary unless you\u2019re particularly sensitive. It\u2019s a good time for an unhurried lap along the foreshore, a coffee on Mends Street while watching the ferry stitch its patient route, or a quick visit to pick up fresh bread and fruit for later. Indoors, a museum browse or a tidy of the balcony plants suits the mood. The day won\u2019t sparkle, but it carries a gentle hush that makes small tasks feel quietly noble.",
+    "color_code": "#A3A9B0",
+    "timestamp": "2026-07-19 10:20:46",
     "location": {
-        "name": "Mount Hawthorn",
-        "latitude": -31.92364254260423,
-        "longitude": 115.841128434989,
+        "name": "South Perth",
+        "latitude": -31.9660997152224,
+        "longitude": 115.8458134053731,
         "timezone": "Australia/Perth"
     }
 }
