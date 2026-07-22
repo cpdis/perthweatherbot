@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-07-14 22:45:28",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9496938450248,
-      "longitude": 115.8206478383554,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-07-14T14:45:27+00:00",
-      "temperature_c": 13.54,
-      "temperature_f": 56.372,
-      "humidity": 65,
-      "wind_speed_mph": 2.99758,
-      "wind_direction": 48,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco settles under a clean, uncomplicated sky tonight, the sort of clear that sharpens the silhou...",
-    "color_code": "#0A2140"
-  },
-  {
     "timestamp": "2026-07-15 10:02:28",
     "location": {
       "name": "Wembley",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Perth settles under a clear, velvet sky tonight, the air cool and clean, stars pricked sharp over th...",
     "color_code": "#0A1A3F"
+  },
+  {
+    "timestamp": "2026-07-22 10:12:42",
+    "location": {
+      "name": "Herdsman",
+      "latitude": -31.90938749137462,
+      "longitude": 115.8021880353087,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-07-22T02:12:41+00:00",
+      "temperature_c": 13.92,
+      "temperature_f": 57.056,
+      "humidity": 60,
+      "wind_speed_mph": 1.99093,
+      "wind_direction": 57,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Herdsman wakes under a clear, winter-blue sky, the sun already rinsing the edges of the lake with a ...",
+    "color_code": "#87CEEB"
   }
 ]

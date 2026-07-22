@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Herdsman",
             "country": "AU",
-            "latitude": -31.95404451223438,
-            "longitude": 115.8526727331217
+            "latitude": -31.90938749137462,
+            "longitude": 115.8021880353087
         },
         "current_conditions": {
-            "timestamp": "2026-07-21T15:00:20+00:00",
-            "temperature_c": 11.67,
-            "temperature_f": 53.006,
-            "humidity": 82,
-            "wind_speed_mph": 6.285970000000001,
-            "wind_direction": 135,
-            "description": "clear sky"
+            "timestamp": "2026-07-22T02:12:41+00:00",
+            "temperature_c": 13.92,
+            "temperature_f": 57.056,
+            "humidity": 60,
+            "wind_speed_mph": 1.99093,
+            "wind_direction": 57,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-07-21T18:00:00+00:00",
-                "temperature": 9.96,
-                "windSpeed": 5.301690000000001,
-                "windDirection": 127,
-                "shortForecast": "clear sky"
+                "startTime": "2026-07-22T03:00:00+00:00",
+                "temperature": 13.92,
+                "windSpeed": 7.33736,
+                "windDirection": 111,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2026-07-21T21:00:00+00:00",
-                "temperature": 7.78,
-                "windSpeed": 5.570130000000001,
-                "windDirection": 126,
-                "shortForecast": "clear sky"
+                "startTime": "2026-07-22T06:00:00+00:00",
+                "temperature": 14.89,
+                "windSpeed": 6.9347,
+                "windDirection": 111,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Perth settles under a clear, velvet sky tonight, the air cool and clean, stars pricked sharp over the quiet suburbs. It feels calm and a touch bracing, the sort of night that makes footsteps sound crisp on the pavement and windows glow warmer by contrast.\n\nOvernight and into dawn, the sky stays cloudless; sunrise should arrive in a bright wash, promising a lucid, blue day with fine visibility and a dry, gentle breeze. The winter sun will be kind rather than fierce, but by midday the UV will still nudge into the sensible range, so a hat and a dab of sunscreen won\u2019t go astray if you linger outdoors. Dress in easy layers: a warm jumper or light jacket for the early chill, something you can peel back to shirtsleeves by afternoon if you keep moving. It looks like a quietly pleasant day for small errands by foot, hanging the washing to drink the air, tending herb pots, a steady bike ride to the shops, or claiming a sunlit table for coffee and a few unhurried pages.",
-    "color_code": "#0A1A3F",
-    "timestamp": "2026-07-21 23:00:23",
+    "weather_report": "Herdsman wakes under a clear, winter-blue sky, the sun already rinsing the edges of the lake with a clean, silvery light. Forecasts for late morning into early afternoon promise only a few stray clouds, so expect long, bright spells and good visibility, the sort of day where reflections look freshly polished. The UV should stay on the gentler side for winter, though it nudges upward around midday, worth a dab of sunscreen if you linger. The air feels crisp rather than harsh, and the day reads as calm, open, and quietly cheerful.\n\nDress in easy layers: a light sweater or jacket over a breathable shirt, sunglasses for the gleam off the water, and comfortable shoes if you\u2019re stretching your legs. It\u2019s a good time to circle the paths at Herdsman Lake, pause for a quiet coffee outdoors, or let the house breathe with the windows ajar while you sort small errands. Gardening, a gentle bike ride, or a book on a sunlit bench would all suit the mood: unhurried, clear-headed, and pleasantly cool.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-07-22 10:12:42",
     "location": {
-        "name": "Perth",
-        "latitude": -31.95404451223438,
-        "longitude": 115.8526727331217,
+        "name": "Herdsman",
+        "latitude": -31.90938749137462,
+        "longitude": 115.8021880353087,
         "timezone": "Australia/Perth"
     }
 }
