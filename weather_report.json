@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Herdsman",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.90938749137462,
-            "longitude": 115.8021880353087
+            "latitude": -31.94968695990084,
+            "longitude": 115.820785353736
         },
         "current_conditions": {
-            "timestamp": "2026-07-22T02:12:41+00:00",
-            "temperature_c": 13.92,
-            "temperature_f": 57.056,
-            "humidity": 60,
-            "wind_speed_mph": 1.99093,
-            "wind_direction": 57,
-            "description": "scattered clouds"
+            "timestamp": "2026-07-22T15:01:08+00:00",
+            "temperature_c": 10.17,
+            "temperature_f": 50.306,
+            "humidity": 78,
+            "wind_speed_mph": 7.6058,
+            "wind_direction": 104,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-07-22T03:00:00+00:00",
-                "temperature": 13.92,
-                "windSpeed": 7.33736,
-                "windDirection": 111,
-                "shortForecast": "few clouds"
+                "startTime": "2026-07-22T18:00:00+00:00",
+                "temperature": 10.53,
+                "windSpeed": 9.52962,
+                "windDirection": 98,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-07-22T06:00:00+00:00",
-                "temperature": 14.89,
-                "windSpeed": 6.9347,
-                "windDirection": 111,
-                "shortForecast": "few clouds"
+                "startTime": "2026-07-22T21:00:00+00:00",
+                "temperature": 10.62,
+                "windSpeed": 10.55864,
+                "windDirection": 89,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Herdsman wakes under a clear, winter-blue sky, the sun already rinsing the edges of the lake with a clean, silvery light. Forecasts for late morning into early afternoon promise only a few stray clouds, so expect long, bright spells and good visibility, the sort of day where reflections look freshly polished. The UV should stay on the gentler side for winter, though it nudges upward around midday, worth a dab of sunscreen if you linger. The air feels crisp rather than harsh, and the day reads as calm, open, and quietly cheerful.\n\nDress in easy layers: a light sweater or jacket over a breathable shirt, sunglasses for the gleam off the water, and comfortable shoes if you\u2019re stretching your legs. It\u2019s a good time to circle the paths at Herdsman Lake, pause for a quiet coffee outdoors, or let the house breathe with the windows ajar while you sort small errands. Gardening, a gentle bike ride, or a book on a sunlit bench would all suit the mood: unhurried, clear-headed, and pleasantly cool.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-07-22 10:12:42",
+    "weather_report": "Near midnight in Subiaco, the sky is scrubbed clean and quietly luminous, the kind of clear that sharpens the edges of rooftops and sets the constellations like pins on velvet. The air reads cool against the skin, still and uncomplicated, and the UV, at this hour, is nothing at all. It\u2019s a night to fetch a cardigan or light jacket if you step out, to breathe and listen to the small sounds a city makes when it thinks no one is watching.\n\nThrough the small hours and toward dawn the forecast keeps it cloudless, so morning is likely to open bright and transparent, the sun gentle but unwavering; UV will start low and rise into the late morning, winter-moderate yet worth a dab of sunscreen if you linger outdoors. Expect a pleasant, crisp feel: layers will serve you well\u2014long sleeves at first, perhaps a scarf before breakfast, easing to something lighter once the day stretches on. Good hours for an unhurried walk to the corner caf\u00e9, a lap around the park before the traffic wakes, or setting out tomorrow\u2019s to-do list at the kitchen table, letting the clear light make easy work feel easier.",
+    "color_code": "#0b1e3a",
+    "timestamp": "2026-07-22 23:01:09",
     "location": {
-        "name": "Herdsman",
-        "latitude": -31.90938749137462,
-        "longitude": 115.8021880353087,
+        "name": "Subiaco",
+        "latitude": -31.94968695990084,
+        "longitude": 115.820785353736,
         "timezone": "Australia/Perth"
     }
 }
