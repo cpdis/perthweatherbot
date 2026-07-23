@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Jolimont",
             "country": "AU",
-            "latitude": -31.94970079994437,
-            "longitude": 115.820754407514
+            "latitude": -31.94237432790221,
+            "longitude": 115.8044757193989
         },
         "current_conditions": {
-            "timestamp": "2026-07-23T02:23:54+00:00",
-            "temperature_c": 13.74,
-            "temperature_f": 56.732,
-            "humidity": 68,
-            "wind_speed_mph": 4.004230000000001,
-            "wind_direction": 59,
+            "timestamp": "2026-07-23T15:05:10+00:00",
+            "temperature_c": 10.83,
+            "temperature_f": 51.494,
+            "humidity": 77,
+            "wind_speed_mph": 1.99093,
+            "wind_direction": 140,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-07-23T03:00:00+00:00",
-                "temperature": 13.74,
-                "windSpeed": 12.61668,
-                "windDirection": 71,
+                "startTime": "2026-07-23T18:00:00+00:00",
+                "temperature": 10.2,
+                "windSpeed": 8.83615,
+                "windDirection": 79,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-07-23T06:00:00+00:00",
-                "temperature": 15.27,
-                "windSpeed": 10.53627,
-                "windDirection": 64,
+                "startTime": "2026-07-23T21:00:00+00:00",
+                "temperature": 8.49,
+                "windSpeed": 9.3954,
+                "windDirection": 63,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Late morning in Subiaco arrives with a rinsed-blue sky and crisp, transparent light that makes verandas and jarrah trunks look newly polished. The forecast holds to clear sky into early afternoon, so expect a bright, cheerful day without the weight of cloud. It\u2019s winter-bright rather than fierce: the sun has warmth in it, but the UV is likely modest to moderate around noon, the sort that invites sunglasses and a dab of sunscreen more than alarm. Air feels clean and uncomplicated, lending the streets a lovely sense of clarity.\n\nThe day looks pleasantly simple: cool enough for a light sweater now, easy to peel to a shirt by early afternoon if you\u2019re walking. A hat for the glare and comfortable shoes will serve you well. With the weather so steady, it\u2019s a good time to run small errands on foot, linger over a coffee by a sunlit window, or give the balcony plants a trim and let the laundry drink in the air. If you\u2019re desk-bound, open a window and let that bright, dry light do its quiet work; if you\u2019re out, a gentle loop through the back streets to pick up bread or a book will feel just right.",
-    "color_code": "#6FAFE0",
-    "timestamp": "2026-07-23 10:23:55",
+    "weather_report": "Jolimont settles into a quiet, crystalline night, the sky swept clean and starlit, the air dry and a little sharp on the cheeks. It feels honest and uncluttered outdoors, the kind of clarity that carries sound and thought a little farther. If you\u2019re still awake, a short amble or a window cracked for cool air suits the hour; otherwise, let the hush do its work.\n\nBy dawn the clarity should hold, a pale winter sun stepping into a clear blue morning. Light will be kind rather than fierce, with the UV staying low; sunglasses are more comfort than armor today. Expect it to feel bright yet brisk. Dress in layers: a warm coat and scarf early, then peel back to a sweater once the sun lifts. It looks like a good day for simple errands on foot, a quiet lap of Fitzroy Gardens, or a tram into the city with a coffee warming your hands. The day invites unhurried tasks and small satisfactions under clean winter light.",
+    "color_code": "#0b1d3a",
+    "timestamp": "2026-07-23 23:05:11",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94970079994437,
-        "longitude": 115.820754407514,
+        "name": "Jolimont",
+        "latitude": -31.94237432790221,
+        "longitude": 115.8044757193989,
         "timezone": "Australia/Perth"
     }
 }
