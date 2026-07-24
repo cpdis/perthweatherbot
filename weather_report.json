@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Jolimont",
+            "name": "Cottesloe",
             "country": "AU",
-            "latitude": -31.94237432790221,
-            "longitude": 115.8044757193989
+            "latitude": -31.99621051926908,
+            "longitude": 115.7527204831676
         },
         "current_conditions": {
-            "timestamp": "2026-07-23T15:05:10+00:00",
-            "temperature_c": 10.83,
-            "temperature_f": 51.494,
-            "humidity": 77,
-            "wind_speed_mph": 1.99093,
-            "wind_direction": 140,
-            "description": "clear sky"
+            "timestamp": "2026-07-24T02:20:58+00:00",
+            "temperature_c": 14.79,
+            "temperature_f": 58.622,
+            "humidity": 57,
+            "wind_speed_mph": 5.99516,
+            "wind_direction": 32,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-07-23T18:00:00+00:00",
-                "temperature": 10.2,
-                "windSpeed": 8.83615,
-                "windDirection": 79,
-                "shortForecast": "clear sky"
+                "startTime": "2026-07-24T03:00:00+00:00",
+                "temperature": 14.79,
+                "windSpeed": 11.67714,
+                "windDirection": 48,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-07-23T21:00:00+00:00",
-                "temperature": 8.49,
-                "windSpeed": 9.3954,
-                "windDirection": 63,
-                "shortForecast": "clear sky"
+                "startTime": "2026-07-24T06:00:00+00:00",
+                "temperature": 15.69,
+                "windSpeed": 9.21644,
+                "windDirection": 45,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Jolimont settles into a quiet, crystalline night, the sky swept clean and starlit, the air dry and a little sharp on the cheeks. It feels honest and uncluttered outdoors, the kind of clarity that carries sound and thought a little farther. If you\u2019re still awake, a short amble or a window cracked for cool air suits the hour; otherwise, let the hush do its work.\n\nBy dawn the clarity should hold, a pale winter sun stepping into a clear blue morning. Light will be kind rather than fierce, with the UV staying low; sunglasses are more comfort than armor today. Expect it to feel bright yet brisk. Dress in layers: a warm coat and scarf early, then peel back to a sweater once the sun lifts. It looks like a good day for simple errands on foot, a quiet lap of Fitzroy Gardens, or a tram into the city with a coffee warming your hands. The day invites unhurried tasks and small satisfactions under clean winter light.",
-    "color_code": "#0b1d3a",
-    "timestamp": "2026-07-23 23:05:11",
+    "weather_report": "Cottesloe wakes under a broad, pewter lid of cloud, the light soft and forgiving, the ocean a quiet slate. Through late morning into midafternoon the overcast holds steady, a day of diffused brightness rather than sunshine. The sun keeps to itself, and with it the UV stays low, perhaps nudging to the safer side of moderate around noon if the deck thins, but never biting. Clarity is gentle and even, shadows erased, the horizon smudged yet calm; a good day for unhurried eyes.\n\nDress in easy layers: a long-sleeve over a tee, something wind-resistant for the beach path, and comfortable shoes that don\u2019t mind damp air. A hat is optional; a dab of sunscreen won\u2019t hurt if you linger by the water. The weather invites modest errands and small rituals\u2014pick up a loaf from the corner bakery, leaf through a book at a window table, tune a bike chain and roll a few quiet kilometres, or take a contemplative stroll along Marine Parade where the sea hums and the day asks nothing more than to be kept company.",
+    "color_code": "#B0B6BF",
+    "timestamp": "2026-07-24 10:20:59",
     "location": {
-        "name": "Jolimont",
-        "latitude": -31.94237432790221,
-        "longitude": 115.8044757193989,
+        "name": "Cottesloe",
+        "latitude": -31.99621051926908,
+        "longitude": 115.7527204831676,
         "timezone": "Australia/Perth"
     }
 }
