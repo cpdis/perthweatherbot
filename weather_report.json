@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Cottesloe",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.99621051926908,
-            "longitude": 115.7527204831676
+            "latitude": -31.94964679321811,
+            "longitude": 115.8208591496166
         },
         "current_conditions": {
-            "timestamp": "2026-07-24T02:20:58+00:00",
-            "temperature_c": 14.79,
-            "temperature_f": 58.622,
-            "humidity": 57,
-            "wind_speed_mph": 5.99516,
-            "wind_direction": 32,
-            "description": "overcast clouds"
+            "timestamp": "2026-07-24T14:51:25+00:00",
+            "temperature_c": 10.59,
+            "temperature_f": 51.062,
+            "humidity": 71,
+            "wind_speed_mph": 7.94135,
+            "wind_direction": 71,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-07-24T03:00:00+00:00",
-                "temperature": 14.79,
-                "windSpeed": 11.67714,
-                "windDirection": 48,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-07-24T15:00:00+00:00",
+                "temperature": 10.59,
+                "windSpeed": 7.94135,
+                "windDirection": 71,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-07-24T06:00:00+00:00",
-                "temperature": 15.69,
-                "windSpeed": 9.21644,
-                "windDirection": 45,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-07-24T18:00:00+00:00",
+                "temperature": 10.24,
+                "windSpeed": 9.6191,
+                "windDirection": 62,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Cottesloe wakes under a broad, pewter lid of cloud, the light soft and forgiving, the ocean a quiet slate. Through late morning into midafternoon the overcast holds steady, a day of diffused brightness rather than sunshine. The sun keeps to itself, and with it the UV stays low, perhaps nudging to the safer side of moderate around noon if the deck thins, but never biting. Clarity is gentle and even, shadows erased, the horizon smudged yet calm; a good day for unhurried eyes.\n\nDress in easy layers: a long-sleeve over a tee, something wind-resistant for the beach path, and comfortable shoes that don\u2019t mind damp air. A hat is optional; a dab of sunscreen won\u2019t hurt if you linger by the water. The weather invites modest errands and small rituals\u2014pick up a loaf from the corner bakery, leaf through a book at a window table, tune a bike chain and roll a few quiet kilometres, or take a contemplative stroll along Marine Parade where the sea hums and the day asks nothing more than to be kept company.",
-    "color_code": "#B0B6BF",
-    "timestamp": "2026-07-24 10:20:59",
+    "weather_report": "Subiaco has slipped into a calm, crystal evening, the kind that makes the streetlights look warmer and the trees a shade more patient. The sky is clean and star-pricked now, with only a few idle clouds expected to wander in after midnight. Sun won\u2019t trouble you until morning; the UV is essentially asleep at this hour, likely modest after sunrise if these clear tendencies hold. The night feels pleasant in that quiet, unhurried way, neither harsh nor heavy.\n\nIf you step outside, a light jacket or soft jumper will do; add a scarf if you linger. It\u2019s a good night for small, ordinary rituals: take a slow turn around the block, water the pots, crack a window and breathe the cool air, lay out tomorrow\u2019s kit so the morning greets you without fuss. If you rise early, expect a bright, gentle start and consider sunglasses in your pocket; even a winter sun can be insistent when the sky is this clear.",
+    "color_code": "#0a1e3a",
+    "timestamp": "2026-07-24 22:51:26",
     "location": {
-        "name": "Cottesloe",
-        "latitude": -31.99621051926908,
-        "longitude": 115.7527204831676,
+        "name": "Subiaco",
+        "latitude": -31.94964679321811,
+        "longitude": 115.8208591496166,
         "timezone": "Australia/Perth"
     }
 }
