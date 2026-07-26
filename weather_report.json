@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Hilton",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -32.06703527892494,
-            "longitude": 115.7826309477597
+            "latitude": -31.94967998104135,
+            "longitude": 115.8208998707254
         },
         "current_conditions": {
-            "timestamp": "2026-07-26T02:25:16+00:00",
-            "temperature_c": 16.44,
-            "temperature_f": 61.592,
+            "timestamp": "2026-07-26T14:26:38+00:00",
+            "temperature_c": 15.22,
+            "temperature_f": 59.396,
             "humidity": 70,
-            "wind_speed_mph": 18.00785,
-            "wind_direction": 238,
+            "wind_speed_mph": 1.99093,
+            "wind_direction": 124,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-07-26T03:00:00+00:00",
-                "temperature": 16.44,
-                "windSpeed": 22.43711,
-                "windDirection": 235,
+                "startTime": "2026-07-26T15:00:00+00:00",
+                "temperature": 15.22,
+                "windSpeed": 12.750900000000001,
+                "windDirection": 194,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-07-26T06:00:00+00:00",
-                "temperature": 16.84,
-                "windSpeed": 18.43288,
-                "windDirection": 230,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-07-26T18:00:00+00:00",
+                "temperature": 14.14,
+                "windSpeed": 9.82043,
+                "windDirection": 159,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Hilton wakes under a quilt of low cloud; the night\u2019s light rain has left the streets dark and fragrant, and by late morning the sky holds steady in a uniform gray. The sun is mostly a rumor behind the overcast, so glare is gentle and the UV index stays muted, perhaps nudging up a little if the ceiling thins toward midday. The day\u2019s clarity is soft rather than sharp; hills look smudged at the edges, colors turned to quieter shades, with the odd fine sprinkle not out of the question.\n\nIt\u2019s a pleasant, contemplative sort of gray\u2014more sweater-weather than storm\u2014so think light layers, breathable long sleeves, and a packable rain shell; comfortable shoes that don\u2019t mind damp pavements, and sunglasses only if a shy bright patch appears. Lean into simple errands and unrushed routines: fetch a library hold, pick up a loaf still warm from the bakery, tighten a loose hinge from the hardware shop, or take a measured stroll beneath trees, listening for the drip from last night\u2019s rain. Windows cracked a little, kettle on, the day invites steady work and small satisfactions rather than grand plans.",
-    "color_code": "#9CA3AF",
-    "timestamp": "2026-07-26 10:25:17",
+    "weather_report": "Subiaco settles into a damp, blue-tinged night. Clouds have moved in and a light rain is due to brush the suburbs around late evening and whisper on into the small hours, softening streetlights and smudging the edges of the horizon. There will be no sun to speak of overnight; the UV index is effectively nil now and likely to stay low at first light if the overcast lingers. Expect a muted, silvery start rather than a bright one, with the day\u2019s clarity subdued by passing showers and a thin, pearly sky.\n\nDress for calm, persistent drizzle: a light waterproof, closed shoes that don\u2019t mind puddles, and an umbrella you don\u2019t have to wrestle with the wind. It\u2019s a night for small comforts and unhurried errands\u2014tidying a corner of the house, prepping tomorrow\u2019s breakfast, or a quiet walk beneath awnings to feel the cool air without the soak. If you\u2019re up late, put on a record or a gentle film and let the rain set the tempo; if you\u2019re turning in, lay out tomorrow\u2019s layers and plan on an easy, low-glare morning.",
+    "color_code": "#2F3E52",
+    "timestamp": "2026-07-26 22:26:39",
     "location": {
-        "name": "Hilton",
-        "latitude": -32.06703527892494,
-        "longitude": 115.7826309477597,
+        "name": "Subiaco",
+        "latitude": -31.94967998104135,
+        "longitude": 115.8208998707254,
         "timezone": "Australia/Perth"
     }
 }
