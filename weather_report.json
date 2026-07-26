@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Hilton",
             "country": "AU",
-            "latitude": -31.94984905005683,
-            "longitude": 115.820780110643
+            "latitude": -32.06703527892494,
+            "longitude": 115.7826309477597
         },
         "current_conditions": {
-            "timestamp": "2026-07-25T14:27:47+00:00",
-            "temperature_c": 13.4,
-            "temperature_f": 56.120000000000005,
-            "humidity": 66,
-            "wind_speed_mph": 1.00665,
-            "wind_direction": 294,
+            "timestamp": "2026-07-26T02:25:16+00:00",
+            "temperature_c": 16.44,
+            "temperature_f": 61.592,
+            "humidity": 70,
+            "wind_speed_mph": 18.00785,
+            "wind_direction": 238,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-07-25T15:00:00+00:00",
-                "temperature": 13.4,
-                "windSpeed": 11.81136,
-                "windDirection": 354,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-07-26T03:00:00+00:00",
+                "temperature": 16.44,
+                "windSpeed": 22.43711,
+                "windDirection": 235,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-07-25T18:00:00+00:00",
-                "temperature": 13.44,
-                "windSpeed": 13.73518,
-                "windDirection": 328,
+                "startTime": "2026-07-26T06:00:00+00:00",
+                "temperature": 16.84,
+                "windSpeed": 18.43288,
+                "windDirection": 230,
                 "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Subiaco settles under a seamless lid of cloud tonight; the sky feels low and matte, the kind that softens edges and hushes the streets. Sunshine is absent and the UV is effectively nil, with the overcast expected to hold through the late evening into the small hours. It\u2019s a dim, uniform night rather than a dramatic one, more cocoon than spectacle, with visibility steady but the world drained of contrast.\n\nIt\u2019s the kind of weather that asks for an easy layer: a light sweater or jacket over comfortable clothes, nothing fussy, just enough to keep the cool from finding your shoulders. If you\u2019re stepping out, think a quiet loop around the block or a short tram ride to pick up a few groceries you forgot; if staying in, brew something warm, sort tomorrow\u2019s bag, fold the last load of washing, or jot a note you\u2019ve been meaning to send. The night doesn\u2019t insist; it simply invites you to take it slow.",
-    "color_code": "#2f3136",
-    "timestamp": "2026-07-25 22:27:48",
+    "weather_report": "Hilton wakes under a quilt of low cloud; the night\u2019s light rain has left the streets dark and fragrant, and by late morning the sky holds steady in a uniform gray. The sun is mostly a rumor behind the overcast, so glare is gentle and the UV index stays muted, perhaps nudging up a little if the ceiling thins toward midday. The day\u2019s clarity is soft rather than sharp; hills look smudged at the edges, colors turned to quieter shades, with the odd fine sprinkle not out of the question.\n\nIt\u2019s a pleasant, contemplative sort of gray\u2014more sweater-weather than storm\u2014so think light layers, breathable long sleeves, and a packable rain shell; comfortable shoes that don\u2019t mind damp pavements, and sunglasses only if a shy bright patch appears. Lean into simple errands and unrushed routines: fetch a library hold, pick up a loaf still warm from the bakery, tighten a loose hinge from the hardware shop, or take a measured stroll beneath trees, listening for the drip from last night\u2019s rain. Windows cracked a little, kettle on, the day invites steady work and small satisfactions rather than grand plans.",
+    "color_code": "#9CA3AF",
+    "timestamp": "2026-07-26 10:25:17",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94984905005683,
-        "longitude": 115.820780110643,
+        "name": "Hilton",
+        "latitude": -32.06703527892494,
+        "longitude": 115.7826309477597,
         "timezone": "Australia/Perth"
     }
 }

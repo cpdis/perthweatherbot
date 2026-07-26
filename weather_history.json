@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18 22:18:28",
-    "location": {
-      "name": "Mount Hawthorn",
-      "latitude": -31.92364254260423,
-      "longitude": 115.841128434989,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-07-18T14:18:27+00:00",
-      "temperature_c": 12.94,
-      "temperature_f": 55.292,
-      "humidity": 80,
-      "wind_speed_mph": 7.3821,
-      "wind_direction": 260,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Mount Hawthorn settles into a cool, damp hush tonight, the sky sealed with low cloud and that clean ...",
-    "color_code": "#2E3B4E"
-  },
-  {
     "timestamp": "2026-07-19 10:20:46",
     "location": {
       "name": "South Perth",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco settles under a seamless lid of cloud tonight; the sky feels low and matte, the kind that so...",
     "color_code": "#2f3136"
+  },
+  {
+    "timestamp": "2026-07-26 10:25:17",
+    "location": {
+      "name": "Hilton",
+      "latitude": -32.06703527892494,
+      "longitude": 115.7826309477597,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-07-26T02:25:16+00:00",
+      "temperature_c": 16.44,
+      "temperature_f": 61.592,
+      "humidity": 70,
+      "wind_speed_mph": 18.00785,
+      "wind_direction": 238,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Hilton wakes under a quilt of low cloud; the night\u2019s light rain has left the streets dark and fragra...",
+    "color_code": "#9CA3AF"
   }
 ]
