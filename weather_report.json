@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Crawley",
             "country": "AU",
-            "latitude": -31.94967616948323,
-            "longitude": 115.8208213524756
+            "latitude": -31.98564990796737,
+            "longitude": 115.8184396829914
         },
         "current_conditions": {
-            "timestamp": "2026-07-28T02:00:49+00:00",
-            "temperature_c": 12.83,
-            "temperature_f": 55.094,
-            "humidity": 76,
-            "wind_speed_mph": 5.010880000000001,
-            "wind_direction": 70,
-            "description": "clear sky"
+            "timestamp": "2026-07-28T15:16:29+00:00",
+            "temperature_c": 10.22,
+            "temperature_f": 50.396,
+            "humidity": 78,
+            "wind_speed_mph": 8.25453,
+            "wind_direction": 92,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-07-28T03:00:00+00:00",
-                "temperature": 12.66,
-                "windSpeed": 8.63482,
-                "windDirection": 77,
-                "shortForecast": "clear sky"
+                "startTime": "2026-07-28T18:00:00+00:00",
+                "temperature": 9.7,
+                "windSpeed": 8.67956,
+                "windDirection": 80,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-07-28T06:00:00+00:00",
-                "temperature": 14.3,
-                "windSpeed": 6.330710000000001,
-                "windDirection": 68,
-                "shortForecast": "clear sky"
+                "startTime": "2026-07-28T21:00:00+00:00",
+                "temperature": 9.02,
+                "windSpeed": 11.296850000000001,
+                "windDirection": 76,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a polished winter sky, the kind of clear blue that makes rooftops look newly scrubbed and the gum leaves shine. The air is cool on the skin now, but the sun is already bright and honest, promising a mild, lucid afternoon with hardly a cloud in sight. Expect strong clarity and crisp visibility, the light turning silver on glass and bark. UV will rise to a moderate bite around midday despite the season, then ease gently as the afternoon lengthens.\n\nIt looks like a good day to travel light: a soft layer over a tee, sunglasses in your pocket, and a hat if you\u2019ll linger outdoors through lunch. The weather invites small, agreeable errands\u2014walk to the grocer, post a letter, leaf through a bookshop, or take a slow coffee at a sidewalk table where the sun finds your shoulders. Open a window to air the house, hang a wash while the light is steady, or wander a quiet side street just to listen to the day breathing. By late afternoon, the warmth will thin quickly, so keep that extra layer handy for the stroll home.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-07-28 10:07:44",
+    "weather_report": "Crawley settles under an unbroken sheet of cloud tonight, a quiet, pewter sky that hides the stars and mutes the edges of the town. Sunshine has long since bowed out and the UV is effectively nil; earlier glimpses, if any, were filtered and faint, and the evening kept its grey composure. The air feels steady rather than sharp, the kind of overcast that flattens shadows and stills the mood without turning damp.\n\nIt\u2019s the sort of night for soft layers: a light jumper or thin jacket over whatever you wore to supper, nothing too technical, just comfortable and unhurried. With the streets hushed, a brief stroll to clear the head would suit, or simply open a window, let the coolness wash through, and set out tomorrow\u2019s keys. Indoors, water the plants, fold the last of the laundry, or read a few pages before bed. Expect the cloud to linger into the small hours, keeping the night even and unshowy.",
+    "color_code": "#2F4F4F",
+    "timestamp": "2026-07-28 23:16:30",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94967616948323,
-        "longitude": 115.8208213524756,
+        "name": "Crawley",
+        "latitude": -31.98564990796737,
+        "longitude": 115.8184396829914,
         "timezone": "Australia/Perth"
     }
 }
