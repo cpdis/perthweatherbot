@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "City Beach",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9380762581541,
-            "longitude": 115.7813429162694
+            "latitude": -31.94968078559498,
+            "longitude": 115.8207200486545
         },
         "current_conditions": {
-            "timestamp": "2026-07-29T02:11:08+00:00",
-            "temperature_c": 13.98,
-            "temperature_f": 57.164,
-            "humidity": 59,
-            "wind_speed_mph": 4.004230000000001,
-            "wind_direction": 37,
+            "timestamp": "2026-07-29T15:06:29+00:00",
+            "temperature_c": 11.99,
+            "temperature_f": 53.582,
+            "humidity": 72,
+            "wind_speed_mph": 1.00665,
+            "wind_direction": 101,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-07-29T03:00:00+00:00",
-                "temperature": 13.98,
-                "windSpeed": 13.623330000000001,
-                "windDirection": 52,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-07-29T18:00:00+00:00",
+                "temperature": 11.3,
+                "windSpeed": 9.6191,
+                "windDirection": 55,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-07-29T06:00:00+00:00",
-                "temperature": 15.39,
-                "windSpeed": 9.41777,
-                "windDirection": 42,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-07-29T21:00:00+00:00",
+                "temperature": 9.8,
+                "windSpeed": 8.25453,
+                "windDirection": 53,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Late morning settles over City Beach beneath a broad, uniform ceiling of cloud, the light diffused and calm, shadows erased. The sun will be shy today; through this steady overcast its bite is muted, though not absent, so a touch of sunscreen still makes sense if you linger outdoors. Visibility feels soft rather than sharp, a gray-blue clarity that flattens the sea and quiets the streets. Expect this subdued mood to hold into the afternoon, a day that favors unhurried errands and small comforts over spectacle.\n\nDress for mild uncertainty: light layers, long sleeves or a thin cardigan, and shoes suited to wandering. A cap or compact umbrella isn\u2019t a bad pocket companion, more for peace of mind than necessity. It\u2019s a good day to walk the promenade and watch the muted water, to slip into a bookstore or the library, to sort a few practical tasks, to brew something warm when you return. If you head out around lunch, the air will still be gentle and the UV kept in check by the cloud, good for an easy loop to the grocer or a quiet bench with a notebook.",
-    "color_code": "#AAB2BB",
-    "timestamp": "2026-07-29 10:11:09",
+    "weather_report": "Near midnight in Subiaco, the sky wears a patchwork of broken cloud, letting through shy swatches of moonlight. The air feels cool and unhurried, edges softened, with enough clarity to make the streets look quietly theatrical under their lamps. Sun and UV take their leave at this hour, so the night is gentle on the skin and the eyes, a muted canvas of blue-gray and hush.\n\nToward dawn the cloud thins to a looser scatter, promising a softer, mottled morning rather than a hard, brilliant blaze. Expect a touch of sunshine slipping between the puffs, the UV tame at first and only modest as the winter sun climbs; if you plan to linger outdoors late morning, a hat or a small smear of sunscreen is sensible. Dress in tidy layers: a light sweater or jacket now, with room to shed as the day eases open. It looks quietly pleasant rather than dramatic, the sort of weather that rewards unrushed tasks: brew an early coffee, walk to the bakery for a warm loaf, water the garden, or take a brief, companionable stroll before the city properly wakes. If you\u2019re up late, a short reflective lap around the block suits the hour, then home to sleep under an improving sky.",
+    "color_code": "#1E2F4F",
+    "timestamp": "2026-07-29 23:06:30",
     "location": {
-        "name": "City Beach",
-        "latitude": -31.9380762581541,
-        "longitude": 115.7813429162694,
+        "name": "Subiaco",
+        "latitude": -31.94968078559498,
+        "longitude": 115.8207200486545,
         "timezone": "Australia/Perth"
     }
 }
