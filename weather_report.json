@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Crawley",
+            "name": "City Beach",
             "country": "AU",
-            "latitude": -31.98564990796737,
-            "longitude": 115.8184396829914
+            "latitude": -31.9380762581541,
+            "longitude": 115.7813429162694
         },
         "current_conditions": {
-            "timestamp": "2026-07-28T15:16:29+00:00",
-            "temperature_c": 10.22,
-            "temperature_f": 50.396,
-            "humidity": 78,
-            "wind_speed_mph": 8.25453,
-            "wind_direction": 92,
-            "description": "overcast clouds"
+            "timestamp": "2026-07-29T02:11:08+00:00",
+            "temperature_c": 13.98,
+            "temperature_f": 57.164,
+            "humidity": 59,
+            "wind_speed_mph": 4.004230000000001,
+            "wind_direction": 37,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-07-28T18:00:00+00:00",
-                "temperature": 9.7,
-                "windSpeed": 8.67956,
-                "windDirection": 80,
+                "startTime": "2026-07-29T03:00:00+00:00",
+                "temperature": 13.98,
+                "windSpeed": 13.623330000000001,
+                "windDirection": 52,
                 "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-07-28T21:00:00+00:00",
-                "temperature": 9.02,
-                "windSpeed": 11.296850000000001,
-                "windDirection": 76,
+                "startTime": "2026-07-29T06:00:00+00:00",
+                "temperature": 15.39,
+                "windSpeed": 9.41777,
+                "windDirection": 42,
                 "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Crawley settles under an unbroken sheet of cloud tonight, a quiet, pewter sky that hides the stars and mutes the edges of the town. Sunshine has long since bowed out and the UV is effectively nil; earlier glimpses, if any, were filtered and faint, and the evening kept its grey composure. The air feels steady rather than sharp, the kind of overcast that flattens shadows and stills the mood without turning damp.\n\nIt\u2019s the sort of night for soft layers: a light jumper or thin jacket over whatever you wore to supper, nothing too technical, just comfortable and unhurried. With the streets hushed, a brief stroll to clear the head would suit, or simply open a window, let the coolness wash through, and set out tomorrow\u2019s keys. Indoors, water the plants, fold the last of the laundry, or read a few pages before bed. Expect the cloud to linger into the small hours, keeping the night even and unshowy.",
-    "color_code": "#2F4F4F",
-    "timestamp": "2026-07-28 23:16:30",
+    "weather_report": "Late morning settles over City Beach beneath a broad, uniform ceiling of cloud, the light diffused and calm, shadows erased. The sun will be shy today; through this steady overcast its bite is muted, though not absent, so a touch of sunscreen still makes sense if you linger outdoors. Visibility feels soft rather than sharp, a gray-blue clarity that flattens the sea and quiets the streets. Expect this subdued mood to hold into the afternoon, a day that favors unhurried errands and small comforts over spectacle.\n\nDress for mild uncertainty: light layers, long sleeves or a thin cardigan, and shoes suited to wandering. A cap or compact umbrella isn\u2019t a bad pocket companion, more for peace of mind than necessity. It\u2019s a good day to walk the promenade and watch the muted water, to slip into a bookstore or the library, to sort a few practical tasks, to brew something warm when you return. If you head out around lunch, the air will still be gentle and the UV kept in check by the cloud, good for an easy loop to the grocer or a quiet bench with a notebook.",
+    "color_code": "#AAB2BB",
+    "timestamp": "2026-07-29 10:11:09",
     "location": {
-        "name": "Crawley",
-        "latitude": -31.98564990796737,
-        "longitude": 115.8184396829914,
+        "name": "City Beach",
+        "latitude": -31.9380762581541,
+        "longitude": 115.7813429162694,
         "timezone": "Australia/Perth"
     }
 }
