@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94968078559498,
-            "longitude": 115.8207200486545
+            "latitude": -31.94965792726335,
+            "longitude": 115.8207678995402
         },
         "current_conditions": {
-            "timestamp": "2026-07-29T15:06:29+00:00",
-            "temperature_c": 11.99,
-            "temperature_f": 53.582,
-            "humidity": 72,
-            "wind_speed_mph": 1.00665,
-            "wind_direction": 101,
-            "description": "broken clouds"
+            "timestamp": "2026-07-30T02:00:34+00:00",
+            "temperature_c": 16.87,
+            "temperature_f": 62.366,
+            "humidity": 50,
+            "wind_speed_mph": 2.99758,
+            "wind_direction": 12,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-07-29T18:00:00+00:00",
-                "temperature": 11.3,
-                "windSpeed": 9.6191,
-                "windDirection": 55,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-07-30T03:00:00+00:00",
+                "temperature": 16.87,
+                "windSpeed": 10.044130000000001,
+                "windDirection": 9,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-07-29T21:00:00+00:00",
-                "temperature": 9.8,
-                "windSpeed": 8.25453,
-                "windDirection": 53,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-07-30T06:00:00+00:00",
+                "temperature": 18,
+                "windSpeed": 9.55199,
+                "windDirection": 303,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Near midnight in Subiaco, the sky wears a patchwork of broken cloud, letting through shy swatches of moonlight. The air feels cool and unhurried, edges softened, with enough clarity to make the streets look quietly theatrical under their lamps. Sun and UV take their leave at this hour, so the night is gentle on the skin and the eyes, a muted canvas of blue-gray and hush.\n\nToward dawn the cloud thins to a looser scatter, promising a softer, mottled morning rather than a hard, brilliant blaze. Expect a touch of sunshine slipping between the puffs, the UV tame at first and only modest as the winter sun climbs; if you plan to linger outdoors late morning, a hat or a small smear of sunscreen is sensible. Dress in tidy layers: a light sweater or jacket now, with room to shed as the day eases open. It looks quietly pleasant rather than dramatic, the sort of weather that rewards unrushed tasks: brew an early coffee, walk to the bakery for a warm loaf, water the garden, or take a brief, companionable stroll before the city properly wakes. If you\u2019re up late, a short reflective lap around the block suits the hour, then home to sleep under an improving sky.",
-    "color_code": "#1E2F4F",
-    "timestamp": "2026-07-29 23:06:30",
+    "weather_report": "Subiaco wakes under a soft lid of cloud, the light turned down to a calm, pewter glow. The sun keeps its distance; UV is muted under the overcast, gentle to modest around midday but not gone altogether. Expect the cloud to linger through the late morning into afternoon, a gray, steady backdrop that smooths the edges of things. Visibility stays clean but the day lacks sparkle, more matte than glossy.\n\nIt\u2019s a pleasantly subdued sort of weather: easy on the eyes, good for unhurried plans. Dress in light layers\u2014long sleeves and a cardigan or a light jacket will feel right\u2014and save the heavy sun gear, though a touch of sunscreen won\u2019t hurt if you linger outside at lunch. This is a day for practical comforts: a coffee run and a short wander to the bookshop, a quiet browse through a gallery, or a steady loop through Kings Park\u2019s paths without chasing views. Tackle a few errands, tidy a corner of the house, or settle into work at a caf\u00e9 window while the sky holds its steady gray note.",
+    "color_code": "#9ea7b3",
+    "timestamp": "2026-07-30 10:00:35",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94968078559498,
-        "longitude": 115.8207200486545,
+        "latitude": -31.94965792726335,
+        "longitude": 115.8207678995402,
         "timezone": "Australia/Perth"
     }
 }
