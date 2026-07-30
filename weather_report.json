@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "West Perth",
             "country": "AU",
-            "latitude": -31.94965792726335,
-            "longitude": 115.8207678995402
+            "latitude": -31.9525887804005,
+            "longitude": 115.8398187747381
         },
         "current_conditions": {
-            "timestamp": "2026-07-30T02:00:34+00:00",
-            "temperature_c": 16.87,
-            "temperature_f": 62.366,
-            "humidity": 50,
-            "wind_speed_mph": 2.99758,
-            "wind_direction": 12,
-            "description": "overcast clouds"
+            "timestamp": "2026-07-30T15:07:20+00:00",
+            "temperature_c": 12.59,
+            "temperature_f": 54.662,
+            "humidity": 87,
+            "wind_speed_mph": 5.010880000000001,
+            "wind_direction": 32,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2026-07-30T03:00:00+00:00",
-                "temperature": 16.87,
-                "windSpeed": 10.044130000000001,
-                "windDirection": 9,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-07-30T18:00:00+00:00",
+                "temperature": 12.34,
+                "windSpeed": 6.01753,
+                "windDirection": 37,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-07-30T06:00:00+00:00",
-                "temperature": 18,
-                "windSpeed": 9.55199,
-                "windDirection": 303,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-07-30T21:00:00+00:00",
+                "temperature": 11.59,
+                "windSpeed": 6.44256,
+                "windDirection": 33,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a soft lid of cloud, the light turned down to a calm, pewter glow. The sun keeps its distance; UV is muted under the overcast, gentle to modest around midday but not gone altogether. Expect the cloud to linger through the late morning into afternoon, a gray, steady backdrop that smooths the edges of things. Visibility stays clean but the day lacks sparkle, more matte than glossy.\n\nIt\u2019s a pleasantly subdued sort of weather: easy on the eyes, good for unhurried plans. Dress in light layers\u2014long sleeves and a cardigan or a light jacket will feel right\u2014and save the heavy sun gear, though a touch of sunscreen won\u2019t hurt if you linger outside at lunch. This is a day for practical comforts: a coffee run and a short wander to the bookshop, a quiet browse through a gallery, or a steady loop through Kings Park\u2019s paths without chasing views. Tackle a few errands, tidy a corner of the house, or settle into work at a caf\u00e9 window while the sky holds its steady gray note.",
-    "color_code": "#9ea7b3",
-    "timestamp": "2026-07-30 10:00:35",
+    "weather_report": "West Perth settles into a clear, quiet night; stars hold their ground and the air feels clean and a touch brisk. The city hum has thinned to a polite whisper, and the streets reflect a gentle gloss from porch lights and late buses. It\u2019s the kind of night that invites a short, thoughtful walk or a last cup of tea by an open window cracked just enough to taste the cool.\n\nThe sky is forecast to stay cloudless through the small hours and into first light, so sunrise should arrive sharp and bright with good visibility. UV is negligible overnight and low at dawn, then will build once the sun climbs; plan on sunglasses and a hat if you\u2019ll be out later in the morning. Layers serve you best: a light jacket before breakfast, shedding to something simple as the day warms. Consider an early stroll to wake the senses, a mid-morning coffee in a patch of sun, or running small errands on foot while the air is clear and kind.",
+    "color_code": "#0d1b2a",
+    "timestamp": "2026-07-30 23:07:21",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94965792726335,
-        "longitude": 115.8207678995402,
+        "name": "West Perth",
+        "latitude": -31.9525887804005,
+        "longitude": 115.8398187747381,
         "timezone": "Australia/Perth"
     }
 }

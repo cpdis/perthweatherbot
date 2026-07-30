@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-07-23 10:23:55",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970079994437,
-      "longitude": 115.820754407514,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-07-23T02:23:54+00:00",
-      "temperature_c": 13.74,
-      "temperature_f": 56.732,
-      "humidity": 68,
-      "wind_speed_mph": 4.004230000000001,
-      "wind_direction": 59,
-      "description": "clear sky"
-    },
-    "report_summary": "Late morning in Subiaco arrives with a rinsed-blue sky and crisp, transparent light that makes veran...",
-    "color_code": "#6FAFE0"
-  },
-  {
     "timestamp": "2026-07-23 23:05:11",
     "location": {
       "name": "Jolimont",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco wakes under a soft lid of cloud, the light turned down to a calm, pewter glow. The sun keeps...",
     "color_code": "#9ea7b3"
+  },
+  {
+    "timestamp": "2026-07-30 23:07:21",
+    "location": {
+      "name": "West Perth",
+      "latitude": -31.9525887804005,
+      "longitude": 115.8398187747381,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-07-30T15:07:20+00:00",
+      "temperature_c": 12.59,
+      "temperature_f": 54.662,
+      "humidity": 87,
+      "wind_speed_mph": 5.010880000000001,
+      "wind_direction": 32,
+      "description": "light rain"
+    },
+    "report_summary": "West Perth settles into a clear, quiet night; stars hold their ground and the air feels clean and a ...",
+    "color_code": "#0d1b2a"
   }
 ]
