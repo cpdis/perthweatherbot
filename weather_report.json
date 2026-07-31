@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "West Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95208045896715,
-            "longitude": 115.8384702893508
+            "latitude": -31.94970522585439,
+            "longitude": 115.820855377767
         },
         "current_conditions": {
-            "timestamp": "2026-07-31T02:25:58+00:00",
-            "temperature_c": 17.82,
-            "temperature_f": 64.076,
-            "humidity": 61,
-            "wind_speed_mph": 7.78476,
-            "wind_direction": 13,
-            "description": "clear sky"
+            "timestamp": "2026-07-31T15:15:36+00:00",
+            "temperature_c": 16.32,
+            "temperature_f": 61.376,
+            "humidity": 84,
+            "wind_speed_mph": 13.91414,
+            "wind_direction": 255,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2026-07-31T03:00:00+00:00",
-                "temperature": 17.82,
-                "windSpeed": 7.807130000000001,
-                "windDirection": 354,
-                "shortForecast": "clear sky"
+                "startTime": "2026-07-31T18:00:00+00:00",
+                "temperature": 15.38,
+                "windSpeed": 13.757550000000002,
+                "windDirection": 204,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-07-31T06:00:00+00:00",
-                "temperature": 19.26,
-                "windSpeed": 11.76662,
-                "windDirection": 305,
-                "shortForecast": "clear sky"
+                "startTime": "2026-07-31T21:00:00+00:00",
+                "temperature": 12.85,
+                "windSpeed": 13.77992,
+                "windDirection": 182,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "West Perth wakes to a lucid, wintry brightness: the kind of clear morning where shadows are sharp and the air tastes clean. The sky is swept free of cloud, a polished blue dome that makes colours pop and the city edges look newly drawn. It feels cool in the shade but kind on the skin when you stand in the sun, a gentle warmth seeping through the chill without any heaviness.\n\nThe day holds to this clarity into the early afternoon, bright and uncomplicated. Sunshine will be generous, the UV modest by summer standards yet still spirited enough to warrant sunglasses and a dab of sunscreen if you linger outdoors. Light layers suit it best\u2014a soft knit over a tee, something you can shrug off as the sun takes hold\u2014and a brimmed hat won\u2019t go amiss. It\u2019s a good day for simple pleasures: a quiet walk up to Kings Park for a look over the river, errands done on foot, lunch in a sunlit courtyard, or airing the house while you read by an open window. Expect a pleasing, unhurried mood to the hours ahead, all clean lines and blue distance.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-07-31 10:25:59",
+    "weather_report": "Subiaco settles into a soft, rain-dappled night. Light showers drift through town, laying a silvery sheen on stone and pavement, while a low quilt of cloud keeps the stars at bay. It feels calm more than cold, the air a little damp and close. There is no real sun to speak of now and the UV is negligible; even after dawn, brightness may arrive reluctantly, filtered and shy behind passing cloud. The day looks subdued rather than severe, with visibility softened and edges blurred.\n\nExpect on-and-off light rain through the late hours, likely lingering toward morning. It\u2019s a night for gentleness: a light waterproof or an umbrella, comfortable layers, and shoes that won\u2019t mind puddles. If you\u2019re out, take the slow route home and listen to the rainwork on awnings; if you\u2019re in, read by the window and let the evening unspool. Tomorrow, ease into things: a lingering coffee, a short errand between showers, perhaps a quiet stop at a shop or gallery once the pavements stop shining.",
+    "color_code": "#3b4a5a",
+    "timestamp": "2026-07-31 23:15:37",
     "location": {
-        "name": "West Perth",
-        "latitude": -31.95208045896715,
-        "longitude": 115.8384702893508,
+        "name": "Subiaco",
+        "latitude": -31.94970522585439,
+        "longitude": 115.820855377767,
         "timezone": "Australia/Perth"
     }
 }
