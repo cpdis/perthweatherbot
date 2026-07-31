@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-07-23 23:05:11",
-    "location": {
-      "name": "Jolimont",
-      "latitude": -31.94237432790221,
-      "longitude": 115.8044757193989,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-07-23T15:05:10+00:00",
-      "temperature_c": 10.83,
-      "temperature_f": 51.494,
-      "humidity": 77,
-      "wind_speed_mph": 1.99093,
-      "wind_direction": 140,
-      "description": "clear sky"
-    },
-    "report_summary": "Jolimont settles into a quiet, crystalline night, the sky swept clean and starlit, the air dry and a...",
-    "color_code": "#0b1d3a"
-  },
-  {
     "timestamp": "2026-07-24 10:20:59",
     "location": {
       "name": "Cottesloe",
@@ -298,5 +278,25 @@
     },
     "report_summary": "West Perth settles into a clear, quiet night; stars hold their ground and the air feels clean and a ...",
     "color_code": "#0d1b2a"
+  },
+  {
+    "timestamp": "2026-07-31 10:25:59",
+    "location": {
+      "name": "West Perth",
+      "latitude": -31.95208045896715,
+      "longitude": 115.8384702893508,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-07-31T02:25:58+00:00",
+      "temperature_c": 17.82,
+      "temperature_f": 64.076,
+      "humidity": 61,
+      "wind_speed_mph": 7.78476,
+      "wind_direction": 13,
+      "description": "clear sky"
+    },
+    "report_summary": "West Perth wakes to a lucid, wintry brightness: the kind of clear morning where shadows are sharp an...",
+    "color_code": "#87CEEB"
   }
 ]
