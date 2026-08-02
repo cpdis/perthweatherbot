@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94967265559594,
-            "longitude": 115.8209175788359
+            "latitude": -31.94968418897634,
+            "longitude": 115.8206400324392
         },
         "current_conditions": {
-            "timestamp": "2026-08-02T02:24:11+00:00",
-            "temperature_c": 12.83,
-            "temperature_f": 55.094,
-            "humidity": 62,
-            "wind_speed_mph": 5.99516,
-            "wind_direction": 59,
-            "description": "few clouds"
+            "timestamp": "2026-08-02T14:26:07+00:00",
+            "temperature_c": 10.69,
+            "temperature_f": 51.242,
+            "humidity": 72,
+            "wind_speed_mph": 9.283550000000002,
+            "wind_direction": 81,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-08-02T03:00:00+00:00",
-                "temperature": 12.83,
-                "windSpeed": 13.73518,
-                "windDirection": 64,
-                "shortForecast": "few clouds"
+                "startTime": "2026-08-02T15:00:00+00:00",
+                "temperature": 10.69,
+                "windSpeed": 10.021760000000002,
+                "windDirection": 77,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-08-02T06:00:00+00:00",
-                "temperature": 14.57,
-                "windSpeed": 10.93893,
-                "windDirection": 48,
-                "shortForecast": "few clouds"
+                "startTime": "2026-08-02T18:00:00+00:00",
+                "temperature": 11.41,
+                "windSpeed": 10.066500000000001,
+                "windDirection": 67,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Late morning in Subiaco feels bright and uncomplicated: a soft sun slipping through a high, tidy sky with only a few idle clouds. Expect the rest of the day to keep that gentle rhythm\u2014mostly sunny with brief, passing veils of cloud and good, clean visibility that sharpens edges and lifts colors. The UV should be moderate and rise around midday, enough to warrant sunglasses and a brimmed hat if you\u2019re out for a while, perhaps a dab of sunscreen. Dress in light, breathable layers you can shed as the sun gains nerve. It\u2019s a pleasant day for small errands on foot, airing the house, a quiet loop through the park, tending a few pots on the balcony, or lingering at a cafe table with something warm, then cold, as the light turns brighter and the clouds keep a respectful distance.",
-    "color_code": "#87CEFA",
-    "timestamp": "2026-08-02 10:24:12",
+    "weather_report": "A quiet, overcast night has settled on Subiaco, the sky wearing a smooth slate lid that mutes the glow of the streets and keeps the stars mostly out of reach. Sunshine is no factor now, and the UV is essentially asleep; even at dawn it should remain gentle until the sun gathers height. Cloud cover looks stubborn through late evening, then loosening toward the small hours into broken patches, the kind that let a shy moon and a handful of stars blink through. The night feels calm and a touch introspective, more soft-focus than sharp-edged, with visibility clear enough for a late stroll but wrapped in a dim, even light.\n\nDress in light layers\u2014a soft jumper or a casual jacket will suit the muted air\u2014and comfortable shoes if you wander out to stretch the day\u2019s last kinks from your shoulders. This is good weather for unhurried errands, a lingering conversation on the veranda, or a short loop around the block to listen to the town hum itself toward sleep. If you\u2019re staying in, let the evening breathe: tidy the kitchen, queue tomorrow\u2019s to-do, or open a window and let the cool settle while you read a few pages before bed. Toward the pre-dawn hours, with the clouds breaking, step outside for a minute; the sky may reward you with a modest, reassuring patch of silver.",
+    "color_code": "#2C3E50",
+    "timestamp": "2026-08-02 22:26:08",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94967265559594,
-        "longitude": 115.8209175788359,
+        "latitude": -31.94968418897634,
+        "longitude": 115.8206400324392,
         "timezone": "Australia/Perth"
     }
 }
