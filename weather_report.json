@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94969953857256,
-            "longitude": 115.8208955691041
+            "latitude": -31.94968873835417,
+            "longitude": 115.8207974416809
         },
         "current_conditions": {
-            "timestamp": "2026-08-03T15:40:28+00:00",
-            "temperature_c": 16.34,
-            "temperature_f": 61.412,
-            "humidity": 84,
-            "wind_speed_mph": 17.40386,
-            "wind_direction": 310,
-            "description": "light rain"
+            "timestamp": "2026-08-04T02:06:34+00:00",
+            "temperature_c": 17.26,
+            "temperature_f": 63.068,
+            "humidity": 75,
+            "wind_speed_mph": 1.00665,
+            "wind_direction": 0,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-08-03T18:00:00+00:00",
-                "temperature": 16.15,
-                "windSpeed": 16.62091,
-                "windDirection": 288,
-                "shortForecast": "moderate rain"
+                "startTime": "2026-08-04T03:00:00+00:00",
+                "temperature": 17.26,
+                "windSpeed": 11.296850000000001,
+                "windDirection": 267,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-08-03T21:00:00+00:00",
-                "temperature": 15.57,
-                "windSpeed": 12.102170000000001,
-                "windDirection": 230,
-                "shortForecast": "light rain"
+                "startTime": "2026-08-04T06:00:00+00:00",
+                "temperature": 18.56,
+                "windSpeed": 10.44679,
+                "windDirection": 251,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a damp, late-night hush. A band of rain moves through, with steadier showers giving way to a lighter, silvery drizzle toward the small hours. The sky is sealed and starless, streets shining under lamps, the air cool and faintly mineral. There will be no sun until morning, and even then only brief, reluctant glimmers if the cloud breaks; UV stays negligible overnight and low after sunrise while the overcast holds. Expect a muted, softly blurred start to the day, visibility decent but wrapped in a gray sheen.\n\nIt feels contemplative rather than bleak, the kind of weather that slows the city to a thoughtful pace. If you step out, a light waterproof with a hood or a small umbrella will serve, with shoes that don\u2019t mind puddles and a comfortable layer beneath. Keep plans simple: an early coffee under an awning, a short ride on the train or bus instead of a long walk, a tidy half-hour at home, or a quiet session at the gym. Should the drizzle ease later, a brief wander between showers can be its own small pleasure.",
-    "color_code": "#1F2D3A",
-    "timestamp": "2026-08-03 23:40:29",
+    "weather_report": "A soft, pewter ceiling hangs over Subiaco this late morning, the light flattened and kind to the eyes. Sunshine will be scarce, arriving, if at all, as a pale wash behind the cloud. With winter holding the reins, the air feels cool rather than cold, and the UV stays modest; under this overcast, it\u2019s the sort of day where shadows keep their voices down. The horizon looks smudged, not sharp, hinting at a quiet, dry spell rather than drama.\n\nExpect the gray to linger into the afternoon, with little change beyond a gentle breeze shuffling the trees. Dress in comfortable layers: a long-sleeve and a light jacket or soft knit, perhaps a scarf for comfort. It\u2019s a good day for practical pleasures\u2014an unhurried coffee by a window, a browse through the bookshop, a tidy-up of lingering errands, or a calm loop around the neighborhood to clear the head. Sunscreen can rest in the drawer unless you\u2019ll be out for hours; a hat won\u2019t hurt, but today the sky is doing most of the shielding.",
+    "color_code": "#9BA3AF",
+    "timestamp": "2026-08-04 10:06:34",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94969953857256,
-        "longitude": 115.8208955691041,
+        "latitude": -31.94968873835417,
+        "longitude": 115.8207974416809,
         "timezone": "Australia/Perth"
     }
 }
