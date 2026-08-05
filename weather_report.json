@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Kings Park",
             "country": "AU",
-            "latitude": -31.94969755134271,
-            "longitude": 115.8208951740133
+            "latitude": -31.96880603167795,
+            "longitude": 115.8359003639715
         },
         "current_conditions": {
-            "timestamp": "2026-08-04T15:21:52+00:00",
-            "temperature_c": 15.34,
-            "temperature_f": 59.612,
-            "humidity": 68,
-            "wind_speed_mph": 7.09129,
-            "wind_direction": 250,
+            "timestamp": "2026-08-05T02:05:53+00:00",
+            "temperature_c": 16.79,
+            "temperature_f": 62.221999999999994,
+            "humidity": 73,
+            "wind_speed_mph": 1.99093,
+            "wind_direction": 0,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-08-04T18:00:00+00:00",
-                "temperature": 15.22,
-                "windSpeed": 6.599150000000001,
-                "windDirection": 244,
-                "shortForecast": "light rain"
+                "startTime": "2026-08-05T03:00:00+00:00",
+                "temperature": 16.79,
+                "windSpeed": 5.74909,
+                "windDirection": 19,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-08-04T21:00:00+00:00",
-                "temperature": 14.67,
-                "windSpeed": 5.212210000000001,
-                "windDirection": 245,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-08-05T06:00:00+00:00",
+                "temperature": 17.73,
+                "windSpeed": 4.78718,
+                "windDirection": 315,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a late\u2011night hush under a quilt of cloud, the air cool and a little heavy, the kind of stillness that makes streetlights look like small, patient moons. Toward the small hours a passing shower is likely, then the sky loosens into broken cloud near dawn. Sunshine will be rationed at first, more a shy glow through gaps than a blaze; if the breaks widen later, the day may find a few bright intervals. UV is negligible now and should remain gentle early, only edging up if the cloud thins. Expect a soft, textured morning, visibility good but the edges of things a touch blurred by lingering moisture.\n\nDress for a damp, cool start: a light jacket or sweater, closed shoes, and a pocket umbrella if you\u2019re out before breakfast. It\u2019s a night for small comforts at home\u2014tidying tomorrow\u2019s bag, answering a stray message, steeping tea you forgot you had. Early risers can time a short lap around the block between showers, then claim a warm coffee from the corner as the clouds fray. Commuters should watch for slick pavements and that pearly light that makes everything look closer than it is; later, if the sun peeks through, a quick errand on foot will feel quietly restorative.",
-    "color_code": "#2C3E50",
-    "timestamp": "2026-08-04 23:21:53",
+    "weather_report": "Mid-morning in Kings Park arrives under a sealed gray ceiling, the light soft and forgiving, edges blurred as if the day were penciled in. Sunshine looks scarce, with the UV index staying low beneath the thick cover; if the clouds thin briefly, it may nudge upward, but for now the sky keeps its secrets. Expect the overcast to hold through the day, giving everything a gentle, muted clarity and a calm, unhurried feel.\n\nIt\u2019s a day for light layers\u2014a comfortable long-sleeve or a thin sweater\u2014and shoes made for easy miles. Sunglasses can stay home; a dab of sunscreen is only needed if you\u2019ll wander for hours. Consider a late-morning circuit of ordinary pleasures: a quiet walk past shopfronts, a stop for coffee by a window, a small errand or two, the kind you finish without breaking stride. The air invites focus without urgency, perfect for tidying a corner of the house or paging through a book while the sky keeps its steady gray vow.",
+    "color_code": "#9BA3AF",
+    "timestamp": "2026-08-05 10:05:54",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94969755134271,
-        "longitude": 115.8208951740133,
+        "name": "Kings Park",
+        "latitude": -31.96880603167795,
+        "longitude": 115.8359003639715,
         "timezone": "Australia/Perth"
     }
 }
