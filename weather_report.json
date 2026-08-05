@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Kings Park",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.96880603167795,
-            "longitude": 115.8359003639715
+            "latitude": -31.94969188438064,
+            "longitude": 115.8209567191886
         },
         "current_conditions": {
-            "timestamp": "2026-08-05T02:05:53+00:00",
-            "temperature_c": 16.79,
-            "temperature_f": 62.221999999999994,
-            "humidity": 73,
-            "wind_speed_mph": 1.99093,
-            "wind_direction": 0,
-            "description": "overcast clouds"
+            "timestamp": "2026-08-05T15:10:35+00:00",
+            "temperature_c": 12.78,
+            "temperature_f": 55.004,
+            "humidity": 83,
+            "wind_speed_mph": 4.74244,
+            "wind_direction": 104,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-08-05T03:00:00+00:00",
-                "temperature": 16.79,
-                "windSpeed": 5.74909,
-                "windDirection": 19,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-08-05T18:00:00+00:00",
+                "temperature": 11.78,
+                "windSpeed": 4.45163,
+                "windDirection": 72,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-08-05T06:00:00+00:00",
-                "temperature": 17.73,
-                "windSpeed": 4.78718,
-                "windDirection": 315,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-08-05T21:00:00+00:00",
+                "temperature": 9.51,
+                "windSpeed": 5.525390000000001,
+                "windDirection": 32,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Mid-morning in Kings Park arrives under a sealed gray ceiling, the light soft and forgiving, edges blurred as if the day were penciled in. Sunshine looks scarce, with the UV index staying low beneath the thick cover; if the clouds thin briefly, it may nudge upward, but for now the sky keeps its secrets. Expect the overcast to hold through the day, giving everything a gentle, muted clarity and a calm, unhurried feel.\n\nIt\u2019s a day for light layers\u2014a comfortable long-sleeve or a thin sweater\u2014and shoes made for easy miles. Sunglasses can stay home; a dab of sunscreen is only needed if you\u2019ll wander for hours. Consider a late-morning circuit of ordinary pleasures: a quiet walk past shopfronts, a stop for coffee by a window, a small errand or two, the kind you finish without breaking stride. The air invites focus without urgency, perfect for tidying a corner of the house or paging through a book while the sky keeps its steady gray vow.",
-    "color_code": "#9BA3AF",
-    "timestamp": "2026-08-05 10:05:54",
+    "weather_report": "Subiaco settles into a clear late-night hush, the kind of sky that feels freshly polished, stars pricking through with easy confidence. The air is cool and honest, and with the sun long gone, the UV burden is essentially none, leaving the streets to their silvered quiet and the faint smell of eucalyptus in the dark.\n\nThe forecast holds that clarity through the small hours, setting up a bright, uncomplicated morning and a day that should feel clean-lined and pleasant. Expect gentle sun after sunrise, with UV low at first and lifting toward midday in that winter way that still warrants sunglasses and a light touch of sunscreen if you linger outside. Dress in layers: a soft jumper or light jacket for the crisp start, something you can shrug off by late morning. It\u2019s a good night to step onto the porch and let your eyes adjust to the constellations, then tomorrow to hang a small wash early, take a steady walk to the shops, or claim a sunlit table for coffee and a few pages of a book. The day looks like it will reward simple errands on foot and a quiet tidy of the balcony plants more than any grand undertaking.",
+    "color_code": "#0A213A",
+    "timestamp": "2026-08-05 23:10:36",
     "location": {
-        "name": "Kings Park",
-        "latitude": -31.96880603167795,
-        "longitude": 115.8359003639715,
+        "name": "Subiaco",
+        "latitude": -31.94969188438064,
+        "longitude": 115.8209567191886,
         "timezone": "Australia/Perth"
     }
 }

@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-07-29 10:11:09",
-    "location": {
-      "name": "City Beach",
-      "latitude": -31.9380762581541,
-      "longitude": 115.7813429162694,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-07-29T02:11:08+00:00",
-      "temperature_c": 13.98,
-      "temperature_f": 57.164,
-      "humidity": 59,
-      "wind_speed_mph": 4.004230000000001,
-      "wind_direction": 37,
-      "description": "broken clouds"
-    },
-    "report_summary": "Late morning settles over City Beach beneath a broad, uniform ceiling of cloud, the light diffused a...",
-    "color_code": "#AAB2BB"
-  },
-  {
     "timestamp": "2026-07-29 23:06:30",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Mid-morning in Kings Park arrives under a sealed gray ceiling, the light soft and forgiving, edges b...",
     "color_code": "#9BA3AF"
+  },
+  {
+    "timestamp": "2026-08-05 23:10:36",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969188438064,
+      "longitude": 115.8209567191886,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-08-05T15:10:35+00:00",
+      "temperature_c": 12.78,
+      "temperature_f": 55.004,
+      "humidity": 83,
+      "wind_speed_mph": 4.74244,
+      "wind_direction": 104,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco settles into a clear late-night hush, the kind of sky that feels freshly polished, stars pri...",
+    "color_code": "#0A213A"
   }
 ]
