@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Jolimont",
             "country": "AU",
-            "latitude": -31.9496836286277,
-            "longitude": 115.820832865764
+            "latitude": -31.9424233637468,
+            "longitude": 115.8049269078523
         },
         "current_conditions": {
-            "timestamp": "2026-08-06T02:09:24+00:00",
-            "temperature_c": 16.81,
-            "temperature_f": 62.257999999999996,
-            "humidity": 65,
-            "wind_speed_mph": 7.47158,
-            "wind_direction": 347,
-            "description": "clear sky"
+            "timestamp": "2026-08-06T15:13:28+00:00",
+            "temperature_c": 15.82,
+            "temperature_f": 60.476,
+            "humidity": 81,
+            "wind_speed_mph": 2.99758,
+            "wind_direction": 360,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2026-08-06T03:00:00+00:00",
-                "temperature": 16.81,
-                "windSpeed": 8.88089,
-                "windDirection": 320,
-                "shortForecast": "clear sky"
+                "startTime": "2026-08-06T18:00:00+00:00",
+                "temperature": 14.76,
+                "windSpeed": 7.94135,
+                "windDirection": 250,
+                "shortForecast": "moderate rain"
             },
             {
-                "startTime": "2026-08-06T06:00:00+00:00",
-                "temperature": 17.56,
-                "windSpeed": 14.495760000000002,
-                "windDirection": 286,
-                "shortForecast": "clear sky"
+                "startTime": "2026-08-06T21:00:00+00:00",
+                "temperature": 12.32,
+                "windSpeed": 6.01753,
+                "windDirection": 214,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Midmorning in Subiaco opens under a clean, unbroken blue. The light is crisp and forgiving, sharpening edges and brightening facades, the sort of clarity that makes an ordinary street feel attentively composed and unhurried.\n\nThe forecast holds this open sky through the day, with generous sunshine and few distractions. UV will climb quickly toward midday under such clear conditions, so a brimmed hat, sunglasses, and a touch of sunscreen are wise; dress in light, breathable layers and comfortable shoes. It\u2019s good weather for small, practical pleasures: a walk to a nearby cafe, watering the garden before the sun turns insistent, airing linens on the line, or cycling a couple of errands while the morning still feels kind. As the day ripens, find a patch of shade for reading, step into a cool gallery, or take a quiet amble through a tree-lined street, letting the blue overhead do most of the talking.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-08-06 10:09:25",
+    "weather_report": "Jolimont settles into a quiet late night with rain gathering offshore; by the pre-dawn hours expect a firmer pulse of moderate rain, easing to a gentle, lingering sprinkle through early morning. Sunshine will be scarce at first light, the day starting in a soft grey with damp pavements and blurred reflections; UV is negligible overnight and stays low around breakfast, only nudging higher if the cloud deck breaks later. The air will feel clean but a little somber, the horizon smudged by showers and the kind of light that keeps voices hushed.\n\nDress for a cool, wet start: a light waterproof shell, a hood you can trust, and shoes that don\u2019t mind puddles. Tuck a compact umbrella by the door and give yourself extra minutes for the tram or a slow walk; cyclists might grant the roads to the rain and take the train instead. It\u2019s a good night to wind down with a book, lay out tomorrow\u2019s layers, and let the kettle do its steady work; come morning, keep plans simple\u2014an indoor errand, a quiet coffee, a museum hallway\u2014then watch the sky for any shy brightening before midday.",
+    "color_code": "#2E3A47",
+    "timestamp": "2026-08-06 23:13:29",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.9496836286277,
-        "longitude": 115.820832865764,
+        "name": "Jolimont",
+        "latitude": -31.9424233637468,
+        "longitude": 115.8049269078523,
         "timezone": "Australia/Perth"
     }
 }
