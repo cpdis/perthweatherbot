@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Cottesloe",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9840671590974,
-            "longitude": 115.766509770752
+            "latitude": -31.94968803084961,
+            "longitude": 115.8208002507932
         },
         "current_conditions": {
-            "timestamp": "2026-08-07T02:27:36+00:00",
-            "temperature_c": 15.33,
-            "temperature_f": 59.594,
-            "humidity": 87,
-            "wind_speed_mph": 1.99093,
-            "wind_direction": 76,
+            "timestamp": "2026-08-07T14:09:50+00:00",
+            "temperature_c": 14.96,
+            "temperature_f": 58.928000000000004,
+            "humidity": 81,
+            "wind_speed_mph": 2.99758,
+            "wind_direction": 261,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-08-07T03:00:00+00:00",
-                "temperature": 15.33,
-                "windSpeed": 7.672910000000001,
-                "windDirection": 231,
+                "startTime": "2026-08-07T15:00:00+00:00",
+                "temperature": 14.96,
+                "windSpeed": 23.15295,
+                "windDirection": 270,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-08-07T06:00:00+00:00",
-                "temperature": 16.31,
-                "windSpeed": 15.41293,
-                "windDirection": 253,
+                "startTime": "2026-08-07T18:00:00+00:00",
+                "temperature": 15.26,
+                "windSpeed": 26.91111,
+                "windDirection": 281,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "A soft, pewter light hangs over Cottesloe this late winter morning, the kind that makes the ocean look thoughtful and the Norfolk pines a shade darker. Clouds are thickening and will shuffle in a few light showers through the late morning into the afternoon; the sun, when it peeks out, will be pale and brief. Expect a subdued day with softened edges and a slightly misted horizon\u2014clean air, but not crystal. UV will stay modest under the blanket of cloud, nudging up only in the short breaks of brightness.\n\nDress in easy layers with a light, water-resistant shell and shoes that don\u2019t mind wet pavement; tuck a compact umbrella in your bag and keep sunglasses handy for those quick, silvery openings. It\u2019s a day for a slow coffee by a window, a lazy loop to the shops or library between showers, or a short, reflective walk along the foreshore when the drizzle lets up. Save the long beach laze for another day; today invites small errands, a train ride with a book, and the quiet pleasure of watching weather move across the water.",
-    "color_code": "#8FA3B0",
-    "timestamp": "2026-08-07 10:27:37",
+    "weather_report": "Subiaco settles into a quiet, rain-polished night. Clouds are knitting tight overhead, and light rain is edging in within the hour, likely lingering into the small hours. There\u2019s no sunshine to be had now, the UV all but absent; the sky feels matte and subdued, streetlights haloed in a fine mist. The air is clean rather than harsh, visibility decent despite the drizzle, and the footpaths gleam like graphite.\n\nDress for calm dampness: light layers, a waterproof shell, closed shoes you don\u2019t mind meeting puddles, and an umbrella for the unhurried walk home. It\u2019s a night for gentle, ordinary comforts\u2014the last train with a soft-spoken podcast, a pot set to simmer, tidying the day into a neat stack, or an easy jog tucked under awnings if you crave motion. If you must be out late, plan for slow, reflective weather; if you\u2019re in, let the patter on the eaves set the tempo and sleep come without argument.",
+    "color_code": "#2C3E50",
+    "timestamp": "2026-08-07 22:09:51",
     "location": {
-        "name": "Cottesloe",
-        "latitude": -31.9840671590974,
-        "longitude": 115.766509770752,
+        "name": "Subiaco",
+        "latitude": -31.94968803084961,
+        "longitude": 115.8208002507932,
         "timezone": "Australia/Perth"
     }
 }
