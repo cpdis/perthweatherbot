@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Shelley",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -32.02494510736206,
-            "longitude": 115.8847572851901
+            "latitude": -31.94965748334766,
+            "longitude": 115.8208603342648
         },
         "current_conditions": {
-            "timestamp": "2026-08-09T01:20:32+00:00",
-            "temperature_c": 11.45,
-            "temperature_f": 52.61,
-            "humidity": 83,
+            "timestamp": "2026-08-09T13:45:22+00:00",
+            "temperature_c": 13.48,
+            "temperature_f": 56.264,
+            "humidity": 93,
             "wind_speed_mph": 1.99093,
-            "wind_direction": 0,
-            "description": "broken clouds"
+            "wind_direction": 266,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2026-08-09T03:00:00+00:00",
-                "temperature": 11.78,
-                "windSpeed": 6.75574,
-                "windDirection": 312,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-08-09T15:00:00+00:00",
+                "temperature": 13.48,
+                "windSpeed": 10.133610000000001,
+                "windDirection": 274,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-08-09T06:00:00+00:00",
+                "startTime": "2026-08-09T18:00:00+00:00",
                 "temperature": 13.72,
-                "windSpeed": 8.74667,
-                "windDirection": 285,
-                "shortForecast": "overcast clouds"
+                "windSpeed": 11.09552,
+                "windDirection": 287,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Morning in Shelley arrives under a quilt of gray, the light soft and forgiving, the sun a rumor behind the ceiling of cloud. It doesn\u2019t look like a day for glare; the UV index should stay low, and the world feels evenly lit, edges smudged just enough to make the streets look quieter than usual. The air reads as mild rather than cold, a steady, matte sort of calm with good visibility but little sparkle. No drama in the sky, just a steady overcast that flattens the shadows and slows the tempo.\n\nExpect the clouds to loiter through the day, maybe a gentle brightening at midday without much in the way of direct sunshine. Dress in light layers: a soft long-sleeve or thin sweater, something you won\u2019t mind keeping on indoors, with a shell handy if the breeze picks up. Sunglasses can likely stay in the bag; a hat is more for comfort than necessity. This is a day for unrushed errands, a neighborhood walk with a warm cup in hand, sorting a drawer you\u2019ve ignored, or a quiet visit to the library or a small gallery where the calm outside follows you in. If you\u2019re inclined to be out, it\u2019s perfect for a measured pace and unshowy tasks, the kind that make the afternoon feel neatly squared away.",
-    "color_code": "#B0BEC5",
-    "timestamp": "2026-08-09 09:20:32",
+    "weather_report": "Night has settled over Subiaco with a soft, pewter sky and the smell of wet pavement in the air. Clouds are knitting themselves thicker, dimming the edges of the evening; the sun is long gone and the UV, for practical purposes, is asleep. It\u2019s not a clear night\u2014the light is diffused, streetlamps wearing small halos, the horizon slightly smudged as a quiet change arrives.\n\nLight rain is expected to drift in late and linger into the small hours, promising a gentle, tapping soundtrack rather than a storm. Expect a muted, grey-tinged start if you\u2019re up early; any sunshine will be fleeting at best until the clouds sort themselves out, and the UV will stay low until much later in the morning. Dress for damp: a light waterproof layer, closed shoes, something cozy at the cuffs. If you\u2019re heading out now, take an umbrella and patience; if you\u2019re staying in, let the weather slow you down\u2014prep tomorrow\u2019s bag, file the stray papers on the desk, or take a short, deliberate walk under the shop awnings just to feel the cool air without surrendering to the drizzle.",
+    "color_code": "#2c3e50",
+    "timestamp": "2026-08-09 21:45:23",
     "location": {
-        "name": "Shelley",
-        "latitude": -32.02494510736206,
-        "longitude": 115.8847572851901,
+        "name": "Subiaco",
+        "latitude": -31.94965748334766,
+        "longitude": 115.8208603342648,
         "timezone": "Australia/Perth"
     }
 }
