@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Shelley",
             "country": "AU",
-            "latitude": -31.94967794063936,
-            "longitude": 115.8208067873309
+            "latitude": -32.02494510736206,
+            "longitude": 115.8847572851901
         },
         "current_conditions": {
-            "timestamp": "2026-08-08T13:41:31+00:00",
-            "temperature_c": 8.35,
-            "temperature_f": 47.03,
-            "humidity": 88,
-            "wind_speed_mph": 12.32587,
-            "wind_direction": 169,
-            "description": "overcast clouds"
+            "timestamp": "2026-08-09T01:20:32+00:00",
+            "temperature_c": 11.45,
+            "temperature_f": 52.61,
+            "humidity": 83,
+            "wind_speed_mph": 1.99093,
+            "wind_direction": 0,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-08-08T15:00:00+00:00",
-                "temperature": 8.35,
-                "windSpeed": 12.258760000000002,
-                "windDirection": 181,
+                "startTime": "2026-08-09T03:00:00+00:00",
+                "temperature": 11.78,
+                "windSpeed": 6.75574,
+                "windDirection": 312,
                 "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-08-08T18:00:00+00:00",
-                "temperature": 9.57,
-                "windSpeed": 6.196490000000001,
-                "windDirection": 165,
-                "shortForecast": "light rain"
+                "startTime": "2026-08-09T06:00:00+00:00",
+                "temperature": 13.72,
+                "windSpeed": 8.74667,
+                "windDirection": 285,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Night has settled over Subiaco with a muted, slate-blue hush. The forecast leans toward a fully overcast sky before long, then a brush of light rain drifting through in the small hours. Sunshine won\u2019t make an appearance now; the UV index is effectively nil, and the world is softened at the edges, streetlights wearing faint halos and the stars erased. It\u2019s a gentle, slightly dreary mood rather than a harsh one, the kind that hushes conversation and shortens plans.\n\nIf you\u2019re stepping out, think light layers and a simple shell, with shoes that won\u2019t fuss at a damp footpath; tuck an umbrella in your bag for later. Otherwise, let the evening be ordinary in a kind way: a late cup of tea, a quick tidy of tomorrow\u2019s list, a quiet stretch on the living-room rug, or a slow walk around the block before the first drops start to stipple the pavement.",
-    "color_code": "#2F3A4A",
-    "timestamp": "2026-08-08 21:41:32",
+    "weather_report": "Morning in Shelley arrives under a quilt of gray, the light soft and forgiving, the sun a rumor behind the ceiling of cloud. It doesn\u2019t look like a day for glare; the UV index should stay low, and the world feels evenly lit, edges smudged just enough to make the streets look quieter than usual. The air reads as mild rather than cold, a steady, matte sort of calm with good visibility but little sparkle. No drama in the sky, just a steady overcast that flattens the shadows and slows the tempo.\n\nExpect the clouds to loiter through the day, maybe a gentle brightening at midday without much in the way of direct sunshine. Dress in light layers: a soft long-sleeve or thin sweater, something you won\u2019t mind keeping on indoors, with a shell handy if the breeze picks up. Sunglasses can likely stay in the bag; a hat is more for comfort than necessity. This is a day for unrushed errands, a neighborhood walk with a warm cup in hand, sorting a drawer you\u2019ve ignored, or a quiet visit to the library or a small gallery where the calm outside follows you in. If you\u2019re inclined to be out, it\u2019s perfect for a measured pace and unshowy tasks, the kind that make the afternoon feel neatly squared away.",
+    "color_code": "#B0BEC5",
+    "timestamp": "2026-08-09 09:20:32",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94967794063936,
-        "longitude": 115.8208067873309,
+        "name": "Shelley",
+        "latitude": -32.02494510736206,
+        "longitude": 115.8847572851901,
         "timezone": "Australia/Perth"
     }
 }

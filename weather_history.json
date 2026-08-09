@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-08-01 22:24:08",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9497178977681,
-      "longitude": 115.8206856839101,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-01T14:24:07+00:00",
-      "temperature_c": 10.56,
-      "temperature_f": 51.008,
-      "humidity": 76,
-      "wind_speed_mph": 1.00665,
-      "wind_direction": 161,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco slips into a clear, quiet night. The sky is clean and star-pricked, with no cloud expected t...",
-    "color_code": "#0B1E3A"
-  },
-  {
     "timestamp": "2026-08-02 10:24:12",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Night has settled over Subiaco with a muted, slate-blue hush. The forecast leans toward a fully over...",
     "color_code": "#2F3A4A"
+  },
+  {
+    "timestamp": "2026-08-09 09:20:32",
+    "location": {
+      "name": "Shelley",
+      "latitude": -32.02494510736206,
+      "longitude": 115.8847572851901,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-08-09T01:20:32+00:00",
+      "temperature_c": 11.45,
+      "temperature_f": 52.61,
+      "humidity": 83,
+      "wind_speed_mph": 1.99093,
+      "wind_direction": 0,
+      "description": "broken clouds"
+    },
+    "report_summary": "Morning in Shelley arrives under a quilt of gray, the light soft and forgiving, the sun a rumor behi...",
+    "color_code": "#B0BEC5"
   }
 ]
