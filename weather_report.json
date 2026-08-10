@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94965748334766,
-            "longitude": 115.8208603342648
+            "latitude": -31.94961320108706,
+            "longitude": 115.8208550423499
         },
         "current_conditions": {
-            "timestamp": "2026-08-09T13:45:22+00:00",
-            "temperature_c": 13.48,
-            "temperature_f": 56.264,
-            "humidity": 93,
-            "wind_speed_mph": 1.99093,
-            "wind_direction": 266,
-            "description": "light rain"
+            "timestamp": "2026-08-10T01:21:52+00:00",
+            "temperature_c": 13.84,
+            "temperature_f": 56.912,
+            "humidity": 92,
+            "wind_speed_mph": 2.99758,
+            "wind_direction": 275,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-08-09T15:00:00+00:00",
-                "temperature": 13.48,
-                "windSpeed": 10.133610000000001,
-                "windDirection": 274,
-                "shortForecast": "light rain"
+                "startTime": "2026-08-10T03:00:00+00:00",
+                "temperature": 14.38,
+                "windSpeed": 19.97641,
+                "windDirection": 266,
+                "shortForecast": "moderate rain"
             },
             {
-                "startTime": "2026-08-09T18:00:00+00:00",
-                "temperature": 13.72,
-                "windSpeed": 11.09552,
-                "windDirection": 287,
+                "startTime": "2026-08-10T06:00:00+00:00",
+                "temperature": 15.26,
+                "windSpeed": 27.425620000000002,
+                "windDirection": 243,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Night has settled over Subiaco with a soft, pewter sky and the smell of wet pavement in the air. Clouds are knitting themselves thicker, dimming the edges of the evening; the sun is long gone and the UV, for practical purposes, is asleep. It\u2019s not a clear night\u2014the light is diffused, streetlamps wearing small halos, the horizon slightly smudged as a quiet change arrives.\n\nLight rain is expected to drift in late and linger into the small hours, promising a gentle, tapping soundtrack rather than a storm. Expect a muted, grey-tinged start if you\u2019re up early; any sunshine will be fleeting at best until the clouds sort themselves out, and the UV will stay low until much later in the morning. Dress for damp: a light waterproof layer, closed shoes, something cozy at the cuffs. If you\u2019re heading out now, take an umbrella and patience; if you\u2019re staying in, let the weather slow you down\u2014prep tomorrow\u2019s bag, file the stray papers on the desk, or take a short, deliberate walk under the shop awnings just to feel the cool air without surrendering to the drizzle.",
-    "color_code": "#2c3e50",
-    "timestamp": "2026-08-09 21:45:23",
+    "weather_report": "Rain slipped through before dawn and now the morning sits under a soft pewter lid, the streets clean and glistening. Showers are still about, lighter and more scattered than earlier, with the sun only flirting from behind a high, woolly ceiling. UV stays modest for winter, rising a touch if the clouds part briefly near midday. The air is crisp and rinsed, visibility good though the light is flat, colors muted like old photographs.\n\nExpect a day of on-and-off sprinkles rather than a deluge, with the chance of a shy brightening later though clouds are likely to keep the upper hand. It\u2019s a pleasant sort of dreary: gentle, cool, and unhurried. Dress in easy layers with a light waterproof and shoes that don\u2019t mind puddles; carry a small umbrella, and keep sunglasses in your pocket for those quick, silvery breaks. It\u2019s a fine morning to take care of nearby errands between showers, linger by a caf\u00e9 window with something warm, or duck into a gallery or the library. If a gap opens, a quick stroll through the park will feel tonic\u2014the paths dark with rain, the leaves singing quietly.",
+    "color_code": "#6E7F8D",
+    "timestamp": "2026-08-10 09:21:52",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94965748334766,
-        "longitude": 115.8208603342648,
+        "latitude": -31.94961320108706,
+        "longitude": 115.8208550423499,
         "timezone": "Australia/Perth"
     }
 }
