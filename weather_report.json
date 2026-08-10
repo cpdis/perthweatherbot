@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94961320108706,
-            "longitude": 115.8208550423499
+            "latitude": -31.94970257515915,
+            "longitude": 115.8207786885
         },
         "current_conditions": {
-            "timestamp": "2026-08-10T01:21:52+00:00",
-            "temperature_c": 13.84,
-            "temperature_f": 56.912,
-            "humidity": 92,
-            "wind_speed_mph": 2.99758,
-            "wind_direction": 275,
+            "timestamp": "2026-08-10T14:17:49+00:00",
+            "temperature_c": 7.53,
+            "temperature_f": 45.554,
+            "humidity": 89,
+            "wind_speed_mph": 14.697090000000001,
+            "wind_direction": 174,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-08-10T03:00:00+00:00",
-                "temperature": 14.38,
-                "windSpeed": 19.97641,
-                "windDirection": 266,
-                "shortForecast": "moderate rain"
+                "startTime": "2026-08-10T15:00:00+00:00",
+                "temperature": 7.53,
+                "windSpeed": 13.198300000000001,
+                "windDirection": 165,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-08-10T06:00:00+00:00",
-                "temperature": 15.26,
-                "windSpeed": 27.425620000000002,
-                "windDirection": 243,
+                "startTime": "2026-08-10T18:00:00+00:00",
+                "temperature": 7.68,
+                "windSpeed": 10.044130000000001,
+                "windDirection": 145,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Rain slipped through before dawn and now the morning sits under a soft pewter lid, the streets clean and glistening. Showers are still about, lighter and more scattered than earlier, with the sun only flirting from behind a high, woolly ceiling. UV stays modest for winter, rising a touch if the clouds part briefly near midday. The air is crisp and rinsed, visibility good though the light is flat, colors muted like old photographs.\n\nExpect a day of on-and-off sprinkles rather than a deluge, with the chance of a shy brightening later though clouds are likely to keep the upper hand. It\u2019s a pleasant sort of dreary: gentle, cool, and unhurried. Dress in easy layers with a light waterproof and shoes that don\u2019t mind puddles; carry a small umbrella, and keep sunglasses in your pocket for those quick, silvery breaks. It\u2019s a fine morning to take care of nearby errands between showers, linger by a caf\u00e9 window with something warm, or duck into a gallery or the library. If a gap opens, a quick stroll through the park will feel tonic\u2014the paths dark with rain, the leaves singing quietly.",
-    "color_code": "#6E7F8D",
-    "timestamp": "2026-08-10 09:21:52",
+    "weather_report": "Subiaco settles into a damp, silvery night; clouds hang low and the first proper spits of light rain arrive around late evening, with more drifting through the small hours. Streetlights blur at the edges, roads sheen, and the air smells rinsed. There\u2019s no sun to speak of now and the UV is essentially nil; if showers linger toward morning, expect a muted, pewter start with only shy hints of brightness until the sky can find a break. Clarity is soft rather than sharp, the kind of night that makes sound travel farther and footsteps quieter.\n\nDress for easy comfort and drizzle: a light waterproof or hooded jacket, closed shoes that won\u2019t mind slick pavements, and an umbrella you won\u2019t curse carrying. If you\u2019re venturing out, keep it unhurried\u2014a short amble to feel the cool on your face, a late tram-stop snack run, or a gentle ride home with lights and caution. Indoors, it\u2019s a good night to finish a chapter, prep tomorrow\u2019s bag, and let the rain patter write the transitions between tasks.",
+    "color_code": "#3d4956",
+    "timestamp": "2026-08-10 22:17:50",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94961320108706,
-        "longitude": 115.8208550423499,
+        "latitude": -31.94970257515915,
+        "longitude": 115.8207786885,
         "timezone": "Australia/Perth"
     }
 }
