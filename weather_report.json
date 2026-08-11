@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Crawley",
             "country": "AU",
-            "latitude": -31.94968673310189,
-            "longitude": 115.8207991446419
+            "latitude": -31.9841742536072,
+            "longitude": 115.8181603265063
         },
         "current_conditions": {
-            "timestamp": "2026-08-11T01:19:55+00:00",
-            "temperature_c": 9.13,
-            "temperature_f": 48.434,
-            "humidity": 84,
-            "wind_speed_mph": 1.00665,
-            "wind_direction": 173,
-            "description": "few clouds"
+            "timestamp": "2026-08-11T14:16:58+00:00",
+            "temperature_c": 10.41,
+            "temperature_f": 50.738,
+            "humidity": 85,
+            "wind_speed_mph": 8.03083,
+            "wind_direction": 170,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-08-11T03:00:00+00:00",
-                "temperature": 9.98,
-                "windSpeed": 11.6324,
-                "windDirection": 182,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-08-11T15:00:00+00:00",
+                "temperature": 10.41,
+                "windSpeed": 6.711,
+                "windDirection": 164,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-08-11T06:00:00+00:00",
-                "temperature": 13.86,
-                "windSpeed": 9.99939,
-                "windDirection": 201,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-08-11T18:00:00+00:00",
+                "temperature": 9.33,
+                "windSpeed": 6.08464,
+                "windDirection": 100,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a soft patchwork sky, the light gentle and a little muted, as if the day is clearing its throat. Through late morning the clouds break into looser tatters, and by afternoon they drift apart enough to let steady, honest sunshine find the streets. Expect a day of shifting brightness rather than glare; the air feels clean and the distances sharp. Even in winter, midday UV can be noticeable here, tempered but not tamed by cloud, so sunglasses and a dab of sunscreen are wise if you linger outdoors.\n\nIt looks like a quietly pleasant day. Dress in easy layers: a comfortable knit with a light jacket you can shrug off when the sun takes charge for a spell. This is weather for errands on foot, a slow coffee at a street table, or a meander through the bookshops before letting the afternoon light pull you toward a park bench. If you\u2019ve laundry to dry or a herb box to tend, the clearing sky will reward the patient.",
-    "color_code": "#9BB7D4",
-    "timestamp": "2026-08-11 09:19:56",
+    "weather_report": "Crawley winds down beneath a cloudless vault, the kind of late summer evening that remembers the day\u2019s bright theatre. Through mid-afternoon and into early evening the sun was unblinking and vivid, with UV running high enough to demand shade, sunglasses, and a dab of sunscreen; now, with night settled, UV has ebbed to nothing and the sky stays clean and glassy, stars pricking through as the heat loosens its grip. The air feels clear and unhurried, the sort that carries distant sounds a little farther than usual.\n\nIt looks like a pleasant close to the day: cool rather than cold, more cardigan than coat. If you step out, light layers will do, perhaps a scarf tossed in a pocket for the small hours. A quiet walk to air the mind, watering the last of the garden, or sitting by an open window with a gentle book would suit the mood; even taking the bins out becomes a small, contemplative errand under this crisp, ink-blue sky.",
+    "color_code": "#0b1d39",
+    "timestamp": "2026-08-11 22:16:59",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968673310189,
-        "longitude": 115.8207991446419,
+        "name": "Crawley",
+        "latitude": -31.9841742536072,
+        "longitude": 115.8181603265063,
         "timezone": "Australia/Perth"
     }
 }
