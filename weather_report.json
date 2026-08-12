@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Osborne Park",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.90848704175678,
-            "longitude": 115.8018017738802
+            "latitude": -31.94968647095025,
+            "longitude": 115.8208025986466
         },
         "current_conditions": {
-            "timestamp": "2026-08-12T01:28:48+00:00",
-            "temperature_c": 12.3,
-            "temperature_f": 54.14,
+            "timestamp": "2026-08-12T14:18:32+00:00",
+            "temperature_c": 11.46,
+            "temperature_f": 52.628,
             "humidity": 81,
-            "wind_speed_mph": 2.99758,
-            "wind_direction": 24,
+            "wind_speed_mph": 6.80048,
+            "wind_direction": 129,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-08-12T03:00:00+00:00",
-                "temperature": 13.15,
-                "windSpeed": 1.83434,
-                "windDirection": 28,
+                "startTime": "2026-08-12T15:00:00+00:00",
+                "temperature": 11.46,
+                "windSpeed": 6.06227,
+                "windDirection": 116,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-08-12T06:00:00+00:00",
-                "temperature": 15.33,
-                "windSpeed": 6.4873,
-                "windDirection": 242,
+                "startTime": "2026-08-12T18:00:00+00:00",
+                "temperature": 10.51,
+                "windSpeed": 5.45828,
+                "windDirection": 112,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Osborne Park wakes under a rinsed-blue sky, the light already sharpening edges and warming facades. The forecast keeps faith with the morning\u2019s promise: clear and bright through late morning into early afternoon, the kind of open, uncomplicated day where colors seem to stand straighter. Despite the winter calendar, the sun will gather a bit of bite by midday, with UV likely in the moderate range; a hat, sunglasses, and a sweep of sunscreen are prudent if you linger outdoors. Dress in easy layers for a cool start and a gentler, milder noon. It\u2019s a pleasant day for ordinary pleasures: a slow walk to the shops, a coffee at a sunny table, hanging out fresh washing, trimming the herb pots, or cycling a couple of errands before the afternoon light turns softer. Clear air, simple skies, and a sense of room to breathe.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-08-12 09:28:50",
+    "weather_report": "Subiaco settles into late evening under an uncomplicated, cloudless sky. The air feels clean and open, streetlights haloed but the stars unbothered. UV is essentially absent now, and the clarity is high enough to make distant rooftops look etched. The forecast keeps things simple: clear now and through the night, a quiet stretch made for unhurried breaths and easy thoughts.\n\nExpect a bright, sun-forward start when morning arrives; with clear skies, UV will ramp up quickly once the sun is above the houses, so plan shade or sunscreen if you\u2019ll be out a while. For tonight, a light layer or soft sweater suits the slower, cooler edge that follows sunset. It\u2019s pleasant weather for a short amble to post a letter, watering the balcony pots, or a gentle loop with the dog before turning in. If you\u2019re staying in, crack a window, make tea, and let the stillness do its work; if you\u2019re out, a calm ride home and an early night will fit the mood this sky is offering.",
+    "color_code": "#0b1f3a",
+    "timestamp": "2026-08-12 22:18:33",
     "location": {
-        "name": "Osborne Park",
-        "latitude": -31.90848704175678,
-        "longitude": 115.8018017738802,
+        "name": "Subiaco",
+        "latitude": -31.94968647095025,
+        "longitude": 115.8208025986466,
         "timezone": "Australia/Perth"
     }
 }
