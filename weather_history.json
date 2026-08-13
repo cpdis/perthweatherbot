@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-08-06 10:09:25",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9496836286277,
-      "longitude": 115.820832865764,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-06T02:09:24+00:00",
-      "temperature_c": 16.81,
-      "temperature_f": 62.257999999999996,
-      "humidity": 65,
-      "wind_speed_mph": 7.47158,
-      "wind_direction": 347,
-      "description": "clear sky"
-    },
-    "report_summary": "Midmorning in Subiaco opens under a clean, unbroken blue. The light is crisp and forgiving, sharpeni...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-08-06 23:13:29",
     "location": {
       "name": "Jolimont",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco wakes under an honest blue, the kind that sharpens edges and invites you out the door. The m...",
     "color_code": "#7EC8E3"
+  },
+  {
+    "timestamp": "2026-08-13 22:19:51",
+    "location": {
+      "name": "Jolimont",
+      "latitude": -31.94228351214189,
+      "longitude": 115.8051095302438,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-08-13T14:19:50+00:00",
+      "temperature_c": 12.14,
+      "temperature_f": 53.852000000000004,
+      "humidity": 80,
+      "wind_speed_mph": 4.60822,
+      "wind_direction": 160,
+      "description": "clear sky"
+    },
+    "report_summary": "Jolimont settles into a clean, quiet night. The sky is swept clear, stars sharp as pins, the air unt...",
+    "color_code": "#0d1b2a"
   }
 ]
