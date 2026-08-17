@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9496856458182,
-            "longitude": 115.8208015633464
+            "latitude": -31.94968512432802,
+            "longitude": 115.8208021351054
         },
         "current_conditions": {
-            "timestamp": "2026-08-17T01:00:21+00:00",
-            "temperature_c": 16.21,
-            "temperature_f": 61.178000000000004,
-            "humidity": 60,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 10,
-            "description": "clear sky"
+            "timestamp": "2026-08-17T13:35:55+00:00",
+            "temperature_c": 12.63,
+            "temperature_f": 54.734,
+            "humidity": 79,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 240,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2026-08-17T03:00:00+00:00",
-                "temperature": 17.22,
-                "windSpeed": 24.8307,
-                "windDirection": 320,
-                "shortForecast": "light rain"
+                "startTime": "2026-08-17T15:00:00+00:00",
+                "temperature": 12.63,
+                "windSpeed": 16.21825,
+                "windDirection": 237,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2026-08-17T06:00:00+00:00",
-                "temperature": 17.24,
-                "windSpeed": 26.86637,
-                "windDirection": 261,
-                "shortForecast": "moderate rain"
+                "startTime": "2026-08-17T18:00:00+00:00",
+                "temperature": 12.29,
+                "windSpeed": 11.90084,
+                "windDirection": 237,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a pewter sky, the light soft and a little sullen. Clouds are thickening, with light showers likely late in the morning and rain settling in more firmly through the early afternoon. Sunshine will be scarce, arriving only in brief, watery glimmers if the ceiling breaks; the UV should stay muted by the cloud and rain. The air is cool and clean, the edges of things slightly blurred, and streets soon to take on that mirror-bright sheen that makes colors look deeper.\n\nDress in layers with a light waterproof on top, shoes that won\u2019t mind a puddle, and an umbrella you can forget about until needed. Use the morning to run simple errands before the heavier bursts, then let the afternoon turn inward: a quiet table by a cafe window, a deliberate browse at the library, or tidying the week with a pen while the rain keeps time on the awnings. If you wander, make it an unhurried loop under verandas and trees, following the rhythm of the showers rather than fighting them.",
-    "color_code": "#6D7A88",
-    "timestamp": "2026-08-17 09:00:22",
+    "weather_report": "Night has settled over Subiaco with a scatter of cloud drifting across a calm sky, the moon slipping in and out like a shy neighbor. The day has been a patchwork of sunshine and shade, more bright than brooding, with light softened by passing cloud; UV bite has faded to nothing now and, earlier, would have been tempered rather than fierce. Visibility feels clean and uncomplicated, the kind of evening where distant rooftops and trees draw their outlines crisply against the dimming blue. Expect the rest of tonight to stay dry and partly cloudy, with the occasional star winking through.\n\nDress in easy layers: a light jacket or cardigan if you\u2019re lingering outdoors, sleeves you can push up if you keep moving. It\u2019s a night for small, contented errands and unrushed routines: a gentle walk around the block, watering the balcony pots, sorting tomorrow\u2019s bag, or a quiet lap through the neighborhood to clear the day from your head. If you\u2019re catching the last of the evening, look for breaks in the cloud to steal a short moment of sky; if you\u2019re staying in, open a window and let the tempered air drift through.",
+    "color_code": "#1f2a44",
+    "timestamp": "2026-08-17 21:35:56",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.9496856458182,
-        "longitude": 115.8208015633464,
+        "latitude": -31.94968512432802,
+        "longitude": 115.8208021351054,
         "timezone": "Australia/Perth"
     }
 }
