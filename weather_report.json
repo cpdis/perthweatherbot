@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94968885448684,
-            "longitude": 115.8208101119821
+            "latitude": -31.95400364054806,
+            "longitude": 115.8527159849506
         },
         "current_conditions": {
-            "timestamp": "2026-08-18T00:58:26+00:00",
-            "temperature_c": 12.23,
-            "temperature_f": 54.014,
-            "humidity": 79,
-            "wind_speed_mph": 6.91233,
-            "wind_direction": 40,
-            "description": "overcast clouds"
+            "timestamp": "2026-08-18T13:38:02+00:00",
+            "temperature_c": 14.93,
+            "temperature_f": 58.874,
+            "humidity": 64,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 310,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-08-18T03:00:00+00:00",
-                "temperature": 12.84,
-                "windSpeed": 5.86094,
-                "windDirection": 285,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-08-18T15:00:00+00:00",
+                "temperature": 14.93,
+                "windSpeed": 9.03748,
+                "windDirection": 300,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-08-18T06:00:00+00:00",
-                "temperature": 17.09,
-                "windSpeed": 10.133610000000001,
-                "windDirection": 289,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-08-18T18:00:00+00:00",
+                "temperature": 13.75,
+                "windSpeed": 8.45586,
+                "windDirection": 305,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Morning in Subiaco slips in under a quilt of broken cloud, light sifting through in soft intervals. The day ahead looks changeable rather than dour: patches of sun brightening pavements, then a quick return to silvery shade. Visibility feels honest and unvarnished\u2014clean air with a muted horizon\u2014while the sun, when it finds a gap, has a brief, warm insistence. UV should stay on the gentler side for August but will sharpen around midday when the cloud thins, so a touch of protection won\u2019t go amiss.\n\nIt reads as a quietly pleasant day if you dress with a little foresight: light layers, a cardigan or windproof jacket, and sunglasses tucked in a pocket for those brighter spells. It\u2019s good weather for unhurried errands, a stroll to the grocer, or a midmorning coffee by a window where the light drifts in and out. If you\u2019re getting outside around lunch, a brimmed hat or dab of sunscreen is prudent; later, when the clouds knit back together, it\u2019s ideal for a tidy-up in the garden, a book on the veranda, or a steady loop around the neighborhood that keeps you close to home and the promise of another bright break in the sky.",
-    "color_code": "#8FA7C0",
-    "timestamp": "2026-08-18 08:58:27",
+    "weather_report": "Night has settled over Perth under a broad quilt of cloud, the city lights blurred into soft halos and the moon reduced to a smudge. Sunshine has bowed out for the evening and the UV is essentially nil, leaving a dim, silvery calm that feels more introspective than bright. The air reads as quietly damp, the sort of night where sound carries and edges soften.\n\nExpect the overcast to linger, with a gentle, passing rain toward the small hours and a damp hush by early morning. It\u2019s a pleasant-enough night if you dress for it: light layers, a waterproof shell or compact umbrella, closed shoes. Think unhurried plans\u2014an amble around the block before the drizzle arrives, tidying the desk you\u2019ve been ignoring, steeping a pot of tea, queuing a record or a low-lit film, or jotting tomorrow\u2019s list while the world outside softens to grey. If you must be out late, move unhurriedly; the roads and pavements will likely wear a faint sheen.",
+    "color_code": "#2F3A4A",
+    "timestamp": "2026-08-18 21:38:04",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968885448684,
-        "longitude": 115.8208101119821,
+        "name": "Perth",
+        "latitude": -31.95400364054806,
+        "longitude": 115.8527159849506,
         "timezone": "Australia/Perth"
     }
 }
