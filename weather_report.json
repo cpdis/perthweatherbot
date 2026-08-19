@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Osborne Park",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9078348060362,
-            "longitude": 115.801730847667
+            "latitude": -31.94970569207733,
+            "longitude": 115.8208544108
         },
         "current_conditions": {
-            "timestamp": "2026-08-19T00:59:27+00:00",
-            "temperature_c": 15.95,
-            "temperature_f": 60.709999999999994,
-            "humidity": 76,
-            "wind_speed_mph": 5.010880000000001,
-            "wind_direction": 250,
-            "description": "broken clouds"
+            "timestamp": "2026-08-19T13:40:01+00:00",
+            "temperature_c": 13.21,
+            "temperature_f": 55.778000000000006,
+            "humidity": 82,
+            "wind_speed_mph": 1.14087,
+            "wind_direction": 180,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-08-19T03:00:00+00:00",
-                "temperature": 16.51,
-                "windSpeed": 3.0870599999999997,
-                "windDirection": 302,
-                "shortForecast": "light rain"
+                "startTime": "2026-08-19T15:00:00+00:00",
+                "temperature": 13.21,
+                "windSpeed": 1.20798,
+                "windDirection": 253,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-08-19T06:00:00+00:00",
-                "temperature": 18.61,
-                "windSpeed": 8.76904,
-                "windDirection": 267,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-08-19T18:00:00+00:00",
+                "temperature": 13.24,
+                "windSpeed": 4.83192,
+                "windDirection": 93,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Morning in Osborne Park arrives under a quilt of cloud, the light soft and a little blue around the edges. The sun keeps its distance for now, and it may stay shy through late morning as a light shower drifts through around eleven, clearing toward a day of broken cloud and pale spells of brightness. Visibility is decent, the air clean after the sprinkle, and when the sun does lean through the gaps after lunch the UV should stay on the low-to-moderate side, just enough to notice on a longer stroll but hardly fierce.\n\nIt\u2019s a day for easy layers and a light rain jacket, shoes that don\u2019t mind a wet footpath, and a small umbrella you\u2019ll open and close more than once. Run the nearby errands before noon if you like the hush of damp streets, then let the brighter patches tempt you out midafternoon for a gentle walk or a coffee at a window seat to watch the clouds rearrange themselves. Indoors, it\u2019s a good time to clear a corner of the house, mend a button, or read a few pages before the next song, knowing the sky is undecided but civil.",
-    "color_code": "#708090",
-    "timestamp": "2026-08-19 08:59:28",
+    "weather_report": "Subiaco settles into a clear, polished night. The sky is clean as glass and the light has thinned to a deep blue hush; there\u2019s no sunshine now and the UV is essentially absent, leaving the air gentle on the skin and easy on the eyes. Clarity is excellent, the kind that sharpens edges and invites unhurried breathing. It feels pleasant rather than bracing, the kind of evening where a light jacket or soft sweater is enough if you plan to linger outdoors.\n\nThe forecast keeps those skies clear through late evening and into the small hours, a steady, uncomplicated stretch of weather. If you\u2019re stepping out, think comfortable layers and shoes you can walk in without thinking. This is a good time for a quiet loop around the block, to sit on the veranda with a page-turner, or to run that simple errand you\u2019ve been putting off. Let the night do what it does best: tidy the day behind you and set the stage for a bright start when morning comes.",
+    "color_code": "#0C2340",
+    "timestamp": "2026-08-19 21:40:02",
     "location": {
-        "name": "Osborne Park",
-        "latitude": -31.9078348060362,
-        "longitude": 115.801730847667,
+        "name": "Subiaco",
+        "latitude": -31.94970569207733,
+        "longitude": 115.8208544108,
         "timezone": "Australia/Perth"
     }
 }
