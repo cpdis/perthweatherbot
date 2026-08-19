@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Osborne Park",
             "country": "AU",
-            "latitude": -31.95400364054806,
-            "longitude": 115.8527159849506
+            "latitude": -31.9078348060362,
+            "longitude": 115.801730847667
         },
         "current_conditions": {
-            "timestamp": "2026-08-18T13:38:02+00:00",
-            "temperature_c": 14.93,
-            "temperature_f": 58.874,
-            "humidity": 64,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 310,
+            "timestamp": "2026-08-19T00:59:27+00:00",
+            "temperature_c": 15.95,
+            "temperature_f": 60.709999999999994,
+            "humidity": 76,
+            "wind_speed_mph": 5.010880000000001,
+            "wind_direction": 250,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-08-18T15:00:00+00:00",
-                "temperature": 14.93,
-                "windSpeed": 9.03748,
-                "windDirection": 300,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-08-19T03:00:00+00:00",
+                "temperature": 16.51,
+                "windSpeed": 3.0870599999999997,
+                "windDirection": 302,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-08-18T18:00:00+00:00",
-                "temperature": 13.75,
-                "windSpeed": 8.45586,
-                "windDirection": 305,
-                "shortForecast": "light rain"
+                "startTime": "2026-08-19T06:00:00+00:00",
+                "temperature": 18.61,
+                "windSpeed": 8.76904,
+                "windDirection": 267,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Night has settled over Perth under a broad quilt of cloud, the city lights blurred into soft halos and the moon reduced to a smudge. Sunshine has bowed out for the evening and the UV is essentially nil, leaving a dim, silvery calm that feels more introspective than bright. The air reads as quietly damp, the sort of night where sound carries and edges soften.\n\nExpect the overcast to linger, with a gentle, passing rain toward the small hours and a damp hush by early morning. It\u2019s a pleasant-enough night if you dress for it: light layers, a waterproof shell or compact umbrella, closed shoes. Think unhurried plans\u2014an amble around the block before the drizzle arrives, tidying the desk you\u2019ve been ignoring, steeping a pot of tea, queuing a record or a low-lit film, or jotting tomorrow\u2019s list while the world outside softens to grey. If you must be out late, move unhurriedly; the roads and pavements will likely wear a faint sheen.",
-    "color_code": "#2F3A4A",
-    "timestamp": "2026-08-18 21:38:04",
+    "weather_report": "Morning in Osborne Park arrives under a quilt of cloud, the light soft and a little blue around the edges. The sun keeps its distance for now, and it may stay shy through late morning as a light shower drifts through around eleven, clearing toward a day of broken cloud and pale spells of brightness. Visibility is decent, the air clean after the sprinkle, and when the sun does lean through the gaps after lunch the UV should stay on the low-to-moderate side, just enough to notice on a longer stroll but hardly fierce.\n\nIt\u2019s a day for easy layers and a light rain jacket, shoes that don\u2019t mind a wet footpath, and a small umbrella you\u2019ll open and close more than once. Run the nearby errands before noon if you like the hush of damp streets, then let the brighter patches tempt you out midafternoon for a gentle walk or a coffee at a window seat to watch the clouds rearrange themselves. Indoors, it\u2019s a good time to clear a corner of the house, mend a button, or read a few pages before the next song, knowing the sky is undecided but civil.",
+    "color_code": "#708090",
+    "timestamp": "2026-08-19 08:59:28",
     "location": {
-        "name": "Perth",
-        "latitude": -31.95400364054806,
-        "longitude": 115.8527159849506,
+        "name": "Osborne Park",
+        "latitude": -31.9078348060362,
+        "longitude": 115.801730847667,
         "timezone": "Australia/Perth"
     }
 }

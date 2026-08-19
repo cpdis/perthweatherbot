@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-08-11 22:16:59",
-    "location": {
-      "name": "Crawley",
-      "latitude": -31.9841742536072,
-      "longitude": 115.8181603265063,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-11T14:16:58+00:00",
-      "temperature_c": 10.41,
-      "temperature_f": 50.738,
-      "humidity": 85,
-      "wind_speed_mph": 8.03083,
-      "wind_direction": 170,
-      "description": "clear sky"
-    },
-    "report_summary": "Crawley winds down beneath a cloudless vault, the kind of late summer evening that remembers the day...",
-    "color_code": "#0b1d39"
-  },
-  {
     "timestamp": "2026-08-12 09:28:50",
     "location": {
       "name": "Osborne Park",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Night has settled over Perth under a broad quilt of cloud, the city lights blurred into soft halos a...",
     "color_code": "#2F3A4A"
+  },
+  {
+    "timestamp": "2026-08-19 08:59:28",
+    "location": {
+      "name": "Osborne Park",
+      "latitude": -31.9078348060362,
+      "longitude": 115.801730847667,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-08-19T00:59:27+00:00",
+      "temperature_c": 15.95,
+      "temperature_f": 60.709999999999994,
+      "humidity": 76,
+      "wind_speed_mph": 5.010880000000001,
+      "wind_direction": 250,
+      "description": "broken clouds"
+    },
+    "report_summary": "Morning in Osborne Park arrives under a quilt of cloud, the light soft and a little blue around the ...",
+    "color_code": "#708090"
   }
 ]
