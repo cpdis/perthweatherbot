@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Jolimont",
             "country": "AU",
-            "latitude": -31.94968512432802,
-            "longitude": 115.8208021351054
+            "latitude": -31.94240461453247,
+            "longitude": 115.8053061073688
         },
         "current_conditions": {
-            "timestamp": "2026-08-20T00:58:58+00:00",
-            "temperature_c": 13.1,
-            "temperature_f": 55.58,
+            "timestamp": "2026-08-20T13:41:48+00:00",
+            "temperature_c": 14.03,
+            "temperature_f": 57.254,
             "humidity": 87,
-            "wind_speed_mph": 1.14087,
-            "wind_direction": 70,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 190,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-08-20T03:00:00+00:00",
-                "temperature": 15.37,
-                "windSpeed": 1.02902,
-                "windDirection": 71,
+                "startTime": "2026-08-20T15:00:00+00:00",
+                "temperature": 14.03,
+                "windSpeed": 5.63724,
+                "windDirection": 120,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-08-20T06:00:00+00:00",
-                "temperature": 18.57,
-                "windSpeed": 9.015110000000002,
-                "windDirection": 233,
-                "shortForecast": "few clouds"
+                "startTime": "2026-08-20T18:00:00+00:00",
+                "temperature": 12.63,
+                "windSpeed": 6.06227,
+                "windDirection": 105,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a clean, blue morning, the air still a touch crisp but softening as the sun climbs. By late morning the sky is set to stay mostly clear, the light turning bright and honest, with visibility sharp enough to make colors feel freshly painted. Through early afternoon a few gentlemanly clouds may wander by without changing the mood. Expect a moderate UV push around midday; shade, sunglasses, and a dab of sunscreen will be kind to you even in late winter.\n\nIt looks like a day for light layers and a hat, something you can peel off when the sun leans warm on your shoulders. Take your coffee outdoors, let a short errand become a small walk, and choose the sunny side of the street. By midday, lunch on a bench or a quiet read by a window will feel unreasonably pleasant; later, a gentle spin on the bike or a lap through the neighborhood will close the afternoon neatly. Nothing dramatic, just clear, steady weather that invites you out and promises to keep you company.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-08-20 08:58:59",
+    "weather_report": "Jolimont slips into night under a flawless, polished sky; the kind of clarity that makes the streetlights seem shy and the constellations a touch bolder. Forecasts keep it simple: clear through the late evening and on toward the small hours, with dawn set to break clean and bright. Sunshine will be generous once it returns, but for now the UV rests at nearly nothing. The air feels honest and unadorned, inviting a slow breath and an unhurried pace.\n\nIt\u2019s a pleasant night to take a gentle loop around the block or linger on a balcony with a warm mug, and then turn in early so the first light can find you rested. Dress with a light jacket or soft sweater; the clear sky tends to nibble at warmth after dark. If you\u2019ll be out after sunrise, a hat and sunglasses will earn their keep under the open blue. Indoors, this is good weather for quiet chores, watering the plants, or finally finishing that stubborn chapter.",
+    "color_code": "#0B1E3D",
+    "timestamp": "2026-08-20 21:41:49",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968512432802,
-        "longitude": 115.8208021351054,
+        "name": "Jolimont",
+        "latitude": -31.94240461453247,
+        "longitude": 115.8053061073688,
         "timezone": "Australia/Perth"
     }
 }
