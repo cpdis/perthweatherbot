@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-08-16 21:26:57",
-    "location": {
-      "name": "City Beach",
-      "latitude": -31.95186895,
-      "longitude": 115.7612125666667,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-16T13:26:56+00:00",
-      "temperature_c": 17.21,
-      "temperature_f": 62.978,
-      "humidity": 51,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 50,
-      "description": "clear sky"
-    },
-    "report_summary": "Night has settled softly over City Beach, and the sky is clean as glass. The forecast keeps it that ...",
-    "color_code": "#0b1e3a"
-  },
-  {
     "timestamp": "2026-08-17 09:00:22",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Night has settled over Subiaco, the sky mottled with scattered cloud drifting across a deep, steady ...",
     "color_code": "#1f2a44"
+  },
+  {
+    "timestamp": "2026-08-24 09:01:41",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968038309451,
+      "longitude": 115.8208083533826,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-08-24T00:58:12+00:00",
+      "temperature_c": 13.94,
+      "temperature_f": 57.092,
+      "humidity": 85,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 50,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco wakes under a tender blue, with only a scattering of cloud to soften the edges of the sun. T...",
+    "color_code": "#87CEEB"
   }
 ]
