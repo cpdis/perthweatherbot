@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Kirribilli",
             "country": "AU",
-            "latitude": -31.94968426241412,
-            "longitude": 115.8208012209595
+            "latitude": -33.84495695278699,
+            "longitude": 151.215207393742
         },
         "current_conditions": {
-            "timestamp": "2026-08-25T01:01:17+00:00",
-            "temperature_c": 15.01,
-            "temperature_f": 59.018,
-            "humidity": 75,
-            "wind_speed_mph": 10.35731,
+            "timestamp": "2026-08-25T13:44:38+00:00",
+            "temperature_c": 16.24,
+            "temperature_f": 61.232,
+            "humidity": 83,
+            "wind_speed_mph": 8.0532,
             "wind_direction": 10,
-            "description": "overcast clouds"
+            "description": "moderate rain"
         },
         "forecast": [
             {
-                "startTime": "2026-08-25T03:00:00+00:00",
-                "temperature": 16.4,
-                "windSpeed": 14.3168,
-                "windDirection": 334,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-08-25T15:00:00+00:00",
+                "temperature": 16.24,
+                "windSpeed": 6.711,
+                "windDirection": 326,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-08-25T06:00:00+00:00",
-                "temperature": 19.1,
-                "windSpeed": 16.553800000000003,
-                "windDirection": 319,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-08-25T18:00:00+00:00",
+                "temperature": 16.12,
+                "windSpeed": 7.22551,
+                "windDirection": 314,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Morning in Subiaco arrives under a quilt of cloud, the sun pushing through in shy intervals before the ceiling thickens toward a steadier overcast later on. Expect a muted, silvery light with soft edges and gentle contrast; views will feel calm rather than crisp. Sunshine looks fleeting today, and the UV should stay on the tame side, edging to moderate only if a brighter spell breaks through.\n\nIt\u2019s a day for light layers: a breathable long-sleeve or a soft cardigan, with sunglasses only if your eyes are sensitive to the glare of bright patches. The air suits unhurried errands on foot, a coffee taken by a window, or a mid-morning loop around the block with a good thought for company. If you\u2019re working from home, open the blinds and let the diffuse light do its quiet work; if you\u2019re out, a small tote and comfortable shoes will match the mood. It looks pleasant in a subdued way, more contemplative than dazzling.",
-    "color_code": "#9BA7B5",
-    "timestamp": "2026-08-25 09:01:19",
+    "weather_report": "Kirribilli settles under a soft, sea-salted hush tonight, the sky quilted with cloud and light rain brushing the streets now and again. The harbor lights smear on the water, and visibility is gentle rather than sharp, as if the city has lowered its voice. There\u2019s no sunshine to speak of at this hour and the UV is effectively nil.\n\nThrough the early hours, expect those light showers to drift in and out, leaving a grey, slightly cool start to the day. The sun will be a shy visitor at best, with any bright spells brief; UV should stay modest for late winter unless the cloud thins more than expected. Dress for damp pavements: a light waterproof, something with pockets, shoes that don\u2019t mind puddles, and a small umbrella that actually fits in your bag. Good ways to meet the weather: steep a late cup of tea and set out tomorrow\u2019s rain layer, or in the morning slip to a quiet caf\u00e9, run a few close-by errands between passing showers, or take the ferry a stop or two just to watch the harbor in its slate mood.",
+    "color_code": "#2c3e50",
+    "timestamp": "2026-08-25 23:44:39",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968426241412,
-        "longitude": 115.8208012209595,
-        "timezone": "Australia/Perth"
+        "name": "Kirribilli",
+        "latitude": -33.84495695278699,
+        "longitude": 151.215207393742,
+        "timezone": "Australia/Sydney"
     }
 }
