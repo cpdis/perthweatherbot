@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-08-17 21:35:56",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968512432802,
-      "longitude": 115.8208021351054,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-17T13:35:55+00:00",
-      "temperature_c": 12.63,
-      "temperature_f": 54.734,
-      "humidity": 79,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 240,
-      "description": "light rain"
-    },
-    "report_summary": "Night has settled over Subiaco with a scatter of cloud drifting across a calm sky, the moon slipping...",
-    "color_code": "#1f2a44"
-  },
-  {
     "timestamp": "2026-08-18 08:58:27",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco settles into a clear, velvety night; the sky is scrubbed clean and the air feels unbusy, the...",
     "color_code": "#0b1e3b"
+  },
+  {
+    "timestamp": "2026-08-25 09:01:19",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968426241412,
+      "longitude": 115.8208012209595,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-08-25T01:01:17+00:00",
+      "temperature_c": 15.01,
+      "temperature_f": 59.018,
+      "humidity": 75,
+      "wind_speed_mph": 10.35731,
+      "wind_direction": 10,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Morning in Subiaco arrives under a quilt of cloud, the sun pushing through in shy intervals before t...",
+    "color_code": "#9BA7B5"
   }
 ]
