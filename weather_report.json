@@ -3,42 +3,42 @@
         "location": {
             "name": "Kirribilli",
             "country": "AU",
-            "latitude": -33.84495695278699,
-            "longitude": 151.215207393742
+            "latitude": -33.848026850713,
+            "longitude": 151.2135255003455
         },
         "current_conditions": {
-            "timestamp": "2026-08-25T13:44:38+00:00",
-            "temperature_c": 16.24,
-            "temperature_f": 61.232,
-            "humidity": 83,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 10,
-            "description": "moderate rain"
+            "timestamp": "2026-08-26T01:02:34+00:00",
+            "temperature_c": 17.42,
+            "temperature_f": 63.35600000000001,
+            "humidity": 71,
+            "wind_speed_mph": 18.410510000000002,
+            "wind_direction": 200,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-08-25T15:00:00+00:00",
-                "temperature": 16.24,
-                "windSpeed": 6.711,
-                "windDirection": 326,
+                "startTime": "2026-08-26T03:00:00+00:00",
+                "temperature": 17.63,
+                "windSpeed": 18.70132,
+                "windDirection": 185,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-08-25T18:00:00+00:00",
-                "temperature": 16.12,
-                "windSpeed": 7.22551,
-                "windDirection": 314,
-                "shortForecast": "light rain"
+                "startTime": "2026-08-26T06:00:00+00:00",
+                "temperature": 18.45,
+                "windSpeed": 14.94316,
+                "windDirection": 180,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Kirribilli settles under a soft, sea-salted hush tonight, the sky quilted with cloud and light rain brushing the streets now and again. The harbor lights smear on the water, and visibility is gentle rather than sharp, as if the city has lowered its voice. There\u2019s no sunshine to speak of at this hour and the UV is effectively nil.\n\nThrough the early hours, expect those light showers to drift in and out, leaving a grey, slightly cool start to the day. The sun will be a shy visitor at best, with any bright spells brief; UV should stay modest for late winter unless the cloud thins more than expected. Dress for damp pavements: a light waterproof, something with pockets, shoes that don\u2019t mind puddles, and a small umbrella that actually fits in your bag. Good ways to meet the weather: steep a late cup of tea and set out tomorrow\u2019s rain layer, or in the morning slip to a quiet caf\u00e9, run a few close-by errands between passing showers, or take the ferry a stop or two just to watch the harbor in its slate mood.",
-    "color_code": "#2c3e50",
-    "timestamp": "2026-08-25 23:44:39",
+    "weather_report": "Late morning in Kirribilli feels cool and clean, the harbor wearing a soft pewter sheen as cloud thickens toward midday. A light band of rain looks set to drift through early afternoon, then the sky should loosen into broken cloud later, letting through brief, silvery light before evening. It won\u2019t be a sunny day so much as a day of small mercies: a few bright gaps, then back to grey. UV stays modest for winter, edging up only when the sun peeks, and visibility will be good though the headlands will look gently smudged.\n\nIt\u2019s a gentle, slightly damp sort of day. Wear layers and a light waterproof, closed shoes, and keep a compact umbrella or hood handy. If you\u2019re out now, run a few errands or take a short harborfront stroll before the showers; when the rain arrives, tuck into a quiet cafe by a window, answer messages, and watch the ferries trace pale wakes. As the clouds break later, reward yourself with a brief foreshore walk or a quick ferry roundtrip, catching those fleeting patches of blue without lingering long in the wind.",
+    "color_code": "#8FA3B8",
+    "timestamp": "2026-08-26 11:02:35",
     "location": {
         "name": "Kirribilli",
-        "latitude": -33.84495695278699,
-        "longitude": 151.215207393742,
+        "latitude": -33.848026850713,
+        "longitude": 151.2135255003455,
         "timezone": "Australia/Sydney"
     }
 }
