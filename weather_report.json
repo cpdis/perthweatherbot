@@ -3,42 +3,42 @@
         "location": {
             "name": "Kirribilli",
             "country": "AU",
-            "latitude": -33.848026850713,
-            "longitude": 151.2135255003455
+            "latitude": -33.84738404208456,
+            "longitude": 151.2132136724289
         },
         "current_conditions": {
-            "timestamp": "2026-08-26T01:02:34+00:00",
-            "temperature_c": 17.42,
-            "temperature_f": 63.35600000000001,
-            "humidity": 71,
-            "wind_speed_mph": 18.410510000000002,
-            "wind_direction": 200,
+            "timestamp": "2026-08-26T13:51:06+00:00",
+            "temperature_c": 15.04,
+            "temperature_f": 59.071999999999996,
+            "humidity": 72,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 160,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-08-26T03:00:00+00:00",
-                "temperature": 17.63,
-                "windSpeed": 18.70132,
-                "windDirection": 185,
+                "startTime": "2026-08-26T15:00:00+00:00",
+                "temperature": 15.04,
+                "windSpeed": 9.373030000000002,
+                "windDirection": 171,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-08-26T06:00:00+00:00",
-                "temperature": 18.45,
-                "windSpeed": 14.94316,
-                "windDirection": 180,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-08-26T18:00:00+00:00",
+                "temperature": 14.87,
+                "windSpeed": 7.89661,
+                "windDirection": 190,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Late morning in Kirribilli feels cool and clean, the harbor wearing a soft pewter sheen as cloud thickens toward midday. A light band of rain looks set to drift through early afternoon, then the sky should loosen into broken cloud later, letting through brief, silvery light before evening. It won\u2019t be a sunny day so much as a day of small mercies: a few bright gaps, then back to grey. UV stays modest for winter, edging up only when the sun peeks, and visibility will be good though the headlands will look gently smudged.\n\nIt\u2019s a gentle, slightly damp sort of day. Wear layers and a light waterproof, closed shoes, and keep a compact umbrella or hood handy. If you\u2019re out now, run a few errands or take a short harborfront stroll before the showers; when the rain arrives, tuck into a quiet cafe by a window, answer messages, and watch the ferries trace pale wakes. As the clouds break later, reward yourself with a brief foreshore walk or a quick ferry roundtrip, catching those fleeting patches of blue without lingering long in the wind.",
-    "color_code": "#8FA3B8",
-    "timestamp": "2026-08-26 11:02:35",
+    "weather_report": "Kirribilli settles into a muffled, sea-salt hush at this late hour, harbour lights softened by low cloud and the faint promise of drizzle. The night feels cool and a touch damp, more grey than black, with little wind to rearrange it. There will be no sunshine before dawn; the UV index is effectively nil, and the horizon looks blurred under a film of cloud that smudges edges and deepens reflections in the water.\n\nLight rain is likely to drift through after midnight, easing into overcast skies before first ferry bells. It won\u2019t be a sparkling morning, but it should be gentle if a bit cheerless. Dress for a cool, wet-leaning start: a light waterproof over a warm layer, closed shoes that won\u2019t mind slick pavements, and an umbrella you don\u2019t have to think about. At this hour, it\u2019s a good time for small, quiet tasks\u2014a kettle on, a list for tomorrow, a book you can put down when the rain taps the window. If you\u2019re out early, keep the pace unhurried, enjoy the hush on the wharf, and let the soft weather narrow the day to simple errands and a steady rhythm.",
+    "color_code": "#2F3E46",
+    "timestamp": "2026-08-26 23:51:07",
     "location": {
         "name": "Kirribilli",
-        "latitude": -33.848026850713,
-        "longitude": 151.2135255003455,
+        "latitude": -33.84738404208456,
+        "longitude": 151.2132136724289,
         "timezone": "Australia/Sydney"
     }
 }

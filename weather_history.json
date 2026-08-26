@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-08-19 08:59:28",
-    "location": {
-      "name": "Osborne Park",
-      "latitude": -31.9078348060362,
-      "longitude": 115.801730847667,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-19T00:59:27+00:00",
-      "temperature_c": 15.95,
-      "temperature_f": 60.709999999999994,
-      "humidity": 76,
-      "wind_speed_mph": 5.010880000000001,
-      "wind_direction": 250,
-      "description": "broken clouds"
-    },
-    "report_summary": "Morning in Osborne Park arrives under a quilt of cloud, the light soft and a little blue around the ...",
-    "color_code": "#708090"
-  },
-  {
     "timestamp": "2026-08-19 21:40:02",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Late morning in Kirribilli feels cool and clean, the harbor wearing a soft pewter sheen as cloud thi...",
     "color_code": "#8FA3B8"
+  },
+  {
+    "timestamp": "2026-08-26 23:51:07",
+    "location": {
+      "name": "Kirribilli",
+      "latitude": -33.84738404208456,
+      "longitude": 151.2132136724289,
+      "timezone": "Australia/Sydney"
+    },
+    "current_conditions": {
+      "timestamp": "2026-08-26T13:51:06+00:00",
+      "temperature_c": 15.04,
+      "temperature_f": 59.071999999999996,
+      "humidity": 72,
+      "wind_speed_mph": 10.35731,
+      "wind_direction": 160,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Kirribilli settles into a muffled, sea-salt hush at this late hour, harbour lights softened by low c...",
+    "color_code": "#2F3E46"
   }
 ]
