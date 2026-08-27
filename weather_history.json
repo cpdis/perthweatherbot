@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2026-08-20 08:58:59",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968512432802,
-      "longitude": 115.8208021351054,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-20T00:58:58+00:00",
-      "temperature_c": 13.1,
-      "temperature_f": 55.58,
-      "humidity": 87,
-      "wind_speed_mph": 1.14087,
-      "wind_direction": 70,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes under a clean, blue morning, the air still a touch crisp but softening as the sun clim...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2026-08-20 21:41:49",
-    "location": {
-      "name": "Jolimont",
-      "latitude": -31.94240461453247,
-      "longitude": 115.8053061073688,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-20T13:41:48+00:00",
-      "temperature_c": 14.03,
-      "temperature_f": 57.254,
-      "humidity": 87,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 190,
-      "description": "clear sky"
-    },
-    "report_summary": "Jolimont slips into night under a flawless, polished sky; the kind of clarity that makes the streetl...",
-    "color_code": "#0B1E3D"
-  },
-  {
     "timestamp": "2026-08-21 09:02:32",
     "location": {
       "name": "Subiaco",
@@ -298,5 +258,25 @@
     },
     "report_summary": "McMahons Point eases into late afternoon with a soft, slanting light and a sky mottled by passing cl...",
     "color_code": "#7FA1C9"
+  },
+  {
+    "timestamp": "2026-08-28 08:44:43",
+    "location": {
+      "name": "McMahons Point",
+      "latitude": -33.84729766666667,
+      "longitude": 151.2047882,
+      "timezone": "Australia/Sydney"
+    },
+    "current_conditions": {
+      "timestamp": "2026-08-27T22:44:42+00:00",
+      "temperature_c": 12.93,
+      "temperature_f": 55.274,
+      "humidity": 76,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 300,
+      "description": "clear sky"
+    },
+    "report_summary": "McMahons Point wakes under a clear, rinsed-blue sky, the harbour glassy and a little shy in the earl...",
+    "color_code": "#87CEFA"
   }
 ]

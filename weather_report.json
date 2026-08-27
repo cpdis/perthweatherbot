@@ -3,42 +3,42 @@
         "location": {
             "name": "McMahons Point",
             "country": "AU",
-            "latitude": -33.84436999300492,
-            "longitude": 151.2042345014816
+            "latitude": -33.84729766666667,
+            "longitude": 151.2047882
         },
         "current_conditions": {
-            "timestamp": "2026-08-27T07:00:35+00:00",
-            "temperature_c": 16.35,
-            "temperature_f": 61.43,
-            "humidity": 61,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 130,
-            "description": "few clouds"
+            "timestamp": "2026-08-27T22:44:42+00:00",
+            "temperature_c": 12.93,
+            "temperature_f": 55.274,
+            "humidity": 76,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 300,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-08-27T09:00:00+00:00",
-                "temperature": 15.99,
-                "windSpeed": 4.60822,
-                "windDirection": 71,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-08-28T00:00:00+00:00",
+                "temperature": 12.93,
+                "windSpeed": 4.80955,
+                "windDirection": 293,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-08-27T12:00:00+00:00",
-                "temperature": 14.19,
-                "windSpeed": 2.70677,
-                "windDirection": 331,
-                "shortForecast": "few clouds"
+                "startTime": "2026-08-28T03:00:00+00:00",
+                "temperature": 15.08,
+                "windSpeed": 9.3954,
+                "windDirection": 146,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "McMahons Point eases into late afternoon with a soft, slanting light and a sky mottled by passing cloud. The air feels clear and open, the harbor carrying a gentle sheen, while the sun loses its edge; UV is low now and fading to almost nothing as dusk approaches. It\u2019s the kind of hour where colors turn quieter and conversations do too.\n\nThrough the evening the cloud thins from scattered to just a few strays, leaving a mostly open, tranquil night. Expect a pleasant coolness\u2014comfortable if you keep a light layer or a soft sweater, and something to cut the waterfront breeze. It\u2019s a fine time for an unhurried walk along the foreshore, a simple errand run before dinner, or a quiet sit on a balcony with the day unwinding below. If you\u2019re out later, the clearer sky may offer a wink of starlight between the rooftops.",
-    "color_code": "#7FA1C9",
-    "timestamp": "2026-08-27 17:00:43",
+    "weather_report": "McMahons Point wakes under a clear, rinsed-blue sky, the harbour glassy and a little shy in the early light. The air is crisp enough to make breath feel honest, yet the sun already has that winter-bright resolve that sharpens edges and sends shadows walking. Skies are set to stay clean and bright through late morning into early afternoon, the day looking beautifully transparent with long, unbroken views. With the sun so unfiltered, the UV will lift from gentle to insistent by midday; it may be winter, but your skin will still notice.\n\nExpect a day that moves from brisk to comfortably mild. Dress in light layers you can peel back, with sunglasses, a hat, and a touch of sunscreen for the peak hours. It\u2019s a fine morning for small, satisfying errands on foot, a lingered coffee on a sunny bench, or hanging the washing where it can drink the light. Around lunch, a quiet amble along the foreshore or a ferry ride taken on the windward side will feel just right\u2014simple pleasures made clearer by the kind of sky that doesn\u2019t try to complicate things.",
+    "color_code": "#87CEFA",
+    "timestamp": "2026-08-28 08:44:43",
     "location": {
         "name": "McMahons Point",
-        "latitude": -33.84436999300492,
-        "longitude": 151.2042345014816,
+        "latitude": -33.84729766666667,
+        "longitude": 151.2047882,
         "timezone": "Australia/Sydney"
     }
 }
