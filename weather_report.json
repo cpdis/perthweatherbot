@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Kirribilli",
+            "name": "McMahons Point",
             "country": "AU",
-            "latitude": -33.84738404208456,
-            "longitude": 151.2132136724289
+            "latitude": -33.84436999300492,
+            "longitude": 151.2042345014816
         },
         "current_conditions": {
-            "timestamp": "2026-08-26T13:51:06+00:00",
-            "temperature_c": 15.04,
-            "temperature_f": 59.071999999999996,
-            "humidity": 72,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 160,
-            "description": "overcast clouds"
+            "timestamp": "2026-08-27T07:00:35+00:00",
+            "temperature_c": 16.35,
+            "temperature_f": 61.43,
+            "humidity": 61,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 130,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-08-26T15:00:00+00:00",
-                "temperature": 15.04,
-                "windSpeed": 9.373030000000002,
-                "windDirection": 171,
-                "shortForecast": "light rain"
+                "startTime": "2026-08-27T09:00:00+00:00",
+                "temperature": 15.99,
+                "windSpeed": 4.60822,
+                "windDirection": 71,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2026-08-26T18:00:00+00:00",
-                "temperature": 14.87,
-                "windSpeed": 7.89661,
-                "windDirection": 190,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-08-27T12:00:00+00:00",
+                "temperature": 14.19,
+                "windSpeed": 2.70677,
+                "windDirection": 331,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Kirribilli settles into a muffled, sea-salt hush at this late hour, harbour lights softened by low cloud and the faint promise of drizzle. The night feels cool and a touch damp, more grey than black, with little wind to rearrange it. There will be no sunshine before dawn; the UV index is effectively nil, and the horizon looks blurred under a film of cloud that smudges edges and deepens reflections in the water.\n\nLight rain is likely to drift through after midnight, easing into overcast skies before first ferry bells. It won\u2019t be a sparkling morning, but it should be gentle if a bit cheerless. Dress for a cool, wet-leaning start: a light waterproof over a warm layer, closed shoes that won\u2019t mind slick pavements, and an umbrella you don\u2019t have to think about. At this hour, it\u2019s a good time for small, quiet tasks\u2014a kettle on, a list for tomorrow, a book you can put down when the rain taps the window. If you\u2019re out early, keep the pace unhurried, enjoy the hush on the wharf, and let the soft weather narrow the day to simple errands and a steady rhythm.",
-    "color_code": "#2F3E46",
-    "timestamp": "2026-08-26 23:51:07",
+    "weather_report": "McMahons Point eases into late afternoon with a soft, slanting light and a sky mottled by passing cloud. The air feels clear and open, the harbor carrying a gentle sheen, while the sun loses its edge; UV is low now and fading to almost nothing as dusk approaches. It\u2019s the kind of hour where colors turn quieter and conversations do too.\n\nThrough the evening the cloud thins from scattered to just a few strays, leaving a mostly open, tranquil night. Expect a pleasant coolness\u2014comfortable if you keep a light layer or a soft sweater, and something to cut the waterfront breeze. It\u2019s a fine time for an unhurried walk along the foreshore, a simple errand run before dinner, or a quiet sit on a balcony with the day unwinding below. If you\u2019re out later, the clearer sky may offer a wink of starlight between the rooftops.",
+    "color_code": "#7FA1C9",
+    "timestamp": "2026-08-27 17:00:43",
     "location": {
-        "name": "Kirribilli",
-        "latitude": -33.84738404208456,
-        "longitude": 151.2132136724289,
+        "name": "McMahons Point",
+        "latitude": -33.84436999300492,
+        "longitude": 151.2042345014816,
         "timezone": "Australia/Sydney"
     }
 }
