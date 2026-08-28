@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "McMahons Point",
+            "name": "Sydney",
             "country": "AU",
-            "latitude": -33.84729766666667,
-            "longitude": 151.2047882
+            "latitude": -33.8635981532824,
+            "longitude": 151.211817451932
         },
         "current_conditions": {
-            "timestamp": "2026-08-27T22:44:42+00:00",
-            "temperature_c": 12.93,
-            "temperature_f": 55.274,
-            "humidity": 76,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 300,
-            "description": "clear sky"
+            "timestamp": "2026-08-28T08:48:30+00:00",
+            "temperature_c": 15.77,
+            "temperature_f": 60.386,
+            "humidity": 68,
+            "wind_speed_mph": 5.010880000000001,
+            "wind_direction": 171,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-08-28T00:00:00+00:00",
-                "temperature": 12.93,
-                "windSpeed": 4.80955,
-                "windDirection": 293,
-                "shortForecast": "clear sky"
+                "startTime": "2026-08-28T09:00:00+00:00",
+                "temperature": 15.77,
+                "windSpeed": 11.185,
+                "windDirection": 154,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-08-28T03:00:00+00:00",
-                "temperature": 15.08,
-                "windSpeed": 9.3954,
-                "windDirection": 146,
-                "shortForecast": "clear sky"
+                "startTime": "2026-08-28T12:00:00+00:00",
+                "temperature": 15.37,
+                "windSpeed": 7.3821,
+                "windDirection": 156,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "McMahons Point wakes under a clear, rinsed-blue sky, the harbour glassy and a little shy in the early light. The air is crisp enough to make breath feel honest, yet the sun already has that winter-bright resolve that sharpens edges and sends shadows walking. Skies are set to stay clean and bright through late morning into early afternoon, the day looking beautifully transparent with long, unbroken views. With the sun so unfiltered, the UV will lift from gentle to insistent by midday; it may be winter, but your skin will still notice.\n\nExpect a day that moves from brisk to comfortably mild. Dress in light layers you can peel back, with sunglasses, a hat, and a touch of sunscreen for the peak hours. It\u2019s a fine morning for small, satisfying errands on foot, a lingered coffee on a sunny bench, or hanging the washing where it can drink the light. Around lunch, a quiet amble along the foreshore or a ferry ride taken on the windward side will feel just right\u2014simple pleasures made clearer by the kind of sky that doesn\u2019t try to complicate things.",
-    "color_code": "#87CEFA",
-    "timestamp": "2026-08-28 08:44:43",
+    "weather_report": "Evening has settled over Sydney under an unbroken quilt of cloud. The light is pewter and diffuse, with no sunshine to chase; UV is effectively absent now and into the night. Edges are softened, colors tuned down a step, the horizon a quiet smudge while the air feels steady and calm rather than sparkling.\n\nExpect a cool, subdued night. A light jacket or sweater will feel right, perhaps a scarf if you run cold; no need for sun gear, and an umbrella only if you like to be prepared. It\u2019s a good time for modest errands, a gentle loop of the neighborhood before dinner, a train ride to meet a friend, or settling in to straighten the desk and let a pot simmer while the city hums beyond the glass. If you head out later, think comfortable layers you can keep on without fuss; the sky isn\u2019t offering breaks, just a patient, even grey.",
+    "color_code": "#6e7480",
+    "timestamp": "2026-08-28 18:48:31",
     "location": {
-        "name": "McMahons Point",
-        "latitude": -33.84729766666667,
-        "longitude": 151.2047882,
+        "name": "Sydney",
+        "latitude": -33.8635981532824,
+        "longitude": 151.211817451932,
         "timezone": "Australia/Sydney"
     }
 }
