@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Haymarket",
+            "name": "Kirribilli",
             "country": "AU",
-            "latitude": -33.8784484272323,
-            "longitude": 151.2047776396819
+            "latitude": -33.84815813500401,
+            "longitude": 151.2133546683306
         },
         "current_conditions": {
-            "timestamp": "2026-08-29T05:25:11+00:00",
-            "temperature_c": 18.99,
-            "temperature_f": 66.182,
-            "humidity": 61,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 120,
-            "description": "few clouds"
+            "timestamp": "2026-08-29T16:57:26+00:00",
+            "temperature_c": 10.2,
+            "temperature_f": 50.36,
+            "humidity": 78,
+            "wind_speed_mph": 1.00665,
+            "wind_direction": 272,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-08-29T06:00:00+00:00",
-                "temperature": 18.99,
-                "windSpeed": 7.583430000000001,
-                "windDirection": 116,
-                "shortForecast": "few clouds"
+                "startTime": "2026-08-29T18:00:00+00:00",
+                "temperature": 10.2,
+                "windSpeed": 5.61487,
+                "windDirection": 284,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-08-29T09:00:00+00:00",
-                "temperature": 17.9,
-                "windSpeed": 6.129380000000001,
-                "windDirection": 104,
-                "shortForecast": "few clouds"
+                "startTime": "2026-08-29T21:00:00+00:00",
+                "temperature": 10.19,
+                "windSpeed": 6.599150000000001,
+                "windDirection": 290,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Mid-afternoon in Haymarket feels open and bright, the sort of day where the sky holds just a few brushed clouds and light pours through unhindered. The morning forecast promised only scattered flecks of cloud and that usually means a clear, high-visibility day from sunup to supper. Sunshine remains the headline; UV would have been strongest around midday and is easing now, but it can still nip at exposed skin if you linger. Expect an overall crisp, uncomplicated sky and an easy horizon, with the light softening toward early evening.\n\nDress for ease: breathable layers, sunglasses, and a hat, with a dab of sunscreen if you\u2019re out more than a quick errand. It\u2019s a good hour for small, unhurried things\u2014return a library book on foot, straighten the porch, water a few plants, or take a short loop around the block to let the late-day sun slide across your shoulders. As the light mellows, a light layer might feel welcome and the day should tip gently into a clear, comfortable evening.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-08-29 15:25:12",
+    "weather_report": "Kirribilli sits under a clean, moonwashed sky at this hour, the harbour dark as ink and quietly awake. Clear conditions are set to carry through dawn, and by sunrise the day should open bright and unblinking, the light crisp and the air clear, with distant details standing out like cut glass. UV is asleep for now; after breakfast it will stir to a modest bite, even in late winter, so expect a sunny, glare-prone morning once the sun lifts.\n\nIt looks to be a pleasant, uncomplicated day: cool at first, then comfortable under a blue vault. Dress in easy layers\u2014a warm sweater or light jacket before sunrise, something you can peel back by mid-morning\u2014plus sunglasses, and a touch of sunscreen if you linger outdoors. Good moments today are quiet ones: a gentle foreshore walk while the city yawns awake, a takeaway coffee on a sunlit bench, a ferry across the water just for the brief shimmer of it, a short errand loop or laundry on the line to make use of the clear air, and later, a book by a bright window while the afternoon settles into itself.",
+    "color_code": "#0B1D3A",
+    "timestamp": "2026-08-30 02:57:27",
     "location": {
-        "name": "Haymarket",
-        "latitude": -33.8784484272323,
-        "longitude": 151.2047776396819,
+        "name": "Kirribilli",
+        "latitude": -33.84815813500401,
+        "longitude": 151.2133546683306,
         "timezone": "Australia/Sydney"
     }
 }

@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-08-22 08:58:49",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968516870902,
-      "longitude": 115.8208008963686,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-22T00:58:48+00:00",
-      "temperature_c": 16.34,
-      "temperature_f": 61.412,
-      "humidity": 63,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 70,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes under a clear, polished sky, the kind that makes edges look crisp and colors breathe. ...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-08-22 21:27:31",
     "location": {
       "name": "Floreat",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Mid-afternoon in Haymarket feels open and bright, the sort of day where the sky holds just a few bru...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-08-30 02:57:27",
+    "location": {
+      "name": "Kirribilli",
+      "latitude": -33.84815813500401,
+      "longitude": 151.2133546683306,
+      "timezone": "Australia/Sydney"
+    },
+    "current_conditions": {
+      "timestamp": "2026-08-29T16:57:26+00:00",
+      "temperature_c": 10.2,
+      "temperature_f": 50.36,
+      "humidity": 78,
+      "wind_speed_mph": 1.00665,
+      "wind_direction": 272,
+      "description": "clear sky"
+    },
+    "report_summary": "Kirribilli sits under a clean, moonwashed sky at this hour, the harbour dark as ink and quietly awak...",
+    "color_code": "#0B1D3A"
   }
 ]
