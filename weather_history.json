@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-08-23 09:03:39",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967746648895,
-      "longitude": 115.8208086140957,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-23T01:03:38+00:00",
-      "temperature_c": 15.36,
-      "temperature_f": 59.648,
-      "humidity": 77,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 190,
-      "description": "clear sky"
-    },
-    "report_summary": "Morning in Subiaco opens under a pale blue lid, a few stray clouds drifting without purpose and plen...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-08-23 21:28:19",
     "location": {
       "name": "Subiaco",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Early afternoon in Kingsford arrives dressed in clear blue, the sun steady and generous but not hars...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-08-31 03:09:56",
+    "location": {
+      "name": "Kirribilli",
+      "latitude": -33.8480518634161,
+      "longitude": 151.2135437953975,
+      "timezone": "Australia/Sydney"
+    },
+    "current_conditions": {
+      "timestamp": "2026-08-30T17:00:08+00:00",
+      "temperature_c": 10.29,
+      "temperature_f": 50.522,
+      "humidity": 79,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 230,
+      "description": "clear sky"
+    },
+    "report_summary": "Kirribilli wakes under a spotless sky, the harbor lights crisp and the air cool enough to make each ...",
+    "color_code": "#0B2545"
   }
 ]

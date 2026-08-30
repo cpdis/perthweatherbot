@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T03:20:49.504568",
+  "timestamp": "2026-08-30T17:09:54.020364",
   "overall_status": "healthy",
   "summary": {
     "total_checks": 5,
@@ -14,7 +14,7 @@
       "details": [
         "OpenWeather API key configured",
         "OpenAI API key configured",
-        "Location: Kingsford"
+        "Location: Kirribilli"
       ]
     },
     {
@@ -41,7 +41,7 @@
     {
       "name": "OpenWeather API",
       "status": "healthy",
-      "response_time_ms": 83.523,
+      "response_time_ms": 249.264,
       "details": "HTTP 200"
     }
   ]

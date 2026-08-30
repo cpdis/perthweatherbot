@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Kingsford",
+            "name": "Kirribilli",
             "country": "AU",
-            "latitude": -33.93111301547228,
-            "longitude": 151.2367894833725
+            "latitude": -33.8480518634161,
+            "longitude": 151.2135437953975
         },
         "current_conditions": {
-            "timestamp": "2026-08-30T03:20:50+00:00",
-            "temperature_c": 20.39,
-            "temperature_f": 68.702,
-            "humidity": 49,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 150,
+            "timestamp": "2026-08-30T17:00:08+00:00",
+            "temperature_c": 10.29,
+            "temperature_f": 50.522,
+            "humidity": 79,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 230,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-08-30T06:00:00+00:00",
-                "temperature": 20.19,
-                "windSpeed": 8.12031,
-                "windDirection": 123,
+                "startTime": "2026-08-30T18:00:00+00:00",
+                "temperature": 10.26,
+                "windSpeed": 5.480650000000001,
+                "windDirection": 276,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-08-30T09:00:00+00:00",
-                "temperature": 16.38,
-                "windSpeed": 7.404470000000001,
-                "windDirection": 113,
+                "startTime": "2026-08-30T21:00:00+00:00",
+                "temperature": 10.19,
+                "windSpeed": 6.464930000000001,
+                "windDirection": 294,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Early afternoon in Kingsford arrives dressed in clear blue, the sun steady and generous but not harsh, shadows clipped and honest. The air feels clean, lending the day a sense of clarity and easy purpose. Sunshine will hold through the late afternoon and into early evening, with the light thinning to gold before a crisp, uncomplicated dusk. Expect a bright feel now with a moderate bite from the UV at midday; it eases as the hours slip by, but sunglasses and a touch of sunscreen are still sensible companions.\n\nIt\u2019s a day for light layers: a breathable shirt for the warmth of the sun, and a soft jacket handy for when the glow fades. With skies this open, the world invites simple errands on foot, a languid coffee by a window, a loop through the neighborhood to clear the mind, or a little garden straightening before dinner. If you time it right, a short stroll before sunset will feel unhurried and clear-headed, the kind of walk where every color seems a shade truer.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-08-30 13:20:51",
+    "weather_report": "Kirribilli wakes under a spotless sky, the harbor lights crisp and the air cool enough to make each breath feel newly minted. The forecast keeps it clear through first light and into the morning, promising a sun-forward day with that winter brilliance that sharpens edges and brightens water. UV is low now, climbing to moderate by late morning if the sky stays this pure, so enjoy the gentleness at dawn and keep a hat and a touch of sunscreen for later. It looks quietly beautiful rather than balmy: dress in light layers, a soft jumper and a jacket before sunrise, shedding to shirtsleeves when you find a sunny nook, sunglasses in your pocket. This is a morning for small civil pleasures: an unhurried foreshore walk, the first ferry across a mirror-still bay, a warm loaf from the bakery, coffee by a bright window, airing linens or tending pots on the balcony while the day opens clear and kind.",
+    "color_code": "#0B2545",
+    "timestamp": "2026-08-31 03:09:56",
     "location": {
-        "name": "Kingsford",
-        "latitude": -33.93111301547228,
-        "longitude": 151.2367894833725,
+        "name": "Kirribilli",
+        "latitude": -33.8480518634161,
+        "longitude": 151.2135437953975,
         "timezone": "Australia/Sydney"
     }
 }
