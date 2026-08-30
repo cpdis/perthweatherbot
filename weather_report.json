@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Kirribilli",
+            "name": "Kingsford",
             "country": "AU",
-            "latitude": -33.84815813500401,
-            "longitude": 151.2133546683306
+            "latitude": -33.93111301547228,
+            "longitude": 151.2367894833725
         },
         "current_conditions": {
-            "timestamp": "2026-08-29T16:57:26+00:00",
-            "temperature_c": 10.2,
-            "temperature_f": 50.36,
-            "humidity": 78,
-            "wind_speed_mph": 1.00665,
-            "wind_direction": 272,
+            "timestamp": "2026-08-30T03:20:50+00:00",
+            "temperature_c": 20.39,
+            "temperature_f": 68.702,
+            "humidity": 49,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 150,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-08-29T18:00:00+00:00",
-                "temperature": 10.2,
-                "windSpeed": 5.61487,
-                "windDirection": 284,
+                "startTime": "2026-08-30T06:00:00+00:00",
+                "temperature": 20.19,
+                "windSpeed": 8.12031,
+                "windDirection": 123,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-08-29T21:00:00+00:00",
-                "temperature": 10.19,
-                "windSpeed": 6.599150000000001,
-                "windDirection": 290,
+                "startTime": "2026-08-30T09:00:00+00:00",
+                "temperature": 16.38,
+                "windSpeed": 7.404470000000001,
+                "windDirection": 113,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Kirribilli sits under a clean, moonwashed sky at this hour, the harbour dark as ink and quietly awake. Clear conditions are set to carry through dawn, and by sunrise the day should open bright and unblinking, the light crisp and the air clear, with distant details standing out like cut glass. UV is asleep for now; after breakfast it will stir to a modest bite, even in late winter, so expect a sunny, glare-prone morning once the sun lifts.\n\nIt looks to be a pleasant, uncomplicated day: cool at first, then comfortable under a blue vault. Dress in easy layers\u2014a warm sweater or light jacket before sunrise, something you can peel back by mid-morning\u2014plus sunglasses, and a touch of sunscreen if you linger outdoors. Good moments today are quiet ones: a gentle foreshore walk while the city yawns awake, a takeaway coffee on a sunlit bench, a ferry across the water just for the brief shimmer of it, a short errand loop or laundry on the line to make use of the clear air, and later, a book by a bright window while the afternoon settles into itself.",
-    "color_code": "#0B1D3A",
-    "timestamp": "2026-08-30 02:57:27",
+    "weather_report": "Early afternoon in Kingsford arrives dressed in clear blue, the sun steady and generous but not harsh, shadows clipped and honest. The air feels clean, lending the day a sense of clarity and easy purpose. Sunshine will hold through the late afternoon and into early evening, with the light thinning to gold before a crisp, uncomplicated dusk. Expect a bright feel now with a moderate bite from the UV at midday; it eases as the hours slip by, but sunglasses and a touch of sunscreen are still sensible companions.\n\nIt\u2019s a day for light layers: a breathable shirt for the warmth of the sun, and a soft jacket handy for when the glow fades. With skies this open, the world invites simple errands on foot, a languid coffee by a window, a loop through the neighborhood to clear the mind, or a little garden straightening before dinner. If you time it right, a short stroll before sunset will feel unhurried and clear-headed, the kind of walk where every color seems a shade truer.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-08-30 13:20:51",
     "location": {
-        "name": "Kirribilli",
-        "latitude": -33.84815813500401,
-        "longitude": 151.2133546683306,
+        "name": "Kingsford",
+        "latitude": -33.93111301547228,
+        "longitude": 151.2367894833725,
         "timezone": "Australia/Sydney"
     }
 }
