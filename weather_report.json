@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Kirribilli",
+            "name": "Milsons Point",
             "country": "AU",
-            "latitude": -33.84811449233387,
-            "longitude": 151.2134088409692
+            "latitude": -33.84800477129748,
+            "longitude": 151.2130496746338
         },
         "current_conditions": {
-            "timestamp": "2026-08-31T03:17:08+00:00",
-            "temperature_c": 22.79,
-            "temperature_f": 73.02199999999999,
-            "humidity": 53,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 80,
+            "timestamp": "2026-08-31T19:21:35+00:00",
+            "temperature_c": 10,
+            "temperature_f": 50.0,
+            "humidity": 88,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 330,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-08-31T06:00:00+00:00",
-                "temperature": 22.58,
-                "windSpeed": 12.549570000000001,
-                "windDirection": 53,
+                "startTime": "2026-08-31T21:00:00+00:00",
+                "temperature": 10.02,
+                "windSpeed": 5.72672,
+                "windDirection": 312,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-08-31T09:00:00+00:00",
-                "temperature": 18.52,
-                "windSpeed": 11.833730000000001,
-                "windDirection": 32,
+                "startTime": "2026-09-01T00:00:00+00:00",
+                "temperature": 17.09,
+                "windSpeed": 6.39782,
+                "windDirection": 340,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Kirribilli slides into early afternoon under a polished blue dome. The harbour sparkles; shadows stay short and the sun carries a quiet bite that belies the season. Skies are set to remain clear into late afternoon and on through evening, a bright glide toward a clean-lined sunset before the air turns crisp. UV is punchy right now and eases with the light; visibility is excellent, headlands drawn in fine detail with only a faint salt haze beyond.\n\nLight layers serve best: a breathable shirt, a soft jumper tucked away for dusk, sunglasses and a brim, and a touch of sunscreen. It\u2019s pleasant rather than hot\u2014warm on a sunlit bench, cool whenever the shade or sea breeze finds you. Good hours for modest errands and small comforts: hang a wash to dry, take the long way along the foreshore to collect something from the shops, ride the ferry for an errand and linger, or read quietly under the bridge while the afternoon unspools.",
-    "color_code": "#6EC6FF",
-    "timestamp": "2026-08-31 13:17:09",
+    "weather_report": "Dawn slips quietly over Milsons Point, the harbor glassy and pale, the air with a gentle nip that wakes the lungs. Skies are clear now and will stay pure and blue through the morning, the sun brightening by the hour. Expect sharp visibility and that clean, almost sparkling clarity you only get on the first days of spring. As the light strengthens, the UV will climb quickly, so sunglasses and a touch of sunscreen will serve you well even if the air still feels mild.\n\nDress in light layers you can shed by midmorning: a soft jumper over a breathable shirt, comfortable shoes for wandering the foreshore. It\u2019s a good morning for ordinary pleasures done unhurriedly: an early ferry ride to watch the city come awake, a stroll across the bridge before the day warms, or a coffee on a sunny bench with a book and the water moving softly below. If you\u2019ve errands, do them outdoors while the light is kind and the breeze still carries that faint salt brightness.",
+    "color_code": "#87CEFA",
+    "timestamp": "2026-09-01 05:21:36",
     "location": {
-        "name": "Kirribilli",
-        "latitude": -33.84811449233387,
-        "longitude": 151.2134088409692,
+        "name": "Milsons Point",
+        "latitude": -33.84800477129748,
+        "longitude": 151.2130496746338,
         "timezone": "Australia/Sydney"
     }
 }

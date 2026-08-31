@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-08-24 09:01:41",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968038309451,
-      "longitude": 115.8208083533826,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-24T00:58:12+00:00",
-      "temperature_c": 13.94,
-      "temperature_f": 57.092,
-      "humidity": 85,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 50,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes under a tender blue, with only a scattering of cloud to soften the edges of the sun. T...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-08-24 21:46:39",
     "location": {
       "name": "Subiaco",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Kirribilli slides into early afternoon under a polished blue dome. The harbour sparkles; shadows sta...",
     "color_code": "#6EC6FF"
+  },
+  {
+    "timestamp": "2026-09-01 05:21:36",
+    "location": {
+      "name": "Milsons Point",
+      "latitude": -33.84800477129748,
+      "longitude": 151.2130496746338,
+      "timezone": "Australia/Sydney"
+    },
+    "current_conditions": {
+      "timestamp": "2026-08-31T19:21:35+00:00",
+      "temperature_c": 10,
+      "temperature_f": 50.0,
+      "humidity": 88,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 330,
+      "description": "clear sky"
+    },
+    "report_summary": "Dawn slips quietly over Milsons Point, the harbor glassy and pale, the air with a gentle nip that wa...",
+    "color_code": "#87CEFA"
   }
 ]
