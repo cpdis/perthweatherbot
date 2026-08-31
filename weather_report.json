@@ -3,42 +3,42 @@
         "location": {
             "name": "Kirribilli",
             "country": "AU",
-            "latitude": -33.8480518634161,
-            "longitude": 151.2135437953975
+            "latitude": -33.84811449233387,
+            "longitude": 151.2134088409692
         },
         "current_conditions": {
-            "timestamp": "2026-08-30T17:00:08+00:00",
-            "temperature_c": 10.29,
-            "temperature_f": 50.522,
-            "humidity": 79,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 230,
+            "timestamp": "2026-08-31T03:17:08+00:00",
+            "temperature_c": 22.79,
+            "temperature_f": 73.02199999999999,
+            "humidity": 53,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 80,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-08-30T18:00:00+00:00",
-                "temperature": 10.26,
-                "windSpeed": 5.480650000000001,
-                "windDirection": 276,
+                "startTime": "2026-08-31T06:00:00+00:00",
+                "temperature": 22.58,
+                "windSpeed": 12.549570000000001,
+                "windDirection": 53,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-08-30T21:00:00+00:00",
-                "temperature": 10.19,
-                "windSpeed": 6.464930000000001,
-                "windDirection": 294,
+                "startTime": "2026-08-31T09:00:00+00:00",
+                "temperature": 18.52,
+                "windSpeed": 11.833730000000001,
+                "windDirection": 32,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Kirribilli wakes under a spotless sky, the harbor lights crisp and the air cool enough to make each breath feel newly minted. The forecast keeps it clear through first light and into the morning, promising a sun-forward day with that winter brilliance that sharpens edges and brightens water. UV is low now, climbing to moderate by late morning if the sky stays this pure, so enjoy the gentleness at dawn and keep a hat and a touch of sunscreen for later. It looks quietly beautiful rather than balmy: dress in light layers, a soft jumper and a jacket before sunrise, shedding to shirtsleeves when you find a sunny nook, sunglasses in your pocket. This is a morning for small civil pleasures: an unhurried foreshore walk, the first ferry across a mirror-still bay, a warm loaf from the bakery, coffee by a bright window, airing linens or tending pots on the balcony while the day opens clear and kind.",
-    "color_code": "#0B2545",
-    "timestamp": "2026-08-31 03:09:56",
+    "weather_report": "Kirribilli slides into early afternoon under a polished blue dome. The harbour sparkles; shadows stay short and the sun carries a quiet bite that belies the season. Skies are set to remain clear into late afternoon and on through evening, a bright glide toward a clean-lined sunset before the air turns crisp. UV is punchy right now and eases with the light; visibility is excellent, headlands drawn in fine detail with only a faint salt haze beyond.\n\nLight layers serve best: a breathable shirt, a soft jumper tucked away for dusk, sunglasses and a brim, and a touch of sunscreen. It\u2019s pleasant rather than hot\u2014warm on a sunlit bench, cool whenever the shade or sea breeze finds you. Good hours for modest errands and small comforts: hang a wash to dry, take the long way along the foreshore to collect something from the shops, ride the ferry for an errand and linger, or read quietly under the bridge while the afternoon unspools.",
+    "color_code": "#6EC6FF",
+    "timestamp": "2026-08-31 13:17:09",
     "location": {
         "name": "Kirribilli",
-        "latitude": -33.8480518634161,
-        "longitude": 151.2135437953975,
+        "latitude": -33.84811449233387,
+        "longitude": 151.2134088409692,
         "timezone": "Australia/Sydney"
     }
 }
