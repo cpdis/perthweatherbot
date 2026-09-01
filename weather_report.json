@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Kirribilli",
+            "name": "Mascot",
             "country": "AU",
-            "latitude": -33.84815014274933,
-            "longitude": 151.2134295399335
+            "latitude": -33.95816247252362,
+            "longitude": 151.1770410551917
         },
         "current_conditions": {
-            "timestamp": "2026-09-01T03:15:06+00:00",
-            "temperature_c": 26.37,
-            "temperature_f": 79.46600000000001,
-            "humidity": 32,
-            "wind_speed_mph": 8.008460000000001,
-            "wind_direction": 309,
-            "description": "clear sky"
+            "timestamp": "2026-09-01T17:07:28+00:00",
+            "temperature_c": 18.02,
+            "temperature_f": 64.436,
+            "humidity": 59,
+            "wind_speed_mph": 4.60822,
+            "wind_direction": 330,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-01T06:00:00+00:00",
-                "temperature": 26.82,
-                "windSpeed": 5.65961,
-                "windDirection": 284,
-                "shortForecast": "clear sky"
+                "startTime": "2026-09-01T18:00:00+00:00",
+                "temperature": 18.02,
+                "windSpeed": 8.59008,
+                "windDirection": 325,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-09-01T09:00:00+00:00",
-                "temperature": 22.32,
-                "windSpeed": 15.055010000000001,
-                "windDirection": 289,
-                "shortForecast": "clear sky"
+                "startTime": "2026-09-01T21:00:00+00:00",
+                "temperature": 17.33,
+                "windSpeed": 5.88331,
+                "windDirection": 345,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Early afternoon in Kirribilli wears a clean blue sky like pressed linen, the sun bright and unfiltered, shadows crisp at the edges. It feels pleasantly mild, with a gentle warmth on the skin that fades in the shade. UV is likely running moderate to high around now despite the season, so a hat, sunglasses, and a touch of sunscreen will be your quiet allies. The air looks clear and honest, the harbor tossing back shards of light.\n\nThe forecast holds that clarity through the late afternoon into evening, promising a simple, open sky and a calm sunset. Dress in light layers you can peel back in the sun and pull on again after dusk; a light sweater won\u2019t go astray once the day exhales. Good weather for ordinary pleasures: a slow walk along the foreshore, airing the house, hanging fresh laundry, a ferry errand across the water, or a book by a bright window with the breeze nosing at the page. Expect it to feel wholesome and straightforward, the kind of day that asks little and gives a lot.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-09-01 13:19:35",
+    "weather_report": "Mascot dozes under a quilt of broken cloud, the small hours cool and hushed, runway lights blinking like patient metronomes. Toward dawn those clouds hang around in patches, letting a few stars and, later, a hesitant blush of sun through. It won\u2019t be a blazing, crystal morning, more a soft-lit one with filtered brightness. UV is negligible now and should lift to moderate by late morning if the breaks widen; plan on some sun but not the kind that scalds.\n\nThrough the day expect a steady shuffle of light and shade, serviceable for errands and small adventures. Dress in layers: a light jumper or jacket for the early chill, something you can peel back when the sun leans in, and sunglasses plus a dab of sunscreen if you\u2019ll be out around midday. It feels like a day for a quiet walk to a cafe before the commute, unhurried shopping lists, tending the balcony plants, or a spin to the markets once the light steadies. No special gear needed beyond a bit of patience with the patchy sky, which has its own shy charm.",
+    "color_code": "#3B5062",
+    "timestamp": "2026-09-02 03:07:29",
     "location": {
-        "name": "Kirribilli",
-        "latitude": -33.84815014274933,
-        "longitude": 151.2134295399335,
+        "name": "Mascot",
+        "latitude": -33.95816247252362,
+        "longitude": 151.1770410551917,
         "timezone": "Australia/Sydney"
     }
 }
