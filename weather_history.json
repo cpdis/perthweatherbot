@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-08-26 11:02:35",
-    "location": {
-      "name": "Kirribilli",
-      "latitude": -33.848026850713,
-      "longitude": 151.2135255003455,
-      "timezone": "Australia/Sydney"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-26T01:02:34+00:00",
-      "temperature_c": 17.42,
-      "temperature_f": 63.35600000000001,
-      "humidity": 71,
-      "wind_speed_mph": 18.410510000000002,
-      "wind_direction": 200,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Late morning in Kirribilli feels cool and clean, the harbor wearing a soft pewter sheen as cloud thi...",
-    "color_code": "#8FA3B8"
-  },
-  {
     "timestamp": "2026-08-26 23:51:07",
     "location": {
       "name": "Kirribilli",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Wembley wakes under a lid of cloud, the pavements still dark with the earlier drizzle and the light ...",
     "color_code": "#778899"
+  },
+  {
+    "timestamp": "2026-09-03 00:58:21",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968411038583,
+      "longitude": 115.8207992054619,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-09-02T16:58:20+00:00",
+      "temperature_c": 13.52,
+      "temperature_f": 56.336,
+      "humidity": 94,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 30,
+      "description": "overcast clouds"
+    },
+    "report_summary": "A quilt of overcast hangs over Subiaco in the small hours, muting the glow of the world and softenin...",
+    "color_code": "#2c3442"
   }
 ]
