@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Mascot",
+            "name": "Wembley",
             "country": "AU",
-            "latitude": -33.95816247252362,
-            "longitude": 151.1770410551917
+            "latitude": -31.93099685661739,
+            "longitude": 115.8111969425079
         },
         "current_conditions": {
-            "timestamp": "2026-09-01T17:07:28+00:00",
-            "temperature_c": 18.02,
-            "temperature_f": 64.436,
-            "humidity": 59,
-            "wind_speed_mph": 4.60822,
-            "wind_direction": 330,
-            "description": "broken clouds"
+            "timestamp": "2026-09-02T02:37:49+00:00",
+            "temperature_c": 16.9,
+            "temperature_f": 62.42,
+            "humidity": 62,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 250,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-01T18:00:00+00:00",
-                "temperature": 18.02,
-                "windSpeed": 8.59008,
-                "windDirection": 325,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-09-02T03:00:00+00:00",
+                "temperature": 16.9,
+                "windSpeed": 9.8428,
+                "windDirection": 280,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-09-01T21:00:00+00:00",
-                "temperature": 17.33,
-                "windSpeed": 5.88331,
-                "windDirection": 345,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-09-02T06:00:00+00:00",
+                "temperature": 17.24,
+                "windSpeed": 9.93228,
+                "windDirection": 282,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Mascot dozes under a quilt of broken cloud, the small hours cool and hushed, runway lights blinking like patient metronomes. Toward dawn those clouds hang around in patches, letting a few stars and, later, a hesitant blush of sun through. It won\u2019t be a blazing, crystal morning, more a soft-lit one with filtered brightness. UV is negligible now and should lift to moderate by late morning if the breaks widen; plan on some sun but not the kind that scalds.\n\nThrough the day expect a steady shuffle of light and shade, serviceable for errands and small adventures. Dress in layers: a light jumper or jacket for the early chill, something you can peel back when the sun leans in, and sunglasses plus a dab of sunscreen if you\u2019ll be out around midday. It feels like a day for a quiet walk to a cafe before the commute, unhurried shopping lists, tending the balcony plants, or a spin to the markets once the light steadies. No special gear needed beyond a bit of patience with the patchy sky, which has its own shy charm.",
-    "color_code": "#3B5062",
-    "timestamp": "2026-09-02 03:07:29",
+    "weather_report": "Wembley wakes under a lid of cloud, the pavements still dark with the earlier drizzle and the light kept to a gentle hush. After a drizzly dawn, the sky remains stubborn and grey, offering little in the way of sunshine; the UV stays on the low side, and the day\u2019s clarity is soft rather than sharp, with edges dulled and colors a touch washed. It feels usable, not harsh, just a muted canvas inviting a slower pace.\n\nExpect the overcast to linger through the day with the chance of another light shower drifting by, and only brief, reluctant bright spells if they come at all. Dress in light layers with a thin waterproof or a sturdy umbrella in your bag, and shoes that won\u2019t mind slick patches underfoot. It\u2019s a good morning for practical errands, a quiet hour at the library, or a caf\u00e9 table by the window to watch the street gloss and dry in cycles. If you crave fresh air, take a short loop between sprinkles, then reward yourself with something warm and uncomplicated.",
+    "color_code": "#778899",
+    "timestamp": "2026-09-02 10:37:50",
     "location": {
-        "name": "Mascot",
-        "latitude": -33.95816247252362,
-        "longitude": 151.1770410551917,
-        "timezone": "Australia/Sydney"
+        "name": "Wembley",
+        "latitude": -31.93099685661739,
+        "longitude": 115.8111969425079,
+        "timezone": "Australia/Perth"
     }
 }
