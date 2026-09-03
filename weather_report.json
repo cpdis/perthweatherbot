@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94968411038583,
-            "longitude": 115.8207992054619
+            "latitude": -31.96840561554675,
+            "longitude": 115.8382098093752
         },
         "current_conditions": {
-            "timestamp": "2026-09-03T02:44:07+00:00",
-            "temperature_c": 15.67,
-            "temperature_f": 60.206,
-            "humidity": 79,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 360,
+            "timestamp": "2026-09-03T16:53:11+00:00",
+            "temperature_c": 15.61,
+            "temperature_f": 60.098,
+            "humidity": 84,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 300,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-03T03:00:00+00:00",
-                "temperature": 15.67,
-                "windSpeed": 8.43349,
-                "windDirection": 317,
+                "startTime": "2026-09-03T18:00:00+00:00",
+                "temperature": 15.61,
+                "windSpeed": 18.589470000000002,
+                "windDirection": 267,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-09-03T06:00:00+00:00",
-                "temperature": 17.42,
-                "windSpeed": 13.757550000000002,
-                "windDirection": 293,
+                "startTime": "2026-09-03T21:00:00+00:00",
+                "temperature": 15.45,
+                "windSpeed": 18.16444,
+                "windDirection": 247,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late morning in Subiaco wears a soft, pewter lid of cloud and a damp hush. Light rain is set to slip through late morning into early afternoon, keeping the sun shy and fleeting at best. UV should stay on the low-to-moderate side for early spring, nipping a little if the cloud thins near midday. The day feels low-contrast and gently blurred at the edges, puddles brightening the pavement while the air smells rinsed and cool.\n\nDress for drift and pause: a light waterproof over an easy layer, closed shoes that don\u2019t mind a splash, a compact umbrella, and sunglasses tucked away for a blink of brightness. It\u2019s a quietly agreeable day for small, useful things\u2014dropping by the grocer, a slow browse in a bookshop, or a simple lunch under an awning\u2014then a modest walk when the showers ease. Not dazzling, but companionable, the kind of grey that invites you to move at a humane pace.",
-    "color_code": "#7A8896",
-    "timestamp": "2026-09-03 10:44:08",
+    "weather_report": "Perth slips past midnight under a soft, unsettled sky; the kind of damp quiet where streetlights wear faint halos and the air tastes of rain. Light showers are due in the pre\u2011dawn hours, likely keeping the night cloudy and the horizons smudged. Clarity will be muted until after first light, with the moon and stars mostly veiled. Sunshine looks uncertain at sunrise; any early brightness will be brief between passing curtains of cloud. The UV index is negligible overnight and low around dawn, then could climb to moderate, even higher by midday if the clouds fracture, so be ready for a quick turn from grey to bright.\n\nDress for a gentle, persistent damp: a light waterproof or a compact umbrella, closed shoes, and an easy layer you can peel away if the day opens. For now, it\u2019s a good hour for quiet rituals\u2014brew something warm, clear a small corner of the kitchen bench, or read a few pages while the gutters murmur. If the showers linger after breakfast, choose covered errands, a library visit, or a tidy loop on the bus. Should the clouds part later, slip out for a brief walk along the river, sunhat and a touch of sunscreen in your pocket, letting the light\u2014if it shows\u2014feel like a reward.",
+    "color_code": "#2F3E46",
+    "timestamp": "2026-09-04 00:53:12",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968411038583,
-        "longitude": 115.8207992054619,
+        "name": "Perth",
+        "latitude": -31.96840561554675,
+        "longitude": 115.8382098093752,
         "timezone": "Australia/Perth"
     }
 }
