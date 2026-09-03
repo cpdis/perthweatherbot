@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-08-26 23:51:07",
-    "location": {
-      "name": "Kirribilli",
-      "latitude": -33.84738404208456,
-      "longitude": 151.2132136724289,
-      "timezone": "Australia/Sydney"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-26T13:51:06+00:00",
-      "temperature_c": 15.04,
-      "temperature_f": 59.071999999999996,
-      "humidity": 72,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 160,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Kirribilli settles into a muffled, sea-salt hush at this late hour, harbour lights softened by low c...",
-    "color_code": "#2F3E46"
-  },
-  {
     "timestamp": "2026-08-27 17:00:43",
     "location": {
       "name": "McMahons Point",
@@ -278,5 +258,25 @@
     },
     "report_summary": "A quilt of overcast hangs over Subiaco in the small hours, muting the glow of the world and softenin...",
     "color_code": "#2c3442"
+  },
+  {
+    "timestamp": "2026-09-03 10:44:08",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968411038583,
+      "longitude": 115.8207992054619,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-09-03T02:44:07+00:00",
+      "temperature_c": 15.67,
+      "temperature_f": 60.206,
+      "humidity": 79,
+      "wind_speed_mph": 9.21644,
+      "wind_direction": 360,
+      "description": "broken clouds"
+    },
+    "report_summary": "Late morning in Subiaco wears a soft, pewter lid of cloud and a damp hush. Light rain is set to slip...",
+    "color_code": "#7A8896"
   }
 ]
