@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Cottesloe",
             "country": "AU",
-            "latitude": -31.96840561554675,
-            "longitude": 115.8382098093752
+            "latitude": -31.99608600775014,
+            "longitude": 115.7525661563045
         },
         "current_conditions": {
-            "timestamp": "2026-09-03T16:53:11+00:00",
-            "temperature_c": 15.61,
-            "temperature_f": 60.098,
-            "humidity": 84,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 300,
-            "description": "broken clouds"
+            "timestamp": "2026-09-04T02:42:32+00:00",
+            "temperature_c": 17.65,
+            "temperature_f": 63.769999999999996,
+            "humidity": 60,
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 230,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-03T18:00:00+00:00",
-                "temperature": 15.61,
-                "windSpeed": 18.589470000000002,
-                "windDirection": 267,
+                "startTime": "2026-09-04T03:00:00+00:00",
+                "temperature": 17.65,
+                "windSpeed": 18.7908,
+                "windDirection": 228,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-09-03T21:00:00+00:00",
-                "temperature": 15.45,
-                "windSpeed": 18.16444,
-                "windDirection": 247,
-                "shortForecast": "light rain"
+                "startTime": "2026-09-04T06:00:00+00:00",
+                "temperature": 17.25,
+                "windSpeed": 15.077380000000002,
+                "windDirection": 229,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Perth slips past midnight under a soft, unsettled sky; the kind of damp quiet where streetlights wear faint halos and the air tastes of rain. Light showers are due in the pre\u2011dawn hours, likely keeping the night cloudy and the horizons smudged. Clarity will be muted until after first light, with the moon and stars mostly veiled. Sunshine looks uncertain at sunrise; any early brightness will be brief between passing curtains of cloud. The UV index is negligible overnight and low around dawn, then could climb to moderate, even higher by midday if the clouds fracture, so be ready for a quick turn from grey to bright.\n\nDress for a gentle, persistent damp: a light waterproof or a compact umbrella, closed shoes, and an easy layer you can peel away if the day opens. For now, it\u2019s a good hour for quiet rituals\u2014brew something warm, clear a small corner of the kitchen bench, or read a few pages while the gutters murmur. If the showers linger after breakfast, choose covered errands, a library visit, or a tidy loop on the bus. Should the clouds part later, slip out for a brief walk along the river, sunhat and a touch of sunscreen in your pocket, letting the light\u2014if it shows\u2014feel like a reward.",
-    "color_code": "#2F3E46",
-    "timestamp": "2026-09-04 00:53:12",
+    "weather_report": "A quiet, sea-soaked morning in Cottesloe leans grey, with light rain brushing through around late morning and the horizon softly smudged. The sun keeps one eye on the stage, mostly veiled for now, but likely to break through into scattered, shifting patches by early afternoon. When those gaps appear the light will brighten quickly and the UV will nudge into the moderate range; brief warmth, then cloud again. The air should feel clean after the showers, the ocean a dull pewter turning to a gentle blue as the day opens.\n\nDress in light layers with a compact rain shell and shoes that don\u2019t mind damp pavement; later, trade the jacket for sunglasses and a hat if you\u2019re out around lunch, and a touch of sunscreen won\u2019t be wasted. It\u2019s a day for unhurried errands, a coffee by a window while the rain passes, then a slow wander along the foreshore or a lap through the grocer once the sky loosens its grip. If you\u2019re staying home, crack a window for the salt air and let the afternoon brightness do its small, cheering work; the clarity improves as the clouds thin, and the mood along the coast should lift with it.",
+    "color_code": "#8AA5B6",
+    "timestamp": "2026-09-04 10:42:33",
     "location": {
-        "name": "Perth",
-        "latitude": -31.96840561554675,
-        "longitude": 115.8382098093752,
+        "name": "Cottesloe",
+        "latitude": -31.99608600775014,
+        "longitude": 115.7525661563045,
         "timezone": "Australia/Perth"
     }
 }

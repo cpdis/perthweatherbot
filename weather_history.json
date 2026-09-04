@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-08-27 17:00:43",
-    "location": {
-      "name": "McMahons Point",
-      "latitude": -33.84436999300492,
-      "longitude": 151.2042345014816,
-      "timezone": "Australia/Sydney"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-27T07:00:35+00:00",
-      "temperature_c": 16.35,
-      "temperature_f": 61.43,
-      "humidity": 61,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 130,
-      "description": "few clouds"
-    },
-    "report_summary": "McMahons Point eases into late afternoon with a soft, slanting light and a sky mottled by passing cl...",
-    "color_code": "#7FA1C9"
-  },
-  {
     "timestamp": "2026-08-28 08:44:43",
     "location": {
       "name": "McMahons Point",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Perth slips past midnight under a soft, unsettled sky; the kind of damp quiet where streetlights wea...",
     "color_code": "#2F3E46"
+  },
+  {
+    "timestamp": "2026-09-04 10:42:33",
+    "location": {
+      "name": "Cottesloe",
+      "latitude": -31.99608600775014,
+      "longitude": 115.7525661563045,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-09-04T02:42:32+00:00",
+      "temperature_c": 17.65,
+      "temperature_f": 63.769999999999996,
+      "humidity": 60,
+      "wind_speed_mph": 16.1064,
+      "wind_direction": 230,
+      "description": "scattered clouds"
+    },
+    "report_summary": "A quiet, sea-soaked morning in Cottesloe leans grey, with light rain brushing through around late mo...",
+    "color_code": "#8AA5B6"
   }
 ]
