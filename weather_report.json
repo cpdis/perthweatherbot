@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Cottesloe",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.99608600775014,
-            "longitude": 115.7525661563045
+            "latitude": -31.94967906751991,
+            "longitude": 115.8208011965517
         },
         "current_conditions": {
-            "timestamp": "2026-09-04T02:42:32+00:00",
-            "temperature_c": 17.65,
-            "temperature_f": 63.769999999999996,
-            "humidity": 60,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 230,
-            "description": "scattered clouds"
+            "timestamp": "2026-09-04T16:42:18+00:00",
+            "temperature_c": 15.19,
+            "temperature_f": 59.342,
+            "humidity": 65,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 290,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-04T03:00:00+00:00",
-                "temperature": 17.65,
-                "windSpeed": 18.7908,
-                "windDirection": 228,
-                "shortForecast": "light rain"
+                "startTime": "2026-09-04T18:00:00+00:00",
+                "temperature": 15.19,
+                "windSpeed": 4.78718,
+                "windDirection": 306,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-09-04T06:00:00+00:00",
-                "temperature": 17.25,
-                "windSpeed": 15.077380000000002,
-                "windDirection": 229,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-09-04T21:00:00+00:00",
+                "temperature": 15.68,
+                "windSpeed": 8.366380000000001,
+                "windDirection": 346,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "A quiet, sea-soaked morning in Cottesloe leans grey, with light rain brushing through around late morning and the horizon softly smudged. The sun keeps one eye on the stage, mostly veiled for now, but likely to break through into scattered, shifting patches by early afternoon. When those gaps appear the light will brighten quickly and the UV will nudge into the moderate range; brief warmth, then cloud again. The air should feel clean after the showers, the ocean a dull pewter turning to a gentle blue as the day opens.\n\nDress in light layers with a compact rain shell and shoes that don\u2019t mind damp pavement; later, trade the jacket for sunglasses and a hat if you\u2019re out around lunch, and a touch of sunscreen won\u2019t be wasted. It\u2019s a day for unhurried errands, a coffee by a window while the rain passes, then a slow wander along the foreshore or a lap through the grocer once the sky loosens its grip. If you\u2019re staying home, crack a window for the salt air and let the afternoon brightness do its small, cheering work; the clarity improves as the clouds thin, and the mood along the coast should lift with it.",
-    "color_code": "#8AA5B6",
-    "timestamp": "2026-09-04 10:42:33",
+    "weather_report": "Subiaco drifts past midnight under a low, unbroken quilt of cloud. The night feels hushed and slightly cool, city lights blurring into soft halos as if the air had turned to silk. There is no sun to be found now, and none promised before dawn; UV is effectively nil, and the view overhead is matte and muted rather than clear and star-pricked. It\u2019s a quiet, indoor sort of hour, pleasant if you like the calm, a touch dreary if you crave sparkle.\n\nThe overcast is expected to linger through the pre-dawn and early morning, so first light will come filtered and subdued, with UV staying low in those early hours. Dress for a gentle chill: a light jacket or long sleeves, comfortable shoes, and something reflective if you\u2019re walking or cycling before sunrise, as the gray will make everything look a shade dimmer. This is good weather to brew a slow cup, finish a chapter, queue tomorrow\u2019s playlist, or slip out for an early bakery run when the doors crack open. If you\u2019re up with the birds, a quiet stroll will feel contemplative rather than bright, the day gathering itself behind the clouds.",
+    "color_code": "#2F3A45",
+    "timestamp": "2026-09-05 00:42:18",
     "location": {
-        "name": "Cottesloe",
-        "latitude": -31.99608600775014,
-        "longitude": 115.7525661563045,
+        "name": "Subiaco",
+        "latitude": -31.94967906751991,
+        "longitude": 115.8208011965517,
         "timezone": "Australia/Perth"
     }
 }

@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-08-28 08:44:43",
-    "location": {
-      "name": "McMahons Point",
-      "latitude": -33.84729766666667,
-      "longitude": 151.2047882,
-      "timezone": "Australia/Sydney"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-27T22:44:42+00:00",
-      "temperature_c": 12.93,
-      "temperature_f": 55.274,
-      "humidity": 76,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 300,
-      "description": "clear sky"
-    },
-    "report_summary": "McMahons Point wakes under a clear, rinsed-blue sky, the harbour glassy and a little shy in the earl...",
-    "color_code": "#87CEFA"
-  },
-  {
     "timestamp": "2026-08-28 18:48:31",
     "location": {
       "name": "Sydney",
@@ -298,5 +278,25 @@
     },
     "report_summary": "A quiet, sea-soaked morning in Cottesloe leans grey, with light rain brushing through around late mo...",
     "color_code": "#8AA5B6"
+  },
+  {
+    "timestamp": "2026-09-05 00:42:18",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94967906751991,
+      "longitude": 115.8208011965517,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-09-04T16:42:18+00:00",
+      "temperature_c": 15.19,
+      "temperature_f": 59.342,
+      "humidity": 65,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 290,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Subiaco drifts past midnight under a low, unbroken quilt of cloud. The night feels hushed and slight...",
+    "color_code": "#2F3A45"
   }
 ]
