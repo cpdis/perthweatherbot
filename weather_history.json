@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-08-28 18:48:31",
-    "location": {
-      "name": "Sydney",
-      "latitude": -33.8635981532824,
-      "longitude": 151.211817451932,
-      "timezone": "Australia/Sydney"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-28T08:48:30+00:00",
-      "temperature_c": 15.77,
-      "temperature_f": 60.386,
-      "humidity": 68,
-      "wind_speed_mph": 5.010880000000001,
-      "wind_direction": 171,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Evening has settled over Sydney under an unbroken quilt of cloud. The light is pewter and diffuse, w...",
-    "color_code": "#6e7480"
-  },
-  {
     "timestamp": "2026-08-29 15:25:12",
     "location": {
       "name": "Haymarket",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco drifts past midnight under a low, unbroken quilt of cloud. The night feels hushed and slight...",
     "color_code": "#2F3A45"
+  },
+  {
+    "timestamp": "2026-09-05 10:43:01",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.9496721375797,
+      "longitude": 115.820779408765,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-09-05T02:43:01+00:00",
+      "temperature_c": 17.07,
+      "temperature_f": 62.726,
+      "humidity": 63,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 360,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Late morning in Subiaco arrives under a soft, pewter sky, the light gentle and a little melancholy a...",
+    "color_code": "#7a8896"
   }
 ]
