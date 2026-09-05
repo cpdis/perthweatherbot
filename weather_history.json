@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-08-29 15:25:12",
-    "location": {
-      "name": "Haymarket",
-      "latitude": -33.8784484272323,
-      "longitude": 151.2047776396819,
-      "timezone": "Australia/Sydney"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-29T05:25:11+00:00",
-      "temperature_c": 18.99,
-      "temperature_f": 66.182,
-      "humidity": 61,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 120,
-      "description": "few clouds"
-    },
-    "report_summary": "Mid-afternoon in Haymarket feels open and bright, the sort of day where the sky holds just a few bru...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-08-30 02:57:27",
     "location": {
       "name": "Kirribilli",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Late morning in Subiaco arrives under a soft, pewter sky, the light gentle and a little melancholy a...",
     "color_code": "#7a8896"
+  },
+  {
+    "timestamp": "2026-09-05 23:45:17",
+    "location": {
+      "name": "Wembley",
+      "latitude": -31.92716638202818,
+      "longitude": 115.8154573933218,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-09-05T15:45:16+00:00",
+      "temperature_c": 14.18,
+      "temperature_f": 57.524,
+      "humidity": 91,
+      "wind_speed_mph": 7.183007,
+      "wind_direction": 51,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Wembley settles into a wet hush tonight, the sort of late hour when the streets glow with reflected ...",
+    "color_code": "#2E4057"
   }
 ]
