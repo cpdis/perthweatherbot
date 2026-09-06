@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2026-08-30 02:57:27",
-    "location": {
-      "name": "Kirribilli",
-      "latitude": -33.84815813500401,
-      "longitude": 151.2133546683306,
-      "timezone": "Australia/Sydney"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-29T16:57:26+00:00",
-      "temperature_c": 10.2,
-      "temperature_f": 50.36,
-      "humidity": 78,
-      "wind_speed_mph": 1.00665,
-      "wind_direction": 272,
-      "description": "clear sky"
-    },
-    "report_summary": "Kirribilli sits under a clean, moonwashed sky at this hour, the harbour dark as ink and quietly awak...",
-    "color_code": "#0B1D3A"
-  },
-  {
-    "timestamp": "2026-08-30 13:20:51",
-    "location": {
-      "name": "Kingsford",
-      "latitude": -33.93111301547228,
-      "longitude": 151.2367894833725,
-      "timezone": "Australia/Sydney"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-30T03:20:50+00:00",
-      "temperature_c": 20.39,
-      "temperature_f": 68.702,
-      "humidity": 49,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 150,
-      "description": "clear sky"
-    },
-    "report_summary": "Early afternoon in Kingsford arrives dressed in clear blue, the sun steady and generous but not hars...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-08-31 03:09:56",
     "location": {
       "name": "Kirribilli",
@@ -318,5 +278,25 @@
     },
     "report_summary": "Late morning in Subiaco arrives under a quilt of broken cloud, the sun slipping in and out, brighten...",
     "color_code": "#8EA7B7"
+  },
+  {
+    "timestamp": "2026-09-06 23:57:25",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94967910716389,
+      "longitude": 115.8207985318687,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-09-06T15:57:24+00:00",
+      "temperature_c": 13.11,
+      "temperature_f": 55.598,
+      "humidity": 75,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 120,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco dozes under a clear, inky sky, the air calm and tidy, the stars unblinking as midnight draws...",
+    "color_code": "#0A1F44"
   }
 ]

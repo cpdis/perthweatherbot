@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94967909080281,
-            "longitude": 115.8208017028319
+            "latitude": -31.94967910716389,
+            "longitude": 115.8207985318687
         },
         "current_conditions": {
-            "timestamp": "2026-09-06T02:40:29+00:00",
-            "temperature_c": 16,
-            "temperature_f": 60.8,
-            "humidity": 70,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 140,
-            "description": "broken clouds"
+            "timestamp": "2026-09-06T15:57:24+00:00",
+            "temperature_c": 13.11,
+            "temperature_f": 55.598,
+            "humidity": 75,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 120,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-09-06T03:00:00+00:00",
-                "temperature": 16,
-                "windSpeed": 17.98548,
-                "windDirection": 160,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-09-06T18:00:00+00:00",
+                "temperature": 12.82,
+                "windSpeed": 9.3954,
+                "windDirection": 130,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-09-06T06:00:00+00:00",
-                "temperature": 17.61,
-                "windSpeed": 14.7642,
-                "windDirection": 130,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-09-06T21:00:00+00:00",
+                "temperature": 12.14,
+                "windSpeed": 8.59008,
+                "windDirection": 139,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Late morning in Subiaco arrives under a quilt of broken cloud, the sun slipping in and out, brightening verandas one minute and softening them the next. Light feels gentle but purposeful; when the sun breaks through it has a spring bite, enough that a hat and a little sunscreen are wise if you\u2019ll be out around midday. The day looks clear in spirit if not cloudless in sight, with horizons a touch veiled and colors slightly muted, like a watercolor that hasn\u2019t quite dried.\n\nExpect the pattern to hold through early afternoon: intervals of sunshine laid between generous patches of cloud, pleasant rather than dazzling. Dress in easy layers\u2014a breathable shirt with a light jacket you can shrug off when the sun decides to stay. It\u2019s a good day for ordinary pleasures: a stroll to pick up a few things, a long coffee by the window, a quiet lap through the park to stretch the legs, or tending to a small project at home while the light drifts across the room.",
-    "color_code": "#8EA7B7",
-    "timestamp": "2026-09-06 10:40:29",
+    "weather_report": "Subiaco dozes under a clear, inky sky, the air calm and tidy, the stars unblinking as midnight draws a neat line through the night. It feels unhurried and gentle, the sort of quiet that lets you hear shoes on pavement and the soft click of a front gate. With the heavens swept clean, the morning is set to arrive bright and unsparing; sunshine will pour in early and stay faithful, the day reading crisp and high-definition. UV will be docile until dawn, then assertive by late morning, so plan for shade and a brim once the light sharpens.\n\nExpect a pleasant, uncomplicated day: clarity that flatters the streets, a touch of warmth as the sun gathers, and little to distract from simple errands and slow pleasures. For now, a light layer is enough if you step out to breathe the cool; at first light, think easy fabrics, sunglasses, a hat, and a dab of sunscreen. It\u2019s a good morning to put a wash on the line, water the herbs, take an unrushed walk to the corner shop, or read by an open window while the house fills with clean light. Later, a short ride to run an errand or a quiet bench in the shade will suit the mood.",
+    "color_code": "#0A1F44",
+    "timestamp": "2026-09-06 23:57:25",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94967909080281,
-        "longitude": 115.8208017028319,
+        "latitude": -31.94967910716389,
+        "longitude": 115.8207985318687,
         "timezone": "Australia/Perth"
     }
 }
