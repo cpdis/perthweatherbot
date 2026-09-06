@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Wembley",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.92716638202818,
-            "longitude": 115.8154573933218
+            "latitude": -31.94967909080281,
+            "longitude": 115.8208017028319
         },
         "current_conditions": {
-            "timestamp": "2026-09-05T15:45:16+00:00",
-            "temperature_c": 14.18,
-            "temperature_f": 57.524,
-            "humidity": 91,
-            "wind_speed_mph": 7.183007,
-            "wind_direction": 51,
-            "description": "overcast clouds"
+            "timestamp": "2026-09-06T02:40:29+00:00",
+            "temperature_c": 16,
+            "temperature_f": 60.8,
+            "humidity": 70,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 140,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-05T18:00:00+00:00",
-                "temperature": 13.81,
-                "windSpeed": 7.98609,
-                "windDirection": 159,
-                "shortForecast": "light rain"
+                "startTime": "2026-09-06T03:00:00+00:00",
+                "temperature": 16,
+                "windSpeed": 17.98548,
+                "windDirection": 160,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-09-05T21:00:00+00:00",
-                "temperature": 12.55,
-                "windSpeed": 15.23397,
-                "windDirection": 165,
-                "shortForecast": "light rain"
+                "startTime": "2026-09-06T06:00:00+00:00",
+                "temperature": 17.61,
+                "windSpeed": 14.7642,
+                "windDirection": 130,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Wembley settles into a wet hush tonight, the sort of late hour when the streets glow with reflected lamplight and umbrellas drip in doorways. Light rain earlier this evening lingered and may come and go in stray showers, leaving the air cool and faintly metallic. The sky is low and smudged, so clarity is soft rather than sharp; stars are off-stage. There\u2019s no sunshine to speak of now, and the UV index is essentially nil; even by day it stayed muted beneath a stubborn lid of cloud.\n\nIt\u2019s a gently unpleasant night only in the way dampness sneaks into cuffs and collars, so a light waterproof with a hood and shoes that can take a splash are your allies. If you\u2019re stepping out, move unhurriedly and give the pavements their slick respect; if you\u2019re staying in, it\u2019s a good time to tidy tomorrow\u2019s bag, let a kettle whisper, or take a brief umbrella walk around the block to air the mind. Expect the mood to remain subdued into the small hours, with the world feeling close, reflective, and a touch wistful.",
-    "color_code": "#2E4057",
-    "timestamp": "2026-09-05 23:45:17",
+    "weather_report": "Late morning in Subiaco arrives under a quilt of broken cloud, the sun slipping in and out, brightening verandas one minute and softening them the next. Light feels gentle but purposeful; when the sun breaks through it has a spring bite, enough that a hat and a little sunscreen are wise if you\u2019ll be out around midday. The day looks clear in spirit if not cloudless in sight, with horizons a touch veiled and colors slightly muted, like a watercolor that hasn\u2019t quite dried.\n\nExpect the pattern to hold through early afternoon: intervals of sunshine laid between generous patches of cloud, pleasant rather than dazzling. Dress in easy layers\u2014a breathable shirt with a light jacket you can shrug off when the sun decides to stay. It\u2019s a good day for ordinary pleasures: a stroll to pick up a few things, a long coffee by the window, a quiet lap through the park to stretch the legs, or tending to a small project at home while the light drifts across the room.",
+    "color_code": "#8EA7B7",
+    "timestamp": "2026-09-06 10:40:29",
     "location": {
-        "name": "Wembley",
-        "latitude": -31.92716638202818,
-        "longitude": 115.8154573933218,
+        "name": "Subiaco",
+        "latitude": -31.94967909080281,
+        "longitude": 115.8208017028319,
         "timezone": "Australia/Perth"
     }
 }
