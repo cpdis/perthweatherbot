@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2026-08-31 03:09:56",
-    "location": {
-      "name": "Kirribilli",
-      "latitude": -33.8480518634161,
-      "longitude": 151.2135437953975,
-      "timezone": "Australia/Sydney"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-30T17:00:08+00:00",
-      "temperature_c": 10.29,
-      "temperature_f": 50.522,
-      "humidity": 79,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 230,
-      "description": "clear sky"
-    },
-    "report_summary": "Kirribilli wakes under a spotless sky, the harbor lights crisp and the air cool enough to make each ...",
-    "color_code": "#0B2545"
-  },
-  {
-    "timestamp": "2026-08-31 13:17:09",
-    "location": {
-      "name": "Kirribilli",
-      "latitude": -33.84811449233387,
-      "longitude": 151.2134088409692,
-      "timezone": "Australia/Sydney"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-31T03:17:08+00:00",
-      "temperature_c": 22.79,
-      "temperature_f": 73.02199999999999,
-      "humidity": 53,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 80,
-      "description": "clear sky"
-    },
-    "report_summary": "Kirribilli slides into early afternoon under a polished blue dome. The harbour sparkles; shadows sta...",
-    "color_code": "#6EC6FF"
-  },
-  {
     "timestamp": "2026-09-01 05:21:36",
     "location": {
       "name": "Milsons Point",
@@ -318,5 +278,25 @@
     },
     "report_summary": "Late morning in Subiaco arrives under a rinsed-blue sky, bright and uncomplicated, with the light sh...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-09-08 02:04:05",
+    "location": {
+      "name": "Perth",
+      "latitude": -31.95372427858709,
+      "longitude": 115.8524537498511,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-09-07T18:04:03+00:00",
+      "temperature_c": 15.43,
+      "temperature_f": 59.774,
+      "humidity": 74,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 120,
+      "description": "few clouds"
+    },
+    "report_summary": "Perth dozes under a quiet sky at this hour, the streets held in a cool hush and only a few thin clou...",
+    "color_code": "#0D1B2A"
   }
 ]
