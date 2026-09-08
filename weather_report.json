@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Crawley",
             "country": "AU",
-            "latitude": -31.94967863326065,
-            "longitude": 115.8207980435056
+            "latitude": -31.98569386047799,
+            "longitude": 115.8185878335677
         },
         "current_conditions": {
-            "timestamp": "2026-09-08T02:50:43+00:00",
-            "temperature_c": 17.12,
-            "temperature_f": 62.816,
-            "humidity": 61,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 110,
-            "description": "overcast clouds"
+            "timestamp": "2026-09-08T17:02:25+00:00",
+            "temperature_c": 13.57,
+            "temperature_f": 56.426,
+            "humidity": 62,
+            "wind_speed_mph": 18.410510000000002,
+            "wind_direction": 90,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-09-08T03:00:00+00:00",
-                "temperature": 17.12,
-                "windSpeed": 16.35247,
-                "windDirection": 119,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-09-08T18:00:00+00:00",
+                "temperature": 13.57,
+                "windSpeed": 15.435300000000002,
+                "windDirection": 94,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-09-08T06:00:00+00:00",
-                "temperature": 18.39,
-                "windSpeed": 13.15356,
-                "windDirection": 103,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-09-08T21:00:00+00:00",
+                "temperature": 13.12,
+                "windSpeed": 14.786570000000001,
+                "windDirection": 87,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a soft, silvery lid of cloud, the light gentle and low on contrast, shadows muted to a smudge. Through late morning the sun stays shy, more suggestion than presence, before the ceiling loosens into broken cloud by midafternoon and a few brighter intervals slip through. Even so, the spring UV here can be surprisingly insistent around midday; expect it to sit in the moderate-to-high range despite the cover, and treat your skin kindly with sunscreen and a brimmed hat.\n\nIt\u2019s a mild, companionable sort of day: not dreary, just subdued, like a city speaking in a lower register. Dress in light layers you can peel back if the light strengthens; a breathable shirt, a light jacket stowed in your bag, and sunglasses for those sudden sunbreaks. Good weather for errands on foot, a dawdle to the bakery, or a quiet turn through the park paths before lunch. If you\u2019re staying in, crack a window and let the pearly air drift across your desk; if you\u2019re out, linger over a coffee at a streetside table and watch the sky rearrange itself.",
-    "color_code": "#A3B0BF",
-    "timestamp": "2026-09-08 10:50:44",
+    "weather_report": "Crawley sits under a quiet, cloudless night, the kind that makes the streets sound farther away and the stars feel nearer. Air is cool and steady, with excellent clarity; UV is negligible until dawn. Expect a sun-struck morning to follow this pristine sky, likely bright and open through the first half of the day, with UV climbing quickly to a moderate level by late morning if the blue holds.\n\nIt looks pleasantly simple: crisp at first, then warming with the sun. Step out now with a light layer or a soft jumper; after sunrise, think sunglasses, a breathable shirt, and a dab of sunscreen if you\u2019ll linger outdoors. This is good weather for an unhurried early walk, a quiet errand on foot, airing the house with the first light, or tending to small chores in the garden before the sun strengthens. Later, a short cycle to the shops or reading by a sunny window suits the mood\u2014nothing dramatic, just a clear, generous day unfolding from a still, starry night.",
+    "color_code": "#0C1E3F",
+    "timestamp": "2026-09-09 01:02:26",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94967863326065,
-        "longitude": 115.8207980435056,
+        "name": "Crawley",
+        "latitude": -31.98569386047799,
+        "longitude": 115.8185878335677,
         "timezone": "Australia/Perth"
     }
 }

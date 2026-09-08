@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2026-09-01 05:21:36",
-    "location": {
-      "name": "Milsons Point",
-      "latitude": -33.84800477129748,
-      "longitude": 151.2130496746338,
-      "timezone": "Australia/Sydney"
-    },
-    "current_conditions": {
-      "timestamp": "2026-08-31T19:21:35+00:00",
-      "temperature_c": 10,
-      "temperature_f": 50.0,
-      "humidity": 88,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 330,
-      "description": "clear sky"
-    },
-    "report_summary": "Dawn slips quietly over Milsons Point, the harbor glassy and pale, the air with a gentle nip that wa...",
-    "color_code": "#87CEFA"
-  },
-  {
-    "timestamp": "2026-09-01 13:19:35",
-    "location": {
-      "name": "Kirribilli",
-      "latitude": -33.84815014274933,
-      "longitude": 151.2134295399335,
-      "timezone": "Australia/Sydney"
-    },
-    "current_conditions": {
-      "timestamp": "2026-09-01T03:15:06+00:00",
-      "temperature_c": 26.37,
-      "temperature_f": 79.46600000000001,
-      "humidity": 32,
-      "wind_speed_mph": 8.008460000000001,
-      "wind_direction": 309,
-      "description": "clear sky"
-    },
-    "report_summary": "Early afternoon in Kirribilli wears a clean blue sky like pressed linen, the sun bright and unfilter...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-09-02 03:07:29",
     "location": {
       "name": "Mascot",
@@ -318,5 +278,25 @@
     },
     "report_summary": "Subiaco wakes under a soft, silvery lid of cloud, the light gentle and low on contrast, shadows mute...",
     "color_code": "#A3B0BF"
+  },
+  {
+    "timestamp": "2026-09-09 01:02:26",
+    "location": {
+      "name": "Crawley",
+      "latitude": -31.98569386047799,
+      "longitude": 115.8185878335677,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-09-08T17:02:25+00:00",
+      "temperature_c": 13.57,
+      "temperature_f": 56.426,
+      "humidity": 62,
+      "wind_speed_mph": 18.410510000000002,
+      "wind_direction": 90,
+      "description": "clear sky"
+    },
+    "report_summary": "Crawley sits under a quiet, cloudless night, the kind that makes the streets sound farther away and ...",
+    "color_code": "#0C1E3F"
   }
 ]
