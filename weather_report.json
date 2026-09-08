@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95372427858709,
-            "longitude": 115.8524537498511
+            "latitude": -31.94967863326065,
+            "longitude": 115.8207980435056
         },
         "current_conditions": {
-            "timestamp": "2026-09-07T18:04:03+00:00",
-            "temperature_c": 15.43,
-            "temperature_f": 59.774,
-            "humidity": 74,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 120,
-            "description": "few clouds"
+            "timestamp": "2026-09-08T02:50:43+00:00",
+            "temperature_c": 17.12,
+            "temperature_f": 62.816,
+            "humidity": 61,
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 110,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-07T21:00:00+00:00",
-                "temperature": 14.96,
-                "windSpeed": 10.55864,
-                "windDirection": 115,
-                "shortForecast": "few clouds"
+                "startTime": "2026-09-08T03:00:00+00:00",
+                "temperature": 17.12,
+                "windSpeed": 16.35247,
+                "windDirection": 119,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-09-08T00:00:00+00:00",
-                "temperature": 15.15,
-                "windSpeed": 13.44437,
-                "windDirection": 118,
-                "shortForecast": "few clouds"
+                "startTime": "2026-09-08T06:00:00+00:00",
+                "temperature": 18.39,
+                "windSpeed": 13.15356,
+                "windDirection": 103,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Perth dozes under a quiet sky at this hour, the streets held in a cool hush and only a few thin clouds wandering above. Toward dawn those clouds look set to keep their distance, letting the morning open clean and bright. Expect a mostly sunny start with crisp, clear light and good visibility, the kind of clarity that sharpens edges and makes colors behave. As the sun climbs, the UV will rise quickly for spring here, running moderate to high by late morning despite the mild start.\n\nIt reads as a pleasant day in the making: comfortable early, then warm on the skin once the sun finds its stride. Dress in light layers you can peel away, and have sunglasses and sunscreen ready after breakfast. If you\u2019re up with the birds, put a wash on and let the breeze do the work, take a short ride or a steady walk before traffic wakes, or sit by a window with coffee and a list you actually mean to finish. By midday, if you\u2019re out, lean into the shade and keep water close; the light will be generous and a little insistent.",
-    "color_code": "#0D1B2A",
-    "timestamp": "2026-09-08 02:04:05",
+    "weather_report": "Subiaco wakes under a soft, silvery lid of cloud, the light gentle and low on contrast, shadows muted to a smudge. Through late morning the sun stays shy, more suggestion than presence, before the ceiling loosens into broken cloud by midafternoon and a few brighter intervals slip through. Even so, the spring UV here can be surprisingly insistent around midday; expect it to sit in the moderate-to-high range despite the cover, and treat your skin kindly with sunscreen and a brimmed hat.\n\nIt\u2019s a mild, companionable sort of day: not dreary, just subdued, like a city speaking in a lower register. Dress in light layers you can peel back if the light strengthens; a breathable shirt, a light jacket stowed in your bag, and sunglasses for those sudden sunbreaks. Good weather for errands on foot, a dawdle to the bakery, or a quiet turn through the park paths before lunch. If you\u2019re staying in, crack a window and let the pearly air drift across your desk; if you\u2019re out, linger over a coffee at a streetside table and watch the sky rearrange itself.",
+    "color_code": "#A3B0BF",
+    "timestamp": "2026-09-08 10:50:44",
     "location": {
-        "name": "Perth",
-        "latitude": -31.95372427858709,
-        "longitude": 115.8524537498511,
+        "name": "Subiaco",
+        "latitude": -31.94967863326065,
+        "longitude": 115.8207980435056,
         "timezone": "Australia/Perth"
     }
 }
