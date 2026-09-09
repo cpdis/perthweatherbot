@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Crawley",
+            "name": "Osborne Park",
             "country": "AU",
-            "latitude": -31.98569386047799,
-            "longitude": 115.8185878335677
+            "latitude": -31.90799181440193,
+            "longitude": 115.8018434690001
         },
         "current_conditions": {
-            "timestamp": "2026-09-08T17:02:25+00:00",
-            "temperature_c": 13.57,
-            "temperature_f": 56.426,
-            "humidity": 62,
-            "wind_speed_mph": 18.410510000000002,
-            "wind_direction": 90,
+            "timestamp": "2026-09-09T02:50:41+00:00",
+            "temperature_c": 18.31,
+            "temperature_f": 64.958,
+            "humidity": 52,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 100,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-09-08T18:00:00+00:00",
-                "temperature": 13.57,
-                "windSpeed": 15.435300000000002,
-                "windDirection": 94,
+                "startTime": "2026-09-09T03:00:00+00:00",
+                "temperature": 18.31,
+                "windSpeed": 15.41293,
+                "windDirection": 75,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-09-08T21:00:00+00:00",
-                "temperature": 13.12,
-                "windSpeed": 14.786570000000001,
-                "windDirection": 87,
+                "startTime": "2026-09-09T06:00:00+00:00",
+                "temperature": 19.33,
+                "windSpeed": 15.41293,
+                "windDirection": 71,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Crawley sits under a quiet, cloudless night, the kind that makes the streets sound farther away and the stars feel nearer. Air is cool and steady, with excellent clarity; UV is negligible until dawn. Expect a sun-struck morning to follow this pristine sky, likely bright and open through the first half of the day, with UV climbing quickly to a moderate level by late morning if the blue holds.\n\nIt looks pleasantly simple: crisp at first, then warming with the sun. Step out now with a light layer or a soft jumper; after sunrise, think sunglasses, a breathable shirt, and a dab of sunscreen if you\u2019ll linger outdoors. This is good weather for an unhurried early walk, a quiet errand on foot, airing the house with the first light, or tending to small chores in the garden before the sun strengthens. Later, a short cycle to the shops or reading by a sunny window suits the mood\u2014nothing dramatic, just a clear, generous day unfolding from a still, starry night.",
-    "color_code": "#0C1E3F",
-    "timestamp": "2026-09-09 01:02:26",
+    "weather_report": "Osborne Park wakes under a spotless sky, the light already bright enough to sharpen every edge and make the morning feel new-minted. The air is clear and dry, the kind that carries distant sounds a little farther, and the sun is gathering strength; UV will climb toward the high side around midday despite the gentleness of the breeze. It\u2019s shaping up as a clean, sunny day, the kind where shade feels kind and the open sun feels bold.\n\nExpect the blue to hold through the early afternoon, with a faint sea-breeze mood likely softening the warmth later on. Dress in easy layers: a light shirt you can roll at the sleeves, comfortable trousers or a breezy skirt, sunglasses, and a hat. Sunscreen is wise if you\u2019ll linger outside. It\u2019s a good day for small, ordinary victories: ride a bike to the shops, hang the washing where the sun can do its quiet work, take your coffee to a park bench, prune a corner of the garden, or open the windows and let the house breathe.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-09-09 10:50:42",
     "location": {
-        "name": "Crawley",
-        "latitude": -31.98569386047799,
-        "longitude": 115.8185878335677,
+        "name": "Osborne Park",
+        "latitude": -31.90799181440193,
+        "longitude": 115.8018434690001,
         "timezone": "Australia/Perth"
     }
 }
