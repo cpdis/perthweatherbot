@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-09-03 10:44:08",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968411038583,
-      "longitude": 115.8207992054619,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-09-03T02:44:07+00:00",
-      "temperature_c": 15.67,
-      "temperature_f": 60.206,
-      "humidity": 79,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 360,
-      "description": "broken clouds"
-    },
-    "report_summary": "Late morning in Subiaco wears a soft, pewter lid of cloud and a damp hush. Light rain is set to slip...",
-    "color_code": "#7A8896"
-  },
-  {
     "timestamp": "2026-09-04 00:53:12",
     "location": {
       "name": "Perth",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco wakes under a polished blue, the sun clean and insistent, sharpening edges and brightening t...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-09-11 00:52:09",
+    "location": {
+      "name": "East Perth",
+      "latitude": -31.95251220995846,
+      "longitude": 115.8780884387639,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-09-10T16:52:08+00:00",
+      "temperature_c": 15.63,
+      "temperature_f": 60.134,
+      "humidity": 67,
+      "wind_speed_mph": 1.99093,
+      "wind_direction": 82,
+      "description": "scattered clouds"
+    },
+    "report_summary": "East Perth drifts through the small hours under a quilt of scattered cloud, the night air cool and u...",
+    "color_code": "#1B2A38"
   }
 ]

@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "East Perth",
             "country": "AU",
-            "latitude": -31.94967331446061,
-            "longitude": 115.8207865164893
+            "latitude": -31.95251220995846,
+            "longitude": 115.8780884387639
         },
         "current_conditions": {
-            "timestamp": "2026-09-10T02:52:27+00:00",
-            "temperature_c": 19.46,
-            "temperature_f": 67.028,
-            "humidity": 51,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 40,
-            "description": "clear sky"
+            "timestamp": "2026-09-10T16:52:08+00:00",
+            "temperature_c": 15.63,
+            "temperature_f": 60.134,
+            "humidity": 67,
+            "wind_speed_mph": 1.99093,
+            "wind_direction": 82,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-10T03:00:00+00:00",
-                "temperature": 19.46,
-                "windSpeed": 14.92079,
-                "windDirection": 59,
-                "shortForecast": "clear sky"
+                "startTime": "2026-09-10T18:00:00+00:00",
+                "temperature": 15.63,
+                "windSpeed": 10.402050000000001,
+                "windDirection": 48,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2026-09-10T06:00:00+00:00",
-                "temperature": 20.28,
-                "windSpeed": 10.67049,
-                "windDirection": 56,
-                "shortForecast": "clear sky"
+                "startTime": "2026-09-10T21:00:00+00:00",
+                "temperature": 14.9,
+                "windSpeed": 10.2902,
+                "windDirection": 57,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a polished blue, the sun clean and insistent, sharpening edges and brightening the morning streets. Forecast notes clear skies through late morning into midafternoon, a simple, lucid day with little to trouble it. Expect the UV to surge around midday; the light will feel generous but unforgiving, the kind that warms the shoulders and asks for shade now and then. The air reads as clear and open, a day made for seeing far.\n\nDress lightly with a brimmed hat and sunglasses, sunscreen as routine as keys and wallet. It\u2019s a good morning to run a couple of errands on foot, linger over a coffee at a shaded table, or let a line of washing take the sun. After lunch, take a short wander through a quiet park or along a tree-lined street, saving anything strenuous for later when the light eases. It looks pleasantly straightforward: bright, dry, and kind if you respect the noon glare.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-09-10 10:52:28",
+    "weather_report": "East Perth drifts through the small hours under a quilt of scattered cloud, the night air cool and unhurried, streetlights pooling quietly on the pavement. It feels calm rather than cold, the sort of late hour that softens edges and lowers voices, with the river likely moving like dark silk beneath the bridges.\n\nThe forecast points to patchy cloud lingering toward dawn, then well-broken skies as morning gathers pace. Expect some generous spells of sunshine once the sun lifts, enough for the UV to climb quickly for a Perth spring; even with cloud about, the light can bite, so carry sunglasses and a dab of sunscreen. Clarity should be decent, shadows sharpening as the day opens. It looks like a pleasant one if you lean into it: a light layer now, something you can shed by mid-morning, and comfortable shoes. An early stroll for a coffee, a quiet lap of the block with a podcast, watering the balcony herbs, or a quick grocery run before the day warms would all suit the mood. If you\u2019re working from home, crack a window, let the fresh air through, and keep an eye on that brightening sky.",
+    "color_code": "#1B2A38",
+    "timestamp": "2026-09-11 00:52:09",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94967331446061,
-        "longitude": 115.8207865164893,
+        "name": "East Perth",
+        "latitude": -31.95251220995846,
+        "longitude": 115.8780884387639,
         "timezone": "Australia/Perth"
     }
 }
