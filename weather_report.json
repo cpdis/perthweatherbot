@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "West Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9509174,
-            "longitude": 115.8348705333334
+            "latitude": -31.94972461572079,
+            "longitude": 115.8208788249252
         },
         "current_conditions": {
-            "timestamp": "2026-09-11T02:45:44+00:00",
-            "temperature_c": 22.12,
-            "temperature_f": 71.816,
-            "humidity": 51,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 20,
-            "description": "overcast clouds"
+            "timestamp": "2026-09-11T16:51:54+00:00",
+            "temperature_c": 17.8,
+            "temperature_f": 64.04,
+            "humidity": 89,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 350,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2026-09-11T03:00:00+00:00",
-                "temperature": 22.12,
-                "windSpeed": 10.066500000000001,
-                "windDirection": 8,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-09-11T18:00:00+00:00",
+                "temperature": 17.8,
+                "windSpeed": 16.41958,
+                "windDirection": 323,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-09-11T06:00:00+00:00",
-                "temperature": 23.08,
-                "windSpeed": 8.41112,
-                "windDirection": 305,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-09-11T21:00:00+00:00",
+                "temperature": 17.4,
+                "windSpeed": 22.325260000000004,
+                "windDirection": 278,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "West Perth wakes under a soft, unbroken lid of cloud, the light smoothed to a quiet silver that takes the edge off the morning. The sun spends the day behind the curtain; UV will be tempered by the overcast, though around midday here it can still creep to moderate levels, so bring a dab of sunscreen if you\u2019ll be out for long. The air feels calm and diffused, shadows nearly gone, visibility steady but the skyline a little smudged at the edges. It\u2019s the kind of day that asks for light layers and a comfortable long sleeve, something you can shrug on and off without thinking; sunglasses are optional, a compact umbrella only if you\u2019re the careful sort.\n\nWith the sky settled into this contemplative grey, the hours invite gentle errands and unhurried rituals: a stroll to the bakery, a library return done on foot, a museum or gallery wander where the rooms feel brighter than the streets. If you\u2019re working from home, crack a window and let the muted air in; if you\u2019re out, take the longer way back and enjoy the even, forgiving light. It\u2019s not a day for spectacle, but for small satisfactions done well.",
-    "color_code": "#a3abb3",
-    "timestamp": "2026-09-11 10:45:45",
+    "weather_report": "Subiaco drifts past midnight under a soft, grey canopy, the streets a little glossy and quiet as light showers skirt the small hours before dawn. Skies look thick rather than starry, so don\u2019t expect much in the way of sunshine early; visibility will be gentle and haloed, the world smudged at the edges by drizzle. UV is negligible now and likely low through the morning if the cloud holds, rising only if the sun finds brief openings later. Overall it\u2019s a mild, damp start that feels more contemplative than lively, the sort of weather that hushes the edges of the day.\n\nDress for a lingering sprinkle: a light rain jacket, closed shoes with some grip, and a compact umbrella. If you\u2019re up late, this is fine weather to tidy a corner of the house, skim a chapter, or set coffee for the morning. After first light, run simple errands between showers, linger over breakfast at a quiet cafe, or take the train instead of cycling. If the sky brightens, slip on sunglasses and a touch of sunscreen; if it doesn\u2019t, lean into the coziness and let the day move at an unhurried pace.",
+    "color_code": "#2C3E50",
+    "timestamp": "2026-09-12 00:51:55",
     "location": {
-        "name": "West Perth",
-        "latitude": -31.9509174,
-        "longitude": 115.8348705333334,
+        "name": "Subiaco",
+        "latitude": -31.94972461572079,
+        "longitude": 115.8208788249252,
         "timezone": "Australia/Perth"
     }
 }
