@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-09-04 00:53:12",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.96840561554675,
-      "longitude": 115.8382098093752,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-09-03T16:53:11+00:00",
-      "temperature_c": 15.61,
-      "temperature_f": 60.098,
-      "humidity": 84,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 300,
-      "description": "broken clouds"
-    },
-    "report_summary": "Perth slips past midnight under a soft, unsettled sky; the kind of damp quiet where streetlights wea...",
-    "color_code": "#2F3E46"
-  },
-  {
     "timestamp": "2026-09-04 10:42:33",
     "location": {
       "name": "Cottesloe",
@@ -298,5 +278,25 @@
     },
     "report_summary": "East Perth drifts through the small hours under a quilt of scattered cloud, the night air cool and u...",
     "color_code": "#1B2A38"
+  },
+  {
+    "timestamp": "2026-09-11 10:45:45",
+    "location": {
+      "name": "West Perth",
+      "latitude": -31.9509174,
+      "longitude": 115.8348705333334,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-09-11T02:45:44+00:00",
+      "temperature_c": 22.12,
+      "temperature_f": 71.816,
+      "humidity": 51,
+      "wind_speed_mph": 16.1064,
+      "wind_direction": 20,
+      "description": "overcast clouds"
+    },
+    "report_summary": "West Perth wakes under a soft, unbroken lid of cloud, the light smoothed to a quiet silver that take...",
+    "color_code": "#a3abb3"
   }
 ]
