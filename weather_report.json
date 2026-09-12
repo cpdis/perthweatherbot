@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94972461572079,
-            "longitude": 115.8208788249252
+            "latitude": -31.94967231064441,
+            "longitude": 115.8207891254967
         },
         "current_conditions": {
-            "timestamp": "2026-09-11T16:51:54+00:00",
-            "temperature_c": 17.8,
-            "temperature_f": 64.04,
-            "humidity": 89,
-            "wind_speed_mph": 9.21644,
-            "wind_direction": 350,
-            "description": "light rain"
+            "timestamp": "2026-09-12T02:54:40+00:00",
+            "temperature_c": 19.57,
+            "temperature_f": 67.226,
+            "humidity": 48,
+            "wind_speed_mph": 18.410510000000002,
+            "wind_direction": 250,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-11T18:00:00+00:00",
-                "temperature": 17.8,
-                "windSpeed": 16.41958,
-                "windDirection": 323,
-                "shortForecast": "light rain"
+                "startTime": "2026-09-12T03:00:00+00:00",
+                "temperature": 19.57,
+                "windSpeed": 12.99697,
+                "windDirection": 246,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2026-09-11T21:00:00+00:00",
-                "temperature": 17.4,
-                "windSpeed": 22.325260000000004,
-                "windDirection": 278,
-                "shortForecast": "light rain"
+                "startTime": "2026-09-12T06:00:00+00:00",
+                "temperature": 20.23,
+                "windSpeed": 10.53627,
+                "windDirection": 259,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Subiaco drifts past midnight under a soft, grey canopy, the streets a little glossy and quiet as light showers skirt the small hours before dawn. Skies look thick rather than starry, so don\u2019t expect much in the way of sunshine early; visibility will be gentle and haloed, the world smudged at the edges by drizzle. UV is negligible now and likely low through the morning if the cloud holds, rising only if the sun finds brief openings later. Overall it\u2019s a mild, damp start that feels more contemplative than lively, the sort of weather that hushes the edges of the day.\n\nDress for a lingering sprinkle: a light rain jacket, closed shoes with some grip, and a compact umbrella. If you\u2019re up late, this is fine weather to tidy a corner of the house, skim a chapter, or set coffee for the morning. After first light, run simple errands between showers, linger over breakfast at a quiet cafe, or take the train instead of cycling. If the sky brightens, slip on sunglasses and a touch of sunscreen; if it doesn\u2019t, lean into the coziness and let the day move at an unhurried pace.",
-    "color_code": "#2C3E50",
-    "timestamp": "2026-09-12 00:51:55",
+    "weather_report": "Late morning in Subiaco arrives bright and uncomplicated: a broad blue sky with only a scatter of soft clouds, the sun already keen on the pavement and shopfronts. The air feels clear, edges crisp, and visibility long, but the sun has some bite; UV will run high around midday despite the light cloud, so think sunscreen, sunglasses, and a brim that throws good shade. It\u2019s the sort of day that makes colors pop and shadows tidy.\n\nThrough the early to midafternoon, expect that same easy clarity with just a few passing tufts of cloud, pleasant for wandering if you keep to the cooler side of the street. Light layers and breathable fabrics will serve you well, with comfortable walking shoes for unhurried errands. This is a fine time to linger at a caf\u00e9 table under an awning, browse a bookshop, or roll a gentle lap through the leafy streets; hang a load of washing and let the sun do its quiet work; or tend balcony herbs between sips of cold water. Keep breaks in the shade and you\u2019ll have a serene, unruffled day.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-09-12 10:54:41",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94972461572079,
-        "longitude": 115.8208788249252,
+        "latitude": -31.94967231064441,
+        "longitude": 115.8207891254967,
         "timezone": "Australia/Perth"
     }
 }
