@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "South Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9647912379115,
-            "longitude": 115.8474149484539
+            "latitude": -31.9497081426498,
+            "longitude": 115.8206847534871
         },
         "current_conditions": {
-            "timestamp": "2026-09-13T02:54:01+00:00",
-            "temperature_c": 19.55,
-            "temperature_f": 67.19,
-            "humidity": 54,
-            "wind_speed_mph": 19.57375,
-            "wind_direction": 260,
+            "timestamp": "2026-09-13T16:48:01+00:00",
+            "temperature_c": 14.75,
+            "temperature_f": 58.55,
+            "humidity": 86,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 140,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-13T03:00:00+00:00",
-                "temperature": 19.55,
-                "windSpeed": 8.7243,
-                "windDirection": 277,
+                "startTime": "2026-09-13T18:00:00+00:00",
+                "temperature": 14.75,
+                "windSpeed": 3.71342,
+                "windDirection": 142,
                 "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-09-13T06:00:00+00:00",
-                "temperature": 19.67,
-                "windSpeed": 8.7243,
-                "windDirection": 276,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-09-13T21:00:00+00:00",
+                "temperature": 14.75,
+                "windSpeed": 3.87001,
+                "windDirection": 85,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "South Perth wakes to a pewter lid of cloud, the light soft and even, edges of buildings gentled and the river a sheet of brushed steel. Sunshine will be scarce today; the overcast looks settled through early afternoon with no clear signal of rain in what we have, just that familiar, steady grey. UV is dialed down by the blanket above but not gone entirely; spring can still sneak through the clouds, so treat it with respect if you linger outdoors. The air feels cool to mild, the kind of day that asks for patience rather than bravado.\n\nFor a late Sunday like this, dress in light layers and a comfortable long sleeve, a simple jacket at hand, and perhaps sunglasses for the bright, diffuse glare off the Swan. It\u2019s good weather for the quiet errands you\u2019ve been avoiding, a slow amble along the foreshore to watch the water traffic slide by, or a pause at a window seat with a book and an unhurried coffee. If you\u2019re staying home, it\u2019s a gentle time to repot a plant, tend to a small fix-it task, or lay out the week ahead without the sun tapping your shoulder.",
-    "color_code": "#A7AEB7",
-    "timestamp": "2026-09-13 10:54:02",
+    "weather_report": "Just past midnight in Subiaco, the sky feels hushed and close, a quilt of cloud muting the last of Sunday\u2019s noise. Through the small hours the cover thickens toward overcast, then loosens before dawn into broken patches, the kind of sky that smudges streetlights and softens edges. Nighttime UV is essentially nil, and the moon, if it\u2019s there at all, is a rumor behind gauze.\n\nBy early morning the cloud should still be around but with a few seams opening for pale light. Expect a subdued, low-glare start; UV will stay low at first, climbing later if the breaks widen, so keep sunscreen in mind for late morning wanderings. It reads as a gentle, slightly cool night rolling into a tempered, usable day. A light jacket or soft sweater suits the hour, with layers you can peel back if the day brightens. This is good weather for unhurried routines: a late tea on the veranda, a quiet walk with the dog under calm skies, an early caf\u00e9 run when the ovens are just warm, or tidying the desk before the week gathers pace.",
+    "color_code": "#3E4A59",
+    "timestamp": "2026-09-14 00:48:02",
     "location": {
-        "name": "South Perth",
-        "latitude": -31.9647912379115,
-        "longitude": 115.8474149484539,
+        "name": "Subiaco",
+        "latitude": -31.9497081426498,
+        "longitude": 115.8206847534871,
         "timezone": "Australia/Perth"
     }
 }
