@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-09-05 23:45:17",
-    "location": {
-      "name": "Wembley",
-      "latitude": -31.92716638202818,
-      "longitude": 115.8154573933218,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-09-05T15:45:16+00:00",
-      "temperature_c": 14.18,
-      "temperature_f": 57.524,
-      "humidity": 91,
-      "wind_speed_mph": 7.183007,
-      "wind_direction": 51,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Wembley settles into a wet hush tonight, the sort of late hour when the streets glow with reflected ...",
-    "color_code": "#2E4057"
-  },
-  {
     "timestamp": "2026-09-06 10:40:29",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco slips toward midnight under an uncluttered sky, the evening\u2019s clean blue fading to velvet wi...",
     "color_code": "#0C1F3A"
+  },
+  {
+    "timestamp": "2026-09-13 10:54:02",
+    "location": {
+      "name": "South Perth",
+      "latitude": -31.9647912379115,
+      "longitude": 115.8474149484539,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-09-13T02:54:01+00:00",
+      "temperature_c": 19.55,
+      "temperature_f": 67.19,
+      "humidity": 54,
+      "wind_speed_mph": 19.57375,
+      "wind_direction": 260,
+      "description": "overcast clouds"
+    },
+    "report_summary": "South Perth wakes to a pewter lid of cloud, the light soft and even, edges of buildings gentled and ...",
+    "color_code": "#A7AEB7"
   }
 ]

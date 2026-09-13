@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "South Perth",
             "country": "AU",
-            "latitude": -31.94970657688869,
-            "longitude": 115.8206983052511
+            "latitude": -31.9647912379115,
+            "longitude": 115.8474149484539
         },
         "current_conditions": {
-            "timestamp": "2026-09-12T15:58:12+00:00",
-            "temperature_c": 13.87,
-            "temperature_f": 56.966,
-            "humidity": 76,
-            "wind_speed_mph": 5.77146,
-            "wind_direction": 305,
-            "description": "clear sky"
+            "timestamp": "2026-09-13T02:54:01+00:00",
+            "temperature_c": 19.55,
+            "temperature_f": 67.19,
+            "humidity": 54,
+            "wind_speed_mph": 19.57375,
+            "wind_direction": 260,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-12T18:00:00+00:00",
-                "temperature": 13.7,
-                "windSpeed": 5.3688,
-                "windDirection": 319,
-                "shortForecast": "clear sky"
+                "startTime": "2026-09-13T03:00:00+00:00",
+                "temperature": 19.55,
+                "windSpeed": 8.7243,
+                "windDirection": 277,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-09-12T21:00:00+00:00",
-                "temperature": 13.14,
-                "windSpeed": 4.80955,
-                "windDirection": 308,
-                "shortForecast": "few clouds"
+                "startTime": "2026-09-13T06:00:00+00:00",
+                "temperature": 19.67,
+                "windSpeed": 8.7243,
+                "windDirection": 276,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Subiaco slips toward midnight under an uncluttered sky, the evening\u2019s clean blue fading to velvet with only a few shy clouds for company. The sun is long gone and the UV has fallen to nothing; what you have now is clarity, crisp and uncomplicated, the kind that sharpens edges and lets distant windows wink. It feels pleasantly calm, the sort of night that asks for unhurried steps and unhurried thoughts.\n\nThrough the rest of the night, expect mostly clear conditions with a stray cloud or two wandering past. A light jacket or soft sweater will be enough, something you can pocket if you start moving. It\u2019s good weather for a quiet loop around the block, a chapter on the balcony, or a little desk-straightening with the window cracked to let in the gentler air. If you\u2019re up before sleep, step outside for a minute and tilt your head back; the sky is open, and the city hum is low.",
-    "color_code": "#0C1F3A",
-    "timestamp": "2026-09-12 23:58:13",
+    "weather_report": "South Perth wakes to a pewter lid of cloud, the light soft and even, edges of buildings gentled and the river a sheet of brushed steel. Sunshine will be scarce today; the overcast looks settled through early afternoon with no clear signal of rain in what we have, just that familiar, steady grey. UV is dialed down by the blanket above but not gone entirely; spring can still sneak through the clouds, so treat it with respect if you linger outdoors. The air feels cool to mild, the kind of day that asks for patience rather than bravado.\n\nFor a late Sunday like this, dress in light layers and a comfortable long sleeve, a simple jacket at hand, and perhaps sunglasses for the bright, diffuse glare off the Swan. It\u2019s good weather for the quiet errands you\u2019ve been avoiding, a slow amble along the foreshore to watch the water traffic slide by, or a pause at a window seat with a book and an unhurried coffee. If you\u2019re staying home, it\u2019s a gentle time to repot a plant, tend to a small fix-it task, or lay out the week ahead without the sun tapping your shoulder.",
+    "color_code": "#A7AEB7",
+    "timestamp": "2026-09-13 10:54:02",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94970657688869,
-        "longitude": 115.8206983052511,
+        "name": "South Perth",
+        "latitude": -31.9647912379115,
+        "longitude": 115.8474149484539,
         "timezone": "Australia/Perth"
     }
 }
