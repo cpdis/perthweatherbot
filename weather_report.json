@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94967402437204,
-            "longitude": 115.820788932539
+            "latitude": -31.94972103161253,
+            "longitude": 115.8207640250682
         },
         "current_conditions": {
-            "timestamp": "2026-09-14T03:07:51+00:00",
-            "temperature_c": 19.85,
-            "temperature_f": 67.73,
-            "humidity": 51,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 100,
-            "description": "broken clouds"
+            "timestamp": "2026-09-14T18:15:29+00:00",
+            "temperature_c": 14.73,
+            "temperature_f": 58.513999999999996,
+            "humidity": 73,
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 110,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-14T06:00:00+00:00",
-                "temperature": 21.27,
-                "windSpeed": 7.404470000000001,
-                "windDirection": 209,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-09-14T21:00:00+00:00",
+                "temperature": 14.64,
+                "windSpeed": 11.87847,
+                "windDirection": 102,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-09-14T09:00:00+00:00",
-                "temperature": 21.56,
-                "windSpeed": 8.54534,
-                "windDirection": 199,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-09-15T00:00:00+00:00",
+                "temperature": 15.85,
+                "windSpeed": 12.281130000000001,
+                "windDirection": 98,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Late morning in Subiaco arrives bright and genial, the sky a generous blue with drifts of scattered cloud sliding lazily across it. Sunlight has a clean, silvery edge now, sharpening rooftops and eucalyptus leaves; the day looks clear and open, the sort that invites you outside but reminds you, too, that midday UV will be high and the glare unforgiving if you forget a hat and sunscreen.\n\nThrough the afternoon the pattern holds: sunshine most of the time, soft veils of cloud to take the sting out now and then. It reads as a pleasant day rather than a punishing one. Dress light and breathable, add sunglasses and a brim, and keep a water bottle near. It\u2019s good weather for simple errands on foot, a quiet coffee at a shaded table, or letting a fresh wash dry on the line. If you\u2019re out around early afternoon, tuck into the lee of shopfront awnings or tree-lined streets; later, as the light mellows, a gentle circuit of the neighborhood or a tidy in the garden will feel just right.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-09-14 11:07:52",
+    "weather_report": "Subiaco dozes under a patchwork sky, the small hours cool and still, streetlight halos softened by broken cloud. It isn\u2019t a night for stars so much as a quiet ceiling of moving gray, with the promise of a gentle, filtered dawn. UV is of no concern now, and the air feels clean, the world pared back to footsteps, distant tires, and breath.\n\nToward morning, expect the clouds to linger in tatters, letting through intervals of mellow sunshine rather than a hard, blue blaze. The day looks easy on the eyes\u2014bright at times, but with softened edges\u2014so UV will start low and build modestly by late morning despite the cloud breaks; a hat, sunglasses, and a touch of sunscreen will serve you well if you linger outdoors. Dress in light layers: a soft top with a breathable jacket for the early cool, easy to shed when the sun finds you. It\u2019s a day for ordinary pleasures\u2014an unhurried walk to pick up bread, a potter in the garden before the light strengthens, a short ride to run an errand, or reading by a window when the sky brightens and dims in slow rhythm. Pleasant, unhurried weather, asking only that you keep an eye on the changing light.",
+    "color_code": "#3A4A5A",
+    "timestamp": "2026-09-15 02:19:20",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94967402437204,
-        "longitude": 115.820788932539,
+        "latitude": -31.94972103161253,
+        "longitude": 115.8207640250682,
         "timezone": "Australia/Perth"
     }
 }
