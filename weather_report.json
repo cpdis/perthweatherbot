@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Wembley",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9332331901918,
-            "longitude": 115.8251347298674
+            "latitude": -31.94971280448289,
+            "longitude": 115.8206917537349
         },
         "current_conditions": {
-            "timestamp": "2026-09-15T03:10:04+00:00",
-            "temperature_c": 22.64,
-            "temperature_f": 72.752,
-            "humidity": 52,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 90,
+            "timestamp": "2026-09-15T17:17:25+00:00",
+            "temperature_c": 18.76,
+            "temperature_f": 65.768,
+            "humidity": 68,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 80,
             "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-15T06:00:00+00:00",
-                "temperature": 24.08,
-                "windSpeed": 7.449210000000001,
-                "windDirection": 79,
-                "shortForecast": "few clouds"
+                "startTime": "2026-09-15T18:00:00+00:00",
+                "temperature": 18.66,
+                "windSpeed": 12.460090000000001,
+                "windDirection": 68,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2026-09-15T09:00:00+00:00",
-                "temperature": 24.57,
-                "windSpeed": 9.12696,
-                "windDirection": 137,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-09-15T21:00:00+00:00",
+                "temperature": 18.99,
+                "windSpeed": 9.82043,
+                "windDirection": 71,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Late morning in Wembley wears a shifting sky: earlier few clouds have gathered into broken swaths, letting the sun wander in and out like a shy performer. Light pools on pavements, then softens, and the air feels mild with a clean edge. Visibility is good, colors steady rather than dazzling. When the sun breaks through, there\u2019s a little warmth to the skin and a moderate UV bite; when it ducks away, the day turns quiet and comfortable.\n\nThrough the afternoon expect the same easy rhythm of bright spells and passing cloud, with little sign of rain and a gentler feel toward evening. Dress in light layers\u2014a breathable shirt with a thin sweater or jacket you can shrug on between sunbursts\u2014and keep sunglasses and a dab of sunscreen handy if you\u2019ll linger outdoors at lunch. It\u2019s a fine day for ordinary pleasures: a slow walk to the shops, a coffee by a window, pruning a few garden stems, or a loop around Wembley Park with a book tucked in your bag for when the light holds steady and the benches call.",
-    "color_code": "#b7cde2",
-    "timestamp": "2026-09-15 11:10:05",
+    "weather_report": "Subiaco drifts through the small hours under a gentle scatter of cloud, the sky loosening toward a clearer pre-dawn. The air feels quiet and cool, the kind of night that muffles sound and lets a few stubborn stars wink between passing veils. By first light those veils look set to thin further, leaving a clean, bright morning with only a few brushstrokes of cloud for company. Expect a sunny day that sharpens quickly; the UV will rise with purpose after breakfast, likely high by late morning in this spring stretch, so the sun will have some bite even if the air still feels mild.\n\nDress for layers: a light jacket now, easy to shrug off to short sleeves as the light settles in; hat, sunglasses, and sunscreen belong near the door. It looks like a day for ordinary pleasures done unrushed\u2014airing the house, a walk to pick up bread, watering the balcony herbs, cycling a couple of errands before the sun turns insistent, then a shaded pause with a book after lunch. Clarity, not drama, is the theme.",
+    "color_code": "#1A2A44",
+    "timestamp": "2026-09-16 01:27:04",
     "location": {
-        "name": "Wembley",
-        "latitude": -31.9332331901918,
-        "longitude": 115.8251347298674,
+        "name": "Subiaco",
+        "latitude": -31.94971280448289,
+        "longitude": 115.8206917537349,
         "timezone": "Australia/Perth"
     }
 }
