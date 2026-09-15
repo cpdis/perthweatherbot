@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Wembley",
             "country": "AU",
-            "latitude": -31.94972103161253,
-            "longitude": 115.8207640250682
+            "latitude": -31.9332331901918,
+            "longitude": 115.8251347298674
         },
         "current_conditions": {
-            "timestamp": "2026-09-14T18:15:29+00:00",
-            "temperature_c": 14.73,
-            "temperature_f": 58.513999999999996,
-            "humidity": 73,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 110,
+            "timestamp": "2026-09-15T03:10:04+00:00",
+            "temperature_c": 22.64,
+            "temperature_f": 72.752,
+            "humidity": 52,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 90,
             "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-14T21:00:00+00:00",
-                "temperature": 14.64,
-                "windSpeed": 11.87847,
-                "windDirection": 102,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-09-15T06:00:00+00:00",
+                "temperature": 24.08,
+                "windSpeed": 7.449210000000001,
+                "windDirection": 79,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2026-09-15T00:00:00+00:00",
-                "temperature": 15.85,
-                "windSpeed": 12.281130000000001,
-                "windDirection": 98,
+                "startTime": "2026-09-15T09:00:00+00:00",
+                "temperature": 24.57,
+                "windSpeed": 9.12696,
+                "windDirection": 137,
                 "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco dozes under a patchwork sky, the small hours cool and still, streetlight halos softened by broken cloud. It isn\u2019t a night for stars so much as a quiet ceiling of moving gray, with the promise of a gentle, filtered dawn. UV is of no concern now, and the air feels clean, the world pared back to footsteps, distant tires, and breath.\n\nToward morning, expect the clouds to linger in tatters, letting through intervals of mellow sunshine rather than a hard, blue blaze. The day looks easy on the eyes\u2014bright at times, but with softened edges\u2014so UV will start low and build modestly by late morning despite the cloud breaks; a hat, sunglasses, and a touch of sunscreen will serve you well if you linger outdoors. Dress in light layers: a soft top with a breathable jacket for the early cool, easy to shed when the sun finds you. It\u2019s a day for ordinary pleasures\u2014an unhurried walk to pick up bread, a potter in the garden before the light strengthens, a short ride to run an errand, or reading by a window when the sky brightens and dims in slow rhythm. Pleasant, unhurried weather, asking only that you keep an eye on the changing light.",
-    "color_code": "#3A4A5A",
-    "timestamp": "2026-09-15 02:19:20",
+    "weather_report": "Late morning in Wembley wears a shifting sky: earlier few clouds have gathered into broken swaths, letting the sun wander in and out like a shy performer. Light pools on pavements, then softens, and the air feels mild with a clean edge. Visibility is good, colors steady rather than dazzling. When the sun breaks through, there\u2019s a little warmth to the skin and a moderate UV bite; when it ducks away, the day turns quiet and comfortable.\n\nThrough the afternoon expect the same easy rhythm of bright spells and passing cloud, with little sign of rain and a gentler feel toward evening. Dress in light layers\u2014a breathable shirt with a thin sweater or jacket you can shrug on between sunbursts\u2014and keep sunglasses and a dab of sunscreen handy if you\u2019ll linger outdoors at lunch. It\u2019s a fine day for ordinary pleasures: a slow walk to the shops, a coffee by a window, pruning a few garden stems, or a loop around Wembley Park with a book tucked in your bag for when the light holds steady and the benches call.",
+    "color_code": "#b7cde2",
+    "timestamp": "2026-09-15 11:10:05",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94972103161253,
-        "longitude": 115.8207640250682,
+        "name": "Wembley",
+        "latitude": -31.9332331901918,
+        "longitude": 115.8251347298674,
         "timezone": "Australia/Perth"
     }
 }
