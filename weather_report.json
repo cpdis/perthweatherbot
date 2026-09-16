@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Herdsman",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.92856771795875,
-            "longitude": 115.8098998183804
+            "latitude": -31.94968858879769,
+            "longitude": 115.8206102772363
         },
         "current_conditions": {
-            "timestamp": "2026-09-16T03:06:06+00:00",
-            "temperature_c": 26.67,
-            "temperature_f": 80.006,
-            "humidity": 52,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 60,
-            "description": "clear sky"
+            "timestamp": "2026-09-16T17:26:22+00:00",
+            "temperature_c": 21.51,
+            "temperature_f": 70.718,
+            "humidity": 67,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 30,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-16T06:00:00+00:00",
-                "temperature": 26.78,
-                "windSpeed": 11.72188,
-                "windDirection": 27,
-                "shortForecast": "clear sky"
+                "startTime": "2026-09-16T18:00:00+00:00",
+                "temperature": 21.51,
+                "windSpeed": 15.636630000000002,
+                "windDirection": 54,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2026-09-16T09:00:00+00:00",
-                "temperature": 26.39,
-                "windSpeed": 9.23881,
-                "windDirection": 69,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-09-16T21:00:00+00:00",
+                "temperature": 21.65,
+                "windSpeed": 11.81136,
+                "windDirection": 39,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Late morning in Herdsman feels bright and open, the sun already assertive and the air clean enough to make colors ring. Expect a sun-forward day at first, with a hard, clear light through early afternoon; UV levels will be strong to very strong around the middle of the day, so treat it with respect: sunscreen, sunglasses, a brim, and a preference for shade if you\u2019re lingering. The sky should stay mostly blue until later, when a quilt of broken cloud drifts in and softens the edges of things without turning the day dour.\n\nIt reads as a pleasant spring day overall: easy to enjoy in light, breathable layers now, with a spare long sleeve or scarf for the cooler feel that often arrives as the cloud builds late. Good hours for a quiet lap around Herdsman Lake with the birds chattering in the reeds, a coffee on a shaded veranda, or a few unhurried errands on foot while the light is kind. As afternoon clouds gather, it\u2019s a fine time to tend to small indoor tasks with the windows open, or settle into a book while the sky goes from polished blue to a gentler, dappled hue.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-09-16 11:06:07",
+    "weather_report": "Subiaco rests under a quiet, mostly clear sky, the small hours stitched with a few gentle clouds drifting east. The air feels clean and a touch cool, lending the streets a calm, lucid quality; stars keep their grip for now, promising a crisp, uncomplicated start.\n\nToward dawn the cover thins to open blue, and the day looks set to turn bright and clear; sunshine should sharpen quickly after sunrise, with UV rising fast by late morning, so plan shade and sunscreen if you\u2019ll be out for long. A light layer suits the pre-dawn chill, then shift to breathable clothes, a brimmed hat, and dark lenses once the light toughens. This is a good morning for small, easy rituals: an unhurried walk to the bakery before the heat asserts itself, watering the herbs while the shadows are still long, or a short ride to run early errands and be home when the sun grows insistent.",
+    "color_code": "#0b1e3a",
+    "timestamp": "2026-09-17 01:26:23",
     "location": {
-        "name": "Herdsman",
-        "latitude": -31.92856771795875,
-        "longitude": 115.8098998183804,
+        "name": "Subiaco",
+        "latitude": -31.94968858879769,
+        "longitude": 115.8206102772363,
         "timezone": "Australia/Perth"
     }
 }
