@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Cottesloe",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9962010494662,
-            "longitude": 115.752367859377
+            "latitude": -31.9496867369942,
+            "longitude": 115.8209098092015
         },
         "current_conditions": {
-            "timestamp": "2026-09-18T02:57:44+00:00",
-            "temperature_c": 24.87,
-            "temperature_f": 76.766,
-            "humidity": 40,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 10,
+            "timestamp": "2026-09-18T16:55:11+00:00",
+            "temperature_c": 15.71,
+            "temperature_f": 60.278000000000006,
+            "humidity": 82,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 360,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-18T03:00:00+00:00",
-                "temperature": 24.87,
-                "windSpeed": 12.70616,
-                "windDirection": 0,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-09-18T18:00:00+00:00",
+                "temperature": 15.71,
+                "windSpeed": 23.421390000000002,
+                "windDirection": 315,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-09-18T06:00:00+00:00",
-                "temperature": 24.03,
-                "windSpeed": 17.76178,
-                "windDirection": 304,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-09-18T21:00:00+00:00",
+                "temperature": 16.34,
+                "windSpeed": 24.27145,
+                "windDirection": 295,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late morning in Cottesloe wears a quiet, pewter sheen; the sky is overcast and the light is soft, the ocean looking thoughtful rather than sparkling. It feels calm and workable, not dreary, and by early afternoon the cloud is expected to loosen into broken patches, letting through brief, milky sun. UV will be gentler under this cover but not absent, especially around midday, so it\u2019s a day for unhurried brightness rather than a blaze.\n\nDress in easy layers: a breathable shirt with a light jacket you can shrug off when the clouds fray, comfortable shoes for pavement or sand, and a hat or sunscreen if you\u2019ll be out through lunch. The weather invites modest plans: a lingered coffee with the paper, a stroll along the path above the beach to watch the shifting light, a few errands on foot, or a tidy-up in the garden while you wait for the sky to show its blue seams. Expect a muted, serviceable clarity now, improving to a softly lit afternoon.",
-    "color_code": "#9EA7B0",
-    "timestamp": "2026-09-18 10:57:45",
+    "weather_report": "Just past midnight, Subiaco lies under a damp hush, streets glossed with light rain and sodium halos. The next few hours look showery and subdued, with clouds knitting a low ceiling that keeps starlight and any hint of dawn at bay. It won\u2019t be sunny before morning; visibility remains serviceable but softened at the edges. UV is negligible at this hour and low around sunrise; if the cloud thins later, expect a quick climb, so carry sunscreen for any mid-morning errands. The air feels cool and a touch clammy, more lullaby than alarm clock.\n\nDress for drizzle and comfort: a light waterproof, layers you can peel off, and shoes that won\u2019t mind wet pavements. An umbrella earns its keep. It\u2019s a night for quiet tasks\u2014lay out tomorrow\u2019s clothes, set coffee for first light, clear a corner of the desk, or catch the early tram to a warm bakery once the showers ebb. If you\u2019re stepping out at dawn, keep plans simple and sheltered: a short walk under awnings, a run of errands timed between spits of rain, and a calm start while the sky decides whether to brighten or brood.",
+    "color_code": "#2C3E50",
+    "timestamp": "2026-09-19 00:55:12",
     "location": {
-        "name": "Cottesloe",
-        "latitude": -31.9962010494662,
-        "longitude": 115.752367859377,
+        "name": "Subiaco",
+        "latitude": -31.9496867369942,
+        "longitude": 115.8209098092015,
         "timezone": "Australia/Perth"
     }
 }
