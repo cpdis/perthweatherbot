@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Cottesloe",
             "country": "AU",
-            "latitude": -31.94970429077503,
-            "longitude": 115.8208833854911
+            "latitude": -31.9962010494662,
+            "longitude": 115.752367859377
         },
         "current_conditions": {
-            "timestamp": "2026-09-17T17:26:14+00:00",
-            "temperature_c": 16.85,
-            "temperature_f": 62.33,
-            "humidity": 90,
-            "wind_speed_mph": 7.33736,
-            "wind_direction": 25,
-            "description": "light rain"
+            "timestamp": "2026-09-18T02:57:44+00:00",
+            "temperature_c": 24.87,
+            "temperature_f": 76.766,
+            "humidity": 40,
+            "wind_speed_mph": 17.26964,
+            "wind_direction": 10,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-17T18:00:00+00:00",
-                "temperature": 16.85,
-                "windSpeed": 9.3954,
-                "windDirection": 30,
-                "shortForecast": "clear sky"
+                "startTime": "2026-09-18T03:00:00+00:00",
+                "temperature": 24.87,
+                "windSpeed": 12.70616,
+                "windDirection": 0,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-09-17T21:00:00+00:00",
-                "temperature": 16.51,
-                "windSpeed": 8.14268,
-                "windDirection": 10,
-                "shortForecast": "clear sky"
+                "startTime": "2026-09-18T06:00:00+00:00",
+                "temperature": 24.03,
+                "windSpeed": 17.76178,
+                "windDirection": 304,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco dozes under a clean, ink-blue sky, the kind that makes streetlights look theatrical and the air feel crisp and unbothered. Clarity is high; stars are sharp and the night is uncomplicated, with no hint of haze or cloud. It\u2019s a gentle, quiet hour\u2014good for a last cup of tea on the back step or a short, reflective stroll in a light layer.\n\nToward dawn the sky should stay clear, ushering in a bright, glassy morning where sunlight arrives with confidence. Once the sun lifts, expect it to feel vividly sunny; the UV will wake up fast, so think sunglasses, a brimmed hat, and a swipe of sunscreen if you\u2019re out for long. Dress for transitions: a light layer now, easy breathable clothes by midmorning. Consider an early walk before the warmth gathers, hang a load of washing to catch the dry air, or settle by a sunlit window with a book and a slow coffee. It looks like a simple, pleasant day unfolding from a spotless night.",
-    "color_code": "#0B1E3B",
-    "timestamp": "2026-09-18 01:26:15",
+    "weather_report": "Late morning in Cottesloe wears a quiet, pewter sheen; the sky is overcast and the light is soft, the ocean looking thoughtful rather than sparkling. It feels calm and workable, not dreary, and by early afternoon the cloud is expected to loosen into broken patches, letting through brief, milky sun. UV will be gentler under this cover but not absent, especially around midday, so it\u2019s a day for unhurried brightness rather than a blaze.\n\nDress in easy layers: a breathable shirt with a light jacket you can shrug off when the clouds fray, comfortable shoes for pavement or sand, and a hat or sunscreen if you\u2019ll be out through lunch. The weather invites modest plans: a lingered coffee with the paper, a stroll along the path above the beach to watch the shifting light, a few errands on foot, or a tidy-up in the garden while you wait for the sky to show its blue seams. Expect a muted, serviceable clarity now, improving to a softly lit afternoon.",
+    "color_code": "#9EA7B0",
+    "timestamp": "2026-09-18 10:57:45",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94970429077503,
-        "longitude": 115.8208833854911,
+        "name": "Cottesloe",
+        "latitude": -31.9962010494662,
+        "longitude": 115.752367859377,
         "timezone": "Australia/Perth"
     }
 }
