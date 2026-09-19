@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9496867369942,
-            "longitude": 115.8209098092015
+            "latitude": -31.9496652494339,
+            "longitude": 115.8207978703286
         },
         "current_conditions": {
-            "timestamp": "2026-09-18T16:55:11+00:00",
-            "temperature_c": 15.71,
-            "temperature_f": 60.278000000000006,
-            "humidity": 82,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 360,
-            "description": "overcast clouds"
+            "timestamp": "2026-09-19T02:55:25+00:00",
+            "temperature_c": 18.53,
+            "temperature_f": 65.354,
+            "humidity": 60,
+            "wind_speed_mph": 23.018729999999998,
+            "wind_direction": 280,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-18T18:00:00+00:00",
-                "temperature": 15.71,
-                "windSpeed": 23.421390000000002,
-                "windDirection": 315,
+                "startTime": "2026-09-19T03:00:00+00:00",
+                "temperature": 18.53,
+                "windSpeed": 22.683180000000004,
+                "windDirection": 270,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-09-18T21:00:00+00:00",
-                "temperature": 16.34,
-                "windSpeed": 24.27145,
-                "windDirection": 295,
-                "shortForecast": "light rain"
+                "startTime": "2026-09-19T06:00:00+00:00",
+                "temperature": 18.58,
+                "windSpeed": 20.423810000000003,
+                "windDirection": 265,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Just past midnight, Subiaco lies under a damp hush, streets glossed with light rain and sodium halos. The next few hours look showery and subdued, with clouds knitting a low ceiling that keeps starlight and any hint of dawn at bay. It won\u2019t be sunny before morning; visibility remains serviceable but softened at the edges. UV is negligible at this hour and low around sunrise; if the cloud thins later, expect a quick climb, so carry sunscreen for any mid-morning errands. The air feels cool and a touch clammy, more lullaby than alarm clock.\n\nDress for drizzle and comfort: a light waterproof, layers you can peel off, and shoes that won\u2019t mind wet pavements. An umbrella earns its keep. It\u2019s a night for quiet tasks\u2014lay out tomorrow\u2019s clothes, set coffee for first light, clear a corner of the desk, or catch the early tram to a warm bakery once the showers ebb. If you\u2019re stepping out at dawn, keep plans simple and sheltered: a short walk under awnings, a run of errands timed between spits of rain, and a calm start while the sky decides whether to brighten or brood.",
-    "color_code": "#2C3E50",
-    "timestamp": "2026-09-19 00:55:12",
+    "weather_report": "Late morning in Subiaco arrives with the streets still damp from a passing shower, the sky a quilt of soft greys that lets the light through in hesitant patches. It feels calm rather than cold, the kind of cool-to-mild spring air that carries the smell of wet eucalyptus and fresh asphalt. Sunshine stays shy for now, but the clouds are thinning; by early afternoon expect broken cover and brighter spells that give the day a silvery sheen. When the sun pushes through, the UV will jump quickly for the season, so treat the light with respect even if the sky looks half-closed. Clarity will be mixed: slightly muted horizons this morning, then cleaner edges after lunchtime as the ceiling lifts.\n\nIt\u2019s a day for simple comforts and unhurried errands. Wear breathable layers with a light waterproof at hand, shoes that don\u2019t mind a puddle, and tuck sunglasses and a dab of sunscreen in your bag for the clearer patches later. A late coffee under an awning suits the moment, followed by a short train or bus hop for groceries, then an afternoon stroll once the breaks in the cloud arrive. If you\u2019re staying in, open a window during the lull and let the softened light sweep the room, then save the outdoor chores for the brighter midafternoon.",
+    "color_code": "#8FA6B3",
+    "timestamp": "2026-09-19 10:55:25",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.9496867369942,
-        "longitude": 115.8209098092015,
+        "latitude": -31.9496652494339,
+        "longitude": 115.8207978703286,
         "timezone": "Australia/Perth"
     }
 }
