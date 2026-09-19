@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9496652494339,
-            "longitude": 115.8207978703286
+            "latitude": -31.94968930693944,
+            "longitude": 115.8209097588332
         },
         "current_conditions": {
-            "timestamp": "2026-09-19T02:55:25+00:00",
-            "temperature_c": 18.53,
-            "temperature_f": 65.354,
-            "humidity": 60,
-            "wind_speed_mph": 23.018729999999998,
-            "wind_direction": 280,
-            "description": "scattered clouds"
+            "timestamp": "2026-09-19T16:12:09+00:00",
+            "temperature_c": 15.34,
+            "temperature_f": 59.612,
+            "humidity": 85,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 260,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-19T03:00:00+00:00",
-                "temperature": 18.53,
-                "windSpeed": 22.683180000000004,
-                "windDirection": 270,
-                "shortForecast": "light rain"
+                "startTime": "2026-09-19T18:00:00+00:00",
+                "temperature": 15.18,
+                "windSpeed": 6.420190000000001,
+                "windDirection": 235,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-09-19T06:00:00+00:00",
-                "temperature": 18.58,
-                "windSpeed": 20.423810000000003,
-                "windDirection": 265,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-09-19T21:00:00+00:00",
+                "temperature": 15.33,
+                "windSpeed": 4.72007,
+                "windDirection": 292,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late morning in Subiaco arrives with the streets still damp from a passing shower, the sky a quilt of soft greys that lets the light through in hesitant patches. It feels calm rather than cold, the kind of cool-to-mild spring air that carries the smell of wet eucalyptus and fresh asphalt. Sunshine stays shy for now, but the clouds are thinning; by early afternoon expect broken cover and brighter spells that give the day a silvery sheen. When the sun pushes through, the UV will jump quickly for the season, so treat the light with respect even if the sky looks half-closed. Clarity will be mixed: slightly muted horizons this morning, then cleaner edges after lunchtime as the ceiling lifts.\n\nIt\u2019s a day for simple comforts and unhurried errands. Wear breathable layers with a light waterproof at hand, shoes that don\u2019t mind a puddle, and tuck sunglasses and a dab of sunscreen in your bag for the clearer patches later. A late coffee under an awning suits the moment, followed by a short train or bus hop for groceries, then an afternoon stroll once the breaks in the cloud arrive. If you\u2019re staying in, open a window during the lull and let the softened light sweep the room, then save the outdoor chores for the brighter midafternoon.",
-    "color_code": "#8FA6B3",
-    "timestamp": "2026-09-19 10:55:25",
+    "weather_report": "Subiaco slips past midnight under a quilt of broken cloud, the stars smudged and shy, the streets holding a faint shine. It is not a night for sun; UV is essentially asleep, and the air feels gentled, a touch introspective. Toward the small hours those clouds are likely to fatten into a light, passing rain, soft enough to patter and move on. Clarity is muted rather than murky, with edges blurred and sounds carrying a little farther than usual.\n\nDaybreak looks subdued and a little damp, with sunshine filtered and hesitant; UV will stay low at first and only sharpen if the cover breaks later on. A light layer and shoes you don\u2019t mind on wet pavement will serve you well, and a compact rain shell wouldn\u2019t be amiss. If you\u2019re awake, this is a good time to tidy the last corners of the kitchen, set tomorrow\u2019s bag by the door, or read a few calm pages while the town hushes around you. In the morning, keep errands simple and close to home; a short tram ride for bread and a newspaper, then a quiet coffee by the window while the sky decides what it wants to do.",
+    "color_code": "#2C3E50",
+    "timestamp": "2026-09-20 00:12:10",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.9496652494339,
-        "longitude": 115.8207978703286,
+        "latitude": -31.94968930693944,
+        "longitude": 115.8209097588332,
         "timezone": "Australia/Perth"
     }
 }
