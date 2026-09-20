@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-09-13 10:54:02",
-    "location": {
-      "name": "South Perth",
-      "latitude": -31.9647912379115,
-      "longitude": 115.8474149484539,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-09-13T02:54:01+00:00",
-      "temperature_c": 19.55,
-      "temperature_f": 67.19,
-      "humidity": 54,
-      "wind_speed_mph": 19.57375,
-      "wind_direction": 260,
-      "description": "overcast clouds"
-    },
-    "report_summary": "South Perth wakes to a pewter lid of cloud, the light soft and even, edges of buildings gentled and ...",
-    "color_code": "#A7AEB7"
-  },
-  {
     "timestamp": "2026-09-14 00:48:02",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Late morning in Mosman Park arrives under a soft lid of cloud, the light diffused and gentle, shadow...",
     "color_code": "#B0BEC5"
+  },
+  {
+    "timestamp": "2026-09-21 00:40:07",
+    "location": {
+      "name": "City Beach",
+      "latitude": -31.94702932960861,
+      "longitude": 115.7556288668639,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-09-20T16:40:07+00:00",
+      "temperature_c": 14.13,
+      "temperature_f": 57.434,
+      "humidity": 84,
+      "wind_speed_mph": 1.99093,
+      "wind_direction": 115,
+      "description": "broken clouds"
+    },
+    "report_summary": "Just past midnight in City Beach, the sky is patched with broken cloud, the moon sliding in and out ...",
+    "color_code": "#1F2A38"
   }
 ]

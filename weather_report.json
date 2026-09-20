@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Mosman Park",
+            "name": "City Beach",
             "country": "AU",
-            "latitude": -32.01613520131748,
-            "longitude": 115.7559973000077
+            "latitude": -31.94702932960861,
+            "longitude": 115.7556288668639
         },
         "current_conditions": {
-            "timestamp": "2026-09-20T03:08:21+00:00",
-            "temperature_c": 17.76,
-            "temperature_f": 63.968,
+            "timestamp": "2026-09-20T16:40:07+00:00",
+            "temperature_c": 14.13,
+            "temperature_f": 57.434,
             "humidity": 84,
-            "wind_speed_mph": 2.99758,
-            "wind_direction": 179,
-            "description": "overcast clouds"
+            "wind_speed_mph": 1.99093,
+            "wind_direction": 115,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-20T06:00:00+00:00",
-                "temperature": 17.99,
-                "windSpeed": 8.276900000000001,
-                "windDirection": 212,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-09-20T18:00:00+00:00",
+                "temperature": 14.13,
+                "windSpeed": 4.56348,
+                "windDirection": 156,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-09-20T09:00:00+00:00",
-                "temperature": 17.78,
-                "windSpeed": 9.35066,
-                "windDirection": 207,
+                "startTime": "2026-09-20T21:00:00+00:00",
+                "temperature": 14.54,
+                "windSpeed": 2.37122,
+                "windDirection": 86,
                 "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Late morning in Mosman Park arrives under a soft lid of cloud, the light diffused and gentle, shadows rubbed to charcoal smudges. The day leans greyer toward early afternoon with overcast skies, then loosens a little by late day as the cloud breaks into ragged panes that occasionally let the sun glance through. It won\u2019t be a bright day, but it will be an easy one on the eyes; visibility is steady, the horizon a touch softened rather than sharp. UV sits on the modest side under the cloud yet still nips around midday, so a dab of sunscreen is sensible if you linger outdoors.\n\nDress in light layers and comfortable shoes, perhaps a breathable shirt with a cardigan in your bag. This is agreeable weather for a slow errand run, a stroll through familiar streets, or a quiet hour on a bench with a book and a takeaway coffee. If you\u2019ve chores to do, today flatters the unhurried ones: tidying the garden, wiping down the bike, or visiting the markets without the press of glare. As the afternoon unwinds, look for fleeting sunbreaks to warm your face before evening settles.",
-    "color_code": "#B0BEC5",
-    "timestamp": "2026-09-20 11:08:22",
+    "weather_report": "Just past midnight in City Beach, the sky is patched with broken cloud, the moon sliding in and out like a distracted lighthouse, and the air has that calm, lightly cooled hush that makes the neighborhood feel unhurried and kind. It\u2019s a settled night, not quite clear, but open enough to feel the breadth of the ocean nearby.\n\nToward morning, expect the clouds to linger and sift the light, offering intervals of sun rather than a bright, uninterrupted blaze. The day looks gently pleasant and easy on the eyes, with clarity that is soft rather than crisp; UV will be negligible at dawn and only climb to something moderate if the gaps widen late morning. Dress in light layers and comfortable shoes; carry sunglasses for those brighter breaks and a touch of sunscreen if you\u2019ll be out a while. These are good hours for small, ordinary pleasures: a slow amble along the esplanade while the town wakes, a quiet table by a cafe window, or a quick ride to pick up fresh bread before the queues form. If you\u2019re still awake now, set the kettle, lay out tomorrow\u2019s things, and let the clouds do the drifting for you.",
+    "color_code": "#1F2A38",
+    "timestamp": "2026-09-21 00:40:07",
     "location": {
-        "name": "Mosman Park",
-        "latitude": -32.01613520131748,
-        "longitude": 115.7559973000077,
+        "name": "City Beach",
+        "latitude": -31.94702932960861,
+        "longitude": 115.7556288668639,
         "timezone": "Australia/Perth"
     }
 }

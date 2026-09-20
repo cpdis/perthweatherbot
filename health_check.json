@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-20T03:08:21.035441",
+  "timestamp": "2026-09-20T16:40:06.156456",
   "overall_status": "healthy",
   "summary": {
     "total_checks": 5,
@@ -14,7 +14,7 @@
       "details": [
         "OpenWeather API key configured",
         "OpenAI API key configured",
-        "Location: Mosman Park"
+        "Location: City Beach"
       ]
     },
     {
@@ -41,7 +41,7 @@
     {
       "name": "OpenWeather API",
       "status": "healthy",
-      "response_time_ms": 287.606,
+      "response_time_ms": 60.906,
       "details": "HTTP 200"
     }
   ]
