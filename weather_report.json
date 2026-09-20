@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Mosman Park",
             "country": "AU",
-            "latitude": -31.94968930693944,
-            "longitude": 115.8209097588332
+            "latitude": -32.01613520131748,
+            "longitude": 115.7559973000077
         },
         "current_conditions": {
-            "timestamp": "2026-09-19T16:12:09+00:00",
-            "temperature_c": 15.34,
-            "temperature_f": 59.612,
-            "humidity": 85,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 260,
-            "description": "broken clouds"
+            "timestamp": "2026-09-20T03:08:21+00:00",
+            "temperature_c": 17.76,
+            "temperature_f": 63.968,
+            "humidity": 84,
+            "wind_speed_mph": 2.99758,
+            "wind_direction": 179,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-19T18:00:00+00:00",
-                "temperature": 15.18,
-                "windSpeed": 6.420190000000001,
-                "windDirection": 235,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-09-20T06:00:00+00:00",
+                "temperature": 17.99,
+                "windSpeed": 8.276900000000001,
+                "windDirection": 212,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-09-19T21:00:00+00:00",
-                "temperature": 15.33,
-                "windSpeed": 4.72007,
-                "windDirection": 292,
-                "shortForecast": "light rain"
+                "startTime": "2026-09-20T09:00:00+00:00",
+                "temperature": 17.78,
+                "windSpeed": 9.35066,
+                "windDirection": 207,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco slips past midnight under a quilt of broken cloud, the stars smudged and shy, the streets holding a faint shine. It is not a night for sun; UV is essentially asleep, and the air feels gentled, a touch introspective. Toward the small hours those clouds are likely to fatten into a light, passing rain, soft enough to patter and move on. Clarity is muted rather than murky, with edges blurred and sounds carrying a little farther than usual.\n\nDaybreak looks subdued and a little damp, with sunshine filtered and hesitant; UV will stay low at first and only sharpen if the cover breaks later on. A light layer and shoes you don\u2019t mind on wet pavement will serve you well, and a compact rain shell wouldn\u2019t be amiss. If you\u2019re awake, this is a good time to tidy the last corners of the kitchen, set tomorrow\u2019s bag by the door, or read a few calm pages while the town hushes around you. In the morning, keep errands simple and close to home; a short tram ride for bread and a newspaper, then a quiet coffee by the window while the sky decides what it wants to do.",
-    "color_code": "#2C3E50",
-    "timestamp": "2026-09-20 00:12:10",
+    "weather_report": "Late morning in Mosman Park arrives under a soft lid of cloud, the light diffused and gentle, shadows rubbed to charcoal smudges. The day leans greyer toward early afternoon with overcast skies, then loosens a little by late day as the cloud breaks into ragged panes that occasionally let the sun glance through. It won\u2019t be a bright day, but it will be an easy one on the eyes; visibility is steady, the horizon a touch softened rather than sharp. UV sits on the modest side under the cloud yet still nips around midday, so a dab of sunscreen is sensible if you linger outdoors.\n\nDress in light layers and comfortable shoes, perhaps a breathable shirt with a cardigan in your bag. This is agreeable weather for a slow errand run, a stroll through familiar streets, or a quiet hour on a bench with a book and a takeaway coffee. If you\u2019ve chores to do, today flatters the unhurried ones: tidying the garden, wiping down the bike, or visiting the markets without the press of glare. As the afternoon unwinds, look for fleeting sunbreaks to warm your face before evening settles.",
+    "color_code": "#B0BEC5",
+    "timestamp": "2026-09-20 11:08:22",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968930693944,
-        "longitude": 115.8209097588332,
+        "name": "Mosman Park",
+        "latitude": -32.01613520131748,
+        "longitude": 115.7559973000077,
         "timezone": "Australia/Perth"
     }
 }
