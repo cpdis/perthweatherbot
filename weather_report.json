@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "City Beach",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94702932960861,
-            "longitude": 115.7556288668639
+            "latitude": -31.94966279955048,
+            "longitude": 115.8208014553273
         },
         "current_conditions": {
-            "timestamp": "2026-09-20T16:40:07+00:00",
-            "temperature_c": 14.13,
-            "temperature_f": 57.434,
-            "humidity": 84,
-            "wind_speed_mph": 1.99093,
-            "wind_direction": 115,
-            "description": "broken clouds"
+            "timestamp": "2026-09-21T03:04:48+00:00",
+            "temperature_c": 21.56,
+            "temperature_f": 70.80799999999999,
+            "humidity": 56,
+            "wind_speed_mph": 4.60822,
+            "wind_direction": 100,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-09-20T18:00:00+00:00",
-                "temperature": 14.13,
-                "windSpeed": 4.56348,
-                "windDirection": 156,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-09-21T06:00:00+00:00",
+                "temperature": 21.54,
+                "windSpeed": 11.610030000000002,
+                "windDirection": 225,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-09-20T21:00:00+00:00",
-                "temperature": 14.54,
-                "windSpeed": 2.37122,
-                "windDirection": 86,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-09-21T09:00:00+00:00",
+                "temperature": 20.49,
+                "windSpeed": 14.3168,
+                "windDirection": 194,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Just past midnight in City Beach, the sky is patched with broken cloud, the moon sliding in and out like a distracted lighthouse, and the air has that calm, lightly cooled hush that makes the neighborhood feel unhurried and kind. It\u2019s a settled night, not quite clear, but open enough to feel the breadth of the ocean nearby.\n\nToward morning, expect the clouds to linger and sift the light, offering intervals of sun rather than a bright, uninterrupted blaze. The day looks gently pleasant and easy on the eyes, with clarity that is soft rather than crisp; UV will be negligible at dawn and only climb to something moderate if the gaps widen late morning. Dress in light layers and comfortable shoes; carry sunglasses for those brighter breaks and a touch of sunscreen if you\u2019ll be out a while. These are good hours for small, ordinary pleasures: a slow amble along the esplanade while the town wakes, a quiet table by a cafe window, or a quick ride to pick up fresh bread before the queues form. If you\u2019re still awake now, set the kettle, lay out tomorrow\u2019s things, and let the clouds do the drifting for you.",
-    "color_code": "#1F2A38",
-    "timestamp": "2026-09-21 00:40:07",
+    "weather_report": "Late morning in Subiaco feels clean and bright, the sky a polished sheet of blue and the air clear enough to sharpen every edge of shadow. The forecast holds that clarity through the afternoon, with sun unbroken and light that stays steady until early evening. Expect it to be frankly sunny; the UV index will bite through the middle of the day before easing toward late afternoon, so shade is your ally and the western light will grow kinder as the hours slip by.\n\nDress in light, breathable layers with a brimmed hat, dark glasses, and sunscreen; a touch of breeze later may freshen things but won\u2019t demand more than short sleeves until dusk. It\u2019s a good day for ordinary pleasures: walk your errands while the pavements are quiet, let a load of washing dry on the line, linger over a coffee at a shaded table, tend to a few plants, or take a gentle spin on the bike beneath the leafier streets. As the sun lowers and the light turns honeyed, a simple stroll to pick up dinner or a book to finish on the veranda will fit the mood of the day.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-09-21 11:04:49",
     "location": {
-        "name": "City Beach",
-        "latitude": -31.94702932960861,
-        "longitude": 115.7556288668639,
+        "name": "Subiaco",
+        "latitude": -31.94966279955048,
+        "longitude": 115.8208014553273,
         "timezone": "Australia/Perth"
     }
 }
