@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94964895933706,
-            "longitude": 115.8207292080629
+            "latitude": -31.94966295351497,
+            "longitude": 115.8207997845416
         },
         "current_conditions": {
-            "timestamp": "2026-09-21T18:26:28+00:00",
-            "temperature_c": 13.26,
-            "temperature_f": 55.868,
-            "humidity": 81,
-            "wind_speed_mph": 4.60822,
-            "wind_direction": 190,
-            "description": "clear sky"
+            "timestamp": "2026-09-22T03:02:42+00:00",
+            "temperature_c": 19.85,
+            "temperature_f": 67.73,
+            "humidity": 64,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 210,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-21T21:00:00+00:00",
-                "temperature": 12.51,
-                "windSpeed": 7.3821,
-                "windDirection": 174,
-                "shortForecast": "clear sky"
+                "startTime": "2026-09-22T06:00:00+00:00",
+                "temperature": 20.23,
+                "windSpeed": 12.12454,
+                "windDirection": 222,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2026-09-22T00:00:00+00:00",
-                "temperature": 14.6,
-                "windSpeed": 7.96372,
-                "windDirection": 181,
-                "shortForecast": "clear sky"
+                "startTime": "2026-09-22T09:00:00+00:00",
+                "temperature": 19.79,
+                "windSpeed": 11.31922,
+                "windDirection": 211,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Subiaco lies quiet under a spotless, inky sky, the small hours clear and still enough to hear the soft rustle of leaves. Come dawn, the dark will peel away to a lucid blue and abundant sunshine, the day looking clean-edged and dry with scarcely a cloud to smudge the light. Expect the sun to feel assertive once it\u2019s up; UV will rise quickly through the late morning, so think sunscreen, a brim, and good sunglasses. A light layer suits the cool pre-dawn, then shift to short sleeves and breathable fabrics by midmorning. It\u2019s a gentle day for modest pleasures: an unhurried walk for a takeaway coffee, windows open to let the house breathe, a quick round of errands on foot, laundry on the line, maybe a short cycle through the quieter streets before work. If you\u2019re out around midday, pause in patches of shade and let the brightness do its quiet work.",
-    "color_code": "#0B1E3B",
-    "timestamp": "2026-09-22 02:26:29",
+    "weather_report": "Subiaco wakes to a late-morning light that slips between scattered clouds, the sun bright but tempered, as if someone turned the glare down a notch. The air feels clean and uncomplicated, colors true, with no hint of heavy weather. Expect the sun to keep visiting in generous intervals through the afternoon while fair-weather clouds wander by; UV will nudge into the moderate-to-high range around midday, enough to warrant a hat, sunglasses, and a touch of sunscreen if you linger outdoors.\n\nIt\u2019s a day for light layers and easy shoes, a linen shirt with a spare cardigan tucked in your bag in case a breeze finds the shade. Good for small, ordinary missions: a quiet walk to the market, a stop at the post office, a stretch on a park bench with a book, or coffee by a window where you can watch the light change. By late afternoon the sun should soften and the sky keep its gentle, mottled look.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-09-22 11:04:21",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94964895933706,
-        "longitude": 115.8207292080629,
+        "latitude": -31.94966295351497,
+        "longitude": 115.8207997845416,
         "timezone": "Australia/Perth"
     }
 }
