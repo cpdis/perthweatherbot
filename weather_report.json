@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Osborne Park",
+            "name": "Rottnest Island",
             "country": "AU",
-            "latitude": -31.90798722495253,
-            "longitude": 115.8018546425098
+            "latitude": -31.99218789080884,
+            "longitude": 115.5231487929632
         },
         "current_conditions": {
-            "timestamp": "2026-09-23T03:04:18+00:00",
-            "temperature_c": 19.61,
-            "temperature_f": 67.298,
-            "humidity": 66,
-            "wind_speed_mph": 10.35731,
-            "wind_direction": 210,
-            "description": "clear sky"
+            "timestamp": "2026-09-23T17:40:28+00:00",
+            "temperature_c": 13.41,
+            "temperature_f": 56.138,
+            "humidity": 71,
+            "wind_speed_mph": 9.30592,
+            "wind_direction": 200,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-23T06:00:00+00:00",
-                "temperature": 20.04,
-                "windSpeed": 11.185,
-                "windDirection": 244,
-                "shortForecast": "clear sky"
+                "startTime": "2026-09-23T18:00:00+00:00",
+                "temperature": 13.41,
+                "windSpeed": 9.30592,
+                "windDirection": 200,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2026-09-23T09:00:00+00:00",
-                "temperature": 20.55,
-                "windSpeed": 10.26783,
-                "windDirection": 231,
-                "shortForecast": "clear sky"
+                "startTime": "2026-09-23T21:00:00+00:00",
+                "temperature": 14.14,
+                "windSpeed": 8.07557,
+                "windDirection": 120,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Osborne Park is wrapped in a clean, generous blue this late morning, the light crisp and sure of itself, shadows sharp, edges clarified. The day feels open and uncomplicated, as if the windows of the world have just been wiped down, inviting a steady, unhurried pace.\n\nClear skies are set to hold through the afternoon into early evening, so the sunshine will stay abundant and the view uncluttered. The spring sun has a bit of bite now\u2014expect the UV to run high around midday\u2014so dress in light layers with a brimmed hat and sunglasses, and give the sunscreen some work to do. It\u2019s a good day for the ordinary pleasures: walking to the shops, hanging the washing, tending a few pots, taking lunch at a shaded table, or a gentle spin to a nearby errand once the light softens. The day should end with that calm, honeyed glow that makes you linger on the way home.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-09-23 11:04:19",
+    "weather_report": "Rottnest Island sits under a quiet, moonwashed sky, the air cool and salt\u2011fresh, with only a few clouds idling above the reef line. Stars are crisp, the horizon clean, and the sea keeps a soft hush against the rocks. UV is essentially asleep at this hour, leaving the night clear and gentle.\n\nToward first light, scattered cloud will drift in and the morning should open with a patchwork of sun and shade rather than a hard, cloudless blaze. It looks like a pleasant, breathable start: slip on light layers now, a windbreaker for the ocean nip, then trade up to hat, sunglasses, and sunscreen once the sun takes charge, as spring UV bites quickly even through broken cloud. Good things are unhurried at this hour\u2014an easy stroll along the foreshore to hear moorings creak, a thermos on a bench as the sky bruises toward pink, a quick check of bike tires for a leisurely loop after sunrise, or a meander to the bakery when it stirs.",
+    "color_code": "#0B1E3A",
+    "timestamp": "2026-09-24 01:40:29",
     "location": {
-        "name": "Osborne Park",
-        "latitude": -31.90798722495253,
-        "longitude": 115.8018546425098,
+        "name": "Rottnest Island",
+        "latitude": -31.99218789080884,
+        "longitude": 115.5231487929632,
         "timezone": "Australia/Perth"
     }
 }

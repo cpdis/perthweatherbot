@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23T03:04:17.739952",
+  "timestamp": "2026-09-23T17:40:28.028182",
   "overall_status": "healthy",
   "summary": {
     "total_checks": 5,
@@ -14,7 +14,7 @@
       "details": [
         "OpenWeather API key configured",
         "OpenAI API key configured",
-        "Location: Osborne Park"
+        "Location: Rottnest Island"
       ]
     },
     {
@@ -41,7 +41,7 @@
     {
       "name": "OpenWeather API",
       "status": "healthy",
-      "response_time_ms": 95.66,
+      "response_time_ms": 97.849,
       "details": "HTTP 200"
     }
   ]

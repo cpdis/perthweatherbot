@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-09-16 11:06:07",
-    "location": {
-      "name": "Herdsman",
-      "latitude": -31.92856771795875,
-      "longitude": 115.8098998183804,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-09-16T03:06:06+00:00",
-      "temperature_c": 26.67,
-      "temperature_f": 80.006,
-      "humidity": 52,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 60,
-      "description": "clear sky"
-    },
-    "report_summary": "Late morning in Herdsman feels bright and open, the sun already assertive and the air clean enough t...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-09-17 01:26:23",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Osborne Park is wrapped in a clean, generous blue this late morning, the light crisp and sure of its...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-09-24 01:40:29",
+    "location": {
+      "name": "Rottnest Island",
+      "latitude": -31.99218789080884,
+      "longitude": 115.5231487929632,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-09-23T17:40:28+00:00",
+      "temperature_c": 13.41,
+      "temperature_f": 56.138,
+      "humidity": 71,
+      "wind_speed_mph": 9.30592,
+      "wind_direction": 200,
+      "description": "few clouds"
+    },
+    "report_summary": "Rottnest Island sits under a quiet, moonwashed sky, the air cool and salt\u2011fresh, with only a few clo...",
+    "color_code": "#0B1E3A"
   }
 ]
