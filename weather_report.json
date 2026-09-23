@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Osborne Park",
             "country": "AU",
-            "latitude": -31.94970860257996,
-            "longitude": 115.8206217332703
+            "latitude": -31.90798722495253,
+            "longitude": 115.8018546425098
         },
         "current_conditions": {
-            "timestamp": "2026-09-22T17:30:00+00:00",
-            "temperature_c": 13.86,
-            "temperature_f": 56.948,
-            "humidity": 77,
-            "wind_speed_mph": 3.95949,
-            "wind_direction": 183,
+            "timestamp": "2026-09-23T03:04:18+00:00",
+            "temperature_c": 19.61,
+            "temperature_f": 67.298,
+            "humidity": 66,
+            "wind_speed_mph": 10.35731,
+            "wind_direction": 210,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-09-22T18:00:00+00:00",
-                "temperature": 13.86,
-                "windSpeed": 3.95949,
-                "windDirection": 183,
+                "startTime": "2026-09-23T06:00:00+00:00",
+                "temperature": 20.04,
+                "windSpeed": 11.185,
+                "windDirection": 244,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-09-22T21:00:00+00:00",
-                "temperature": 13.18,
-                "windSpeed": 3.46735,
-                "windDirection": 197,
+                "startTime": "2026-09-23T09:00:00+00:00",
+                "temperature": 20.55,
+                "windSpeed": 10.26783,
+                "windDirection": 231,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco dozes under a clear, starlit sky, the air crisp and uncomplicated, the kind that carries sound a little farther and thoughts a little deeper. Through the small hours the heavens stay clean of cloud, promising a bright, unhurried dawn and a morning that should open blue and glassy. UV is negligible now, but once the sun lifts, it will climb quickly on a clear September day, and by late morning the light will feel sharp and insistent. The mood is pleasant, serene even, with excellent visibility and that dry clarity that makes edges feel newly cut.\n\nIf you\u2019re stepping out soon, take a light layer to fend off the pre-dawn chill; later, trade it for sunglasses, a brimmed hat, and sunscreen. It\u2019s a good morning for quiet rituals: an easy neighborhood walk before first light, coffee on the stoop while the birds rehearse, or a tidy-up of the week\u2019s loose ends as the day brightens. As the sun strengthens, aim errands for the early window and keep the shady side of the street for lunchtime. The day looks honest and uncomplicated\u2014sky like a promise, light like a bell.",
-    "color_code": "#0B1D39",
-    "timestamp": "2026-09-23 01:30:00",
+    "weather_report": "Osborne Park is wrapped in a clean, generous blue this late morning, the light crisp and sure of itself, shadows sharp, edges clarified. The day feels open and uncomplicated, as if the windows of the world have just been wiped down, inviting a steady, unhurried pace.\n\nClear skies are set to hold through the afternoon into early evening, so the sunshine will stay abundant and the view uncluttered. The spring sun has a bit of bite now\u2014expect the UV to run high around midday\u2014so dress in light layers with a brimmed hat and sunglasses, and give the sunscreen some work to do. It\u2019s a good day for the ordinary pleasures: walking to the shops, hanging the washing, tending a few pots, taking lunch at a shaded table, or a gentle spin to a nearby errand once the light softens. The day should end with that calm, honeyed glow that makes you linger on the way home.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-09-23 11:04:19",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94970860257996,
-        "longitude": 115.8206217332703,
+        "name": "Osborne Park",
+        "latitude": -31.90798722495253,
+        "longitude": 115.8018546425098,
         "timezone": "Australia/Perth"
     }
 }
