@@ -3,42 +3,42 @@
         "location": {
             "name": "Rottnest Island",
             "country": "AU",
-            "latitude": -31.99225292047791,
-            "longitude": 115.5237570424049
+            "latitude": -31.99196185476185,
+            "longitude": 115.5238921799934
         },
         "current_conditions": {
-            "timestamp": "2026-09-24T02:56:45+00:00",
-            "temperature_c": 19.52,
-            "temperature_f": 67.136,
-            "humidity": 69,
-            "wind_speed_mph": 1.7896,
-            "wind_direction": 129,
+            "timestamp": "2026-09-24T17:43:10+00:00",
+            "temperature_c": 13.41,
+            "temperature_f": 56.138,
+            "humidity": 77,
+            "wind_speed_mph": 16.24062,
+            "wind_direction": 142,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-24T03:00:00+00:00",
-                "temperature": 19.52,
-                "windSpeed": 1.7896,
-                "windDirection": 129,
+                "startTime": "2026-09-24T18:00:00+00:00",
+                "temperature": 13.41,
+                "windSpeed": 16.24062,
+                "windDirection": 142,
                 "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-09-24T06:00:00+00:00",
-                "temperature": 18.58,
-                "windSpeed": 7.449210000000001,
-                "windDirection": 227,
+                "startTime": "2026-09-24T21:00:00+00:00",
+                "temperature": 14.01,
+                "windSpeed": 17.4486,
+                "windDirection": 143,
                 "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Rottnest wakes under a soft lid of grey, the ocean dulled to pewter and the light flattened, kind to the eyes. Through late morning and into the afternoon the sky holds steady in overcast, the sun a pale smudge behind cloud, so brightness is muted and shadows are scarce. UV will be lower than on a blue-sky day, but spring can still bite through the veil; sunscreen and a brimmed hat remain sensible. The air feels gentle and marine, the horizon a little blurred, the day more contemplative than sparkling and still quite pleasant if you like your coast without the glare.\n\nDress in light layers with something to cut the damp edge if it comes off the water; comfortable shoes if you plan to roam. It\u2019s a good day to roll a bike along the paths without hurry, pause by the salt lakes to listen for bird chatter, or sit by Thomson Bay with a late coffee and watch the water change its shades. If you\u2019re restless, wander up to the lighthouse for a slow look at the muted panorama; if not, find a sheltered bench, open a book, and let the quiet gray do its steady work.",
-    "color_code": "#AAB3BD",
-    "timestamp": "2026-09-24 10:56:45",
+    "weather_report": "Rottnest Island dozes under a woolen sky tonight, a lid of cloud that\u2019s expected to linger through the small hours and into dawn. Sunshine will be scarce at first light; the UV sits near nil overnight and should stay modest early, only waking if the cloud slackens later. Expect a quiet, muted morning with flat, silvery light and softened horizons, clear enough to see by but short on sparkle.\n\nDress in light layers and comfortable shoes, a thin jacket for the cool pre-dawn breeze, and stash sunglasses and sunscreen in case the ceiling breaks toward midday. Just now, it\u2019s a good hour for a slow wander along the settlement paths or to listen to the surf working in the dark. As the grey morning gathers, try a gentle roll along the bike paths, a shoreline amble to watch the pale day arrive, then linger over coffee or leaf through a book while the sky makes up its mind. Save the sun-chasing for later, if it shows.",
+    "color_code": "#2E3440",
+    "timestamp": "2026-09-25 01:43:11",
     "location": {
         "name": "Rottnest Island",
-        "latitude": -31.99225292047791,
-        "longitude": 115.5237570424049,
+        "latitude": -31.99196185476185,
+        "longitude": 115.5238921799934,
         "timezone": "Australia/Perth"
     }
 }
