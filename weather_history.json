@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-09-17 01:26:23",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968858879769,
-      "longitude": 115.8206102772363,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-09-16T17:26:22+00:00",
-      "temperature_c": 21.51,
-      "temperature_f": 70.718,
-      "humidity": 67,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 30,
-      "description": "few clouds"
-    },
-    "report_summary": "Subiaco rests under a quiet, mostly clear sky, the small hours stitched with a few gentle clouds dri...",
-    "color_code": "#0b1e3a"
-  },
-  {
     "timestamp": "2026-09-17 11:10:19",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Rottnest Island sits under a quiet, moonwashed sky, the air cool and salt\u2011fresh, with only a few clo...",
     "color_code": "#0B1E3A"
+  },
+  {
+    "timestamp": "2026-09-24 10:56:45",
+    "location": {
+      "name": "Rottnest Island",
+      "latitude": -31.99225292047791,
+      "longitude": 115.5237570424049,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-09-24T02:56:45+00:00",
+      "temperature_c": 19.52,
+      "temperature_f": 67.136,
+      "humidity": 69,
+      "wind_speed_mph": 1.7896,
+      "wind_direction": 129,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Rottnest wakes under a soft lid of grey, the ocean dulled to pewter and the light flattened, kind to...",
+    "color_code": "#AAB3BD"
   }
 ]
