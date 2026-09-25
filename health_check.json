@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-25T03:12:14.750021",
+  "timestamp": "2026-09-25T17:44:34.276385",
   "overall_status": "healthy",
   "summary": {
     "total_checks": 5,
@@ -14,7 +14,7 @@
       "details": [
         "OpenWeather API key configured",
         "OpenAI API key configured",
-        "Location: Rottnest Island"
+        "Location: Beaconsfield"
       ]
     },
     {
@@ -41,7 +41,7 @@
     {
       "name": "OpenWeather API",
       "status": "healthy",
-      "response_time_ms": 60.418,
+      "response_time_ms": 210.788,
       "details": "HTTP 200"
     }
   ]

@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-09-18 10:57:45",
-    "location": {
-      "name": "Cottesloe",
-      "latitude": -31.9962010494662,
-      "longitude": 115.752367859377,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-09-18T02:57:44+00:00",
-      "temperature_c": 24.87,
-      "temperature_f": 76.766,
-      "humidity": 40,
-      "wind_speed_mph": 17.26964,
-      "wind_direction": 10,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Late morning in Cottesloe wears a quiet, pewter sheen; the sky is overcast and the light is soft, th...",
-    "color_code": "#9EA7B0"
-  },
-  {
     "timestamp": "2026-09-19 00:55:12",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Late morning on Rottnest feels hushed under a quilt of uniform cloud, the light gentle and silvery, ...",
     "color_code": "#9aa5b1"
+  },
+  {
+    "timestamp": "2026-09-26 01:44:35",
+    "location": {
+      "name": "Beaconsfield",
+      "latitude": -32.0730496265875,
+      "longitude": 115.7593464907489,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-09-25T17:44:35+00:00",
+      "temperature_c": 13.02,
+      "temperature_f": 55.436,
+      "humidity": 67,
+      "wind_speed_mph": 14.965530000000001,
+      "wind_direction": 150,
+      "description": "broken clouds"
+    },
+    "report_summary": "After midnight in Beaconsfield, a patchwork sky drifts overhead, clouds torn just enough to let a fe...",
+    "color_code": "#1F2A44"
   }
 ]

@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Rottnest Island",
+            "name": "Beaconsfield",
             "country": "AU",
-            "latitude": -31.99217720319137,
-            "longitude": 115.5236565842598
+            "latitude": -32.0730496265875,
+            "longitude": 115.7593464907489
         },
         "current_conditions": {
-            "timestamp": "2026-09-25T03:12:15+00:00",
-            "temperature_c": 19.52,
-            "temperature_f": 67.136,
-            "humidity": 62,
-            "wind_speed_mph": 19.75271,
-            "wind_direction": 151,
-            "description": "overcast clouds"
+            "timestamp": "2026-09-25T17:44:35+00:00",
+            "temperature_c": 13.02,
+            "temperature_f": 55.436,
+            "humidity": 67,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 150,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-25T06:00:00+00:00",
-                "temperature": 19.05,
-                "windSpeed": 25.099140000000002,
-                "windDirection": 147,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-09-25T18:00:00+00:00",
+                "temperature": 13.02,
+                "windSpeed": 19.61849,
+                "windDirection": 122,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-09-25T09:00:00+00:00",
-                "temperature": 18.07,
-                "windSpeed": 28.432270000000003,
-                "windDirection": 146,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-09-25T21:00:00+00:00",
+                "temperature": 12.93,
+                "windSpeed": 17.896,
+                "windDirection": 135,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Late morning on Rottnest feels hushed under a quilt of uniform cloud, the light gentle and silvery, water and scrub alike losing their hard edges. Sunshine will be scarce today; the forecast keeps the sky overcast into the afternoon and toward early evening, so expect more glow than glare. UV is softened by the cloud but not erased\u2014around midday it can still nip exposed skin\u2014so think of shade and a dab of sunscreen even without the sparkle. The day is clear in its own way: distant shapes look honest and matte, the horizon less a line than a suggestion.\n\nDress for mild, changeable comfort: a breathable layer with a light jacket you can pocket if the air settles. With the sun muted, it\u2019s a fine time for unhurried things\u2014an easy spin along the paths without squinting, a quiet visit to the museum, or a slow coffee where the view does most of the talking. If you walk the shoreline, the flat light is kind to photographs and sketches; if you read, the pages won\u2019t glare back. Let the afternoon unfold at a humane pace, and save the bright ambitions for another day.",
-    "color_code": "#9aa5b1",
-    "timestamp": "2026-09-25 11:12:16",
+    "weather_report": "After midnight in Beaconsfield, a patchwork sky drifts overhead, clouds torn just enough to let a few tired stars wink through. The night feels hushed and mild rather than sharp, with darkness softened by a gauze of cloud. Sunshine later looks likely to be filtered rather than bold; expect a day of on\u2011again, off\u2011again brightness rather than true blue. The UV index should stay low early and, if the cloud breaks, nudge to modest levels at best. It won\u2019t be a crystal\u2011clear day so much as a gentle, pewter\u2011lit one.\n\nDress in light layers you can shrug on and off: a soft sweater or light jacket to fend off the pre\u2011dawn cool, and keep sunglasses handy for those passing bright spells. At this hour, a quiet cup by the window suits the mood; early risers might take a slow walk at first light, listening to the town wake under a veiled sky. As the day ambles along, think simple errands, a market browse, a caf\u00e9 table by the window, or tidying the week\u2019s loose ends while the light drifts in and out.",
+    "color_code": "#1F2A44",
+    "timestamp": "2026-09-26 01:44:35",
     "location": {
-        "name": "Rottnest Island",
-        "latitude": -31.99217720319137,
-        "longitude": 115.5236565842598,
+        "name": "Beaconsfield",
+        "latitude": -32.0730496265875,
+        "longitude": 115.7593464907489,
         "timezone": "Australia/Perth"
     }
 }
