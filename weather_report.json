@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Beaconsfield",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -32.0730496265875,
-            "longitude": 115.7593464907489
+            "latitude": -31.94966478334506,
+            "longitude": 115.8208019857217
         },
         "current_conditions": {
-            "timestamp": "2026-09-25T17:44:35+00:00",
-            "temperature_c": 13.02,
-            "temperature_f": 55.436,
-            "humidity": 67,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 150,
+            "timestamp": "2026-09-26T03:16:27+00:00",
+            "temperature_c": 16.28,
+            "temperature_f": 61.304,
+            "humidity": 62,
+            "wind_speed_mph": 21.85549,
+            "wind_direction": 110,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-25T18:00:00+00:00",
-                "temperature": 13.02,
-                "windSpeed": 19.61849,
-                "windDirection": 122,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-09-26T06:00:00+00:00",
+                "temperature": 16.88,
+                "windSpeed": 15.92744,
+                "windDirection": 123,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-09-25T21:00:00+00:00",
-                "temperature": 12.93,
-                "windSpeed": 17.896,
-                "windDirection": 135,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-09-26T09:00:00+00:00",
+                "temperature": 15.91,
+                "windSpeed": 14.92079,
+                "windDirection": 130,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "After midnight in Beaconsfield, a patchwork sky drifts overhead, clouds torn just enough to let a few tired stars wink through. The night feels hushed and mild rather than sharp, with darkness softened by a gauze of cloud. Sunshine later looks likely to be filtered rather than bold; expect a day of on\u2011again, off\u2011again brightness rather than true blue. The UV index should stay low early and, if the cloud breaks, nudge to modest levels at best. It won\u2019t be a crystal\u2011clear day so much as a gentle, pewter\u2011lit one.\n\nDress in light layers you can shrug on and off: a soft sweater or light jacket to fend off the pre\u2011dawn cool, and keep sunglasses handy for those passing bright spells. At this hour, a quiet cup by the window suits the mood; early risers might take a slow walk at first light, listening to the town wake under a veiled sky. As the day ambles along, think simple errands, a market browse, a caf\u00e9 table by the window, or tidying the week\u2019s loose ends while the light drifts in and out.",
-    "color_code": "#1F2A44",
-    "timestamp": "2026-09-26 01:44:35",
+    "weather_report": "Late morning in Subiaco wears a steady gray, the sky sealed with overcast and the light turned soft and silvery. The sun keeps its distance; glare is minimal and the UV should be muted, though a whisper still filters through near midday. The view is gentle rather than sharp, colors desaturated, edges a little blurred, the sort of light that quiets the mood and slows the pulse.\n\nExpect the blanket of cloud to linger into the afternoon, trading sparkle for calm. Dress in easy layers\u2014a breathable shirt with a light cardigan or jacket\u2014and leave the heavy sun armor at home; sunglasses are optional, and a small touch of sunscreen is enough if you\u2019ll be out around lunch. It\u2019s a day for unhurried errands and low-key pleasures: a window seat at a caf\u00e9, a browse through the library or a grocer\u2019s aisles, a slow neighborhood walk where the soft light makes familiar corners look newly composed.",
+    "color_code": "#a3a8ad",
+    "timestamp": "2026-09-26 11:16:27",
     "location": {
-        "name": "Beaconsfield",
-        "latitude": -32.0730496265875,
-        "longitude": 115.7593464907489,
+        "name": "Subiaco",
+        "latitude": -31.94966478334506,
+        "longitude": 115.8208019857217,
         "timezone": "Australia/Perth"
     }
 }
