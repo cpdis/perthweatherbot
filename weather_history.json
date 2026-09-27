@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-09-20 00:12:10",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968930693944,
-      "longitude": 115.8209097588332,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-09-19T16:12:09+00:00",
-      "temperature_c": 15.34,
-      "temperature_f": 59.612,
-      "humidity": 85,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 260,
-      "description": "broken clouds"
-    },
-    "report_summary": "Subiaco slips past midnight under a quilt of broken cloud, the stars smudged and shy, the streets ho...",
-    "color_code": "#2C3E50"
-  },
-  {
     "timestamp": "2026-09-20 11:08:22",
     "location": {
       "name": "Mosman Park",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Just past midnight in Subiaco, the sky is a polished bowl, clear and hushed; stars feel close and th...",
     "color_code": "#0A1F44"
+  },
+  {
+    "timestamp": "2026-09-27 11:24:11",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94966279604593,
+      "longitude": 115.8208020003344,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-09-27T03:24:10+00:00",
+      "temperature_c": 19.35,
+      "temperature_f": 66.83,
+      "humidity": 67,
+      "wind_speed_mph": 4.60822,
+      "wind_direction": 230,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Late morning in Subiaco finds the thick blanket of early cloud loosening into scattered patches, the...",
+    "color_code": "#9DB7CC"
   }
 ]
