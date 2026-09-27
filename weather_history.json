@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-09-20 11:08:22",
-    "location": {
-      "name": "Mosman Park",
-      "latitude": -32.01613520131748,
-      "longitude": 115.7559973000077,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-09-20T03:08:21+00:00",
-      "temperature_c": 17.76,
-      "temperature_f": 63.968,
-      "humidity": 84,
-      "wind_speed_mph": 2.99758,
-      "wind_direction": 179,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Late morning in Mosman Park arrives under a soft lid of cloud, the light diffused and gentle, shadow...",
-    "color_code": "#B0BEC5"
-  },
-  {
     "timestamp": "2026-09-21 00:40:07",
     "location": {
       "name": "City Beach",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Late morning in Subiaco finds the thick blanket of early cloud loosening into scattered patches, the...",
     "color_code": "#9DB7CC"
+  },
+  {
+    "timestamp": "2026-09-28 01:25:50",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969722811002,
+      "longitude": 115.820724336659,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-09-27T17:25:49+00:00",
+      "temperature_c": 13.55,
+      "temperature_f": 56.39,
+      "humidity": 87,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 20,
+      "description": "light rain"
+    },
+    "report_summary": "Subiaco slips through the small hours under a soft, silvery rain, the streets varnished and quiet, t...",
+    "color_code": "#2C3E50"
   }
 ]
