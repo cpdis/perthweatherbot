@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "North Beach",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.86410110708767,
-            "longitude": 115.7524076938244
+            "latitude": -31.94969078060572,
+            "longitude": 115.8206481651324
         },
         "current_conditions": {
-            "timestamp": "2026-09-28T03:21:35+00:00",
-            "temperature_c": 20.09,
-            "temperature_f": 68.162,
-            "humidity": 57,
-            "wind_speed_mph": 5.99516,
-            "wind_direction": 296,
-            "description": "few clouds"
+            "timestamp": "2026-09-28T19:58:17+00:00",
+            "temperature_c": 12.35,
+            "temperature_f": 54.23,
+            "humidity": 84,
+            "wind_speed_mph": 6.196490000000001,
+            "wind_direction": 77,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-28T06:00:00+00:00",
-                "temperature": 19.51,
-                "windSpeed": 15.345820000000002,
-                "windDirection": 245,
+                "startTime": "2026-09-28T21:00:00+00:00",
+                "temperature": 12.35,
+                "windSpeed": 6.95707,
+                "windDirection": 224,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-09-28T09:00:00+00:00",
-                "temperature": 18.04,
-                "windSpeed": 16.553800000000003,
-                "windDirection": 214,
-                "shortForecast": "light rain"
+                "startTime": "2026-09-29T00:00:00+00:00",
+                "temperature": 13.2,
+                "windSpeed": 4.74244,
+                "windDirection": 275,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "North Beach wakes to a soft, maritime hush. Overnight light rain has left the streets lacquered and reflective, and the sky holds together in a calm, pewter sheet. The sun is a shy rumor behind the gray, so brightness will be muted and the UV index stays low for most of the day; if a brief thinning arrives near midday, it won\u2019t last long. The air feels clean and a little salty, with distant edges smudged\u2014good clarity for going about your day, but not a day of sharp horizons.\n\nExpect the mood to stay cool and gentle, with occasional misty sprinkles rather than hard rain. A light waterproof layer and comfortable shoes that don\u2019t mind damp pavement will suit you, plus an easy extra layer for lingering chill. This is errand weather: a quiet walk to the corner market, a window seat for a late coffee while the sidewalks glisten, a quick visit to the bookstore or post office, a tidy-up at home with the windows cracked for the sound of wet leaves. If the clouds loosen briefly, take a short amble along the waterfront, then slip back inside before the next gray curtain drifts through.",
-    "color_code": "#8FA3B0",
-    "timestamp": "2026-09-28 11:21:35",
+    "weather_report": "Subiaco sits in the small hours under a quilt of cloud, the air still and slightly damp, the horizon smudged in charcoal. A light sprinkle is poised to slip through around dawn, giving way to a steady overcast that flattens the light and mutes the colors. Sunshine will be shy at best; expect a dull, pearly glow rather than beams, with UV on the low side through the morning and only a modest rise if the cloud thins later. The day looks clear enough to see your way, yet indistinct at the edges, as if the town were drawn in pencil instead of ink.\n\nIt won\u2019t be harsh, just subdued and a touch cool. A light layer and a waterproof shell will serve, with closed shoes and a small umbrella in the bag. An early amble between showers, a quiet tram ride to fetch bread, or a tidy of the desk suits the mood. When doors open, a brief library visit or grocery run feels right; if the sky offers a paler patch by late morning, step out for a coffee and keep an eye on the clouds. Sunscreen only if the day brightens; otherwise, lip balm and unhurried patience.",
+    "color_code": "#5A6670",
+    "timestamp": "2026-09-29 03:58:17",
     "location": {
-        "name": "North Beach",
-        "latitude": -31.86410110708767,
-        "longitude": 115.7524076938244,
+        "name": "Subiaco",
+        "latitude": -31.94969078060572,
+        "longitude": 115.8206481651324,
         "timezone": "Australia/Perth"
     }
 }
