@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Wembley",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.93023556123761,
-            "longitude": 115.8141544573164
+            "latitude": -31.9496834455446,
+            "longitude": 115.820915522597
         },
         "current_conditions": {
-            "timestamp": "2026-09-30T03:45:49+00:00",
-            "temperature_c": 16.93,
-            "temperature_f": 62.474000000000004,
-            "humidity": 72,
-            "wind_speed_mph": 14.965530000000001,
-            "wind_direction": 230,
+            "timestamp": "2026-09-30T18:15:17+00:00",
+            "temperature_c": 12.61,
+            "temperature_f": 54.698,
+            "humidity": 74,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 150,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-30T06:00:00+00:00",
-                "temperature": 17.79,
-                "windSpeed": 16.86698,
-                "windDirection": 222,
+                "startTime": "2026-09-30T21:00:00+00:00",
+                "temperature": 12.56,
+                "windSpeed": 8.097940000000001,
+                "windDirection": 160,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-09-30T09:00:00+00:00",
-                "temperature": 17.05,
-                "windSpeed": 14.518130000000001,
-                "windDirection": 209,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-10-01T00:00:00+00:00",
+                "temperature": 13.73,
+                "windSpeed": 5.525390000000001,
+                "windDirection": 121,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Late morning in Wembley wears a rinsed, pewter light. Earlier showers have left pavements dark and a little glossy, and a fleece of overcast skies has settled in, muting edges and quieting colors. Sunshine will be scarce today, the UV index staying low beneath this steady blanket, so glare is unlikely and the light is flat, with decent visibility but little sparkle. It\u2019s the sort of day that asks for an unhurried pace and rewards those who notice the small details: the steam from a takeaway cup, the hush of passing buses, leaves turning without ceremony.\n\nExpect the afternoon to hold onto the cloud cover, largely dry but not ruling out a brief misty sprinkle. Dress for a cool, grey ramble: soft layers, a light waterproof or trench, and comfortable shoes; sunglasses can rest at home, sunscreen can be modest. Good weather for practical errands, a quiet browse along the High Road, or a slow coffee and a chapter indoors; if you crave air, take a gentle loop through the park and enjoy the calm, then drift back before the day dims.",
-    "color_code": "#9CA3AF",
-    "timestamp": "2026-09-30 11:45:49",
+    "weather_report": "After a brief rinse earlier in the night, Subiaco sits awake beneath broken clouds, the streets dark and a little glossy, the air rinsed clean and quiet. The sky is patchwork rather than star-bright, letting a pale glow slip through at times; UV is negligible now, the kind of hour that asks for a soft jumper and unhurried steps.\n\nBy morning, expect a day of shifting light: clouds lingering but parting enough for gentle sun to find the piazzas and stone ledges. It won\u2019t be a searingly bright day, yet there should be a clear, honest brightness between the clouds, with UV staying low early and only modest around midday. Dress in light layers with a compact umbrella in the bag if you\u2019re cautious; shoes suited to damp paving will make the first errands easier. Consider a slow coffee and a meander once the pavements dry, a tidy-up at home with windows cracked for the clean air, or a stroll to the market when the sky brightens\u2014ordinary pleasures framed by a sky that can\u2019t decide, but means well.",
+    "color_code": "#2A3B4C",
+    "timestamp": "2026-10-01 02:15:17",
     "location": {
-        "name": "Wembley",
-        "latitude": -31.93023556123761,
-        "longitude": 115.8141544573164,
+        "name": "Subiaco",
+        "latitude": -31.9496834455446,
+        "longitude": 115.820915522597,
         "timezone": "Australia/Perth"
     }
 }

@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-09-23 11:04:19",
-    "location": {
-      "name": "Osborne Park",
-      "latitude": -31.90798722495253,
-      "longitude": 115.8018546425098,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-09-23T03:04:18+00:00",
-      "temperature_c": 19.61,
-      "temperature_f": 67.298,
-      "humidity": 66,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 210,
-      "description": "clear sky"
-    },
-    "report_summary": "Osborne Park is wrapped in a clean, generous blue this late morning, the light crisp and sure of its...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-09-24 01:40:29",
     "location": {
       "name": "Rottnest Island",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Late morning in Wembley wears a rinsed, pewter light. Earlier showers have left pavements dark and a...",
     "color_code": "#9CA3AF"
+  },
+  {
+    "timestamp": "2026-10-01 02:15:17",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.9496834455446,
+      "longitude": 115.820915522597,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-09-30T18:15:17+00:00",
+      "temperature_c": 12.61,
+      "temperature_f": 54.698,
+      "humidity": 74,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 150,
+      "description": "overcast clouds"
+    },
+    "report_summary": "After a brief rinse earlier in the night, Subiaco sits awake beneath broken clouds, the streets dark...",
+    "color_code": "#2A3B4C"
   }
 ]
