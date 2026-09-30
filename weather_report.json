@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Wembley",
             "country": "AU",
-            "latitude": -31.9498272430887,
-            "longitude": 115.8209457927482
+            "latitude": -31.93023556123761,
+            "longitude": 115.8141544573164
         },
         "current_conditions": {
-            "timestamp": "2026-09-29T18:26:10+00:00",
-            "temperature_c": 13.53,
-            "temperature_f": 56.354,
-            "humidity": 94,
-            "wind_speed_mph": 6.91233,
-            "wind_direction": 30,
-            "description": "broken clouds"
+            "timestamp": "2026-09-30T03:45:49+00:00",
+            "temperature_c": 16.93,
+            "temperature_f": 62.474000000000004,
+            "humidity": 72,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 230,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-09-29T21:00:00+00:00",
-                "temperature": 13.02,
-                "windSpeed": 11.22974,
-                "windDirection": 280,
+                "startTime": "2026-09-30T06:00:00+00:00",
+                "temperature": 17.79,
+                "windSpeed": 16.86698,
+                "windDirection": 222,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-09-30T00:00:00+00:00",
-                "temperature": 14.24,
-                "windSpeed": 11.11789,
-                "windDirection": 284,
-                "shortForecast": "light rain"
+                "startTime": "2026-09-30T09:00:00+00:00",
+                "temperature": 17.05,
+                "windSpeed": 14.518130000000001,
+                "windDirection": 209,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Subiaco dozes under a hush of cloud before dawn, the air smelling faintly of wet stone. Light rain is set to arrive with first light and linger into the school-run hours, softening the edges of the morning and blurring streetlamps into halos. Sun will be shy at best early on; UV stays low beneath this blanket of grey, rising only if the cloud loosens later. Expect a muted, silvery start rather than sparkle, with visibility fine but the day\u2019s clarity more watercolor than line drawing.\n\nIt looks quietly pleasant if you like the world slowed down. Dress for drizzle and cool air: a light waterproof or hooded layer, shoes that don\u2019t mind puddles, and something you can shed if the skies brighten. If the rain keeps on, nurse a coffee by the window, take the early train instead of the bike, run a short errand between showers, or settle into those small, useful tasks that reward patience. Should the cloud thin toward late morning, step out for a gentle walk under damp plane trees, and tuck a little sunscreen in your pocket on the off chance the sun makes a brief, sharper appearance.",
-    "color_code": "#2E3B4E",
-    "timestamp": "2026-09-30 02:26:10",
+    "weather_report": "Late morning in Wembley wears a rinsed, pewter light. Earlier showers have left pavements dark and a little glossy, and a fleece of overcast skies has settled in, muting edges and quieting colors. Sunshine will be scarce today, the UV index staying low beneath this steady blanket, so glare is unlikely and the light is flat, with decent visibility but little sparkle. It\u2019s the sort of day that asks for an unhurried pace and rewards those who notice the small details: the steam from a takeaway cup, the hush of passing buses, leaves turning without ceremony.\n\nExpect the afternoon to hold onto the cloud cover, largely dry but not ruling out a brief misty sprinkle. Dress for a cool, grey ramble: soft layers, a light waterproof or trench, and comfortable shoes; sunglasses can rest at home, sunscreen can be modest. Good weather for practical errands, a quiet browse along the High Road, or a slow coffee and a chapter indoors; if you crave air, take a gentle loop through the park and enjoy the calm, then drift back before the day dims.",
+    "color_code": "#9CA3AF",
+    "timestamp": "2026-09-30 11:45:49",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.9498272430887,
-        "longitude": 115.8209457927482,
+        "name": "Wembley",
+        "latitude": -31.93023556123761,
+        "longitude": 115.8141544573164,
         "timezone": "Australia/Perth"
     }
 }
