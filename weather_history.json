@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-09-26 01:44:35",
-    "location": {
-      "name": "Beaconsfield",
-      "latitude": -32.0730496265875,
-      "longitude": 115.7593464907489,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-09-25T17:44:35+00:00",
-      "temperature_c": 13.02,
-      "temperature_f": 55.436,
-      "humidity": 67,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 150,
-      "description": "broken clouds"
-    },
-    "report_summary": "After midnight in Beaconsfield, a patchwork sky drifts overhead, clouds torn just enough to let a fe...",
-    "color_code": "#1F2A44"
-  },
-  {
     "timestamp": "2026-09-26 11:16:27",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco sits under a quiet, crystal-clear night as the small hours drift by, the kind of darkness th...",
     "color_code": "#0B1D3A"
+  },
+  {
+    "timestamp": "2026-10-03 11:34:58",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.9496668924248,
+      "longitude": 115.8208129842202,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-10-03T03:34:57+00:00",
+      "temperature_c": 22.6,
+      "temperature_f": 72.68,
+      "humidity": 46,
+      "wind_speed_mph": 4.60822,
+      "wind_direction": 310,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco wakes under a clean, polished sky, the kind that makes colors snap and edges look newly draw...",
+    "color_code": "#87CEEB"
   }
 ]
