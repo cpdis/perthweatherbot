@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94970614238215,
-            "longitude": 115.8206448875986
+            "latitude": -31.94966815089531,
+            "longitude": 115.820806735483
         },
         "current_conditions": {
-            "timestamp": "2026-10-04T17:15:35+00:00",
-            "temperature_c": 14.94,
-            "temperature_f": 58.892,
-            "humidity": 80,
-            "wind_speed_mph": 8.47823,
-            "wind_direction": 209,
-            "description": "broken clouds"
+            "timestamp": "2026-10-05T03:49:37+00:00",
+            "temperature_c": 20.5,
+            "temperature_f": 68.9,
+            "humidity": 56,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 250,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-10-04T18:00:00+00:00",
-                "temperature": 14.94,
-                "windSpeed": 8.67956,
-                "windDirection": 213,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-10-05T06:00:00+00:00",
+                "temperature": 21.26,
+                "windSpeed": 11.09552,
+                "windDirection": 236,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2026-10-04T21:00:00+00:00",
-                "temperature": 14.52,
-                "windSpeed": 7.06892,
-                "windDirection": 208,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-10-05T09:00:00+00:00",
+                "temperature": 20.8,
+                "windSpeed": 11.386330000000001,
+                "windDirection": 201,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Subiaco drifts through the small hours under a patchwork of broken cloud, a dim, gentle night where a few stars blink through the seams. It feels calm rather than cold, the air unhurried, with UV essentially nonexistent now and the sky\u2019s clarity softened by the passing deck above.\n\nToward dawn, expect the cloud to linger, letting the sunrise through in tempered streaks. Sunshine should be shy at first, growing a little braver later if the gaps widen; UV will stay low early, edging to modest through the day if the sun has its way. The day looks quietly pleasant rather than radiant, with a mix of light and shade. Dress in easy layers\u2014a light sweater for the first steps outside, a breathable shirt beneath, and a hat and sunglasses on standby should the sun break through. At this hour, it\u2019s a good time for a slow kettle, a page or two of a book, or laying out tomorrow\u2019s list. After sunrise, a short walk to the bakery, a gentle ride on familiar streets, or a tidy-up by a bright window will suit the mood; if the sky opens later, run a few errands and let the changing light set your pace.",
-    "color_code": "#2C3E50",
-    "timestamp": "2026-10-05 01:15:36",
+    "weather_report": "Late morning in Subiaco arrives bright and good-natured, the light clean and steady, shadows sharp, a few small clouds wandering without much intent. The day leans mild to warm, with the sun taking center stage; by midafternoon expect scattered patches of cloud, then a gradual clearing toward evening that leaves the sky mostly open. UV will run high through the early afternoon before softening later, so the glare may nip at unguarded skin even if the breeze feels polite.\n\nDress for spring ease: light layers, breathable fabrics, sunglasses and a hat, with sunscreen as your quiet companion. It\u2019s a fine day to walk your errands instead of driving, to linger over a shaded patio lunch, or to set a load of washing that will dry happily in the quick, honest air. Aim any outdoor pottering or a gentle ride to the park for mid to late afternoon when the sun grows less insistent, and let the evening\u2019s clearer light carry you home unrushed.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-10-05 11:49:38",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94970614238215,
-        "longitude": 115.8206448875986,
+        "latitude": -31.94966815089531,
+        "longitude": 115.820806735483,
         "timezone": "Australia/Perth"
     }
 }
