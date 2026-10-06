@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "South Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.98228408609667,
-            "longitude": 115.8499157492083
+            "latitude": -31.94969177724325,
+            "longitude": 115.8208970540476
         },
         "current_conditions": {
-            "timestamp": "2026-10-06T04:36:52+00:00",
-            "temperature_c": 25.71,
-            "temperature_f": 78.278,
-            "humidity": 48,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 250,
-            "description": "overcast clouds"
+            "timestamp": "2026-10-06T18:44:35+00:00",
+            "temperature_c": 15.86,
+            "temperature_f": 60.548,
+            "humidity": 84,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 180,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-10-06T06:00:00+00:00",
-                "temperature": 25.71,
-                "windSpeed": 15.23397,
-                "windDirection": 216,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-10-06T21:00:00+00:00",
+                "temperature": 15.58,
+                "windSpeed": 13.489110000000002,
+                "windDirection": 195,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-10-06T09:00:00+00:00",
-                "temperature": 24.72,
-                "windSpeed": 16.75513,
-                "windDirection": 189,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-10-07T00:00:00+00:00",
+                "temperature": 16.59,
+                "windSpeed": 12.90749,
+                "windDirection": 194,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "South Perth drifts into early afternoon under a soft grey lid, the sun a shy rumor behind high, stubborn cloud. The day feels muted and even, edges rounded off, the river wearing a pewter sheen; clarity is gentle rather than sharp. Forecasts keep the ceiling in place through the afternoon and toward evening, so sunshine will be fleeting at best. UV is softened by the overcast but not banished; midday can still nip at bare skin if you linger.\n\nIt\u2019s a day for light layers and easy fabrics, a breathable long-sleeve or a light jacket in case the breeze freshens; sunglasses are optional, sunscreen sensible. With the glare tamed, walking errands feel pleasant\u2014an unhurried loop along the foreshore, a quiet ferry crossing to the city and back, or a deliberate browse of the corner grocer. Indoors, it\u2019s a fine time to sort a drawer, polish a pair of shoes, or brew something steady on the stove while the sky keeps its cool, silvery mood.",
-    "color_code": "#9FA6AD",
-    "timestamp": "2026-10-06 12:36:52",
+    "weather_report": "Subiaco drifts through the small hours under a quiet, open sky, the kind of cool, inky predawn that hushes the streets and sharpens the stars. Toward first light the heavens should stay clear, then soften into a bright morning with just a scatter of fair clouds. Expect a sunny, clean-edged day with crisp visibility; the sun will gather strength and the UV will climb quickly through the late morning, likely high to very high by midday, so the light will feel honest but unforgiving on bare skin.\n\nDress in light layers you can peel away after breakfast, with a brimmed hat, sunglasses, and sunscreen as non-negotiables. If you\u2019re up now, crack a window for the gentle cool and let the house exhale; by dawn, a brief walk for coffee or a lap around the block will feel calm and clear. Late morning suits errands on foot or a ride to the shops, and a simple lunch outdoors if you can find a patch of shade. Hang the washing early, water the herbs, and save anything fussy for the late afternoon when the sun eases and the light turns honeyed again.",
+    "color_code": "#0D1B2A",
+    "timestamp": "2026-10-07 02:44:35",
     "location": {
-        "name": "South Perth",
-        "latitude": -31.98228408609667,
-        "longitude": 115.8499157492083,
+        "name": "Subiaco",
+        "latitude": -31.94969177724325,
+        "longitude": 115.8208970540476,
         "timezone": "Australia/Perth"
     }
 }
