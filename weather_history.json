@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2026-09-28 11:21:35",
-    "location": {
-      "name": "North Beach",
-      "latitude": -31.86410110708767,
-      "longitude": 115.7524076938244,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-09-28T03:21:35+00:00",
-      "temperature_c": 20.09,
-      "temperature_f": 68.162,
-      "humidity": 57,
-      "wind_speed_mph": 5.99516,
-      "wind_direction": 296,
-      "description": "few clouds"
-    },
-    "report_summary": "North Beach wakes to a soft, maritime hush. Overnight light rain has left the streets lacquered and ...",
-    "color_code": "#8FA3B0"
-  },
-  {
-    "timestamp": "2026-09-29 03:58:17",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969078060572,
-      "longitude": 115.8206481651324,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-09-28T19:58:17+00:00",
-      "temperature_c": 12.35,
-      "temperature_f": 54.23,
-      "humidity": 84,
-      "wind_speed_mph": 6.196490000000001,
-      "wind_direction": 77,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Subiaco sits in the small hours under a quilt of cloud, the air still and slightly damp, the horizon...",
-    "color_code": "#5A6670"
-  },
-  {
     "timestamp": "2026-09-29 11:58:26",
     "location": {
       "name": "Subiaco",
@@ -298,5 +258,25 @@
     },
     "report_summary": "Late morning in Subiaco arrives bright and good-natured, the light clean and steady, shadows sharp, ...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-10-06 12:36:52",
+    "location": {
+      "name": "South Perth",
+      "latitude": -31.98228408609667,
+      "longitude": 115.8499157492083,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-10-06T04:36:52+00:00",
+      "temperature_c": 25.71,
+      "temperature_f": 78.278,
+      "humidity": 48,
+      "wind_speed_mph": 16.1064,
+      "wind_direction": 250,
+      "description": "overcast clouds"
+    },
+    "report_summary": "South Perth drifts into early afternoon under a soft grey lid, the sun a shy rumor behind high, stub...",
+    "color_code": "#9FA6AD"
   }
 ]
