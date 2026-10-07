@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.9496327,
-            "longitude": 115.8247086
+            "latitude": -31.94970523536344,
+            "longitude": 115.8206460705485
         },
         "current_conditions": {
-            "timestamp": "2026-10-07T03:57:30+00:00",
-            "temperature_c": 20.24,
-            "temperature_f": 68.432,
-            "humidity": 59,
-            "wind_speed_mph": 18.410510000000002,
-            "wind_direction": 230,
+            "timestamp": "2026-10-07T19:10:58+00:00",
+            "temperature_c": 17.47,
+            "temperature_f": 63.446,
+            "humidity": 77,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 310,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-10-07T06:00:00+00:00",
-                "temperature": 20.74,
-                "windSpeed": 13.198300000000001,
-                "windDirection": 241,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-10-07T21:00:00+00:00",
+                "temperature": 17.27,
+                "windSpeed": 16.93409,
+                "windDirection": 223,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-10-07T09:00:00+00:00",
-                "temperature": 21.18,
-                "windSpeed": 13.377260000000001,
-                "windDirection": 247,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-10-08T00:00:00+00:00",
+                "temperature": 17.22,
+                "windSpeed": 18.768430000000002,
+                "windDirection": 244,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Midday in Subiaco arrives beneath a quiet, quilted sky, the morning\u2019s gaps in the cloud sewing themselves into a steadier gray. The sun appears only in pale, passing glances, turning the light soft and generous to the eyes; visibility is clear, edges a touch muted. Expect limited sunshine for the rest of the day as the cover holds. Even so, midday UV can still nip through the overcast, likely in the moderate range, so a bit of shade or sunscreen won\u2019t go astray.\n\nIt\u2019s a low-contrast, gentle sort of day\u2014unhurried and comfortable. Dress in light layers: a breathable shirt with a thin cardigan or an easy jacket, sunglasses if you\u2019re sensitive to glare. This is weather for practical pleasures: a slow loop of errands on foot, a caf\u00e9 lunch near a window, a meander through a bookstore or small gallery, or a short stroll through tree-lined streets to watch the colors soften. Through the afternoon the cloud deck should linger, keeping the air even-tempered and the brightness calm, an invitation to move at half-speed and get small things quietly done.",
-    "color_code": "#A9B0B9",
-    "timestamp": "2026-10-07 12:02:44",
+    "weather_report": "Subiaco wakes to a quiet, damp hush; a soft belt of cloud keeps the stars at bay and the streets hold a new sheen. Light rain is due around dawn and into the morning, the sort that taps politely on awnings and softens every edge. Sunshine will be shy early, with UV gentle before breakfast; if the cloud thins later, expect a brighter turn and a livelier UV under any patch of blue, but the day looks more muted than blazing. Visibility will feel close and pearly rather than crisp, the air rinsed and cool, the mood unhurried.\n\nDress for a mild, drizzly start: a light waterproof or trench over easy layers, closed shoes that don\u2019t mind puddles, and a compact umbrella you won\u2019t resent carrying. This is a day for small, useful pleasures\u2014an early coffee at a window seat, a quick library visit, a tidy-up of the desk, a grocery run between showers, or a tram-stop stroll once the rain slackens. If the sky brightens later, slip out for a gentle walk and let the damp gardens steam; bring sunglasses and a dab of sunscreen just in case the sun decides to put in a brief, sharper cameo.",
+    "color_code": "#687A8B",
+    "timestamp": "2026-10-08 03:10:58",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.9496327,
-        "longitude": 115.8247086,
+        "latitude": -31.94970523536344,
+        "longitude": 115.8206460705485,
         "timezone": "Australia/Perth"
     }
 }
