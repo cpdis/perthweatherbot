@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94969177724325,
-            "longitude": 115.8208970540476
+            "latitude": -31.9496327,
+            "longitude": 115.8247086
         },
         "current_conditions": {
-            "timestamp": "2026-10-06T18:44:35+00:00",
-            "temperature_c": 15.86,
-            "temperature_f": 60.548,
-            "humidity": 84,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 180,
-            "description": "clear sky"
+            "timestamp": "2026-10-07T03:57:30+00:00",
+            "temperature_c": 20.24,
+            "temperature_f": 68.432,
+            "humidity": 59,
+            "wind_speed_mph": 18.410510000000002,
+            "wind_direction": 230,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-10-06T21:00:00+00:00",
-                "temperature": 15.58,
-                "windSpeed": 13.489110000000002,
-                "windDirection": 195,
-                "shortForecast": "clear sky"
+                "startTime": "2026-10-07T06:00:00+00:00",
+                "temperature": 20.74,
+                "windSpeed": 13.198300000000001,
+                "windDirection": 241,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-10-07T00:00:00+00:00",
-                "temperature": 16.59,
-                "windSpeed": 12.90749,
-                "windDirection": 194,
-                "shortForecast": "few clouds"
+                "startTime": "2026-10-07T09:00:00+00:00",
+                "temperature": 21.18,
+                "windSpeed": 13.377260000000001,
+                "windDirection": 247,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Subiaco drifts through the small hours under a quiet, open sky, the kind of cool, inky predawn that hushes the streets and sharpens the stars. Toward first light the heavens should stay clear, then soften into a bright morning with just a scatter of fair clouds. Expect a sunny, clean-edged day with crisp visibility; the sun will gather strength and the UV will climb quickly through the late morning, likely high to very high by midday, so the light will feel honest but unforgiving on bare skin.\n\nDress in light layers you can peel away after breakfast, with a brimmed hat, sunglasses, and sunscreen as non-negotiables. If you\u2019re up now, crack a window for the gentle cool and let the house exhale; by dawn, a brief walk for coffee or a lap around the block will feel calm and clear. Late morning suits errands on foot or a ride to the shops, and a simple lunch outdoors if you can find a patch of shade. Hang the washing early, water the herbs, and save anything fussy for the late afternoon when the sun eases and the light turns honeyed again.",
-    "color_code": "#0D1B2A",
-    "timestamp": "2026-10-07 02:44:35",
+    "weather_report": "Midday in Subiaco arrives beneath a quiet, quilted sky, the morning\u2019s gaps in the cloud sewing themselves into a steadier gray. The sun appears only in pale, passing glances, turning the light soft and generous to the eyes; visibility is clear, edges a touch muted. Expect limited sunshine for the rest of the day as the cover holds. Even so, midday UV can still nip through the overcast, likely in the moderate range, so a bit of shade or sunscreen won\u2019t go astray.\n\nIt\u2019s a low-contrast, gentle sort of day\u2014unhurried and comfortable. Dress in light layers: a breathable shirt with a thin cardigan or an easy jacket, sunglasses if you\u2019re sensitive to glare. This is weather for practical pleasures: a slow loop of errands on foot, a caf\u00e9 lunch near a window, a meander through a bookstore or small gallery, or a short stroll through tree-lined streets to watch the colors soften. Through the afternoon the cloud deck should linger, keeping the air even-tempered and the brightness calm, an invitation to move at half-speed and get small things quietly done.",
+    "color_code": "#A9B0B9",
+    "timestamp": "2026-10-07 12:02:44",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94969177724325,
-        "longitude": 115.8208970540476,
+        "latitude": -31.9496327,
+        "longitude": 115.8247086,
         "timezone": "Australia/Perth"
     }
 }
