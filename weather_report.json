@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "West Perth",
             "country": "AU",
-            "latitude": -31.95419077860832,
-            "longitude": 115.8526314375666
+            "latitude": -31.94510888296362,
+            "longitude": 115.8459428819475
         },
         "current_conditions": {
-            "timestamp": "2026-10-08T04:14:24+00:00",
-            "temperature_c": 17.5,
-            "temperature_f": 63.5,
-            "humidity": 57,
-            "wind_speed_mph": 21.85549,
-            "wind_direction": 270,
+            "timestamp": "2026-10-08T19:07:11+00:00",
+            "temperature_c": 14.42,
+            "temperature_f": 57.956,
+            "humidity": 76,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 240,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-10-08T06:00:00+00:00",
-                "temperature": 18.27,
-                "windSpeed": 19.97641,
-                "windDirection": 259,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-10-08T21:00:00+00:00",
+                "temperature": 14.62,
+                "windSpeed": 11.45344,
+                "windDirection": 237,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-10-08T09:00:00+00:00",
-                "temperature": 18.75,
-                "windSpeed": 20.78173,
+                "startTime": "2026-10-09T00:00:00+00:00",
+                "temperature": 15.87,
+                "windSpeed": 12.95223,
                 "windDirection": 258,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Perth drifts through early afternoon under a thick, pewter sky; the sun is mostly a rumor behind the overcast, lending the city a soft, silvery light with low contrast and gentle edges. Expect the lid of cloud to hold through midafternoon, with a light, obliging rain sliding in toward late day. Sunshine will be scarce; UV is muted but not harmless, a middling nip if the ceiling thins for a moment. The air stays clear enough for distance, yet everything feels a touch hushed, as though the day is speaking in lowercase.\n\nIt looks quietly serviceable rather than cheerful: fine for a few errands or a brief walk before the drizzle begins. Dress in light layers, carry a small umbrella or hooded jacket, and choose shoes that won\u2019t sulk at puddles. Good hours for indoor comforts\u2014an unhurried browse at the library, a tidy-up of the workbench, a grocery run for something simple to simmer\u2014while the afternoon settles into a contemplative grey.",
-    "color_code": "#8A94A2",
-    "timestamp": "2026-10-08 12:15:25",
+    "weather_report": "West Perth dozes under a charcoal sky, the air cool and faintly metallic, as if the night has been rinsed clean. Cloud hangs thick enough to halo the streetlights and soften the edges of buildings, and toward dawn light rain is expected to slip in and settle through the early morning. Sunshine will be scarce at first, perhaps only a muted shimmer if the cloud thins; UV is low at this hour and will stay gentle through breakfast, then lift if breaks appear later. The day looks grey-leaning and softly blurred rather than stark, with damp roads and the hush that comes with drizzle.\n\nIt\u2019s a light-shell and closed-shoes kind of morning, an umbrella in the bag and layers you can peel if the air warms. Start slowly: brew something warm, glance at the sky between songs, and let the rain decide your pace. After sunup, errands go best between showers, a tram ride is more pleasant than a drive, and a seat by a window at a quiet cafe may be the day\u2019s small luxury. If the cloud loosens later, a short walk will feel new-washed; if not, keep the hood up and the shoulders loose, and remember a touch of sunscreen by late morning just in case.",
+    "color_code": "#3f5563",
+    "timestamp": "2026-10-09 03:07:13",
     "location": {
-        "name": "Perth",
-        "latitude": -31.95419077860832,
-        "longitude": 115.8526314375666,
+        "name": "West Perth",
+        "latitude": -31.94510888296362,
+        "longitude": 115.8459428819475,
         "timezone": "Australia/Perth"
     }
 }
