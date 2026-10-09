@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "West Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94510888296362,
-            "longitude": 115.8459428819475
+            "latitude": -31.94970500950001,
+            "longitude": 115.8206469257768
         },
         "current_conditions": {
-            "timestamp": "2026-10-08T19:07:11+00:00",
-            "temperature_c": 14.42,
-            "temperature_f": 57.956,
-            "humidity": 76,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 240,
+            "timestamp": "2026-10-09T04:20:43+00:00",
+            "temperature_c": 18.02,
+            "temperature_f": 64.436,
+            "humidity": 67,
+            "wind_speed_mph": 18.410510000000002,
+            "wind_direction": 260,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-10-08T21:00:00+00:00",
-                "temperature": 14.62,
-                "windSpeed": 11.45344,
-                "windDirection": 237,
+                "startTime": "2026-10-09T06:00:00+00:00",
+                "temperature": 18.15,
+                "windSpeed": 14.00362,
+                "windDirection": 254,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-10-09T00:00:00+00:00",
-                "temperature": 15.87,
-                "windSpeed": 12.95223,
-                "windDirection": 258,
+                "startTime": "2026-10-09T09:00:00+00:00",
+                "temperature": 17.18,
+                "windSpeed": 12.549570000000001,
+                "windDirection": 261,
                 "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "West Perth dozes under a charcoal sky, the air cool and faintly metallic, as if the night has been rinsed clean. Cloud hangs thick enough to halo the streetlights and soften the edges of buildings, and toward dawn light rain is expected to slip in and settle through the early morning. Sunshine will be scarce at first, perhaps only a muted shimmer if the cloud thins; UV is low at this hour and will stay gentle through breakfast, then lift if breaks appear later. The day looks grey-leaning and softly blurred rather than stark, with damp roads and the hush that comes with drizzle.\n\nIt\u2019s a light-shell and closed-shoes kind of morning, an umbrella in the bag and layers you can peel if the air warms. Start slowly: brew something warm, glance at the sky between songs, and let the rain decide your pace. After sunup, errands go best between showers, a tram ride is more pleasant than a drive, and a seat by a window at a quiet cafe may be the day\u2019s small luxury. If the cloud loosens later, a short walk will feel new-washed; if not, keep the hood up and the shoulders loose, and remember a touch of sunscreen by late morning just in case.",
-    "color_code": "#3f5563",
-    "timestamp": "2026-10-09 03:07:13",
+    "weather_report": "Subiaco eases into early afternoon under a quilt of thickening cloud, the sun reduced to a pale coin behind gauze. It won\u2019t be a sunny day; light is soft and silvery, and distant edges blur a little, as if the town has exhaled. UV still runs moderate to high around midday despite the cloud, so a touch of sunscreen is wise if you\u2019re out now. The air feels mild, the kind that coaxes you outdoors but suggests you keep plans nimble.\n\nForecast whispers of light rain settling in from mid to late afternoon and lingering toward evening, more a courteous tap on the shoulder than a soaking. Expect a gentle breeze and a slow cooling as showers pass. Dress in light layers with a compact umbrella or a thin rain shell, and shoes that won\u2019t sulk at damp footpaths. This is good weather for a late lunch by a window, leafing through a bookshop, a gallery amble, or running a couple of errands between showers; if you stay home, throw the windows open and let the softened day drift through.",
+    "color_code": "#708090",
+    "timestamp": "2026-10-09 12:20:43",
     "location": {
-        "name": "West Perth",
-        "latitude": -31.94510888296362,
-        "longitude": 115.8459428819475,
+        "name": "Subiaco",
+        "latitude": -31.94970500950001,
+        "longitude": 115.8206469257768,
         "timezone": "Australia/Perth"
     }
 }

@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-10-02 02:40:27",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.9496792155869,
-      "longitude": 115.82094675312,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-10-01T18:40:26+00:00",
-      "temperature_c": 11.68,
-      "temperature_f": 53.024,
-      "humidity": 74,
-      "wind_speed_mph": 2.30411,
-      "wind_direction": 130,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes to a clear, hushed pre-dawn, the air a touch cool and the sky rinsed clean, waiting fo...",
-    "color_code": "#1E3A5F"
-  },
-  {
     "timestamp": "2026-10-02 11:50:17",
     "location": {
       "name": "Cottesloe",
@@ -278,5 +258,25 @@
     },
     "report_summary": "West Perth dozes under a charcoal sky, the air cool and faintly metallic, as if the night has been r...",
     "color_code": "#3f5563"
+  },
+  {
+    "timestamp": "2026-10-09 12:20:43",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94970500950001,
+      "longitude": 115.8206469257768,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-10-09T04:20:43+00:00",
+      "temperature_c": 18.02,
+      "temperature_f": 64.436,
+      "humidity": 67,
+      "wind_speed_mph": 18.410510000000002,
+      "wind_direction": 260,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Subiaco eases into early afternoon under a quilt of thickening cloud, the sun reduced to a pale coin...",
+    "color_code": "#708090"
   }
 ]
