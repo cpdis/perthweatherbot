@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-10-02 11:50:17",
-    "location": {
-      "name": "Cottesloe",
-      "latitude": -31.99607135414663,
-      "longitude": 115.7587344054116,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-10-02T03:50:17+00:00",
-      "temperature_c": 22.1,
-      "temperature_f": 71.78,
-      "humidity": 39,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 50,
-      "description": "clear sky"
-    },
-    "report_summary": "Late morning in Cottesloe settles beneath a polished, ocean-bright sky, the air clean and salt-edged...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-10-03 02:10:59",
     "location": {
       "name": "Subiaco",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Subiaco eases into early afternoon under a quilt of thickening cloud, the sun reduced to a pale coin...",
     "color_code": "#708090"
+  },
+  {
+    "timestamp": "2026-10-10 02:37:47",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94970527986904,
+      "longitude": 115.8206468402425,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-10-09T18:37:47+00:00",
+      "temperature_c": 15.12,
+      "temperature_f": 59.215999999999994,
+      "humidity": 84,
+      "wind_speed_mph": 4.60822,
+      "wind_direction": 260,
+      "description": "light rain"
+    },
+    "report_summary": "Subiaco dozes under a quiet, pre-dawn sky, the air cool and smelling faintly of wet pavement. Clouds...",
+    "color_code": "#3E5668"
   }
 ]

@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94970500950001,
-            "longitude": 115.8206469257768
+            "latitude": -31.94970527986904,
+            "longitude": 115.8206468402425
         },
         "current_conditions": {
-            "timestamp": "2026-10-09T04:20:43+00:00",
-            "temperature_c": 18.02,
-            "temperature_f": 64.436,
-            "humidity": 67,
-            "wind_speed_mph": 18.410510000000002,
+            "timestamp": "2026-10-09T18:37:47+00:00",
+            "temperature_c": 15.12,
+            "temperature_f": 59.215999999999994,
+            "humidity": 84,
+            "wind_speed_mph": 4.60822,
             "wind_direction": 260,
-            "description": "overcast clouds"
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2026-10-09T06:00:00+00:00",
-                "temperature": 18.15,
-                "windSpeed": 14.00362,
-                "windDirection": 254,
+                "startTime": "2026-10-09T21:00:00+00:00",
+                "temperature": 15.28,
+                "windSpeed": 10.98367,
+                "windDirection": 230,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-10-09T09:00:00+00:00",
-                "temperature": 17.18,
-                "windSpeed": 12.549570000000001,
-                "windDirection": 261,
-                "shortForecast": "light rain"
+                "startTime": "2026-10-10T00:00:00+00:00",
+                "temperature": 17.64,
+                "windSpeed": 10.424420000000001,
+                "windDirection": 263,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco eases into early afternoon under a quilt of thickening cloud, the sun reduced to a pale coin behind gauze. It won\u2019t be a sunny day; light is soft and silvery, and distant edges blur a little, as if the town has exhaled. UV still runs moderate to high around midday despite the cloud, so a touch of sunscreen is wise if you\u2019re out now. The air feels mild, the kind that coaxes you outdoors but suggests you keep plans nimble.\n\nForecast whispers of light rain settling in from mid to late afternoon and lingering toward evening, more a courteous tap on the shoulder than a soaking. Expect a gentle breeze and a slow cooling as showers pass. Dress in light layers with a compact umbrella or a thin rain shell, and shoes that won\u2019t sulk at damp footpaths. This is good weather for a late lunch by a window, leafing through a bookshop, a gallery amble, or running a couple of errands between showers; if you stay home, throw the windows open and let the softened day drift through.",
-    "color_code": "#708090",
-    "timestamp": "2026-10-09 12:20:43",
+    "weather_report": "Subiaco dozes under a quiet, pre-dawn sky, the air cool and smelling faintly of wet pavement. Clouds hang low and unhurried, softening the streetlights and blurring edges, as if the town has been gently turned down to a murmur.\n\nCloser to sunrise a light rain is likely to pass through, then ease into a day of broken cloud and shy sun. Expect intervals of brightness rather than a bold blue canopy; the light will be silver and changeable. UV is negligible now but will climb quickly after breakfast in this spring stretch, likely high by late morning even with the clouds, so carry sunglasses and a dab of sunscreen if you linger outdoors. Dress in easy layers with a light waterproof and comfortable shoes that don\u2019t mind a sprinkle. It looks like a pleasant, tempered day once the showers move on\u2014good for a quiet coffee by the window while the rain taps, then a mid-morning stroll to the shops or a lazy browse at the market when the light softens. If you\u2019re staying in, open a window to the cool air and let the rooms breathe; if you\u2019re heading out, time errands between passing showers and save a longer walk for when the sky breaks open in patches.",
+    "color_code": "#3E5668",
+    "timestamp": "2026-10-10 02:37:47",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94970500950001,
-        "longitude": 115.8206469257768,
+        "latitude": -31.94970527986904,
+        "longitude": 115.8206468402425,
         "timezone": "Australia/Perth"
     }
 }
