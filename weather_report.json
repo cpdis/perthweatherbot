@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94970527986904,
-            "longitude": 115.8206468402425
+            "latitude": -31.94970584571431,
+            "longitude": 115.820615996347
         },
         "current_conditions": {
-            "timestamp": "2026-10-09T18:37:47+00:00",
-            "temperature_c": 15.12,
-            "temperature_f": 59.215999999999994,
-            "humidity": 84,
-            "wind_speed_mph": 4.60822,
-            "wind_direction": 260,
-            "description": "light rain"
+            "timestamp": "2026-10-10T04:06:03+00:00",
+            "temperature_c": 20.01,
+            "temperature_f": 68.018,
+            "humidity": 56,
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 270,
+            "description": "few clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-10-09T21:00:00+00:00",
-                "temperature": 15.28,
-                "windSpeed": 10.98367,
-                "windDirection": 230,
+                "startTime": "2026-10-10T06:00:00+00:00",
+                "temperature": 20.06,
+                "windSpeed": 11.185,
+                "windDirection": 243,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-10-10T00:00:00+00:00",
-                "temperature": 17.64,
-                "windSpeed": 10.424420000000001,
-                "windDirection": 263,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-10-10T09:00:00+00:00",
+                "temperature": 18.9,
+                "windSpeed": 13.198300000000001,
+                "windDirection": 234,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Subiaco dozes under a quiet, pre-dawn sky, the air cool and smelling faintly of wet pavement. Clouds hang low and unhurried, softening the streetlights and blurring edges, as if the town has been gently turned down to a murmur.\n\nCloser to sunrise a light rain is likely to pass through, then ease into a day of broken cloud and shy sun. Expect intervals of brightness rather than a bold blue canopy; the light will be silver and changeable. UV is negligible now but will climb quickly after breakfast in this spring stretch, likely high by late morning even with the clouds, so carry sunglasses and a dab of sunscreen if you linger outdoors. Dress in easy layers with a light waterproof and comfortable shoes that don\u2019t mind a sprinkle. It looks like a pleasant, tempered day once the showers move on\u2014good for a quiet coffee by the window while the rain taps, then a mid-morning stroll to the shops or a lazy browse at the market when the light softens. If you\u2019re staying in, open a window to the cool air and let the rooms breathe; if you\u2019re heading out, time errands between passing showers and save a longer walk for when the sky breaks open in patches.",
-    "color_code": "#3E5668",
-    "timestamp": "2026-10-10 02:37:47",
+    "weather_report": "Midday in Subiaco arrives under a soft, pewter sky, the kind that hushes the streets and makes colors look freshly washed. Light rain has been threading through the day, and more brief showers linger on the cards, keeping the sun largely behind a gauzy veil and the UV politely subdued. The air feels clean and a touch cool, visibility gently softened rather than obscured, with the glint of wet pavement hinting at passing clouds rather than a storm.\n\nIt\u2019s a day for a light waterproof, comfortable shoes, and a compact umbrella tucked in your bag; a brimmed hat can rest easy at home. Take the weather as a companion to unhurried errands, a lazy browse through a bookshop or market stall, or a midafternoon coffee by a window to watch the drizzle come and go. If the rain thins, a short, reflective walk fits the mood\u2014streets breathing quietly, leaves darkened and shining, the sky a calm slate that asks very little and gives you back a small, steady peace.",
+    "color_code": "#7B8B97",
+    "timestamp": "2026-10-10 12:06:04",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94970527986904,
-        "longitude": 115.8206468402425,
+        "latitude": -31.94970584571431,
+        "longitude": 115.820615996347,
         "timezone": "Australia/Perth"
     }
 }
