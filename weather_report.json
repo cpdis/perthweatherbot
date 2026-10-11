@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Burswood",
             "country": "AU",
-            "latitude": -31.94968580962785,
-            "longitude": 115.8208824882359
+            "latitude": -31.95032486388812,
+            "longitude": 115.8908936580148
         },
         "current_conditions": {
-            "timestamp": "2026-10-10T17:36:59+00:00",
-            "temperature_c": 14.31,
-            "temperature_f": 57.757999999999996,
-            "humidity": 80,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 170,
+            "timestamp": "2026-10-11T03:42:06+00:00",
+            "temperature_c": 17.81,
+            "temperature_f": 64.05799999999999,
+            "humidity": 50,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 150,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-10-10T18:00:00+00:00",
-                "temperature": 14.31,
-                "windSpeed": 13.578590000000002,
-                "windDirection": 200,
-                "shortForecast": "light rain"
+                "startTime": "2026-10-11T06:00:00+00:00",
+                "temperature": 18.64,
+                "windSpeed": 15.32345,
+                "windDirection": 217,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-10-10T21:00:00+00:00",
-                "temperature": 13.57,
-                "windSpeed": 13.489110000000002,
-                "windDirection": 164,
-                "shortForecast": "light rain"
+                "startTime": "2026-10-11T09:00:00+00:00",
+                "temperature": 17.43,
+                "windSpeed": 13.981250000000001,
+                "windDirection": 198,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Subiaco, at this soft in\u2011between hour, wears a low whispering sky; light rain is sliding across roofs now and again, with more showers drifting toward dawn. Moonlight is hidden, streetlights haloed in mist, and the night feels rinsed and cool. Sunshine will be scarce until well after first light, and any glimpse of it this morning looks brief; UV is negligible now and gentle at dawn, climbing only if the cloud thins later. The air is fresh and a touch metallic, edges blurred, voices of the street softened.\n\nIt\u2019s a gentle, damp start rather than a sparkling one. Dress for drizzle and a hint of chill: a light waterproof, closed shoes, sleeves you can roll if the day brightens, and an umbrella by the door. Roads will be slick, so unhurried is the right speed. This is weather for a calm cup of tea, an early chapter, tidying the week\u2019s loose ends, or a quiet gym visit if the showers ease. If the sun does poke through later, carry sunglasses and a hat; otherwise keep the day close to home, windows cracked to the smell of wet gardens.",
-    "color_code": "#2C3E50",
-    "timestamp": "2026-10-11 01:37:00",
+    "weather_report": "Late morning in Burswood arrives under a softened sky, the sun a shy rumor behind a lid of cloud. The light is matte and forgiving, distant lines of the city rubbed down to a quiet silhouette. Through the afternoon that canopy stays put, more grey than silver, and sunshine will be scarce. The UV should be muted by the overcast, though spring has a way of sneaking through\u2014if you plan to linger outside around midday, a light touch of sunscreen remains wise. Air and colors feel calm and low-contrast, the kind of day where reflections on the Swan look like brushed steel.\n\nIt\u2019s a pleasant, unhurried sort of grey. Dress in easy layers\u2014long sleeves or a light jacket\u2014and leave the heavy summer kit at home. Sunglasses are optional; a hat only if you\u2019re sensitive to the odd bright break. The weather favors simple errands and gentle circuits: a riverside stroll without glare, a late coffee with a notebook, a slow lap of the market, tidying the garden, or a meandering visit to the gallery where the cloud outside keeps the mind unruffled.",
+    "color_code": "#9AA3AB",
+    "timestamp": "2026-10-11 11:42:07",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968580962785,
-        "longitude": 115.8208824882359,
+        "name": "Burswood",
+        "latitude": -31.95032486388812,
+        "longitude": 115.8908936580148,
         "timezone": "Australia/Perth"
     }
 }
