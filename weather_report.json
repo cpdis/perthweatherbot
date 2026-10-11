@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Burswood",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95032486388812,
-            "longitude": 115.8908936580148
+            "latitude": -31.94968754617914,
+            "longitude": 115.8209179914158
         },
         "current_conditions": {
-            "timestamp": "2026-10-11T03:42:06+00:00",
-            "temperature_c": 17.81,
-            "temperature_f": 64.05799999999999,
-            "humidity": 50,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 150,
+            "timestamp": "2026-10-11T17:53:14+00:00",
+            "temperature_c": 11.96,
+            "temperature_f": 53.528000000000006,
+            "humidity": 60,
+            "wind_speed_mph": 23.018729999999998,
+            "wind_direction": 100,
             "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-10-11T06:00:00+00:00",
-                "temperature": 18.64,
-                "windSpeed": 15.32345,
-                "windDirection": 217,
+                "startTime": "2026-10-11T18:00:00+00:00",
+                "temperature": 11.96,
+                "windSpeed": 12.50483,
+                "windDirection": 116,
                 "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-10-11T09:00:00+00:00",
-                "temperature": 17.43,
-                "windSpeed": 13.981250000000001,
-                "windDirection": 198,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-10-11T21:00:00+00:00",
+                "temperature": 12.16,
+                "windSpeed": 12.929860000000001,
+                "windDirection": 104,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Late morning in Burswood arrives under a softened sky, the sun a shy rumor behind a lid of cloud. The light is matte and forgiving, distant lines of the city rubbed down to a quiet silhouette. Through the afternoon that canopy stays put, more grey than silver, and sunshine will be scarce. The UV should be muted by the overcast, though spring has a way of sneaking through\u2014if you plan to linger outside around midday, a light touch of sunscreen remains wise. Air and colors feel calm and low-contrast, the kind of day where reflections on the Swan look like brushed steel.\n\nIt\u2019s a pleasant, unhurried sort of grey. Dress in easy layers\u2014long sleeves or a light jacket\u2014and leave the heavy summer kit at home. Sunglasses are optional; a hat only if you\u2019re sensitive to the odd bright break. The weather favors simple errands and gentle circuits: a riverside stroll without glare, a late coffee with a notebook, a slow lap of the market, tidying the garden, or a meandering visit to the gallery where the cloud outside keeps the mind unruffled.",
-    "color_code": "#9AA3AB",
-    "timestamp": "2026-10-11 11:42:07",
+    "weather_report": "Subiaco slips through the small hours under a soft lid of cloud, the streetlights haloed and the night sounding hushed. It feels cool and settled, with no moonlit bite and no starlight, just a calm, even gray above. UV is effectively absent now, and the sky offers little in the way of sparkle; clarity is diffuse rather than crisp, like looking through frosted glass.\n\nToward dawn the blanket loosens into broken cloud, letting through shy, filtered light. Expect a gentle, matte morning rather than anything gleaming, with the sun hesitant at first and UV staying tame early; if the gaps widen later, brightness will build without turning harsh. It reads as a comfortable, unhurried start: a light layer or long sleeves will suit, maybe a thin jacket if you run cool. This is good weather for ordinary rituals done well\u2014a quiet walk before the traffic stirs, a ride to pick up bread, watering the plants, or setting up at a window with a notebook and a patient cup of coffee as the sky slowly shakes itself awake.",
+    "color_code": "#5D6D7E",
+    "timestamp": "2026-10-12 01:53:15",
     "location": {
-        "name": "Burswood",
-        "latitude": -31.95032486388812,
-        "longitude": 115.8908936580148,
+        "name": "Subiaco",
+        "latitude": -31.94968754617914,
+        "longitude": 115.8209179914158,
         "timezone": "Australia/Perth"
     }
 }
