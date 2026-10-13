@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Jolimont",
             "country": "AU",
-            "latitude": -31.94967529219188,
-            "longitude": 115.8207961474955
+            "latitude": -31.94712196666667,
+            "longitude": 115.81502935
         },
         "current_conditions": {
-            "timestamp": "2026-10-13T05:14:20+00:00",
-            "temperature_c": 26.03,
-            "temperature_f": 78.854,
-            "humidity": 30,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 70,
-            "description": "clear sky"
+            "timestamp": "2026-10-13T19:43:21+00:00",
+            "temperature_c": 18.92,
+            "temperature_f": 66.05600000000001,
+            "humidity": 41,
+            "wind_speed_mph": 14.965530000000001,
+            "wind_direction": 50,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-10-13T06:00:00+00:00",
-                "temperature": 26.03,
-                "windSpeed": 3.87001,
-                "windDirection": 88,
-                "shortForecast": "clear sky"
+                "startTime": "2026-10-13T21:00:00+00:00",
+                "temperature": 18.92,
+                "windSpeed": 19.305310000000002,
+                "windDirection": 61,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-10-13T09:00:00+00:00",
-                "temperature": 26.05,
-                "windSpeed": 7.449210000000001,
-                "windDirection": 156,
-                "shortForecast": "clear sky"
+                "startTime": "2026-10-14T00:00:00+00:00",
+                "temperature": 19.78,
+                "windSpeed": 20.78173,
+                "windDirection": 54,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Early afternoon in Subiaco feels newly polished: a clear, uncomplicated sky and unblinking light that sharpens edges and brightens colors. Forecasts keep it cloudless through the rest of the afternoon and into early evening, so expect a sunny, lucid day with long, clean sightlines. The sun will be assertive; UV is likely high in the mid-afternoon, so favor shade where you can and use sunscreen and sunglasses.\n\nIt reads as a pleasant, dry stretch for quiet errands and small rituals. Light, breathable clothing and a hat will suit the hour; bring water if you\u2019re on foot. Consider hanging the washing to catch the honest breeze, tending balcony herbs, or walking to the shops and taking the slower route home through a pocket of park, pausing in the dappled shade as the light begins to mellow.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-10-13 13:14:20",
+    "weather_report": "Jolimont wakes under a quiet quilt of cloud, the small hours washed in a soft, pewter glow. The air feels still and cool, with the kind of hush that makes footpaths sound farther away and the leaves seem reluctant to stir. Morning will keep that lid on the sky: overcast through the commute and beyond, light diffused and shadowless, the sun a rumor behind the grey. Expect little in the way of brightness; the UV index should stay low through the morning, perhaps nudging modest only if the cloud thins later. It\u2019s not harsh weather, just subdued\u2014gentle on the eyes, a touch dour on the mood.\n\nDress in easy layers: long sleeves or a light sweater, a windproof shell in your bag, and comfortable shoes for damp pavements. Sunglasses can rest today; a compact umbrella is optional insurance. These are hours made for unrushed errands and quiet rituals: a slow walk to the bakery, a tram ride with a book, a tidy-up by the window, or a meander through Fitzroy Gardens where the even light flatters photographs and thoughts alike. Let the grey set the tempo, and keep the day practical, unhurried, and dry.",
+    "color_code": "#6E7076",
+    "timestamp": "2026-10-14 03:43:21",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94967529219188,
-        "longitude": 115.8207961474955,
+        "name": "Jolimont",
+        "latitude": -31.94712196666667,
+        "longitude": 115.81502935,
         "timezone": "Australia/Perth"
     }
 }

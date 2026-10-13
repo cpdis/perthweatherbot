@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-10-06 12:36:52",
-    "location": {
-      "name": "South Perth",
-      "latitude": -31.98228408609667,
-      "longitude": 115.8499157492083,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-10-06T04:36:52+00:00",
-      "temperature_c": 25.71,
-      "temperature_f": 78.278,
-      "humidity": 48,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 250,
-      "description": "overcast clouds"
-    },
-    "report_summary": "South Perth drifts into early afternoon under a soft grey lid, the sun a shy rumor behind high, stub...",
-    "color_code": "#9FA6AD"
-  },
-  {
     "timestamp": "2026-10-07 02:44:35",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Early afternoon in Subiaco feels newly polished: a clear, uncomplicated sky and unblinking light tha...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-10-14 03:43:21",
+    "location": {
+      "name": "Jolimont",
+      "latitude": -31.94712196666667,
+      "longitude": 115.81502935,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-10-13T19:43:21+00:00",
+      "temperature_c": 18.92,
+      "temperature_f": 66.05600000000001,
+      "humidity": 41,
+      "wind_speed_mph": 14.965530000000001,
+      "wind_direction": 50,
+      "description": "overcast clouds"
+    },
+    "report_summary": "Jolimont wakes under a quiet quilt of cloud, the small hours washed in a soft, pewter glow. The air ...",
+    "color_code": "#6E7076"
   }
 ]
