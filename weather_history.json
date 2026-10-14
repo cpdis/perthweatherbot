@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-10-07 02:44:35",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969177724325,
-      "longitude": 115.8208970540476,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-10-06T18:44:35+00:00",
-      "temperature_c": 15.86,
-      "temperature_f": 60.548,
-      "humidity": 84,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 180,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco drifts through the small hours under a quiet, open sky, the kind of cool, inky predawn that ...",
-    "color_code": "#0D1B2A"
-  },
-  {
     "timestamp": "2026-10-07 12:02:44",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Jolimont wakes under a quiet quilt of cloud, the small hours washed in a soft, pewter glow. The air ...",
     "color_code": "#6E7076"
+  },
+  {
+    "timestamp": "2026-10-14 11:20:05",
+    "location": {
+      "name": "Herdsman",
+      "latitude": -31.92829325936853,
+      "longitude": 115.8099577170134,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-10-14T03:20:04+00:00",
+      "temperature_c": 27.73,
+      "temperature_f": 81.914,
+      "humidity": 29,
+      "wind_speed_mph": 20.71462,
+      "wind_direction": 30,
+      "description": "broken clouds"
+    },
+    "report_summary": "Late morning in Herdsman settles under a soft gray lid, the sun a shy companion hiding behind overca...",
+    "color_code": "#B8BDC7"
   }
 ]
