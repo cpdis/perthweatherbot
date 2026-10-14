@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Herdsman",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.92829325936853,
-            "longitude": 115.8099577170134
+            "latitude": -31.94971057421715,
+            "longitude": 115.8206516642581
         },
         "current_conditions": {
-            "timestamp": "2026-10-14T03:20:04+00:00",
-            "temperature_c": 27.73,
-            "temperature_f": 81.914,
-            "humidity": 29,
-            "wind_speed_mph": 20.71462,
-            "wind_direction": 30,
-            "description": "broken clouds"
+            "timestamp": "2026-10-14T17:45:41+00:00",
+            "temperature_c": 19.21,
+            "temperature_f": 66.578,
+            "humidity": 75,
+            "wind_speed_mph": 6.91233,
+            "wind_direction": 310,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-10-14T06:00:00+00:00",
-                "temperature": 28.29,
-                "windSpeed": 10.491530000000001,
-                "windDirection": 317,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-10-14T18:00:00+00:00",
+                "temperature": 19.21,
+                "windSpeed": 13.422,
+                "windDirection": 345,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-10-14T09:00:00+00:00",
-                "temperature": 24.64,
-                "windSpeed": 8.76904,
-                "windDirection": 279,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-10-14T21:00:00+00:00",
+                "temperature": 18.73,
+                "windSpeed": 16.17351,
+                "windDirection": 332,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Late morning in Herdsman settles under a soft gray lid, the sun a shy companion hiding behind overcast after brief, muddled breaks at dawn. The day looks calm and muted rather than bright; light is even, shadows are scarce, and distance appears clean but subdued. Expect the gray to linger with only tentative bright patches. Even so, around midday the UV can still sneak through the cloud with a quiet bite, so treat it with respect if you\u2019re out for a while.\n\nDress in light layers that breathe, a soft top or shirt with a light jacket in the bag, and consider sunscreen and a brim if you\u2019ll be walking through lunchtime. It\u2019s a good day for unhurried errands on foot, a window seat at a quiet cafe, or a slow loop around the wetlands where the softened light flatters birds and reeds. If indoors calls, drift through a gallery or tackle that tidy-up you\u2019ve been postponing; if outdoors, keep it gentle and let the gray sky set the tempo.",
-    "color_code": "#B8BDC7",
-    "timestamp": "2026-10-14 11:20:05",
+    "weather_report": "Subiaco settles into the small hours under a soft, steady patter, the streets varnished with rain and the air smelling faintly of eucalyptus and wet stone. Clouds sit low and sure, muting the world; clarity is gentle rather than sharp, edges blurred under the streetlights. There\u2019s no sun to speak of before dawn and the UV is essentially asleep with it, leaving the night calm, cool, and slightly melancholic in a comforting way.\n\nShowers are poised to linger toward dawn, with a grey morning likely and only shy hints of brightness if the cloud deck breaks later. Expect sunshine to be limited early; any UV lift will wait until the clouds thin, and even then it should stay on the modest side. Dress for damp: a light rain jacket, something breathable underneath, and shoes that won\u2019t mind puddles. At this hour, make the night useful and kind\u2014tidy the desk, cue tomorrow\u2019s playlist, write the note you\u2019ve been meaning to send. As morning comes, carry an umbrella on the tram, duck into the library when the rain gathers again, or stroll the neighborhood between showers, window-shopping and letting the day announce its plans at its own unhurried pace.",
+    "color_code": "#2C3E50",
+    "timestamp": "2026-10-15 01:45:42",
     "location": {
-        "name": "Herdsman",
-        "latitude": -31.92829325936853,
-        "longitude": 115.8099577170134,
+        "name": "Subiaco",
+        "latitude": -31.94971057421715,
+        "longitude": 115.8206516642581,
         "timezone": "Australia/Perth"
     }
 }
