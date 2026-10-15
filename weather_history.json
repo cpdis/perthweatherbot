@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2026-10-08 03:10:58",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970523536344,
-      "longitude": 115.8206460705485,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-10-07T19:10:58+00:00",
-      "temperature_c": 17.47,
-      "temperature_f": 63.446,
-      "humidity": 77,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 310,
-      "description": "broken clouds"
-    },
-    "report_summary": "Subiaco wakes to a quiet, damp hush; a soft belt of cloud keeps the stars at bay and the streets hol...",
-    "color_code": "#687A8B"
-  },
-  {
-    "timestamp": "2026-10-08 12:15:25",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95419077860832,
-      "longitude": 115.8526314375666,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-10-08T04:14:24+00:00",
-      "temperature_c": 17.5,
-      "temperature_f": 63.5,
-      "humidity": 57,
-      "wind_speed_mph": 21.85549,
-      "wind_direction": 270,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Perth drifts through early afternoon under a thick, pewter sky; the sun is mostly a rumor behind the...",
-    "color_code": "#8A94A2"
-  },
-  {
     "timestamp": "2026-10-09 03:07:13",
     "location": {
       "name": "West Perth",
@@ -318,5 +278,25 @@
     },
     "report_summary": "Late morning in Subiaco wears a soft, silvery light: a brief, light shower slipping through now, the...",
     "color_code": "#8EA3B5"
+  },
+  {
+    "timestamp": "2026-10-16 01:33:57",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94971001525434,
+      "longitude": 115.8206485304989,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-10-15T17:33:56+00:00",
+      "temperature_c": 13.35,
+      "temperature_f": 56.03,
+      "humidity": 79,
+      "wind_speed_mph": 0.0,
+      "wind_direction": 0,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Subiaco dozes under a deep, inky sky, the air cool and clean, with scattered clouds drifting like sl...",
+    "color_code": "#0D1B2A"
   }
 ]
