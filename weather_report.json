@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94971057421715,
-            "longitude": 115.8206516642581
+            "latitude": -31.94968267452388,
+            "longitude": 115.8207886995373
         },
         "current_conditions": {
-            "timestamp": "2026-10-14T17:45:41+00:00",
-            "temperature_c": 19.21,
-            "temperature_f": 66.578,
-            "humidity": 75,
-            "wind_speed_mph": 6.91233,
-            "wind_direction": 310,
-            "description": "overcast clouds"
+            "timestamp": "2026-10-15T02:58:47+00:00",
+            "temperature_c": 18.37,
+            "temperature_f": 65.066,
+            "humidity": 86,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 230,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-10-14T18:00:00+00:00",
-                "temperature": 19.21,
-                "windSpeed": 13.422,
-                "windDirection": 345,
+                "startTime": "2026-10-15T03:00:00+00:00",
+                "temperature": 18.37,
+                "windSpeed": 11.58766,
+                "windDirection": 223,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-10-14T21:00:00+00:00",
-                "temperature": 18.73,
-                "windSpeed": 16.17351,
-                "windDirection": 332,
-                "shortForecast": "light rain"
+                "startTime": "2026-10-15T06:00:00+00:00",
+                "temperature": 19.13,
+                "windSpeed": 11.76662,
+                "windDirection": 243,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco settles into the small hours under a soft, steady patter, the streets varnished with rain and the air smelling faintly of eucalyptus and wet stone. Clouds sit low and sure, muting the world; clarity is gentle rather than sharp, edges blurred under the streetlights. There\u2019s no sun to speak of before dawn and the UV is essentially asleep with it, leaving the night calm, cool, and slightly melancholic in a comforting way.\n\nShowers are poised to linger toward dawn, with a grey morning likely and only shy hints of brightness if the cloud deck breaks later. Expect sunshine to be limited early; any UV lift will wait until the clouds thin, and even then it should stay on the modest side. Dress for damp: a light rain jacket, something breathable underneath, and shoes that won\u2019t mind puddles. At this hour, make the night useful and kind\u2014tidy the desk, cue tomorrow\u2019s playlist, write the note you\u2019ve been meaning to send. As morning comes, carry an umbrella on the tram, duck into the library when the rain gathers again, or stroll the neighborhood between showers, window-shopping and letting the day announce its plans at its own unhurried pace.",
-    "color_code": "#2C3E50",
-    "timestamp": "2026-10-15 01:45:42",
+    "weather_report": "Late morning in Subiaco wears a soft, silvery light: a brief, light shower slipping through now, the sky quilted and restless. By midafternoon the ceiling should break into patchy cloud, letting thin shafts of sun roam the pavement. The air feels rinsed and calm, clarity good but edges a little softened by moisture. Even with the veiled sun, the spring UV index is likely moderate to high around lunch, so a touch of sunscreen and sunglasses won\u2019t be wasted.\n\nToday asks for practical grace: a light waterproof or compact umbrella, breathable layers, and shoes that don\u2019t mind a damp footpath. It\u2019s a quietly pleasant day between interruptions, the sort that suits a late coffee and a slow drift past the shops, a quick visit to the library, or a short stroll when the shower passes. If you\u2019re nesting, crack a window for the clean breeze and tend to small, useful things; if you\u2019re heading out later, aim for the brighter spells after midday.",
+    "color_code": "#8EA3B5",
+    "timestamp": "2026-10-15 10:58:47",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94971057421715,
-        "longitude": 115.8206516642581,
+        "latitude": -31.94968267452388,
+        "longitude": 115.8207886995373,
         "timezone": "Australia/Perth"
     }
 }
