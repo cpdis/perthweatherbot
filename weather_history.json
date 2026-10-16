@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2026-10-09 03:07:13",
-    "location": {
-      "name": "West Perth",
-      "latitude": -31.94510888296362,
-      "longitude": 115.8459428819475,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-10-08T19:07:11+00:00",
-      "temperature_c": 14.42,
-      "temperature_f": 57.956,
-      "humidity": 76,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 240,
-      "description": "overcast clouds"
-    },
-    "report_summary": "West Perth dozes under a charcoal sky, the air cool and faintly metallic, as if the night has been r...",
-    "color_code": "#3f5563"
-  },
-  {
-    "timestamp": "2026-10-09 12:20:43",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970500950001,
-      "longitude": 115.8206469257768,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-10-09T04:20:43+00:00",
-      "temperature_c": 18.02,
-      "temperature_f": 64.436,
-      "humidity": 67,
-      "wind_speed_mph": 18.410510000000002,
-      "wind_direction": 260,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Subiaco eases into early afternoon under a quilt of thickening cloud, the sun reduced to a pale coin...",
-    "color_code": "#708090"
-  },
-  {
     "timestamp": "2026-10-10 02:37:47",
     "location": {
       "name": "Subiaco",
@@ -318,5 +278,25 @@
     },
     "report_summary": "Late morning in Cottesloe arrives under a polished blue sky, the kind of crystalline light that make...",
     "color_code": "#87CEFA"
+  },
+  {
+    "timestamp": "2026-10-17 01:08:53",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94998028868817,
+      "longitude": 115.8205806779983,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-10-16T17:08:53+00:00",
+      "temperature_c": 14.01,
+      "temperature_f": 57.218,
+      "humidity": 81,
+      "wind_speed_mph": 3.93712,
+      "wind_direction": 237,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco is hushed and glass-clear just after midnight, with the sky staying open and starry toward d...",
+    "color_code": "#0B1E3A"
   }
 ]

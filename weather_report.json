@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Cottesloe",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.99608111666667,
-            "longitude": 115.7526344833333
+            "latitude": -31.94998028868817,
+            "longitude": 115.8205806779983
         },
         "current_conditions": {
-            "timestamp": "2026-10-16T02:56:12+00:00",
-            "temperature_c": 20.53,
-            "temperature_f": 68.95400000000001,
-            "humidity": 59,
-            "wind_speed_mph": 8.99274,
-            "wind_direction": 331,
+            "timestamp": "2026-10-16T17:08:53+00:00",
+            "temperature_c": 14.01,
+            "temperature_f": 57.218,
+            "humidity": 81,
+            "wind_speed_mph": 3.93712,
+            "wind_direction": 237,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-10-16T03:00:00+00:00",
-                "temperature": 20.53,
-                "windSpeed": 8.61245,
-                "windDirection": 289,
+                "startTime": "2026-10-16T18:00:00+00:00",
+                "temperature": 14.01,
+                "windSpeed": 2.79625,
+                "windDirection": 239,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-10-16T06:00:00+00:00",
-                "temperature": 19.89,
-                "windSpeed": 10.91656,
-                "windDirection": 270,
+                "startTime": "2026-10-16T21:00:00+00:00",
+                "temperature": 13.77,
+                "windSpeed": 1.7896,
+                "windDirection": 32,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Late morning in Cottesloe arrives under a polished blue sky, the kind of crystalline light that makes colors ring. The forecast is spare and reassuring: clear now and through the early afternoon, with dry, buoyant air and knife\u2011sharp shadows. The day feels clean and sunlit, the ocean likely to glitter like cut glass. Expect the UV to swell toward midday; even with a whisper of sea breeze, it will be deceptively strong, so shade will be your ally when the sun stands high.\n\nDress for easy warmth: breathable layers, a brimmed hat, good sunglasses, and sunscreen you actually reapply. Comfortable sandals or trainers will serve you well. It\u2019s a fine window for ordinary pleasures\u2014hang a load of washing to dry, cycle an errand, sit with a coffee and a book in a patch of dappled shade, or take a gentle stroll along the foreshore before the afternoon glare fully takes hold. Save the longer garden jobs for later when the light softens and the air loosens its grip.",
-    "color_code": "#87CEFA",
-    "timestamp": "2026-10-16 10:56:13",
+    "weather_report": "Subiaco is hushed and glass-clear just after midnight, with the sky staying open and starry toward dawn. The air feels clean on the skin, the sort of cool that makes footsteps sound crisper and coffee smell braver. With no cloud in sight, morning should arrive bright and unencumbered; expect a sun-forward day where light is sharp, shadows tidy, and the UV climbs quickly after breakfast, likely reaching the kind of levels that ask for sunscreen, a brimmed hat, and good sunglasses.\n\nIt looks like a pleasant one, beginning brisk and gentle, then warming into simple, reliable sunshine. Dress in light layers you can shed by late morning; breathable fabrics will serve you well, with a cardigan for the early hours. Before sunrise, a quiet loop around the block or a tidy-up of the balcony suits the mood; at first light, fetch bread from the corner and let the day open at its own pace. As the sun strengthens, move your plans to the shade: read on the verandah, hang the washing to take the clean air, or cycle small errands while the streets are still yawning.",
+    "color_code": "#0B1E3A",
+    "timestamp": "2026-10-17 01:08:53",
     "location": {
-        "name": "Cottesloe",
-        "latitude": -31.99608111666667,
-        "longitude": 115.7526344833333,
+        "name": "Subiaco",
+        "latitude": -31.94998028868817,
+        "longitude": 115.8205806779983,
         "timezone": "Australia/Perth"
     }
 }
