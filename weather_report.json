@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Cottesloe",
             "country": "AU",
-            "latitude": -31.94971001525434,
-            "longitude": 115.8206485304989
+            "latitude": -31.99608111666667,
+            "longitude": 115.7526344833333
         },
         "current_conditions": {
-            "timestamp": "2026-10-15T17:33:56+00:00",
-            "temperature_c": 13.35,
-            "temperature_f": 56.03,
-            "humidity": 79,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "scattered clouds"
+            "timestamp": "2026-10-16T02:56:12+00:00",
+            "temperature_c": 20.53,
+            "temperature_f": 68.95400000000001,
+            "humidity": 59,
+            "wind_speed_mph": 8.99274,
+            "wind_direction": 331,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-10-15T18:00:00+00:00",
-                "temperature": 13.35,
-                "windSpeed": 1.92382,
-                "windDirection": 208,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-10-16T03:00:00+00:00",
+                "temperature": 20.53,
+                "windSpeed": 8.61245,
+                "windDirection": 289,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-10-15T21:00:00+00:00",
-                "temperature": 13.86,
-                "windSpeed": 2.93047,
-                "windDirection": 43,
-                "shortForecast": "few clouds"
+                "startTime": "2026-10-16T06:00:00+00:00",
+                "temperature": 19.89,
+                "windSpeed": 10.91656,
+                "windDirection": 270,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco dozes under a deep, inky sky, the air cool and clean, with scattered clouds drifting like slow thoughts before thinning toward dawn. Stars peek through the gaps; streetlights do the rest. It isn\u2019t sunny yet, and the UV is essentially asleep, but the horizon will start to pale soon, promising a clearer morning with only a few clouds to add texture rather than trouble. Expect good visibility as the light comes on, the kind of clarity that makes rooftops look freshly drawn.\n\nDress in light layers for the early chill, then be ready to shed to short sleeves once the sun takes the stage; the UV will climb quickly after sunrise, so pocket sunglasses and a dab of sunscreen for later. It looks like a pleasant start: a gentle breeze, a sky tending toward blue, and an easy confidence in the air. Consider a quiet pre-dawn stretch or a slow walk to greet first light, water the garden while it\u2019s still tender and cool, then wander for coffee when the shops open. Run simple errands mid-morning, or cycle lazy side streets and let the day open at its own pace.",
-    "color_code": "#0D1B2A",
-    "timestamp": "2026-10-16 01:33:57",
+    "weather_report": "Late morning in Cottesloe arrives under a polished blue sky, the kind of crystalline light that makes colors ring. The forecast is spare and reassuring: clear now and through the early afternoon, with dry, buoyant air and knife\u2011sharp shadows. The day feels clean and sunlit, the ocean likely to glitter like cut glass. Expect the UV to swell toward midday; even with a whisper of sea breeze, it will be deceptively strong, so shade will be your ally when the sun stands high.\n\nDress for easy warmth: breathable layers, a brimmed hat, good sunglasses, and sunscreen you actually reapply. Comfortable sandals or trainers will serve you well. It\u2019s a fine window for ordinary pleasures\u2014hang a load of washing to dry, cycle an errand, sit with a coffee and a book in a patch of dappled shade, or take a gentle stroll along the foreshore before the afternoon glare fully takes hold. Save the longer garden jobs for later when the light softens and the air loosens its grip.",
+    "color_code": "#87CEFA",
+    "timestamp": "2026-10-16 10:56:13",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94971001525434,
-        "longitude": 115.8206485304989,
+        "name": "Cottesloe",
+        "latitude": -31.99608111666667,
+        "longitude": 115.7526344833333,
         "timezone": "Australia/Perth"
     }
 }
