@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94967635346734,
-            "longitude": 115.8208034081041
+            "latitude": -31.94968673666897,
+            "longitude": 115.8207846540971
         },
         "current_conditions": {
-            "timestamp": "2026-10-17T02:47:24+00:00",
-            "temperature_c": 21.49,
-            "temperature_f": 70.682,
-            "humidity": 54,
+            "timestamp": "2026-10-17T15:59:06+00:00",
+            "temperature_c": 18.07,
+            "temperature_f": 64.526,
+            "humidity": 83,
             "wind_speed_mph": 5.74909,
             "wind_direction": 340,
-            "description": "few clouds"
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-10-17T03:00:00+00:00",
-                "temperature": 21.49,
-                "windSpeed": 9.21644,
-                "windDirection": 287,
-                "shortForecast": "few clouds"
+                "startTime": "2026-10-17T18:00:00+00:00",
+                "temperature": 17.19,
+                "windSpeed": 10.223090000000001,
+                "windDirection": 317,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-10-17T06:00:00+00:00",
-                "temperature": 21.99,
-                "windSpeed": 11.252110000000002,
-                "windDirection": 281,
-                "shortForecast": "few clouds"
+                "startTime": "2026-10-17T21:00:00+00:00",
+                "temperature": 16.47,
+                "windSpeed": 14.629980000000002,
+                "windDirection": 242,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Subiaco steps into late morning under a polished spring sky, the sun taking the lead with only a few soft clouds for company. The air feels clean and crystalline, colors a touch brighter than usual, and the light has that persuasive October bite; expect the UV to run strong through midday and early afternoon despite the gentle look of the sky. It\u2019s a day that reads as mostly sunny and clear, the sort that brings a quiet lift to the streets and makes shadows feel welcome.\n\nDress light and breathable, with sunglasses, a brimmed hat, and sunscreen as non-negotiables; a loose layer for shaded corners won\u2019t go amiss. Consider errands on foot, a lazy circuit to a caf\u00e9, or hanging the wash where the sun can do its honest work. A short bike ride, a pause with a book in a patch of dappled shade, or a tidy in the garden are all well suited, so long as you slip into the shade when the sun stands highest.",
-    "color_code": "#87CEFA",
-    "timestamp": "2026-10-17 10:47:24",
+    "weather_report": "Subiaco settles into a soft, grey hush after midnight, the air damp and clean as light showers loiter on the horizon. Clouds are thick enough to smother any starlight; visibility is fine for the street, but the distance feels smudged at the edges. It won\u2019t be sunny for a while yet, and the UV index is negligible now. The mood is calm rather than cold, the sort of night that makes the pavement shine and the garden breathe.\n\nToward the small hours, passing rain should brush through and linger into early morning, leaving a mostly overcast start with only shy, filtered light. If the cloud thins later, expect a brief, milky brightness and a UV index that rises quickly for spring; otherwise it stays subdued and gentle. Dress for damp comfort: a light waterproof, breathable layers, shoes that don\u2019t mind puddles, and a compact umbrella; slip in sunscreen just in case the lid lifts at midday. It\u2019s a good time to wind down a chore, set tomorrow\u2019s coffee to grind, or let the rain score your sleep. After dawn, keep plans close to cover: a quick train to tick off errands, a quiet library return, or a window seat and a simple breakfast while showers pass. Not dazzling, but pleasantly unhurried if you lean into the grey.",
+    "color_code": "#4b5d6b",
+    "timestamp": "2026-10-18 00:06:18",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94967635346734,
-        "longitude": 115.8208034081041,
+        "latitude": -31.94968673666897,
+        "longitude": 115.8207846540971,
         "timezone": "Australia/Perth"
     }
 }
