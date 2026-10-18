@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-10-11 01:37:00",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968580962785,
-      "longitude": 115.8208824882359,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-10-10T17:36:59+00:00",
-      "temperature_c": 14.31,
-      "temperature_f": 57.757999999999996,
-      "humidity": 80,
-      "wind_speed_mph": 5.74909,
-      "wind_direction": 170,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Subiaco, at this soft in\u2011between hour, wears a low whispering sky; light rain is sliding across roof...",
-    "color_code": "#2C3E50"
-  },
-  {
     "timestamp": "2026-10-11 11:42:07",
     "location": {
       "name": "Burswood",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco settles into a soft, grey hush after midnight, the air damp and clean as light showers loite...",
     "color_code": "#4b5d6b"
+  },
+  {
+    "timestamp": "2026-10-18 10:49:07",
+    "location": {
+      "name": "Scarborough",
+      "latitude": -31.89020980403184,
+      "longitude": 115.7558636281777,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-10-18T02:49:06+00:00",
+      "temperature_c": 18.79,
+      "temperature_f": 65.822,
+      "humidity": 57,
+      "wind_speed_mph": 11.99032,
+      "wind_direction": 360,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Scarborough wakes under scattered cloud, the sun shouldering through in soft intervals, turning the ...",
+    "color_code": "#B0C4DE"
   }
 ]

@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Scarborough",
             "country": "AU",
-            "latitude": -31.94968673666897,
-            "longitude": 115.8207846540971
+            "latitude": -31.89020980403184,
+            "longitude": 115.7558636281777
         },
         "current_conditions": {
-            "timestamp": "2026-10-17T15:59:06+00:00",
-            "temperature_c": 18.07,
-            "temperature_f": 64.526,
-            "humidity": 83,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 340,
-            "description": "clear sky"
+            "timestamp": "2026-10-18T02:49:06+00:00",
+            "temperature_c": 18.79,
+            "temperature_f": 65.822,
+            "humidity": 57,
+            "wind_speed_mph": 11.99032,
+            "wind_direction": 360,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-10-17T18:00:00+00:00",
-                "temperature": 17.19,
-                "windSpeed": 10.223090000000001,
-                "windDirection": 317,
-                "shortForecast": "light rain"
+                "startTime": "2026-10-18T03:00:00+00:00",
+                "temperature": 18.79,
+                "windSpeed": 17.78415,
+                "windDirection": 254,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2026-10-17T21:00:00+00:00",
-                "temperature": 16.47,
-                "windSpeed": 14.629980000000002,
-                "windDirection": 242,
-                "shortForecast": "light rain"
+                "startTime": "2026-10-18T06:00:00+00:00",
+                "temperature": 18.93,
+                "windSpeed": 15.949810000000001,
+                "windDirection": 251,
+                "shortForecast": "scattered clouds"
             }
         ]
     },
-    "weather_report": "Subiaco settles into a soft, grey hush after midnight, the air damp and clean as light showers loiter on the horizon. Clouds are thick enough to smother any starlight; visibility is fine for the street, but the distance feels smudged at the edges. It won\u2019t be sunny for a while yet, and the UV index is negligible now. The mood is calm rather than cold, the sort of night that makes the pavement shine and the garden breathe.\n\nToward the small hours, passing rain should brush through and linger into early morning, leaving a mostly overcast start with only shy, filtered light. If the cloud thins later, expect a brief, milky brightness and a UV index that rises quickly for spring; otherwise it stays subdued and gentle. Dress for damp comfort: a light waterproof, breathable layers, shoes that don\u2019t mind puddles, and a compact umbrella; slip in sunscreen just in case the lid lifts at midday. It\u2019s a good time to wind down a chore, set tomorrow\u2019s coffee to grind, or let the rain score your sleep. After dawn, keep plans close to cover: a quick train to tick off errands, a quiet library return, or a window seat and a simple breakfast while showers pass. Not dazzling, but pleasantly unhurried if you lean into the grey.",
-    "color_code": "#4b5d6b",
-    "timestamp": "2026-10-18 00:06:18",
+    "weather_report": "Scarborough wakes under scattered cloud, the sun shouldering through in soft intervals, turning the sea a tempered silver. Late morning looks largely bright with passing patches of shade, the air with that clean October clarity that lets the headland stand crisply against the horizon. UV stays gentle today, low even toward midday; the light is kind, though a moment of sun on the cheeks might still feel honest and warm.\n\nExpect a dry, partly sunny day with clouds meandering but rarely overstaying. It feels pleasant in a quiet, practical way: cool enough for layers, best met with a long-sleeve shirt and a light jacket, maybe a scarf tucked in a pocket, sunglasses if you\u2019re sensitive to glare. It\u2019s the sort of weather for walking your errands instead of driving, for a calm amble to the bakery, a slow browse at the bookshop window, or a bench-side pause to let the tide write its patient letters on the sand. If you\u2019re at home, open a window, let the bright air through, and sort a small task you\u2019ve been ignoring; the day rewards unhurried intention.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-10-18 10:49:07",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968673666897,
-        "longitude": 115.8207846540971,
+        "name": "Scarborough",
+        "latitude": -31.89020980403184,
+        "longitude": 115.7558636281777,
         "timezone": "Australia/Perth"
     }
 }
