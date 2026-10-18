@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-10-11 11:42:07",
-    "location": {
-      "name": "Burswood",
-      "latitude": -31.95032486388812,
-      "longitude": 115.8908936580148,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-10-11T03:42:06+00:00",
-      "temperature_c": 17.81,
-      "temperature_f": 64.05799999999999,
-      "humidity": 50,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 150,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Late morning in Burswood arrives under a softened sky, the sun a shy rumor behind a lid of cloud. Th...",
-    "color_code": "#9AA3AB"
-  },
-  {
     "timestamp": "2026-10-12 01:53:15",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Scarborough wakes under scattered cloud, the sun shouldering through in soft intervals, turning the ...",
     "color_code": "#B0C4DE"
+  },
+  {
+    "timestamp": "2026-10-19 00:19:20",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968304770484,
+      "longitude": 115.8207767466777,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-10-18T16:19:20+00:00",
+      "temperature_c": 14.26,
+      "temperature_f": 57.668,
+      "humidity": 84,
+      "wind_speed_mph": 0.0,
+      "wind_direction": 0,
+      "description": "broken clouds"
+    },
+    "report_summary": "Midnight in Subiaco settles under a soft, unbroken lid of cloud, the moon swallowed, the streets a h...",
+    "color_code": "#2F3A4A"
   }
 ]

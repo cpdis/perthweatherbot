@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Scarborough",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.89020980403184,
-            "longitude": 115.7558636281777
+            "latitude": -31.94968304770484,
+            "longitude": 115.8207767466777
         },
         "current_conditions": {
-            "timestamp": "2026-10-18T02:49:06+00:00",
-            "temperature_c": 18.79,
-            "temperature_f": 65.822,
-            "humidity": 57,
-            "wind_speed_mph": 11.99032,
-            "wind_direction": 360,
-            "description": "scattered clouds"
+            "timestamp": "2026-10-18T16:19:20+00:00",
+            "temperature_c": 14.26,
+            "temperature_f": 57.668,
+            "humidity": 84,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-10-18T03:00:00+00:00",
-                "temperature": 18.79,
-                "windSpeed": 17.78415,
-                "windDirection": 254,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-10-18T18:00:00+00:00",
+                "temperature": 14.63,
+                "windSpeed": 7.538690000000001,
+                "windDirection": 169,
+                "shortForecast": "overcast clouds"
             },
             {
-                "startTime": "2026-10-18T06:00:00+00:00",
-                "temperature": 18.93,
-                "windSpeed": 15.949810000000001,
-                "windDirection": 251,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-10-18T21:00:00+00:00",
+                "temperature": 14.03,
+                "windSpeed": 4.94377,
+                "windDirection": 137,
+                "shortForecast": "overcast clouds"
             }
         ]
     },
-    "weather_report": "Scarborough wakes under scattered cloud, the sun shouldering through in soft intervals, turning the sea a tempered silver. Late morning looks largely bright with passing patches of shade, the air with that clean October clarity that lets the headland stand crisply against the horizon. UV stays gentle today, low even toward midday; the light is kind, though a moment of sun on the cheeks might still feel honest and warm.\n\nExpect a dry, partly sunny day with clouds meandering but rarely overstaying. It feels pleasant in a quiet, practical way: cool enough for layers, best met with a long-sleeve shirt and a light jacket, maybe a scarf tucked in a pocket, sunglasses if you\u2019re sensitive to glare. It\u2019s the sort of weather for walking your errands instead of driving, for a calm amble to the bakery, a slow browse at the bookshop window, or a bench-side pause to let the tide write its patient letters on the sand. If you\u2019re at home, open a window, let the bright air through, and sort a small task you\u2019ve been ignoring; the day rewards unhurried intention.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-10-18 10:49:07",
+    "weather_report": "Midnight in Subiaco settles under a soft, unbroken lid of cloud, the moon swallowed, the streets a hush of dim pewter. The air feels calm and slightly cool, with visibility fine but the light distinctly flat, the sort that quiets corners and slows thoughts. Through the dawn hours the overcast looks stubborn, so sunrise may arrive as a gradual brightening rather than a spectacle. Sunshine will be scarce at first and the UV negligible before morning, likely muted while the cloud holds; only if the blanket thins later will it rise to something you\u2019ll notice.\n\nExpect a grey-leaning morning that favors unhurried routines. A light jacket or soft sweater will do, perhaps a scarf if you run cool, and shoes made for dry pavements. It\u2019s a good time for a quiet walk to the bakery, a tidy of the desk before the day begins, or a steady lap around the oval with a podcast in your ear. If the sky does relent later, let that be a small surprise rather than a plan.",
+    "color_code": "#2F3A4A",
+    "timestamp": "2026-10-19 00:19:20",
     "location": {
-        "name": "Scarborough",
-        "latitude": -31.89020980403184,
-        "longitude": 115.7558636281777,
+        "name": "Subiaco",
+        "latitude": -31.94968304770484,
+        "longitude": 115.8207767466777,
         "timezone": "Australia/Perth"
     }
 }
