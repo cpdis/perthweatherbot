@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-10-12 01:53:15",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968754617914,
-      "longitude": 115.8209179914158,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-10-11T17:53:14+00:00",
-      "temperature_c": 11.96,
-      "temperature_f": 53.528000000000006,
-      "humidity": 60,
-      "wind_speed_mph": 23.018729999999998,
-      "wind_direction": 100,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Subiaco slips through the small hours under a soft lid of cloud, the streetlights haloed and the nig...",
-    "color_code": "#5D6D7E"
-  },
-  {
     "timestamp": "2026-10-12 12:05:14",
     "location": {
       "name": "Perth",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Midnight in Subiaco settles under a soft, unbroken lid of cloud, the moon swallowed, the streets a h...",
     "color_code": "#2F3A4A"
+  },
+  {
+    "timestamp": "2026-10-19 11:02:14",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968276592049,
+      "longitude": 115.820774962982,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-10-19T03:00:56+00:00",
+      "temperature_c": 20.18,
+      "temperature_f": 68.324,
+      "humidity": 47,
+      "wind_speed_mph": 8.0532,
+      "wind_direction": 170,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Subiaco wakes under a broken patchwork of cloud, the sun slipping in and out like a shy actor duckin...",
+    "color_code": "#b9c7d6"
   }
 ]

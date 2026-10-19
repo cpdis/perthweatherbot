@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94968304770484,
-            "longitude": 115.8207767466777
+            "latitude": -31.94968276592049,
+            "longitude": 115.820774962982
         },
         "current_conditions": {
-            "timestamp": "2026-10-18T16:19:20+00:00",
-            "temperature_c": 14.26,
-            "temperature_f": 57.668,
-            "humidity": 84,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "broken clouds"
+            "timestamp": "2026-10-19T03:00:56+00:00",
+            "temperature_c": 20.18,
+            "temperature_f": 68.324,
+            "humidity": 47,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 170,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-10-18T18:00:00+00:00",
-                "temperature": 14.63,
-                "windSpeed": 7.538690000000001,
-                "windDirection": 169,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-10-19T06:00:00+00:00",
+                "temperature": 21.69,
+                "windSpeed": 11.744250000000001,
+                "windDirection": 239,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2026-10-18T21:00:00+00:00",
-                "temperature": 14.03,
-                "windSpeed": 4.94377,
-                "windDirection": 137,
-                "shortForecast": "overcast clouds"
+                "startTime": "2026-10-19T09:00:00+00:00",
+                "temperature": 20.33,
+                "windSpeed": 12.191650000000001,
+                "windDirection": 209,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Midnight in Subiaco settles under a soft, unbroken lid of cloud, the moon swallowed, the streets a hush of dim pewter. The air feels calm and slightly cool, with visibility fine but the light distinctly flat, the sort that quiets corners and slows thoughts. Through the dawn hours the overcast looks stubborn, so sunrise may arrive as a gradual brightening rather than a spectacle. Sunshine will be scarce at first and the UV negligible before morning, likely muted while the cloud holds; only if the blanket thins later will it rise to something you\u2019ll notice.\n\nExpect a grey-leaning morning that favors unhurried routines. A light jacket or soft sweater will do, perhaps a scarf if you run cool, and shoes made for dry pavements. It\u2019s a good time for a quiet walk to the bakery, a tidy of the desk before the day begins, or a steady lap around the oval with a podcast in your ear. If the sky does relent later, let that be a small surprise rather than a plan.",
-    "color_code": "#2F3A4A",
-    "timestamp": "2026-10-19 00:19:20",
+    "weather_report": "Subiaco wakes under a broken patchwork of cloud, the sun slipping in and out like a shy actor ducking behind the curtain. Light is gentle but alive; when the sun breaks through, it has a modest October bite, enough to nudge the UV into the \u201ctake care for a moment\u201d range before softening again. The air feels clean and the day looks honest, with good visibility and a pearly sheen to the streets rather than a glare.\n\nExpect the afternoon to wander between bright intervals and thicker cloud, more silvery than stormy. Dress in easy layers\u2014a light shirt and cardigan, maybe a scarf for the stray breeze\u2014and keep sunglasses and a dab of sunscreen at hand for those brighter spells. It\u2019s a day for small, ordinary pleasures: a slow walk to pick up bread, a quick loop through the market, hanging fresh laundry where the sun can find it, or settling by a window to read while the light keeps changing. Later on, a quiet errand or a brief visit to a gallery suits the mood before the sky leans toward evening.",
+    "color_code": "#b9c7d6",
+    "timestamp": "2026-10-19 11:02:14",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94968304770484,
-        "longitude": 115.8207767466777,
+        "latitude": -31.94968276592049,
+        "longitude": 115.820774962982,
         "timezone": "Australia/Perth"
     }
 }
