@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94968276592049,
-            "longitude": 115.820774962982
+            "latitude": -31.95332170370238,
+            "longitude": 115.852062506897
         },
         "current_conditions": {
-            "timestamp": "2026-10-19T03:00:56+00:00",
-            "temperature_c": 20.18,
-            "temperature_f": 68.324,
-            "humidity": 47,
-            "wind_speed_mph": 8.0532,
-            "wind_direction": 170,
-            "description": "scattered clouds"
+            "timestamp": "2026-10-19T18:57:21+00:00",
+            "temperature_c": 12.09,
+            "temperature_f": 53.762,
+            "humidity": 78,
+            "wind_speed_mph": 4.138450000000001,
+            "wind_direction": 165,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-10-19T06:00:00+00:00",
-                "temperature": 21.69,
-                "windSpeed": 11.744250000000001,
-                "windDirection": 239,
+                "startTime": "2026-10-19T21:00:00+00:00",
+                "temperature": 12.21,
+                "windSpeed": 2.97521,
+                "windDirection": 170,
                 "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2026-10-19T09:00:00+00:00",
-                "temperature": 20.33,
-                "windSpeed": 12.191650000000001,
-                "windDirection": 209,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-10-20T00:00:00+00:00",
+                "temperature": 16.51,
+                "windSpeed": 3.8029,
+                "windDirection": 241,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Subiaco wakes under a broken patchwork of cloud, the sun slipping in and out like a shy actor ducking behind the curtain. Light is gentle but alive; when the sun breaks through, it has a modest October bite, enough to nudge the UV into the \u201ctake care for a moment\u201d range before softening again. The air feels clean and the day looks honest, with good visibility and a pearly sheen to the streets rather than a glare.\n\nExpect the afternoon to wander between bright intervals and thicker cloud, more silvery than stormy. Dress in easy layers\u2014a light shirt and cardigan, maybe a scarf for the stray breeze\u2014and keep sunglasses and a dab of sunscreen at hand for those brighter spells. It\u2019s a day for small, ordinary pleasures: a slow walk to pick up bread, a quick loop through the market, hanging fresh laundry where the sun can find it, or settling by a window to read while the light keeps changing. Later on, a quiet errand or a brief visit to a gallery suits the mood before the sky leans toward evening.",
-    "color_code": "#b9c7d6",
-    "timestamp": "2026-10-19 11:02:14",
+    "weather_report": "Perth is hushed at this hour, a late-night hush with a few shreds of cloud drifting over a dark, inky sky. It feels cool and uncomplicated, the sort of stillness that makes streetlights look like small theatres. Toward dawn the patchwork thins to barely a veil, and the morning opens wide and clean.\n\nExpect a sunny day with a high, blue ceiling and just a whisper of cloud. The light will sharpen quickly after sunrise; by late morning the sun will have some bite and the UV will run high, so plan on shade, sunscreen, and good sunglasses. The day promises clarity more than drama: no hint of rain, colours crisp, horizons tidy. Start with a light layer for the chill, shift to airy fabrics by mid-morning, and keep a hat handy. It\u2019s a fine day for an early walk, a calm ride to work, hanging the washing, a coffee on the verandah, or an unhurried circuit of errands while the streets are still gentle.",
+    "color_code": "#0D3B66",
+    "timestamp": "2026-10-20 02:57:22",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968276592049,
-        "longitude": 115.820774962982,
+        "name": "Perth",
+        "latitude": -31.95332170370238,
+        "longitude": 115.852062506897,
         "timezone": "Australia/Perth"
     }
 }

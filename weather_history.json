@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-10-12 12:05:14",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95396570991051,
-      "longitude": 115.8528674534358,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-10-12T04:05:13+00:00",
-      "temperature_c": 20.36,
-      "temperature_f": 68.648,
-      "humidity": 40,
-      "wind_speed_mph": 14.965530000000001,
-      "wind_direction": 70,
-      "description": "clear sky"
-    },
-    "report_summary": "Perth slides past noon with the sun shouldering its way into a bright, open afternoon. Skies are set...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-10-13 05:31:48",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco wakes under a broken patchwork of cloud, the sun slipping in and out like a shy actor duckin...",
     "color_code": "#b9c7d6"
+  },
+  {
+    "timestamp": "2026-10-20 02:57:22",
+    "location": {
+      "name": "Perth",
+      "latitude": -31.95332170370238,
+      "longitude": 115.852062506897,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-10-19T18:57:21+00:00",
+      "temperature_c": 12.09,
+      "temperature_f": 53.762,
+      "humidity": 78,
+      "wind_speed_mph": 4.138450000000001,
+      "wind_direction": 165,
+      "description": "clear sky"
+    },
+    "report_summary": "Perth is hushed at this hour, a late-night hush with a few shreds of cloud drifting over a dark, ink...",
+    "color_code": "#0D3B66"
   }
 ]
