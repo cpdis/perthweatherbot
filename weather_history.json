@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2026-10-13 05:31:48",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94982002396636,
-      "longitude": 115.8246814970429,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-10-12T21:31:47+00:00",
-      "temperature_c": 12.2,
-      "temperature_f": 53.96,
-      "humidity": 63,
-      "wind_speed_mph": 25.322840000000003,
-      "wind_direction": 90,
-      "description": "clear sky"
-    },
-    "report_summary": "Dawn in Subiaco arrives quietly, the air cool and clean-edged, with the horizon beginning to pale. F...",
-    "color_code": "#5B86C0"
-  },
-  {
-    "timestamp": "2026-10-13 13:14:20",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967529219188,
-      "longitude": 115.8207961474955,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-10-13T05:14:20+00:00",
-      "temperature_c": 26.03,
-      "temperature_f": 78.854,
-      "humidity": 30,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 70,
-      "description": "clear sky"
-    },
-    "report_summary": "Early afternoon in Subiaco feels newly polished: a clear, uncomplicated sky and unblinking light tha...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-10-14 03:43:21",
     "location": {
       "name": "Jolimont",
@@ -318,5 +278,25 @@
     },
     "report_summary": "Subiaco wakes to a late-morning brilliance, the kind of clean, untroubled light that sharpens edges ...",
     "color_code": "#87CEEB"
+  },
+  {
+    "timestamp": "2026-10-21 01:44:23",
+    "location": {
+      "name": "Jolimont",
+      "latitude": -31.94644193070353,
+      "longitude": 115.8104986962338,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-10-20T17:44:22+00:00",
+      "temperature_c": 15.94,
+      "temperature_f": 60.692,
+      "humidity": 73,
+      "wind_speed_mph": 5.27932,
+      "wind_direction": 291,
+      "description": "clear sky"
+    },
+    "report_summary": "Jolimont sits in the small hours under a cloudless dome, the night clear and hushed, as if the city ...",
+    "color_code": "#0D1F4A"
   }
 ]

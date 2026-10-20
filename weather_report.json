@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Jolimont",
             "country": "AU",
-            "latitude": -31.94968250665685,
-            "longitude": 115.8207740088929
+            "latitude": -31.94644193070353,
+            "longitude": 115.8104986962338
         },
         "current_conditions": {
-            "timestamp": "2026-10-20T03:11:30+00:00",
-            "temperature_c": 19.73,
-            "temperature_f": 67.514,
-            "humidity": 53,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 280,
+            "timestamp": "2026-10-20T17:44:22+00:00",
+            "temperature_c": 15.94,
+            "temperature_f": 60.692,
+            "humidity": 73,
+            "wind_speed_mph": 5.27932,
+            "wind_direction": 291,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-10-20T06:00:00+00:00",
-                "temperature": 20.35,
-                "windSpeed": 10.55864,
-                "windDirection": 255,
+                "startTime": "2026-10-20T18:00:00+00:00",
+                "temperature": 15.94,
+                "windSpeed": 5.27932,
+                "windDirection": 291,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-10-20T09:00:00+00:00",
-                "temperature": 20.37,
-                "windSpeed": 10.133610000000001,
-                "windDirection": 242,
+                "startTime": "2026-10-20T21:00:00+00:00",
+                "temperature": 14.67,
+                "windSpeed": 6.129380000000001,
+                "windDirection": 318,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco wakes to a late-morning brilliance, the kind of clean, untroubled light that sharpens edges and shortens shadows. The forecast holds the sky clear through the afternoon and into early evening, a blue pane without a thumbprint, promising a day of easy visibility and sun that feels frank rather than coy. UV will run high through the middle hours, so think brimmed hat, sunscreen, and airy fabrics; shade becomes a gentle ally while the pavements warm and the leaves barely stir. It\u2019s a pleasant day to move at a humane pace: carry your errands on foot, let the washing drink the sun on a line, linger over a quiet lunch beneath a verandah, or slip into a bookshop for a chapter while the glare softens toward late afternoon. Expect clarity, brightness, and a dry, reassuring steadiness from now until the light leans gold.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-10-20 11:11:30",
+    "weather_report": "Jolimont sits in the small hours under a cloudless dome, the night clear and hushed, as if the city has paused to listen to its own breathing. Air feels clean on the skin and the stars hold steady; it\u2019s the sort of stillness that makes the streets seem longer and the trees more patient.\n\nToward dawn, the forecast stays faithful to clarity: a bright, open sky through sunrise and into the morning, with crisp shadows and a sun that gathers strength quickly. Expect a very sunny start and a UV bite that builds after breakfast, so think light layers you can shed, sunglasses, and sunscreen; a brimmed hat would not be out of place. It looks like an easy, pleasant morning\u2014good for catching an early tram, a gentle loop through Fitzroy Gardens, airing out the flat, or hanging a small wash while the light turns warm. If you\u2019re heading out, enjoy the calm first light, then favor shade and a steady pace once the sun sharpens.",
+    "color_code": "#0D1F4A",
+    "timestamp": "2026-10-21 01:44:23",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94968250665685,
-        "longitude": 115.8207740088929,
+        "name": "Jolimont",
+        "latitude": -31.94644193070353,
+        "longitude": 115.8104986962338,
         "timezone": "Australia/Perth"
     }
 }
