@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Wembley",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.92944650008704,
-            "longitude": 115.8102032940656
+            "latitude": -31.94967369081881,
+            "longitude": 115.8207986130831
         },
         "current_conditions": {
-            "timestamp": "2026-10-21T03:06:30+00:00",
-            "temperature_c": 21.96,
-            "temperature_f": 71.528,
-            "humidity": 55,
-            "wind_speed_mph": 18.410510000000002,
-            "wind_direction": 270,
-            "description": "scattered clouds"
+            "timestamp": "2026-10-21T17:52:02+00:00",
+            "temperature_c": 17.04,
+            "temperature_f": 62.672,
+            "humidity": 82,
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 250,
+            "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-10-21T06:00:00+00:00",
-                "temperature": 22.22,
-                "windSpeed": 15.83796,
-                "windDirection": 288,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-10-21T18:00:00+00:00",
+                "temperature": 17.04,
+                "windSpeed": 14.94316,
+                "windDirection": 236,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-10-21T09:00:00+00:00",
-                "temperature": 21.95,
-                "windSpeed": 14.585239999999999,
-                "windDirection": 287,
-                "shortForecast": "clear sky"
+                "startTime": "2026-10-21T21:00:00+00:00",
+                "temperature": 16.45,
+                "windSpeed": 14.898420000000002,
+                "windDirection": 235,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Late morning in Wembley finds the earlier scatter of cloud folded away, leaving a clean, lucid blue. The sun is generous but gentle for October, casting tidy shadows and sharpening edges; UV stays low to modest at best, enough for a squint and perhaps sunglasses, not the sort to scorch. The air feels fresh and dry, the sort of clarity that makes brickwork glow and leaves look newly varnished.\n\nExpect the day to stay largely clear and bright, an easy, companionable kind of sunshine. Dress in light layers: a soft sweater or shirt with a light jacket, maybe a scarf if you linger in shade. It\u2019s a good hour for quiet errands on foot, a measured loop through King Edward VII Park, or a coffee by the window while the light does its unhurried work. If you\u2019ve laundry to dry or a small garden to tend, the sky is in a cooperative mood; a short ride to the shops or a bench-side read would suit the moment just as well.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-10-21 11:06:31",
+    "weather_report": "Subiaco sits in the small hours under a heavy quilt of cloud, the streets hushed, the air smelling faintly of wet iron as light rain sidles in around two. Clarity is softened to a watercolor\u2014streetlamps haloed, edges blurred\u2014so don a light rain jacket, closed shoes, and a gentle layer for the cool, damp air. Toward dawn the drizzle should ease to ragged, broken cloud, letting shy ribbons of sunlight slip through; sunshine will be brief and sifted at first, with UV near nothing now and only slowly waking after sunrise, then building if the cloud thins. It looks quietly pleasant in a muted way, a night made for finishing a note to yourself, laying out tomorrow\u2019s kit, or steeping something warm while the gutters tick. When the rain loosens its grip, a short, unhurried walk on the damp verge or a simple errand by foot will feel right; later in the morning, if the sky opens, carry sunglasses and a dab of sunscreen, then let the day find you rather than the other way round.",
+    "color_code": "#2C3E50",
+    "timestamp": "2026-10-22 01:52:03",
     "location": {
-        "name": "Wembley",
-        "latitude": -31.92944650008704,
-        "longitude": 115.8102032940656,
+        "name": "Subiaco",
+        "latitude": -31.94967369081881,
+        "longitude": 115.8207986130831,
         "timezone": "Australia/Perth"
     }
 }
