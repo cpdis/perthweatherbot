@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Jolimont",
+            "name": "Wembley",
             "country": "AU",
-            "latitude": -31.94644193070353,
-            "longitude": 115.8104986962338
+            "latitude": -31.92944650008704,
+            "longitude": 115.8102032940656
         },
         "current_conditions": {
-            "timestamp": "2026-10-20T17:44:22+00:00",
-            "temperature_c": 15.94,
-            "temperature_f": 60.692,
-            "humidity": 73,
-            "wind_speed_mph": 5.27932,
-            "wind_direction": 291,
-            "description": "clear sky"
+            "timestamp": "2026-10-21T03:06:30+00:00",
+            "temperature_c": 21.96,
+            "temperature_f": 71.528,
+            "humidity": 55,
+            "wind_speed_mph": 18.410510000000002,
+            "wind_direction": 270,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-10-20T18:00:00+00:00",
-                "temperature": 15.94,
-                "windSpeed": 5.27932,
-                "windDirection": 291,
-                "shortForecast": "clear sky"
+                "startTime": "2026-10-21T06:00:00+00:00",
+                "temperature": 22.22,
+                "windSpeed": 15.83796,
+                "windDirection": 288,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2026-10-20T21:00:00+00:00",
-                "temperature": 14.67,
-                "windSpeed": 6.129380000000001,
-                "windDirection": 318,
+                "startTime": "2026-10-21T09:00:00+00:00",
+                "temperature": 21.95,
+                "windSpeed": 14.585239999999999,
+                "windDirection": 287,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Jolimont sits in the small hours under a cloudless dome, the night clear and hushed, as if the city has paused to listen to its own breathing. Air feels clean on the skin and the stars hold steady; it\u2019s the sort of stillness that makes the streets seem longer and the trees more patient.\n\nToward dawn, the forecast stays faithful to clarity: a bright, open sky through sunrise and into the morning, with crisp shadows and a sun that gathers strength quickly. Expect a very sunny start and a UV bite that builds after breakfast, so think light layers you can shed, sunglasses, and sunscreen; a brimmed hat would not be out of place. It looks like an easy, pleasant morning\u2014good for catching an early tram, a gentle loop through Fitzroy Gardens, airing out the flat, or hanging a small wash while the light turns warm. If you\u2019re heading out, enjoy the calm first light, then favor shade and a steady pace once the sun sharpens.",
-    "color_code": "#0D1F4A",
-    "timestamp": "2026-10-21 01:44:23",
+    "weather_report": "Late morning in Wembley finds the earlier scatter of cloud folded away, leaving a clean, lucid blue. The sun is generous but gentle for October, casting tidy shadows and sharpening edges; UV stays low to modest at best, enough for a squint and perhaps sunglasses, not the sort to scorch. The air feels fresh and dry, the sort of clarity that makes brickwork glow and leaves look newly varnished.\n\nExpect the day to stay largely clear and bright, an easy, companionable kind of sunshine. Dress in light layers: a soft sweater or shirt with a light jacket, maybe a scarf if you linger in shade. It\u2019s a good hour for quiet errands on foot, a measured loop through King Edward VII Park, or a coffee by the window while the light does its unhurried work. If you\u2019ve laundry to dry or a small garden to tend, the sky is in a cooperative mood; a short ride to the shops or a bench-side read would suit the moment just as well.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-10-21 11:06:31",
     "location": {
-        "name": "Jolimont",
-        "latitude": -31.94644193070353,
-        "longitude": 115.8104986962338,
+        "name": "Wembley",
+        "latitude": -31.92944650008704,
+        "longitude": 115.8102032940656,
         "timezone": "Australia/Perth"
     }
 }
