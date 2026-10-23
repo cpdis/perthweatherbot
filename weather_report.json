@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94970113343964,
-            "longitude": 115.8206621828512
+            "latitude": -31.94968270635803,
+            "longitude": 115.8209000642462
         },
         "current_conditions": {
-            "timestamp": "2026-10-22T17:50:05+00:00",
-            "temperature_c": 15.35,
-            "temperature_f": 59.63,
-            "humidity": 64,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 160,
+            "timestamp": "2026-10-23T03:10:00+00:00",
+            "temperature_c": 16.06,
+            "temperature_f": 60.908,
+            "humidity": 70,
+            "wind_speed_mph": 8.0532,
+            "wind_direction": 190,
             "description": "broken clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-10-22T18:00:00+00:00",
-                "temperature": 15.35,
-                "windSpeed": 14.428650000000001,
-                "windDirection": 225,
+                "startTime": "2026-10-23T06:00:00+00:00",
+                "temperature": 16.71,
+                "windSpeed": 18.209180000000003,
+                "windDirection": 205,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-10-22T21:00:00+00:00",
-                "temperature": 15.15,
-                "windSpeed": 10.84945,
-                "windDirection": 215,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-10-23T09:00:00+00:00",
+                "temperature": 16.29,
+                "windSpeed": 19.43953,
+                "windDirection": 200,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Subiaco slips through the small hours under a fine, lingering rain, the streets lacquered and quiet, the sky layered in soft graphite. It isn\u2019t a night for stars or sun; UV is essentially asleep, and the view is all halos and reflections, a gentle hush that makes even a late tram sound courteous.\n\nToward dawn the showers ease and the cloud breaks, promising a ragged, pewter morning with shy, momentary light. Sunshine will come in fits, not floods; once the day stretches its legs the UV will rouse quickly if the gaps widen, so a hat and sunscreen are still sensible for late morning errands. Expect a pleasant, freshly washed feel rather than sparkle: cool air, good visibility, and a sky with character. Dress in light layers and a thin waterproof or wind shell, with shoes that won\u2019t mind damp pavements. It\u2019s a day for ordinary comforts\u2014an early coffee by the window while the rain finishes its thought, a short walk once the roads stop gleaming, a grocery run or a tidy-up before lunch, and a bike ride or tram into town when the breaks in the cloud invite you out.",
-    "color_code": "#2F3E57",
-    "timestamp": "2026-10-23 01:50:05",
+    "weather_report": "Late morning in Subiaco sits under a bright overcast, the sun reduced to a pale coin and most shadows washed away. The day looks muted and calm for now, with a soft, slightly hazed clarity that gentles the colors. Light showers are set to arrive from mid-afternoon toward evening, so any sunshine will be brief and milky rather than bold. Even so, spring UV can still nip when the cloud thins, so a touch of sunscreen and a hat make quiet sense.\n\nDress in light layers: a breathable shirt, a packable rain jacket or small umbrella for later, and shoes that won\u2019t grumble at a sprinkle. It feels pleasant enough for late-morning errands or a slow wander before the first drops, then better suited to tucked\u2011indoors pursuits\u2014a library run, a matinee, or a window seat with something to read while the rain freckles the pavement. By day\u2019s end, expect the sky to settle into a gentle gray and the streets to shine a little.",
+    "color_code": "#A3B9C9",
+    "timestamp": "2026-10-23 11:10:00",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94970113343964,
-        "longitude": 115.8206621828512,
+        "latitude": -31.94968270635803,
+        "longitude": 115.8209000642462,
         "timezone": "Australia/Perth"
     }
 }
