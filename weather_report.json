@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94966304299361,
-            "longitude": 115.8207976642118
+            "latitude": -31.95288972175549,
+            "longitude": 115.8507428413335
         },
         "current_conditions": {
-            "timestamp": "2026-10-26T02:58:10+00:00",
-            "temperature_c": 19.06,
-            "temperature_f": 66.30799999999999,
-            "humidity": 57,
-            "wind_speed_mph": 11.49818,
-            "wind_direction": 40,
-            "description": "few clouds"
+            "timestamp": "2026-10-26T18:59:47+00:00",
+            "temperature_c": 15.03,
+            "temperature_f": 59.053999999999995,
+            "humidity": 60,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 140,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-10-26T03:00:00+00:00",
-                "temperature": 19.06,
-                "windSpeed": 5.3688,
-                "windDirection": 51,
-                "shortForecast": "light rain"
+                "startTime": "2026-10-26T21:00:00+00:00",
+                "temperature": 14.87,
+                "windSpeed": 14.22732,
+                "windDirection": 104,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-10-26T06:00:00+00:00",
-                "temperature": 19.99,
-                "windSpeed": 9.75332,
-                "windDirection": 222,
-                "shortForecast": "scattered clouds"
+                "startTime": "2026-10-27T00:00:00+00:00",
+                "temperature": 18.75,
+                "windSpeed": 13.17593,
+                "windDirection": 94,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Late morning in Subiaco arrives damp and gentle: a light shower freckles the pavement and the air smells of wet gum leaves. The sky is a mottled sheet for now, but by early afternoon it should thin to scattered cloud with soft blue windows, offering bright, fleeting sun. When it breaks through, it will have that quick spring bite; UV rises fast even in patchy light, while the air turns newly clear after the rain. Overall, a mild, pleasant day tempered by a short sprinkle, brightening toward something quietly cheerful.\n\nWear light layers and a compact rain shell now, then swap to sunglasses and a touch of sunscreen later; shoes you don\u2019t mind meeting a puddle. Good hours for small errands or a slow coffee while the shower passes, then a meander along the shops or a short park stroll once the pavements dry. If you\u2019re working at home, crack a window for the washed air; if you\u2019re out, time the longer walk for after lunch when the sky opens a little and the day feels freshly laundered rather than gloomy.",
-    "color_code": "#8CA7B8",
-    "timestamp": "2026-10-26 10:58:11",
+    "weather_report": "Perth stirs under a clear pre-dawn sky, the streets hushed and cool, stars still pricked in the dark like quiet confidences. It feels clean and expectant, the kind of early hour when your breath shows and sound carries, and the horizon hints at a pale seam where morning will undo the night.\n\nA bright, dry day is on the way; clear skies from first light should open into a strong, steady sun, with UV climbing quickly by late morning. The air will feel crisp at sunrise and then tilt toward comfortably warm, the kind of clarity that sharpens edges and makes colors ring. Dress in light layers for the early start, then shift to short sleeves with a hat, sunglasses, and sunscreen you actually reapply. It\u2019s a good morning for a gentle walk before work, hanging the washing to drink up the light, or cycling a small errand while the shadows are long; by midday, find shade for a quiet coffee, a library visit, or a bit of desk work near an open window, then step back out in the late afternoon when the sun softens.",
+    "color_code": "#1E3A8A",
+    "timestamp": "2026-10-27 02:59:48",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94966304299361,
-        "longitude": 115.8207976642118,
+        "name": "Perth",
+        "latitude": -31.95288972175549,
+        "longitude": 115.8507428413335,
         "timezone": "Australia/Perth"
     }
 }
