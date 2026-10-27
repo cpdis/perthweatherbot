@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94967478089225,
-            "longitude": 115.820798754944
+            "latitude": -31.94970032683885,
+            "longitude": 115.820655244194
         },
         "current_conditions": {
-            "timestamp": "2026-10-27T03:30:37+00:00",
-            "temperature_c": 25.15,
-            "temperature_f": 77.27,
-            "humidity": 28,
-            "wind_speed_mph": 17.26964,
-            "wind_direction": 100,
+            "timestamp": "2026-10-27T18:20:11+00:00",
+            "temperature_c": 17.03,
+            "temperature_f": 62.654,
+            "humidity": 55,
+            "wind_speed_mph": 13.802290000000001,
+            "wind_direction": 110,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-10-27T06:00:00+00:00",
-                "temperature": 26,
-                "windSpeed": 9.373030000000002,
-                "windDirection": 175,
+                "startTime": "2026-10-27T21:00:00+00:00",
+                "temperature": 16.3,
+                "windSpeed": 16.016920000000002,
+                "windDirection": 90,
                 "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-10-27T09:00:00+00:00",
-                "temperature": 26.75,
-                "windSpeed": 15.97218,
-                "windDirection": 178,
+                "startTime": "2026-10-28T00:00:00+00:00",
+                "temperature": 18.99,
+                "windSpeed": 17.06831,
+                "windDirection": 80,
                 "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Subiaco slips toward midday under a flawless blue, the kind of clear sky that sharpens rooftops and pulls the scent of stone and leaves into the air. The sun has a gentle insistence now: warm on your shoulders in the open, cool in the shade, with a modest UV sting if you linger too long. The day looks clean and well-defined, a simple, honest clarity with no hint of haze, and it should stay bright through the afternoon before softening toward evening.\n\nDress in light layers you can peel back, with sunglasses and a dab of sunscreen; a brimmed hat won\u2019t go amiss if you\u2019re out and about. It\u2019s a good hour for small pleasures: carry a book to a quiet bench, walk an errand the long way, sit at a corner cafe where the sun reaches the table, or hang fresh laundry and let the breeze do the rest. Let the day be ordinary and kind, and make steady use of the light.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-10-27 11:30:38",
+    "weather_report": "Subiaco sits in the small hours under a polished, moonless blue-black, the air cool and settled, streetlights humming softly as if guarding a secret. With the sky clear, the night feels wide and uncomplicated, the sort that invites a quiet breath at the doorstep before sleep finally takes hold.\n\nAfter dawn the day should open bright and unclouded, the light quick to sharpen edges and lift the mood. Sunshine will be abundant and the UV will climb fast by late morning, typical for this time of year, so treat it with respect: start with a light layer for the early chill, then shift to breathable fabrics, a hat, sunglasses, and proper sunscreen even for short errands. The clear air promises crisp visibility and a certain sparkle to pavements and leaves; glare may be the only nuisance. It\u2019s a fine morning to step out early for a walk and a coffee, to hang the washing, water the garden, or cycle to the shops before the sun grows intent. Later, let the windows breathe and read by a patch of shade, keeping the brightest hours at arm\u2019s length.",
+    "color_code": "#0C1F3F",
+    "timestamp": "2026-10-28 02:31:40",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94967478089225,
-        "longitude": 115.820798754944,
+        "latitude": -31.94970032683885,
+        "longitude": 115.820655244194,
         "timezone": "Australia/Perth"
     }
 }
