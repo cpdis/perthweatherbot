@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-10-21 01:44:23",
-    "location": {
-      "name": "Jolimont",
-      "latitude": -31.94644193070353,
-      "longitude": 115.8104986962338,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-10-20T17:44:22+00:00",
-      "temperature_c": 15.94,
-      "temperature_f": 60.692,
-      "humidity": 73,
-      "wind_speed_mph": 5.27932,
-      "wind_direction": 291,
-      "description": "clear sky"
-    },
-    "report_summary": "Jolimont sits in the small hours under a cloudless dome, the night clear and hushed, as if the city ...",
-    "color_code": "#0D1F4A"
-  },
-  {
     "timestamp": "2026-10-21 11:06:31",
     "location": {
       "name": "Wembley",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco sits in the small hours under a polished, moonless blue-black, the air cool and settled, str...",
     "color_code": "#0C1F3F"
+  },
+  {
+    "timestamp": "2026-10-28 11:46:14",
+    "location": {
+      "name": "Osborne Park",
+      "latitude": -31.90798697796888,
+      "longitude": 115.8018564951787,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-10-28T03:46:14+00:00",
+      "temperature_c": 26.44,
+      "temperature_f": 79.592,
+      "humidity": 25,
+      "wind_speed_mph": 12.661420000000001,
+      "wind_direction": 70,
+      "description": "clear sky"
+    },
+    "report_summary": "Late morning in Osborne Park arrives bright and uncomplicated, the sun riding high with only a scatt...",
+    "color_code": "#7FB3D8"
   }
 ]

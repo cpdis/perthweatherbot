@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Osborne Park",
             "country": "AU",
-            "latitude": -31.94970032683885,
-            "longitude": 115.820655244194
+            "latitude": -31.90798697796888,
+            "longitude": 115.8018564951787
         },
         "current_conditions": {
-            "timestamp": "2026-10-27T18:20:11+00:00",
-            "temperature_c": 17.03,
-            "temperature_f": 62.654,
-            "humidity": 55,
-            "wind_speed_mph": 13.802290000000001,
-            "wind_direction": 110,
+            "timestamp": "2026-10-28T03:46:14+00:00",
+            "temperature_c": 26.44,
+            "temperature_f": 79.592,
+            "humidity": 25,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 70,
             "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-10-27T21:00:00+00:00",
-                "temperature": 16.3,
-                "windSpeed": 16.016920000000002,
-                "windDirection": 90,
-                "shortForecast": "clear sky"
+                "startTime": "2026-10-28T06:00:00+00:00",
+                "temperature": 27.25,
+                "windSpeed": 3.69105,
+                "windDirection": 116,
+                "shortForecast": "few clouds"
             },
             {
-                "startTime": "2026-10-28T00:00:00+00:00",
-                "temperature": 18.99,
-                "windSpeed": 17.06831,
-                "windDirection": 80,
-                "shortForecast": "clear sky"
+                "startTime": "2026-10-28T09:00:00+00:00",
+                "temperature": 27.44,
+                "windSpeed": 14.7642,
+                "windDirection": 186,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco sits in the small hours under a polished, moonless blue-black, the air cool and settled, streetlights humming softly as if guarding a secret. With the sky clear, the night feels wide and uncomplicated, the sort that invites a quiet breath at the doorstep before sleep finally takes hold.\n\nAfter dawn the day should open bright and unclouded, the light quick to sharpen edges and lift the mood. Sunshine will be abundant and the UV will climb fast by late morning, typical for this time of year, so treat it with respect: start with a light layer for the early chill, then shift to breathable fabrics, a hat, sunglasses, and proper sunscreen even for short errands. The clear air promises crisp visibility and a certain sparkle to pavements and leaves; glare may be the only nuisance. It\u2019s a fine morning to step out early for a walk and a coffee, to hang the washing, water the garden, or cycle to the shops before the sun grows intent. Later, let the windows breathe and read by a patch of shade, keeping the brightest hours at arm\u2019s length.",
-    "color_code": "#0C1F3F",
-    "timestamp": "2026-10-28 02:31:40",
+    "weather_report": "Late morning in Osborne Park arrives bright and uncomplicated, the sun riding high with only a scatter of cloud to soften the edges. UV is punchy through midday, the sort that sneaks up on you if you linger, but the air has an easy clarity that makes colors look freshly washed. Through the afternoon those clouds will gather into a more mottled sky, light shifting from crisp to silvery and gentle by late day, still dry, still inviting.\n\nDress light and breathable, add sunglasses, a hat, and a streak of sunscreen if you\u2019ll be out around lunch. It\u2019s a good day for small, ordinary pleasures: a coffee run on foot, a quiet circuit of the neighborhood, errands by bike while the light is kind. If you\u2019re sun-sensitive, do the outdoor bits earlier or wait for the softer midafternoon when the cloud cover takes the glare off. As evening leans in, expect a calm, tempered sky\u2014perfect for tending a few plants on the balcony or a slow wander to clear the head before dinner.",
+    "color_code": "#7FB3D8",
+    "timestamp": "2026-10-28 11:46:14",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94970032683885,
-        "longitude": 115.820655244194,
+        "name": "Osborne Park",
+        "latitude": -31.90798697796888,
+        "longitude": 115.8018564951787,
         "timezone": "Australia/Perth"
     }
 }
