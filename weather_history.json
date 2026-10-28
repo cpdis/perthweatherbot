@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-10-21 11:06:31",
-    "location": {
-      "name": "Wembley",
-      "latitude": -31.92944650008704,
-      "longitude": 115.8102032940656,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-10-21T03:06:30+00:00",
-      "temperature_c": 21.96,
-      "temperature_f": 71.528,
-      "humidity": 55,
-      "wind_speed_mph": 18.410510000000002,
-      "wind_direction": 270,
-      "description": "scattered clouds"
-    },
-    "report_summary": "Late morning in Wembley finds the earlier scatter of cloud folded away, leaving a clean, lucid blue....",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-10-22 01:52:03",
     "location": {
       "name": "Subiaco",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Late morning in Osborne Park arrives bright and uncomplicated, the sun riding high with only a scatt...",
     "color_code": "#7FB3D8"
+  },
+  {
+    "timestamp": "2026-10-29 02:37:52",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969416599692,
+      "longitude": 115.8206620531569,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-10-28T18:37:52+00:00",
+      "temperature_c": 17.21,
+      "temperature_f": 62.978,
+      "humidity": 70,
+      "wind_speed_mph": 5.74909,
+      "wind_direction": 70,
+      "description": "scattered clouds"
+    },
+    "report_summary": "Subiaco rests under a broken ceiling of cloud at this quiet hour, the air cool and uncomplicated, th...",
+    "color_code": "#5e6e8a"
   }
 ]
