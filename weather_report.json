@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95411377924598,
-            "longitude": 115.8524944877701
+            "latitude": -31.94517477230654,
+            "longitude": 115.8262272553681
         },
         "current_conditions": {
-            "timestamp": "2026-10-30T04:08:50+00:00",
-            "temperature_c": 21.45,
-            "temperature_f": 70.61,
-            "humidity": 54,
-            "wind_speed_mph": 12.661420000000001,
-            "wind_direction": 270,
-            "description": "scattered clouds"
+            "timestamp": "2026-10-30T18:22:43+00:00",
+            "temperature_c": 18.24,
+            "temperature_f": 64.832,
+            "humidity": 79,
+            "wind_speed_mph": 6.91233,
+            "wind_direction": 10,
+            "description": "light rain"
         },
         "forecast": [
             {
-                "startTime": "2026-10-30T06:00:00+00:00",
-                "temperature": 22.35,
-                "windSpeed": 8.16505,
-                "windDirection": 265,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-10-30T21:00:00+00:00",
+                "temperature": 17.08,
+                "windSpeed": 10.62575,
+                "windDirection": 20,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-10-30T09:00:00+00:00",
-                "temperature": 21.38,
-                "windSpeed": 8.34401,
-                "windDirection": 283,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-10-31T00:00:00+00:00",
+                "temperature": 17.55,
+                "windSpeed": 13.13119,
+                "windDirection": 344,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Midday in Perth arrives with a quilt of broken cloud, sunlight slipping through in bright, gentle pulses. It feels like a day that never quite makes up its mind, yet the air is clear and the view to the horizon remains clean. Expect the pattern to hold through the afternoon into early evening: intervals of warm brightness, then a softer, muted light as the cloud drifts across. Even with the cloud, the sun still bites at this time of year, and the UV will be strong around lunchtime; it\u2019s the kind of day where a hat, sunglasses, and a good lick of sunscreen are more useful than a jacket.\n\nDress for ease: breathable fabrics, light layers you can shrug on if a passing shadow cools the moment. It\u2019s pleasant enough to take lunch on a shaded veranda, run a few errands on foot while the sun ducks in and out, or peg the washing where it can drink the shifting light. Keep the longer jaunt for later in the day when the glare eases\u2014an unhurried loop along the river, or a quiet wander under the first purple bells of jacaranda-lined streets, then home to a chair by an open window and the low hum of the afternoon.",
-    "color_code": "#8FAAC1",
-    "timestamp": "2026-10-30 12:08:51",
+    "weather_report": "In the small hours, Subiaco is hushed; streetlights glaze the footpaths and a thicker ceiling of cloud settles in. It\u2019s mostly dry now, but the air feels primed, the kind that carries the scent of wet pavement before the first drop falls. The sun is still an idea more than a presence, so UV exposure is negligible for the moment.\n\nAround dawn and into mid-morning, expect light rain that softens edges and dulls the day\u2019s colors. The sky will be a smudged page, with limited clarity and only brief hints of brightness if the clouds fray. Sunshine will be scarce early and UV will stay low, though if the cover lifts later, spring light can sharpen quickly, so keep sunscreen in your pocket just in case. Dress in easy layers with a light waterproof shell and shoes happy to meet a puddle; carry a compact umbrella for slow, intermittent showers. It\u2019s a good morning for a quiet coffee run, a gym session, or reading by a window while the rain sketches the glass; later, if the weather steadies, an unhurried errand loop or a visit to a gallery will suit the mood.",
+    "color_code": "#6B7C8A",
+    "timestamp": "2026-10-31 02:22:43",
     "location": {
-        "name": "Perth",
-        "latitude": -31.95411377924598,
-        "longitude": 115.8524944877701,
+        "name": "Subiaco",
+        "latitude": -31.94517477230654,
+        "longitude": 115.8262272553681,
         "timezone": "Australia/Perth"
     }
 }
