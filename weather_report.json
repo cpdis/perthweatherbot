@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Subiaco",
+            "name": "Perth",
             "country": "AU",
-            "latitude": -31.94969406898606,
-            "longitude": 115.8206578234164
+            "latitude": -31.95411377924598,
+            "longitude": 115.8524944877701
         },
         "current_conditions": {
-            "timestamp": "2026-10-29T18:46:03+00:00",
-            "temperature_c": 14.74,
-            "temperature_f": 58.532,
-            "humidity": 90,
-            "wind_speed_mph": 4.60822,
-            "wind_direction": 360,
-            "description": "clear sky"
+            "timestamp": "2026-10-30T04:08:50+00:00",
+            "temperature_c": 21.45,
+            "temperature_f": 70.61,
+            "humidity": 54,
+            "wind_speed_mph": 12.661420000000001,
+            "wind_direction": 270,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-10-29T21:00:00+00:00",
-                "temperature": 15.22,
-                "windSpeed": 6.599150000000001,
-                "windDirection": 257,
-                "shortForecast": "clear sky"
+                "startTime": "2026-10-30T06:00:00+00:00",
+                "temperature": 22.35,
+                "windSpeed": 8.16505,
+                "windDirection": 265,
+                "shortForecast": "broken clouds"
             },
             {
-                "startTime": "2026-10-30T00:00:00+00:00",
-                "temperature": 17.43,
-                "windSpeed": 10.513900000000001,
-                "windDirection": 261,
-                "shortForecast": "light rain"
+                "startTime": "2026-10-30T09:00:00+00:00",
+                "temperature": 21.38,
+                "windSpeed": 8.34401,
+                "windDirection": 283,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Subiaco dozes under a quiet pre-dawn, the air still and cool, with a promise of clear sky toward first light before a light, passing rain drifts in later in the morning. Expect a few honest bursts of sunshine early, then a softer, pearl-gray day as clouds gather; the UV will be low at first and only modest if the sun breaks through, more a gentle nudge than a warning. The view should start crisp, then grow slightly veiled as dampness polishes the streets and rounds the edges of the day.\n\nIt looks like a calm, workable Friday rather than a dazzling one. Dress in light layers with a compact rain shell, comfortable shoes that don\u2019t mind a wet footpath, and keep sunscreen minimal in your pocket for any brighter spells; a hat feels optional. If you\u2019re awake with the birds, a short, unhurried walk or a quick grocery run suits the clear start, then lean into indoor errands, a quiet hour at a cafe window, or a tidy-up of lingering tasks while the shower passes. Later, if the clouds lift, steal a small afternoon circuit of the neighborhood and enjoy the scent of rain cooling the brick and jacaranda.",
-    "color_code": "#2E3B4E",
-    "timestamp": "2026-10-30 02:46:04",
+    "weather_report": "Midday in Perth arrives with a quilt of broken cloud, sunlight slipping through in bright, gentle pulses. It feels like a day that never quite makes up its mind, yet the air is clear and the view to the horizon remains clean. Expect the pattern to hold through the afternoon into early evening: intervals of warm brightness, then a softer, muted light as the cloud drifts across. Even with the cloud, the sun still bites at this time of year, and the UV will be strong around lunchtime; it\u2019s the kind of day where a hat, sunglasses, and a good lick of sunscreen are more useful than a jacket.\n\nDress for ease: breathable fabrics, light layers you can shrug on if a passing shadow cools the moment. It\u2019s pleasant enough to take lunch on a shaded veranda, run a few errands on foot while the sun ducks in and out, or peg the washing where it can drink the shifting light. Keep the longer jaunt for later in the day when the glare eases\u2014an unhurried loop along the river, or a quiet wander under the first purple bells of jacaranda-lined streets, then home to a chair by an open window and the low hum of the afternoon.",
+    "color_code": "#8FAAC1",
+    "timestamp": "2026-10-30 12:08:51",
     "location": {
-        "name": "Subiaco",
-        "latitude": -31.94969406898606,
-        "longitude": 115.8206578234164,
+        "name": "Perth",
+        "latitude": -31.95411377924598,
+        "longitude": 115.8524944877701,
         "timezone": "Australia/Perth"
     }
 }
