@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.94967311397548,
-            "longitude": 115.8208040388986
+            "latitude": -31.95319925942955,
+            "longitude": 115.8211839768791
         },
         "current_conditions": {
-            "timestamp": "2026-10-31T03:52:11+00:00",
-            "temperature_c": 22.08,
-            "temperature_f": 71.744,
-            "humidity": 63,
-            "wind_speed_mph": 20.71462,
-            "wind_direction": 320,
-            "description": "broken clouds"
+            "timestamp": "2026-10-31T17:29:29+00:00",
+            "temperature_c": 16.12,
+            "temperature_f": 61.016000000000005,
+            "humidity": 86,
+            "wind_speed_mph": 5.74909,
+            "wind_direction": 30,
+            "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-10-31T06:00:00+00:00",
-                "temperature": 22.81,
-                "windSpeed": 17.694670000000002,
-                "windDirection": 286,
+                "startTime": "2026-10-31T18:00:00+00:00",
+                "temperature": 16.12,
+                "windSpeed": 8.41112,
+                "windDirection": 193,
                 "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-10-31T09:00:00+00:00",
-                "temperature": 22.71,
-                "windSpeed": 15.41293,
-                "windDirection": 283,
-                "shortForecast": "light rain"
+                "startTime": "2026-10-31T21:00:00+00:00",
+                "temperature": 16.68,
+                "windSpeed": 9.03748,
+                "windDirection": 180,
+                "shortForecast": "broken clouds"
             }
         ]
     },
-    "weather_report": "Late morning in Subiaco arrives under a softened sky, the light pale and slightly drowsy, as if the day were conserving its sparkle for another time. Clouds thicken toward afternoon and are set to spill light rain from mid to late day, so sunshine will be filtered at best, more a brief silver than a blaze. Even so, the spring UV here can be deceptive around lunchtime; the sun\u2019s bite slips through the overcast, so a dab of sunscreen is wise if you\u2019re out and about. Visibility will feel muted, edges softened, the kind of clarity that makes colors deepen on wet pavement.\n\nIt looks like a gentle, not unpleasant day\u2014made for small errands and unhurried plans. Wear breathable layers with a light rain jacket, closed shoes you don\u2019t mind getting damp, and carry a compact umbrella; sunglasses may stay in the pocket, but keep the sunscreen in play. Consider a late caf\u00e9 window seat to watch the first droplets stipple the street, a quiet browse through a bookshop, or a quick market dash before the showers settle in. If you\u2019re feeling industrious, sort a few household odds and ends now, then let the afternoon rain soundtrack the rest.",
-    "color_code": "#7E8C9A",
-    "timestamp": "2026-10-31 11:52:11",
+    "weather_report": "Subiaco drifts through the small hours under a soft, unsettled sky. The streets look rinsed and reflective, with a light rain likely to brush through around the next hour before easing toward patchy, broken cloud by pre-dawn. It won\u2019t be sunny yet; the stars are mostly gone behind a dim quilt, and the UV is effectively asleep until after sunrise. The air feels clean and a little tender, the kind that makes voices carry and coffee smell stronger.\n\nAfter sunrise, expect a mixed kind of day: clouds with generous seams where the light can break through. If those gaps widen, the sun may feel warm on the shoulders by late morning, and the UV will stir from low toward something worth respecting; keep a hat or a dab of sunscreen in the bag if you\u2019ll be out a while. Dress in light layers with a thin shell early on, then peel back as the day brightens. A short, unhurried walk to the bakery once the pavement dries, a tidy of the desk with the window cracked for that rain-washed scent, or a mid-morning errand loop would suit the mood. Keep an umbrella by the door for one last fickle sprinkle, though the day hints at clarity rather than a slog.",
+    "color_code": "#2C3E50",
+    "timestamp": "2026-11-01 01:29:30",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.94967311397548,
-        "longitude": 115.8208040388986,
+        "latitude": -31.95319925942955,
+        "longitude": 115.8211839768791,
         "timezone": "Australia/Perth"
     }
 }
