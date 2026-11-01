@@ -3,42 +3,42 @@
         "location": {
             "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95319925942955,
-            "longitude": 115.8211839768791
+            "latitude": -31.94971670711165,
+            "longitude": 115.8206481746931
         },
         "current_conditions": {
-            "timestamp": "2026-10-31T17:29:29+00:00",
-            "temperature_c": 16.12,
-            "temperature_f": 61.016000000000005,
-            "humidity": 86,
-            "wind_speed_mph": 5.74909,
-            "wind_direction": 30,
+            "timestamp": "2026-11-01T04:02:02+00:00",
+            "temperature_c": 20.61,
+            "temperature_f": 69.098,
+            "humidity": 58,
+            "wind_speed_mph": 16.1064,
+            "wind_direction": 270,
             "description": "scattered clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-10-31T18:00:00+00:00",
-                "temperature": 16.12,
-                "windSpeed": 8.41112,
-                "windDirection": 193,
-                "shortForecast": "light rain"
+                "startTime": "2026-11-01T06:00:00+00:00",
+                "temperature": 21.52,
+                "windSpeed": 15.14449,
+                "windDirection": 229,
+                "shortForecast": "scattered clouds"
             },
             {
-                "startTime": "2026-10-31T21:00:00+00:00",
-                "temperature": 16.68,
-                "windSpeed": 9.03748,
-                "windDirection": 180,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-11-01T09:00:00+00:00",
+                "temperature": 21.58,
+                "windSpeed": 13.08645,
+                "windDirection": 221,
+                "shortForecast": "few clouds"
             }
         ]
     },
-    "weather_report": "Subiaco drifts through the small hours under a soft, unsettled sky. The streets look rinsed and reflective, with a light rain likely to brush through around the next hour before easing toward patchy, broken cloud by pre-dawn. It won\u2019t be sunny yet; the stars are mostly gone behind a dim quilt, and the UV is effectively asleep until after sunrise. The air feels clean and a little tender, the kind that makes voices carry and coffee smell stronger.\n\nAfter sunrise, expect a mixed kind of day: clouds with generous seams where the light can break through. If those gaps widen, the sun may feel warm on the shoulders by late morning, and the UV will stir from low toward something worth respecting; keep a hat or a dab of sunscreen in the bag if you\u2019ll be out a while. Dress in light layers with a thin shell early on, then peel back as the day brightens. A short, unhurried walk to the bakery once the pavement dries, a tidy of the desk with the window cracked for that rain-washed scent, or a mid-morning errand loop would suit the mood. Keep an umbrella by the door for one last fickle sprinkle, though the day hints at clarity rather than a slog.",
-    "color_code": "#2C3E50",
-    "timestamp": "2026-11-01 01:29:30",
+    "weather_report": "Midday in Subiaco arrives with a gentle, confident light: the kind that slips between scattered clouds and polishes the jacaranda blossoms to a quiet glow. The air feels clean and open, with good visibility and only soft fragments of cloud to break the blue. Through the afternoon the sky should simplify further, moving toward a few high smudges and plenty of sun. Expect the UV to be punchy in the early afternoon before easing toward evening; it\u2019s the sort of day where shade feels like a courteous invitation rather than a necessity.\n\nDress for ease: light fabrics, a brimmed hat, sunglasses, and a touch of sunscreen if you\u2019ll linger outdoors. It\u2019s pleasant enough for a slow walk to pick up bread and fruit, a coffee savored at a shaded table, or a meander through back streets to clear the head. Save the longer stroll for later when the light relaxes and the warmth turns companionable; maybe tend a small task in the garden, read on the veranda, or cycle home along familiar lanes while the sky goes honey-pale.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-11-01 12:02:03",
     "location": {
         "name": "Subiaco",
-        "latitude": -31.95319925942955,
-        "longitude": 115.8211839768791,
+        "latitude": -31.94971670711165,
+        "longitude": 115.8206481746931,
         "timezone": "Australia/Perth"
     }
 }
