@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95410421103979,
-            "longitude": 115.8524906451596
+            "latitude": -31.94965975695456,
+            "longitude": 115.8208133428448
         },
         "current_conditions": {
-            "timestamp": "2026-11-02T04:07:11+00:00",
-            "temperature_c": 21.22,
-            "temperature_f": 70.196,
-            "humidity": 55,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 270,
-            "description": "broken clouds"
+            "timestamp": "2026-11-02T22:04:41+00:00",
+            "temperature_c": 16.5,
+            "temperature_f": 61.7,
+            "humidity": 88,
+            "wind_speed_mph": 9.21644,
+            "wind_direction": 210,
+            "description": "overcast clouds"
         },
         "forecast": [
             {
-                "startTime": "2026-11-02T06:00:00+00:00",
-                "temperature": 21.77,
-                "windSpeed": 12.639050000000001,
-                "windDirection": 278,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-11-03T00:00:00+00:00",
+                "temperature": 17.22,
+                "windSpeed": 14.04836,
+                "windDirection": 203,
+                "shortForecast": "light rain"
             },
             {
-                "startTime": "2026-11-02T09:00:00+00:00",
-                "temperature": 21.85,
-                "windSpeed": 10.692860000000001,
-                "windDirection": 269,
-                "shortForecast": "broken clouds"
+                "startTime": "2026-11-03T03:00:00+00:00",
+                "temperature": 19.21,
+                "windSpeed": 15.345820000000002,
+                "windDirection": 209,
+                "shortForecast": "light rain"
             }
         ]
     },
-    "weather_report": "Midday in Perth arrives under a dappled ceiling of broken cloud, the sun slipping in and out like a restless performer, casting crisp light one minute and a gentle wash the next. The day looks clear enough for long views yet softened at the edges, with a touch of glare whenever the sun breaks free. Expect intermittent sunshine through the afternoon as that patchwork holds; UV is likely strong around these hours even with the cloud cover, so a hat, sunglasses, and a dab of sunscreen will be your quiet companions.\n\nIt\u2019s a pleasant, come-and-go kind of day: bright spells for momentum, shade for relief. Light, breathable layers feel right, and a small bottle of water in the bag never hurts. Consider a late lunch on a shaded terrace, a calm wander along the river paths when the light softens, or a quick visit to a gallery or bookshop while the sun is at its most opinionated. If you\u2019ve errands, the cloud will take the edge off a walk; if you\u2019ve time, a book on a balcony as the afternoon drifts toward evening will do nicely.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-11-02 12:07:13",
+    "weather_report": "Dawn comes hushed over Subiaco, the streets rinsed and quietly shining from light overnight showers. Low cloud sits close to the rooftops, muting edges and swallowing the early light, so the morning feels soft and a little drowsy; if the rain pauses, it\u2019s more a mist than a clearing. Sunshine will be scarce for a while, and the UV stays low under this quilt of grey, perhaps nudging up only a little if the cover thins later.\n\nExpect a gentle, on\u2011and\u2011off drizzle through the morning with a subdued, pearly brightness at best. Dress in light layers with a rain shell and shoes that don\u2019t mind puddles; tuck a small umbrella in your bag. It\u2019s a good morning for ordinary errands done unhurriedly: a quiet stop at the corner cafe, a quick run to the grocer, catching up on notes at the desk while the windows bead with drops. If you crave fresh air, take a short walk between showers and enjoy the clean, reflective calm before the day fully wakes.",
+    "color_code": "#6F7A85",
+    "timestamp": "2026-11-03 06:04:42",
     "location": {
-        "name": "Perth",
-        "latitude": -31.95410421103979,
-        "longitude": 115.8524906451596,
+        "name": "Subiaco",
+        "latitude": -31.94965975695456,
+        "longitude": 115.8208133428448,
         "timezone": "Australia/Perth"
     }
 }
