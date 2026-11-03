@@ -1,44 +1,44 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Perth",
+            "name": "Subiaco",
             "country": "AU",
-            "latitude": -31.95383681339702,
-            "longitude": 115.8541599592554
+            "latitude": -31.95037093333334,
+            "longitude": 115.8165519666667
         },
         "current_conditions": {
-            "timestamp": "2026-11-03T05:07:13+00:00",
-            "temperature_c": 21.31,
-            "temperature_f": 70.358,
-            "humidity": 52,
-            "wind_speed_mph": 16.1064,
-            "wind_direction": 220,
-            "description": "few clouds"
+            "timestamp": "2026-11-03T19:47:21+00:00",
+            "temperature_c": 13.86,
+            "temperature_f": 56.948,
+            "humidity": 72,
+            "wind_speed_mph": 11.49818,
+            "wind_direction": 100,
+            "description": "clear sky"
         },
         "forecast": [
             {
-                "startTime": "2026-11-03T06:00:00+00:00",
-                "temperature": 21.3,
-                "windSpeed": 13.668070000000002,
-                "windDirection": 220,
-                "shortForecast": "few clouds"
+                "startTime": "2026-11-03T21:00:00+00:00",
+                "temperature": 14.01,
+                "windSpeed": 7.87424,
+                "windDirection": 117,
+                "shortForecast": "clear sky"
             },
             {
-                "startTime": "2026-11-03T09:00:00+00:00",
-                "temperature": 21.28,
-                "windSpeed": 13.399630000000002,
-                "windDirection": 207,
-                "shortForecast": "few clouds"
+                "startTime": "2026-11-04T00:00:00+00:00",
+                "temperature": 15.69,
+                "windSpeed": 7.89661,
+                "windDirection": 83,
+                "shortForecast": "clear sky"
             }
         ]
     },
-    "weather_report": "Perth settles into early afternoon with a clear, forgiving sky and just a scatter of small, idle clouds. Light is crisp, colors feel freshly washed, and the day has that open, breathable clarity that makes the streets seem wider and the river brighter. It\u2019s largely sunny now and set to stay that way through mid to late afternoon, with only a few clouds wandering about and little to trouble the horizon.\n\nExpect the sun to remain insistent until evening; the UV will be strong in the early afternoon and soften later, so a hat, sunglasses, and sunscreen are wise, with light, breathable layers that don\u2019t mind a stroll. It\u2019s the kind of day for modest pleasures: a slow amble to pick up groceries, a coffee in the shade where you can watch the world slide by, hanging the wash to catch the dry air, or a gentle ride along the river path as the light mellows. Save the gardening or longer walk for late afternoon, when the sun eases and the air turns kindly.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-11-03 13:07:20",
+    "weather_report": "Subiaco rests in the small hours beneath a cloudless dome, the air cool and faintly sweet, the streets hushed as if holding their breath for first light. A clear sky is on the cards at dawn, the horizon soon to pale and sharpen into that glassy, blue-lit morning that makes everything feel newly washed.\n\nThrough the day the sun will take command\u2014bright, unwavering, and a touch unforgiving by late morning. Expect excellent visibility and crisp shadows, with the UV index climbing quickly into the caution zone once the sun is up, so think sunscreen, a brimmed hat, sunglasses, and light long sleeves. It will be a pleasant start for a quiet walk to the corner cafe or a lap through the neighborhood before breakfast; water the garden early and let the washing line do its work. As the glare strengthens, duck into shade for errands or a library visit, then step back out toward late afternoon when the light softens and the day loosens its grip.",
+    "color_code": "#0A1F44",
+    "timestamp": "2026-11-04 03:56:22",
     "location": {
-        "name": "Perth",
-        "latitude": -31.95383681339702,
-        "longitude": 115.8541599592554,
+        "name": "Subiaco",
+        "latitude": -31.95037093333334,
+        "longitude": 115.8165519666667,
         "timezone": "Australia/Perth"
     }
 }
