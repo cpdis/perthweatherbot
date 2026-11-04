@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-10-28 02:31:40",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970032683885,
-      "longitude": 115.820655244194,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-10-27T18:20:11+00:00",
-      "temperature_c": 17.03,
-      "temperature_f": 62.654,
-      "humidity": 55,
-      "wind_speed_mph": 13.802290000000001,
-      "wind_direction": 110,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco sits in the small hours under a polished, moonless blue-black, the air cool and settled, str...",
-    "color_code": "#0C1F3F"
-  },
-  {
     "timestamp": "2026-10-28 11:46:14",
     "location": {
       "name": "Osborne Park",
@@ -298,5 +278,25 @@
     },
     "report_summary": "Subiaco rests in the small hours beneath a cloudless dome, the air cool and faintly sweet, the stree...",
     "color_code": "#0A1F44"
+  },
+  {
+    "timestamp": "2026-11-04 12:39:13",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.949675833934,
+      "longitude": 115.8209046614993,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-11-04T04:39:13+00:00",
+      "temperature_c": 26.34,
+      "temperature_f": 79.412,
+      "humidity": 39,
+      "wind_speed_mph": 6.91233,
+      "wind_direction": 180,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco sits under a polished blue sky this early afternoon, the light unblinking and generous, shad...",
+    "color_code": "#87CEEB"
   }
 ]
