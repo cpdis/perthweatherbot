@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2026-11-03 06:04:42",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94965975695456,
-      "longitude": 115.8208133428448,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-11-02T22:04:41+00:00",
-      "temperature_c": 16.5,
-      "temperature_f": 61.7,
-      "humidity": 88,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 210,
-      "description": "overcast clouds"
-    },
-    "report_summary": "Dawn comes hushed over Subiaco, the streets rinsed and quietly shining from light overnight showers....",
-    "color_code": "#6F7A85"
-  },
-  {
-    "timestamp": "2026-11-03 13:07:20",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95383681339702,
-      "longitude": 115.8541599592554,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-11-03T05:07:13+00:00",
-      "temperature_c": 21.31,
-      "temperature_f": 70.358,
-      "humidity": 52,
-      "wind_speed_mph": 16.1064,
-      "wind_direction": 220,
-      "description": "few clouds"
-    },
-    "report_summary": "Perth settles into early afternoon with a clear, forgiving sky and just a scatter of small, idle clo...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-11-04 03:56:22",
     "location": {
       "name": "Subiaco",
@@ -298,5 +258,25 @@
     },
     "report_summary": "Dawn has rinsed Subiaco in a clean, generous light, the sky already a polished blue with no hint of ...",
     "color_code": "#9FD3F7"
+  },
+  {
+    "timestamp": "2026-11-11 04:10:38",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969729958419,
+      "longitude": 115.8206312681039,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-11-10T20:10:38+00:00",
+      "temperature_c": 15,
+      "temperature_f": 59.0,
+      "humidity": 59,
+      "wind_speed_mph": 16.1064,
+      "wind_direction": 110,
+      "description": "clear sky"
+    },
+    "report_summary": "Before dawn in Subiaco the air is still and honest, the sky a polished pane with the last stars thin...",
+    "color_code": "#1E3A5F"
   }
 ]
