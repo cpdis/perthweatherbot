@@ -1,10 +1,14 @@
 """Grounded report contract and fail-safe JSON publication."""
 import json
+import logging
 import os
 import re
 import tempfile
 from pathlib import Path
 from typing import Any, Dict
+
+logger = logging.getLogger(__name__)
+DEFAULT_REPORT_COLOR = '#426350'
 
 REPORT_FIELDS = ('headline', 'summary', 'outlook', 'clothing', 'activity', 'color_code')
 REPORT_SCHEMA: Dict[str, Any] = {
@@ -12,7 +16,23 @@ REPORT_SCHEMA: Dict[str, Any] = {
     'properties': {key: {'type': 'string'} for key in REPORT_FIELDS},
     'required': list(REPORT_FIELDS),
 }
-REPORT_SCHEMA['properties']['color_code']['pattern'] = '^#[0-9a-fA-F]{6}$'
+REPORT_SCHEMA['properties']['color_code'].update(
+    pattern='^#[0-9a-fA-F]{6}$',
+    description='Decorative accent only. Exactly #RRGGBB, for example #87CEEB.',
+)
+
+
+def normalize_report_color(value):
+    """Keep decorative model output from blocking an otherwise valid forecast."""
+    if isinstance(value, str) and len(value) <= 64:
+        color = value.strip()
+        if re.fullmatch(r'#?[0-9a-fA-F]{6}', color):
+            return '#' + color.lstrip('#').upper()
+        if re.fullmatch(r'#[0-9a-fA-F]{3}', color):
+            return '#' + ''.join(character * 2 for character in color[1:]).upper()
+    # Never pass arbitrary CSS through or log untrusted model output.
+    logger.warning('Invalid decorative report color; using default accent')
+    return DEFAULT_REPORT_COLOR
 
 
 def validate_report(text, max_words=300):
@@ -32,17 +52,18 @@ def validate_report(text, max_words=300):
     if not isinstance(report, dict) or set(report) != set(REPORT_FIELDS):
         raise ValueError('Report must contain exactly the required fields')
     for key, value in report.items():
+        if key == 'color_code':
+            continue
         if not isinstance(value, str) or not value.strip() or len(value) > 6000:
             raise ValueError(f'Invalid report field: {key}')
         report[key] = value.strip()
-    if not re.fullmatch(r'#[0-9a-fA-F]{6}', report['color_code']):
-        raise ValueError('Invalid report color')
     narrative = ' '.join(report[key] for key in REPORT_FIELDS if key != 'color_code')
     if len(narrative.split()) > max_words:
         raise ValueError('Report exceeds word budget')
     # This provider does not supply these measurements. Fail closed if mentioned.
     if re.search(r'\b(uv|ultraviolet|air quality|aqi|pollution|pollen|visibility)\b', narrative, re.I):
         raise ValueError('Report mentions an unsupported measurement')
+    report['color_code'] = normalize_report_color(report['color_code'])
     return report
 
 

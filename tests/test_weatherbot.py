@@ -71,7 +71,7 @@ def test_luna_report_generation(report_setup):
     image.assert_not_called()
 
 
-@pytest.mark.parametrize("payload", ["not json", "{}", structured_response(color_code="#abc"),
+@pytest.mark.parametrize("payload", ["not json", "{}",
     structured_response(summary="UV will be low."), structured_response(extra="unexpected"),
     structured_response(activity=" "), structured_response(summary="word " * 301)])
 def test_malformed_output_preserves_report(report_setup, payload):
@@ -147,3 +147,50 @@ def test_changed_location_does_not_reuse_scene_on_repeated_runs(report_setup):
         assert result['image']['status'] == 'unavailable'
         assert result['image']['generated_at'] is None
     assert (output_dir / 'weather_image.png').read_bytes() == b'London scene'
+
+
+@pytest.mark.parametrize(('color', 'expected'), [
+    ('#87CEEB', '#87CEEB'),
+    ('  #87ceeb  ', '#87CEEB'),
+    ('87ceeb', '#87CEEB'),
+    ('#abc', '#AABBCC'),
+    ('blue', '#426350'),
+    ('rgb(135, 206, 235)', '#426350'),
+    ('#12GG34', '#426350'),
+    ('#123456;background:url(https://example.com)', '#426350'),
+    ('', '#426350'),
+    (None, '#426350'),
+    (['#87CEEB'], '#426350'),
+    ('x' * 6001, '#426350'),
+])
+def test_decorative_color_does_not_block_weather_publication(report_setup, color, expected):
+    output_dir, weather_data, _, client, _, history, image = report_setup
+    weatherbot.load_config.return_value.gemini_api_key = 'test-image-key'
+    (output_dir / 'weather_report.json').write_text('{"weather_report":"Previous"}')
+    client.responses.create.return_value = iter([
+        SimpleNamespace(type='response.output_text.delta', delta=structured_response(color_code=color)),
+    ])
+    weatherbot.main()
+    result = json.loads((output_dir / 'weather_report.json').read_text())
+    assert result['color_code'] == expected
+    assert result['report']['summary'] == 'Soft light settles over Perth.'
+    assert result['forecast_data'] == weather_data
+    assert result['image']['status'] == 'ready'
+    history.add_entry.assert_called_once_with(result)
+    image.assert_called_once()
+    client.responses.create.assert_called_once()  # No additional paid retry for styling.
+
+
+def test_color_fallback_does_not_bypass_narrative_validation(report_setup):
+    output_dir, _, _, client, _, history, image = report_setup
+    path = output_dir / 'weather_report.json'
+    path.write_text('{"weather_report":"Previous"}')
+    client.responses.create.return_value = iter([
+        SimpleNamespace(type='response.output_text.delta',
+                        delta=structured_response(color_code='blue', summary='UV will be low.')),
+    ])
+    with pytest.raises(ValueError, match='unsupported measurement'):
+        weatherbot.main()
+    assert json.loads(path.read_text())['weather_report'] == 'Previous'
+    history.add_entry.assert_not_called()
+    image.assert_not_called()

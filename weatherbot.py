@@ -23,7 +23,8 @@ def build_prompt(weather_data, location, now, max_words):
     return f'''Write a grounded weather report for {location.name}.
 Current local time: {now.isoformat()} ({location.timezone}).
 Return only the JSON object specified by the schema, with headline, summary,
-outlook, clothing, activity and a six-digit hex color_code. Keep all text together
+outlook, clothing, activity and a decorative color_code exactly in #RRGGBB format
+(for example #87CEEB). Keep all text together
 under {max_words} words. Headline: a short atmospheric phrase. Summary: current
 conditions in one or two calm sentences. Outlook: the next 24 hours and tomorrow,
 only as far as supplied periods allow. Clothing and activity: one practical,
