@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2026-11-04 12:39:13",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.949675833934,
-      "longitude": 115.8209046614993,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-11-04T04:39:13+00:00",
-      "temperature_c": 26.34,
-      "temperature_f": 79.412,
-      "humidity": 39,
-      "wind_speed_mph": 6.91233,
-      "wind_direction": 180,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco sits under a polished blue sky this early afternoon, the light unblinking and generous, shad...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2026-11-05 04:14:13",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94970113412305,
-      "longitude": 115.8206479659058,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-11-04T20:14:13+00:00",
-      "temperature_c": 13.33,
-      "temperature_f": 55.994,
-      "humidity": 81,
-      "wind_speed_mph": 6.80048,
-      "wind_direction": 146,
-      "description": "clear sky"
-    },
-    "report_summary": "Before dawn in Subiaco the air feels clean and a little brisk, the sky already hinting at a pale sea...",
-    "color_code": "#F6C27A"
-  },
-  {
     "timestamp": "2026-11-05 12:54:07",
     "location": {
       "name": "Perth",
@@ -298,5 +258,42 @@
     },
     "report_summary": "Subiaco is heading into a clear, bright evening, with only a few clouds expected later. The forecast...",
     "color_code": "#F4B966"
+  },
+  {
+    "timestamp": "2026-11-11T23:32:57.572330+00:00",
+    "generated_at": "2026-11-11T23:32:57.572330+00:00",
+    "observed_at": "2026-11-11T23:32:47+00:00",
+    "headline": "A clear, quiet start",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94966467747867,
+      "longitude": 115.8208159783876,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "feels_like_c": 18.9,
+      "humidity": 63,
+      "cloud_cover_pct": 0,
+      "wind_speed_kmh": 5.5440000000000005,
+      "wind_gust_kmh": null,
+      "wind_gust_mph": null,
+      "precipitation_probability": null,
+      "precipitation_probability_pct": null,
+      "rain_mm": null,
+      "snow_mm": null,
+      "rain_1h_mm": null,
+      "snow_1h_mm": null,
+      "timestamp": "2026-11-11T23:32:47+00:00",
+      "temperature_c": 19.27,
+      "temperature_f": 66.686,
+      "wind_speed_mph": 3.44498,
+      "wind_direction": 300,
+      "description": "clear sky",
+      "sunrise": "2026-11-11T21:11:05+00:00",
+      "sunset": "2026-11-12T10:50:39+00:00",
+      "is_day": true
+    },
+    "report_summary": "Subiaco is clear this morning, with a temperature of 19°C and light winds. It feels close to 19°C.",
+    "color_code": "#E9B95B"
   }
 ]
