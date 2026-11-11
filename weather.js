@@ -82,7 +82,6 @@
 
     const $ = id => document.getElementById(id);
     const root = document.documentElement;
-    const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
     const systemTheme = matchMedia('(prefers-color-scheme: dark)');
     const readPreference = key => { try { return localStorage.getItem(key); } catch (_) { return null; } };
     const savePreference = (key, value) => { try { localStorage.setItem(key, value); } catch (_) { /* Private browsing is fine. */ } };
@@ -91,8 +90,6 @@
     let controller;
     let requestId = 0;
     let sceneSource = '';
-    let sceneVisible = false;
-    let manuallyPaused = readPreference('scene-motion') === 'paused';
 
     function setTheme(theme, persist = false) {
         root.dataset.theme = theme;
@@ -101,22 +98,6 @@
         if (persist) savePreference('theme', theme);
     }
     function cycleTheme() { setTheme(root.dataset.theme === 'dark' ? 'light' : 'dark', true); }
-    function syncMotion() {
-        const paused = manuallyPaused || reducedMotion.matches || document.hidden;
-        root.dataset.motion = paused ? 'paused' : 'playing';
-        $('motion-toggle').setAttribute('aria-pressed', String(paused));
-        $('motion-toggle').setAttribute('aria-label', reducedMotion.matches ? 'Scene motion off: reduced motion preference' : paused ? 'Resume scene motion' : 'Pause scene motion');
-        $('motion-toggle').title = reducedMotion.matches ? 'Motion is off because you prefer reduced motion' : paused ? 'Resume scene motion' : 'Pause scene motion';
-        $('motion-toggle').querySelector('span').textContent = paused ? 'Still' : 'Pause';
-        $('motion-toggle').disabled = reducedMotion.matches;
-    }
-    function setSceneOnly(enabled) {
-        sceneVisible = enabled;
-        root.dataset.sceneOnly = String(enabled);
-        $('return-button').hidden = !enabled;
-        $('scene-toggle').setAttribute('aria-pressed', String(enabled));
-        (enabled ? $('return-button') : $('scene-toggle')).focus();
-    }
     function element(tag, value, className) {
         const node = document.createElement(tag);
         if (value !== undefined) node.textContent = value;
@@ -207,7 +188,7 @@
         if (meta?.status === 'unavailable') {
             image.classList.remove('is-loaded');
             sceneSource = '';
-            $('scene-toggle').hidden = true;
+            image.hidden = true;
             $('scene-caption').textContent = 'The scene is unavailable. The weather report is still here.';
             return;
         }
@@ -223,7 +204,7 @@
             image.src = source;
             image.classList.add('is-loaded');
             sceneSource = source;
-            $('scene-toggle').hidden = false;
+            image.hidden = false;
         };
         pending.onerror = () => {
             clearTimeout(timeout);
@@ -231,7 +212,7 @@
             if (id !== requestId) return;
             image.classList.remove('is-loaded');
             sceneSource = '';
-            $('scene-toggle').hidden = true;
+            image.hidden = true;
             $('scene-caption').textContent = 'The scene could not load. The weather report is still here.';
         };
         pending.src = source;
@@ -294,22 +275,15 @@
         }
     }
     $('theme-toggle').addEventListener('click', cycleTheme);
-    $('motion-toggle').addEventListener('click', () => { manuallyPaused = !manuallyPaused; savePreference('scene-motion', manuallyPaused ? 'paused' : 'playing'); syncMotion(); });
     $('refresh-button').addEventListener('click', loadWeatherData);
     $('retry-button').addEventListener('click', loadWeatherData);
-    $('scene-toggle').addEventListener('click', () => setSceneOnly(true));
-    $('return-button').addEventListener('click', () => setSceneOnly(false));
     document.addEventListener('keydown', event => {
-        if (event.code === 'Escape' && sceneVisible) { setSceneOnly(false); return; }
         if (event.ctrlKey || event.metaKey || event.altKey || event.shiftKey || event.repeat || event.target.closest('input, textarea, select, [contenteditable="true"]')) return;
         if (event.code === 'KeyR') { event.preventDefault(); loadWeatherData(); }
         if (event.code === 'KeyT') { event.preventDefault(); cycleTheme(); }
     });
-    document.addEventListener('visibilitychange', syncMotion);
-    reducedMotion.addEventListener('change', syncMotion);
     systemTheme.addEventListener('change', event => { if (!readPreference('theme')) setTheme(event.matches ? 'dark' : 'light'); });
     setTheme(['dark', 'light'].includes(readPreference('theme')) ? readPreference('theme') : systemTheme.matches ? 'dark' : 'light');
-    syncMotion();
     loadWeatherData();
     setInterval(() => { if (!document.hidden) loadWeatherData(); }, 10 * 60 * 1000);
     setInterval(() => { if (currentData && !document.hidden) { updateFreshness(); renderForecast(currentData); } }, 60 * 1000);

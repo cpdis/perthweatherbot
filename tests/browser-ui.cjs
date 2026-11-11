@@ -30,25 +30,33 @@ const output = process.env.SCREENSHOT_DIR;
         assert.equal(await page.locator('#weather-report h2').textContent(), fixture.report.headline);
         assert.match(await page.locator('#forecast-note').textContent(), /Perth time/);
         assert.equal(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), true);
-        await page.locator('#motion-toggle').click();
-        assert.equal(await page.locator('html').getAttribute('data-motion'), 'paused');
+        async function assertTopImage(target) {
+            const layout = await target.evaluate(() => {
+                const image = document.getElementById('weather-image');
+                const rect = image.getBoundingClientRect();
+                return {
+                    aboveReport: rect.bottom <= document.getElementById('conditions').getBoundingClientRect().top,
+                    inFlow: getComputedStyle(image).position === 'static',
+                    uncropped: Math.abs(rect.width / rect.height - image.naturalWidth / image.naturalHeight) < .01,
+                    still: getComputedStyle(image).animationName === 'none',
+                    bounded: rect.width <= 960,
+                };
+            });
+            assert.deepEqual(layout, {aboveReport:true,inFlow:true,uncropped:true,still:true,bounded:true});
+            assert.equal(await target.locator('#motion-toggle, #scene-toggle, #return-button, .scene').count(),0);
+        }
+        await assertTopImage(page);
         if (output) { fs.mkdirSync(output, {recursive:true}); await page.screenshot({ path:path.join(output,'desktop.png'), fullPage:true }); }
         await page.locator('#theme-toggle').click();
         assert.equal(await page.locator('html').getAttribute('data-theme'), 'dark');
         if (output) await page.screenshot({path:path.join(output,'dark.png'),fullPage:true});
-        await page.locator('#scene-toggle').click();
-        assert.equal(await page.locator('#forecast-content').isVisible(), false);
-        assert.equal(await page.locator('#return-button').isVisible(), true);
-        await page.keyboard.press('Escape');
-        assert.equal(await page.locator('#forecast-content').isVisible(), true);
-        assert.equal(await page.locator('#scene-toggle').evaluate(el => el === document.activeElement), true);
         await page.locator('summary').click();
         assert.equal(await page.locator('#history-list li').count(), 3);
         await page.locator('summary').click();
         await page.keyboard.press('t');
         assert.equal(await page.locator('html').getAttribute('data-theme'), 'light');
         await page.reload();
-        assert.equal(await page.locator('html').getAttribute('data-motion'), 'paused');
+        assert.equal(await page.locator('html').getAttribute('data-theme'), 'light');
 
         // A failed refresh keeps the last successful report and offers a retry.
         await page.locator('#weather-report h2').waitFor();
@@ -75,7 +83,7 @@ const output = process.env.SCREENSHOT_DIR;
         assert.equal(await page.locator('#weather-report script').count(),0);
         assert.match(await page.locator('.forecast-rain').textContent(), /—/);
         assert.match(await page.locator('#notice').textContent(), /getting old/);
-        assert.equal(await page.locator('#scene-toggle').isVisible(),false);
+        assert.equal(await page.locator('#weather-image').isVisible(),false);
         await page.unroute('**/weather_report.json?*');
 
         // Long copy and narrow devices must still wrap without horizontal scrolling.
@@ -83,11 +91,16 @@ const output = process.env.SCREENSHOT_DIR;
         const phone = await mobile.newPage();
         await phone.goto(url);
         await phone.locator('#weather-image.is-loaded').waitFor();
-        assert.equal(await phone.locator('#motion-toggle').isDisabled(),true);
-        assert.equal(await phone.locator('#weather-image').evaluate(el => getComputedStyle(el).animationName),'none');
+        await assertTopImage(phone);
         assert.equal(await phone.evaluate(() => document.documentElement.scrollWidth <= innerWidth),true);
         if(output) await phone.screenshot({path:path.join(output,'mobile.png'),fullPage:true});
+        // A square legacy image also stays fully visible, rather than becoming a backdrop.
+        await phone.route('**/weather_image.png?*',route => route.fulfill({contentType:'image/svg+xml',body:'<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600"><rect width="600" height="600" fill="#c5d4c8"/></svg>'}));
+        await phone.reload();
+        await phone.locator('#weather-image.is-loaded').waitFor();
+        await assertTopImage(phone);
         await phone.setViewportSize({width:320,height:740});
+        await assertTopImage(phone);
         await phone.evaluate(() => {document.getElementById('location-title').textContent='A very long location name that must wrap';});
         assert.equal(await phone.evaluate(() => document.documentElement.scrollWidth <= innerWidth),true);
 
@@ -143,7 +156,7 @@ const output = process.env.SCREENSHOT_DIR;
         await privatePage.locator('#weather-report h2').waitFor();
         assert.equal(await privatePage.locator('#location-title').textContent(),'Subiaco');
         assert.deepEqual(errors,[]);
-        console.log('PASS: desktop/mobile, dark theme, reduced motion, persistence, scene-only/escape, history, refresh/retry, stale/missing data, XSS, long copy, unavailable image/history, disabled storage.');
+        console.log('PASS: uncropped top images (panoramic and square), desktop/mobile, dark theme, no animation, theme persistence, history, refresh/retry, stale/missing data, XSS, long copy, unavailable image/history, disabled storage.');
     } finally {
         await browser?.close();
         await new Promise(resolve => server.close(resolve));

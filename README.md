@@ -85,9 +85,9 @@ The generated report includes:
 
 View the live weather at [weather.cpd.dev](https://weather.cpd.dev)
 
-## Immersive Weather Vibes
+## Weather Vibes upgrades
 
-The generated scene now fills the viewport behind a readable weather panel. The miniature-city look remains, but new images are panoramic and contain no baked-in dates or temperatures. The page has a gentle camera drift, a pause control, a scene-only view, light/dark themes, a compact next-24-hours forecast, and recent reports for the displayed location. Reduced-motion settings disable animation automatically.
+The generated scene appears at the top of the page, above the weather report, in its original aspect ratio without cropping or animation. The miniature-city look remains, and new images contain no baked-in dates or temperatures. The page keeps light/dark themes, a compact next-24-hours forecast, and recent reports for the displayed location.
 
 ### Forecast and report contract
 
@@ -129,6 +129,6 @@ npx playwright install chromium
 npm run test:ui
 ```
 
-Browser tests use an isolated profile with sample data. They cover mobile/desktop layouts, dark mode, motion preferences, scene-only view/escape, history, retries, stale and missing data, unsafe model text, and unavailable artwork/history. Set `SCREENSHOT_DIR=artifacts` to save labelled preview screenshots. No live weather, model, or image-generation calls run in tests.
+Browser tests use an isolated profile with sample data. They cover mobile/desktop layouts, dark mode, uncropped top-image layout, history, retries, stale and missing data, unsafe model text, and unavailable artwork/history. Set `SCREENSHOT_DIR=artifacts` to save labelled preview screenshots. No live weather, model, or image-generation calls run in tests.
 
 The Docker/Compose setup serves the new JS/CSS assets and uses directory mounts so atomic output replacement works. nginx exposes only an explicit public-file allowlist, not `.env`, `.git`, source files, location inputs, or test fixtures.

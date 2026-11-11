@@ -6,24 +6,19 @@
     <meta name="theme-color" content="#f6f4ed">
     <meta name="description" content="A little weather, a little atmosphere. Colin’s Weather Vibes pairs a grounded local forecast with an imagined scene.">
     <title>Weather Vibes</title>
-    <link rel="stylesheet" href="weather.css">
-    <script src="weather.js" defer></script>
+    <link rel="stylesheet" href="weather.css?v=top-image-1">
+    <script src="weather.js?v=top-image-1" defer></script>
     <!-- Fathom - beautiful, simple website analytics -->
     <script src="https://cdn.usefathom.com/script.js" data-site="UHKFMDXD" defer></script>
 </head>
 <body>
     <a class="skip-link" href="#forecast-content">Skip to weather</a>
-    <div class="scene" aria-hidden="true">
-        <img id="weather-image" alt="" decoding="async">
-        <div class="scene-shade"></div>
-    </div>
     <header class="site-header">
         <a class="wordmark" href="./" aria-label="Weather Vibes home">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="10" cy="10" r="4"/><path d="M10 1v2m0 14v2M1 10h2m14 0h2M3.6 3.6 5 5m10 10 1.4 1.4M3.6 16.4 5 15M15 5l1.4-1.4M13 21h7a3 3 0 0 0 .1-6 4 4 0 0 0-7.6-1.1"/></svg>
             <span>Weather Vibes<span class="byline">by Colin</span></span>
         </a>
         <nav class="controls" aria-label="Display controls">
-            <button id="motion-toggle" type="button" aria-pressed="false" title="Pause scene motion"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 5v14M15 5v14"/></svg><span class="control-label">Pause</span></button>
             <button id="theme-toggle" type="button" aria-label="Switch to dark mode" title="Toggle color mode (T)"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M20.5 14.1A9 9 0 0 1 9.9 3.5a9 9 0 1 0 10.6 10.6Z"/></svg><span class="control-label">Theme</span></button>
             <button id="refresh-button" type="button" aria-label="Refresh weather report" title="Refresh weather (R)"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M20 7v5h-5M4 17v-5h5M19 11a7 7 0 0 0-12-5L4 9m16 6-3 3A7 7 0 0 1 5 13"/></svg><span class="control-label">Refresh</span></button>
         </nav>
@@ -34,6 +29,10 @@
                 <div class="place-line"><h1 id="location-title">Your weather</h1><span id="local-date"></span></div>
                 <div class="update-line"><span class="status-dot" aria-hidden="true"></span><span id="freshness">Loading the latest report…</span></div>
                 <p id="notice" class="notice" role="status" hidden></p>
+                <figure class="weather-artwork">
+                    <img id="weather-image" alt="AI-generated weather scene" decoding="async" hidden>
+                    <figcaption id="scene-caption">AI-generated scene · an impression, not a live view</figcaption>
+                </figure>
                 <section id="conditions" class="conditions" aria-label="Last observed weather" hidden>
                     <div class="condition-line"><span id="temperature"></span><span id="condition-description"></span></div>
                     <p id="condition-details"></p>
@@ -47,10 +46,6 @@
                 </div>
                 <p id="timestamp" class="small-note"></p>
             </article>
-            <aside class="scene-note" aria-label="About the background scene">
-                <button id="scene-toggle" type="button" aria-pressed="false">View the scene <span aria-hidden="true">↗</span></button>
-                <span id="scene-caption">AI-generated scene · an impression, not a live view</span>
-            </aside>
         </div>
         <div class="forecast-dock">
             <section class="forecast-section" aria-labelledby="forecast-title">
@@ -68,7 +63,6 @@
             </footer>
         </div>
     </main>
-    <button id="return-button" type="button" hidden>Back to the weather</button>
     <noscript><p class="noscript">JavaScript is needed to display the latest report. You can <a href="weather_report.json">read the weather data</a> directly.</p></noscript>
 </body>
 </html>
