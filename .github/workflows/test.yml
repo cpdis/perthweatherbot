@@ -61,6 +61,23 @@ jobs:
         name: codecov-umbrella
         fail_ci_if_error: false
 
+  frontend:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
+      with:
+        node-version: '22'
+        cache: npm
+    - run: npm ci
+    - run: npm test
+    # Packaged Chrome has an AppArmor profile on newer Ubuntu runners.
+    # Keep Chromium sandboxing enabled without changing host security settings.
+    - run: google-chrome --version
+    - run: npm run test:ui
+      env:
+        PLAYWRIGHT_CHANNEL: chrome
+
   docker-build:
     runs-on: ubuntu-latest
     needs: test

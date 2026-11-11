@@ -38,31 +38,71 @@ def report_setup(monkeypatch, tmp_path):
     return tmp_path, weather_data, model, client, get_model, history, image
 
 
-@pytest.mark.parametrize("color", ["#87CEEB", "#abc", None])
-def test_luna_report_generation(report_setup, color):
+def structured_response(**overrides):
+    value = dict(headline="Soft light", summary="Soft light settles over Perth.",
+                 outlook="A mild afternoon is forecast.", clothing="A light shirt will suit.",
+                 activity="Take a quiet walk.", color_code="#87CEEB")
+    value.update(overrides)
+    return json.dumps(value)
+
+
+def test_luna_report_generation(report_setup):
     output_dir, weather_data, model, client, get_model, history, image = report_setup
-    narrative = "Soft light settles over Perth. A light shirt will suit a quiet walk."
-    response = narrative + (f"\n\n{color}" if color else "")
     client.responses.create.return_value = iter([
-        SimpleNamespace(type="response.output_text.delta", delta=response),
+        SimpleNamespace(type="response.output_text.delta", delta=structured_response()),
     ])
-
     weatherbot.main()
-
     get_model.assert_called_once_with("gpt-6-luna")
-    assert model.model_id == "gpt-6-luna"
     request = client.responses.create.call_args.kwargs
     assert request["model"] == "gpt-6-luna"
-    assert request["stream"] is True
+    assert request["text"]["format"]["type"] == "json_schema"
+    assert request["text"]["format"]["schema"]["additionalProperties"] is False
     assert "Sunny, 24 C" in json.dumps(request["input"])
     assert "under 300 words" in json.dumps(request["input"])
     result = json.loads((output_dir / "weather_report.json").read_text())
-    assert result["weather_report"] == narrative
-    assert result["color_code"] == color
+    assert result["report"]["headline"] == "Soft light"
+    assert result["color_code"] == "#87CEEB"
     assert result["forecast_data"] == weather_data
-    assert result["location"]["name"] == "Perth"
+    assert result["generated_at"].endswith("+00:00")
+    assert result["timestamp"].endswith("+08:00")
+    assert result["observed_at"] is None
+    assert result["image"]["status"] == "unavailable"
     history.add_entry.assert_called_once_with(result)
     image.assert_not_called()
+
+
+@pytest.mark.parametrize("payload", ["not json", "{}", structured_response(color_code="#abc"),
+    structured_response(summary="UV will be low."), structured_response(extra="unexpected"),
+    structured_response(activity=" "), structured_response(summary="word " * 301)])
+def test_malformed_output_preserves_report(report_setup, payload):
+    output_dir, _, _, client, _, history, image = report_setup
+    path = output_dir / "weather_report.json"
+    path.write_text('{"weather_report":"Previous"}')
+    client.responses.create.return_value = iter([
+        SimpleNamespace(type="response.output_text.delta", delta=payload),
+    ])
+    with pytest.raises(ValueError):
+        weatherbot.main()
+    assert json.loads(path.read_text())["weather_report"] == "Previous"
+    history.add_entry.assert_not_called()
+    image.assert_not_called()
+
+
+def test_image_failure_preserves_metadata(report_setup):
+    output_dir, _, _, client, _, _, image = report_setup
+    weatherbot.load_config.return_value.gemini_api_key = "test"
+    (output_dir / "weather_image.png").write_bytes(b"previous scene")
+    (output_dir / "weather_report.json").write_text(json.dumps({
+        "location": vars(weatherbot.load_config.return_value.current_location),
+        "image": {"generated_at": "2026-11-10T12:00:00+00:00"}}))
+    image.side_effect = RuntimeError("image unavailable")
+    client.responses.create.return_value = iter([
+        SimpleNamespace(type="response.output_text.delta", delta=structured_response()),
+    ])
+    weatherbot.main()
+    result = json.loads((output_dir / "weather_report.json").read_text())
+    assert result["image"]["status"] == "previous"
+    assert result["image"]["generated_at"] == "2026-11-10T12:00:00+00:00"
 
 
 def test_luna_api_failure_preserves_previous_report(report_setup):
@@ -77,3 +117,33 @@ def test_luna_api_failure_preserves_previous_report(report_setup):
     assert json.loads(report.read_text())["weather_report"] == "Previous report"
     history.add_entry.assert_not_called()
     image.assert_not_called()
+
+
+@pytest.mark.parametrize('previous', [[], None, {'image': None}, {'image': []}])
+def test_malformed_previous_metadata_does_not_block(report_setup, previous):
+    output_dir, _, _, client, _, _, _ = report_setup
+    (output_dir / 'weather_report.json').write_text(json.dumps(previous))
+    (output_dir / 'weather_image.png').write_bytes(b'old scene')
+    client.responses.create.return_value = iter([
+        SimpleNamespace(type='response.output_text.delta', delta=structured_response()),
+    ])
+    weatherbot.main()
+    result = json.loads((output_dir / 'weather_report.json').read_text())
+    assert result['image']['status'] == 'unavailable'
+
+
+def test_changed_location_does_not_reuse_scene_on_repeated_runs(report_setup):
+    output_dir, _, _, client, _, _, _ = report_setup
+    previous_location = dict(vars(weatherbot.load_config.return_value.current_location), name='London')
+    (output_dir / 'weather_report.json').write_text(json.dumps({
+        'location': previous_location, 'image': {'status': 'ready', 'generated_at': '2026-11-10T12:00:00Z'}}))
+    (output_dir / 'weather_image.png').write_bytes(b'London scene')
+    for _ in range(2):
+        client.responses.create.return_value = iter([
+            SimpleNamespace(type='response.output_text.delta', delta=structured_response()),
+        ])
+        weatherbot.main()
+        result = json.loads((output_dir / 'weather_report.json').read_text())
+        assert result['image']['status'] == 'unavailable'
+        assert result['image']['generated_at'] is None
+    assert (output_dir / 'weather_image.png').read_bytes() == b'London scene'

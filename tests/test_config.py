@@ -58,7 +58,7 @@ class TestWeatherBotConfig(unittest.TestCase):
         )
         self.assertEqual(config.current_location, self.location)
         self.assertEqual(config.log_level, "INFO")
-        self.assertEqual(config.forecast_hours, 6)
+        self.assertEqual(config.forecast_hours, 48)
     
     def test_invalid_forecast_hours(self):
         """Test that invalid forecast hours raises error"""
@@ -135,3 +135,10 @@ class TestConfigLoading(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+def test_forecast_horizon_upper_bound():
+    import pytest
+    location = LocationConfig('Test', 0, 0)
+    assert WeatherBotConfig(location, [location], 'test', 'test', forecast_hours=48).forecast_hours == 48
+    with pytest.raises(ConfigurationError, match='between 3 and 48'):
+        WeatherBotConfig(location, [location], 'test', 'test', forecast_hours=49)

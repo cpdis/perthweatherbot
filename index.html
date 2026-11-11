@@ -3,559 +3,72 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css" integrity="sha512-EZLkOqwILORob+p0BXZc+Vm3RgJBOe1Iq/0fiI7r/wJgzOFZMlsqTa29UEl6v6U6gsV4uIpsNZoV32YZqrCRCQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <title>Weather Report</title>
-    <style>
-        :root {
-            --bg-color: #fff;
-            --text-color: #222;
-            --link-color: #1EAEDB;
-            --divider-color: #E1E1E1;
-            --toggle-color: #222;
-        }
-
-        :root[data-theme="dark"] {
-            --bg-color: #222;
-            --text-color: #fff;
-            --link-color: #6CE2FF;
-            --divider-color: #444;
-            --toggle-color: #fff;
-        }
-
-        body {
-            font-family: monospace; /* Ensure monospace font */
-            background-color: var(--bg-color);
-            color: var(--text-color);
-            transition: background-color 0.3s ease, color 0.3s ease;
-        }
-
-        a {
-            color: var(--link-color);
-        }
-
-        .divider {
-            border-top: 1px solid var(--divider-color);
-        }
-
-        .container {
-            margin-top: 2rem;
-        }
-
-        .cropped-image {
-            max-width: 100%;
-            height: auto;
-            border-radius: 0;
-        }
-
-        /* Theme toggle styles */
-        .theme-toggle {
-            width: 46px;
-            height: 46px;
-            box-sizing: border-box;
-            padding: 12px;
-            background: none;
-            border: none;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            position: relative;
-            cursor: pointer;
-            margin-left: 1rem;
-        }
-
-        .sun {
-            width: 50%;
-            height: 50%;
-            position: absolute;
-            pointer-events: none;
-            opacity: 0;
-            transform: scale(0.6) rotate(0deg);
-            transition: transform 0.3s ease-in, opacity 0.2s ease-in 0.1s;
-            background: radial-gradient(
-                circle,
-                rgba(0, 0, 0, 0),
-                rgba(0, 0, 0, 0) 50%,
-                var(--toggle-color) 50%
-            );
-        }
-
-        .sun:before {
-            content: "";
-            position: absolute;
-            display: block;
-            width: 100%;
-            height: 100%;
-            background: radial-gradient(
-                circle,
-                var(--toggle-color) 30%,
-                rgba(0, 0, 0, 0) 31%,
-                rgba(0, 0, 0, 0) 50%,
-                var(--toggle-color) 50%
-            );
-            transform: rotate(45deg);
-        }
-
-        .sun.visible {
-            pointer-events: auto;
-            opacity: 1;
-            transform: scale(1) rotate(180deg);
-            transition: transform 0.3s ease-in, opacity 0.2s ease-in 0.1s;
-        }
-
-        .moon {
-            width: 50%;
-            height: 50%;
-            pointer-events: none;
-            position: absolute;
-            left: 12.5%;
-            top: 18.75%;
-            background-color: rgba(0, 0, 0, 0);
-            border-radius: 50%;
-            box-shadow: 9px 3px 0px 0px var(--toggle-color);
-            opacity: 0;
-            transform: scale(0.3) rotate(65deg);
-            transition: transform 0.3s ease-in, opacity 0.2s ease-in 0.1s;
-        }
-
-        .moon.visible {
-            pointer-events: auto;
-            opacity: 1;
-            transform: scale(1) rotate(0deg);
-            transition: transform 0.3s ease-in, opacity 0.2s ease-in 0.1s;
-        }
-
-        .star {
-            position: absolute;
-            top: 25%;
-            left: 5%;
-            display: block;
-            width: 0px;
-            height: 0px;
-            border-right: 7px solid rgba(0, 0, 0, 0);
-            border-bottom: 5px solid var(--toggle-color);
-            border-left: 7px solid rgba(0, 0, 0, 0);
-            transform: scale(0.55) rotate(35deg);
-            opacity: 0;
-            transition: all 0.2s ease-in 0.4s;
-        }
-
-        .star:before {
-            border-bottom: 5px solid var(--toggle-color);
-            border-left: 3px solid rgba(0, 0, 0, 0);
-            border-right: 3px solid rgba(0, 0, 0, 0);
-            position: absolute;
-            height: 0;
-            width: 0;
-            top: -3px;
-            left: -5px;
-            display: block;
-            content: "";
-            transform: rotate(-35deg);
-        }
-
-        .star:after {
-            position: absolute;
-            display: block;
-            top: 0px;
-            left: -7px;
-            width: 0px;
-            height: 0px;
-            border-right: 7px solid rgba(0, 0, 0, 0);
-            border-bottom: 5px solid var(--toggle-color);
-            border-left: 7px solid rgba(0, 0, 0, 0);
-            transform: rotate(-70deg);
-            content: "";
-        }
-
-        .moon.visible .star {
-            opacity: 0.8;
-        }
-
-        .star.small {
-            transform: scale(0.35) rotate(35deg);
-            position: relative;
-            top: 50%;
-            left: 37.5%;
-            opacity: 0;
-            transition: all 0.2s ease-in 0.45s;
-        }
-
-        .moon.visible .star.small {
-            opacity: 0.7;
-            transform: scale(0.45) rotate(35deg);
-        }
-
-        .header-container {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            margin-top: 3em;
-            margin-bottom: 2rem;
-        }
-
-        /* Heading styles */
-        h1 {
-            font-family: monospace; /* Ensure monospace font */
-            font-size: clamp(2rem, 5vw, 3rem);
-            line-height: 1.2;
-            margin: 0;
-            font-weight: 700;
-            letter-spacing: -0.02em;
-        }
-
-        h3 {
-            font-family: monospace; /* Ensure monospace font */
-            font-size: clamp(1.2rem, 2vw, 1.5rem);
-            line-height: 1.2;
-            font-style: italic;
-            letter-spacing: -0.02em;
-        }
-
-        /* Container for better readability */
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 0 1rem;
-        }
-
-        @media (min-width: 768px) {
-            .container {
-                padding: 0 2rem;
-                max-width: 1000px;
-            }
-        }
-
-        /* Mobile improvements */
-        @media (max-width: 767px) {
-            .container {
-                padding: 0 0.75rem;
-            }
-            
-            .header-container {
-                flex-direction: column;
-                align-items: center;
-                gap: 1rem;
-                text-align: center;
-            }
-            
-            h1 {
-                font-size: clamp(1.5rem, 8vw, 2.5rem);
-            }
-            
-            #weather-report {
-                font-size: 1.4rem;
-                line-height: 1.5;
-            }
-            
-        }
-
-        hr {
-            margin-top: 1em;
-            height: 4px;
-        }
-
-        /* Footer styles */
-        #footer {
-            margin-top: 2em;
-            font-size: 1.2rem;
-            color: #666;
-        }
-
-        #footer p {
-            margin: 1em 0;
-        }
-
-        /* Image styles */
-        .cropped-image-container {
-            width: 100%;
-            position: relative;
-            overflow: hidden;
-            margin-bottom: 2em;
-        }
-
-        .cropped-image {
-            width: 100%;
-            height: auto;
-            object-fit: contain;
-            border-radius: 8px;
-        }
-
-        #weather-report {
-            font-size: 1.75rem;
-            line-height: 1.6;
-            margin-bottom: 2em;
-            min-height: 200px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-        
-        /* Loading and error states */
-        .loading {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 1rem;
-            color: #666;
-            font-style: italic;
-        }
-        
-        .error {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 1rem;
-            color: #e74c3c;
-            text-align: center;
-        }
-        
-        .spinner {
-            border: 3px solid #f3f3f3;
-            border-top: 3px solid var(--text-color);
-            border-radius: 50%;
-            width: 30px;
-            height: 30px;
-            animation: spin 1s linear infinite;
-        }
-        
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-        
-        .retry-button {
-            background-color: var(--link-color);
-            color: white;
-            border: none;
-            padding: 0.5rem 1rem;
-            border-radius: 4px;
-            cursor: pointer;
-            font-size: 1rem;
-        }
-        
-        .retry-button:hover {
-            opacity: 0.8;
-        }
-
-        /* Location selector styles */
-        .location-selector {
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-            margin-bottom: 1rem;
-        }
-        
-        .location-selector select {
-            background-color: var(--bg-color);
-            color: var(--text-color);
-            border: 1px solid var(--divider-color);
-            border-radius: 4px;
-            padding: 0.25rem 0.5rem;
-            font-size: 0.9rem;
-        }
-        
-        .location-selector label {
-            font-size: 0.9rem;
-            color: var(--text-color);
-        }
-        
-        @media (max-width: 767px) {
-            .location-selector {
-                flex-direction: column;
-                align-items: stretch;
-                text-align: center;
-            }
-        }
-
-    </style>
-    <script>
-        const systemThemeMedia = window.matchMedia('(prefers-color-scheme: dark)');
-        
-        function setTheme(theme) {
-            document.documentElement.setAttribute('data-theme', theme);
-            localStorage.setItem('theme', theme);
-            updateThemeIcons(theme);
-        }
-
-        function updateThemeIcons(theme) {
-            const sun = document.querySelector('.sun');
-            const moon = document.querySelector('.moon');
-            
-            if (theme === 'dark') {
-                sun.classList.remove('visible');
-                moon.classList.add('visible');
-            } else {
-                sun.classList.add('visible');
-                moon.classList.remove('visible');
-            }
-        }
-
-        function cycleTheme() {
-            const currentTheme = localStorage.getItem('theme') || (systemThemeMedia.matches ? 'dark' : 'light');
-            const nextTheme = currentTheme === 'light' ? 'dark' : 'light';
-            setTheme(nextTheme);
-        }
-
-        function showLoading() {
-            const weatherReport = document.getElementById('weather-report');
-            weatherReport.innerHTML = `
-                <div class="loading">
-                    <div class="spinner"></div>
-                    <div>Loading weather forecast...</div>
-                </div>
-            `;
-        }
-        
-        function showError(message) {
-            const weatherReport = document.getElementById('weather-report');
-            weatherReport.innerHTML = `
-                <div class="error">
-                    <div>⚠️ ${message}</div>
-                    <button class="retry-button" onclick="loadWeatherData()">Retry</button>
-                </div>
-            `;
-        }
-        
-        function loadWeatherData() {
-            showLoading();
-            
-            fetch('weather_report.json?t=' + Date.now()) // Add timestamp to prevent caching
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error(`HTTP ${response.status}: ${response.statusText}`);
-                    }
-                    return response.json();
-                })
-                .then(data => {
-                    // Update weather report content
-                    document.getElementById('weather-report').innerHTML = data.weather_report;
-                    
-                    // Update timestamp
-                    const options = { year: 'numeric', month: 'long', day: 'numeric', hour: 'numeric', minute: 'numeric'};
-                    let timestampText;
-                    
-                    if (data.location && data.location.timezone) {
-                        timestampText = `Generated on ${new Date(data.timestamp).toLocaleDateString('en-US', options)}, ${data.location.timezone.split('/').pop()} time.`;
-                    } else {
-                        timestampText = `Generated on ${new Date(data.timestamp).toLocaleDateString('en-US', options)}.`;
-                    }
-                    
-                    document.getElementById('timestamp').innerText = timestampText;
-                    
-                    // Update color theme
-                    if (data.color_code) {
-                        document.querySelectorAll('.divider').forEach(element => {
-                            element.style.backgroundColor = data.color_code;
-                        });
-                    }
-                    
-                    // Update the title with the current location
-                    const locationName = data.forecast_data?.location?.name || data.location?.name || 'Weather';
-                    document.getElementById('location-title').innerText = locationName + ' Weather Vibes';
-
-                    // Refresh weather image with cache-busting
-                    const weatherImage = document.getElementById('weather-image');
-                    weatherImage.src = `weather_image.png?t=${Date.now()}`;
-
-                    // Load and populate location selector if multiple locations available
-                    loadLocationSelector(data);
-                })
-                .catch(error => {
-                    console.error('Error loading weather report:', error);
-                    showError('Failed to load weather forecast. Please try again.');
-                });
-        }
-        
-        function loadLocationSelector(weatherData) {
-            // Check if multiple locations are configured
-            if (weatherData.location && weatherData.location.name) {
-                const selector = document.getElementById('location-selector');
-                const select = document.getElementById('location-select');
-                
-                // For now, just show current location
-                // In the future, this could be expanded to load from a locations API endpoint
-                select.innerHTML = `<option value="current">${weatherData.location.name}</option>`;
-                
-                // Show selector if we have options (future enhancement)
-                // selector.style.display = 'flex';
-            }
-        }
-        
-        function changeLocation() {
-            // Future enhancement: reload weather data for selected location
-            const selectedLocation = document.getElementById('location-select').value;
-            console.log('Location changed to:', selectedLocation);
-            // loadWeatherData(); // Uncomment when backend supports location switching
-        }
-        
-        // Add keyboard shortcuts
-        document.addEventListener('keydown', function(e) {
-            // R key to refresh
-            if (e.code === 'KeyR' && !e.ctrlKey && !e.metaKey) {
-                e.preventDefault();
-                loadWeatherData();
-            }
-            // T key to toggle theme
-            if (e.code === 'KeyT' && !e.ctrlKey && !e.metaKey) {
-                e.preventDefault();
-                cycleTheme();
-            }
-        });
-
-        document.addEventListener('DOMContentLoaded', function() {
-            // Set initial theme based on system preference if no theme is saved
-            const savedTheme = localStorage.getItem('theme');
-            const initialTheme = savedTheme || (systemThemeMedia.matches ? 'dark' : 'light');
-            setTheme(initialTheme);
-
-            // Load weather data
-            loadWeatherData();
-            
-            // Auto-refresh every 10 minutes
-            setInterval(loadWeatherData, 10 * 60 * 1000);
-        });
-    </script>
+    <meta name="theme-color" content="#f6f4ed">
+    <meta name="description" content="A little weather, a little atmosphere. Colin’s Weather Vibes pairs a grounded local forecast with an imagined scene.">
+    <title>Weather Vibes</title>
+    <link rel="stylesheet" href="weather.css">
+    <script src="weather.js" defer></script>
     <!-- Fathom - beautiful, simple website analytics -->
     <script src="https://cdn.usefathom.com/script.js" data-site="UHKFMDXD" defer></script>
-    <!-- / Fathom -->
 </head>
 <body>
-    <div class="container">
-        <div class="header-container">
-            <h1 id="location-title">Perth Weather</h1>
-            <button class="theme-toggle" aria-label="Toggle color mode" title="Toggle color mode" onclick="cycleTheme()">
-                <div class="sun"></div>
-                <div class="moon">
-                    <div class="star"></div>
-                    <div class="star small"></div>
-                </div>
-            </button>
-        </div>
-        <div class="location-selector" id="location-selector" style="display: none;">
-            <label for="location-select">Location:</label>
-            <select id="location-select" onchange="changeLocation()">
-                <!-- Options will be populated by JavaScript -->
-            </select>
-        </div>
-        <hr class="divider">
-        <div class="cropped-image-container">
-            <img id="weather-image" src="weather_image.png" alt="AI-generated weather scene" class="cropped-image" onerror="this.src='perth-in-the-clouds.jpg'; this.alt='Perth skyline view';">
-        </div>
-        <div id="weather-report">
-            <div class="loading">
-                <div class="spinner"></div>
-                <div>Loading weather forecast...</div>
-            </div>
-        </div>
-        <hr class="divider">
-        <div id="footer">
-            <p id="timestamp">Loading timestamp...</p>
-            <p id="health-status" style="font-size: 0.9rem; color: #666;"></p>
-            <p>By <a href="https://www.colindismuke.com">Colin Dismuke</a>. Powered by the <a href="https://openweathermap.org/">OpenWeather API</a>, <a href="https://llm.datasette.io/en/stable/">llm</a>, and vibes.</p>
-            <p>View <a href="https://github.com/cpdis/perthweatherbot">the code</a>. <span style="color: #666; font-size: 0.8rem;">Keyboard shortcuts: R (refresh), T (theme)</span></p>
-        </div>
+    <a class="skip-link" href="#forecast-content">Skip to weather</a>
+    <div class="scene" aria-hidden="true">
+        <img id="weather-image" alt="" decoding="async">
+        <div class="scene-shade"></div>
     </div>
-
+    <header class="site-header">
+        <a class="wordmark" href="./" aria-label="Weather Vibes home">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="10" cy="10" r="4"/><path d="M10 1v2m0 14v2M1 10h2m14 0h2M3.6 3.6 5 5m10 10 1.4 1.4M3.6 16.4 5 15M15 5l1.4-1.4M13 21h7a3 3 0 0 0 .1-6 4 4 0 0 0-7.6-1.1"/></svg>
+            <span>Weather Vibes<span class="byline">by Colin</span></span>
+        </a>
+        <nav class="controls" aria-label="Display controls">
+            <button id="motion-toggle" type="button" aria-pressed="false" title="Pause scene motion"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 5v14M15 5v14"/></svg><span class="control-label">Pause</span></button>
+            <button id="theme-toggle" type="button" aria-label="Switch to dark mode" title="Toggle color mode (T)"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M20.5 14.1A9 9 0 0 1 9.9 3.5a9 9 0 1 0 10.6 10.6Z"/></svg><span class="control-label">Theme</span></button>
+            <button id="refresh-button" type="button" aria-label="Refresh weather report" title="Refresh weather (R)"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M20 7v5h-5M4 17v-5h5M19 11a7 7 0 0 0-12-5L4 9m16 6-3 3A7 7 0 0 1 5 13"/></svg><span class="control-label">Refresh</span></button>
+        </nav>
+    </header>
+    <main id="forecast-content" tabindex="-1">
+        <div class="weather-stage">
+            <article class="reading-panel" aria-labelledby="location-title">
+                <div class="place-line"><h1 id="location-title">Your weather</h1><span id="local-date"></span></div>
+                <div class="update-line"><span class="status-dot" aria-hidden="true"></span><span id="freshness">Loading the latest report…</span></div>
+                <p id="notice" class="notice" role="status" hidden></p>
+                <section id="conditions" class="conditions" aria-label="Last observed weather" hidden>
+                    <div class="condition-line"><span id="temperature"></span><span id="condition-description"></span></div>
+                    <p id="condition-details"></p>
+                    <p id="observation-time" class="small-note"></p>
+                </section>
+                <div id="weather-report" aria-live="polite" aria-busy="true"><p class="loading">Gathering the weather and a little atmosphere.</p></div>
+                <button id="retry-button" type="button" hidden>Try again</button>
+                <div id="report-details" class="report-details" hidden>
+                    <div><h2>What to wear</h2><p id="clothing"></p></div>
+                    <div><h2>A little outside time</h2><p id="activity"></p></div>
+                </div>
+                <p id="timestamp" class="small-note"></p>
+            </article>
+            <aside class="scene-note" aria-label="About the background scene">
+                <button id="scene-toggle" type="button" aria-pressed="false">View the scene <span aria-hidden="true">↗</span></button>
+                <span id="scene-caption">AI-generated scene · an impression, not a live view</span>
+            </aside>
+        </div>
+        <div class="forecast-dock">
+            <section class="forecast-section" aria-labelledby="forecast-title">
+                <div class="section-heading"><h2 id="forecast-title">The hours ahead</h2><span id="forecast-note">3-hour forecast · local time</span></div>
+                <div id="forecast-list" class="forecast-list"><p class="small-note">The forecast will appear here.</p></div>
+            </section>
+            <details id="history-section" class="history-section">
+                <summary>Earlier weather vibes <span id="history-count"></span></summary>
+                <p class="small-note">Previous reports for this location. These are past observations, not a forecast.</p>
+                <ol id="history-list"><li>Loading recent reports…</li></ol>
+            </details>
+            <footer>
+                <p>By <a href="https://www.colindismuke.com">Colin Dismuke</a>. Powered by <a href="https://openweathermap.org/">OpenWeather</a>, <a href="https://llm.datasette.io/en/stable/">llm</a>, and vibes.</p>
+                <p><a href="https://github.com/cpdis/perthweatherbot">View the code</a><span class="keyboard-hint">R to refresh · T for theme</span></p>
+            </footer>
+        </div>
+    </main>
+    <button id="return-button" type="button" hidden>Back to the weather</button>
+    <noscript><p class="noscript">JavaScript is needed to display the latest report. You can <a href="weather_report.json">read the weather data</a> directly.</p></noscript>
 </body>
-
 </html>
