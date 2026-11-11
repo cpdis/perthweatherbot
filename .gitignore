@@ -53,3 +53,9 @@ Thumbs.db
 
 # Cache
 .cache/
+# Frontend test dependencies and local review output
+node_modules/
+artifacts/
+htmlcov/
+.coverage
+coverage.xml

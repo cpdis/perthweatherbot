@@ -1,6 +1,8 @@
 import json
 import logging
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
+from report import atomic_write_json
 from pathlib import Path
 from typing import Dict, Any, List, Optional
 
@@ -22,10 +24,13 @@ class WeatherHistory:
             
             # Create history entry
             entry = {
-                "timestamp": weather_report.get("timestamp"),
+                "timestamp": weather_report.get("generated_at", weather_report.get("timestamp")),
+                "generated_at": weather_report.get("generated_at"),
+                "observed_at": weather_report.get("observed_at"),
+                "headline": weather_report.get("report", {}).get("headline"),
                 "location": weather_report.get("location", {}),
                 "current_conditions": weather_report.get("forecast_data", {}).get("current_conditions", {}),
-                "report_summary": weather_report.get("weather_report", "")[:100] + "...",  # First 100 chars
+                "report_summary": weather_report.get("report", {}).get("summary") or weather_report.get("weather_report", "")[:240],
                 "color_code": weather_report.get("color_code")
             }
             
@@ -43,25 +48,35 @@ class WeatherHistory:
         except Exception as e:
             logger.error(f"Failed to add entry to weather history: {e}")
     
+    @staticmethod
+    def _entry_time(entry):
+        value = entry.get('generated_at') or entry['timestamp']
+        parsed = datetime.fromisoformat(value.replace('Z', '+00:00'))
+        if parsed.tzinfo is None:
+            # Old reports stored local wall time; never use the server timezone.
+            name = entry.get('location', {}).get('timezone') or 'Australia/Perth'
+            parsed = parsed.replace(tzinfo=ZoneInfo(name))
+        return parsed.astimezone(timezone.utc)
+
     def get_recent_entries(self, hours: int = 24) -> List[Dict[str, Any]]:
         """Get weather entries from the last N hours"""
         try:
             history = self._load_history()
             
             # Filter entries from last N hours
-            cutoff_time = datetime.now() - timedelta(hours=hours)
+            cutoff_time = datetime.now(timezone.utc) - timedelta(hours=hours)
             recent_entries = []
             
             for entry in history:
                 if entry.get("timestamp"):
                     try:
-                        entry_time = datetime.fromisoformat(entry["timestamp"].replace("Z", "+00:00"))
+                        entry_time = self._entry_time(entry)
                         if entry_time >= cutoff_time:
                             recent_entries.append(entry)
-                    except (ValueError, TypeError):
+                    except (ValueError, TypeError, KeyError):
                         continue
             
-            return recent_entries[-50:]  # Return max 50 entries
+            return sorted(recent_entries, key=self._entry_time)[-50:]  # Return max 50 entries
             
         except Exception as e:
             logger.error(f"Failed to get recent weather history: {e}")
@@ -118,16 +133,18 @@ class WeatherHistory:
         
         try:
             with open(self.history_file, 'r') as f:
-                return json.load(f)
+                data = json.load(f)
+                if not isinstance(data, list) or any(not isinstance(row, dict) for row in data):
+                    raise ValueError('History must be a list of objects')
+                return data
         except (json.JSONDecodeError, IOError) as e:
             logger.warning(f"Failed to load weather history: {e}")
-            return []
+            raise
     
     def _save_history(self, history: List[Dict[str, Any]]) -> None:
         """Save weather history to file"""
         try:
-            with open(self.history_file, 'w') as f:
-                json.dump(history, f, indent=2)
+            atomic_write_json(self.history_file, history)
         except IOError as e:
             logger.error(f"Failed to save weather history: {e}")
             raise
@@ -136,16 +153,16 @@ class WeatherHistory:
         """Remove entries older than specified days"""
         try:
             history = self._load_history()
-            cutoff_time = datetime.now() - timedelta(days=days)
+            cutoff_time = datetime.now(timezone.utc) - timedelta(days=days)
             
             filtered_history = []
             for entry in history:
                 if entry.get("timestamp"):
                     try:
-                        entry_time = datetime.fromisoformat(entry["timestamp"].replace("Z", "+00:00"))
+                        entry_time = self._entry_time(entry)
                         if entry_time >= cutoff_time:
                             filtered_history.append(entry)
-                    except (ValueError, TypeError):
+                    except (ValueError, TypeError, KeyError):
                         continue
             
             if len(filtered_history) != len(history):

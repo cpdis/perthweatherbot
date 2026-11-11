@@ -19,8 +19,10 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY *.py ./
 COPY *.json ./
 COPY *.html ./
+COPY *.css ./
+COPY *.js ./
 COPY *.jpg ./
-COPY *.mp3 ./
+COPY *.png ./
 
 # Create necessary directories
 RUN mkdir -p .cache logs

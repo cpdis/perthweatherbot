@@ -1,0 +1,10 @@
+{
+  "name": "weather-vibes-ui",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/weather-ui.test.cjs",
+    "test:ui": "node tests/browser-ui.cjs",
+    "preview": "node scripts/preview.cjs"
+  },
+  "devDependencies": { "playwright": "1.64.1" }
+}

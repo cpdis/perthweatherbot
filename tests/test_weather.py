@@ -111,3 +111,65 @@ class TestWeatherService(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+def test_rich_forecast_and_optional_measurements():
+    service = WeatherService('fake', enable_cache=False)
+    current = {'dt': 1800000000, 'main': {'temp': 22, 'feels_like': 23, 'humidity': 60},
+               'weather': [{'description': 'cloudy'}], 'clouds': {'all': 80},
+               'wind': {'speed': 5, 'gust': 8}, 'sys': {'sunrise': 1799990000, 'sunset': 1800010000}}
+    periods = [dict(current, dt=1800000000 + i * 10800, pop=.4, rain={'3h': 1.2}) for i in range(20)]
+    with patch.object(service, '_fetch_current_weather', return_value=current), patch.object(service, '_fetch_forecast', return_value={'list': periods}):
+        result = service.get_weather_data(0, 0, 'Test')
+    assert len(result['forecast']) == 16
+    assert result['current_conditions']['is_day'] is True
+    assert result['current_conditions']['rain_1h_mm'] is None
+    assert result['forecast'][0]['precipitation_probability'] == .4
+    assert result['forecast'][0]['rain_3h_mm'] == 1.2
+    assert result['forecast'][0]['wind_speed_kmh'] == 18
+    assert result['forecast'][0]['wind_gust_kmh'] == 28.8
+    optional = service._format_forecast([{'dt': 1800000000, 'main': {'temp': 20}, 'weather': [{'description': 'clear sky'}]}])[0]
+    assert optional['windSpeed'] is None
+    assert optional['precipitation_probability'] is None
+    assert optional['feels_like_c'] is None
+
+
+def test_null_and_malformed_optional_fields_keep_forecast_period():
+    service = WeatherService('fake', enable_cache=False)
+    base = {'dt': 1800000000, 'main': {'temp': 20}, 'weather': [{'description': 'clear sky'}]}
+    optional = dict(base, wind=None, clouds=None, rain=None, snow=None, pop=None)
+    result = service._format_forecast([optional])[0]
+    assert result['windSpeed'] is None
+    assert result['rain_mm'] is None
+    malformed = dict(base, wind={'speed': 'unknown', 'gust': float('nan')}, clouds={'all': 200}, pop=2)
+    result = service._format_forecast([malformed])[0]
+    assert result['windSpeed'] is None
+    assert result['wind_gust_kmh'] is None
+    assert result['cloud_cover_pct'] is None
+    assert result['precipitation_probability'] is None
+    current = service._format_current(dict(optional, sys=None))
+    assert current['sunrise'] is None
+    assert current['is_day'] is None
+
+
+def test_configured_horizons_have_separate_cached_results(tmp_path):
+    service = WeatherService('fake', enable_cache=True)
+    service.cache = WeatherCache(cache_dir=tmp_path)
+    current = {'dt': 1800000000, 'main': {'temp': 22}, 'weather': [{'description': 'clear sky'}]}
+    periods = [dict(current, dt=1800000000 + i * 10800) for i in range(20)]
+    with patch.object(service, '_fetch_current_weather', return_value=current) as fetch, patch.object(
+            service, '_fetch_forecast', return_value={'list': periods}):
+        day = service.get_weather_data(0, 0, 'Test', forecast_hours=24)
+        two_days = service.get_weather_data(0, 0, 'Test', forecast_hours=48)
+        cached_day = service.get_weather_data(0, 0, 'Test', forecast_hours=24)
+        assert len(day['forecast']) == 8
+        assert len(two_days['forecast']) == 16
+        assert cached_day == day
+        assert fetch.call_count == 2
+
+
+def test_service_rejects_unsupported_forecast_horizon():
+    import pytest
+    service = WeatherService('fake', enable_cache=False)
+    for hours in (0, 2, 49, 3.5, True):
+        with pytest.raises(ValueError, match='forecast_hours'):
+            service.get_weather_data(0, 0, 'Test', forecast_hours=hours)

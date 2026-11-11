@@ -1,5 +1,5 @@
 import requests
-import json
+import math
 import logging
 from datetime import datetime, timezone as tz
 from typing import Dict, List, Optional, Any
@@ -23,7 +23,7 @@ class WeatherService:
         self.rate_limiter: RateLimiter = RateLimiter(calls_per_minute=60)  # OpenWeather free tier limit
 
     @log_performance
-    def get_weather_data(self, latitude: float, longitude: float, location_name: str) -> Dict[str, Any]:
+    def get_weather_data(self, latitude: float, longitude: float, location_name: str, forecast_hours: int = 48) -> Dict[str, Any]:
         """
         Fetches weather data from OpenWeather API for a specific latitude/longitude
         
@@ -31,12 +31,15 @@ class WeatherService:
             latitude (float): Latitude coordinate
             longitude (float): Longitude coordinate
             location_name (str): Custom location name
+            forecast_hours (int): 3–48 hours, rounded up to three-hour periods
             
         Returns:
             dict: Dictionary containing weather data and forecast
         """
         # Check cache first
-        cache_key = create_cache_key(latitude, longitude)
+        if not isinstance(forecast_hours, int) or isinstance(forecast_hours, bool) or not 3 <= forecast_hours <= 48:
+            raise ValueError('forecast_hours must be an integer between 3 and 48')
+        cache_key = f'v2_{forecast_hours}h_' + create_cache_key(latitude, longitude)
         if self.cache:
             cached_data = self.cache.get(cache_key)
             if cached_data:
@@ -57,20 +60,16 @@ class WeatherService:
             weather_data = {
                 'location': {
                     'name': location_name,
-                    'country': current_data['sys']['country'],
+                    'country': self._optional_object(current_data, 'sys').get('country'),
                     'latitude': latitude,
                     'longitude': longitude
                 },
-                'current_conditions': {
-                    'timestamp': datetime.fromtimestamp(current_data['dt'], tz.utc).isoformat(),
-                    'temperature_c': current_data['main']['temp'],
-                    'temperature_f': self._celsius_to_fahrenheit(current_data['main']['temp']),
-                    'humidity': current_data['main']['humidity'],
-                    'wind_speed_mph': self._ms_to_mph(current_data['wind']['speed']),
-                    'wind_direction': current_data['wind']['deg'],
-                    'description': current_data['weather'][0]['description']
-                },
-                'forecast': self._format_forecast(forecast_data['list'][:2])  # Next 6 hours of forecast
+                'current_conditions': self._format_current(current_data),
+                # Round up to the provider's three-hour resolution.
+                'forecast': self._format_forecast(forecast_data['list'][:math.ceil(forecast_hours / 3)]),
+                'source': 'OpenWeather',
+                'retrieved_at': datetime.now(tz.utc).isoformat()
+
             }
             
             # Cache the successful response
@@ -83,7 +82,7 @@ class WeatherService:
         except requests.exceptions.RequestException as e:
             logger.error(f"Error fetching weather data: {e}")
             raise APIError(f"Failed to fetch weather data: {e}") from e
-        except (KeyError, IndexError, json.JSONDecodeError) as e:
+        except (KeyError, IndexError, TypeError, ValueError) as e:
             logger.error(f"Error parsing weather data: {e}")
             raise APIError(f"Failed to parse weather data: {e}") from e
     
@@ -111,23 +110,79 @@ class WeatherService:
         """Convert meters per second to miles per hour"""
         return None if meters_per_second is None else meters_per_second * 2.237
 
+    @staticmethod
+    def _optional_object(data, key):
+        value = data.get(key)
+        return value if isinstance(value, dict) else {}
+
+    @staticmethod
+    def _optional_number(value, minimum=None, maximum=None):
+        if isinstance(value, bool) or not isinstance(value, (int, float)) or not math.isfinite(value):
+            return None
+        if minimum is not None and value < minimum:
+            return None
+        if maximum is not None and value > maximum:
+            return None
+        return value
+
+    def _measurements(self, data, hours):
+        main = self._optional_object(data, 'main')
+        wind = self._optional_object(data, 'wind')
+        speed = self._optional_number(wind.get('speed'), 0)
+        gust = self._optional_number(wind.get('gust'), 0)
+        pop = self._optional_number(data.get('pop'), 0, 1)
+        return {
+            'feels_like_c': self._optional_number(main.get('feels_like')),
+            'humidity': self._optional_number(main.get('humidity'), 0, 100),
+            'cloud_cover_pct': self._optional_number(self._optional_object(data, 'clouds').get('all'), 0, 100),
+            'wind_speed_kmh': speed * 3.6 if speed is not None else None,
+            'wind_gust_kmh': gust * 3.6 if gust is not None else None,
+            'wind_gust_mph': self._ms_to_mph(gust),
+            'precipitation_probability': pop,
+            'precipitation_probability_pct': pop * 100 if pop is not None else None,
+            'rain_mm': self._optional_number(self._optional_object(data, 'rain').get(f'{hours}h'), 0),
+            'snow_mm': self._optional_number(self._optional_object(data, 'snow').get(f'{hours}h'), 0),
+            f'rain_{hours}h_mm': self._optional_number(self._optional_object(data, 'rain').get(f'{hours}h'), 0),
+            f'snow_{hours}h_mm': self._optional_number(self._optional_object(data, 'snow').get(f'{hours}h'), 0),
+        }
+
+    def _format_current(self, data):
+        sunrise = self._optional_number(self._optional_object(data, 'sys').get('sunrise'), 0, 253402300799)
+        sunset = self._optional_number(self._optional_object(data, 'sys').get('sunset'), 0, 253402300799)
+        return {
+            **self._measurements(data, 1),
+            'timestamp': datetime.fromtimestamp(data['dt'], tz.utc).isoformat(),
+            'temperature_c': data['main']['temp'],
+            'temperature_f': self._celsius_to_fahrenheit(data['main']['temp']),
+            'wind_speed_mph': self._ms_to_mph(self._optional_number(self._optional_object(data, 'wind').get('speed'), 0)),
+            'wind_direction': self._optional_number(self._optional_object(data, 'wind').get('deg'), 0, 360),
+            'description': data['weather'][0]['description'],
+            'sunrise': datetime.fromtimestamp(sunrise, tz.utc).isoformat() if sunrise else None,
+            'sunset': datetime.fromtimestamp(sunset, tz.utc).isoformat() if sunset else None,
+            'is_day': sunrise <= data['dt'] < sunset if sunrise and sunset else None,
+        }
+
     def _format_forecast(self, forecast_periods: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-        """Format the forecast data from OpenWeather API"""
-        formatted_periods: List[Dict[str, Any]] = []
+        """Keep optional measurements unknown; do not turn absent rain into zero."""
+        periods = []
         for period in forecast_periods:
             try:
-                formatted_periods.append({
+                if not isinstance(period, dict):
+                    raise ValueError('Forecast period is not an object')
+                periods.append({
+                    **self._measurements(period, 3),
                     'startTime': datetime.fromtimestamp(period['dt'], tz.utc).isoformat(),
                     'temperature': period['main']['temp'],
-                    'windSpeed': self._ms_to_mph(period['wind']['speed']),
-                    'windDirection': period['wind']['deg'],
-                    'shortForecast': period['weather'][0]['description']
+                    'windSpeed': self._ms_to_mph(self._optional_number(self._optional_object(period, 'wind').get('speed'), 0)),
+                    'windDirection': self._optional_number(self._optional_object(period, 'wind').get('deg'), 0, 360),
+                    'shortForecast': period['weather'][0]['description'],
                 })
-            except (KeyError, IndexError) as e:
-                logger.warning(f"Skipping malformed forecast period: {e}")
-                continue
-        return formatted_periods
-    
+            except (KeyError, IndexError, TypeError, ValueError) as error:
+                logger.warning('Skipping malformed forecast period: %s', error)
+        if not periods:
+            raise APIError('No usable forecast periods received')
+        return periods
+
     def cleanup_cache(self) -> None:
         """Clean up expired cache entries"""
         if self.cache:

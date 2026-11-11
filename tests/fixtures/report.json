@@ -1,0 +1,32 @@
+{
+  "preview": true,
+  "schema_version": 2,
+  "generated_at": "2026-11-11T08:20:00+00:00",
+  "observed_at": "2026-11-11T08:18:00+00:00",
+  "timestamp": "2026-11-11T16:20:00+08:00",
+  "location": {"name": "Subiaco", "timezone": "Australia/Perth"},
+  "color_code": "#B9CDB3",
+  "image": {"status": "ready", "generated_at": "2026-11-11T08:20:00+00:00"},
+  "report": {
+    "headline": "A little warmth left in the day.",
+    "summary": "Clear skies and a warm breeze leave the afternoon feeling open and unhurried. There is still time for the long way home.",
+    "outlook": "A few clouds drift in this evening as the air eases into the low twenties. Tomorrow begins mild, with a small chance of rain later in the morning.",
+    "clothing": "A light shirt now, with a thin layer for the cooler hours after dark.",
+    "activity": "Finish the day's errands on foot, or take your book outside for a while."
+  },
+  "weather_report": "Clear skies and a warm breeze leave the afternoon feeling open and unhurried.",
+  "forecast_data": {
+    "location": {"name": "Subiaco", "country": "AU"},
+    "current_conditions": {"timestamp": "2026-11-11T08:18:00+00:00", "temperature_c": 27, "feels_like_c": 26, "description": "clear sky", "humidity": 42, "wind_speed_kmh": 20},
+    "forecast": [
+      {"startTime":"2026-11-11T09:00:00+00:00","temperature":27,"shortForecast":"clear sky","precipitation_probability":0},
+      {"startTime":"2026-11-11T12:00:00+00:00","temperature":25,"shortForecast":"few clouds","precipitation_probability":0},
+      {"startTime":"2026-11-11T15:00:00+00:00","temperature":22,"shortForecast":"few clouds","precipitation_probability":0.05},
+      {"startTime":"2026-11-11T18:00:00+00:00","temperature":20,"shortForecast":"broken clouds","precipitation_probability":0.1},
+      {"startTime":"2026-11-11T21:00:00+00:00","temperature":19,"shortForecast":"overcast","precipitation_probability":0.15},
+      {"startTime":"2026-11-12T00:00:00+00:00","temperature":21,"shortForecast":"light rain","precipitation_probability":0.35},
+      {"startTime":"2026-11-12T03:00:00+00:00","temperature":24,"shortForecast":"few clouds","precipitation_probability":0.15},
+      {"startTime":"2026-11-12T06:00:00+00:00","temperature":26,"shortForecast":"clear sky","precipitation_probability":0.05}
+    ]
+  }
+}

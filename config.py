@@ -61,13 +61,13 @@ class WeatherBotConfig:
     openai_api_key: str
     gemini_api_key: Optional[str] = None
     log_level: str = 'INFO'
-    forecast_hours: int = 6
+    forecast_hours: int = 48
     max_report_words: int = 300
     
     def __post_init__(self) -> None:
         """Validate configuration after initialization"""
-        if self.forecast_hours < 3 or self.forecast_hours > 24:
-            raise ConfigurationError(f"forecast_hours must be between 3 and 24, got {self.forecast_hours}")
+        if self.forecast_hours < 3 or self.forecast_hours > 48:
+            raise ConfigurationError(f"forecast_hours must be between 3 and 48, got {self.forecast_hours}")
         if self.max_report_words < 100 or self.max_report_words > 1000:
             raise ConfigurationError(f"max_report_words must be between 100 and 1000, got {self.max_report_words}")
         if self.log_level not in ['DEBUG', 'INFO', 'WARNING', 'ERROR', 'CRITICAL']:
@@ -199,7 +199,7 @@ def load_config() -> WeatherBotConfig:
     
     # Load optional configuration settings
     log_level: str = os.getenv('LOG_LEVEL', 'INFO')
-    forecast_hours: int = int(os.getenv('FORECAST_HOURS', '6'))
+    forecast_hours: int = int(os.getenv('FORECAST_HOURS', '48'))
     max_report_words: int = int(os.getenv('MAX_REPORT_WORDS', '300'))
 
     return WeatherBotConfig(
