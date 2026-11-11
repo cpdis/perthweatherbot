@@ -20,6 +20,8 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+REPORT_MODEL = "gpt-6-luna"
+
 
 def main() -> None:
     """Main function to generate weather report"""
@@ -40,8 +42,8 @@ def main() -> None:
         weather_data: Dict[str, Any] = weather.get_weather_data(location.latitude, location.longitude, location.name)
         
         # Generate weather report using AI
-        logger.info("Generating AI weather report")
-        model = llm.get_model("gpt-5")
+        logger.info("Generating AI weather report with %s", REPORT_MODEL)
+        model = llm.get_model(REPORT_MODEL)
         
         # Build comprehensive forecast prompt
         forecasts: str = f"Below is the weather forecast for {location.name}: \n"

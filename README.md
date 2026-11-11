@@ -5,7 +5,7 @@ A natural language weather forecast generator that creates beautifully written w
 ## Features
 
 - Fetches real-time weather data from OpenWeather API
-- Generates narrative weather reports using GPT
+- Generates narrative weather reports using GPT-6 Luna (`gpt-6-luna`)
 - Creates AI-generated weather scene images using Gemini
 - Auto-detects timezone from coordinates
 - Supports dynamic location updates (via mobile automation)
@@ -13,7 +13,7 @@ A natural language weather forecast generator that creates beautifully written w
 
 ## Prerequisites
 
-- Python 3.9+
+- Python 3.11+ (GitHub Actions and Docker use 3.12)
 - OpenWeather API key
 - OpenAI API key
 - Gemini API key (optional, for image generation)
