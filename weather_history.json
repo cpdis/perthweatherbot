@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-11-04 03:56:22",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.95037093333334,
-      "longitude": 115.8165519666667,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-11-03T19:47:21+00:00",
-      "temperature_c": 13.86,
-      "temperature_f": 56.948,
-      "humidity": 72,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 100,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco rests in the small hours beneath a cloudless dome, the air cool and faintly sweet, the stree...",
-    "color_code": "#0A1F44"
-  },
-  {
     "timestamp": "2026-11-04 12:39:13",
     "location": {
       "name": "Subiaco",
@@ -278,5 +258,25 @@
     },
     "report_summary": "Before dawn in Subiaco the air is still and honest, the sky a polished pane with the last stars thin...",
     "color_code": "#1E3A5F"
+  },
+  {
+    "timestamp": "2026-11-11 12:28:56",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94969642342382,
+      "longitude": 115.8206334772941,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "timestamp": "2026-11-11T04:28:56+00:00",
+      "temperature_c": 27.12,
+      "temperature_f": 80.816,
+      "humidity": 34,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 100,
+      "description": "clear sky"
+    },
+    "report_summary": "Subiaco moves through early afternoon under a bright, open sky, the sun assertive and the air clear,...",
+    "color_code": "#87CEEB"
   }
 ]
