@@ -185,16 +185,19 @@
     function loadScene(data, id) {
         const image = $('weather-image');
         const meta = data.image;
+        const caption = $('scene-caption');
+        caption.hidden = true;
+        caption.textContent = '';
         if (meta?.status === 'unavailable') {
             image.classList.remove('is-loaded');
             sceneSource = '';
             image.hidden = true;
-            $('scene-caption').textContent = 'The scene is unavailable. The weather report is still here.';
+            caption.hidden = false;
+            caption.textContent = 'The scene is unavailable. The weather report is still here.';
             return;
         }
         const stamp = meta?.generated_at || data.generated_at || data.timestamp || observedAt(data) || '';
         const source = `weather_image.png?v=${encodeURIComponent(stamp)}`;
-        $('scene-caption').textContent = meta?.status === 'previous' ? `AI-generated scene · earlier report${parseInstant(meta.generated_at) ? ' · ' + localTime(meta.generated_at, data.location?.timezone, {day: 'numeric', month: 'short', hour: 'numeric', minute: '2-digit'}) : ', date unknown'}` : meta?.status === 'ready' ? 'AI-generated scene · an impression, not a live view' : 'AI-generated scene · legacy artwork, date unverified';
         if (source === sceneSource) return;
         const pending = new Image();
         const timeout = setTimeout(() => pending.onerror?.(), 15000);
@@ -213,7 +216,8 @@
             image.classList.remove('is-loaded');
             sceneSource = '';
             image.hidden = true;
-            $('scene-caption').textContent = 'The scene could not load. The weather report is still here.';
+            caption.hidden = false;
+            caption.textContent = 'The scene could not load. The weather report is still here.';
         };
         pending.src = source;
     }
@@ -241,7 +245,7 @@
             if (/^#(?:[0-9a-f]{3}|[0-9a-f]{6})$/i.test(data.color_code || '')) root.style.setProperty('--weather-color', data.color_code);
             else root.style.removeProperty('--weather-color');
             $('local-date').textContent = localTime(observedAt(data) || data.generated_at, data.location?.timezone, { weekday: 'long', day: 'numeric', month: 'long' });
-            $('timestamp').textContent = `Report generated ${generatedLabel(data)}. Updated on a schedule, not live.`;
+            $('timestamp').textContent = `Report generated ${generatedLabel(data)}.`;
             updateFreshness();
             renderConditions(data);
             renderNarrative(data);

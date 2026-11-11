@@ -43,7 +43,7 @@ main, .site-header { width: min(100% - 2rem, 960px); margin-inline: auto; }
 .controls { display: flex; gap: .4rem; }
 .controls button { display: flex; align-items: center; justify-content: center; gap: .5rem; background: transparent; border-color: transparent; font-size: .75rem; }
 .controls button:hover { border-color: var(--line); }
-.controls svg { width: 18px; height: 18px; }
+.controls svg { display: block; flex: 0 0 18px; width: 18px; height: 18px; }
 .weather-stage { padding: 1.5rem 0 2rem; border-top: 3px solid var(--weather-color, var(--line)); }
 .reading-panel { padding: 0; }
 .place-line { display: flex; flex-direction: column; gap: .6rem; }

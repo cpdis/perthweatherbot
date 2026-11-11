@@ -45,7 +45,20 @@ const output = process.env.SCREENSHOT_DIR;
             assert.deepEqual(layout, {aboveReport:true,inFlow:true,uncropped:true,still:true,bounded:true});
             assert.equal(await target.locator('#motion-toggle, #scene-toggle, #return-button, .scene').count(),0);
         }
+        async function assertCleanControls(target) {
+            assert.equal(await target.locator('#scene-caption').isVisible(),false);
+            assert.doesNotMatch(await target.locator('body').innerText(), /AI-generated scene ·|Updated on a schedule, not live/);
+            assert.match(await target.locator('#timestamp').textContent(), /^Report generated /);
+            const icon = await target.locator('#refresh-button svg').evaluate(svg => {
+                const box = svg.getBBox();
+                return {width:svg.getBoundingClientRect().width,height:svg.getBoundingClientRect().height,
+                    unclipped:box.x >= 1 && box.y >= 1 && box.x + box.width <= 23 && box.y + box.height <= 23,
+                    rounded:svg.getAttribute('stroke-linecap') === 'round' && svg.getAttribute('stroke-linejoin') === 'round'};
+            });
+            assert.deepEqual(icon,{width:18,height:18,unclipped:true,rounded:true});
+        }
         await assertTopImage(page);
+        await assertCleanControls(page);
         if (output) { fs.mkdirSync(output, {recursive:true}); await page.screenshot({ path:path.join(output,'desktop.png'), fullPage:true }); }
         await page.locator('#theme-toggle').click();
         assert.equal(await page.locator('html').getAttribute('data-theme'), 'dark');
@@ -92,6 +105,7 @@ const output = process.env.SCREENSHOT_DIR;
         await phone.goto(url);
         await phone.locator('#weather-image.is-loaded').waitFor();
         await assertTopImage(phone);
+        await assertCleanControls(phone);
         assert.equal(await phone.evaluate(() => document.documentElement.scrollWidth <= innerWidth),true);
         if(output) await phone.screenshot({path:path.join(output,'mobile.png'),fullPage:true});
         // A square legacy image also stays fully visible, rather than becoming a backdrop.
@@ -118,6 +132,7 @@ const output = process.env.SCREENSHOT_DIR;
         await recover.waitForFunction(() => document.getElementById('scene-caption').textContent.includes('could not load'));
         assert.equal(await recover.locator('#weather-report h2').textContent(), fixture.report.headline);
         assert.match(await recover.locator('#history-list').textContent(), /could not load/);
+        assert.equal(await recover.locator('#scene-caption').isVisible(),true);
 
         // Legacy naive generation time stays in the location's timezone.
         const legacy = structuredClone(fixture);
@@ -131,6 +146,7 @@ const output = process.env.SCREENSHOT_DIR;
         await page.waitForFunction(() => document.getElementById('weather-report').textContent.includes('A calm afternoon.'));
         assert.equal(await page.locator('#weather-report p').count(),2);
         assert.match(await page.locator('#timestamp').textContent(), /4:20 pm.*Perth time/);
+        await assertCleanControls(page);
         await page.unroute('**/weather_report.json?*');
 
         // A newer keyboard refresh wins over an interrupted slow response.
@@ -156,7 +172,7 @@ const output = process.env.SCREENSHOT_DIR;
         await privatePage.locator('#weather-report h2').waitFor();
         assert.equal(await privatePage.locator('#location-title').textContent(),'Subiaco');
         assert.deepEqual(errors,[]);
-        console.log('PASS: uncropped top images (panoramic and square), desktop/mobile, dark theme, no animation, theme persistence, history, refresh/retry, stale/missing data, XSS, long copy, unavailable image/history, disabled storage.');
+        console.log('PASS: clean labels and reload icon, uncropped top images (panoramic and square), desktop/mobile, dark theme, no animation, theme persistence, history, refresh/retry, stale/missing data, XSS, long copy, unavailable image/history, disabled storage.');
     } finally {
         await browser?.close();
         await new Promise(resolve => server.close(resolve));
