@@ -7,7 +7,7 @@ import llm
 import pytest
 
 import weatherbot
-from config import LocationConfig, WeatherBotConfig
+from config import LocationConfig, WeatherBotConfig, load_location_config
 
 
 @pytest.fixture
@@ -69,6 +69,36 @@ def test_luna_report_generation(report_setup):
     assert result["image"]["status"] == "unavailable"
     history.add_entry.assert_called_once_with(result)
     image.assert_not_called()
+
+
+def test_blank_location_and_invalid_color_publish_safe_report(report_setup, monkeypatch):
+    """Both cosmetic fallbacks work together without changing weather coordinates."""
+    output_dir, weather_data, _, client, _, history, _ = report_setup
+    monkeypatch.setattr('config.__file__', str(output_dir / 'config.py'))
+    (output_dir / 'location.json').write_text(json.dumps({
+        'location_name': '', 'latitude': -32.0, 'longitude': 116.0,
+        'timezone': 'Australia/Perth',
+    }))
+    location = load_location_config()
+    weatherbot.load_config.return_value.current_location = location
+    weatherbot.load_config.return_value.locations = [location]
+    client.responses.create.return_value = iter([
+        SimpleNamespace(type='response.output_text.delta',
+                        delta=structured_response(color_code='not-a-color')),
+    ])
+    weatherbot.main()
+    result = json.loads((output_dir / 'weather_report.json').read_text())
+    assert result['location'] == {
+        'name': 'Current location', 'latitude': -32.0, 'longitude': 116.0,
+        'timezone': 'Australia/Perth',
+    }
+    assert result['color_code'] == '#426350'
+    assert result['forecast_data'] == weather_data
+    weatherbot.WeatherService.return_value.get_weather_data.assert_called_once_with(
+        -32.0, 116.0, 'Current location', forecast_hours=48)
+    client.responses.create.assert_called_once()
+    assert 'Current location' in json.dumps(client.responses.create.call_args.kwargs['input'])
+    history.add_entry.assert_called_once_with(result)
 
 
 @pytest.mark.parametrize("payload", ["not json", "{}",

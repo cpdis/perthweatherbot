@@ -57,6 +57,8 @@ The timezone is automatically detected from coordinates using `timezonefinder`.
 
 The location can be updated automatically via mobile automation (e.g., iOS Shortcuts) by pushing changes to `location.json`. This enables the weather report to follow you as you travel.
 
+If the updater supplies a blank location name, the bot uses the neutral label “Current location” while keeping the supplied coordinates and timezone. Coordinates must still pass validation; invalid coordinates and non-string names are rejected.
+
 ## Running Locally
 
 ```bash

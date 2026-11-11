@@ -108,6 +108,14 @@ def load_location_config() -> LocationConfig:
         lat = float(location_data['latitude'])
         lon = float(location_data['longitude'])
 
+        name = location_data.get('location_name', 'Current Location')
+        if not isinstance(name, str):
+            raise ConfigurationError("Location name must be a string")
+        if not name.strip():
+            # Mobile geocoding can omit the label while retaining valid coordinates.
+            # LocationConfig below still validates both coordinates before use.
+            name = 'Current location'
+
         # Auto-detect timezone from coordinates if not provided
         tz = location_data.get('timezone')
         if not tz:
@@ -115,7 +123,7 @@ def load_location_config() -> LocationConfig:
             logger.info(f"Auto-detected timezone: {tz}")
 
         return LocationConfig(
-            name=location_data.get('location_name', 'Current Location'),
+            name=name,
             latitude=lat,
             longitude=lon,
             timezone=tz

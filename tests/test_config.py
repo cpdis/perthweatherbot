@@ -142,3 +142,45 @@ def test_forecast_horizon_upper_bound():
     assert WeatherBotConfig(location, [location], 'test', 'test', forecast_hours=48).forecast_hours == 48
     with pytest.raises(ConfigurationError, match='between 3 and 48'):
         WeatherBotConfig(location, [location], 'test', 'test', forecast_hours=49)
+
+
+def test_blank_location_name_uses_neutral_label():
+    """A missing display label must not discard valid location coordinates."""
+    for name in ('', '   ', '\t\n'):
+        data = {'latitude': -32.0, 'longitude': 116.0,
+                'location_name': name, 'timezone': 'Australia/Perth'}
+        with patch('builtins.open', mock_open(read_data=json.dumps(data))):
+            location = load_location_config()
+        assert location.name == 'Current location'
+        assert location.latitude == -32.0
+        assert location.longitude == 116.0
+        assert location.timezone == 'Australia/Perth'
+
+
+def test_blank_location_name_still_requires_valid_coordinates():
+    import pytest
+    invalid_coordinates = [
+        {'latitude': -91, 'longitude': 116},
+        {'latitude': 0, 'longitude': 181},
+        {'latitude': float('nan'), 'longitude': 116},
+        {'latitude': 0, 'longitude': float('inf')},
+        {'latitude': None, 'longitude': 116},
+        {'latitude': 'unknown', 'longitude': 116},
+        {'latitude': 0},
+        {'longitude': 116},
+    ]
+    for coordinates in invalid_coordinates:
+        data = dict(coordinates, location_name='', timezone='Australia/Perth')
+        with patch('builtins.open', mock_open(read_data=json.dumps(data))):
+            with pytest.raises(ConfigurationError):
+                load_location_config()
+
+
+def test_non_string_location_name_is_rejected():
+    import pytest
+    for name in (None, 0, False, [], {}):
+        data = {'latitude': -32.0, 'longitude': 116.0,
+                'location_name': name, 'timezone': 'Australia/Perth'}
+        with patch('builtins.open', mock_open(read_data=json.dumps(data))):
+            with pytest.raises(ConfigurationError, match='Location name must be a string'):
+                load_location_config()
