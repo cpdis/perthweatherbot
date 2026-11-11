@@ -12,7 +12,9 @@ const output = process.env.SCREENSHOT_DIR;
     await new Promise(resolve => server.listen(0, '127.0.0.1', resolve));
     let browser;
     try {
-        browser = await chromium.launch({ headless: true, chromiumSandbox: true });
+        // CI uses the runner's packaged Chrome, whose AppArmor profile permits its sandbox.
+        // Local checks keep using Playwright Chromium unless a channel is selected.
+        browser = await chromium.launch({ headless: true, chromiumSandbox: true, channel: process.env.PLAYWRIGHT_CHANNEL || undefined });
         const url = `http://127.0.0.1:${server.address().port}`;
         const context = await browser.newContext({ viewport: { width: 1440, height: 1050 }, timezoneId: 'America/Chicago' });
         const page = await context.newPage();

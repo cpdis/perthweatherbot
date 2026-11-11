@@ -71,8 +71,12 @@ jobs:
         cache: npm
     - run: npm ci
     - run: npm test
-    - run: npx playwright install --with-deps chromium
+    # Packaged Chrome has an AppArmor profile on newer Ubuntu runners.
+    # Keep Chromium sandboxing enabled without changing host security settings.
+    - run: google-chrome --version
     - run: npm run test:ui
+      env:
+        PLAYWRIGHT_CHANNEL: chrome
 
   docker-build:
     runs-on: ubuntu-latest
