@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-11-05 12:54:07",
-    "location": {
-      "name": "Perth",
-      "latitude": -31.95409932330746,
-      "longitude": 115.8525232564927,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-11-05T04:54:06+00:00",
-      "temperature_c": 29.81,
-      "temperature_f": 85.65799999999999,
-      "humidity": 41,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 200,
-      "description": "clear sky"
-    },
-    "report_summary": "Perth leans into early afternoon under a wide, honest blue, the kind of light that sharpens edges an...",
-    "color_code": "#87CEEB"
-  },
-  {
     "timestamp": "2026-11-06 04:27:22",
     "location": {
       "name": "Subiaco",
@@ -295,5 +275,42 @@
     },
     "report_summary": "Subiaco is clear this morning, with a temperature of 19°C and light winds. It feels close to 19°C.",
     "color_code": "#E9B95B"
+  },
+  {
+    "timestamp": "2026-11-12T05:33:42.919567+00:00",
+    "generated_at": "2026-11-12T05:33:42.919567+00:00",
+    "observed_at": "2026-11-12T05:33:34+00:00",
+    "headline": "Clear afternoon, easing breeze",
+    "location": {
+      "name": "Perth",
+      "latitude": -31.95281824825509,
+      "longitude": 115.8534945845252,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "feels_like_c": 25.72,
+      "humidity": 45,
+      "cloud_cover_pct": 0,
+      "wind_speed_kmh": 27.791999999999998,
+      "wind_gust_kmh": null,
+      "wind_gust_mph": null,
+      "precipitation_probability": null,
+      "precipitation_probability_pct": null,
+      "rain_mm": null,
+      "snow_mm": null,
+      "rain_1h_mm": null,
+      "snow_1h_mm": null,
+      "timestamp": "2026-11-12T05:33:34+00:00",
+      "temperature_c": 25.9,
+      "temperature_f": 78.62,
+      "wind_speed_mph": 17.26964,
+      "wind_direction": 250,
+      "description": "clear sky",
+      "sunrise": "2026-11-11T21:10:57+00:00",
+      "sunset": "2026-11-12T10:50:32+00:00",
+      "is_day": true
+    },
+    "report_summary": "Perth is clear and 25.9°C, with a brisk westerly wind around 28 km/h. It feels close to 26°C.",
+    "color_code": "#E9B968"
   }
 ]
