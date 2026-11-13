@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2026-11-06 12:53:29",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94966660005583,
-      "longitude": 115.8208016988637,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-11-06T04:47:42+00:00",
-      "temperature_c": 27.12,
-      "temperature_f": 80.816,
-      "humidity": 37,
-      "wind_speed_mph": 13.802290000000001,
-      "wind_direction": 100,
-      "description": "clear sky"
-    },
-    "report_summary": "Early afternoon in Subiaco arrives glass-clear and sun-forward, the kind of bright that sharpens edg...",
-    "color_code": "#87CEEB"
-  },
-  {
-    "timestamp": "2026-11-07 03:49:21",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969856633349,
-      "longitude": 115.8206446516674,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-11-06T19:49:20+00:00",
-      "temperature_c": 16.31,
-      "temperature_f": 61.358,
-      "humidity": 71,
-      "wind_speed_mph": 12.661420000000001,
-      "wind_direction": 110,
-      "description": "clear sky"
-    },
-    "report_summary": "Subiaco wakes under a clean, star-washed sky; the small hours are cool and still, with a hint of pal...",
-    "color_code": "#0B1D3A"
-  },
-  {
     "timestamp": "2026-11-07 12:25:27",
     "location": {
       "name": "Subiaco",
@@ -366,5 +326,42 @@
     },
     "report_summary": "Subiaco is clear and 26°C, with a west-southwest wind around 24 km/h. The air feels warm, though the breeze is lively.",
     "color_code": "#D7E6EE"
+  },
+  {
+    "timestamp": "2026-11-13T20:16:43.410269+00:00",
+    "generated_at": "2026-11-13T20:16:43.410269+00:00",
+    "observed_at": "2026-11-13T20:16:29+00:00",
+    "headline": "Clouded dawn",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94970089329145,
+      "longitude": 115.8206260568478,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "feels_like_c": 16.68,
+      "humidity": 61,
+      "cloud_cover_pct": 40,
+      "wind_speed_kmh": 24.084000000000003,
+      "wind_gust_kmh": null,
+      "wind_gust_mph": null,
+      "precipitation_probability": null,
+      "precipitation_probability_pct": null,
+      "rain_mm": null,
+      "snow_mm": null,
+      "rain_1h_mm": null,
+      "snow_1h_mm": null,
+      "timestamp": "2026-11-13T20:16:29+00:00",
+      "temperature_c": 17.3,
+      "temperature_f": 63.14,
+      "wind_speed_mph": 14.965530000000001,
+      "wind_direction": 110,
+      "description": "scattered clouds",
+      "sunrise": "2026-11-13T21:09:51+00:00",
+      "sunset": "2026-11-14T10:52:29+00:00",
+      "is_day": false
+    },
+    "report_summary": "Subiaco is at 17.3°C under scattered clouds, with a 24 km/h wind. It feels closer to 16.7°C.",
+    "color_code": "#7896A8"
   }
 ]
