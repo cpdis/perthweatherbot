@@ -329,5 +329,42 @@
     },
     "report_summary": "Subiaco is overcast at 16.5°C, with humidity at 77% and winds around 17 km/h. The predawn air feels cool and still under the cloud cover.",
     "color_code": "#71859A"
+  },
+  {
+    "timestamp": "2026-11-13T04:51:21.535994+00:00",
+    "generated_at": "2026-11-13T04:51:21.535994+00:00",
+    "observed_at": "2026-11-13T04:51:13+00:00",
+    "headline": "Clear light, brisk breeze",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.9496849466783,
+      "longitude": 115.8209028318399,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "feels_like_c": 26,
+      "humidity": 53,
+      "cloud_cover_pct": 0,
+      "wind_speed_kmh": 24.084000000000003,
+      "wind_gust_kmh": null,
+      "wind_gust_mph": null,
+      "precipitation_probability": null,
+      "precipitation_probability_pct": null,
+      "rain_mm": null,
+      "snow_mm": null,
+      "rain_1h_mm": null,
+      "snow_1h_mm": null,
+      "timestamp": "2026-11-13T04:51:13+00:00",
+      "temperature_c": 26,
+      "temperature_f": 78.8,
+      "wind_speed_mph": 14.965530000000001,
+      "wind_direction": 250,
+      "description": "clear sky",
+      "sunrise": "2026-11-12T21:10:27+00:00",
+      "sunset": "2026-11-13T10:51:34+00:00",
+      "is_day": true
+    },
+    "report_summary": "Subiaco is clear and 26°C, with a west-southwest wind around 24 km/h. The air feels warm, though the breeze is lively.",
+    "color_code": "#D7E6EE"
   }
 ]
