@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-11-09 02:11:21",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94967346171305,
-      "longitude": 115.8205060729365,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-11-08T18:11:21+00:00",
-      "temperature_c": 14.13,
-      "temperature_f": 57.434,
-      "humidity": 79,
-      "wind_speed_mph": 9.21644,
-      "wind_direction": 190,
-      "description": "broken clouds"
-    },
-    "report_summary": "Subiaco is quiet at this hour, the streets resting under a thinning scatter of cloud as night edges ...",
-    "color_code": "#0d1b2a"
-  },
-  {
     "timestamp": "2026-11-09 12:23:45",
     "location": {
       "name": "Perth",
@@ -414,5 +394,42 @@
     },
     "report_summary": "Subiaco is clear and about 25°C, with a fairly strong easterly wind around 32 km/h.",
     "color_code": "#8DB7C9"
+  },
+  {
+    "timestamp": "2026-11-15T19:13:26.787729+00:00",
+    "generated_at": "2026-11-15T19:13:26.787729+00:00",
+    "observed_at": "2026-11-15T19:13:17+00:00",
+    "headline": "Clear night, brisk breeze",
+    "location": {
+      "name": "Cottesloe",
+      "latitude": -31.98475121201179,
+      "longitude": 115.7523831517231,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "feels_like_c": 16.84,
+      "humidity": 74,
+      "cloud_cover_pct": 0,
+      "wind_speed_kmh": 25.740000000000002,
+      "wind_gust_kmh": 40.248,
+      "wind_gust_mph": 25.00966,
+      "precipitation_probability": null,
+      "precipitation_probability_pct": null,
+      "rain_mm": null,
+      "snow_mm": null,
+      "rain_1h_mm": null,
+      "snow_1h_mm": null,
+      "timestamp": "2026-11-15T19:13:17+00:00",
+      "temperature_c": 17.14,
+      "temperature_f": 62.852,
+      "wind_speed_mph": 15.994550000000002,
+      "wind_direction": 120,
+      "description": "clear sky",
+      "sunrise": "2026-11-15T21:08:56+00:00",
+      "sunset": "2026-11-16T10:54:39+00:00",
+      "is_day": false
+    },
+    "report_summary": "Cottesloe is clear at 17°C, with humidity at 74%. Winds are around 26 km/h, with gusts near 40 km/h.",
+    "color_code": "#526B80"
   }
 ]
