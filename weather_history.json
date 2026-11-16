@@ -448,5 +448,42 @@
     },
     "report_summary": "Subiaco is clear and about 26°C, with humidity at 43%. Southeasterly winds are around 28 km/h, with gusts near 48 km/h.",
     "color_code": "#78AFC4"
+  },
+  {
+    "timestamp": "2026-11-16T22:42:56.058266+00:00",
+    "generated_at": "2026-11-16T22:42:56.058266+00:00",
+    "observed_at": "2026-11-16T22:42:47+00:00",
+    "headline": "Clear morning, easterly breeze",
+    "location": {
+      "name": "Mount Hawthorn",
+      "latitude": -31.92177129601028,
+      "longitude": 115.8441727652615,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "feels_like_c": 18.84,
+      "humidity": 65,
+      "cloud_cover_pct": 0,
+      "wind_speed_kmh": 18.503999999999998,
+      "wind_gust_kmh": null,
+      "wind_gust_mph": null,
+      "precipitation_probability": null,
+      "precipitation_probability_pct": null,
+      "rain_mm": null,
+      "snow_mm": null,
+      "rain_1h_mm": null,
+      "snow_1h_mm": null,
+      "timestamp": "2026-11-16T22:42:47+00:00",
+      "temperature_c": 19.17,
+      "temperature_f": 66.506,
+      "wind_speed_mph": 11.49818,
+      "wind_direction": 110,
+      "description": "clear sky",
+      "sunrise": "2026-11-16T21:08:10+00:00",
+      "sunset": "2026-11-17T10:55:04+00:00",
+      "is_day": true
+    },
+    "report_summary": "Mount Hawthorn is clear at 19°C, with humidity at 65% and an easterly wind near 19 km/h.",
+    "color_code": "#8DB9C7"
   }
 ]
