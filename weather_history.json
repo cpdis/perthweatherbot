@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "2026-11-10 06:50:55",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94968589206463,
-      "longitude": 115.8207879632214,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "timestamp": "2026-11-09T22:50:55+00:00",
-      "temperature_c": 14.31,
-      "temperature_f": 57.757999999999996,
-      "humidity": 60,
-      "wind_speed_mph": 19.57375,
-      "wind_direction": 100,
-      "description": "clear sky"
-    },
-    "report_summary": "Dawn has rinsed Subiaco in a clean, generous light, the sky already a polished blue with no hint of ...",
-    "color_code": "#9FD3F7"
-  },
-  {
     "timestamp": "2026-11-11 04:10:38",
     "location": {
       "name": "Subiaco",
@@ -485,5 +465,42 @@
     },
     "report_summary": "Mount Hawthorn is clear at 19°C, with humidity at 65% and an easterly wind near 19 km/h.",
     "color_code": "#8DB9C7"
+  },
+  {
+    "timestamp": "2026-11-17T06:18:34.431332+00:00",
+    "generated_at": "2026-11-17T06:18:34.431332+00:00",
+    "observed_at": "2026-11-17T06:18:27+00:00",
+    "headline": "Clear and breezy afternoon",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94482552684268,
+      "longitude": 115.8240849112334,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "feels_like_c": 24.19,
+      "humidity": 49,
+      "cloud_cover_pct": 0,
+      "wind_speed_kmh": 29.628000000000004,
+      "wind_gust_kmh": null,
+      "wind_gust_mph": null,
+      "precipitation_probability": null,
+      "precipitation_probability_pct": null,
+      "rain_mm": null,
+      "snow_mm": null,
+      "rain_1h_mm": null,
+      "snow_1h_mm": null,
+      "timestamp": "2026-11-17T06:18:27+00:00",
+      "temperature_c": 24.41,
+      "temperature_f": 75.938,
+      "wind_speed_mph": 18.410510000000002,
+      "wind_direction": 110,
+      "description": "clear sky",
+      "sunrise": "2026-11-16T21:08:12+00:00",
+      "sunset": "2026-11-17T10:55:12+00:00",
+      "is_day": true
+    },
+    "report_summary": "Subiaco is clear at 24°C, with a brisk wind around 30 km/h. It feels close to 24°C.",
+    "color_code": "#87AFC7"
   }
 ]
