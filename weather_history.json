@@ -1,42 +1,5 @@
 [
   {
-    "timestamp": "2026-11-12T20:37:45.676217+00:00",
-    "generated_at": "2026-11-12T20:37:45.676217+00:00",
-    "observed_at": "2026-11-12T20:37:28+00:00",
-    "headline": "Under a quiet grey sky",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969676713943,
-      "longitude": 115.8207858069809,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "feels_like_c": 16.23,
-      "humidity": 77,
-      "cloud_cover_pct": 93,
-      "wind_speed_kmh": 16.668,
-      "wind_gust_kmh": null,
-      "wind_gust_mph": null,
-      "precipitation_probability": null,
-      "precipitation_probability_pct": null,
-      "rain_mm": null,
-      "snow_mm": null,
-      "rain_1h_mm": null,
-      "snow_1h_mm": null,
-      "timestamp": "2026-11-12T20:37:28+00:00",
-      "temperature_c": 16.51,
-      "temperature_f": 61.718,
-      "wind_speed_mph": 10.35731,
-      "wind_direction": 110,
-      "description": "overcast clouds",
-      "sunrise": "2026-11-12T21:10:27+00:00",
-      "sunset": "2026-11-13T10:51:34+00:00",
-      "is_day": false
-    },
-    "report_summary": "Subiaco is overcast at 16.5°C, with humidity at 77% and winds around 17 km/h. The predawn air feels cool and still under the cloud cover.",
-    "color_code": "#71859A"
-  },
-  {
     "timestamp": "2026-11-13T04:51:21.535994+00:00",
     "generated_at": "2026-11-13T04:51:21.535994+00:00",
     "observed_at": "2026-11-13T04:51:13+00:00",
@@ -516,5 +479,42 @@
     },
     "report_summary": "Perth is 23.9°C with a few clouds and 24 km/h winds from the west-northwest. Humidity is 52%.",
     "color_code": "#9BB9C9"
+  },
+  {
+    "timestamp": "2026-11-19T21:08:54.864577+00:00",
+    "generated_at": "2026-11-19T21:08:54.864577+00:00",
+    "observed_at": "2026-11-19T21:08:44+00:00",
+    "headline": "First light under scattered cloud",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94972796215552,
+      "longitude": 115.8206511358457,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "feels_like_c": 16.13,
+      "humidity": 85,
+      "cloud_cover_pct": 25,
+      "wind_speed_kmh": 13.824,
+      "wind_gust_kmh": 22.068,
+      "wind_gust_mph": 13.712810000000001,
+      "precipitation_probability": null,
+      "precipitation_probability_pct": null,
+      "rain_mm": null,
+      "snow_mm": null,
+      "rain_1h_mm": null,
+      "snow_1h_mm": null,
+      "timestamp": "2026-11-19T21:08:44+00:00",
+      "temperature_c": 16.23,
+      "temperature_f": 61.214,
+      "wind_speed_mph": 8.59008,
+      "wind_direction": 305,
+      "description": "scattered clouds",
+      "sunrise": "2026-11-19T21:06:48+00:00",
+      "sunset": "2026-11-20T10:57:57+00:00",
+      "is_day": true
+    },
+    "report_summary": "Subiaco is 16°C with scattered clouds and a gentle breeze gusting to around 22 km/h. The air feels mild and humid.",
+    "color_code": "#7893A5"
   }
 ]
