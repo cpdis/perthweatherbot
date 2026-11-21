@@ -1,42 +1,5 @@
 [
   {
-    "timestamp": "2026-11-14T18:37:55.859671+00:00",
-    "generated_at": "2026-11-14T18:37:55.859671+00:00",
-    "observed_at": "2026-11-14T18:37:47+00:00",
-    "headline": "Clouds over Subiaco",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94969645010407,
-      "longitude": 115.8206329942124,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "feels_like_c": 16.3,
-      "humidity": 75,
-      "cloud_cover_pct": 40,
-      "wind_speed_kmh": 22.212,
-      "wind_gust_kmh": null,
-      "wind_gust_mph": null,
-      "precipitation_probability": null,
-      "precipitation_probability_pct": null,
-      "rain_mm": null,
-      "snow_mm": null,
-      "rain_1h_mm": null,
-      "snow_1h_mm": null,
-      "timestamp": "2026-11-14T18:37:47+00:00",
-      "temperature_c": 16.62,
-      "temperature_f": 61.916000000000004,
-      "wind_speed_mph": 13.802290000000001,
-      "wind_direction": 120,
-      "description": "scattered clouds",
-      "sunrise": "2026-11-14T21:09:17+00:00",
-      "sunset": "2026-11-15T10:53:23+00:00",
-      "is_day": false
-    },
-    "report_summary": "At 2:37 am, Subiaco has scattered cloud and a temperature of 16.6°C. Winds are around 22 km/h; rain measurements are unavailable for current conditions.",
-    "color_code": "#657B89"
-  },
-  {
     "timestamp": "2026-11-15T04:36:10.399093+00:00",
     "generated_at": "2026-11-15T04:36:10.399093+00:00",
     "observed_at": "2026-11-15T04:36:01+00:00",
@@ -516,5 +479,42 @@
     },
     "report_summary": "Subiaco is 20.6°C under broken clouds, with a westerly wind around 44 km/h. The air feels close to 20°C.",
     "color_code": "#788C98"
+  },
+  {
+    "timestamp": "2026-11-21T19:54:47.887054+00:00",
+    "generated_at": "2026-11-21T19:54:47.887054+00:00",
+    "observed_at": "2026-11-21T19:54:39+00:00",
+    "headline": "Wind under broken cloud",
+    "location": {
+      "name": "Floreat",
+      "latitude": -31.9348016,
+      "longitude": 115.7910030333334,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "feels_like_c": 16.81,
+      "humidity": 70,
+      "cloud_cover_pct": 75,
+      "wind_speed_kmh": 29.628000000000004,
+      "wind_gust_kmh": 48.168000000000006,
+      "wind_gust_mph": 29.931060000000002,
+      "precipitation_probability": null,
+      "precipitation_probability_pct": null,
+      "rain_mm": null,
+      "snow_mm": null,
+      "rain_1h_mm": null,
+      "snow_1h_mm": null,
+      "timestamp": "2026-11-21T19:54:39+00:00",
+      "temperature_c": 17.21,
+      "temperature_f": 62.978,
+      "wind_speed_mph": 18.410510000000002,
+      "wind_direction": 270,
+      "description": "broken clouds",
+      "sunrise": "2026-11-21T21:06:09+00:00",
+      "sunset": "2026-11-22T10:59:52+00:00",
+      "is_day": false
+    },
+    "report_summary": "Floreat is 17°C with broken cloud, and a westerly wind near 30 km/h gusting to 48 km/h. Rain measurements are unavailable for current conditions.",
+    "color_code": "#8799A3"
   }
 ]
