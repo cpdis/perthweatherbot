@@ -1,42 +1,5 @@
 [
   {
-    "timestamp": "2026-11-16T22:42:56.058266+00:00",
-    "generated_at": "2026-11-16T22:42:56.058266+00:00",
-    "observed_at": "2026-11-16T22:42:47+00:00",
-    "headline": "Clear morning, easterly breeze",
-    "location": {
-      "name": "Mount Hawthorn",
-      "latitude": -31.92177129601028,
-      "longitude": 115.8441727652615,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "feels_like_c": 18.84,
-      "humidity": 65,
-      "cloud_cover_pct": 0,
-      "wind_speed_kmh": 18.503999999999998,
-      "wind_gust_kmh": null,
-      "wind_gust_mph": null,
-      "precipitation_probability": null,
-      "precipitation_probability_pct": null,
-      "rain_mm": null,
-      "snow_mm": null,
-      "rain_1h_mm": null,
-      "snow_1h_mm": null,
-      "timestamp": "2026-11-16T22:42:47+00:00",
-      "temperature_c": 19.17,
-      "temperature_f": 66.506,
-      "wind_speed_mph": 11.49818,
-      "wind_direction": 110,
-      "description": "clear sky",
-      "sunrise": "2026-11-16T21:08:10+00:00",
-      "sunset": "2026-11-17T10:55:04+00:00",
-      "is_day": true
-    },
-    "report_summary": "Mount Hawthorn is clear at 19°C, with humidity at 65% and an easterly wind near 19 km/h.",
-    "color_code": "#8DB9C7"
-  },
-  {
     "timestamp": "2026-11-17T06:18:34.431332+00:00",
     "generated_at": "2026-11-17T06:18:34.431332+00:00",
     "observed_at": "2026-11-17T06:18:27+00:00",
@@ -516,5 +479,42 @@
     },
     "report_summary": "Perth is 22°C with a few clouds and a westerly breeze around 20 km/h. It feels close to 22°C.",
     "color_code": "#A9C9D8"
+  },
+  {
+    "timestamp": "2026-11-24T00:33:15.183725+00:00",
+    "generated_at": "2026-11-24T00:33:15.183725+00:00",
+    "observed_at": "2026-11-24T00:33:07+00:00",
+    "headline": "A soft, clouded morning",
+    "location": {
+      "name": "Subiaco",
+      "latitude": -31.94968478487918,
+      "longitude": 115.8208099242159,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "feels_like_c": 18.27,
+      "humidity": 61,
+      "cloud_cover_pct": 75,
+      "wind_speed_kmh": 11.124,
+      "wind_gust_kmh": null,
+      "wind_gust_mph": null,
+      "precipitation_probability": null,
+      "precipitation_probability_pct": null,
+      "rain_mm": null,
+      "snow_mm": null,
+      "rain_1h_mm": null,
+      "snow_1h_mm": null,
+      "timestamp": "2026-11-24T00:33:07+00:00",
+      "temperature_c": 18.75,
+      "temperature_f": 65.75,
+      "wind_speed_mph": 6.91233,
+      "wind_direction": 170,
+      "description": "broken clouds",
+      "sunrise": "2026-11-23T21:05:19+00:00",
+      "sunset": "2026-11-24T11:01:35+00:00",
+      "is_day": true
+    },
+    "report_summary": "Subiaco is 18.8°C with broken clouds and a light southerly breeze. It feels close to 18°C.",
+    "color_code": "#A9B8C4"
   }
 ]
