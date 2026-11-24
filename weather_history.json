@@ -1,79 +1,5 @@
 [
   {
-    "timestamp": "2026-11-17T06:18:34.431332+00:00",
-    "generated_at": "2026-11-17T06:18:34.431332+00:00",
-    "observed_at": "2026-11-17T06:18:27+00:00",
-    "headline": "Clear and breezy afternoon",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94482552684268,
-      "longitude": 115.8240849112334,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "feels_like_c": 24.19,
-      "humidity": 49,
-      "cloud_cover_pct": 0,
-      "wind_speed_kmh": 29.628000000000004,
-      "wind_gust_kmh": null,
-      "wind_gust_mph": null,
-      "precipitation_probability": null,
-      "precipitation_probability_pct": null,
-      "rain_mm": null,
-      "snow_mm": null,
-      "rain_1h_mm": null,
-      "snow_1h_mm": null,
-      "timestamp": "2026-11-17T06:18:27+00:00",
-      "temperature_c": 24.41,
-      "temperature_f": 75.938,
-      "wind_speed_mph": 18.410510000000002,
-      "wind_direction": 110,
-      "description": "clear sky",
-      "sunrise": "2026-11-16T21:08:12+00:00",
-      "sunset": "2026-11-17T10:55:12+00:00",
-      "is_day": true
-    },
-    "report_summary": "Subiaco is clear at 24°C, with a brisk wind around 30 km/h. It feels close to 24°C.",
-    "color_code": "#87AFC7"
-  },
-  {
-    "timestamp": "2026-11-17T21:28:55.805865+00:00",
-    "generated_at": "2026-11-17T21:28:55.805865+00:00",
-    "observed_at": "2026-11-17T21:28:46+00:00",
-    "headline": "A quiet, clouded dawn",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94701581666666,
-      "longitude": 115.8168003666667,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "feels_like_c": 18.02,
-      "humidity": 76,
-      "cloud_cover_pct": 100,
-      "wind_speed_kmh": 12.96,
-      "wind_gust_kmh": null,
-      "wind_gust_mph": null,
-      "precipitation_probability": null,
-      "precipitation_probability_pct": null,
-      "rain_mm": null,
-      "snow_mm": null,
-      "rain_1h_mm": null,
-      "snow_1h_mm": null,
-      "timestamp": "2026-11-17T21:28:46+00:00",
-      "temperature_c": 18.16,
-      "temperature_f": 64.688,
-      "wind_speed_mph": 8.0532,
-      "wind_direction": 160,
-      "description": "overcast clouds",
-      "sunrise": "2026-11-17T21:07:44+00:00",
-      "sunset": "2026-11-18T10:56:09+00:00",
-      "is_day": true
-    },
-    "report_summary": "Subiaco is overcast at 18°C, with a gentle southerly breeze near 13 km/h. It feels close to 18°C.",
-    "color_code": "#8799A3"
-  },
-  {
     "timestamp": "2026-11-18T05:44:24.685953+00:00",
     "generated_at": "2026-11-18T05:44:24.685953+00:00",
     "observed_at": "2026-11-18T05:44:14+00:00",
@@ -516,5 +442,42 @@
     },
     "report_summary": "Subiaco is 18.8°C with broken clouds and a light southerly breeze. It feels close to 18°C.",
     "color_code": "#A9B8C4"
+  },
+  {
+    "timestamp": "2026-11-24T22:53:27.720696+00:00",
+    "generated_at": "2026-11-24T22:53:27.720696+00:00",
+    "observed_at": "2026-11-24T22:53:19+00:00",
+    "headline": "A mild, open morning",
+    "location": {
+      "name": "Wembley",
+      "latitude": -31.93017390555872,
+      "longitude": 115.8141676080093,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "feels_like_c": 15.12,
+      "humidity": 80,
+      "cloud_cover_pct": 20,
+      "wind_speed_kmh": 16.668,
+      "wind_gust_kmh": null,
+      "wind_gust_mph": null,
+      "precipitation_probability": null,
+      "precipitation_probability_pct": null,
+      "rain_mm": null,
+      "snow_mm": null,
+      "rain_1h_mm": null,
+      "snow_1h_mm": null,
+      "timestamp": "2026-11-24T22:53:19+00:00",
+      "temperature_c": 15.43,
+      "temperature_f": 59.774,
+      "wind_speed_mph": 10.35731,
+      "wind_direction": 190,
+      "description": "few clouds",
+      "sunrise": "2026-11-24T21:05:05+00:00",
+      "sunset": "2026-11-25T11:02:28+00:00",
+      "is_day": true
+    },
+    "report_summary": "Wembley is 15°C with a few clouds and a moderate southerly wind around 17 km/h. It feels close to 15°C.",
+    "color_code": "#A9C9D8"
   }
 ]
