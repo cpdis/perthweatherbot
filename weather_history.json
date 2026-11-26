@@ -1,42 +1,5 @@
 [
   {
-    "timestamp": "2026-11-19T21:08:54.864577+00:00",
-    "generated_at": "2026-11-19T21:08:54.864577+00:00",
-    "observed_at": "2026-11-19T21:08:44+00:00",
-    "headline": "First light under scattered cloud",
-    "location": {
-      "name": "Subiaco",
-      "latitude": -31.94972796215552,
-      "longitude": 115.8206511358457,
-      "timezone": "Australia/Perth"
-    },
-    "current_conditions": {
-      "feels_like_c": 16.13,
-      "humidity": 85,
-      "cloud_cover_pct": 25,
-      "wind_speed_kmh": 13.824,
-      "wind_gust_kmh": 22.068,
-      "wind_gust_mph": 13.712810000000001,
-      "precipitation_probability": null,
-      "precipitation_probability_pct": null,
-      "rain_mm": null,
-      "snow_mm": null,
-      "rain_1h_mm": null,
-      "snow_1h_mm": null,
-      "timestamp": "2026-11-19T21:08:44+00:00",
-      "temperature_c": 16.23,
-      "temperature_f": 61.214,
-      "wind_speed_mph": 8.59008,
-      "wind_direction": 305,
-      "description": "scattered clouds",
-      "sunrise": "2026-11-19T21:06:48+00:00",
-      "sunset": "2026-11-20T10:57:57+00:00",
-      "is_day": true
-    },
-    "report_summary": "Subiaco is 16°C with scattered clouds and a gentle breeze gusting to around 22 km/h. The air feels mild and humid.",
-    "color_code": "#7893A5"
-  },
-  {
     "timestamp": "2026-11-20T05:31:22.202039+00:00",
     "generated_at": "2026-11-20T05:31:22.202039+00:00",
     "observed_at": "2026-11-20T05:31:14+00:00",
@@ -479,5 +442,42 @@
     },
     "report_summary": "Perth is clear at 23°C, with humidity at 51%. A southwesterly wind is blowing around 30 km/h.",
     "color_code": "#D9A85F"
+  },
+  {
+    "timestamp": "2026-11-26T22:04:59.583123+00:00",
+    "generated_at": "2026-11-26T22:04:59.583123+00:00",
+    "observed_at": "2026-11-26T22:04:51+00:00",
+    "headline": "Pale dawn, quiet air",
+    "location": {
+      "name": "Cottesloe",
+      "latitude": -31.99601396771822,
+      "longitude": 115.7521420825879,
+      "timezone": "Australia/Perth"
+    },
+    "current_conditions": {
+      "feels_like_c": 14.26,
+      "humidity": 77,
+      "cloud_cover_pct": 0,
+      "wind_speed_kmh": 4.824000000000001,
+      "wind_gust_kmh": 9.648000000000001,
+      "wind_gust_mph": 5.99516,
+      "precipitation_probability": null,
+      "precipitation_probability_pct": null,
+      "rain_mm": null,
+      "snow_mm": null,
+      "rain_1h_mm": null,
+      "snow_1h_mm": null,
+      "timestamp": "2026-11-26T22:04:51+00:00",
+      "temperature_c": 14.72,
+      "temperature_f": 58.496,
+      "wind_speed_mph": 2.99758,
+      "wind_direction": 199,
+      "description": "clear sky",
+      "sunrise": "2026-11-26T21:04:40+00:00",
+      "sunset": "2026-11-27T11:04:38+00:00",
+      "is_day": true
+    },
+    "report_summary": "Cottesloe is clear at 14.7°C, feeling close to 14°C, with a light southerly breeze. The morning is beginning under a cloudless sky.",
+    "color_code": "#B8DCE8"
   }
 ]
